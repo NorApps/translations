@@ -7,7 +7,7 @@
     },
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
-      "value": "Erfolgreiche Querpässe"
+      "value": "Erfolgreiche Querpässe!"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
