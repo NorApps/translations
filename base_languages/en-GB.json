@@ -3,195 +3,97 @@
   "translations": {
     "accessibility_about_us": {
       "comment": "Text on button or link that redirects to the About us page.",
-      "tags": [
-        "web"
-      ],
       "value": "About us"
     },
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
-      "tags": [
-        "web"
-      ],
       "value": "Advertise"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
-      "tags": [
-        "ios",
-        "android",
-        "web"
-      ],
       "value": "Aerial duels won %"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Age confirmation"
     },
     "accessibility_age_confirmation_button_negative": {
       "comment": "Button indicating if user is below the age limit. The placeholder is the age. So it can be \"Below 18\"",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Below %d"
     },
     "accessibility_age_confirmation_button_positive": {
       "comment": "Button indicating if user is above the age limit. The placeholder is the age. So it can be \"18+\" or \"18 and over\"",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "%d and over"
     },
     "accessibility_age_confirmation_subtitle": {
       "comment": "Popup subtext - used when a user needs to verify his age to display betting odds",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "To display odds we need to verify your age"
     },
     "accessibility_all_stats": {
       "comment": "Text shown on a link that lets the user see all the stats.",
-      "tags": [
-        "web"
-      ],
       "value": "All stats"
     },
     "accessibility_app_notifications_off_desc": {
       "comment": "Text appearing when app notifications are off.",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "You have disabled Notifications for FotMob"
     },
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "assist by %@"
     },
     "accessibility_attackers": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Forwards"
     },
     "accessibility_by_date": {
       "comment": "Text shown on toggle that shows matches in a league sorted by date.",
-      "tags": [
-        "web"
-      ],
       "value": "By date"
     },
     "accessibility_by_round": {
       "comment": "Text shown on toggle that shows matches in a league or tournament sorted by round.",
-      "tags": [
-        "web"
-      ],
       "value": "By round"
     },
     "accessibility_career_stats": {
       "comment": "Text shown on tab header for tab that shows the career stats for a player.",
-      "tags": [
-        "web"
-      ],
       "value": "Career stats"
     },
     "accessibility_careers": {
       "comment": "Text on button or link that redirects to the About us page with information about career opportunities.",
-      "tags": [
-        "web"
-      ],
       "value": "Careers"
     },
     "accessibility_city": {
       "comment": "Text shown for venue on a match if do not have a link to it.",
-      "tags": [
-        "web"
-      ],
       "value": "City"
     },
     "accessibility_club_team": {
       "comment": "This is a header to indicate the team club a player plays on when he is playing for the national team. So for Ronaldo it would be \"Club => Manchester United\". Feel free to translate it to the same as the \"Team\" translation if Team and Club is the same in your language.",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Club"
     },
     "accessibility_coach_win_percentage": {
       "comment": "Percentage of games won out of total played.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Coach win percentage"
     },
     "accessibility_company": {
       "comment": "Text on button or link that redirects to the About us page with information about our company.",
-      "tags": [
-        "web"
-      ],
       "value": "Company"
     },
     "accessibility_cookie_policy": {
       "comment": "Text shown on link that redirects to the page that shows the cookie policy document.",
-      "tags": [
-        "web"
-      ],
       "value": "Cookie policy"
     },
     "accessibility_coupon": {
       "comment": "Title for a coupon builder",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Coupon"
     },
     "accessibility_crosses_succeeeded": {
       "comment": "Number of successful crosses for a player in a match",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Successful crosses"
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Cross accuracy"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Date"
     },
     "accessibility_days": {
@@ -199,276 +101,141 @@
       "plurals": {
         "one": "Day",
         "other": "Days"
-      },
-      "tags": [
-        "plural",
-        "ios",
-        "ioswidget",
-        "android"
-      ]
+      }
     },
     "accessibility_defenders": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Defenders"
     },
     "accessibility_defensive_actions": {
       "comment": "Football (soccer) stat to describe how many defensive actions a player has made. A defensive action is an attempt to win back possession of the ball, like tackles, interceptions, clearances, blocks and aerial duels.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Defensive actions"
     },
     "accessibility_defensive_actions_explained": {
       "comment": "Explains what defensive actions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Defensive actions include all attempted tackles, blocks, clearances, fouls, and interceptions."
     },
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "web"
-      ],
       "value": "Duels won %"
     },
     "accessibility_europa_conference_league_playoff": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Conference League playoff"
     },
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
-      "tags": [
-        "web"
-      ],
       "value": "Events"
     },
     "accessibility_expected_goals_non_penalty": {
       "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Non-penalty xG"
     },
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Fouls won"
     },
     "accessibility_fullscreen": {
       "comment": "Button text - click on it to open play-by-play in fullscreen.",
-      "tags": [
-        "web"
-      ],
       "value": "Fullscreen"
     },
     "accessibility_gfx_season_stats": {
       "comment": "Used as a title on graphics card for with season stats. Very limited room. Find shortest possible version",
-      "tags": [
-        "web"
-      ],
       "value": "Season stats"
     },
     "accessibility_header_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for leagues, teams, players and news.",
-      "tags": [
-        "web"
-      ],
       "value": "Leagues, teams, players and news"
     },
     "accessibility_highest_rank": {
       "comment": "Label for field that shows a teams highest FIFA rank value.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Highest rank"
     },
     "accessibility_historical_table_positions_header": {
       "comment": "Header text over graph that shows a team's historical table positions.",
-      "tags": [
-        "web"
-      ],
       "value": "Historical table positions"
     },
     "accessibility_history": {
       "comment": "Tab header for page with historical team data.",
-      "tags": [
-        "web"
-      ],
       "value": "History"
     },
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Keeper saves"
     },
     "accessibility_keeper_sweeper_actions": {
       "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
-      "tags": [
-        "ios",
-        "android",
-        "web"
-      ],
       "value": "Sweeper"
     },
     "accessibility_live_score_filter_hint": {
       "comment": "Hint text on the live scores filter that lets the use filter matches by typing in a country, team or league name.",
-      "tags": [
-        "web"
-      ],
       "value": "Country, team or league"
     },
     "accessibility_load_more": {
       "comment": "Text on button that lets the user load more news articles.",
-      "tags": [
-        "web"
-      ],
       "value": "Load more"
     },
     "accessibility_login_disclaimer": {
       "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
-      "tags": [
-        "web"
-      ],
       "value": "By signing in you accept the Terms of use and Privacy Policy."
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Long ball accuracy"
     },
     "accessibility_matches_count": {
-      "comment": "",
       "plurals": {
         "one": "1 match",
         "other": "%d matches"
-      },
-      "tags": [
-        "plural"
-      ]
+      }
     },
     "accessibility_matches_left": {
-      "comment": "",
       "plurals": {
         "one": "1 match left",
         "other": "%d matches left"
-      },
-      "tags": [
-        "plural"
-      ]
+      }
     },
     "accessibility_most_recent": {
       "comment": "Used in transfer center to order transfers by most recent.",
-      "tags": [
-        "web"
-      ],
       "value": "Most recent"
     },
     "accessibility_no_bots_allowed": {
       "comment": "Text shown in the footer to emphasize that web scraping is not permitted.",
-      "tags": [
-        "web"
-      ],
       "value": "The use of automatic services (robots, crawler, indexing etc.) as well as other methods for systematic or regular use is not permitted."
     },
     "accessibility_no_next_match": {
       "comment": "Text shown when there are no new matches scheduled for the team or league.",
-      "tags": [
-        "web"
-      ],
       "value": "No next match scheduled"
     },
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Non-penalty xG"
     },
     "accessibility_odds": {
       "comment": "Used for the Odds tab title",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Odds"
     },
     "accessibility_off_target": {
       "comment": "Shorthand for shots off target.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Off target"
     },
     "accessibility_on_target": {
       "comment": "Shorthand for shots on target.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "On target"
     },
     "accessibility_on_tv": {
       "comment": "Text on button that shows matches that are shown on TV.",
-      "tags": [
-        "web"
-      ],
       "value": "On TV"
     },
     "accessibility_past_matches": {
       "comment": "Text shown on a link that lets the user see all finished matches for a team or league.",
-      "tags": [
-        "web"
-      ],
       "value": "Past matches"
     },
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Penalty saves"
     },
     "accessibility_players_and_managers": {
       "comment": "Header text shown above list of search results for players and managers.",
-      "tags": [
-        "web"
-      ],
       "value": "Players and managers"
     },
     "accessibility_playing_now_no_ranked_leagues": {
@@ -476,4276 +243,1766 @@
       "plurals": {
         "one": "%d other competition is playing now",
         "other": "%d other competitions are playing now"
-      },
-      "tags": [
-        "plural"
-      ]
+      }
     },
     "accessibility_privacy_policy": {
       "comment": "A link to the Privacy policy of the app",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Privacy policy"
     },
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Conference League playoff stage"
     },
     "accessibility_roundof64": {
       "comment": "Label indicating it is the round of 64. 64 teams are left in the tournament. Round of 64 is the same as 32th-finals.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Round of 64"
     },
     "accessibility_search_result_header": {
       "comment": "Text shown on top of the search results page. Input is the search text.",
-      "tags": [
-        "web"
-      ],
       "value": "Search results for <b>\"%@\"</b>"
     },
     "accessibility_shot_blocked": {
       "comment": "A shot was blocked by a defender. An attacker shot the ball at goal but a defender blocked it.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Blocked"
     },
     "accessibility_shot_blocks": {
       "comment": "NUmber of times a defender has blocked a shot by standing in it's path when the other team has a shot at goal.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Blocks"
     },
     "accessibility_successful_dribbles": {
       "comment": "Number of successful dribbles for a player in a season",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Successful dribbles"
     },
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Successful passes"
     },
     "accessibility_successful_passes_accuracy": {
       "comment": "Pass accuracy of a player in a match measured in percent",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Pass accuracy"
     },
     "accessibility_sync_calendar_button_text": {
       "comment": "Text shown on a button that lets the user add a teams matches to their calendar.",
-      "tags": [
-        "web"
-      ],
       "value": "Sync to calendar"
     },
     "accessibility_sync_to_calendar_description": {
       "comment": "Text shown in a panel that lets the user add a team's fixtures to the calendar. Input is the team name and the team short name, eg: Sync <b>Manchester United's</b><b>Man United's</b> fixtures to your favorite calendar app. (The code will show either the team name or the short name depending on screen size)",
-      "tags": [
-        "web"
-      ],
       "value": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app."
     },
     "accessibility_sync_to_calendar_description_plain": {
       "comment": "Same as sync_to_calendar_description, but without html tags. Input is the team name, eg: Sync Liverpool's fixtures to your favorite calendar app.",
-      "tags": [
-        "web"
-      ],
       "value": "Sync %1$@'s fixtures to your favorite calendar app."
     },
     "accessibility_tackles_succeeded_percent": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "web"
-      ],
       "value": "Tackles won %"
     },
     "accessibility_team_of_the_week": {
       "comment": "Header text for the Team of the week panel.",
-      "tags": [
-        "web",
-        "ios",
-        "android"
-      ],
       "value": "Team of the Week"
     },
     "accessibility_team_score": {
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
-      "tags": [
-        "ios",
-        "android",
-        "iosnotification"
-      ],
       "value": "%@ score!"
     },
     "accessibility_terms_of_use": {
       "comment": "Text shown for the link to the terms of use document.",
-      "tags": [
-        "web"
-      ],
       "value": "Terms of use"
     },
     "accessibility_top_leagues": {
       "comment": "Text shown as the header for a list of the top leagues.",
-      "tags": [
-        "web"
-      ],
       "value": "Top leagues"
     },
     "accessibility_total_passes": {
       "comment": "Total amount of passes. Includes both accurate and missed passes.",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Passes"
     },
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Touches in opposition box"
     },
     "accessibility_tr_cafchampionsleaguequal": {
       "comment": "Name of tournament",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "CAF Champions League Qualification"
     },
     "accessibility_trending_news": {
       "comment": "Header text for slider with the top 5 trending news stories.",
-      "tags": [
-        "web",
-        "ios",
-        "ioswidget"
-      ],
       "value": "Trending news"
     },
     "accessibility_unknown": {
       "comment": "Unknown - Used when we don't know a players position.",
-      "tags": [
-        "web"
-      ],
       "value": "Unknown"
     },
     "common_Attendance": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Attendance"
     },
     "common_BallPossesion": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Ball possession"
     },
     "common_Now": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "ioswidget",
-        "android"
-      ],
       "value": "now"
     },
     "common_Offsides": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Offsides"
     },
     "common_ShotsOffTarget": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Shots off target"
     },
     "common_ShotsOnTarget": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Shots on target"
     },
     "common_aborted": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Abandoned"
     },
     "common_access_calendar_needed": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar"
     },
     "common_action_settings": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Settings"
     },
     "common_add_favorite": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Add favourite"
     },
     "common_add_favorite_desc": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Tap + to add a favourite team"
     },
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "<b>Get news</b> for your \\nfavourite teams."
     },
     "common_add_leagues": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Add leagues"
     },
     "common_add_remove_leagues": {
-      "comment": "",
-      "tags": [],
       "value": "Add/Remove leagues"
     },
     "common_add_to_calendar": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Add to calendar"
     },
     "common_added_as_favorite": {
       "comment": "Status label saying that the player/team has been added as a favorite",
-      "tags": [
-        "android"
-      ],
       "value": "%1$@ added as favourite"
     },
     "common_adfree_button_ok": {
-      "comment": "",
-      "tags": [],
       "value": "Go Gold"
     },
     "common_adfree_later": {
-      "comment": "",
-      "tags": [],
       "value": "Not now"
     },
     "common_adfree_title": {
-      "comment": "",
-      "tags": [],
       "value": "Go Premium!"
     },
     "common_after90": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "After fulltime"
     },
     "common_afterextra": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "After extra time"
     },
     "common_afterextratime_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget",
-        "watchos",
-        "wearos",
-        "iosnotification"
-      ],
       "value": "AET"
     },
     "common_afterpenalties": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "After penalties"
     },
     "common_against": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "against"
     },
     "common_aggregate": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Aggregate"
     },
     "common_aggregate_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Agg"
     },
     "common_all": {
       "comment": "Onboarding: header for all non-top players list",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "All"
     },
     "common_all_events": {
       "comment": "Option in Notification Settings to enable/disable all events at once for player/team/match/etc.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "All events"
     },
     "common_all_matches": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "All matches"
     },
     "common_always": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Always"
     },
     "common_assist": {
       "comment": "Shown in match facts when a player got an assist for a goal",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "assist by"
     },
     "common_assists": {
       "comment": "Header for top lists of the player with mosts assists",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Assists"
     },
     "common_attacker": {
       "comment": "MAX 2 chars!",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "A"
     },
     "common_attacker_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Attacker"
     },
     "common_away_abbreviation": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "ioswidget"
-      ],
       "value": "A"
     },
     "common_back": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Back"
     },
     "common_betting": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Odds"
     },
     "common_bronze_supporter": {
-      "comment": "",
-      "tags": [],
       "value": "Bronze supporter"
     },
     "common_cancel": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Cancel"
     },
     "common_cancelled": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Cancelled"
     },
     "common_cancelled_short": {
       "comment": "Short version of the translation of [cancelled]. Max 2 chars.",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget",
-        "watchos",
-        "wearos"
-      ],
       "value": "Ca"
     },
     "common_centerback": {
       "comment": "Player position - player plays in the center back",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Centre-back"
     },
     "common_champion": {
       "comment": "Label below the cup's winner",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "champion"
     },
     "common_championsleague": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Champions League"
     },
     "common_change_rss": {
-      "comment": "",
-      "tags": [],
       "value": "Change news feed"
     },
     "common_change_sort": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Change sorting"
     },
     "common_choose_rss": {
-      "comment": "",
-      "tags": [],
       "value": "Select which news feed to display for the currently chosen league"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Clean sheet"
     },
     "common_close": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Close"
     },
     "common_clqual": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Champions League qualification"
     },
     "common_coach": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Coach"
     },
     "common_commentary_feature_description2": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Audio stream starts about 5 min before the match."
     },
     "common_commentary_feature_description3": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "It might take up to 30 seconds before audio is audible after pressing play."
     },
     "common_commentary_feature_description4": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Feedback on commentaries are very welcome!"
     },
     "common_commentary_not_started": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "The audio commentary starts about 5 minutes before the match. Please try again later."
     },
     "common_commentary_window_title": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Live Commentary"
     },
     "common_comments": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Comments"
     },
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Conceded penalty"
     },
     "common_contact": {
       "comment": "Menu option for contacting us",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Contact us"
     },
     "common_contract": {
       "comment": "Label for player's contract expiration date with club",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Contract"
     },
     "common_contract_extension": {
       "comment": "Transfer status: player extended his contract with club",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Contract extension"
     },
     "common_copa2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
-      "tags": [],
       "value": "Ready for Copa America 2016?"
     },
     "common_corners": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Corners"
     },
     "common_days_ago": {
-      "comment": "",
       "plurals": {
         "one": "1 day ago",
         "other": "%d days ago"
-      },
-      "tags": [
-        "plural",
-        "ioswidget"
-      ]
+      }
     },
     "common_defender": {
       "comment": "MAX 2 chars!",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "D"
     },
     "common_defender_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Defender"
     },
     "common_deselect": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios"
-      ],
       "value": "Deselect"
     },
     "common_deselect_all": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Deselect all"
     },
     "common_deselect_favorite": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Deselect favourite?"
     },
     "common_deselect_favorite_message": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Do you want to deselect your favourite league?"
     },
     "common_deselect_favorites": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Deselect favourites?"
     },
     "common_deselect_favorites_message": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Do you want to deselect your favourite leagues?"
     },
     "common_details": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Details"
     },
     "common_draw": {
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Draw"
     },
     "common_drawer_close": {
       "comment": "Closes the left navigation menu",
-      "tags": [],
       "value": "Close navigation drawer"
     },
     "common_drawer_open": {
       "comment": "Opens the left navigation menu",
-      "tags": [],
       "value": "Open navigation drawer"
     },
     "common_drawn": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "ioswidget"
-      ],
       "value": "D"
     },
     "common_drawn_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Drawn"
     },
     "common_edit_match_alerts": {
       "comment": "Button caption for changing alerts for all teams. Please keep this short as possible",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Edit alerts"
     },
     "common_empty_placeholder_no_my_matches": {
       "comment": "Empty placeholder for live matches, if there're no my matches (favorited, alerted, etc.)",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget",
-        "watchos"
-      ],
       "value": "No favourites playing today"
     },
     "common_enable": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Enable"
     },
     "common_enable_push": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Enable push notifications"
     },
     "common_enable_push_question": {
-      "comment": "",
-      "tags": [],
       "value": "Do you want to enable push notifications?"
     },
     "common_enable_tv_schedules": {
       "comment": "Settings item to enable/disable TV Guide",
-      "tags": [],
       "value": "Enable TV schedules"
     },
     "common_end_of_match": {
-      "comment": "",
-      "tags": [],
       "value": "final"
     },
     "common_error_adding_match_to_calendar": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Error adding match to calendar, this feature works only on Android 4.x"
     },
     "common_error_occured": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "An error occurred, please retry the operation"
     },
     "common_error_push": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Error registering push notification, please try again"
     },
     "common_error_push_not_enabled": {
-      "comment": "",
-      "tags": [],
       "value": "Notifications are disabled for FotMob in your Notification Centre. Visit http://fotmob.com/faq.html to resolve this."
     },
     "common_error_webview": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Error occurred loading page"
     },
     "common_errors_led_to_goal": {
       "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Errors led to goal"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
-      "tags": [],
       "value": "Ready for Euro 2016?"
     },
     "common_euro2016_onboarding_desc_line2": {
       "comment": "Onboarding: second line in adv.-alert",
-      "tags": [],
       "value": "Setup alerts for top players and teams"
     },
     "common_euro2016_setup_national_team": {
       "comment": "Onboarding: asking the user to setup their favorite national team",
-      "tags": [],
       "value": "Set up your national team"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Conference League qualification"
     },
     "common_europaleague": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Europa League"
     },
     "common_euroqual": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Europa League qualification"
     },
     "common_exit": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Exit"
     },
     "common_extratime_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget",
-        "watchos",
-        "wearos",
-        "predictor"
-      ],
       "value": "ET"
     },
     "common_favorite_teams": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget"
-      ],
       "value": "Favourite teams"
     },
     "common_favorites": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos",
-        "wearos",
-        "ioswidget"
-      ],
       "value": "Favourites"
     },
     "common_fifaworldranking": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "FIFA"
     },
     "common_filter": {
       "comment": "Noun, used for describing a menu option",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Filter"
     },
     "common_filter_hint": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Country or league"
     },
     "common_filter_tv_schedule": {
       "comment": "Page header for TV Guide filter",
-      "tags": [
-        "ios"
-      ],
       "value": "Filter TV schedules"
     },
     "common_finished": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Full time"
     },
     "common_first_scorer": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "First scorer"
     },
     "common_firstextrahalf": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "First extra half"
     },
     "common_firsthalf": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios",
-        "watchos"
-      ],
       "value": "First half"
     },
     "common_firstrun_select_teams_to_follow": {
       "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "tags": [],
       "value": "Select your favourite clubs and national teams to follow"
     },
     "common_fouls": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Fouls committed"
     },
     "common_free_transfer": {
       "comment": "Label for free transfer in Transfers view",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Free transfer"
     },
     "common_fulltime_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "today",
-        "ioswidget",
-        "watchos",
-        "wearos",
-        "iosnotification"
-      ],
       "value": "FT"
     },
     "common_generalUpper": {
-      "comment": "",
-      "tags": [],
       "value": "GENERAL"
     },
     "common_goal": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "iosnotification"
-      ],
       "value": "Goal!"
     },
     "common_goal_difference": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "GD"
     },
     "common_goals_from_bench": {
       "comment": "It is goals a player has scored when he began the match as a substitute",
-      "tags": [
-        "ios"
-      ],
       "value": "Goals from bench"
     },
     "common_goals_pen": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Goals (Penalties)"
     },
     "common_goals_scored": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Goals scored"
     },
     "common_goals_title": {
-      "comment": "",
-      "tags": [
-        "poller"
-      ],
       "value": "Top scorer"
     },
     "common_gold_supporter": {
-      "comment": "",
-      "tags": [],
       "value": "Gold supporter"
     },
     "common_goldengoal": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios",
-        "watchos"
-      ],
       "value": "Golden goal"
     },
     "common_halftime_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "today",
-        "ioswidget",
-        "watchos",
-        "wearos",
-        "iosnotification",
-        "predictor"
-      ],
       "value": "HT"
     },
     "common_home_abbreviation": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "ioswidget"
-      ],
       "value": "H"
     },
     "common_hours_ago": {
-      "comment": "",
       "plurals": {
         "one": "%d hour ago",
         "other": "%d hours ago"
-      },
-      "tags": [
-        "plural",
-        "ioswidget"
-      ]
+      }
     },
     "common_ignore": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Ignore"
     },
     "common_injuries": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Injured"
     },
     "common_international": {
       "comment": "Label for international tournaments’ headers in Live Matches",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "International"
     },
     "common_keeper": {
       "comment": "MAX 2 chars!",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "GK"
     },
     "common_keeper_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Keeper"
     },
     "common_keeper_sweeper": {
       "comment": "Keeper cleared the ball outside the penalty area, acting as a sweeper",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Acted as sweeper"
     },
     "common_label_submit_button": {
-      "comment": "",
-      "tags": [],
       "value": "Send"
     },
     "common_last_5_matches": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Last 5 matches"
     },
     "common_last_poll_failed": {
-      "comment": "",
-      "tags": [],
       "value": "Last poll failed. Retrying at"
     },
     "common_last_updated": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Last updated"
     },
     "common_latest_transfers": {
       "comment": "Header for list of latest transfers",
-      "tags": [
-        "poller"
-      ],
       "value": "Latest transfers"
     },
     "common_league_has_notifications": {
-      "comment": "",
-      "tags": [],
       "value": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab"
     },
     "common_league_rank": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "League rank"
     },
     "common_lineup": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Lineup"
     },
     "common_loading": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Loading..."
     },
     "common_loan_return": {
       "comment": "Transfer status: player returned from loan",
-      "tags": [
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Loan return"
     },
     "common_local": {
       "comment": "A tab-switcher to switch between \"Local\" teams (from your region) and \"Suggested\" ones (from across the globe)",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Local"
     },
     "common_lost": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "ioswidget"
-      ],
       "value": "L"
     },
     "common_lost_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Lost"
     },
     "common_ltc": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Live ticker"
     },
     "common_man_of_the_match": {
       "comment": "A title indicating that this player was the best player.",
-      "tags": [
-        "appengine",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Player of the Match"
     },
     "common_match": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "match"
     },
     "common_matches": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "matches"
     },
     "common_matches_not_determined": {
       "comment": "Placeholder for brackets rounds, which have not been drawen yet",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Next round matches are yet to be determined"
     },
     "common_matches_on_bench": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Matches on bench"
     },
     "common_matches_played": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Matches played"
     },
     "common_matches_sub_in": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Matches substituted in"
     },
     "common_matches_sub_out": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Matches substituted out"
     },
     "common_matches_uppercase": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Matches"
     },
     "common_matchfacts": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "wearos",
-        "watchos"
-      ],
       "value": "Match facts"
     },
     "common_maximize_all": {
-      "comment": "",
-      "tags": [],
       "value": "Maximize all"
     },
     "common_menu_settings": {
-      "comment": "",
-      "tags": [],
       "value": "Settings"
     },
     "common_menu_share_others": {
-      "comment": "",
-      "tags": [],
       "value": "Google+, Twitter and more..."
     },
     "common_message_sent": {
-      "comment": "",
-      "tags": [],
       "value": "Tip: Long press a goal or other event to share it."
     },
     "common_midfielder": {
       "comment": "MAX 2 chars!",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "M"
     },
     "common_midfielder_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Midfielder"
     },
     "common_minimize_all": {
-      "comment": "",
-      "tags": [],
       "value": "Minimize all"
     },
     "common_minutes_ago": {
-      "comment": "",
       "plurals": {
         "one": "%d minute ago",
         "other": "%d minutes ago"
-      },
-      "tags": [
-        "plural",
-        "ioswidget"
-      ]
+      }
     },
     "common_missed_penalty": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Missed penalty"
     },
     "common_move_to_bottom": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Move to bottom"
     },
     "common_move_to_top": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Move to top"
     },
     "common_my_matches": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "My matches"
     },
     "common_name": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Name"
     },
     "common_never": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Never"
     },
     "common_new_leagues": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "New leagues available"
     },
     "common_news": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "ioswidget"
-      ],
       "value": "News"
     },
     "common_next": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor",
-        "ioswidget"
-      ],
       "value": "Next"
     },
     "common_next_match": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Next match"
     },
     "common_next_poll": {
-      "comment": "",
-      "tags": [],
       "value": "Next poll at"
     },
     "common_no_favorite_leagues": {
       "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "tags": [],
       "value": "No favourite leagues added yet"
     },
     "common_no_favorite_players": {
       "comment": "Profile page - placeholder's text if there're no favorite players",
-      "tags": [],
       "value": "No favourite players added yet"
     },
     "common_no_favorite_teams": {
       "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "tags": [],
       "value": "No favourite teams added yet"
     },
     "common_no_match_facts_available": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "No match facts available"
     },
     "common_no_matches_today": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "No matches in selected leagues"
     },
     "common_no_results_for_query": {
       "comment": "Onboarding: not players found for the query",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "No results found for %@"
     },
     "common_no_table": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "No table available"
     },
     "common_no_team_info": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Sorry, we do not have any info on this team"
     },
     "common_no_tv_guid": {
       "comment": "Empty placeholder if there's no matches available on TV",
-      "tags": [
-        "web"
-      ],
       "value": "No matches on air"
     },
     "common_no_tv_selected": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "No TV schedules"
     },
     "common_not_favorites": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Not favourites"
     },
     "common_not_native_language": {
       "comment": "A message saying we don't have the live ticker in the users language. Like we may have the ticker in German while the user only speaks English.",
-      "tags": [
-        "android"
-      ],
       "value": "Sorry but we don't have this commentary in your language"
     },
     "common_not_now": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Not now"
     },
     "common_notification_description": {
-      "comment": "",
-      "tags": [],
       "value": "Adjust volume of score notifications and change when to show notifications. Change timezone."
     },
     "common_notification_end_sound": {
-      "comment": "",
-      "tags": [],
       "value": "Start and finished sound"
     },
     "common_notification_sound": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Goal sound"
     },
     "common_notification_sound_fav": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Goal sound favourites"
     },
     "common_notifications": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Settings"
     },
     "common_notifications_off": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Turn off notifications"
     },
     "common_notifications_on": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Turn on notifications"
     },
     "common_notstarted": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "android",
-        "ios",
-        "watchos"
-      ],
       "value": "Not started"
     },
     "common_ok": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "OK"
     },
     "common_on_loan": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "on loan"
     },
     "common_on_loan_transfers": {
       "comment": "Transfer status: player moved on loan",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "On loan"
     },
     "common_onboarding_favorites": {
       "comment": "Welcome message that informs users that they can see all their favorite players and teams in this part of the app",
-      "tags": [
-        "android"
-      ],
       "value": "Welcome! You can follow all your favourites here."
     },
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Follow %@ and get updates from your favourite teams and players."
     },
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
-      "tags": [
-        "android"
-      ],
       "value": "Select your favourite players and get notified for goals, red cards, missed penalties and more"
     },
     "common_onboarding_team_help_infromation": {
       "comment": "Help text to explain onboarding for users",
-      "tags": [
-        "android"
-      ],
       "value": "Select your national team to receive updates of upcoming matches, goals and more"
     },
     "common_onboarding_world_cup_card_calltoaction": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "tags": [],
       "value": "Choose Your Favourites"
     },
     "common_onboarding_world_cup_card_description": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "tags": [],
       "value": "Set Alerts for your favourite teams and players with our brand new FotMob World Cup mode."
     },
     "common_ongoing": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "ioswidget"
-      ],
       "value": "Ongoing"
     },
     "common_owngoal": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "iosnotification"
-      ],
       "value": "Own goal"
     },
     "common_pause": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Pause"
     },
     "common_pause_match": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "predictor"
-      ],
       "value": "Half time"
     },
     "common_pauseextratime": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "predictor"
-      ],
       "value": "Pause extra time"
     },
     "common_penalties_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget",
-        "watchos",
-        "wearos",
-        "iosnotification",
-        "predictor"
-      ],
       "value": "Pen"
     },
     "common_penaltiesarehappening": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Penalty shootout"
     },
     "common_penalty": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos",
-        "iosnotification"
-      ],
       "value": "Penalty"
     },
     "common_play": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Play"
     },
     "common_played": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Pl"
     },
     "common_points": {
       "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor",
-        "watchos"
-      ],
       "value": "Pts"
     },
     "common_points_lowercase_abbreviation": {
       "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor",
-        "watchos"
-      ],
       "value": "pts"
     },
     "common_post_to_facebook": {
-      "comment": "",
-      "tags": [],
       "value": "Post to Facebook"
     },
     "common_postponed": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Postponed"
     },
     "common_postponed_short": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "today",
-        "ioswidget",
-        "watchos",
-        "wearos",
-        "iosnotification"
-      ],
       "value": "PP"
     },
     "common_premium": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios"
-      ],
       "value": "Premium"
     },
     "common_previous": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor",
-        "ioswidget"
-      ],
       "value": "Previous"
     },
     "common_previous_match": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Previous match"
     },
     "common_previous_matches": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Previous matches"
     },
     "common_promotion": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Promotion"
     },
     "common_promotionqual": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Promotion qualification"
     },
     "common_push_connected": {
-      "comment": "",
-      "tags": [],
       "value": "Push notifications are successfully registered"
     },
     "common_rate": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Rate"
     },
     "common_rate_fotmob_desc": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!"
     },
     "common_red_cards": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Red cards"
     },
     "common_referee": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Referee"
     },
     "common_refresh": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Refresh"
     },
     "common_relegation": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "remoteLocalize",
-        "word"
-      ],
       "value": "Relegation"
     },
     "common_relegationqual": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "remoteLocalize"
-      ],
       "value": "Relegation qualification"
     },
     "common_remove_from_favorites": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Remove from favourites"
     },
     "common_remove_league": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Remove League"
     },
     "common_reset": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Reset"
     },
     "common_resync": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Re-sync purchases"
     },
     "common_resync_desc": {
-      "comment": "",
-      "tags": [],
       "value": "If you have previously bought gold or silver, click here"
     },
     "common_round_fmt": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Round %@"
     },
     "common_roundof32": {
       "comment": "Label indicating it is the round of 32. 32 teams are left in the tournament. Round of 32 is the same as 16th-finals",
-      "tags": [
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Round of 32"
     },
     "common_rss_feeds": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "News"
     },
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Saved penalties"
     },
     "common_score_poll_interval": {
-      "comment": "",
-      "tags": [],
       "value": "Score polling interval"
     },
     "common_score_volume": {
-      "comment": "",
-      "tags": [],
       "value": "Score alert volume"
     },
     "common_search_hint": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Type in the teamname you are looking for"
     },
     "common_search_players": {
       "comment": "Onboarding your favorite players",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Select players"
     },
     "common_secondary_onboarding_teams_body": {
       "comment": "Explanation to the user why he should add more favorite teams and players. @",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Select favourite teams and players for a faster, customized experience."
     },
     "common_secondary_onboarding_teams_header": {
       "comment": "Question asking the user to add some favorite teams and players.",
-      "tags": [
-        "android"
-      ],
       "value": "Make it easy to follow your favourites"
     },
     "common_secondextrahalf": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Second extra half"
     },
     "common_secondhalf": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios",
-        "watchos"
-      ],
       "value": "Second half"
     },
     "common_see_all": {
       "comment": "See all (transfers)",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "See all"
     },
     "common_see_all_matches": {
       "comment": "Help button to jump from Play Off to Matches tab in league overview",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "See all matches"
     },
     "common_select_all": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Select all"
     },
     "common_select_favorite_league": {
-      "comment": "",
-      "tags": [],
       "value": "Select league..."
     },
     "common_select_favorites": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Select favourites"
     },
     "common_select_league": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Select league"
     },
     "common_select_your_team": {
       "comment": "Onboarding your favorite team",
-      "tags": [
-        "android"
-      ],
       "value": "Start setup"
     },
     "common_settings": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Settings"
     },
     "common_share": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Share FotMob"
     },
     "common_share_event": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Share"
     },
     "common_share_on_facebook": {
       "comment": "Widget strings",
-      "tags": [
-        "predictor"
-      ],
       "value": "Share on Facebook"
     },
     "common_show_hide_matches_mnu": {
-      "comment": "",
-      "tags": [],
       "value": "Filter matches"
     },
     "common_show_table": {
-      "comment": "",
-      "tags": [
-        "web"
-      ],
       "value": "Show table"
     },
     "common_show_team_logos_in_table": {
-      "comment": "",
-      "tags": [],
       "value": "Show team logos in table"
     },
     "common_silent": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Silent"
     },
     "common_silver_desc": {
-      "comment": "",
-      "tags": [],
       "value": "Remove ads for a year. Click for details"
     },
     "common_silver_supporter": {
-      "comment": "",
-      "tags": [],
       "value": "Silver supporter"
     },
     "common_silvergoal1": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Silver goal"
     },
     "common_silvergoal2": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Silver goal"
     },
     "common_sort_explained": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Drag the competitions in the order you want in the live window or select them and use the buttons to create your preferred sorting"
     },
     "common_squad": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Squad"
     },
     "common_staff_picks": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Staff picks"
     },
     "common_star": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Add %@"
     },
     "common_star_desc": {
-      "comment": "",
-      "tags": [],
       "value": "Favourite teams"
     },
     "common_star_league": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Add to favourites"
     },
     "common_started": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "android",
-        "ios",
-        "watchos"
-      ],
       "value": "Started"
     },
     "common_stats": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Stats"
     },
     "common_stop": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Stop"
     },
     "common_stream_playback_ended": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Audio playback ended"
     },
     "common_stream_playback_error": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "An error occurred playing the audio stream"
     },
     "common_stream_playback_initializing": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Initializing audio playback…"
     },
     "common_stream_playback_playing": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Playing audio stream"
     },
     "common_subs": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Substitutes"
     },
     "common_subs_stats": {
-      "comment": "",
-      "tags": [],
       "value": "Substitutes"
     },
     "common_suggested": {
       "comment": "Onboarding: header for the top players list",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Suggested"
     },
     "common_suspensions": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Suspended"
     },
     "common_t10_minutes": {
-      "comment": "",
-      "tags": [],
       "value": "10 minute"
     },
     "common_t1_minute": {
-      "comment": "",
-      "tags": [],
       "value": "1 minute"
     },
     "common_t30_seconds": {
-      "comment": "",
-      "tags": [],
       "value": "30 seconds"
     },
     "common_t3_minutes": {
-      "comment": "",
-      "tags": [],
       "value": "3 minute"
     },
     "common_t5_minutes": {
-      "comment": "",
-      "tags": [],
       "value": "5 minute"
     },
     "common_tab_title_tournaments": {
       "comment": "Tab title, keep it short",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Leagues"
     },
     "common_table": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "wearos"
-      ],
       "value": "Table"
     },
     "common_team": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Team"
     },
     "common_team_has_notifications": {
-      "comment": "",
-      "tags": [],
       "value": "One of the team has enabled alerts, you must turn off alerts via the team page"
     },
     "common_teams_played_for": {
-      "comment": "",
-      "tags": [],
       "value": "Teams played for"
     },
     "common_test_notification": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Test notification"
     },
     "common_third_place": {
       "comment": "Small-label below the bronze-match. Keep it short!",
-      "tags": [
-        "android"
-      ],
       "value": "3rd"
     },
     "common_ticket": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "android"
-      ],
       "value": "Premium features"
     },
     "common_timezone_caption": {
-      "comment": "",
-      "tags": [],
       "value": "Choose timezone"
     },
     "common_title_activity_sort": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Sort"
     },
     "common_title_activity_squad_member": {
-      "comment": "",
-      "tags": [],
       "value": "Squad member"
     },
     "common_title_activity_tvschedule": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "TV schedules"
     },
     "common_today": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "ioswidget",
-        "wearos"
-      ],
       "value": "Today"
     },
     "common_toggle_favorite": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Set or unset as favourite"
     },
     "common_toggle_notifications": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Toggle notifications"
     },
     "common_tomorrow": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "ioswidget"
-      ],
       "value": "Tomorrow"
     },
     "common_top_scorers": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Top scorers"
     },
     "common_topnews": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Top news"
     },
     "common_tournament": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Tournament"
     },
     "common_tournaments": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Tables & news"
     },
     "common_transfer": {
       "comment": "Transfer status: player transfered;",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "iosnotification"
-      ],
       "value": "Transfer"
     },
     "common_transfer_center": {
       "comment": "The Transfer Center is a place where we list all the player transfers between teams.",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Transfer Centre"
     },
     "common_transfer_enable_all": {
-      "comment": "",
-      "tags": [],
       "value": "Do you want to receive customized transfer alerts for your favourite teams and leagues?"
     },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for. Example: \"Transfer $10.000.000\"",
-      "tags": [
-        "android"
-      ],
       "value": "Transfer"
     },
     "common_turn_off_favorite_league_pling": {
-      "comment": "",
-      "tags": [],
       "value": "You have to turn off notifications for favourite teams (long press the &quot;Favourite teams&quot; header) to toggle the notification status on this match"
     },
     "common_tv_prompt": {
-      "comment": "",
-      "tags": [
-        "web"
-      ],
       "value": "TV Listing"
     },
     "common_tv_selected_denmark": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - Denmark"
     },
     "common_tv_selected_germany": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - Germany"
     },
     "common_tv_selected_norway": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - Norway"
     },
     "common_tv_selected_spain": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - Spain"
     },
     "common_tv_selected_sweden": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - Sweden"
     },
     "common_tv_selected_uk": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - UK"
     },
     "common_tv_selected_usa": {
-      "comment": "",
-      "tags": [],
       "value": "TV schedules - USA"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
-      "tags": [
-        "ios",
-        "android",
-        "web"
-      ],
       "value": "Two-legged tie"
     },
     "common_undisclosed": {
       "comment": "Transfer price is unknown (undisclosed by clubs)",
-      "tags": [
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Undisclosed"
     },
     "common_unlock_premium": {
-      "comment": "",
-      "tags": [],
       "value": "Unlock premium"
     },
     "common_unregistered_push": {
-      "comment": "",
-      "tags": [],
       "value": "Successfully unregistered for push notifications"
     },
     "common_unstar": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Unfollow %@"
     },
     "common_unstar_league": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Remove from favourites"
     },
     "common_upcoming_matches": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Upcoming matches"
     },
     "common_updating": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Updating..."
     },
     "common_venue": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Stadium"
     },
     "common_vibrate_caption": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Vibrate on scorealert"
     },
     "common_view_favorites": {
-      "comment": "",
-      "tags": [],
       "value": "View favourites"
     },
     "common_view_fixtures": {
-      "comment": "",
-      "tags": [],
       "value": "View fixtures"
     },
     "common_welcome_transfer_center": {
       "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "tags": [],
       "value": "Welcome to the Transfer Centre"
     },
     "common_what_will_outcome_be": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "What will the outcome be?"
     },
     "common_when_phone_is_set_to_vibrate": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "When phone is set to vibrate"
     },
     "common_widget_configure_title": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Configure widget"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",
-      "tags": [
-        "android"
-      ],
       "value": "No starred matches or matches with alerts today"
     },
     "common_widget_title": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "ioswidget"
-      ],
       "value": "FotMob"
     },
     "common_widget_url": {
-      "comment": "",
-      "tags": [],
       "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "ioswidget"
-      ],
       "value": "FotMob - News"
     },
     "common_won": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "watchos",
-        "ioswidget",
-        "predictor"
-      ],
       "value": "W"
     },
     "common_won_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Won"
     },
     "common_worldnews": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "android",
-        "web"
-      ],
       "value": "World news"
     },
     "common_years": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "years"
     },
     "common_yellow_cards": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Yellow cards"
     },
     "common_yesterday": {
       "comment": "<string name=\"sponsor_desc\">Get rid of the ads by downloading other FREE apps</string>",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "ioswidget"
-      ],
       "value": "Yesterday"
     },
     "common_you_are_a": {
-      "comment": "",
-      "tags": [],
       "value": "You are a %@!"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
-      "tags": [
-        "poller",
-        "appengine",
-        "android"
-      ],
       "value": "Advanced"
     },
     "ios_BUL": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Bulgarian"
     },
     "ios_CZE": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Czech"
     },
     "ios_Changing_notification": {
-      "comment": "",
-      "tags": [],
       "value": "Changing notification..."
     },
     "ios_DEN": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Danish"
     },
     "ios_Done": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Done"
     },
     "ios_ENG": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "English"
     },
     "ios_ESP": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Spanish"
     },
     "ios_Error_reporting": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Error reporting"
     },
     "ios_GER": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "German"
     },
     "ios_GRE": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Greek"
     },
     "ios_HUN": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Hungarian"
     },
     "ios_ITA": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Italian"
     },
     "ios_Matches_and_News": {
       "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "tags": [],
       "value": "Matches & News"
     },
     "ios_Matches_and_Topscorer": {
-      "comment": "",
-      "tags": [],
       "value": "Matches & Topscorer"
     },
     "ios_NOR": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Norwegian"
     },
     "ios_No_info_available": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "No info available"
     },
     "ios_POL": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Polish"
     },
     "ios_POR": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Portuguese"
     },
     "ios_Play_commentaries_in": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Play commentaries in"
     },
     "ios_Playing_commentaries": {
-      "comment": "",
-      "tags": [],
       "value": "Playing commentaries"
     },
     "ios_Playing_commentaries_in": {
-      "comment": "",
-      "tags": [],
       "value": "Playing commentaries in"
     },
     "ios_ROU": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Romanian"
     },
     "ios_Rank": {
       "comment": "Do not use more than 5 characters! There is little room in the GUI for this string",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Rank"
     },
     "ios_Restore_previous_purchases": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Restore purchases?"
     },
     "ios_SVK": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Slovak"
     },
     "ios_SWE": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Swedish"
     },
     "ios_Sorting": {
       "comment": "Menuchoice to change the sortorder of the leagues",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Sort"
     },
     "ios_Tables_and_News": {
-      "comment": "",
-      "tags": [],
       "value": "Tables & News"
     },
     "ios_Tweet": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Tweet"
     },
     "ios_Tweet_the_applink": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Tweet the link of FotMob"
     },
     "ios_buy_premium_first": {
-      "comment": "",
-      "tags": [],
       "value": "You must buy premium version first"
     },
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Change"
     },
     "ios_choose_league_desc": {
-      "comment": "",
-      "tags": [],
       "value": "Add a star to your favourite leagues for easy access. Click the league name to change the current league"
     },
     "ios_draws": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Draws"
     },
     "ios_extra_time": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "watchos"
-      ],
       "value": "Extra Time"
     },
     "ios_last_matches": {
       "comment": "Header for a teams last played matches.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Last matches"
     },
     "ios_location_reason": {
-      "comment": "",
-      "tags": [],
       "value": "We only use your location to enable features available to some countries"
     },
     "ios_losses": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Losses"
     },
     "ios_match_is_finished": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Match is finished"
     },
     "ios_minutes_long": {
-      "comment": "",
-      "tags": [],
       "value": "minutes"
     },
     "ios_most_red": {
-      "comment": "",
-      "tags": [],
       "value": "Most red cards"
     },
     "ios_most_yellow": {
-      "comment": "",
-      "tags": [],
       "value": "Most yellow cards"
     },
     "ios_open_safari": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Open in Safari"
     },
     "ios_overview": {
       "comment": "Header for team information",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Overview"
     },
     "ios_points_long": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Points"
     },
     "ios_purchase_failed": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "The purchase failed, please try again"
     },
     "ios_push_sent": {
       "comment": "Text that appears after the user has requested a test score message",
-      "tags": [
-        "ios"
-      ],
       "value": "Alert should arrive soon."
     },
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
-      "tags": [
-        "ios"
-      ],
       "value": "Top assists"
     },
     "ios_top_goalscorer": {
-      "comment": "",
-      "tags": [],
       "value": "Top goal scorer"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
-      "tags": [
-        "poller",
-        "ios"
-      ],
       "value": "FotMob - the best livescores app for football/soccer"
     },
     "ios_whoops_no_matches": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "today"
-      ],
       "value": "Whoops, no matches! Add a notification or a star to a match to make it appear here"
     },
     "ios_wins": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Wins"
     },
     "new_END_NOTIFICATION": {
-      "comment": "",
-      "tags": [
-        "appengine"
-      ],
       "value": "%@ vs %@ finished %@-%@"
     },
     "new_GOAL_SCORED": {
-      "comment": "",
-      "tags": [
-        "appengine"
-      ],
       "value": "%@ vs %@ %@-%@"
     },
     "new_POSTPONED_NOTIFICATION": {
-      "comment": "",
-      "tags": [
-        "appengine"
-      ],
       "value": "%@ vs %@ is postponed"
     },
     "new_START_NOTIFICATION": {
-      "comment": "",
-      "tags": [
-        "appengine"
-      ],
       "value": "%@ vs %@ has started"
     },
     "new_account": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Account"
     },
     "new_age": {
       "comment": "age of player, all uppercase!",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "AGE"
     },
     "new_audio_news": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Audio news"
     },
     "new_bracket": {
       "comment": "This is the World Cup bracket. Like this http://cdn.bleacherreport.net/images_root/article/media_slots/photos/001/240/770/KnockoutRoundBracket_original.jpg?1386355815",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Bracket"
     },
     "new_bronzeFinal": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "predictor",
-        "wearos"
-      ],
       "value": "Bronze-final"
     },
     "new_change_news_sound": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Change sound for news alerts"
     },
     "new_choose_favorite_team": {
       "comment": "Header in screen where user can choose the top football teams",
-      "tags": [
-        "android"
-      ],
       "value": "Popular teams"
     },
     "new_choose_favorite_team_national": {
       "comment": "Header in screen where user can choose a local team",
-      "tags": [
-        "android"
-      ],
       "value": "Local Teams"
     },
     "new_city_guides": {
       "comment": "Videos from the World Cup citys",
-      "tags": [],
       "value": "City guides"
     },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
-      "tags": [
-        "poller",
-        "appengine",
-        "android"
-      ],
       "value": "Correction"
     },
     "new_country": {
       "comment": "nationality of player, all uppercase!",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "COUNTRY"
     },
     "new_custom": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Custom..."
     },
     "new_default_sound": {
       "comment": "Indicates that the user has the default sound set",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Default"
     },
     "new_did_you_know": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Did you know?"
     },
     "new_dismiss": {
       "comment": "User is prompted for an action in a dialog and this is the cancel button",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Dismiss"
     },
     "new_e_mail": {
-      "comment": "",
-      "tags": [],
       "value": "Email address"
     },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Edit alerts"
     },
     "new_enable_news": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Enable news alerts"
     },
     "new_explanation": {
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date."
     },
     "new_favorite_summary": {
       "comment": "Summary info text",
-      "tags": [],
       "value": "Review your favourite teams and set alerts"
     },
     "new_featured_videos": {
-      "comment": "",
-      "tags": [],
       "value": "Featured videos"
     },
     "new_finalTournament": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "predictor",
-        "wearos"
-      ],
       "value": "Final"
     },
     "new_full_time_result": {
       "comment": "Indicates that the user wants an alert when the match is at full time",
-      "tags": [],
       "value": "Full time result"
     },
     "new_goals": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Goals"
     },
     "new_goals_start_and_finish": {
       "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "tags": [],
       "value": "Goals, start and finish"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Head-to-Head"
     },
     "new_height": {
       "comment": "height of player, all uppercase!",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "HEIGHT"
     },
     "new_how_to_remove_news_notifications": {
       "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "tags": [],
       "value": "Toggle news notifications by clicking the bell in the team page"
     },
     "new_intro_text": {
       "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "tags": [],
       "value": "Select your favourite teams and start the experience."
     },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
-      "tags": [
-        "ios"
-      ],
       "value": "I am using this app to get live football scores. Check it out!"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "tags": [],
       "value": "Your friends may be missing out, share FotMob with them now?"
     },
     "new_invite_title": {
-      "comment": "",
-      "tags": [],
       "value": "Invite your friends to try FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Lineup confirmed"
     },
     "new_login_with": {
       "comment": "Header asking the users to log in with Facebook or Google+",
-      "tags": [],
       "value": "Login with"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
-      "tags": [
-        "android"
-      ],
       "value": "Match alerts"
     },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Match reminder"
     },
     "new_match_start": {
       "comment": "Indicates that the user wants alerts for the start of the match",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Match start"
     },
     "new_matches_tab_title": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Matches"
     },
     "new_mute_alerts": {
       "comment": "Short button caption for turning off alerts for a specific match. Please keep this as short as possible",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Mute this match"
     },
     "new_news_vibrate": {
       "comment": "User can decide if his phone should vibrate when getting a news alert",
-      "tags": [
-        "android"
-      ],
       "value": "Vibrate on news alerts"
     },
     "new_no_favorites_added": {
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
-      "tags": [
-        "android"
-      ],
       "value": "You didn't add any favourites.\\n\\nPress back to add one now or press finish and add one later."
     },
     "new_no_internet_connection": {
-      "comment": "",
-      "tags": [],
       "value": "No internet connection"
     },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "No matches on TV today"
     },
     "new_no_more_goals": {
       "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "tags": [],
       "value": "No more goals"
     },
     "new_no_odds": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "No odds"
     },
     "new_no_player_data": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Nothing here yet, check back later"
     },
     "new_no_thanks": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "No thanks"
     },
     "new_notification_sound_fav_opponent": {
       "comment": "it is in the notification settings where you can choose a sound for the goal of an opponent to your favorite team",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Favourite opponent goal"
     },
     "new_odds_format": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Odds format"
     },
     "new_onlytopnews": {
-      "comment": "",
-      "tags": [],
       "value": "Only top news"
     },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Optional"
     },
     "new_password": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "android"
-      ],
       "value": "Password"
     },
     "new_pause_result": {
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
-      "tags": [
-        "ios",
-        "watchos"
-      ],
       "value": "Halftime result"
     },
     "new_pick_favorite": {
-      "comment": "",
-      "tags": [],
       "value": "We noticed you have no favourite teams set. Do you want to set one now?"
     },
     "new_pick_suggestion": {
-      "comment": "",
-      "tags": [],
       "value": "Pick suggestion"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
-      "tags": [
-        "android"
-      ],
       "value": "%@ is not sent off"
     },
     "new_player_scores": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "iosnotification"
-      ],
       "value": "%@ scores!"
     },
     "new_player_sent_off": {
       "comment": "Information message that a player has received a red card",
-      "tags": [
-        "android"
-      ],
       "value": "%@ is sent off!"
     },
     "new_profile_picture": {
-      "comment": "",
-      "tags": [],
       "value": "Profile picture"
     },
     "new_quarterfinal": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Quarter-final"
     },
     "new_quick_start": {
       "comment": "Short button caption at splash screen.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Quick Setup"
     },
     "new_red_card": {
       "comment": "Information message that a player has received a red card",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Red card!"
     },
     "new_red_card_alert": {
       "comment": "Indicates that the user wants an alert when a player receives a red card",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Red cards"
     },
     "new_related_news": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Related news"
     },
     "new_reminder": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Match starts in %@ minutes"
     },
     "new_remove_ads": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Remove ads"
     },
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
-      "tags": [
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Round of 16"
     },
     "new_score_correction": {
       "comment": "Information message if we have mistakenly informed of a wrong score earlier, this is a correction message",
-      "tags": [
-        "ios",
-        "android",
-        "iosnotification"
-      ],
       "value": "Score correction"
     },
     "new_search": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Search"
     },
     "new_search_hint_global_desc": {
-      "comment": "",
-      "tags": [],
       "value": "No results so far!"
     },
     "new_semifinal": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Semi-final"
     },
     "new_set_alerts": {
       "comment": "Dialog title indicating that the user can set team alerts in this dialog",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Set Alerts"
     },
     "new_set_favorite_team": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Set favourite team"
     },
     "new_set_your_popular_teams": {
-      "comment": "",
-      "tags": [],
       "value": "Do you follow one of these popular teams?"
     },
     "new_set_your_teams": {
       "comment": "Informing the user that he can choose his favorite local team(s)",
-      "tags": [],
       "value": "Choose your favourite local teams"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
-      "tags": [
-        "ios"
-      ],
       "value": "Sign up"
     },
     "new_skip": {
       "comment": "Button caption for skipping to the next screen",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Skip"
     },
     "new_sounds": {
       "comment": "Heading for the sounds that you can choose when getting alerts for goals, cards ++",
-      "tags": [
-        "poller",
-        "android",
-        "ios"
-      ],
       "value": "Sounds"
     },
     "new_sounds_desc": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Change notification sound for the alerts"
     },
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Standings"
     },
     "new_start_and_finish": {
       "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "tags": [],
       "value": "Start and fulltime result"
     },
     "new_summary": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Summary"
     },
     "new_team_profile": {
-      "comment": "",
-      "tags": [],
       "value": "Team Profile"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Teams"
     },
     "new_title_activity_video_wrapper": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios"
-      ],
       "value": "Videos"
     },
     "new_title_activity_widget_settings": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Settings"
     },
     "new_title_activity_world_cup": {
       "comment": "Do not translate",
-      "tags": [],
       "value": "Brazil 2014"
     },
     "new_to_win": {
       "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "tags": [],
       "value": "To win"
     },
     "new_top_players": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Top players"
     },
     "new_transfer_news_added": {
-      "comment": "",
-      "tags": [],
       "value": "We will only send you alerts for the top transfer news"
     },
     "new_transfers": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Transfers"
     },
     "new_username": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Username"
     },
     "new_view": {
       "comment": "Call to action label on a button to view more details about the message being displayed at the screen",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "View"
     },
     "new_waiting_for_extratime": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "predictor"
-      ],
       "value": "Waiting for extra time"
     },
     "new_waiting_for_penalties": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "predictor"
-      ],
       "value": "Waiting for penalties"
     },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "WEIGHT"
     },
     "new_who_will_score_next": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Who will score next?"
     },
     "new_widget_providers_list_title": {
-      "comment": "",
-      "tags": [],
       "value": "Configure"
     },
     "notifications_accurate_passes": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "wearos",
-        "watchos"
-      ],
       "value": "Accurate passes"
     },
     "notifications_add_favorite_desc_ipad": {
       "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
-      "tags": [
-        "ios"
-      ],
       "value": "Tap + to add a favourite team or player"
     },
     "notifications_added_injury_time": {
@@ -4753,1323 +2010,570 @@
       "plurals": {
         "one": "+%d minute added",
         "other": "+%d minutes added"
-      },
-      "tags": [
-        "plural",
-        "watchos",
-        "wearos",
-        "web"
-      ]
+      }
     },
     "notifications_alert_Aborted": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nAborted"
     },
     "notifications_alert_AfterExtraTime": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nFinished after extra time"
     },
     "notifications_alert_AfterPenalties": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nFinished after penalties"
     },
     "notifications_alert_Cancelled": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nCancelled"
     },
     "notifications_alert_Finished": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nFinished"
     },
     "notifications_alert_FirstExtraHalf": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nFirst extra half underway"
     },
     "notifications_alert_FirstHalf": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ - %@\\nStarted"
     },
     "notifications_alert_Pause": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nHalf time"
     },
     "notifications_alert_PauseExtraTime": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nPause in extra time"
     },
     "notifications_alert_PenaltiesAreHappening": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nPenalty shootout underway!"
     },
     "notifications_alert_Postponed": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nMatch is postponed"
     },
     "notifications_alert_SecondExtraHalf": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nSecond extra half begins"
     },
     "notifications_alert_SecondHalf": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nSecond half begins"
     },
     "notifications_alert_WaitingForExtratime": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nWaiting for extra time"
     },
     "notifications_alert_WaitingForPenalties": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\nWaiting for penalties"
     },
     "notifications_alert_card_removed": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "Correction: %@%@ did not receive a red card\\n%@"
     },
     "notifications_alert_goal": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
-      "tags": [
-        "appengine",
-        "android",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@Goal!"
     },
     "notifications_alert_goal_noscorer": {
       "comment": "No need to translate this",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@"
     },
     "notifications_alert_goal_owngoal": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@Own goal!"
     },
     "notifications_alert_goal_penalty": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@ Goal! (penalty)"
     },
     "notifications_alert_goal_removed": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@Score correction"
     },
     "notifications_alert_goal_removed_penalty": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@Score correction"
     },
     "notifications_alert_goal_scorer": {
       "comment": "No need to translate this",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@%@"
     },
     "notifications_alert_goal_scorer_owngoal": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@%@ (own goal)"
     },
     "notifications_alert_goal_scorer_penalty": {
       "comment": "Goal was scored on a penalty",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@%@ (penalty)"
     },
     "notifications_alert_lineup_confirmed": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ - %@\\nLineups confirmed!"
     },
     "notifications_alert_matchreminder": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ - %@\\nBegins in %@ minutes"
     },
     "notifications_alert_missed_penalty": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@%@ missed a penalty\\n%@"
     },
     "notifications_alert_red_card": {
-      "comment": "",
-      "tags": [
-        "appengine",
-        "ios",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@%@ received a red card!\\n%@"
     },
     "notifications_alert_score": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
-      "tags": [
-        "appengine",
-        "watchos",
-        "iosnotification",
-        "ioswidget"
-      ],
       "value": "%@ %@-%@ %@\\n%@Goal!"
     },
     "notifications_already_a_user": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Already a user?"
     },
     "notifications_are_you_enjoying_app_variant_1": {
       "comment": "Used for rating dialog",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Hi, are you enjoying FotMob?"
     },
     "notifications_are_you_enjoying_app_variant_2": {
       "comment": "Used for rating dialog",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Hi %@! Do you enjoy using FotMob?"
     },
     "notifications_at_least_one": {
       "comment": "An error message informing user that he has to pick at least one of the alert options (goals, penalties, half time ++)",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "You must select at least one alert"
     },
     "notifications_bench": {
       "comment": "The substitutes + coach",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Bench"
     },
     "notifications_blocked_shots": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Blocked shots"
     },
     "notifications_career": {
       "comment": "A tab label indicating that in it we will show which clubs the player has played for before in his career. Also uses the same header for Coaches indicating which clubs he has coached in his career.",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Career"
     },
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Clearances"
     },
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Crosses"
     },
     "notifications_days_until_match_start": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "%@ days"
     },
     "notifications_defense": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Defence"
     },
     "notifications_denmark": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Denmark"
     },
     "notifications_disable": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Disable push"
     },
     "notifications_disable_dnd_to_hear_notifications": {
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
-      "tags": [
-        "android"
-      ],
       "value": "Disable \"Do not disturb\" mode to hear notification sounds."
     },
     "notifications_disable_push": {
-      "comment": "",
-      "tags": [],
       "value": "Are you sure? You should only do this if you experience problems with the notifications."
     },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Discipline"
     },
     "notifications_dispossessed": {
       "comment": "Stat indication how many times a player lost the ball to an opponent (was Dispossessed)",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Dispossessed"
     },
     "notifications_distribution": {
       "comment": "Header for stats regarding passes, long balls, crosses and chances created in the match",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Distribution"
     },
     "notifications_dnd_is_enabled": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "- \"Do not disturb\" is enabled"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
-      "tags": [
-        "android"
-      ],
       "value": "Do not disturb"
     },
     "notifications_dribbles_attempted": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Dribbles attempted"
     },
     "notifications_dribbles_succeeded": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Successful dribbles"
     },
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Duels lost"
     },
     "notifications_duel_won": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Duels won"
     },
     "notifications_duels": {
       "comment": "Stat for the number of duels that the player has been involved in during the match",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Duels"
     },
     "notifications_error_signing_in_with": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "There was a problem signing in with %@. Please try again."
     },
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
-      "tags": [
-        "android"
-      ],
       "value": "Unable toggle favourite. Please try again later."
     },
     "notifications_favorite_players": {
       "comment": "A header for a list of favorite players that the user has chosen",
-      "tags": [
-        "ios"
-      ],
       "value": "Favourite players"
     },
     "notifications_germany": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Germany"
     },
     "notifications_how_about_rating": {
       "comment": "Used for rating dialog, button label so keep it short",
-      "tags": [
-        "android"
-      ],
       "value": "How about rating us on the Play Store?"
     },
     "notifications_how_about_rating_iOS": {
       "comment": "Used for rating dialog, button label so keep it short",
-      "tags": [
-        "ios"
-      ],
       "value": "How about rating us on the App Store?"
     },
     "notifications_increase_volume_to_hear_notifications": {
       "comment": "Shown when the user has muted the notifications",
-      "tags": [
-        "android"
-      ],
       "value": "Please increase the alert volume to hear notification sounds."
     },
     "notifications_increase_volume_to_preview_sound": {
       "comment": "Shown when user has muted the media",
-      "tags": [
-        "android"
-      ],
       "value": "Please increase the media volume to hear the preview of the sound."
     },
     "notifications_is_in_lineup": {
       "comment": "A user can get an alert if the player is in the lineup that will start the match. Can be either sub or as the starting 11.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Is in lineup"
     },
     "notifications_key_players": {
       "comment": "Header for the most important players in the match",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Key players"
     },
     "notifications_live": {
       "comment": "Describing TV listings sending a match live",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Live"
     },
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
-      "tags": [
-        "android"
-      ],
       "value": "You have been logged out. Please log in again so that we can continue keeping your favourites and settings safe."
     },
     "notifications_long_balls": {
       "comment": "Stat for long balls during the match",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Long balls"
     },
     "notifications_long_balls_accurate": {
       "comment": "Long balls that are accurate (to a player on his own team)",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Accurate long balls"
     },
     "notifications_match_date": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Match date"
     },
     "notifications_matches_started": {
       "comment": "Header for a number indication how many matches the player has started out of a total. Like \"Matches started 27/30\".",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Matches started"
     },
     "notifications_matchstats.headers.attackers": {
-      "comment": "",
-      "tags": [],
       "value": "Attackers"
     },
     "notifications_matchstats.headers.clerances": {
-      "comment": "",
-      "tags": [],
       "value": "Clearances"
     },
     "notifications_matchstats.headers.defenders": {
-      "comment": "",
-      "tags": [],
       "value": "Defenders"
     },
     "notifications_matchstats.headers.dribbles": {
-      "comment": "",
-      "tags": [],
       "value": "Dribbles"
     },
     "notifications_matchstats.headers.passers": {
-      "comment": "",
-      "tags": [],
       "value": "Passers"
     },
     "notifications_matchstats.headers.passes": {
-      "comment": "",
-      "tags": [],
       "value": "Passes"
     },
     "notifications_matchstats.headers.tackles": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios",
-        "web"
-      ],
       "value": "Tackles"
     },
     "notifications_minutes_played": {
       "comment": "How many minutes the player has been on field",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Minutes played"
     },
     "notifications_my_leagues": {
       "comment": "Profile page list header",
-      "tags": [
-        "ios"
-      ],
       "value": "My leagues"
     },
     "notifications_my_players": {
       "comment": "Profile page list header",
-      "tags": [
-        "web"
-      ],
       "value": "My players"
     },
     "notifications_my_teams": {
       "comment": "Profile page list header",
-      "tags": [
-        "web"
-      ],
       "value": "My teams"
     },
     "notifications_no_favorites_added_yet": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "No favourites added yet"
     },
     "notifications_no_variant_1": {
       "comment": "Used for rating dialog",
-      "tags": [],
       "value": "Not really"
     },
     "notifications_no_variant_2": {
       "comment": "Used for rating dialog, button label so keep it short",
-      "tags": [],
       "value": "Nah, I have some ideas"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Norway"
     },
     "notifications_notifications_2": {
       "comment": "Button with shortcut to system settings",
-      "tags": [
-        "android"
-      ],
       "value": "Notifications"
     },
     "notifications_notifications_are_blocked": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "- Notifications for this app have been disabled"
     },
     "notifications_notifications_are_muted": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "- Notifications are muted"
     },
     "notifications_notifications_are_muted_simple": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Notifications are muted"
     },
     "notifications_notifications_count": {
       "comment": "Status string indication how many favorites you got and how many with notifications",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "%@ favourites, %@ with notifications"
     },
     "notifications_notifications_may_not_be_heard": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Notifications may currently not be heard and/or seen because:"
     },
     "notifications_ok_sure": {
       "comment": "Used for rating dialog, button label so keep it short",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "OK, sure"
     },
     "notifications_pass_percentage": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "wearos",
-        "watchos"
-      ],
       "value": "Pass success"
     },
     "notifications_pass_percentage_short": {
       "comment": "Short header for pass percentage",
-      "tags": [],
       "value": "Pass %"
     },
     "notifications_passes": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Passes"
     },
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
-      "tags": [
-        "ios",
-        "watchos",
-        "iosnotification"
-      ],
       "value": "%@ is in the starting lineup. %@ - %@"
     },
     "notifications_player_starts_on_the_bench": {
       "comment": "A user can get an alert if the player is on the bench at the start of the match. \"Wayne Rooney is starting as a substitute. Manchester United - Liverpool",
-      "tags": [
-        "android",
-        "ios",
-        "watchos",
-        "iosnotification"
-      ],
       "value": "%@ is a substitute. %@ - %@"
     },
     "notifications_player_throws": {
       "comment": "Goalkeeper throws or throw-ins from the side. We use the same translation for both.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Throws"
     },
     "notifications_playoff": {
       "comment": "tab-title for brackets view in League overview",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Knockout"
     },
     "notifications_position": {
       "comment": "Label for a field indication which position the player plays in. Forward/defender/attacker og goalkeeper. Try to keep it short.",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Position"
     },
     "notifications_profile": {
       "comment": "Menu item in navigation drawer.",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Profile"
     },
     "notifications_punches": {
       "comment": "Indicates that the keeper has punched the ball on a cross",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Punches"
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Receive confirmed transfer alerts for all of your favourite teams"
     },
     "notifications_saves": {
       "comment": "Stat for the number of keeper saves in the match",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Saves"
     },
     "notifications_set_at_least_one_match_alert": {
       "comment": "Short message telling user to check at least one of the checkboxes for match alerts",
-      "tags": [
-        "android"
-      ],
       "value": "Set at least one match alert."
     },
     "notifications_set_standard_notifications": {
       "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "tags": [],
       "value": "Set standard notifications"
     },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Shirt"
     },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Shots"
     },
     "notifications_shots_detail": {
       "comment": "Header for detailed stats about the shots in the game",
-      "tags": [],
       "value": "Shots detail"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Shots inside box"
     },
     "notifications_shots_outside_box": {
       "comment": "Stat for shots taken outside the penalty area",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Shots outside box"
     },
     "notifications_shots_woodwork": {
       "comment": "Stat for shots hitting the woodwork on the goal (post or bar)",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Hit woodwork"
     },
     "notifications_sign_in": {
       "comment": "Profile page sign in",
-      "tags": [
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Sign in"
     },
     "notifications_sign_in_dialog": {
       "comment": "Dialog \"selling\" profile login",
-      "tags": [
-        "android"
-      ],
       "value": "We can keep your favorites and settings safe. <b>Sign in now?</b>"
     },
     "notifications_sign_in_with_apple": {
-      "comment": "",
-      "tags": [
-        "android",
-        "ios",
-        "predictor"
-      ],
       "value": "Sign in with Apple"
     },
     "notifications_sign_in_with_facebook": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Sign in with Facebook"
     },
     "notifications_sign_in_with_google": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Sign in with Google"
     },
     "notifications_sign_in_with_twitter": {
-      "comment": "",
-      "tags": [
-        "predictor"
-      ],
       "value": "Sign in with Twitter"
     },
     "notifications_sign_out": {
       "comment": "Profile page sign out",
-      "tags": [
-        "ios",
-        "android",
-        "predictor"
-      ],
       "value": "Sign out"
     },
     "notifications_signing_in": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Signing in…"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "tags": [],
       "value": "Social media updates"
     },
     "notifications_spain": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Spain"
     },
     "notifications_standard_alerts_applied_message": {
       "comment": "Info message that informs user that we have added the standard alerts to the match between two teams. The standard alerts are a set of alerts that the user has defined in settings like Goals, Red Cards, Penalties and so on.",
-      "tags": [
-        "android"
-      ],
       "value": "Added standard alerts for %@ vs %@"
     },
     "notifications_standard_alerts_description": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Set the standard notifications for any new league, match or team alerts that are set. This does not affect existing alerts."
     },
     "notifications_status_live": {
       "comment": "Status indicator for match highlights. Says the match is ongoing.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Live"
     },
     "notifications_sweden": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Sweden"
     },
     "notifications_tackles_attempted": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Tackles attempted"
     },
     "notifications_tackles_succeeded": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Tackles won"
     },
     "notifications_the_league_was_removed": {
       "comment": "Removing element from profile page",
-      "tags": [
-        "android"
-      ],
       "value": "The league was removed."
     },
     "notifications_the_player_was_removed": {
       "comment": "Removing element from profile page",
-      "tags": [
-        "android"
-      ],
       "value": "The player was removed."
     },
     "notifications_the_team_was_removed": {
       "comment": "Removing element from profile page",
-      "tags": [
-        "android"
-      ],
       "value": "The team was removed."
     },
     "notifications_time_setting_may_be_incorrect": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "Both the time and time zone setting may be incorrect."
     },
     "notifications_time_settings": {
       "comment": "Button that open time and date settings on the device",
-      "tags": [
-        "android"
-      ],
       "value": "Time settings"
     },
     "notifications_timezone_and_time_warning_message": {
       "comment": "The first argument is the name of the timezone, the last two is the time of day.",
-      "tags": [
-        "android"
-      ],
       "value": "The timezone is set to %1$@. Either the time zone should be changed or the time should probably be set to %2$@ and not %3$@."
     },
     "notifications_top_stats": {
       "comment": "Header for the most important stats in the game",
-      "tags": [
-        "ios",
-        "android",
-        "watchos"
-      ],
       "value": "Top stats"
     },
     "notifications_total_shots": {
-      "comment": "",
-      "tags": [
-        "poller",
-        "ios",
-        "android",
-        "wearos",
-        "watchos"
-      ],
       "value": "Total shots"
     },
     "notifications_trending_favorites_are_hidden": {
       "comment": "Short \"snackbar\" telling user that the trending favourites teams/players/leagues have been hidden.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Trending favourites are hidden."
     },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "UK"
     },
     "notifications_undo": {
       "comment": "General undo of some action",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Undo"
     },
     "notifications_usa": {
       "comment": "Used in TV schedules filter",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "USA"
     },
     "notifications_view_player_details": {
       "comment": "Button caption for viewing more details about a player",
-      "tags": [],
       "value": "Player details"
     },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Volume"
     },
     "notifications_warning": {
       "comment": "Header of card warning user about incorrect user",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Warning"
     },
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
-      "tags": [
-        "poller",
-        "ios",
-        "android"
-      ],
       "value": "Was fouled"
     },
     "notifications_watch_match_bet365": {
       "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "tags": [],
       "value": "Watch the match on Bet365 TV"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "We've added confirmed transfer alerts! Do you want to turn them on for your favourite teams?"
     },
     "notifications_we_can_keep_your_settings_safe": {
-      "comment": "",
-      "tags": [
-        "android"
-      ],
       "value": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device."
     },
     "notifications_would_you_mind_giving_feedback": {
       "comment": "Used for rating dialog, button label so keep it short",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Would you mind giving us some feedback?"
     },
     "notifications_yes_variant_1": {
       "comment": "Used for rating dialog",
-      "tags": [],
       "value": "Yes!"
     },
     "notifications_yes_variant_2": {
       "comment": "Used for rating dialog, button label so keep it short",
-      "tags": [],
       "value": "Yes, it's perfect!"
     },
     "notifications_your_content_has_never_been_synced": {
-      "comment": "",
-      "tags": [
-        "ios"
-      ],
       "value": "Your content has not been synced yet. Please sign out and in again if the problem persists."
     },
     "seo_TOTW": {
       "comment": "Team of the Week.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "TOTW"
     },
     "seo_a_short_description_of_the_issue": {
       "comment": "Used as placeholder in the troubleshooting mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "A short description of the issue"
     },
     "seo_about_the_match": {
       "comment": "Heading for a text describing the match. Time, location, who is involved etc",
-      "tags": [
-        "web"
-      ],
       "value": "About the match"
     },
     "seo_bug": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue. And as a description for mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Bug"
     },
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Describe your issue"
     },
     "seo_expires_in": {
@@ -6078,201 +2582,106 @@
         "one": "Expires tomorrow",
         "other": "Expires in %d days",
         "zero": "Expires today"
-      },
-      "tags": [
-        "plural",
-        "ios",
-        "android"
-      ]
+      }
     },
     "seo_feedback": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue. And as a description for mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Feedback"
     },
     "seo_friendly_match": {
       "comment": "Text explaining that the the current match is a friendly match that does not count towards any trophies or prices.",
-      "tags": [
-        "web"
-      ],
       "value": "This is a friendly match."
     },
     "seo_group_generic": {
       "comment": "Used in league fixtures filter",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Group"
     },
     "seo_h2h_first_time": {
       "comment": "Text explainging that this is the first time the teams have played each other.",
-      "tags": [
-        "web"
-      ],
       "value": "This is the first time the teams are playing against each other."
     },
     "seo_h2h_summary": {
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
-      "tags": [
-        "web"
-      ],
       "value": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s)."
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Help"
     },
     "seo_i_need_help": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "I need help"
     },
     "seo_league_match": {
       "comment": "Text explaining that the the current match is a match in the given league or competition.",
-      "tags": [
-        "web"
-      ],
       "value": "This is a %1$@ match."
     },
     "seo_league_match_round": {
       "comment": "Text explaining that the the current match is a match in the given round or stage in the given league or competition. Eg. \"This is round 12 of the Eliteserien.\"",
-      "tags": [
-        "web"
-      ],
       "value": "This is %1$@ of the %2$@."
     },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
-      "tags": [
-        "web"
-      ],
       "value": "Newsletter"
     },
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
-      "tags": [
-        "web"
-      ],
       "value": "The bookmakers predict a close match between %1$@ and %2$@."
     },
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ are the favorites to win the match, according to the bookmakers."
     },
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ have odds of %2$@ to win, %3$@ for a draw, and %4$@ for %5$@ to win."
     },
     "seo_odds_x": {
       "comment": "Used for the betting slip to show the odds of your current selected bets.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Odds %1$@"
     },
     "seo_offerings_prematch": {
       "comment": "Explaining what features will be availalbe on the fotmob site, and when.",
-      "tags": [
-        "web"
-      ],
       "value": "Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match."
     },
     "seo_penalty_shootout_miss": {
       "comment": "Used in notifications to indicate that a team missed a penalty during a penalty shootout event, such as \"Arsenal miss! (penalty shootout).\"",
-      "tags": [
-        "ios",
-        "android",
-        "watchos",
-        "iosnotification"
-      ],
       "value": "%@ miss!"
     },
     "seo_penalty_shootout_v2": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
-      "tags": [
-        "android"
-      ],
       "value": "penalty shootout"
     },
     "seo_play_offs": {
       "comment": "Button title as a header for the Champions League playoffs. This is matches that decide who will progress to the Round of 16.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Play-offs"
     },
     "seo_play_offs_draw": {
       "comment": "Label as a header for the matches that will be part of a random draw which will decide which teams meet each other in the play off matches.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Play-offs draw"
     },
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
-      "tags": [
-        "ios",
-        "android",
-        "web"
-      ],
       "value": "The play-off matchups are determined by a draw. In each grouping, the two teams on the left are drawn against the two teams on the right to create two play-off matchups. The play-offs are played over two legs, with the winner going to the round of 16.\\n\\nThere is a separate draw for the round of 16 using the same process."
     },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
-      "tags": [
-        "android",
-        "ios"
-      ],
       "value": "Started"
     },
     "seo_playing_home": {
       "comment": "Text explaining that the first team is playing at home against the visiting team at a given time.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ is playing home against %2$@ on %3$@."
     },
     "seo_playing_home_at_stadium": {
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ is playing home against %2$@ at %3$@ on %4$@."
     },
     "seo_predict_onboarding_apps": {
       "comment": "Text in onboarding of our predictor game. The placeholder is a league name like \"Women's EURO 2025\" so the complete string in English will be \"Predict Women's EURO 2025 results and compete against friends in leagues!\". If the word \"Predict\" sounds weird in your language, please use \"Guess\" as a replacement.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Predict %@ results and compete against friends in leagues!"
     },
     "seo_predictor_play_button": {
       "comment": "Button label for starting the predictor game. Must be short and clearly signal the action of predicting match results.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Play"
     },
     "seo_renews_in": {
@@ -6280,490 +2689,272 @@
       "plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days"
-      },
-      "tags": [
-        "plural",
-        "ios",
-        "android"
-      ]
+      }
     },
     "seo_round": {
       "comment": "Used in league fixtures filter",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Round"
     },
     "seo_roundof16playoff": {
-      "comment": "",
-      "tags": [
-        "ios",
-        "android",
-        "wearos"
-      ],
       "value": "Round of 16 playoff"
     },
     "seo_save": {
       "comment": "Outcome after a shot that indicates that the keeper made a save",
-      "tags": [
-        "poller",
-        "appengine",
-        "ios",
-        "android"
-      ],
       "value": "Saves"
     },
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
-      "tags": [
-        "web"
-      ],
       "value": "FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world."
     },
     "seo_site_description_aboutus_careers": {
       "comment": "Meta description for the fotmob website about careers, where open postitions are listed",
-      "tags": [
-        "web"
-      ],
       "value": "We are looking for developers, check out our open positions! FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world."
     },
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
-      "tags": [
-        "web"
-      ],
       "value": "Have a question about FotMob, app settings or stats definitions? Check out FotMob's Frequently Asked Questions page for answers and other pro tips!"
     },
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
-      "tags": [
-        "web"
-      ],
       "value": "Create a personalized news feed with breaking news from your favorite clubs and leagues."
     },
     "seo_site_description_latest_news": {
       "comment": "Meta description text for the Latest News page.",
-      "tags": [
-        "web"
-      ],
       "value": "Get the latest news, headlines and transfer rumours from the Premier League and world football."
     },
     "seo_site_description_league_matches": {
       "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ results %2$@ and upcoming fixtures"
     },
     "seo_site_description_league_news": {
       "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
-      "tags": [
-        "web"
-      ],
       "value": "Get the latest %1$@ news and transfer rumours."
     },
     "seo_site_description_league_overview": {
       "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ table %2$@, results, fixtures, top scorers and more"
     },
     "seo_site_description_league_playoff": {
       "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ tournament overview, fixtures, results %2$@"
     },
     "seo_site_description_league_stats": {
       "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more"
     },
     "seo_site_description_league_table": {
       "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ table %2$@, standings, form guide, and more."
     },
     "seo_site_description_league_transfers": {
       "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "tags": [
-        "web"
-      ],
       "value": "See all %1$@ transfers."
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
     },
     "seo_site_description_match_finished": {
       "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ %2$@ stats including top scorers, assists, player ratings, and more"
     },
     "seo_site_description_stats_team": {
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ stats for %2$@ %3$@ including top scorers, assists, player ratings, and more"
     },
     "seo_site_description_team_fixtures": {
       "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - live scores, fixtures, and results"
     },
     "seo_site_description_team_history": {
       "comment": "Description for the page showing a teams historical table positions and trophies won.",
-      "tags": [
-        "web"
-      ],
       "value": "Historical table positions for %1$@"
     },
     "seo_site_description_team_news": {
       "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "tags": [
-        "web"
-      ],
       "value": "Get the latest %1$@ news and transfer rumours"
     },
     "seo_site_description_team_overview": {
       "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - results, fixtures, latest news and standings"
     },
     "seo_site_description_team_squad": {
       "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
-      "tags": [
-        "web"
-      ],
       "value": "Current %1$@ squad"
     },
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - team rating, goals per match, shots on target and other stats"
     },
     "seo_site_description_team_table": {
       "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - league and cup standings and form guide"
     },
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
-      "tags": [
-        "web"
-      ],
       "value": "Latest %1$@ transfers in, out and contract extensions"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
-      "tags": [
-        "web"
-      ],
       "value": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
-      "tags": [
-        "web"
-      ],
       "value": "FotMob - Football Live Scores"
     },
     "seo_site_title_aboutus": {
       "comment": "Website meta title for the fotmob about us page",
-      "tags": [
-        "web"
-      ],
       "value": "FotMob - About us"
     },
     "seo_site_title_aboutus_advertise": {
-      "comment": "",
-      "tags": [
-        "web"
-      ],
       "value": "FotMob - Advertise"
     },
     "seo_site_title_aboutus_careers": {
       "comment": "Meta title for the fotmob website about careers, where open postitions are listed",
-      "tags": [
-        "web"
-      ],
       "value": "FotMob - We are hiring!"
     },
     "seo_site_title_coach": {
       "comment": "Title for the page for a coach. With name as input. Eg \"Frank Lampard - stats and career\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - stats and career"
     },
     "seo_site_title_faq": {
       "comment": "Meta title tag value for FAQ page, with questions and anwsers to frequently asked questions.",
-      "tags": [
-        "web"
-      ],
       "value": "Frequently Asked Questions"
     },
     "seo_site_title_for_you": {
       "comment": "Title of the For You news page. Typically displayed in the tab header in the browser.",
-      "tags": [
-        "web"
-      ],
       "value": "News - For You - personalized news feed"
     },
     "seo_site_title_latest_news": {
       "comment": "Title of the Latest News page. Typically displayed in the tab header in the browser.",
-      "tags": [
-        "web"
-      ],
       "value": "Latest News - Today's football news and transfer rumours."
     },
     "seo_site_title_league_matches": {
       "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ matches and results %2$@"
     },
     "seo_site_title_league_news": {
       "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - latest news and rumors"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ matches, tables and news %2$@"
     },
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ knockout fixtures, bracket and champion %2$@"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ %2$@ top rated players, goals, assists and other stats"
     },
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ winners and runner-ups"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ table %2$@, form and next opponent"
     },
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - transfers, contracts and market values"
     },
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ vs %2$@ - live score, predicted lineups and H2H stats"
     },
     "seo_site_title_player": {
       "comment": "Title for the page for a player. With name as input. Eg \"Frank Lampard - stats, career and market value\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - stats, career and market value"
     },
     "seo_site_title_stats": {
       "comment": "Meta title for stats page with list of stats for players",
-      "tags": [
-        "web"
-      ],
       "value": "Stats - FotMob - The Pulse of Football"
     },
     "seo_site_title_stats_league": {
       "comment": "Page title for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - %2$@ %3$@ stats"
     },
     "seo_site_title_stats_team": {
       "comment": "Page title for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - %2$@ stats for %3$@ %4$@"
     },
     "seo_site_title_team_fixtures": {
       "comment": "Meta title tag value for the team fixtures page, with both future and past matches and results.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - latest matches, scores and upcoming fixtures"
     },
     "seo_site_title_team_history": {
       "comment": "Title for the page showing a teams historical table positions and trophies won.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ -  historical table positions and trophies"
     },
     "seo_site_title_team_news": {
       "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - latest news and rumors"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - fixtures, team info and top players"
     },
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - squad, coach, injuries and positions"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - team rating, goals per match, shots on target and other stats"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ table, form and next opponent"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
-      "tags": [
-        "web"
-      ],
       "value": "%1$@ - transfer history, players in and players out"
     },
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
-      "tags": [
-        "web"
-      ],
       "value": "Transfer Center - Latest & Top Transfers - FotMob"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
-      "tags": [
-        "web"
-      ],
       "value": "Transfer Center - %1$@: Latest & Top Transfers - FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Something went wrong. Please try again."
     },
     "seo_submit": {
       "comment": "Used as call to action for submit button in troubleshooting mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Submit"
     },
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Thank you for your feedback!"
     },
     "seo_throwins": {
       "comment": "Indicating that the player threw the ball as part of a throw-in. We use this translation only as part of a throw in from the side. Keeper throws is translated in another string.",
-      "tags": [
-        "ios",
-        "android"
-      ],
       "value": "Throw-ins"
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
-      "tags": [
-        "web"
-      ],
       "value": "Catch all the action on %1$@."
     },
     "seo_x_matches": {
@@ -6771,12 +2962,7 @@
       "plurals": {
         "one": "1 match",
         "other": "%d matches"
-      },
-      "tags": [
-        "plural",
-        "ios",
-        "android"
-      ]
+      }
     }
   }
 }
