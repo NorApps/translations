@@ -1,0 +1,1481 @@
+{
+  "language": "ar",
+  "translations": {
+    "accessibility_about_us": "من نحن",
+    "accessibility_advertise": "إعلان",
+    "accessibility_aerials_won_percent": "ربح الكرات العالية",
+    "accessibility_age_confirmation": "تأكيد السن",
+    "accessibility_age_confirmation_button_negative": "أقل من %d",
+    "accessibility_age_confirmation_button_positive": "%d فما فوق",
+    "accessibility_age_confirmation_subtitle": "لعرض التوقعات نحتاج للتحقق من سنك",
+    "accessibility_alerts_disabled": "التنبيهات معطلة",
+    "accessibility_alerts_enabled": "التنبيهات مفعلة",
+    "accessibility_all_competitions": "جميع المتنافسين",
+    "accessibility_all_leagues": "كل البطولات",
+    "accessibility_all_players": "كل اللاعبين",
+    "accessibility_all_set_text": "كل شيء جاهز! سجّل الدخول لحفظ توقعاتك.",
+    "accessibility_all_stats": "كل الإحصائيات",
+    "accessibility_all_teams": "كل الفرق",
+    "accessibility_app_notifications_off_desc": "لقد قمت بتعطيل الإشعارات لـ FotMob",
+    "accessibility_assist_by": "بمساعدة %@",
+    "accessibility_attackers": "المهاجمون",
+    "accessibility_attacking_threat": "خطرهجومي",
+    "accessibility_attempt_saved": "محاولة تم التصدي لها",
+    "accessibility_by_date": "بالتاريخ",
+    "accessibility_by_round": "بالدور",
+    "accessibility_calendar_hint": "شاهد مباريات في نفس التاريخ",
+    "accessibility_career_stats": "إحصائيات الانتقالات",
+    "accessibility_careers": "وظائف",
+    "accessibility_change_language_explanation": "واصل إلى \"الإعدادات\" واضغط على \"اللغة\" لتحديد لغتك المفضلة في FotMob.\\n\\nإذا لم يكن إعداد اللغة متاحًا، فانتقل إلى إعدادات اللغة بجهازك لتعيين اللغة المفضلة أولاً.",
+    "accessibility_city": "المدينة",
+    "accessibility_coach_win_percentage": "النسبة المئوية لفوز المدرب",
+    "accessibility_company": "الشركة",
+    "accessibility_cookie_policy": "سياسة ملفات تعريف الارتباط",
+    "accessibility_could_not_connect": "لا يمكن توصيل الهاتف",
+    "accessibility_coupon": "قسيمة",
+    "accessibility_createleaguepopup_create_a_league": "أنشئ بطولة",
+    "accessibility_createleaguepopup_create_league": "إنشاء بطولة",
+    "accessibility_createleaguepopup_enter_name": "أدخل اسم بطولة",
+    "accessibility_createleaguepopup_type_the_name": "أدخل اسم البطولة أدناه",
+    "accessibility_crosses_succeeeded": "تمريرات عرضية ناجحة",
+    "accessibility_crosses_succeeeded_accuracy": "دقة التمريرات العرضية",
+    "accessibility_date": "التاريخ",
+    "accessibility_defenders": "المدافعون",
+    "accessibility_defending": "الدفاع",
+    "accessibility_defensive_actions": "حركات دفاعية",
+    "accessibility_defensive_actions_explained": "تتضمن الحركات الدفاعية كل افتكاكات الكرة، الصدّات، إبعاد الكرات، المخالفات، الاعتراضات.",
+    "accessibility_delete_account": "حذف الحساب",
+    "accessibility_delete_account_auth_prompt": "سيتم الطلب منك تسجيل الدخول مجددا للتحقق من هويتك قبل أن نقوم بحذف بياناتك.",
+    "accessibility_delete_account_description": "هل أنت متأكد من رغبتك في حذف حسابك؟ لا يمكن الرجوع عن هذا.",
+    "accessibility_detailed_goal_data": "تفاصيل التسديدة",
+    "accessibility_detailspage_group_stage": "دور المجموعات",
+    "accessibility_detailspage_reset": "اعادة ضبط",
+    "accessibility_direct_free_kick": "ضربة حرة مباشرة",
+    "accessibility_download_fotmob": "تنزيل FotMob",
+    "accessibility_dribbled_past": "مراوغة التسديد",
+    "accessibility_enable_push_description_live_activity": "قم بتمكين الإشعارات للحصول على تحديثات المباريات الحية على شاشة القفل الخاصة بك",
+    "accessibility_europa_conference_league_playoff": "تصفيات دوري المؤتمر الأوروبي",
+    "accessibility_events": "الأحداث",
+    "accessibility_expected_goals_non_penalty": "xG بدون ضربات جزاء",
+    "accessibility_expected_goals_on_target_faced": "xGOT التي تمت مواجهتها (الأهداف المتوقع تسجيلها)",
+    "accessibility_fast_break": "هجمة سريعة",
+    "accessibility_favorites_widget_display_body": "عرض المباريات التي تتابعها مع تحديثات مباشرة",
+    "accessibility_favorites_widget_display_title": "المباريات المتابعة",
+    "accessibility_fifa_rank": "ترتيب الفيفا",
+    "accessibility_finals_loser": "الخاسر %1$@",
+    "accessibility_first_extra_time_half_short": "1+",
+    "accessibility_first_half_short": "1.",
+    "accessibility_follow_in_the_app": "تابع على تطبيق FotMob",
+    "accessibility_follow_in_the_app_description": "توجه إلى توقعاتك، أو النقاط أوالبطولات مباشرة من تطبيقك FotMob على الأندرود و iOS.",
+    "accessibility_follow_leagues": "متابعة البطولات",
+    "accessibility_follow_leagues_to_set_notifications": "متابعة البطولات لضبط الإشعارات",
+    "accessibility_follow_players_to_set_notifications": "متابعة اللاعبين لضبط الإشعارات",
+    "accessibility_follow_teams_to_set_notifications": "متابعة الفرق لضبط الإشعارات",
+    "accessibility_fotmob_is_the_essential_app": "FotMob  هو تطبيق كرة قدم هام.",
+    "accessibility_fouls_won": "عدد الأخطاء التي فاز بها",
+    "accessibility_from_corner": "من الزاوية",
+    "accessibility_full_table": "كامل",
+    "accessibility_fullscreen": "شاشة كاملة",
+    "accessibility_get_the_app": "احصل على  التطبيق",
+    "accessibility_gfx_season_stats": "إحصائيات الموسم",
+    "accessibility_goal_type": "نوع الهدف",
+    "accessibility_got_a_code": "هل حصلت على الكود؟",
+    "accessibility_ground_duels_won": "المبارزات الارضية الرابحة",
+    "accessibility_h2h_short": "المواجهة",
+    "accessibility_headed_clearances_per_90": "منع تصريف الكرة بالرأس لكل 90 دقيقة",
+    "accessibility_header": "رأسية",
+    "accessibility_header_search_placeholder": "بطولات، فرق، لاعبون وأخبار",
+    "accessibility_hide_all": "إخفاء الكل",
+    "accessibility_highest_rank": "أعلى رتبة",
+    "accessibility_historical_table_positions": "المراكز السابقة للفريق في الجدول.",
+    "accessibility_historical_table_positions_header": "المراكز السابقة للفريق في الجدول",
+    "accessibility_history": "تاريخ",
+    "accessibility_individual_play": "Индивидуальная игра",
+    "accessibility_info_points_give": "أظهر معلومات عن كيفية إعطاء النقاط",
+    "accessibility_interrupted": "متوقفة",
+    "accessibility_interrupted_short": "IR",
+    "accessibility_invalid_code": "لم يعمل هذا. الرجاء تفقد إدخالك للكود الصحيح.",
+    "accessibility_is_favorite": "مفضل",
+    "accessibility_is_not_favorite": "غير مفضل",
+    "accessibility_joinleaguepopup_enter_code": "أدخل كود البطولة",
+    "accessibility_joinleaguepopup_error": "عذرًا، لم نتمكن من العثور على دوري بهذا الرمز",
+    "accessibility_joinleaguepopup_join_league": "الانضمام إلى البطولة",
+    "accessibility_joinleaguepopup_type_league_code": "أدخل أو ألصق كود التعريف الخاص بالبطولة في الحقل النصي أدناه:",
+    "accessibility_keeper_sweeper_actions": "ظهير",
+    "accessibility_keepers": "حراس المرمى",
+    "accessibility_last_starting_xi": "التشكيلة السابقة",
+    "accessibility_league_widget_body": "عرض مباريات اليوم مع التحديثات المباشرة",
+    "accessibility_league_widget_header": "البرنامج المصغر للدوري",
+    "accessibility_learn_more_cta": "لمزيد من المعلومات، <a href=\"%@\">اضغط هنا.</a>",
+    "accessibility_left_foot": "القدم اليسرى",
+    "accessibility_live_activities": "النشاطات المباشرة",
+    "accessibility_live_activities_onboarding_bell_info": "أدخل تغييرات بالنقر على الجرس على صفحة الفرق",
+    "accessibility_live_activities_onboarding_pin_teams": "تثبيت المباريات تلقائيا للفرق التي تتابعها في شاشة قفلك",
+    "accessibility_live_activity_added": "تمت إضافة مباراة مباشرة لشاشة القفل الخاص بك",
+    "accessibility_live_activity_alert_message": "يبدو أنك لم تفعل النشاطات المباشرة",
+    "accessibility_live_activity_alert_title": "تفعيل النشاطات المباشرة",
+    "accessibility_live_activity_max_exceeded": "لقد بلغت الحد الأقصى لعدد الفرق التي يمكن تثبيتها بشاشة القفل",
+    "accessibility_live_activity_pin_to_lockscreen": "تثبيت كل المباريات بشاشة القفل",
+    "accessibility_live_activity_removed": "تمت إزالة مباراة مباشرة لشاشة القفل الخاص بك",
+    "accessibility_live_activity_tooltip": "انقر على النجمة لإضافة المباراة لشاشة القفل الخاصة بك",
+    "accessibility_live_activity_visit_team_page": "تفعيل لكل المباريات عبر الجرس على صفحة الفريق",
+    "accessibility_live_activity_will_be_added": "سيتم عرض المباراة على شاشة القفل بساعة قبل بدئها",
+    "accessibility_live_score_filter_hint": "البلد، الفريق أو البطولة",
+    "accessibility_load_more": "تحميل المزيد",
+    "accessibility_log_out_and_delete_account": "سجل الخروج واحذف حسابك",
+    "accessibility_login_disclaimer": "بتسجيل الدخول، يمكنك قبول شروط الاستخدام وسياسة الخصوصية.",
+    "accessibility_logincomponent_desc1": "لحفظ البيانات عليك التسجل الدخول لتدخل FotMob",
+    "accessibility_logincomponent_desc1_v2": "سجل الدخول لحفظ بياناتك ومزامنتها عبر أجهزتك.",
+    "accessibility_logincomponent_desc2_v2": "مسابقة %1$@!",
+    "accessibility_long_ball_succeeeded_accuracy": "دقة التمريرات البعيدة بالنسبة المئوية",
+    "accessibility_lost_possession": "فقدان الكرة",
+    "accessibility_match_stats": "إحصائيات المباراة",
+    "accessibility_midfielders": "لاعبو الوسط",
+    "accessibility_misc_2nd_of_group": "المجموعة الثانية %1$@",
+    "accessibility_misc_3rd_of_group": "الثالث في مجموعة %1$@",
+    "accessibility_misc_4th_of_group": "الرابع في مجموعة %1$@",
+    "accessibility_misc_5th_of_group": "الخامس في مجموعة %1$@",
+    "accessibility_misc_lucky_loser_of_groups": "مجموعات الخاسرين المحظوظين %1$@",
+    "accessibility_misc_save_and_continue": "الحفظ على الجهاز والمواصلة",
+    "accessibility_misc_save_and_continue_hint": "سجّل الدخول لحفظ توقعاتك (أو احفظها محليًا في متصفحك). تسجيل الدخول مطلوب لإنشاء الدوريات والانضمام إليها.",
+    "accessibility_misc_save_and_continue_v2": "أو احفظ على الجهاز واستمر.",
+    "accessibility_misc_winner": "الفائز %1$@",
+    "accessibility_misc_winner_of_group": "المجموعة الفائزة %1$@",
+    "accessibility_miss": "فائتة",
+    "accessibility_more_tab": "تبويب المزيد",
+    "accessibility_most_recent": "الأحدث",
+    "accessibility_myleaguespage_challenge_your_friends": "تحدى أصدقاءك",
+    "accessibility_myleaguespage_create_a_new_league": "إنشاء بطولة جديدة",
+    "accessibility_myleaguespage_desc1": "البطولات التي أنشأتها خاصة، ولا يمكن أن ينضم لك سوى من لديهم المُعرف أو الرابط المناسب الذي أرسلته لهم.",
+    "accessibility_myleaguespage_desc1_v2": "أنشئ دوريًا للتنافس ضد الآخرين.",
+    "accessibility_myleaguespage_desc2_v2": "ستُضاف تلقائيًا إلى البطولة العالمية بمجرد أن تبدأ البطولة، حيث سترى نفسك في مواجهة جميع اللاعبين الذين في المنافسة.",
+    "accessibility_myleaguespage_desc2_v3": "يمكنك دعوة الأصدقاء إلى الدوري من خلال مشاركة رمز معرف الدوري الفريد أو رابط الدعوة.",
+    "accessibility_myleaguespage_desc2_v4": "البطولات التي أنشأتها خاصة، ولا يمكن الانضمام إليها سوى من لديهم المُعرف أو الرابط المناسب الذي أرسلته لهم.",
+    "accessibility_myleaguespage_join_a_league": "الانضمام إلى بطولة",
+    "accessibility_myleaguespage_join_league": "انضم إلى الدوري الحالي عن طريق إدخال رمز معرف الدوري.",
+    "accessibility_myleaguespage_join_league_v2": "ستُضاف تلقائيًا إلى البطولة العالمية بمجرد أن تبدأ البطولة، حيث سترى نفسك في مواجهة جميع اللاعبين الذين في المنافسة.",
+    "accessibility_myleaguespage_points_calculation": "احتساب النقاط",
+    "accessibility_myleaguespage_position_players": "الترتيب /  اللاعبين",
+    "accessibility_myleaguespage_you_have_not_joined": "أنت لم تنضم إلى أي بطولة بعد...",
+    "accessibility_new_match_experience_body": "الآن أصبح التنقل أسهل، وقد وضعنا المزيد من المعلومات في علامة التبويب الرئيسية.",
+    "accessibility_new_match_experience_header": "بيانات المباراة الجديدة",
+    "accessibility_new_match_experience_subtitle": "من خلال تعليقاتك، أعدنا تصميم صفحات المباريات.",
+    "accessibility_news_alerts_warning": "سوف نرسل لك %1$@-%2$@ تنبيهات أخبار في اليوم.",
+    "accessibility_no_bots_allowed": "لا يُسمح باستخدام الخدمات التلقائية (الروبوتات ، التجوال ، الفهرسة ، الخ) بالإضافة إلى طرق أخرى للاستخدام المنتظم أو النظامي.",
+    "accessibility_no_next_match": "لا توجد مباراة آتية مقررة",
+    "accessibility_non_penalty_xg": "xG بدون ضربات جزاء",
+    "accessibility_not_following_any_leagues": "أنت لا تتابع أي بطولات",
+    "accessibility_not_following_any_players": "أنت لا تتابع أي لاعبين",
+    "accessibility_not_following_any_teams": "أنت لا تتابع أي فرق",
+    "accessibility_not_on_pitch": "ليس على الملعب",
+    "accessibility_not_selected": "غير محدد",
+    "accessibility_notification_log": "سجل الإشعارات",
+    "accessibility_notifications_all_leagues_desc": "حدّد الإشعارات لجميع الدوريات القادمة",
+    "accessibility_notifications_all_players_desc": "حدّد الإشعارات لجميع اللاعبين التاليين",
+    "accessibility_notifications_all_teams_desc": "حدّد الإشعارات لجميع الفرق التالية",
+    "accessibility_notifications_enabled": "تم تفعيل الإشعارات",
+    "accessibility_notifications_toast_change": "تم تغيير %1$@ لـ %2$@",
+    "accessibility_notifications_toast_disable": "تم تعطيل %1$@ لـ %2$@",
+    "accessibility_notifications_toast_enable": "تم تمكين %1$@ لـ %2$@",
+    "accessibility_odds": "التوقعات",
+    "accessibility_off_target": "خارج الهدف",
+    "accessibility_on_target": "على الهدف",
+    "accessibility_on_tv": "على التلفزيون",
+    "accessibility_onboarding_follow_leagues_description_line_1": "لقد سهلنا رؤية الدوريات التي تريدها.",
+    "accessibility_onboarding_follow_leagues_description_line_2": "تقع الدوريات التي تتابعها في الجزء العلوي من موجز <b>%@</b>.",
+    "accessibility_onboarding_follow_leagues_description_line_3": "تابع الدوريات التي تهتم بها وسنقوم نحن بالباقي!",
+    "accessibility_onboarding_follow_leagues_header": "مراجعة دورياتك",
+    "accessibility_onboarding_following_leagues_simple_description_1": "يمكنك الآن إدارة الدوريات التي تتابعها وترتيبها في علامة التبويب <b>%@</b>.",
+    "accessibility_onboarding_leagues": "تظهر الدوريات التي تتابعها في الجزء العلوي من قائمة المباراة.",
+    "accessibility_onboarding_leagues_search_placeholder": "البحث في البطولات",
+    "accessibility_onboarding_manage_your_leagues": "قم بإدارة دورياتك",
+    "accessibility_onboarding_newplayerprofile_header": "ملفات شخصية للاعب جديد",
+    "accessibility_onboarding_newplayerprofile_section1": "<b>صفات اللاعب.</b> تحصل على معاينة لنقاط القوة، الضعف وأسلوب اللعب.",
+    "accessibility_onboarding_newplayerprofile_section2": "<b>صفحة إحصائيات جديدة.</b> تعمق في الإحصائيات بما في ذلك خرائط الركلات الموسمية وبيانات المقارنة.",
+    "accessibility_onboarding_newplayerprofile_section3": "<b>صفحة معاد تصميمها للمسار المهني.</b> شاهد درب المسارات المهنية للاعبين بالأندية أو عبر المواسم.",
+    "accessibility_onboarding_players": "متابعة اللاعبين للحصول على إشعارات عندما يلعبون ويسجلون أهداف.",
+    "accessibility_onboarding_teams": "متابعة الفرق لتحديد أولوياتها في جميع أنحاء التطبيق.",
+    "accessibility_only_key_events": "الأحداث الرئيسية فقط",
+    "accessibility_only_relevant_matches": "عرض المباريات ذات الصلة فقط",
+    "accessibility_open_match_for_more_details": "التنبيهات مفعلة",
+    "accessibility_open_settings": "افتح الإعدادات",
+    "accessibility_other": "غير ذلك",
+    "accessibility_other_body_parts": "أماكن أخرى من الجسم",
+    "accessibility_overall_table": "الجدول الإجمالي",
+    "accessibility_overhead_kick": "ضربة مقصية",
+    "accessibility_overviewheader_details": "التفاصيل",
+    "accessibility_overviewheader_headertext_v2": "متنبئ %1$@",
+    "accessibility_overviewheader_my_leagues": "بطولات الدوري",
+    "accessibility_overviewpage_join_create": "انضمام/إنشاء",
+    "accessibility_overviewpage_leagues": "البطولات",
+    "accessibility_overviewpage_share": "مشاركة",
+    "accessibility_passes_into_final_third": "التمريرات نحو الثلث الأخير",
+    "accessibility_passing": "التمرير",
+    "accessibility_past_matches": "المباريات الماضية",
+    "accessibility_penalty_saves": "حفظ الركلات الجزائية",
+    "accessibility_per_90": "لكل 90 دقيقة",
+    "accessibility_per_90_bar_explanation_text": "يظهر الرسم البياني الشريطي كيف يقارن لاعب ما بلاعبين آخرين في وضعيتهم فيما يخص إحصائيتهم للمنافسة الحالية المحددة. رسم بياني شريطي أخضر يشير إلى أن اللاعبين ضمن الأفضل في هذه الإحصائية، بينما يشير الرسم البياني الشريطي الأحمر بأن هؤلاء اللاعبين ضمن الأسوأ.\\n\\nيمثل طول الرسم البياني الشريطي رتبة اللاعب لكل إحصائية، وفق نسبة مئوية. يقارن اللاعبون فقط مقابل نظرائهم في الوضعية من المنافسة الحالية المحددة.",
+    "accessibility_player_trait_positional_rank": "مقارنة الرتبة بالنظراء في الوضعية",
+    "accessibility_player_traits": "صفات اللاعب",
+    "accessibility_players_and_managers": "اللاعبون والمدربون",
+    "accessibility_playing_today": "جاري لعب %1$@ و%2$@",
+    "accessibility_playing_today_no_ranked_leagues": "%@ من المنافسين الآخرين يلعبون اليوم",
+    "accessibility_playing_today_ranked_leagues": "%1$@ و %2$@ من المنافسين الآخرين يلعبون اليوم",
+    "accessibility_playing_today_single": "جاري لعب %1$@",
+    "accessibility_points_per_match": "النقاط لكل مباراة",
+    "accessibility_pointspopup_10pts": "10 نقاط للفائز النهائي",
+    "accessibility_pointspopup_1pts": "نقطة لكل فريق يوضع بشكل صحيح في دور المجموعات",
+    "accessibility_pointspopup_2pts": "نقطتان لكل فائز صحيح في دور 16",
+    "accessibility_pointspopup_3pts": "3 نقاط للفائز الصحيح في ربع النهائي",
+    "accessibility_pointspopup_4pts": "4 نقاط للفائز الصحيح في نصف النهائي",
+    "accessibility_pointspopup_5pts": "5 نقاط للفائز بالبرونزية في النهائي",
+    "accessibility_pointspopup_about_the_competition": "نبذه عن المنافسة",
+    "accessibility_pointspopup_points_are_calculated": "تُحتسب النقاط كالتالي:",
+    "accessibility_possession": "الاستحواذ",
+    "accessibility_post": "العارضة",
+    "accessibility_predictor_make_predictions": "قدّم توقعاتك",
+    "accessibility_predictor_view_predictions": "مشاهدة التوقعات",
+    "accessibility_privacy_policy": "سياسة الخصوصية",
+    "accessibility_qualeuropaconffinalstage": "مرحلة تصفيات دوري المؤتمر الأوروبي",
+    "accessibility_red": "حمراء",
+    "accessibility_redeem_code": "كود الاسترداد",
+    "accessibility_redeem_it_here": "استرجع من هنا",
+    "accessibility_regular_play": "لعب عادي",
+    "accessibility_reorder_favorite_leagues_disclaimer": "اسحب لتغيير ترتيب الدوريات في %1$@.",
+    "accessibility_resetpopup_are_you_sure": "هل أنت متأكد من أنك تريد إعادة تعيين التوقعات؟",
+    "accessibility_resetpopup_reset_predictions": "إعادة تعيين التوقعات",
+    "accessibility_result": "النتيجة",
+    "accessibility_retry": "إعادة المحاولة",
+    "accessibility_right_foot": "القدم اليمنى",
+    "accessibility_roundof64": "دور الـ 64",
+    "accessibility_search_result_header": "نتائج البحث عن <b>\"%@\"</b>",
+    "accessibility_season_performance": "أداء الموسم",
+    "accessibility_season_shot_map": "خريطة الركلات للموسم",
+    "accessibility_season_so_far": "الموسم حتى الآن",
+    "accessibility_season_stats": "إحصائيات الموسم",
+    "accessibility_second_extra_time_half_short": "2+",
+    "accessibility_second_half_short": "2.",
+    "accessibility_select_winner_for_each_match": "فضلًا حدد فائزًا لكل مباراة ;)",
+    "accessibility_set": "ضبط",
+    "accessibility_set_your_app_language": "حدد لغة التطبيق",
+    "accessibility_share_lineup": "مشاركة التشكيلة",
+    "accessibility_share_lineup_graphics": "مشاركة رسومات التشكيلة!",
+    "accessibility_share_on_twitter": "شارك على تويتر",
+    "accessibility_shareleaguepopup_copy_this_code": "👉 %1$@ 👈 انسخ الرابط وشاركه مع أصدقائك!",
+    "accessibility_shareleaguepopup_helper": "أو اضغط على زر لنسخ الكود",
+    "accessibility_shareleaguepopup_title": "شارك الدوري مع أصدقائك!",
+    "accessibility_sharepredictionspopup_copydescription": "انسخ هذا الرابط إذا أردت المشاركة على الماسينجر البريد الإلكتروني أو الرسائل النصية القصيرة.",
+    "accessibility_sharepredictionspopup_hint": "اطّلع على توقعاتي!",
+    "accessibility_sharepredictionspopup_title": "شارك توقعاتك <1/> مع أصدقائك!",
+    "accessibility_shooting": "التسديد",
+    "accessibility_short_table": "مختصر",
+    "accessibility_shot_attempts": "محاولات الركل",
+    "accessibility_shot_blocked": "مصدودة",
+    "accessibility_shot_blocks": "صد الركلات",
+    "accessibility_shot_map": "خريطة الركلات",
+    "accessibility_shot_type": "نوع الركلة",
+    "accessibility_shots_faced": "التسديدات التي تمت مواجهتها",
+    "accessibility_show_all": "إظهار الكل",
+    "accessibility_show_me": "أرني",
+    "accessibility_sign_in_is_required": "تسجيل الدخول مطلوب لإنشاء الدوريات والانضمام إليها.",
+    "accessibility_sign_in_required_to_continue": "يجب أن تسجل الدخول لتواصل!",
+    "accessibility_singleleaguepage_invite_friends": "ادعُ الأصدقاء",
+    "accessibility_singleleaguepage_leave_league": "مغادرة البطولة",
+    "accessibility_situation": "الموقف",
+    "accessibility_sponsored_by": "برعاية",
+    "accessibility_starting_eleven": "تشكيلة البداية 11",
+    "accessibility_startpage_already_registered": "مسجل بالفعل؟",
+    "accessibility_startpage_log_in": "سجل الدخول",
+    "accessibility_startpage_predict_the_outcome_v2": "خمّن نتيجة بطولة الأمم الأوروبية وتحدى أصدقائك في بطولات الدوري الخاصة!",
+    "accessibility_startpage_predictor_competition": "متوقع المنافسة",
+    "accessibility_startpage_start_now": "ابدأ الآن",
+    "accessibility_stats_comparison_att_mid_wingers": "الإحصائيات مقارنة بلاعبي وسط الهجوم/الأجنحة الآخرين",
+    "accessibility_stats_comparison_center_backs": "الإحصائيات مقارنة بلاعبي قلب الدفاع",
+    "accessibility_stats_comparison_explanation": "يبرز مخطط صفات اللاعب القوى ونقاط الضعف الإحصائية للاعب، مقارنة بلاعبين آخرين.\\n\\nكل إحصائية هي معدّلة عن كل 90 أساس وتحتوي على مباريات من 365 يوما الماضي.\\n\\nثم يقارن اللاعبون بنظرائهم في الوضعية من بطولات مماثلة، ويوضعون في ترتيب ذي نسبة مئوية. كمثال، لاعب ما ذو 90% في الترتيب عن الفرصة المكونة تعني بأنها تخلق مزيدا من الفرص لأكثر من 90% من اللاعبين في وضعياتهم في بطولات مماثلة.\\n\\nتفاصيل كاملة عن المقارنات يمكن مطالعتها في قسم الأسئلة الشائعة الخاصة بنا.",
+    "accessibility_stats_comparison_forwards": "الإحصائيات مقارنة بغيرها من الآن فصاعدا",
+    "accessibility_stats_comparison_fullbacks": "الإحصائيات مقارنة بلاعبي الظهير الآخرين",
+    "accessibility_stats_comparison_keepers": "الإحصائيات مقارنة بحراس المرمى",
+    "accessibility_stats_comparison_midfielders": "الإحصائيات مقارنة بلاعبي الوسط الآخرين",
+    "accessibility_stepsheader_step1_hinttext_table": "<b>اسحب</b> الفرق للتنبؤ بجدول النهائيات.",
+    "accessibility_stepsheader_step1_hinttext_v2": "اسحب ونظم الفرق فيما تعتقده في نتائج دور المجموعات.",
+    "accessibility_stepsheader_step1_hinttext_v3": "<b>اسحب ونظّم</b>الفرق كيفما تعتقد مآل نتيجة مرحلة الفرق.",
+    "accessibility_stepsheader_step1_title": "دور المجموعات",
+    "accessibility_stepsheader_step2_hinttext_v2": "ستتقدم الفرق الأربعة صاحبة المركز الثالث الحاصلة على أكبر عدد من النقاط.",
+    "accessibility_stepsheader_step2_hinttext_v3": "حدد الخاسرين المحظوظين الذين تعتقد أنهم سيتقدمون للدور 16.",
+    "accessibility_stepsheader_step2_hinttext_v4": "<b>حدد</b> الخاسرين المحظوظين الذين تعتقد أنهم سيتقدمون للدور 16.",
+    "accessibility_stepsheader_step2_title": "الخاسرين المحظوظين",
+    "accessibility_stepsheader_step3_hinttext_v2": "حدد الفرق التي تعتقد أنها ستتقدم للأدوار ربع النهائية.",
+    "accessibility_stepsheader_step3_hinttext_v3": "<b>حدد</b> الفرق التي تعتقد أنها ستتقدم للأدوار ربع النهائية.",
+    "accessibility_stepsheader_step3_title": "دور الستة عشر",
+    "accessibility_stepsheader_step4_hinttext_v2": "حدد الفرق التي تعتقد أنها ستتقدم للأدوار نصف النهائية.",
+    "accessibility_stepsheader_step4_hinttext_v3": "<b>حدد </b>الفرق التي تعتقد أنها ستتقدم للأدوار نصف النهائية.",
+    "accessibility_stepsheader_step4_title": "ربع النهائي",
+    "accessibility_stepsheader_step5_hinttext_v2": "حدد الفرق التي تعتقد أنها ستتقدم للدور النهائي.",
+    "accessibility_stepsheader_step5_hinttext_v3": "<b>حدد</b> الفرق التي تعتقد أنها ستتقدم للدور النهائي.",
+    "accessibility_stepsheader_step5_title": "نصف النهائي",
+    "accessibility_stepsheader_step6_hinttext_v2": "حدد الفريق الذي تعتقد أنه سيكون البطل!",
+    "accessibility_stepsheader_step6_hinttext_v3": "<b>حدد</b> الفريق الذي تعتقد أنه سيكون البطل!",
+    "accessibility_stepsheader_step6_title": "النهائي",
+    "accessibility_stepsheader_step7_title": "كل شيء جاهز!",
+    "accessibility_stepsheader_submit": "إرسال",
+    "accessibility_successful_dribbles": "مراوغات ناجحة",
+    "accessibility_successful_passes": "تمريرات ناجحة",
+    "accessibility_successful_passes_accuracy": "دقة التمرير",
+    "accessibility_sync_calendar_button_team": "زامن المواعيد الخاصة بـ %1$@ في تقويمك",
+    "accessibility_sync_calendar_button_text": "مزامنة مع التقويم",
+    "accessibility_sync_calendar_cta": "مزامنة",
+    "accessibility_sync_to_calendar_description": "زامن المواعيد <b>%1$@</b> الخاصة بـ<b>%2$@</b> في تطبيق التقويم المفضل لديك.",
+    "accessibility_sync_to_calendar_description_plain": "زامن المواعيد الخاصة بـ %1$@ في تطبيق التقويم المفضل لديك",
+    "accessibility_syncing": "المزامنة جارية",
+    "accessibility_table_position": "أماكن الجدول",
+    "accessibility_tackles_succeeded_percent": "افتكاك كرة ناجح",
+    "accessibility_tap_to_make_changes": "اضغط لإدخال تغييرات",
+    "accessibility_team_of_the_week": "فريق الأسبوع",
+    "accessibility_team_score": "%@ يسجّل",
+    "accessibility_terms_of_use": "شروط الاستخدام",
+    "accessibility_throw_in_set_piece": "رمية ركنية",
+    "accessibility_tips_and_support": "التلميحات والدعم",
+    "accessibility_top_leagues": "أفضل البطولات",
+    "accessibility_top_transfer_description": "تلق إشعارات عن كل الانتقالات في كل الدوريات",
+    "accessibility_total": "المجموع",
+    "accessibility_touches_opp_box": "لمسات في منطقة المنافس",
+    "accessibility_tr_afcccup": "دوري أبطال آسيا 2",
+    "accessibility_tr_afcchampionsleague": "دوري أبطال آسيا النخبة",
+    "accessibility_tr_afcchampionsleaguequal": "التأهل الممتاز لدوري أبطال آسيا",
+    "accessibility_tr_cafchampionsleaguequal": "التأهل لدوري أبطال أفريقيا",
+    "accessibility_tr_cafconfederationcupqual": "التأهل لكأس الكونفيدرالية الأفريقية",
+    "accessibility_tr_qualeuropaleaguefinalstage": "مرحلة التصفيات في الدوري الأوروبي",
+    "accessibility_trending_news": "` أخبار شائعة`",
+    "accessibility_unfollow_item": "إلغاء المتابعة",
+    "accessibility_unknown": "مجهول",
+    "accessibility_use_standalone": "استخدمه بدون الهاتف",
+    "accessibility_use_standalone_desc": "لا تقم بتوصيل تطبيق الهاتف FotMob",
+    "accessibility_validation__errormessage_final": "الرجاء حدد الفائز؛)",
+    "accessibility_var_penalty_cancelled": "تم إلغاء ضربة الجزاء",
+    "accessibility_var_yellow_card_removed": "تم إلغاء البطاقة الصفراء",
+    "accessibility_waiting_for_install": "في انتظار تثبيت التطبيق",
+    "accessibility_win_percentage": "نسبة الفوز",
+    "accessibility_xG_onboarding_description": "الأهداف المتوقعة هي مقياس لجودة التسديدة.\\n\\nعدد الأهداف المتوقعة للفريق في المباراة هو مؤشر على عدد الأهداف التي كان من المتوقع أن يسجلها، بالنظر إلى الفرص التي أنشأها.",
+    "accessibility_xG_onboarding_header": "ما معنى الأهداف المتوقعة؟",
+    "accessibility_yellow": "صفراء",
+    "common_aborted_short": "Ab",
+    "common_access_calendar_needed": "يجب عليك منح الدخول لـ FotMob للتقويم لتكون قادراً على إضافة المباراة إلى التقويم",
+    "common_accurate_crosses": "تمريرات عرضية دقيقة",
+    "common_action_settings": "اعدادات",
+    "common_add_favorite": "إضافة مفضل",
+    "common_add_favorite_desc": "اضغط + لاضافة فريق مفضل",
+    "common_add_favorites_news_hint": "<b>أضف أخباراً</b> لفِرقك المفضلة.",
+    "common_add_leagues": "إضافة بطولات",
+    "common_add_remove_leagues": "إضافة/حذف البطولات",
+    "common_add_to_calendar": "إضافة إلى التقويم",
+    "common_added_as_favorite": "%1$@ أضيف كمفضل",
+    "common_added_new_leagues": "لقد أضفنا بعض البطولات الجديدة. اضغط فقط على زر تجاهل إذا كنت لا تريد إضافتها إلى قائمة المباريات.",
+    "common_adfree_button_ok": "اختيار العرض الذهبي",
+    "common_adfree_later": "ليس الآن",
+    "common_adfree_title": "النسخة الكاملة ؟",
+    "common_after90": "بعد نهاية المباراة",
+    "common_afterextra": "بعد الوقت الإضافي",
+    "common_afterextratime_short": "AET",
+    "common_afterpenalties": "بعد ضربات جزاء",
+    "common_aggregate_short": "مجموع",
+    "common_all_events": "جميع الأحداث",
+    "common_all_matches": "جميع المسابقات",
+    "common_all_transfers": "جميع التحويلات",
+    "common_allow_tracking_body": "يتيح لنا ذلك عرض إعلانات مخصصة لك، مما يجعل FotMob مجانياً لك.",
+    "common_allow_tracking_confirmation_body": "ستُستخدم بياناتك لعرض إعلانات مخصصة لك",
+    "common_allow_tracking_header": "فضلاً اضغط على \"السماح بالتتبع\" على الشاشة التالية",
+    "common_app_icons": "أيقونات التطبيق",
+    "common_attacker_long": "مهاجم",
+    "common_autoplay_always": "على باقة البيانات أو الواي فاي",
+    "common_autoplay_wifi": "فقط على واي فاي",
+    "common_awarded_win": "مُنح الفوز",
+    "common_away_abbreviation": "A",
+    "common_biggest_loss": "أكبر خسارة",
+    "common_biggest_win": "أكبر فوز",
+    "common_bronze_supporter": "مشجع برونزي",
+    "common_buzz_not_found": "تويتر غير متوفر",
+    "common_cache_cleared": "تم مسح الملفات المخفية",
+    "common_cancelled_short": "إلغاء",
+    "common_centerattackingmidfielder": "وسط الهجوم",
+    "common_centerattackingmidfielder_short": "AM",
+    "common_centerback": "قلب الدفاع",
+    "common_centerback_short": "CB",
+    "common_centerdefensivemidfielder": "دفاع الوسط",
+    "common_centerdefensivemidfielder_short": "DM",
+    "common_centermidfielder": "لاعب وسط",
+    "common_centermidfielder_short": "CM",
+    "common_championship_playoff": "مباراة البطولة الختامية",
+    "common_change_currency_in": "تغيير العملة إلى %@",
+    "common_change_rss": "تغيير مجموعة الأخبار",
+    "common_change_sort": "بدّل الترتيب",
+    "common_check_it_out": "تحقق منه",
+    "common_choose_rss": "حدد أي مجموعة أخبار لإظهارها للبطولة المختارة حاليا",
+    "common_clean_sheet_title": "شباك نظيفة",
+    "common_clear_cache": "مسح الملفات المخفية",
+    "common_clearance_off_the_line": "تم إبعادها عن الخط",
+    "common_clqual": "التأهل لدوري ابطال اوروبا",
+    "common_collapse_all_leagues": "طي جميع الدوريات",
+    "common_collapse_league": "طي الدوري",
+    "common_commentary_feature_description2": "يبدأ بث الصوت حوالي 5 دقائق قبل المباراة.",
+    "common_commentary_feature_description3": "ربما يستغرق حتى 30 ثانية قبل أن يكون الصوت مسموعا بعد الضغط على تشغيل.",
+    "common_commentary_feature_description4": "نرحب بالتعقيب على التعليقات !",
+    "common_commentary_not_started": "يبدأ صوت التعليق حوالي 5 دقائق قبل المباراة. الرجاء إعادة المحاولة لاحقا.",
+    "common_commentary_window_title": "تعليق مباشر",
+    "common_compare_player": "مقارنة",
+    "common_compare_player_explained": "يمكنك الضغط هنا لمقارنة اللاعب الحالي بلاعب آخر",
+    "common_concacaf_championsleague": "دوري كونكاكاف للأبطال",
+    "common_conceded_penalties": "ضربة جزاء ممنوحة",
+    "common_content_updated": "تم تحديث %@",
+    "common_contract_extension": "تمديد مدة العقد",
+    "common_copa2016_onboarding_desc_line1": "جاهز لبطولة كوبا آمريكا 2016 ؟",
+    "common_copaLibertadores": "كأس ليبرتادوريس",
+    "common_copaLibertadoresQual": "التصفيات المؤهلة لكأس ليبرتادوريس",
+    "common_copaSudAmericana": "كأس سود أمريكانا",
+    "common_costa_rica": "كوستاريكا",
+    "common_days_until_match_start_short": "%@ يوم",
+    "common_deep_stats_players": "إحصائيات اللاعبين",
+    "common_deep_stats_teams": "إحصائيات الفرق",
+    "common_deepstats_explanation": "<p>جميع البيانات يتم حسابها باستخدام الاحصائيات المقدمة من أوبتا.</p><p>تقييم اللاعبين على FotMob يتم حسابه بناءً على أكثر من 100 احصائية منفردة لكل لاعب في كل مباراة.</p><p>المباراة في هذه الاحصائيات هي أية مباراة يشارك فيها اللاعب حتى وإن شارك فيها كبديل في آخر الدقائق.</p><p>اللاعب يجب أن يكون قد شارك في 50% من المباريات كحد أدنى ليكون جزءًا من التقييم.</p>",
+    "common_deepstats_explanation_ios": "<p>جميع البيانات يتم حسابها باستخدام الاحصائيات المقدمة من أوبتا.</p><p>تقييم اللاعبين على FotMob يتم حسابه بناءً على أكثر من 100 احصائية منفردة لكل لاعب في كل مباراة.</p><p>المباراة في هذه الاحصائيات هي أية مباراة يشارك فيها اللاعب حتى وإن شارك فيها كبديل في آخر الدقائق.</p><p>اللاعب يجب أن يكون قد شارك في 50%% من المباريات كحد أدنى ليكون جزءًا من التقييم.</p>",
+    "common_default_language": "الافتراضي",
+    "common_defender_long": "مدافع",
+    "common_deselect_all": "إلغاء تحديد الكل",
+    "common_deselect_favorite": "إلغاء تحديد المفضلة؟",
+    "common_deselect_favorite_message": "هل تريد إلغاء تحديد بطولتك المفضلة؟",
+    "common_deselect_favorites": "إلغاء تحديد المفضلة",
+    "common_deselect_favorites_message": "هل تريد إلغاء تحديد بطولاتك المفضلة؟",
+    "common_disclaimer_bet365": "ترقيات الصعاب هي 18+.\\nاقرأ المزيد على BeGambleAware.org.",
+    "common_drawer_close": "اغلاق درج الملاحة",
+    "common_drawer_open": "فتح درج الملاحة",
+    "common_drawn_long": "التعادل",
+    "common_duels_won_lost": "فوز / خسارة الثنائيات",
+    "common_edit_filters": "تعديل الفلترات",
+    "common_edit_match_alerts": "اضافة / الغاء اشعارات المباراة",
+    "common_elSalvador": "السلفدور",
+    "common_empty_placeholder_network_failure": "خلل في الشبكة",
+    "common_empty_placeholder_news_not_available": "الأخبار غير متوفرة",
+    "common_empty_placeholder_no_matches": "لا يوجد مباريات مقررة",
+    "common_empty_placeholder_no_my_matches": "لا مباريات مفضلة تلعب الآن",
+    "common_empty_placeholder_no_ongoing_matches": "لا مباريات قيد العب",
+    "common_empty_placeholder_no_ongoing_matches_and_my_matches": "لا مبارياتي قيد اللعب",
+    "common_empty_placeholder_no_players_stats": "إحصائيات اللاعبين غير متوفرة",
+    "common_empty_placeholder_no_team_stats": "إحصايات الفريق غير متوفرة",
+    "common_empty_placeholder_no_transfers": "تحويلات غير متوفرة",
+    "common_empty_placeholder_no_transfers_2": "ما في انتقالات",
+    "common_enable_push": "تفعيل الإشعارات الترويجية",
+    "common_enable_push_description": "قم بتمكين الإشعارات للحصول على الأخبار العاجلة وتحديث المباريات",
+    "common_enable_push_question": "أتريد تفعيل الإشعارات الترويجية؟",
+    "common_enable_tv_schedules": "تفعيل جداول برامج التلفزيون",
+    "common_end_of_match": "نهائي",
+    "common_error_adding_match_to_calendar": "خطأ في إضافة المباراة إلى تقويم، تعمل هذه الميزة فقط على 4.x من أندرويد",
+    "common_error_occured": "وقع خطأ. الرجاء إعادة العملية",
+    "common_error_push": "خطأ في تسجيل إشعار ترويجي. الرجاء إعادة المحاولة",
+    "common_error_push_not_enabled": "الإشعارات غير مفعلة لفوتموب في مركز الإشعارات خاصتك. زر http://fotmob.com/faq.html لحل هذا الإشكال.",
+    "common_error_webview": "وقع خطأ عند تحميل الصفحة",
+    "common_errors_led_to_goal": "أخطاء أدت لأهداف",
+    "common_euro2016_onboarding_desc_line1": "أمستعد لبطولة أوربا 2016؟",
+    "common_euro2016_onboarding_desc_line2": "ضبط التنبيهات لأفضل اللاعبين و الفرق",
+    "common_euro2016_setup_national_team": "شكل فريقك الوطني",
+    "common_europa_conference_league": "التأهل لدوري المؤتمر الأوروبي",
+    "common_europaleague": "الدوري الأوروبي",
+    "common_euroqual": "التأهل للدوري الأوروبي",
+    "common_euroqual_playoff": "الدور التمهيدي في الدوري الأوروبي",
+    "common_expand_all_leagues": "توسيع جميع الدوريات",
+    "common_expand_hint": "اضغط هنا لتوسيع أو طي الدوري",
+    "common_expected_goals_on_target": "xG تصويب نحو هدف",
+    "common_expected_goals_on_target_variant": "التصويبات المتوقعة نحو الهدف",
+    "common_expected_goals_open_play": "xG اللعب المفتوح",
+    "common_expected_goals_penalty": "xG ضربة جزاء",
+    "common_expected_goals_set_play": "xG الكرات الثابتة",
+    "common_extratime_short": "ET",
+    "common_failure_re_sign_in": "أعد تسجيل الدخول",
+    "common_fantasy_points": "نقاط افتراضية",
+    "common_fast_push_alerts": "تنبيهات إشعارية سريعة",
+    "common_favorite_leagues": "البطولات المفضلة",
+    "common_favorite_teams": "الفرق المفضلة",
+    "common_favorites_news": "أخبار من الفِرق المفضلة",
+    "common_favorites_not_found_apple_watch": "لا فرق أو مباريات مفضلة تلعب اليوم",
+    "common_fifaworldranking": "الفيفا",
+    "common_filter_hint": "البلد أو البطولة",
+    "common_filter_news_description_v2": "قم بتصفية الأخبار في قسم <b>%1$@</b>. يعتمد فرز النتائج على ترتيب <a href=\"%2$@\">مفضلاتك</a>.",
+    "common_filter_tv_schedule": "فلترة جداول برامج التلفزيون",
+    "common_find_leagues": "اعثر على البطولات",
+    "common_first_scorer": "المسجل الاول",
+    "common_firstextrahalf": "الشوط الاضافي الاول",
+    "common_firsthalf": "الشوط الأول",
+    "common_firstrun_select_teams_to_follow": "حدد فرقك المفضلة والفرق الوطنية للمتابعة",
+    "common_follow_item": "تابع",
+    "common_follow_players": "متابعة اللاعبين",
+    "common_follow_teams": "متابعة الفرق",
+    "common_follow_us": "تابعنا",
+    "common_forward_backward_passes": "نصف الخصم / نصفي الخاص",
+    "common_fotmob_supporters_club": "نادي داعمي FotMob",
+    "common_free_transfer": "انتقال مجاني",
+    "common_fulltime_short": "FT",
+    "common_fun_fact_conceded_penalty": "%1$@ ارتكب خطأ يؤدي إلى ركلة جزاء لصالح %2$@.",
+    "common_fun_fact_fk_foul_won": "%1$@ كان اللاعب الأكثر عرقلة في المباراة (%2$@ مرات).",
+    "common_fun_fact_fk_foul_won_live": "%1$@ هو اللاعب الأكثر عرقلة في المباراة (%2$@ مرات).",
+    "common_fun_fact_lost_duels": "%1$@ خسر معظم النزاعات (%2$@) في المباراة.",
+    "common_fun_fact_lost_duels_live": "%1$@ يخسر معظم النزاعات (%2$@) في المباراة.",
+    "common_fun_fact_lost_possession": "%1$@ فقد الحيازة معظم الوقت (%2$@) في المباراة.",
+    "common_fun_fact_lost_possession_live": "%1$@ يفقد الحيازة معظم الوقت (%2$@) في المباراة.",
+    "common_fun_fact_low_touches": "%1$@ كان لديه أقل لمسات (%2$@) من أي لاعب خارج الملعب للعب 90 دقيقة.",
+    "common_fun_fact_low_touches_live": "%1$@ لديه أقل لمسات (%2$@) من أي لاعب خارج الملعب للعب 90 دقيقة.",
+    "common_fun_fact_made_mistake_led_to_goal": "%1$@ ارتكب خطأ قد أدى لتسجيل هدف لـ %2$@.",
+    "common_fun_fact_most_dribbles": "%1$@ قد قام بمعظم المراوغات (%2$@) في المباراة.",
+    "common_fun_fact_most_dribbles_live": "%1$@ يقوم بمعظم المراوغات (%2$@) في المباراة.",
+    "common_fun_fact_most_key_passes_created": "%1$@ صنع معظم الفرص (%2$@) في المباراة.",
+    "common_fun_fact_most_key_passes_created_live": "%1$@ يصنع معظم الفرص (%2$@) في المباراة.",
+    "common_fun_fact_most_passes": "%1$@ قد قام بمعظم التمريرات (%2$@) في المباراة.",
+    "common_fun_fact_most_passes_live": "%1$@ يقوم بمعظم التمريرات (%2$@) في المباراة.",
+    "common_fun_fact_most_tackles": "%1$@ كان لديه معظم الاعتراضات (%2$@) في المباراة.",
+    "common_fun_fact_most_tackles_live": "%1$@ لديه معظم الاعتراضات (%2$@) في المباراة.",
+    "common_fun_fact_motm": "%1$@ كان رجل المباراة حيث حقق %2$@.",
+    "common_fun_fact_motm_live": "%1$@ لديه حالياُ أعلى تصنيف في المباراة حيث حقق %2$@.",
+    "common_fun_fact_opp_box_touches": "%1$@ كان لديه أكثر لمسات (%2$@) في مربع الفريق الآخر.",
+    "common_fun_fact_opp_box_touches_live": "%1$@ لديه أكثر لمسات (%2$@) في مربع الفريق الآخر.",
+    "common_fun_fact_pass_completion": "%1$@ كان الممرر الأكثر دقة (%2$@) للعب 45 دقيقة أو أكثر.",
+    "common_fun_fact_pass_completion_live": "%1$@ هو الممرر الأكثر دقة (%2$@) في المباراة.",
+    "common_fun_fact_scored_own_goal": "%1$@ سجّل هدفاً في مرماه.",
+    "common_fun_fact_won_duels": "%1$@ ربح معظم النزاعات (%2$@) في المباراة.",
+    "common_fun_fact_won_duels_live": "%1$@ يربح معظم النزاعات (%2$@) في المباراة.",
+    "common_fun_fact_woodwork": "%1$@ صدم القائم %2$@ مرات في %3$@ تسديدة إجمالاً.",
+    "common_fun_fact_woodwork_live": "%1$@ يصدم القائم %2$@ مرات في %3$@ تسديدة إجمالاً.",
+    "common_generalUpper": "عام",
+    "common_go_to_the_predictor": "توقع على fotmob.com",
+    "common_goal_difference": "=",
+    "common_goals_from_bench": "اهداف من الدكة",
+    "common_goals_pen": "الأهداف (ضربات جزاء)",
+    "common_goals_team_match_title": "الأهداف المسجلة لكل مباراة",
+    "common_gold_supporter": "مشجع ذهبي",
+    "common_goldengoal": "هدف ذهبي",
+    "common_got_it": "فهمت!",
+    "common_halftime_short": "HT",
+    "common_headed_clearance": "تخليص بالرأس",
+    "common_hide_news": "اخف أخبار %@",
+    "common_home_abbreviation": "H",
+    "common_hours_tweet_timestamp": "%@ساعة",
+    "common_hours_until_match_start": "%@ سا",
+    "common_imperial_system": "المقياس غير المتري (القدم)",
+    "common_in_app_purchase": "إزالة الإعلانات (دفع لمرة واحدة)",
+    "common_in_app_purchase_subscription": "انضم إلى نادي داعمي FotMob لحذف الإعلانات التي نتحكم بها لتستخدم FotMob بسرعة وبدون أي تشتيت. دعمك يساعدنا على أن يصبح FotMob أفضل. شكراً على دعمك!",
+    "common_in_app_purchase_subscription_active": "عضوية نادي داعمي FotMob الخاصة بك نشطة.",
+    "common_in_game_stats_swipe": "يمكنك التمرير للانتقال إلى اللاعب التالي!",
+    "common_include_text_tweets": "تضمين التغريدات النصية",
+    "common_international_national_teams": "دولي - المنتخبات الوطنية",
+    "common_invite_informal_prompt2": "اصدقاؤك لا يعلمون شيئا عما يجري<br/><b>هل تشارك تطبيق عالم الكرةمعهم؟</b>",
+    "common_keeper_diving_save": "الارتماء لانقاذ المرمى",
+    "common_keeper_high_claim": "تصدي عالٍ",
+    "common_keeper_long": "حارس",
+    "common_label_submit_button": "إرسال",
+    "common_last_5_matches": "المباريات الخمس الأخيرة",
+    "common_last_away_matches": "آخر مبارايات خارجية",
+    "common_last_home_matches": "آخر مبارايات محلية",
+    "common_last_poll_failed": "فشل آخر تصويت. إعادة المحاولة في",
+    "common_last_x_months": "منذ %@ شهرًا",
+    "common_last_x_years": "منذ %@ سنة",
+    "common_latest_news_content_description": "احصل على أحدث الأخبار، والنقل، والشائعات!",
+    "common_latest_news_suggested_invocation": "أرني آخر الأخبار عن %1$@",
+    "common_latest_news_suggestion": "اقرأ آخر أخبار عن %1$@",
+    "common_league_has_notifications": "لقد مكّن الدوري الإشعارات ، يجب إيقاف التنبيهات عبر قائمة التصفية في النافذة المباشرة",
+    "common_league_not_found": "الرابطة غير متوفرة",
+    "common_league_rank": "رتبة البطولة",
+    "common_leagues_and_teams": "الدوريات والفِرَق",
+    "common_left_wing_back": "ظهير جناح أيسر",
+    "common_left_wing_back_short": "LWB",
+    "common_leftback": "الظهير الأيسر",
+    "common_leftback_short": "LB",
+    "common_leftmidfielder": "وسط يسار",
+    "common_leftmidfielder_short": "LM",
+    "common_leftwinger": "الجناح الأيسر",
+    "common_leftwinger_short": "LW",
+    "common_legacy_gold_member": "لديك عضوية مدى الحياة في FotMob، ولكن إذا أردت يمكنك الآن الاشتراك للحصول على اشتراك. دعمك يساعدنا على أن يصبح FotMob أفضل. شكراً على دعمك!",
+    "common_legal_info": "هذا الفيديو مستضاف في موقع خارجي. FotMob لا يملك المحتوى الذي أنت على وشك مشاهدته.\\n\\nFotMob غير مسؤول و لا يمكنه تحمل المسؤولية أو مسؤول عن أي محتوى مستضاف في موقع لطرف ثالث.\\n\\nلأية شكاوي قانونية، يرجى التواصل مع موقع الوسائط المستضيف للفيديوهات.",
+    "common_lets_go": "لننطلق!",
+    "common_locked_alerts": "تم غلق بعض التنبيهات لأنك شغلت خاصية التنبيهات على %@",
+    "common_locked_alerts_no_leaguename": "تم غلق بعض التنبيهات لأنك شغلت خاصية التنبيهات للرابطة التي تنطبق على هذه المباراة",
+    "common_log_me_in": "تسجيل الدخول",
+    "common_lost_long": "الخسارة",
+    "common_ltc_not_found": "التعليق المباشر غير متوفر",
+    "common_matches_not_determined": "سيفصل في أدوار المباريات التالية.",
+    "common_matches_on_bench": "مباريات بدون مشاركة",
+    "common_matches_played": "مباريات لعبت",
+    "common_matches_sub_in": "`بدل في `",
+    "common_matches_sub_out": "تم تبديله في",
+    "common_matches_uppercase": "المباريات",
+    "common_max_number_of_5_reached": "تم الوصول إلى الحد الأقصى (5)",
+    "common_maximize_all": "فتح الكل",
+    "common_member_cta": "انضم اليوم!",
+    "common_member_since": "عضو منذ %@",
+    "common_members_only": "(الأعضاء فقط)",
+    "common_menu_settings": "الإعدادت",
+    "common_menu_share_others": "جوجل بلس, تويتر و غيره",
+    "common_message_sent": "معلومة : اضغط لثانيتين على هدف لمشاركته",
+    "common_metric_system": "المقياس المتري (سم)",
+    "common_middle_east": "الشرق الأوسط",
+    "common_midfielder_long": "لاعب وسط",
+    "common_minimize_all": "تصغير الكل",
+    "common_mins_played_goal_title": "عدد الدقائق لكل هدف",
+    "common_minutes_tweet_timestamp": "%@دقيقة",
+    "common_minutes_until_second_half": "%@ حتى الشوط الثاني",
+    "common_move_to_bottom": "انقل الى الاسفل",
+    "common_move_to_top": "انقل الى الاعلى",
+    "common_my_matches": "مبارياتي",
+    "common_network_connection_issues_notification_ios": "يبدو أن لدينا مشاكل في جلب البيانات الجديدة. %@",
+    "common_never_miss_a_headline": "لا تُفوت خبراً أبداً",
+    "common_new_leagues": "بطولات جديدة متوفرة",
+    "common_new_to_fotmob": "أنا جديد في FotMob!",
+    "common_next_poll": "التصويت التالي عند",
+    "common_no_favorite_leagues": "لم يتم إضافة بطولات مفضلة بعد",
+    "common_no_favorite_players": "لم يتم إضافة لاعبين مفضلين بعد",
+    "common_no_favorite_teams": "لم يتم إضافة فرق مفضلة بعد",
+    "common_no_fixtures": "تثبيت المباريات غير متوفر",
+    "common_no_match_facts_available": "لا توجد أحداث عن المباراة",
+    "common_no_matches_today": "لا مباريات في الدوري الذي اخترته",
+    "common_no_results_for_query": "لا توجد نتائج ل%@",
+    "common_no_results_found": "لا توجد نتائج!",
+    "common_no_squad": "الفريق غير متوفر",
+    "common_no_suggestions": "ليس هناك اقتراحات.اضغط على زر البحث للحصول على نتائج",
+    "common_no_table": "لا يوجد جدول ترتيب متوفر",
+    "common_no_team_info": "عذرا ليس لدينا اي اخبار عن هذا الفريق",
+    "common_no_top_assists": "ليس هناك أفضل المساعدين",
+    "common_no_top_scorers": "ليس هناك أفضل الهدافين",
+    "common_no_tv_guid": "لا مباريات على التلفاز اليوم",
+    "common_no_tv_selected": "لا توجد جداول تلفزيونية",
+    "common_not_enabled_alerts": "أنت لم تقم بتفعيل إشعارات FotMob. يرجى تغييرها في الإعدادات لتلقيها.",
+    "common_not_favorites": "غير المفضلة",
+    "common_not_native_language": "عذرًا، ليس لدينا هذا التعليق بلغتك",
+    "common_not_now": "ليس الان",
+    "common_notification_description": "ضبط حجم إشعارات النتائج وتغيير وقت إظهار الإشعارات. تغيير المنطقة الزمنية.",
+    "common_notification_end_sound": "صوت البداية و الإنتهاء",
+    "common_notification_sound": "صوت الاهداف",
+    "common_notification_sound_fav": "صوت الاهداف المفضل",
+    "common_notification_types": "أنواع الإشعارات",
+    "common_notifications_off": "توقيف الإشعارات",
+    "common_notifications_on": "تشغيل الإشعارات",
+    "common_notifications_onboarding": "اختر متى تريد منا أن نخطرك عندما تحدث مستجدات",
+    "common_official_highlights_desc": "احصل على إشعارات بالأحداث المهمة الرسمية في المباريات التي فعّلت تنبيهاتها طوال الوقت.",
+    "common_on_loan_transfers": "على سبيل الإعارة",
+    "common_onboarding_fantasy_scores": "اضغط على هذا لمعرفة النقاط الافتراضية الرسمية! (متوفر فقط في بعض البطولات)",
+    "common_onboarding_favorites": "مرحبا! يمكنك متابعة كل اختياراتك المفضلة هنا.",
+    "common_onboarding_league": "تابع الفرق واللاعبين المفضلين لديك في %@ ولا تفوّت أي إجراء.",
+    "common_onboarding_news_alerts_description": "بالإضافة إلى تحديثات المباريات ، يمكنك إضافة تنبيهات بأخبار أقوى الفِرق.",
+    "common_onboarding_news_content": "موجز إخباري أكثر تخصيصاً وعناوين رسمية وغير ذلك الكثير.",
+    "common_onboarding_news_title": "أُعيد تصمم الأخبار!",
+    "common_onboarding_players_help_infromation": "حدد لاعبيك المفضلين و أحصل على إشعارات عن الأهداف، البطاقات الحمراء، ضربات الجزاء الضائعة و أكثر",
+    "common_onboarding_players_search_placeholder": "بحث عن اللاعبين",
+    "common_onboarding_settings": "نصيحة: يمكنك تخصيص التنبيهات و تصفية البطولات في الإعدادات.",
+    "common_onboarding_team_help_infromation": "حدد فريقك الوطني لاستقبال التحديثات لمباريات وأهداف قادمة و أكثر",
+    "common_onboarding_team_search_placeholder": "بحث عن الفِرق",
+    "common_onboarding_world_cup_card_calltoaction": "اختر المفضل لديك",
+    "common_onboarding_world_cup_card_description": "اضبط التنيهات للفرق واللاعبين المفضلين على وضع كأس العالم FotMob.",
+    "common_onboarding_world_cup_card_header": "مستعد لكاس العالم؟",
+    "common_ontarget_scoring_att_subtitle": "إجمالي التسديدات في المرمى",
+    "common_ontarget_scoring_att_title": "التسديدات في المرمى لكل مباراة",
+    "common_opposition_half_passes": "نصف الخصم",
+    "common_own_goal_short": "OG",
+    "common_own_half_passes": "نصفي الخاص",
+    "common_pause_match": "استراحة ما بين الشوطين",
+    "common_pauseextratime": "وقت الاستراحة الإضافي",
+    "common_penalties_faced": "ضربات الجزاء التي تم ردها",
+    "common_penalties_short": "ضربة جزاء",
+    "common_penaltiesarehappening": "ضربة جزاء",
+    "common_penalty_conceded_title": "التسبب بضربات الجزاء",
+    "common_pinch_zoom": "نصيحة: يمكنك أيضاً استخدام اصبعيك مباشرة على الدوريات لتوسيع وطي كل الدوريات",
+    "common_place_bet_cta": "رهان",
+    "common_player_fact": "معلومات عن اللاعب",
+    "common_player_vs_player": "لاعب ضد لاعب",
+    "common_players_in": "لاعبون داخلون",
+    "common_players_out": "لاعبون خارجون",
+    "common_players_to_follow": "حدد اللاعبين للمتابعة",
+    "common_please_restart_the_app": "يرجى إعادة تشغيل التطبيق لإكمال تغيير اللغة",
+    "common_poss_won_att_3rd_title": "السيطرة في الثلث النهائي",
+    "common_possible_qualification_next_stage": "احتمال التأهل في المرحلة التالية",
+    "common_post_to_facebook": "نشر على الفيسبوك",
+    "common_postponed_short": "PP",
+    "common_preferred_foot": "القدم المفضلة",
+    "common_previous_match": "المباراة السابقة",
+    "common_previous_matches": "المباريات السابقة",
+    "common_price_subscription": "%@ في السنة",
+    "common_price_subscription_3_months": "%@ كل 3 أشهر",
+    "common_price_subscription_monthly": "%@ في الشهر",
+    "common_primary_position": "رئيسي",
+    "common_probable_lineup": "تشكيلة أساسية محتملة",
+    "common_promotionqual": "التأهل للصعود",
+    "common_push_connected": "تم تسجيل الإشعارات الترويجية بنجاح",
+    "common_qualification_next_stage": "التأهل في المرحلة التالية",
+    "common_rate_fotmob_desc": "أتحب فوتموب؟ سيعني لنا الكثير لو أخذت دقيقة و قيمته!",
+    "common_rating_title": "تقييم اللاعب",
+    "common_recent_news": "آخر الأخبار",
+    "common_relegationqual": "ملحق الهبوط",
+    "common_remove_from_favorites": "حذف من المفضلة",
+    "common_remove_league": "حذف البطولة",
+    "common_rest_of_the_world": "بقية العالم",
+    "common_result_count": "%@ نتيجة(نتائج)",
+    "common_resync": "إعادة مزامنة المشتريات",
+    "common_resync_desc": "إذا كنت قد اشترت في وقت سابق الذهبي او الفضي ، انقر هنا",
+    "common_right_wing_back": "ظهير جناح أيمن",
+    "common_right_wing_back_short": "RWB",
+    "common_rightback": "الظهير الأيمن",
+    "common_rightback_short": "RB",
+    "common_rightmidfielder": "وسط يمين",
+    "common_rightmidfielder_short": "RM",
+    "common_rightwinger": "جناح أيمن",
+    "common_rightwinger_short": "RW",
+    "common_round_fmt": "الجولة %@",
+    "common_roundof32": "دور الـ 32",
+    "common_rss_feeds": "الأخبار",
+    "common_saved_penalties": "ضربات جزاء مبعدة",
+    "common_saves_inside_box": "إنقاذ من داخل الصندوق",
+    "common_score_poll_interval": "مجال التصويت للنتائج",
+    "common_score_volume": "حجم تنبيهات النتيجة",
+    "common_search_hint": "أكتب اسم الفريق الذي تبحث عنه",
+    "common_search_players": "حدد لاعبيك",
+    "common_second_half_starts_soon": "الشوط الثاني على وشك أن يبدأ",
+    "common_second_yellow_card": "الأصفر الثاني",
+    "common_secondary_onboarding_teams_body": "حدد الفرق واللاعبين المفضلين لديك، للحصول على تجربة أسرع وأكثر تخصيصًا.",
+    "common_secondary_onboarding_teams_header": "اجعل من السهل متابعة ما تفضله",
+    "common_secondextrahalf": "الشوط الاضافي الثاني",
+    "common_secondhalf": "الشوط الثاني",
+    "common_see_all": "مشاهدة الجميع",
+    "common_see_all_matches": "مشاهدة كل المباريات",
+    "common_see_all_stories": "شاهد مزيداً من أخبار %@",
+    "common_see_all_videos": "شاهد مزيد من اللحظات الهامة",
+    "common_see_more": "شاهد المزيد",
+    "common_select_all": "تحديد الكل",
+    "common_select_favorite_league": "اختار دوري ...",
+    "common_select_favorites": "اختيار المفضل لديك",
+    "common_select_interface_language": "تحديد لغة الواجهة",
+    "common_select_league": "حدّد بطولة",
+    "common_select_player": "حدد اللاعب",
+    "common_select_players_to_follow": "حدد اللاعبين الذين تريد متابعتهم.",
+    "common_select_season": "اختر الموسم",
+    "common_select_team": "حدد عنصراً",
+    "common_select_team_picker_description": "شاهد بيانات من الفريق المحدد",
+    "common_select_teams_to_follow": "حدد فريقك الوطني و الفرق الأخرى لمتابعتها في بطولة كأس العالم",
+    "common_select_your_team": "بدأ الضبط",
+    "common_set_up_now": "إعداد الآن",
+    "common_share_event": "مشاركة",
+    "common_share_on_facebook": "مشاركة على الفيس بوك",
+    "common_shot_accuracy": "دقة التصويب",
+    "common_shots_on_off_target": "تصويبات في/خارج الهدف",
+    "common_show_all_matches": "عرض كل المباريات",
+    "common_show_hide_matches_mnu": "`تصفية المباريات `",
+    "common_show_result_count": "إظهار %@ نتيجة(نتائج)",
+    "common_show_table": "إظهار جدول الترتيب",
+    "common_show_team_logos_in_table": "اضف شعارات الفرق الى جدول الترتيب",
+    "common_sign_in_header": "يمكننا الحفاظ على إعداداتك بأمان بحيث يمكنك مزامنتها عبر الأجهزة أو استرجاعها عند اقتناء جهاز جديد.",
+    "common_sign_in_ios": "اضغط هنا لتسجيل الدخول",
+    "common_sign_in_with": "تسجيل الدخول ب",
+    "common_silver_desc": "حذف الإعلانات لمدة سنة. أنقر للتفاصيل.",
+    "common_silver_supporter": "مشجع فضي",
+    "common_silvergoal1": "هدف فضي",
+    "common_silvergoal2": "هدف فضي",
+    "common_social_news": "تويتر",
+    "common_sort_explained": "اسحب المسابقات بالترتيب الذي تريده في النافذة المباشرة أو حددها واستخدم الأزرار لإنشاء التصنيف المفضل لديك",
+    "common_sort_favorite_leagues_v2": "يعتمد ترتيب أقسام أخبار الدوري على ترتيب الدوريات. يمكنك تغيير هذا الترتيب من علامة تبويب الدوريات.",
+    "common_sort_tournaments": "فرز البطولات",
+    "common_sort_tournaments_help_text": "غيّر ترتيب طريقة ظهور البطولات في تبويب المباريات",
+    "common_star_desc": "الفرق المفضلة",
+    "common_star_league": "إضافة للمفضلة",
+    "common_stats_and_info": "معلومات",
+    "common_stay_up_to_date": "ابق على اطلاع دائم بأهم إخطارات الأخبار لـ %@",
+    "common_stream_playback_ended": "الاستماع للصوت انتهى",
+    "common_stream_playback_error": "وقع خطأ عند تشغيل بث الصوت",
+    "common_stream_playback_initializing": "جارٍ بدء الاستماع للصوت...",
+    "common_stream_playback_playing": "تشغيل بث الصوت",
+    "common_striker_short": "ST",
+    "common_subs_stats": "الاحتياطيون",
+    "common_supporter_club_pitch_1": "• أتُحب FotMob؟ يساعدنا دعمكم على تحسين التطبيق كل يوم!",
+    "common_supporter_club_pitch_2": "• أيقونات حصرية لتطبيق نادي الداعمين الحصري.",
+    "common_supporter_club_pitch_3": "• حذف إعلانات التطبيق (لا يمكننا التحكم في الإعلانات المعروضة على مواقع إخبارية التابعة للغير التي تزورها).",
+    "common_surface_artificial": "صناعي",
+    "common_surface_grass": "عشب",
+    "common_t10_minutes": "10 دقائق",
+    "common_t1_minute": "1 دقيقة",
+    "common_t30_seconds": "30 ثانية",
+    "common_t3_minutes": "3 دقائق",
+    "common_t5_minutes": "5 دقائق",
+    "common_tab": "تبويب",
+    "common_tabs": "علامات التبويب",
+    "common_tap_to_compare": "اضغط %@ \\nلمقارنة حالة اللاعب",
+    "common_team_deducted_plural": "تم استقطاع %2$d نقاط من فريق %1$@",
+    "common_team_deducted_singular": "%1$@ خُصم منها %2$d نقاط",
+    "common_team_form_table": "تشكيل",
+    "common_team_has_notifications": "احد فرقك المفضلة اضاف تنبيهات  يجب إيقاف التنبيهات عبر صفحة الفريق",
+    "common_team_selection_intent_confirmation": "فقط للتأكيد، أنت تريد ‘${team}’؟",
+    "common_team_selection_intent_match": "هناك ${count} خيارات توافق ‘${team}’.",
+    "common_team_tournaments": "البطولات",
+    "common_teams_and_leagues": "الفِرق والبطولات",
+    "common_teams_played_for": "لعب للفرق التالية",
+    "common_teams_to_follow": "فرق للمتابعة",
+    "common_test_notification": "اختبار الإشعارات",
+    "common_thank_you_for_being_a_member": "نحن جميعاً نشكرك في FotMob على عضويتك.",
+    "common_theme_auto": "الافتراضي في النظام",
+    "common_theme_classic": "FotMob كلاسيكي",
+    "common_theme_dark": "داكن",
+    "common_theme_light": "فاتح",
+    "common_third_place": "الثالث",
+    "common_three_match_series": "سلسلة الثلاث مقابلات",
+    "common_timezone_caption": "اختيار التوقيت",
+    "common_tip_filter_and_sort": "اضغط هنا %1$@ <b>لفلترة وفرز</b> بطولات الدوري",
+    "common_tips_and_tricks": "اضغط هنا %1$@ <b>لفلترة وفرز</b> بطولات الدوري",
+    "common_title_activity_sort": "عدل حسب",
+    "common_title_activity_squad_member": "عضو فريق",
+    "common_title_activity_tvschedule": "القنوات الناقلة",
+    "common_to_be_finished": "في انتظار استئنافها",
+    "common_toggle_favorite": "ضبط أو تغيير الضبط كمفضلة",
+    "common_toggle_notifications": "تحكم بالاشعارات",
+    "common_too_many_alerts": "لديك الكثير من التنبيهات. حاول تقليل عدد التنبيهات عبر خيار \"الإشعارات\" أدناه.",
+    "common_top_assist": "أفضل مساعد",
+    "common_top_rated": "أفضل اللاعبين",
+    "common_top_scorer": "أفضل هدّاف",
+    "common_top_scorers": "أفضل الهدافين",
+    "common_total_votes": "إجمالي الأصوات: %@",
+    "common_total_yel_card_subtitle": "بطاقات حمراء",
+    "common_total_yel_card_title": "بطاقات صفراء",
+    "common_transfer_alert_message_from_free_agent": "%1$@ ينضم إلى %2$@",
+    "common_transfer_alert_message_to_free_agent": "%1$@ يغادر %2$@ وهو الآن وكيل مجاني",
+    "common_transfer_center_tv_migration": "تم نقل جداول التلفزيون ومركز النقل إلى هنا!",
+    "common_transfer_enable_all": "هل ترغب في تلقي تنبيهات نقل مخصصة للفرق والبطولات المفضلة لديك؟",
+    "common_transfer_fee": "المبلغ",
+    "common_transfer_period": "تشمل التحويلات من",
+    "common_transfer_reported_fee": "الرسوم المفترضة/غير الرسمية",
+    "common_transfer_sum": "الانتقال",
+    "common_try_refresh": "نجرب إعادة التحميل؟",
+    "common_turn_off_favorite_league_pling": "يجب عليك توقيف الإشعارات للفرق المفضلة (ضغط طويل على عنوان&quot;الفرق المفضلة&quot;) لتعديل وضعية الإشعار عن هذه المباراة",
+    "common_tv_prompt": "القنوات الناقلة",
+    "common_tv_schedules_change": "اضغط هنا لتغيير أو إضافة البلدان",
+    "common_tv_schedules_change_stations": "اضغط هنا لتغيير القنوات التلفزيونية التي تراها",
+    "common_tv_selected_denmark": "برامج التلفزيون، الدانمرك",
+    "common_tv_selected_germany": "القنوات الناقلة - المانيا",
+    "common_tv_selected_norway": "دليل التلفاز - النروج",
+    "common_tv_selected_spain": "القنوات الناقلة - اسبانيا",
+    "common_tv_selected_sweden": "برامج التلفزيون، السويد",
+    "common_tv_selected_uk": "برامج التلفزيون، بريطانيا",
+    "common_tv_selected_usa": "برامج التلفزيون - آمریکا",
+    "common_two_legged_tie": "مبارايات ثنائية فاصلة",
+    "common_unlock_premium": "الحصول على النسخة الكاملة",
+    "common_unregistered_push": "تم إلغاء تسجيل الإشعارات الترويجية بنجاح",
+    "common_unstar": "إلغاء المتابعة %@",
+    "common_unstar_league": "حذف من المفضلة",
+    "common_until_date": "حتى %@",
+    "common_upcoming_matches": "المباريات المقبلة",
+    "common_upcoming_transfer": "النقل المقبل",
+    "common_var_card_changed_to_red": "تغيّرت البطاقة إلى حمراء",
+    "common_var_card_changed_to_yellow": "تغيّرت البطاقة الحمراء إلى صفراء",
+    "common_var_goal_cancelled": "استبعد الهدف",
+    "common_var_penalty_goal_retake": "هدف جزاء - يجب إعادته",
+    "common_var_penalty_miss_retake": "جزاء لم يُحتسب - يجب إعادته",
+    "common_var_pending": "في انتظار اطلاع VAR",
+    "common_var_pending_goal": "في انتظار VAR - جزاء - هدف",
+    "common_var_pending_penalty": "في انتظار VAR - جزاء",
+    "common_var_pending_red_card": "في انتظار VAR - بطاقة حمراء",
+    "common_var_red_card_removed": "بطاقة حمراء ملغية",
+    "common_vibrate_caption": "اهتزاز الجهاز عند وصول تنبيهات الأهداف",
+    "common_video_autoplay": "تشغيل الفيديو تلقائيًا",
+    "common_view_all": "عرض الكل",
+    "common_view_favorites": "اعرض المفضلات",
+    "common_view_fixtures": "مشاهدة توزيع اللاعبين",
+    "common_view_tv_schedule": "عرض جداول برامج التلفزيون",
+    "common_welcome_to_supporters_club": "مرحباً بك في نادي المشجعين!",
+    "common_welcome_transfer_center": "مرحبًا بك في مركز الانتقالات",
+    "common_what_will_outcome_be": "ماذا ستكون النتيجة؟",
+    "common_when_phone_is_set_to_vibrate": "عندما يُضبط الهاتف على الهزّاز",
+    "common_widget_configure_title": "نافذة الاشعارات",
+    "common_widget_empty_text": "لا مباريات معها اشعارات اليوم",
+    "common_widget_title": "فوتموب",
+    "common_widget_url": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
+    "common_widget_wc_name": "فوتموب - أخبار",
+    "common_won_long": "الفوز",
+    "common_world_cup_balls": "كرات كأس العالم",
+    "common_world_cup_countdown": "تبدأ خلال %1$@",
+    "common_world_cup_popup_description": "لإعطائك كل ما في كأس العالم عملنا بجد لإنشاء تجربة كأس عالم الفريدة - جربها!",
+    "common_world_cup_popup_header": "جرب نظام\\nكأس العالم خاصتنا الجديد!",
+    "common_you_are_a": "انت في %@!",
+    "ios_Changing_notification": "جاري تبديل الإشعارات ...",
+    "ios_Error_reporting": "تقرير عن الخطأ",
+    "ios_Matches_and_News": "المباريات و الأخبار",
+    "ios_Matches_and_Topscorer": "مباريات و متصدر الهدافين",
+    "ios_No_info_available": "لا تتوفر معلومات",
+    "ios_Play_commentaries_in": "شغل التعليق ب",
+    "ios_Playing_commentaries": "تشغيل التعليق",
+    "ios_Playing_commentaries_in": "يتم تشغيل التعليق ب",
+    "ios_Restore_previous_purchases": "استرجاع المشتريات السابقة",
+    "ios_Tables_and_News": "جداول الترتيب و أخبار",
+    "ios_Tweet_the_applink": "رابط تغريدة لـ FotMob",
+    "ios_buy_premium_first": "يجب عليك أولا شراء نسخة/ إصدار مميز// أولا",
+    "ios_choose_league_desc": "با علامت دار کردن ستاره لیگ را به موردعلاقه های خود اضافه کنید. برای تغییر روی لیگ کلیک کنید.",
+    "ios_last_matches": "آخر المباريات",
+    "ios_location_reason": "نحن نستعمل موقعك فقط لتفعيل خصائص متوفرة لبعض الدول",
+    "ios_match_is_finished": "المباراة أنتهت",
+    "ios_minutes_long": "دقائق",
+    "ios_most_red": "أكثر البطاقات الحمراء",
+    "ios_most_yellow": "أكثر البطاقات الصفراء",
+    "ios_open_safari": "افتح من خلال Safari",
+    "ios_points_long": "النقاط",
+    "ios_purchase_failed": "فشلت عملية الشراء. الرجاء إعادة المحاولة",
+    "ios_push_sent": "يجب أن يصل التنبيه قريبا.",
+    "ios_top_assists": "افضل صانعين الاهداف",
+    "ios_top_goalscorer": "أفضل الهدافين",
+    "ios_whoops_no_matches": "للأسف، لا توجد مباريات! أضف إشعارا أو نجما لمباراة ليظهر هنا",
+    "new_age_sentencecase": "العمر",
+    "new_change_news_sound": "تغيير الصوت الخاص بالتنبيهات الجديدة",
+    "new_choose_favorite_team": "الفرق ذات الشعبية",
+    "new_choose_favorite_team_national": "الفرق المحلية",
+    "new_city_guides": "أدلة المدينة",
+    "new_country_sentencecase": "الدولة",
+    "new_default_sound": "الافتراضي",
+    "new_did_you_know": "هل تعلم؟",
+    "new_e_mail": "عنوان البريد الالكتروني",
+    "new_edit_alerts": "تعديل التنبيهات",
+    "new_enable_custom_sounds": "تفعيل الأصوات المخصصة",
+    "new_enable_news": "تشغيل وظيفة التنبيهات حول الأخبار",
+    "new_favorite_summary": "قم بمراجعة فرقك المفضلة وإعداد التنبيهات",
+    "new_featured_videos": "فيديوهات مميزة",
+    "new_finalTournament": "نهائي",
+    "new_full_time_result": "نتبيجة المباراة كاملة",
+    "new_goals_start_and_finish": "حسب الأهداف، أو البداية، أو النهاية",
+    "new_height_sentencecase": "الطول",
+    "new_how_to_remove_news_notifications": "قم بتبديل إشعارات الأخبار بالنقر على الجرس على صفحة الفرق",
+    "new_intro_text": "اختر فرقك المفضلة وابدأ بالتجربة.",
+    "new_invitation_message": "يجب عليك ان تقوم بتجربة هذا التطبيق, ممتاز لمتابعة الدوري الانجليزي الممتاز ++.",
+    "new_invite_informal_prompt": "اصدقائك لا يعلمون شيء عما يجري في عالم الكرة؟ قم بمشاركة التطبيق معهم",
+    "new_invite_title": "قم بدعوة اصدقائك لتجربة FOTMOB",
+    "new_login_with": "تسجيل الدخول عبر",
+    "new_match_alerts": "تنبيهات المباراة",
+    "new_match_reminder": "تذكير بالمباراة",
+    "new_matches_tab_title": "المباريات",
+    "new_mute_alerts": "تعطيل التنبيهات",
+    "new_news_vibrate": "اهتزاز الجهاز عند وصول تنبيهات جديدة",
+    "new_no_favorites_added": "لم تقم بإضافة أي مفضلة.\\n\\nانقر على زر رجوع لإضافة واحدة الآن أو انقر على زر إنهاء لإضافة واحدة في وقت لاحق.",
+    "new_no_internet_connection": "لا اتصال بالانترنت",
+    "new_no_matches_on_tv_today": "لا توجد قنوات ناقلة",
+    "new_no_more_goals": "لا مزيد من الأهداف",
+    "new_no_odds": "لا فرص",
+    "new_no_player_data": "ليس هناك شيء حتى الآن، تفقد لاحقا",
+    "new_no_thanks": "لا، شكرا",
+    "new_notification_sound_fav_opponent": "هدف على فريقك",
+    "new_notification_sound_sys_default": "الافتراضي في النظام",
+    "new_onlytopnews": "الأخبار المهمة فقط",
+    "new_pause_result": "نتيجة الشوط الأول",
+    "new_pick_favorite": "لقد تبين لنا بأنك لم تقم بإعداد فرقك المفضلة. هل تريد إعداد فريق؟",
+    "new_pick_suggestion": "خذ اقتراحا",
+    "new_player_not_sent_off": "%@ لم يطرد",
+    "new_player_scores": "%@ يسجّل",
+    "new_player_sent_off": "%@ طرد!",
+    "new_profile_picture": "صورة ملفك الشخصي",
+    "new_quick_start": "إعداد سريع",
+    "new_red_card_alert": "بطاقات حمراء",
+    "new_related_news": "اخبار متعلقة",
+    "new_remove_ads": "إزالة الإعلانات",
+    "new_roundof16": "دور الـ16",
+    "new_score_correction": "تصحيح النتيجة",
+    "new_search_hint_global_desc": "حتى الآن، لا توجد نتائج!",
+    "new_set_alerts": "إعداد التنبيهات",
+    "new_set_favorite_team": "إعداد فريق مفضل",
+    "new_set_your_popular_teams": "هل تتابع إحدى هذه الفرق ذات الشعبية؟",
+    "new_set_your_teams": "اختر فرقك المحلية المفضلة",
+    "new_sing_up": "اشتراك",
+    "new_sounds_desc": "قم بتبديل الصوت للاشعارات",
+    "new_start_and_finish": "بدء ونتيجة المباراة كاملة",
+    "new_team_profile": "ملف الفريق",
+    "new_title_activity_widget_settings": "إعدادات",
+    "new_title_activity_world_cup": "البرازيل 2014",
+    "new_to_win": "للفوز",
+    "new_top_players": "افضل اللاعبين",
+    "new_transfer_news_added": "سنرسل لك اشعارات لافضل اخبار الانتقالات",
+    "new_waiting_for_extratime": "بانتظار الوقت الاضافي",
+    "new_waiting_for_penalties": "بانتظار ركلات الجزاء",
+    "new_wc_qual": "التأهل لكأس العالم",
+    "new_weight_sentencecase": "الوزن",
+    "new_who_will_score_next": "من سيسجل التالي؟",
+    "new_widget_providers_list_title": "تشكيل",
+    "notifications_accurate_forward_zone_pass": "تمريرة أمامية دقيقة إلى منطقة الهجوم",
+    "notifications_add_favorite_desc_ipad": "اضغط + لاضافة فريق أو لاعب مفضل",
+    "notifications_add_widget": "إضافة ويدجت",
+    "notifications_added_injury_time": "+%@ دقيقة أضيفت",
+    "notifications_aerials_lost": "خسارة الكرات العالية",
+    "notifications_aerials_won": "ربح الكرات العالية",
+    "notifications_alert_rating_short": "التقييم: %@",
+    "notifications_alert_rating_short_motm": "🔥أفضل لاعب في المباراة (%@)",
+    "notifications_already_a_user": "هل تمتلك حساب؟",
+    "notifications_app_update_message": "تحديث التطبيق جاهز للتثبيت",
+    "notifications_app_widget_description": "نصيحة : يمكنك تغيير حجم الويدجت على شاشتك الرئيسية",
+    "notifications_are_you_enjoying_app_variant_1": "أهلًا، هل تستمتع باستخدام FotMob؟",
+    "notifications_are_you_enjoying_app_variant_2": "أهلًا %@! هل تحب استخدام FotMob؟",
+    "notifications_assist_singular": "صناعة هدف",
+    "notifications_at_least_one": "عليك اختيار اشعار واحد على الاقل",
+    "notifications_average_league": "متوسط الدوري",
+    "notifications_blocked_shots": "تسديدات تم صدها",
+    "notifications_change_notifications": "الإشعارات",
+    "notifications_change_notifications_desc": "إدارة كل إشعارات أخبار، فريقك، لاعبك وبطولتك النشطة",
+    "notifications_compare_stats": "مقارنة الإحصائيات",
+    "notifications_confirmed_transfer_news": "أخبار انتقال مؤكدة",
+    "notifications_dark_mode": "الوضع الليلي",
+    "notifications_date_picker": "منتقي التاريخ",
+    "notifications_date_picker_onboarding": "انقر فوق التقويم في أي وقت لعرض تواريخ إضافية.",
+    "notifications_days_until_match_start": "%@ ايام",
+    "notifications_disable_dnd_to_hear_notifications": "قم بتعطيل نمط \"عدم الإزعاج\" لسماع أصوات الإشعارات.",
+    "notifications_disable_push": "هل انت متأكد ؟ عليك القيام بهذا فقط ان كان لديك مشاكل مع الاشعارات",
+    "notifications_discipline": "البطاقات",
+    "notifications_dnd_is_enabled": "- تمكين وضع عدم الإزعاج",
+    "notifications_do_not_disturb": "عدم الإزعاج",
+    "notifications_dont_show_again": "لا تعرض مجدداً",
+    "notifications_dribbles_attempted": "محاولات مراوغة",
+    "notifications_dribbles_succeeded": "مراوغات ناجحه",
+    "notifications_enable_breaking_news": "تفعيل الأخبار العاجلة",
+    "notifications_enable_breaking_news_desc": "الحصول على الإشعارات من المواضيع الإخبارية الكبيرة. بضع إشعارات في الاسبوع فقط.",
+    "notifications_enable_http_cache": "تفعيل الملفات المخفية خارج الشبكة (بيتا)",
+    "notifications_enable_transfer_news": "تفعيل أخبار الإنتقالات",
+    "notifications_enable_transfer_news_desc": "الحصول على إشعارات لأهم أخبار الإنتقالات",
+    "notifications_error_led_to_goal": "خطأ أدى إلى هدف",
+    "notifications_error_led_to_shot": "خطأ أدى إلى ركلة",
+    "notifications_error_no_component_for_speech_recognition_found": "لم يتم العثور على أي مكوّن للتعرف على الكلام.",
+    "notifications_error_signing_in_with": "كانت هناك مشكلة في تسجيل الدخول عبر ‎%@‎. الرجاء إعادة المحاولة.",
+    "notifications_error_unable_to_open_search_hit": "تعذّر فتح عنصر البحث. يرجى إعادة المحاولة لاحقاً.",
+    "notifications_error_unable_to_toggle_favorite": "تعذّر تبديل المفضلات. يرجى إعادة المحاولة لاحقاً.",
+    "notifications_exit_world_cup_mode": "الخروج من نظام الدوري",
+    "notifications_expected_return_date_a_few_days": "بضعة أيام",
+    "notifications_expected_return_date_a_few_weeks": "بضعة أسابيع",
+    "notifications_expected_return_date_back_in_training": "عودة للتدريب",
+    "notifications_expected_return_date_day_to_day": "يوم بيوم",
+    "notifications_expected_return_date_doubtful": "ربما",
+    "notifications_expected_return_date_early": "مطلع %1$@",
+    "notifications_expected_return_date_late": "آخر %1$@",
+    "notifications_expected_return_date_mid": "وسط %1$@",
+    "notifications_expected_return_date_out_for_season": "خارج الموسم",
+    "notifications_expected_return_date_unknown": "مجهول",
+    "notifications_favorite_players": "اللاعبين المفضلين",
+    "notifications_filter_and_sort_tournaments": "فلترة وتصنيف البطولات",
+    "notifications_filter_tournaments": "فلترة البطولات",
+    "notifications_filter_tournaments_help_text": "حدّد البطولة لعرضها على الشاشة مباشرة",
+    "notifications_follow_player": "تابع %@",
+    "notifications_footnote_goals_and_appearances": "قد يكون عدد الأهداف والمباريات قبل 2006 غير صحيح في بعض الحالات.",
+    "notifications_fotmob_notifications_disabled": "تم تعطيل إشعارات FotMob",
+    "notifications_fotmob_notifications_enabled": "تم تفعيل إشعارات FotMob",
+    "notifications_goal_v2": "هدف",
+    "notifications_goals_headedGoals": "الأهداف الرأسية",
+    "notifications_goals_inside_box": "الأهداف داخل منطقة الجزاء",
+    "notifications_goals_leftFootedGoals": "الأهداف بالقدم اليسرى",
+    "notifications_goals_otherBodyPartGoal": "أهداف أخرى",
+    "notifications_goals_outside_box": "الأهداف خارج منطقة الجزاء",
+    "notifications_goals_penalties": "الأهداف المسجلة بركلات الترجيح",
+    "notifications_goals_rightFootedGoals": "الأهداف بالقدم اليمنى",
+    "notifications_hello_how_can_we_help_you": "مرحباً،\\nكيف يمكننا مساعدتك؟",
+    "notifications_how_about_rating": "ما رأيك في تقييمنا على Play Store؟",
+    "notifications_how_about_rating_iOS": "ما رأيك لو تقيمنا على App Store؟",
+    "notifications_i_m_done": "انتهيت",
+    "notifications_increase_volume_to_hear_notifications": "يرجى رفع صوت التنبيه لسماع أصوات الإشعارات.",
+    "notifications_increase_volume_to_preview_sound": "يرجى رفع صوت الوسائط لسماع معاينة الصوت.",
+    "notifications_injured_and_suspended_players": "اللاعبون المصابون و المطرودون",
+    "notifications_is_in_lineup": "في التشكيلة الاساسية",
+    "notifications_key_players": "`اللاعبين الرئيسيين `",
+    "notifications_last_won": "آخر فوز %@",
+    "notifications_league_wide_transfers": "انتقالات بطولة شاملة",
+    "notifications_legal_leaving_app": "أنت الآن تغادر FotMob",
+    "notifications_limited_lineup_coverage": "هذه المباراة لديها تشكيلة إحتياط محدودة",
+    "notifications_logged_out_warning": "لقد سجلت الخروج. يرجى تسجيل الدخول مرة أخرى حتى نتمكن من الاستمرار في الحفاظ على أمان الإعدادات المفضلة لديك.",
+    "notifications_long_balls_accurate": "كرات طويلة ودقيقة",
+    "notifications_match_highlights": "أهم لحظات المباراة",
+    "notifications_matches_started": "`بدأت المباراة `",
+    "notifications_matchstats.headers.attackers": "المهاجمون",
+    "notifications_matchstats.headers.clerances": "إبعاد الكرات",
+    "notifications_matchstats.headers.defenders": "المدافعون",
+    "notifications_matchstats.headers.dribbles": "مراوغات",
+    "notifications_matchstats.headers.passers": "الممررون",
+    "notifications_matchstats.headers.passes": "تمريرات",
+    "notifications_matchstats.headers.tackles": "إصطدامات",
+    "notifications_minimum_x_characters": "أدخل %d حرف على الأقل.",
+    "notifications_minutes_short": "د",
+    "notifications_my_leagues": "بطولات الدوري",
+    "notifications_my_players": "لاعبي",
+    "notifications_my_teams": "فِرقي",
+    "notifications_network_connection_issues_notification": "يبدو أن لدينا مشاكل في جلب بيانات جديدة. نُجرّب التحديث؟",
+    "notifications_network_troubleshooting": "استكشاف أخطاء الشبكة وإصلاحها",
+    "notifications_network_troubleshooting_description": "قم بإجراء اختبار سريع لاكتشاف مشكلات الشبكة",
+    "notifications_network_troubleshooting_help_text": "يرجى الانتظار أثناء إجراء بعض الاختبارات التلقائية للشبكة. يمكنك إرسال ملف السجل إلينا بمجرد الانتهاء من ذلك.",
+    "notifications_network_troubleshooting_help_text_error": "يرجى تقديم وصف مفصل لمشكلتك في سجل البريد الإلكتروني.",
+    "notifications_network_troubleshooting_help_text_error_2": "يرجى تقديم وصف مفصل لمشكلتك.",
+    "notifications_network_troubleshooting_help_text_ok": "كل شيء يبدو على ما يرام!\\n\\nهل لا تزال تواجه مشكلة؟ يرجى تقديم وصف مفصل لمشكلتك في سجل البريد الإلكتروني.",
+    "notifications_network_troubleshooting_help_text_ok_2": "كل شيء يبدو على ما يرام!\\n\\nهل لا تزال تواجه مشكلة؟ يرجى تقديم وصف مفصل لمشكلتك",
+    "notifications_network_troublshooting_test1": "في انتظار رسالة النظام",
+    "notifications_network_troublshooting_test2": "جاري جلب بيانات النظام",
+    "notifications_network_troublshooting_test3": "جاري التحقق من الاتصال",
+    "notifications_network_troublshooting_test4": "كتابة النتائج على ملف النتائج",
+    "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": "جميل! هل أنت جاهز أو تريد إضافة تنبيهات انتقالات لبطولة شاملة أو تخصيص انتقالات الفرق؟",
+    "notifications_no_data_available": "لا توجد بيانات متوفرة",
+    "notifications_no_favorites_added_yet": "لا تفضيلات تمت إضافتها",
+    "notifications_no_variant_1": "ليس صحيحاً",
+    "notifications_no_variant_2": "لا، لديَّ بعض الأفكار",
+    "notifications_notifications_2": "الإشعارات",
+    "notifications_notifications_are_blocked": "- تعطيل إشعارات هذا التطبيق",
+    "notifications_notifications_are_blocked_for_some_notification_channels": "- الإخطارات محظورة لبعض التنبيهات: %@",
+    "notifications_notifications_are_muted": "- كتم صوت الإشعارات",
+    "notifications_notifications_are_muted_for_some_notification_channels": "- صوت الإخطارات مكتوم لبعض الإخطارات: %@",
+    "notifications_notifications_are_muted_simple": "الإشعارات مكتومة",
+    "notifications_notifications_count": "%@ تفضيلات، %@ مع إشعارات",
+    "notifications_notifications_may_not_be_heard": "قد يتعذَّر سماع و/أو رؤية الإشعارات بسبب:",
+    "notifications_ok_sure": "نعم، بالتأكيد",
+    "notifications_open_on_watch": "فتح على الساعة",
+    "notifications_pass_percentage_short": "نسبة التمرير",
+    "notifications_penalties_won": "الحصول على ضربات الجزاء",
+    "notifications_pin_to_homescreen": "تثبيت في الشاشة الرئيسية",
+    "notifications_place_bet": "وضع رهان",
+    "notifications_player_assist": "%@ حصل على تمريرة لتسجيل هدف.",
+    "notifications_player_in_starting_lineup": "%@ يبدأ في التشكيلة الاساسية %@ - %@",
+    "notifications_player_in_starting_lineup_short": "يبدأ في تشكيلة البداية\\n%@ - %@",
+    "notifications_player_rating_alert": "%@ لديه تقييم لـ %@.",
+    "notifications_player_rating_motm": "%@ لديه تقييم لـ %@ وكان بطل المباراة!",
+    "notifications_player_starts_on_the_bench": "%@ يبدأ كلاعب بديل ل %@ - %@",
+    "notifications_player_starts_on_the_bench_short": "كبديل\\n%@ - %@",
+    "notifications_player_sub_in": "%@ قد عوض",
+    "notifications_player_sub_in_short": "تم الاستبدال بدخوله",
+    "notifications_player_sub_out": "%@ قد تم استبداله.",
+    "notifications_player_sub_out_injury_short": "تم الاستبدال بسبب الإصابة.",
+    "notifications_player_sub_out_short": "تم الاستبدال بخروجه",
+    "notifications_player_substitution": "تبديل",
+    "notifications_player_throws": "رميات",
+    "notifications_player_yellow_card": "%@ حصل على بطاقة صفراء.",
+    "notifications_please_select_match": "الرجاء اختيار مباراة",
+    "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": "إحصل على  تنبيهات انتقالات مؤكدة عن كل فرقك المفضلة",
+    "notifications_red_card_v2": "بطاقة حمراء",
+    "notifications_role_asst_coach": "مدرب مساعد",
+    "notifications_role_coach": "مدرب",
+    "notifications_role_player": "لاعب",
+    "notifications_role_referee": "حَكَم",
+    "notifications_role_staff": "الطاقم",
+    "notifications_runner_up": "الوصيف",
+    "notifications_runner_up_trophy": "الوصيف (%d)",
+    "notifications_search_box_hint": "البحث عن الفرق، المقابلات، اللاعبين، الأخبار، البطولات",
+    "notifications_search_failed": "حدث خطأ عند محاولة البحث، يُرجى إعادة المحاولة.",
+    "notifications_search_result_header_matches": "المقابلات (%1$@)",
+    "notifications_search_result_header_news": "الأخبار (%1$@)",
+    "notifications_search_result_header_squad_members": "اللاعبون (%1$@)",
+    "notifications_search_result_header_teams": "الفرق (%1$@)",
+    "notifications_search_result_header_tournaments": "البطولات (%1$@)",
+    "notifications_seconds_short": "ث",
+    "notifications_senior_career": "الأندية التي لعب لها",
+    "notifications_set_at_least_one_match_alert": "اضبط تنبيه واحد للمباريات على الأقل.",
+    "notifications_set_quick_toggle_notifications": "إشعارات المباراة الافتراضية",
+    "notifications_set_quick_toggle_notifications_desc": "قم بضبط  الإشعارات التي يتم تفعيلها عند النقر على الجرس الموجود على صفحات المباراة.",
+    "notifications_set_standard_notifications": "تعيين الاشعارات القياسية",
+    "notifications_share_to": "مشاركة إلى...",
+    "notifications_shots_detail": "تفاصيل التسديدات",
+    "notifications_shots_inside_box": "تسدیدات ذاخل منطقة الجزاء",
+    "notifications_shots_outside_box": "تسديدات خارج منطقة الجزاء",
+    "notifications_show_more": "اظهار اكثر",
+    "notifications_show_video": "عرض الفيديو",
+    "notifications_sign_in": "سجل الدخول",
+    "notifications_sign_in_dialog": "استبدال إعداداتك عبر جميع أجهزتك<b> اتريد الدخول الآن؟</b>",
+    "notifications_sign_in_with_apple": "سجّل الدخول باستخدام Apple",
+    "notifications_sign_in_with_facebook": "تسجيل الدخول عبر فيسبوك",
+    "notifications_sign_in_with_google": "تسجيل الدخول عبر غوغل",
+    "notifications_sign_in_with_twitter": "تسجيل الدخول عبر تويتر",
+    "notifications_sign_out": "الخروج",
+    "notifications_signing_in": "جاري الدخول...",
+    "notifications_social_media_updates": "تحديثات وسائل التواصل الاجتماعي",
+    "notifications_sort_by_time": "بالوقت",
+    "notifications_sorted_by_time": "تم التصنيف بالوقت",
+    "notifications_south_africa": "جنوب إفريقيا",
+    "notifications_standard_alerts_applied_message": "تم اضافة تنبيهات عادية ل %@ ضد %@",
+    "notifications_standard_alerts_description": "تعيين الأشعارات الحديثه لأي دوري ، مباراة أو فريق على تنبيهات تم ضبطها  . هذا لا يؤثر على تنبيهات موجودة مسبقاً.",
+    "notifications_status_live": "مباشر",
+    "notifications_status_new": "جديد",
+    "notifications_submit_log": "إرسال السِجل",
+    "notifications_tackles_attempted": "محاولات قطع الكورة",
+    "notifications_tackles_succeeded": "افتكاك كرة ناجح",
+    "notifications_team_vs_team": "فريق مقابل فريق",
+    "notifications_teams_coached_for": "تاريخ المدرب",
+    "notifications_the_league_was_removed": "تم حذف البطولة",
+    "notifications_the_player_was_removed": "تم حذف اللاعب.",
+    "notifications_the_team_was_removed": "تم حذف الفريق.",
+    "notifications_this_will_overwrite_everything_leagues": "أي تغييرات تجريها هنا سيتم تطبيقها على كل البطولات المفضلة لديك.",
+    "notifications_this_will_overwrite_everything_players": "أي تغييرات تجريها هنا سيتم تطبيقها على كل لاعبيك المفضلين.",
+    "notifications_this_will_overwrite_everything_teams": "أي تغييرات تجريها هنا سيتم تطبيقها على كل فرقك المفضلة.",
+    "notifications_time_setting_may_be_incorrect": "قد يكون الوقت أو إعدادات المنطقة الزمنية غير صحيحة.",
+    "notifications_time_settings": "إعدادات الوقت",
+    "notifications_timezone_and_time_warning_message": "تم ضبط المنطقة الزمنية على %1$@. يجب تغيير المنطقة الزمنية أو ربما يجب ضبط الوقت على %2$@ وليس %3$@.",
+    "notifications_top_stats": "إحصائيات الصدارة",
+    "notifications_transfer_type_back_from_loan": "عودة من الإعارة",
+    "notifications_transfer_type_free_agent": "لاعب حر",
+    "notifications_transfer_type_free_transfer": "انتقال مجاني",
+    "notifications_transfer_type_player_swap": "تبادل لاعبين",
+    "notifications_transfer_type_trial": "تجربة",
+    "notifications_trending_favorites_are_hidden": "المفضلات الرائجة مخفية.",
+    "notifications_trophies_coach": "الكؤوس (مدرب)",
+    "notifications_trophies_player": "الكؤوس (لاعب)",
+    "notifications_turn_them_on": "فعلها!",
+    "notifications_view_player": "عرض %@",
+    "notifications_view_player_details": "تفاصيل اللاعب",
+    "notifications_watch_match_bet365": "شاهد المباراة على قناة Bet365",
+    "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": "لقد أضفنا تنبيهات انتقالات مؤكدة! هل تريد تفعيلها لفرقك المفضلة؟",
+    "notifications_we_can_keep_your_settings_safe": "يمكننا الحفاظ على إعداداتك بأمان بحيث يمكنك مزامنتها عبر الأجهزة أو استرجاعها عند اقتناء جهاز جديد.",
+    "notifications_winner_trophy": "الفائز (%d)",
+    "notifications_would_you_mind_giving_feedback": "هل لديك مانع في منحنا بعض الملاحظات؟",
+    "notifications_x_of_y": "%1$@ من %2$@",
+    "notifications_yes_variant_1": "نعم!",
+    "notifications_yes_variant_2": "نعم، إنه مثالي!",
+    "notifications_you_now_follow_player": "أنت الآن تتابع %@",
+    "notifications_your_content_has_never_been_synced": "لم تتم مزامنة محتواك حتى الآن . الرجاء تسجيل الخروج و ثم العودة مجدداً إذا استمرت المشكلة.",
+    "notifications_youth_career": "مهنة شباب",
+    "seo_TOTW": "فريق الأسبوع",
+    "seo_a_short_description_of_the_issue": "وصف موجز للمشكلة",
+    "seo_about_the_match": "حول المباراة",
+    "seo_ad_free_desc": "إزالة الإعلانات داخل التطبيق (ملاحظة: الإعلانات على مواقع الطرف الثالث لا نديرها).",
+    "seo_ad_free_match_experience": "تجربة مباراة بدون إعلانات",
+    "seo_ad_quality": "إعلانات سيئة",
+    "seo_ad_quality_hint": "يرجى مشاركة تفاصيل الإعلان، مثل المعلن، الشاشة التي ظهر عليها، الفيديو أو الصورة، وما وجدته مشكلاً.",
+    "seo_ai_generated": "تم إنشاؤه بالذكاء الاصطناعي",
+    "seo_ai_team_news_summary_explanation": "الملخصات دي اتولدت بالذكاء الاصطناعي، ومعتمدة على أحدث المقالات الإخبارية على فوت موب. كل ملخص بيربطك بالمقال الأصلي اللي كان أساسه.",
+    "seo_annual": "سنوي",
+    "seo_app_restart_fix": "لإصلاح المشكل الذي تعاني منه، يرجى إعادة تشغيل التطبيق.",
+    "seo_app_version": "إصدار التطبيق",
+    "seo_auto_save_failed": "فشل الحفظ التلقائي",
+    "seo_auto_save_failed_description": "يرجى محاولة إعادة تحميل الصفحة أو تسجيل الخروج والدخول مرة أخرى.",
+    "seo_average_age": "متوسط العمر",
+    "seo_blocked_or_muted_notifications": "بعض الإشعارات تم حظرها أو كتمها. اتجه للإعدادت لتفعيلها.",
+    "seo_bug": "خلل",
+    "seo_change_app_icon_dialog": "لتغيير أيقونة التطبيق، يلزم إعادة تشغيل التطبيق.",
+    "seo_choose_your_display_name": "اختر اسم العرض الخاص بك",
+    "seo_competitions": "البطولات",
+    "seo_copy_link": "نسخ الرابط",
+    "seo_correct_outcome": "النتيجة الصحيحة",
+    "seo_correct_outcome_and_score": "النتيجة الصحيحة والنتيجة النهائية",
+    "seo_correct_outcome_description": "الفائز أو التعادل",
+    "seo_daily_summary": "ملخص يومي",
+    "seo_delayed": "مؤجل",
+    "seo_describe_your_issue": "وصف مشكلتك",
+    "seo_distance_per_90": "المسافة لكل 90 دقيقة",
+    "seo_distance_per_match": "إجمالي المسافة لكل مباراة",
+    "seo_early_access_desc": "كن أول من يجرب أحدث تحديثات FotMob+",
+    "seo_early_access_to_new_features": "الوصول المبكر للميزات الجديدة",
+    "seo_edit_name": "تعديل الاسم",
+    "seo_exclusive_app_icons": "أيقونات حصرية للتطبيق",
+    "seo_exclusive_app_icons_desc": "خصص شاشتك الرئيسية بأيقونات تطبيقات بديلة",
+    "seo_expires_in": "ينتهي خلال %d أيام",
+    "seo_expires_today": "ينتهي اليوم",
+    "seo_expires_tomorrow": "ينتهي غداً",
+    "seo_family_annual": "اشتراك عائلي سنوي",
+    "seo_family_monthly": "اشتراك عائلي شهرياً",
+    "seo_feedback": "تعليق",
+    "seo_fifa_rankings": "تصنيفات الـفيفا",
+    "seo_fifa_rankings_men": "تصنيفات الـفيفا للرجال",
+    "seo_fifa_rankings_women": "تصنيفات الـفيفا للنساء",
+    "seo_final_third_passes": "الثلث الأخير",
+    "seo_first_leg": "مباراة الذهاب",
+    "seo_followed_leagues": "البطولات التي تتابعها",
+    "seo_followed_teams": "الفرق التي تتابعها",
+    "seo_fotmob_plus": "FotMob+",
+    "seo_fotmob_plus_pitch": "إزالة الإعلانات والحصول على مزايا حصرية",
+    "seo_friendly_match": "هذا مباراة ودية",
+    "seo_fun_fact_highest_top_speed": "%1$@ بلغ أعلى سرعة قصوى (%2$@) في المباراة.",
+    "seo_fun_fact_highest_top_speed_live": "%1$@ وصل إلى أعلى سرعة قصوى (%2$@) في المباراة.",
+    "seo_fun_fact_least_distance_covered": "%1$@ قطع أقل مسافة (%2$@) في المباراة من أي لاعب خارج الملعب لعب 90 دقيقة.",
+    "seo_fun_fact_least_distance_covered_live": "%1$@ قطع أقل مسافة (%2$@) في المباراة من بين جميع اللاعبين خارج الملعب.",
+    "seo_fun_fact_most_distance_covered": "%1$@ قطع أكبر مسافة (%2$@) في المباراة.",
+    "seo_fun_fact_most_distance_covered_live": "%1$@ غطى أكبر مسافة (%2$@) في المباراة.",
+    "seo_gold": "ذهب",
+    "seo_group_generic": "مجموعة",
+    "seo_h2h_first_time": "هذه هي المرة الأولى التي يلعب فيها الفريقان ضد بعضهما البعض.",
+    "seo_h2h_summary": "السجل الحالي وجهاً لوجه للفرق هو %1$@ %2$@ فوز(أو انتصار)، %3$@ %4$@ فوز(أو انتصار) و %5$@ تعادل(تعادلات).",
+    "seo_help": "مساعدة",
+    "seo_how_to_play": "كيفية اللعب",
+    "seo_i_need_help": "أحتاج مساعدة",
+    "seo_join_fotmob_plus_monthly": "اشترك في FotMob+ مقابل %@ شهريًا",
+    "seo_join_fotmob_plus_yearly": "انضم إلى FotMob+ مقابل %@ سنويًا",
+    "seo_league_match": "هذه مباراة %1$@",
+    "seo_league_match_round": "هذا هو %2$@ من %1$@.",
+    "seo_lifetime_supporter": "مشجع مدى الحياة",
+    "seo_link_copied_to_clipboard": "تم نسخ الرابط إلى الحافظة",
+    "seo_ltc_ai_explanation": "تمت ترجمة هذا التعليق تلقائيًا. قد توجد بعض الأخطاء البسيطة.",
+    "seo_manage": "إدارة",
+    "seo_manage_subscription": "إدارة الاشتراك",
+    "seo_manage_subscription_desc": "لديك اشتراك نشط تم شراؤه على منصة أخرى. يرجى إدارة الاشتراك على المنصة التي تم الشراء الأصلي منها.",
+    "seo_match_added_to_following": "تمت إضافة المباراة إلى المتابعة",
+    "seo_match_removed_from_following": "تمت إزالة المباراة من المتابعة",
+    "seo_men": "رجال",
+    "seo_monthly": "شهريًا",
+    "seo_more_notification_sounds": "المزيد من أصوات الإشعارات",
+    "seo_more_notification_sounds_desc": "افتح أصوات إشعارات إضافية",
+    "seo_newsletter": "النشرة الإخبارية",
+    "seo_no_matches_today_playing": "لا مباريات اليوم",
+    "seo_no_subscriptions_found": "لا توجد اشتراكات",
+    "seo_now_make_your_predictions_and_compete": "الآن، قم بتوقعاتك وتنافس!",
+    "seo_number_of_sprints": "عدد مرات الركض السريع",
+    "seo_odds_close_match": "تتوقع شركات المراهنات مباراة متكافئة بين %1$@ و %2$@.",
+    "seo_odds_favorites": "%1$@ هم المفضلون للفوز في المباراة، وفقًا للمراهنين.",
+    "seo_odds_overview": "%1$@ لديه فرصة بنسبة %2$@ للفوز، %3$@ للتعادل، و %4$@ لـ %5$@ الفوز.",
+    "seo_odds_x": "الاحتمالات %1$@",
+    "seo_offerings_prematch": "التشكيلة المتوقعة متاحة للمباراة قبل بضعة أيام في حين ستكون التشكيلة الفعلية متاحة قبل ساعة تقريبًا من بداية المباراة.",
+    "seo_onboarding_physical_metrics": "جديد! إحصائيات بدنية لكل مباراة في الدوري الإنجليزي الممتاز",
+    "seo_onboarding_physical_metrics_section1": "<b>السرعة والمسافة المباشرة.</b> شاهد المسافة التي يقطعها كل لاعب ومن يصل إلى السرعة القصوى، مع تحديث فوري.",
+    "seo_onboarding_physical_metrics_section2": "<b>الركض السريع، الجهد، الكثافة.</b> راقب إحصائيات المشي والجري والركض السريع لفهم معدل الجهد.",
+    "seo_onboarding_physical_metrics_section3": "<b>بيانات رسمية.</b> نفس الإحصائيات البدنية التي تعتمد عليها الفرق المحترفة.",
+    "seo_penalty_shootout": "(تسديدة",
+    "seo_penalty_shootout_miss": "%@ ضائعة!",
+    "seo_penalty_shootout_v2": "تسديدة",
+    "seo_physical_metrics": "الأداء البدني",
+    "seo_physical_metrics_distance_covered": "المسافة المقطوعة",
+    "seo_physical_metrics_lineup_filter_distance": "المسافة",
+    "seo_physical_metrics_lineup_filter_speed": "أقصى سرعة",
+    "seo_physical_metrics_number_of_sprints": "عدد مرات العدو السريع",
+    "seo_physical_metrics_running": "الجري",
+    "seo_physical_metrics_sprinting": "الركض السريع",
+    "seo_physical_metrics_topspeed": "السرعة القصوى",
+    "seo_physical_metrics_walking": "المشي",
+    "seo_play_fotmob_predict": "العب FotMob Predict",
+    "seo_play_offs": "المباريات الفاصلة",
+    "seo_play_offs_draw": "قرعة المباريات الفاصلة",
+    "seo_play_offs_explanation": "تحدد مباريات الملحق بواسطة قرعة. في كل تجمع، يتم سحب الفريقين إلى اليسار ضد الفريقين إلى اليمين لإنشاء مباراتي ملحق. تلعب مباريات الملحق على مباراتين، ويتأهل الفائز إلى دور الـ8.\\n\\nهناك قرعة منفصلة لدور الـ8 باستخدام نفس العملية.",
+    "seo_play_offs_format": "شكل المباريات الفاصلة",
+    "seo_play_predict_prevail": "توقع. تنافس. تفوّق.",
+    "seo_player_started_matches": "شارك كأساسي",
+    "seo_playing_home": "%1$@ يلعب في ملعبه ضد %2$@ في %3$@.",
+    "seo_playing_home_at_stadium": "يلعب %1$@ كفريق المضيف ضد %2$@ في %3$@ يوم %4$@.",
+    "seo_popular_in": "شهيرة في %@",
+    "seo_popular_in_your_country": "شهير في دولتك",
+    "seo_position_fullback": "ظهير",
+    "seo_position_winger": "جناح",
+    "seo_predict_edit_until_kick_off": "يمكنك تعديل توقعاتك حتى تبدأ المباراة.",
+    "seo_predict_onboarding_apps": "توقع نتائج %@ وتنافس مع الأصدقاء في الدوريات!",
+    "seo_predict_scoring": "نظام النقاط",
+    "seo_predict_the_full_time_score": "توقع النتيجة النهائية للمباريات القادمة",
+    "seo_predictor_end_of_ordinary_time": "التوقعات للنتيجة في نهاية الوقت الأصلي.",
+    "seo_predictor_extra_time_specification": "إذا توقعت أن المباراة ستمتد إلى وقت إضافي، توقع التعادل.",
+    "seo_predictor_play_button": "ابدأ التوقع",
+    "seo_privacy_title": "الخصوصية",
+    "seo_random_draw": "قرعة",
+    "seo_rematch": "مباراة العودة",
+    "seo_remove": "إزالة",
+    "seo_renews_in": "يتجدد في %d أيام",
+    "seo_renews_today": "يتجدد اليوم",
+    "seo_renews_tomorrow": "يتجدد غداً",
+    "seo_restart_now": "أعد التشغيل الآن",
+    "seo_restore_purchases": "استرجاع المشتريات السابقة",
+    "seo_resubscribe": "إعادة الاشتراك",
+    "seo_resubscribe_to_keep_fotmobplus_benefits": "أعد الاشتراك للحفاظ على مزايا FotMob+.",
+    "seo_results": "النتائج",
+    "seo_retired": "معتزل",
+    "seo_round": "جولة",
+    "seo_round_of_16_draw": "سحب دور الـ 16",
+    "seo_roundof16playoff": "ملحق دور الـ 16",
+    "seo_running_the_latest_version": "أنت تستخدم أحدث إصدار للتطبيق.",
+    "seo_saved_penalties_in_shootout": "تصديات ركلات الترجيح",
+    "seo_second_leg": "مباراة الإياب",
+    "seo_share_link": "شارك الرابط",
+    "seo_sign_in_to_fotmob_predict": "تسجيل الدخول إلى FotMob Predict",
+    "seo_sign_in_to_play": "سجل الدخول للعب",
+    "seo_since_x": "منذ %@",
+    "seo_site_description": "فوتموب هو تطبيق أساسي لأيام المباراة. احصل على النتائج المباشرة والمواعيد والجداول وإحصائيات المباريات وأخبار شخصية من أكثر من 500 دوري كرة قدم حول العالم.",
+    "seo_site_description_aboutus_careers": "نبحث عن مطورين، تفقد مواقعنا الشاغرة! فوت موب هو التطبيق الأساسي ليوم المباراة. احصل على النتائج المباشرة، والمباريات المقررة، والجداول، وإحصائيات المباراة، والأخبار المخصصة من أكثر من ٥٠٠ دوري كرة قدم حول العالم.",
+    "seo_site_description_faq": "هل لديك سؤال حول تطبيق فوتموب، إعدادات التطبيق أو تعاريف الإحصائيات؟ تفضل بزيارة صفحة الأسئلة الشائعة في فوتموب للإجابات ونصائح إضافية!",
+    "seo_site_description_for_you": "أنشئ موجز أخبار شخصيًا مع أحدث الأخبار من أنديتك ودورياتك المفضلة.",
+    "seo_site_description_latest_news": "احصل على آخر الأخبار والعناوين وشائعات الانتقالات من الدوري الإنجليزي الممتاز وكرة القدم العالمية.",
+    "seo_site_description_league_matches": "%1$@ نتائج %2$@ والمباريات القادمة",
+    "seo_site_description_league_news": "احصل على أحدث أخبار %1$@ وشائعات الانتقالات.",
+    "seo_site_description_league_overview": "%1$@ جدول %2$@، النتائج، المباريات، وأفضل الهدافين والمزيد",
+    "seo_site_description_league_playoff": "نظرة عامة على %1$@، مواعيد المباريات، النتائج %2$@",
+    "seo_site_description_league_stats": "%1$@ الإحصائيات %2$@ بما في ذلك أفضل الهدافين وصانعي الأهداف وتقييم اللاعبين والمزيد",
+    "seo_site_description_league_table": "الجدول %1$@، الترتيب %2$@، دليل الأداء والمزيد.",
+    "seo_site_description_league_table_xg": "%1$@%2$@ مُرتب بحسب النقاط المتوقعة (xPts). أنظر جدول xG %1$@ أو جدول المساواة من أجل %2$@ ومواسم أخرى على FotMob.",
+    "seo_site_description_league_transfers": "انظر جميع التحويلات %1$@",
+    "seo_site_description_league_trophies": "%1$s مواسم تاريخية مع الفائزين والوصيفين.",
+    "seo_site_description_match": "%1$@ ضد %2$@ في %3$@. تحقق من النتائج المباشرة، وتاريخ المواجهات السابقة، وإحصاءات المباراة، وتشكيلتي الفريقين، وتقييم اللاعبين، والتحليلات، ونمط الفريق، وخريطة التسديد، وأبرز اللقطات.",
+    "seo_site_description_match_finished": "%1$@ مقابل %2$@ في %3$@ انتهت %4$@. تحقق من نتائج مباشرة، مواجهة المبارات، إحصائيات المباراة، تشكيل الفرق، تقييم لاعبي المباراة، نصائح، أشكال الفريق، خريطة القذائف، وأبرز الأحداث.",
+    "seo_site_description_stats_league": "الإحصائيات %1$@ %2$@ بما في ذلك أعلى هدافين وصانعي الأهداف وتقييمات اللاعبين والمزيد",
+    "seo_site_description_stats_team": "%1$@إحصائيات %2$@ %3$@ بما في ذلك أفضل الهدافين والتمريرات الحاسمة وتقييم اللاعبين والمزيد",
+    "seo_site_description_team_fixtures": "%1$@ - نتائج مباشرة، جدول المباريات والنتائج",
+    "seo_site_description_team_history": "المراكز التاريخية في الجدول لـ %1$@",
+    "seo_site_description_team_news": "احصل على آخر أخبار %1$@ وشائعات الانتقال",
+    "seo_site_description_team_overview": "%1$@ - النتائج، المباريات، آخر الأخبار وترتيب الفرق",
+    "seo_site_description_team_squad": "التشكيلة الحالية %1$@",
+    "seo_site_description_team_stats": "%1$@ - تقييم الفريق، الأهداف في كل مباراة، الشوط الهداف وأحصائيات أخرى",
+    "seo_site_description_team_table": "%1$@ - ترتيب الدوري والكأس ودليل الأداء",
+    "seo_site_description_team_transfers": "أحدث تحويلات %1$@ في الداخل والخارج وتمديدات العقود",
+    "seo_site_description_transfer_center": "ابحث عن جميع التحويلات المؤكدة الأحدث وأغلى التوقيعات. مركز تحويلات فوتموب - فلترة حسب الدوري والفرق. ابق محدّثًا بالتحويلات مع التحديثات المباشرة في يوم انتهاء المهلة مع جميع الصفقات المكتملة!",
+    "seo_site_description_transfer_center_selection": "ابحث عن جميع التحويلات المؤكدة الأحدث لـ %1$@ وأغلى التوقيعات. مركز تحويلات FotMob - فلترة حسب الدوري والفرق. ابق محدّثًا بالتحويلات مع التحديثات المباشرة في يوم انتهاء المهلة مع جميع الصفقات المكتملة!",
+    "seo_site_title": "فوتموب - نتائج كرة القدم المباشرة",
+    "seo_site_title_aboutus": "FotMob - حولنا",
+    "seo_site_title_aboutus_advertise": "FotMob - إعلان",
+    "seo_site_title_aboutus_careers": "FotMob - نحن نوظّف!",
+    "seo_site_title_coach": "%1$@ - إحصائيات ومسيرة اللاعب",
+    "seo_site_title_faq": "أسئلة شائعة",
+    "seo_site_title_for_you": "الأخبار - لك - موجز أخبار شخصي",
+    "seo_site_title_latest_news": "آخر الأخبار - أخبار كرة القدم وشائعات الانتقالات اليوم.",
+    "seo_site_title_league_matches": "يوجد %1$@ مباريات ونتائج %2$@",
+    "seo_site_title_league_news": "%1$@ - آخر الأخبار والشائعات",
+    "seo_site_title_league_overview": "%1$@ مباريات و جداول و أخبار %2$@",
+    "seo_site_title_league_playoff": "%1$@ جدول المباريات الخروجية، والمخططة والبطل %2$@",
+    "seo_site_title_league_stats_players": "%1$@%2$@ أفضل اللاعبين تصنيفا، الأهداف، التمريرات الحاسمة وإحصائيات أخرى",
+    "seo_site_title_league_stats_teams": "الفرق الأعلى تصنيفًا %1$@، المتوسط %2$@ لكل مباراة، الضربات المستهدفة وإحصائيات أخرى",
+    "seo_site_title_league_stats_trophies": "الفائزون والوصيفون %1$@",
+    "seo_site_title_league_table": "%1$@ جدول %2$@، الأداء والخصم التالي",
+    "seo_site_title_league_table_xg": "%1$@ جدول xG %2$@",
+    "seo_site_title_league_transfers": "%1$@ - التحويلات، رسوم اللاعبين، العقود والقيم السوقية",
+    "seo_site_title_match": "%1$@ مقابل %2$@ - نتيجة مباشرة، تشكيلة الفريقين المتوقعة وإحصائيات سابقة",
+    "seo_site_title_player": "%1$@ - الإحصاءات والمسيرة الاحترافية والقيمة السوقية",
+    "seo_site_title_stats": "الإحصاءات - فوتموب - نبض كرة القدم",
+    "seo_site_title_stats_league": "%1$@ - إحصاءات %2$@ %3$@",
+    "seo_site_title_stats_team": "إحصائيات%1$@ - %2$@ ل%3$@ %4$@",
+    "seo_site_title_team_fixtures": "%1$@ - أحدث مباريات ونتائج ومواعيد المباريات القادمة",
+    "seo_site_title_team_history": "%1$@ - المراكز التاريخية في الجدول والكؤوس",
+    "seo_site_title_team_news": "%1$@ - آخر الأخبار والشائعات",
+    "seo_site_title_team_overview": "%1$@ - المباريات، معلومات الفريق وأفضل اللاعبين",
+    "seo_site_title_team_squad": "فريق %1$@ - المدرب، الإصابات، والمواقف",
+    "seo_site_title_team_stats": "%1$@ - أعلى لاعبي التصنيف، الأهداف، المساعدات والإحصائيات الأخرى - الإحصائيات، السيرة الذاتية والقيمة السوقية",
+    "seo_site_title_team_stats_teams": "%1$@ - تقييم الفريق، الأهداف في كل مباراة، الشوط الهداف وأحصائيات أخرى",
+    "seo_site_title_team_table": "جدول %1$@، الأداء والخصم التالي",
+    "seo_site_title_team_transfers": "%1$@ - سجل الانتقالات، اللاعبين القادمين واللاعبين المغادرين",
+    "seo_site_title_transfer_center": "مركز الانتقال - أحدث وأعلى الانتقالات - فوتموب",
+    "seo_site_title_transfer_center_selection": "مركز الانتقالات - %1$@: أحدث وأفضل الانتقالات - FotMob",
+    "seo_something_went_wrong_please_try_again": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+    "seo_source": "المصدر",
+    "seo_sprints_per_90": "عدد الركضات لكل 90 دقيقة",
+    "seo_start_free_trial": "ابدأ تجربة مجانية",
+    "seo_sub_terms_and_condition": "شروط وأحكام الاشتراك",
+    "seo_submit": "تقديم",
+    "seo_subscribe": "اشترك",
+    "seo_subscription_features": "خصائص الاشتراك",
+    "seo_subtitle_guess_results_compete_against_friends": "خمّن النتائج وتنافس مع الأصدقاء",
+    "seo_support_fotmob": "ادعم فوتموب",
+    "seo_support_fotmob_desc": "ساعد في دعم التطوير المستمر لـ FotMob.",
+    "seo_team_rating": "تقييم الفريق",
+    "seo_team_won": "%@ فوز!",
+    "seo_thank_you_for_your_feedback": "شكرًا على ملاحظاتك!",
+    "seo_thanks_for_support": "شكرًا لدعمكم لنا منذ %@! افتحوا المزيد من الميزات مع FotMob+",
+    "seo_third_leg": "المباراة النهائية",
+    "seo_this_tournament": "هذه المسابقة",
+    "seo_throwins": "رميات جانبية",
+    "seo_tips_tap_to_view_career_history": "اضغط لعرض التاريخ المهني",
+    "seo_tots": "فريق الموسم",
+    "seo_trial_desc_annual": "ثم %1$@ / سنة (%2$@ / شهر)",
+    "seo_trial_desc_first_days": "مجاني لأول %@ أيام",
+    "seo_trial_desc_monthly": "ثم %@ في الشهر",
+    "seo_trial_ending_auto_renewal": "تذكير سريع: تجربة FotMob+ المجانية ستنتهي خلال يومين وستتجدد تلقائيًا.",
+    "seo_trial_ending_expire": "ستَنتهي فترة التجربة المجانية لـ FotMob+ خلال يومين.",
+    "seo_troubleshooting": "استكشاف الأخطاء",
+    "seo_troubleshooting_description": "قم بإجراء اختبار سريع لاكتشاف أي مشاكل",
+    "seo_troubleshooting_help_text": "سيقوم التطبيق الآن بإجراء اختبارات تلقائية لاستشكاف الأخطاء التي تواجهها. بمجرد انتهائها، أرسل الاختبار وسنقوم بمراجعته.",
+    "seo_type_of_issue": "نوع المشكلة",
+    "seo_unattached": "وكيل حر",
+    "seo_update_available": "التحديث متوفر",
+    "seo_view_all_plans": "عرض جميع الخطط",
+    "seo_view_full_commentary": "التعليق الكامل",
+    "seo_watch_on_tv": "اشترك في المباراة على %1$@",
+    "seo_weather_conditions": "حالة الطقس",
+    "seo_win_probability": "احتمالية الفوز",
+    "seo_women": "نساء",
+    "seo_xg_table_explanation": "يصنف جدول xG الفرق بناءً على إحصائيات الأهداف المتوقعة (xG).\\n\\n• الأرقام الخضراء تعني بأن الفريق يقوم بأداء أفضل ممّا كان متوقعًا\\n• الأرقام الحمراء تعني بأن الفريق يقوم بأداء أسوأ ممّا كان متوقعًا\\n• الأرقام الصغيرة بالقرب من قيمة xG تظهر الفرق بين الأداء الفعلي والمتوقع.\\n\\nلمزيد من التفاصيل عن كيفية حسابها، تفقد الأسئلة الشائعة.",
+    "seo_xg_table_header": "جدول - xG",
+    "seo_xga_short": "xGA",
+    "seo_xpts_explanation": "النقاط المتوقعة (xPts) تعكس عدد النقاط المتوقع من الفريق تحقيقها في مباراة، وفقا لجودة فرصه تم قياسها بالأهداف المتوقعة (xG).\\n\\nيتم حساب xPts لمباراة بمحاكاة النتائج المحتملة باستخدام جودة التسديدات، بالتعبير عنها كـ xG. تكافئ المحاكاة نقاطًا عن الأرباح، التعادلات، أو الخسارات بالاعتماد على xG.\\n\\nيتم تجميع xPts طيلة الموسم من ‘جدول xG‘، يعرف أيضً بـ ‘جدول المساواة‘، والذي يقدم نظرة بديلة عن أداء فريق بشكل أعمق بالمقارنة مع النقاط المحصل عليها.",
+    "seo_xpts_explanation_green_numbers": "الأرقام الخضراء توحي بأن هناك أرقاما أساسية أفضل مقارنة بالنتائج الفعلية لفريق ما.",
+    "seo_xpts_explanation_link": "ما هو جدول xG؟",
+    "seo_xpts_explanation_red_numbers": "الأرقام الحمراء توحي بأن هناك أرقاما أساسية أسوأ مقارنة بالنتائج الفعلية لفريق ما.",
+    "seo_xpts_short": "xPTS",
+    "seo_you_joined_the_league": "انضممت إلى الدوري",
+    "seo_your_subscription_has_expired": "انتهت صلاحية اشتراكك",
+    "seo_zero_points": "0 نقاط or ٠ نقاط"
+  }
+}

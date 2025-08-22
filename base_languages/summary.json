@@ -1,0 +1,197 @@
+{
+  "total_keys": 1382,
+  "languages": [
+    "en",
+    "ar",
+    "da",
+    "de",
+    "el",
+    "es",
+    "fa",
+    "fi",
+    "fr",
+    "hi",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "my",
+    "nb",
+    "nl",
+    "pl",
+    "pt-BR",
+    "pt-PT",
+    "ro",
+    "ru",
+    "sv",
+    "sw",
+    "th",
+    "tr",
+    "uk",
+    "vi",
+    "zh-Hans",
+    "en-GB"
+  ],
+  "included_tags": [
+    "ios",
+    "android",
+    "web",
+    "watchos",
+    "wearos",
+    "predictor",
+    "ioswidget",
+    "iosnotification"
+  ],
+  "coverage": {
+    "en": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "ar": {
+      "translated": 1476,
+      "total": 1478,
+      "percentage": 99.86
+    },
+    "da": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "de": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "el": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "es": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "fa": {
+      "translated": 1476,
+      "total": 1478,
+      "percentage": 99.86
+    },
+    "fi": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "fr": {
+      "translated": 1476,
+      "total": 1478,
+      "percentage": 99.86
+    },
+    "hi": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "id": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "it": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "ja": {
+      "translated": 1473,
+      "total": 1478,
+      "percentage": 99.66
+    },
+    "ko": {
+      "translated": 1476,
+      "total": 1478,
+      "percentage": 99.86
+    },
+    "my": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "nb": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "nl": {
+      "translated": 1476,
+      "total": 1478,
+      "percentage": 99.86
+    },
+    "pl": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "pt-BR": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "pt-PT": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "ro": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "ru": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "sv": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "sw": {
+      "translated": 1471,
+      "total": 1478,
+      "percentage": 99.53
+    },
+    "th": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "tr": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "uk": {
+      "translated": 1445,
+      "total": 1478,
+      "percentage": 97.77
+    },
+    "vi": {
+      "translated": 1477,
+      "total": 1478,
+      "percentage": 99.93
+    },
+    "zh-Hans": {
+      "translated": 1478,
+      "total": 1478,
+      "percentage": 100.0
+    },
+    "en-GB": {
+      "translated": 576,
+      "total": 1478,
+      "percentage": 38.97
+    }
+  }
+}
