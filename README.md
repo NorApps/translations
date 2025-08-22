@@ -131,13 +131,6 @@ git push origin improve-spanish-translations
 # 7. Open a Pull Request on GitHub
 ```
 
-## 🏆 Recognition
-
-We greatly appreciate all contributions! Contributors will be recognized in:
-- The app's credits section
-- Our contributor wall (coming soon)
-- Special contributor badges (for regular contributors)
-
 ## ❓ Questions?
 
 - **Translation questions:** Open an issue in this repository
