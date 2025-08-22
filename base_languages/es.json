@@ -205,12 +205,12 @@
       "value": "Defensa"
     },
     "accessibility_defensive_actions": {
-      "comment": "Football (soccer) stat to describe how many defensive actions a player has made. A defensive action is an attempt to win back possession of the ball, like tackles, interceptions, clearances, blocks and aerial duels.",
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action.",
       "value": "Acciones defensivas"
     },
     "accessibility_defensive_actions_explained": {
-      "comment": "Explains what defensive actions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
-      "value": "Las acciones defensivas incluyen los intentos de entrada, bloqueo, despeje, falta e intercepción."
+      "comment": "Explains what defensive contributions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
+      "value": "Las acciones defensivas incluyen los intentos de entrada, bloqueo, despeje e intercepción."
     },
     "accessibility_delete_account": {
       "comment": "Button that the user can click to delete his FotMob account so all his data is removed from our servers.",
