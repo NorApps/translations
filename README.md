@@ -80,21 +80,40 @@ base_languages/
 
 ## 🌐 Supported Languages
 
-| Language | Code | File | Coverage |
-|----------|------|------|----------|
-| English | en | [`en.json`](base_languages/en.json) | 100% |
-| Spanish | es | [`es.json`](base_languages/es.json) | Check file |
-| French | fr | [`fr.json`](base_languages/fr.json) | Check file |
-| German | de | [`de.json`](base_languages/de.json) | Check file |
-| Italian | it | [`it.json`](base_languages/it.json) | Check file |
-| Portuguese | pt-PT | [`pt-PT.json`](base_languages/pt-PT.json) | Check file |
-| Portuguese (Brazil) | pt-BR | [`pt-BR.json`](base_languages/pt-BR.json) | Check file |
-| Russian | ru | [`ru.json`](base_languages/ru.json) | Check file |
-| Arabic | ar | [`ar.json`](base_languages/ar.json) | Check file |
-| Chinese (Simplified) | zh-Hans | [`zh-Hans.json`](base_languages/zh-Hans.json) | Check file |
-| Japanese | ja | [`ja.json`](base_languages/ja.json) | Check file |
-| Korean | ko | [`ko.json`](base_languages/ko.json) | Check file |
-| And 18 more languages... | | | |
+Click your language to start translating:
+
+| Language | Code | File |
+|----------|------|------|
+| Arabic | ar | [`ar.json`](base_languages/ar.json) |
+| Burmese | my | [`my.json`](base_languages/my.json) |
+| Chinese (Simplified) | zh-Hans | [`zh-Hans.json`](base_languages/zh-Hans.json) |
+| Danish | da | [`da.json`](base_languages/da.json) |
+| Dutch | nl | [`nl.json`](base_languages/nl.json) |
+| English | en | [`en.json`](base_languages/en.json) |
+| English (UK) | en-GB | [`en-GB.json`](base_languages/en-GB.json) |
+| Finnish | fi | [`fi.json`](base_languages/fi.json) |
+| French | fr | [`fr.json`](base_languages/fr.json) |
+| German | de | [`de.json`](base_languages/de.json) |
+| Greek | el | [`el.json`](base_languages/el.json) |
+| Hindi | hi | [`hi.json`](base_languages/hi.json) |
+| Indonesian | id | [`id.json`](base_languages/id.json) |
+| Italian | it | [`it.json`](base_languages/it.json) |
+| Japanese | ja | [`ja.json`](base_languages/ja.json) |
+| Korean | ko | [`ko.json`](base_languages/ko.json) |
+| Norwegian | nb | [`nb.json`](base_languages/nb.json) |
+| Persian/Farsi | fa | [`fa.json`](base_languages/fa.json) |
+| Polish | pl | [`pl.json`](base_languages/pl.json) |
+| Portuguese | pt-PT | [`pt-PT.json`](base_languages/pt-PT.json) |
+| Portuguese (Brazil) | pt-BR | [`pt-BR.json`](base_languages/pt-BR.json) |
+| Romanian | ro | [`ro.json`](base_languages/ro.json) |
+| Russian | ru | [`ru.json`](base_languages/ru.json) |
+| Spanish | es | [`es.json`](base_languages/es.json) |
+| Swahili | sw | [`sw.json`](base_languages/sw.json) |
+| Swedish | sv | [`sv.json`](base_languages/sv.json) |
+| Thai | th | [`th.json`](base_languages/th.json) |
+| Turkish | tr | [`tr.json`](base_languages/tr.json) |
+| Ukrainian | uk | [`uk.json`](base_languages/uk.json) |
+| Vietnamese | vi | [`vi.json`](base_languages/vi.json) |
 
 ## 💡 Tips for Translators
 
