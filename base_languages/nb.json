@@ -241,7 +241,7 @@
     },
     "accessibility_days": {
       "comment": "A label below a number indicating how many days are left until tournament starts",
-      "english": {
+      "english_plurals": {
         "one": "Day",
         "other": "Days"
       },
@@ -1001,17 +1001,20 @@
       "value": "Kampstatistikk"
     },
     "accessibility_matches_count": {
-      "english": {
+      "english": "%d matches",
+      "english_plurals": {
         "one": "1 match",
         "other": "%d matches"
       },
       "plurals": {
         "one": "1 kamp",
         "other": "%d kamper"
-      }
+      },
+      "value": "%d kamper"
     },
     "accessibility_matches_left": {
-      "english": {
+      "english": "%d matches left",
+      "english_plurals": {
         "one": "1 match left",
         "other": "%d matches left"
       },
@@ -1486,7 +1489,7 @@
     },
     "accessibility_playing_now_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other are playing now\". This is a list of leagues with ongoing matches.",
-      "english": {
+      "english_plurals": {
         "one": "One other competition is playing now",
         "other": "%d other competitions are playing now"
       },
@@ -3041,7 +3044,7 @@
       "value": "Valuta"
     },
     "common_days_ago": {
-      "english": {
+      "english_plurals": {
         "one": "1 day ago",
         "other": "%d days ago"
       },
@@ -3954,7 +3957,7 @@
       "value": "Honduras"
     },
     "common_hours_ago": {
-      "english": {
+      "english_plurals": {
         "one": "%d hour ago",
         "other": "%d hours ago"
       },
@@ -4448,7 +4451,7 @@
       "value": "Minutter per mål"
     },
     "common_minutes_ago": {
-      "english": {
+      "english_plurals": {
         "one": "%d minute ago",
         "other": "%d minutes ago"
       },
@@ -7072,14 +7075,16 @@
     },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
-      "english": {
+      "english": "+%d minutes added",
+      "english_plurals": {
         "one": "+%d minute added",
         "other": "+%d minutes added"
       },
       "plurals": {
         "one": "+%d minutt er lagt til",
         "other": "+%d minutter er lagt til"
-      }
+      },
+      "value": "+%d minutter tilleggstid"
     },
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
@@ -9383,7 +9388,8 @@
     },
     "seo_expires_in": {
       "comment": "Used to indicate when the subscription is expiring. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": {
+      "english": "Expires in %d days",
+      "english_plurals": {
         "one": "Expires tomorrow",
         "other": "Expires in %d days",
         "zero": "Expires today"
@@ -9392,7 +9398,8 @@
         "one": "Utløper i morgen",
         "other": "Utløper om %d dager",
         "zero": "Utløper i dag"
-      }
+      },
+      "value": "Utløper om %d dager"
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9866,7 +9873,8 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": {
+      "english": "Renews in %d days",
+      "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
@@ -9874,7 +9882,8 @@
       "plurals": {
         "one": "Fornyes i morgen",
         "other": "Fornyes om %d dager"
-      }
+      },
+      "value": "Fornyes om %d dager"
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10476,7 +10485,7 @@
     },
     "seo_x_matches": {
       "comment": "Used for the betting slip to show how many matches you have selected.",
-      "english": {
+      "english_plurals": {
         "one": "1 match",
         "other": "%d matches"
       },

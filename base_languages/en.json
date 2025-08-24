@@ -800,13 +800,15 @@
       "plurals": {
         "one": "1 match",
         "other": "%d matches"
-      }
+      },
+      "value": "%d matches"
     },
     "accessibility_matches_left": {
       "plurals": {
         "one": "1 match left",
         "other": "%d matches left"
-      }
+      },
+      "value": "%d matches left"
     },
     "accessibility_midfielders": {
       "comment": "A header for the list of midfielders",
@@ -5541,7 +5543,8 @@
       "plurals": {
         "one": "+%d minute added",
         "other": "+%d minutes added"
-      }
+      },
+      "value": "+%d minutes added"
     },
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
@@ -7337,7 +7340,8 @@
         "one": "Expires tomorrow",
         "other": "Expires in %d days",
         "zero": "Expires today"
-      }
+      },
+      "value": "Expires in %d days"
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -7721,7 +7725,8 @@
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
-      }
+      },
+      "value": "Renews in %d days"
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
