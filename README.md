@@ -6,6 +6,8 @@ Welcome to the FotMob community translations repository! This is where our amazi
 
 ### No Technical Knowledge Required! Edit Directly in Your Browser:
 
+For a one off translation error, just create a new issue in https://github.com/NorApps/translations/issues describing the issue. 
+
 1. **Find your language file** in the `base_languages/` folder above
    - Click on your language (e.g., `es.json` for Spanish)
 
