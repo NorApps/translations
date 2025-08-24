@@ -6799,7 +6799,7 @@
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
-      "value": "Dzisiaj nie ma meczy w TV"
+      "value": "Dzisiaj nie ma meczów w TV"
     },
     "new_no_more_goals": {
       "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
@@ -9646,7 +9646,7 @@
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
       "english": "No matches today",
-      "value": "Dzisiaj nie ma meczy"
+      "value": "Dzisiaj nie ma meczów"
     },
     "seo_no_subscriptions_found": {
       "comment": "Used in toast notification to tell the user that no active FotMob+ subscription where found on their account.",
