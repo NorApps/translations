@@ -12,7 +12,7 @@ For a one off translation error, just create a new issue in https://github.com/N
    - Click on your language (e.g., `es.json` for Spanish)
 
 2. **Click the pencil icon** ✏️ in the top right corner of the file view
-   - After clicking "create fork" this opens the file editor
+   - AfC clicking "create fork" opens the file editor
 
 3. **Make your translations**
    - You'll see the English text in `"english":` field
@@ -21,7 +21,7 @@ For a one off translation error, just create a new issue in https://github.com/N
 
 4. **Save your changes**
    - Scroll down and click "Commit changes"
-   - Add a short description like "Updated Spanish translations"
+   - Add a short title like "Updated Spanish translations"
    - Click "Create pull request"
 
 5. **That's it!** We'll review and merge your translations
