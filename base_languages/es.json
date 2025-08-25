@@ -10337,6 +10337,41 @@
       "english": "%@ won!",
       "value": "¡El %@ ha ganado!"
     },
+    "seo_template_10195": {
+      "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
+      "english": "World Cup Qualification UEFA",
+      "value": "Eliminatorias de la Copa del Mundo de la UEFA"
+    },
+    "seo_template_10196": {
+      "comment": "World Cup Qualification for CAF (Confederation of African Football)",
+      "english": "World Cup Qualification CAF",
+      "value": "Eliminatorias de la Copa del Mundo de la CAF"
+    },
+    "seo_template_10197": {
+      "comment": "World Cup Qualification for AFC (Asian Football Confederation)",
+      "english": "World Cup Qualification AFC",
+      "value": "Eliminatorias de la Copa del Mundo de la AFC"
+    },
+    "seo_template_10198": {
+      "comment": "World Cup Qualification for CONCACAF (North, Central America and Caribbean)",
+      "english": "World Cup Qualification CONCACAF",
+      "value": "Eliminatorias de la Copa del Mundo de la CONCACAF"
+    },
+    "seo_template_10199": {
+      "comment": "World Cup Qualification for CONMEBOL (South American Football Confederation)",
+      "english": "World Cup Qualification CONMEBOL",
+      "value": "Eliminatorias de la Copa del Mundo de la CONMEBOL"
+    },
+    "seo_template_10200": {
+      "comment": "World Cup Qualification for OFC (Oceania Football Confederation)",
+      "english": "World Cup Qualification OFC",
+      "value": "Eliminatorias de la Copa del Mundo de la OFC"
+    },
+    "seo_template_10201": {
+      "comment": "World Cup Qualification Inter-confederation playoffs",
+      "english": "World Cup Qualification Inter-confederation",
+      "value": "Repesca intercontinental de la Copa del Mundo"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "english": "EURO",

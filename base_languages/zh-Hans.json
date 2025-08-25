@@ -10331,6 +10331,41 @@
       "english": "%@ won!",
       "value": "%@获胜！"
     },
+    "seo_template_10195": {
+      "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
+      "english": "World Cup Qualification UEFA",
+      "value": "欧足联世界杯预选赛"
+    },
+    "seo_template_10196": {
+      "comment": "World Cup Qualification for CAF (Confederation of African Football)",
+      "english": "World Cup Qualification CAF",
+      "value": "非洲足联世界杯预选赛"
+    },
+    "seo_template_10197": {
+      "comment": "World Cup Qualification for AFC (Asian Football Confederation)",
+      "english": "World Cup Qualification AFC",
+      "value": "亚足联世界杯预选赛"
+    },
+    "seo_template_10198": {
+      "comment": "World Cup Qualification for CONCACAF (North, Central America and Caribbean)",
+      "english": "World Cup Qualification CONCACAF",
+      "value": "中北美及加勒比海足联世界杯预选赛"
+    },
+    "seo_template_10199": {
+      "comment": "World Cup Qualification for CONMEBOL (South American Football Confederation)",
+      "english": "World Cup Qualification CONMEBOL",
+      "value": "南美足联世界杯预选赛"
+    },
+    "seo_template_10200": {
+      "comment": "World Cup Qualification for OFC (Oceania Football Confederation)",
+      "english": "World Cup Qualification OFC",
+      "value": "大洋洲足联世界杯预选赛"
+    },
+    "seo_template_10201": {
+      "comment": "World Cup Qualification Inter-confederation playoffs",
+      "english": "World Cup Qualification Inter-confederation",
+      "value": "世界杯洲际附加赛"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "english": "EURO",

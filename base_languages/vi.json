@@ -10330,6 +10330,41 @@
       "english": "%@ won!",
       "value": "%@ thắng!"
     },
+    "seo_template_10195": {
+      "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
+      "english": "World Cup Qualification UEFA",
+      "value": "Vòng loại World Cup UEFA"
+    },
+    "seo_template_10196": {
+      "comment": "World Cup Qualification for CAF (Confederation of African Football)",
+      "english": "World Cup Qualification CAF",
+      "value": "Vòng loại World Cup CAF"
+    },
+    "seo_template_10197": {
+      "comment": "World Cup Qualification for AFC (Asian Football Confederation)",
+      "english": "World Cup Qualification AFC",
+      "value": "Vòng loại World Cup AFC"
+    },
+    "seo_template_10198": {
+      "comment": "World Cup Qualification for CONCACAF (North, Central America and Caribbean)",
+      "english": "World Cup Qualification CONCACAF",
+      "value": "Vòng loại World Cup CONCACAF"
+    },
+    "seo_template_10199": {
+      "comment": "World Cup Qualification for CONMEBOL (South American Football Confederation)",
+      "english": "World Cup Qualification CONMEBOL",
+      "value": "Vòng loại World Cup CONMEBOL"
+    },
+    "seo_template_10200": {
+      "comment": "World Cup Qualification for OFC (Oceania Football Confederation)",
+      "english": "World Cup Qualification OFC",
+      "value": "Vòng loại World Cup OFC"
+    },
+    "seo_template_10201": {
+      "comment": "World Cup Qualification Inter-confederation playoffs",
+      "english": "World Cup Qualification Inter-confederation",
+      "value": "Vòng play-off liên lục địa World Cup"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "english": "EURO",

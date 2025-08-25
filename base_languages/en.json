@@ -8102,6 +8102,34 @@
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
       "value": "%@ won!"
     },
+    "seo_template_10195": {
+      "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
+      "value": "World Cup Qualification UEFA"
+    },
+    "seo_template_10196": {
+      "comment": "World Cup Qualification for CAF (Confederation of African Football)",
+      "value": "World Cup Qualification CAF"
+    },
+    "seo_template_10197": {
+      "comment": "World Cup Qualification for AFC (Asian Football Confederation)",
+      "value": "World Cup Qualification AFC"
+    },
+    "seo_template_10198": {
+      "comment": "World Cup Qualification for CONCACAF (North, Central America and Caribbean)",
+      "value": "World Cup Qualification CONCACAF"
+    },
+    "seo_template_10199": {
+      "comment": "World Cup Qualification for CONMEBOL (South American Football Confederation)",
+      "value": "World Cup Qualification CONMEBOL"
+    },
+    "seo_template_10200": {
+      "comment": "World Cup Qualification for OFC (Oceania Football Confederation)",
+      "value": "World Cup Qualification OFC"
+    },
+    "seo_template_10201": {
+      "comment": "World Cup Qualification Inter-confederation playoffs",
+      "value": "World Cup Qualification Inter-confederation"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "value": "EURO"

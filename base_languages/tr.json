@@ -10337,6 +10337,41 @@
       "english": "%@ won!",
       "value": "%@ kazandı!"
     },
+    "seo_template_10195": {
+      "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
+      "english": "World Cup Qualification UEFA",
+      "value": "Dünya Kupası Elemeleri UEFA"
+    },
+    "seo_template_10196": {
+      "comment": "World Cup Qualification for CAF (Confederation of African Football)",
+      "english": "World Cup Qualification CAF",
+      "value": "Dünya Kupası Elemeleri CAF"
+    },
+    "seo_template_10197": {
+      "comment": "World Cup Qualification for AFC (Asian Football Confederation)",
+      "english": "World Cup Qualification AFC",
+      "value": "Dünya Kupası Elemeleri AFC"
+    },
+    "seo_template_10198": {
+      "comment": "World Cup Qualification for CONCACAF (North, Central America and Caribbean)",
+      "english": "World Cup Qualification CONCACAF",
+      "value": "Dünya Kupası Elemeleri CONCACAF"
+    },
+    "seo_template_10199": {
+      "comment": "World Cup Qualification for CONMEBOL (South American Football Confederation)",
+      "english": "World Cup Qualification CONMEBOL",
+      "value": "Dünya Kupası Elemeleri CONMEBOL"
+    },
+    "seo_template_10200": {
+      "comment": "World Cup Qualification for OFC (Oceania Football Confederation)",
+      "english": "World Cup Qualification OFC",
+      "value": "Dünya Kupası Elemeleri OFC"
+    },
+    "seo_template_10201": {
+      "comment": "World Cup Qualification Inter-confederation playoffs",
+      "english": "World Cup Qualification Inter-confederation",
+      "value": "Dünya Kupası Kıtalararası Play-offları"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "english": "EURO",
