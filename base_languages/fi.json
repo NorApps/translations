@@ -8664,6 +8664,11 @@
       "english": "Punches",
       "value": "Nyrkkeilyt"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "Sade"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Otteluita yhteensä"
@@ -8883,6 +8888,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slovakia"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "Lumi"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

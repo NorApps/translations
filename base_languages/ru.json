@@ -8697,6 +8697,11 @@
       "english": "Punches",
       "value": "Выбил кулаком"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "Дождь"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Всего матчей"
@@ -8916,6 +8921,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Словакия"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "Снег"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

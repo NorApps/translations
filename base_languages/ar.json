@@ -8707,6 +8707,11 @@
       "english": "Punches",
       "value": "الرميات"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "مطر"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "إجمالي المباريات"
@@ -8926,6 +8931,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "سلوفاكيا"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "ثلج"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

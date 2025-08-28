@@ -8659,6 +8659,11 @@
       "english": "Punches",
       "value": "Meninju"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "Hujan"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Total pertandingan"
@@ -8878,6 +8883,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slowakia"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "Salju"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

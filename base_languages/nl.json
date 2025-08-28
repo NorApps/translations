@@ -8664,6 +8664,11 @@
       "english": "Punches",
       "value": "Stoten"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "Regen"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Totaal aantal wedstrijden"
@@ -8883,6 +8888,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slowakije"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "Sneeuw"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

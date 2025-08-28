@@ -8679,6 +8679,11 @@
       "english": "Punches",
       "value": "Udboksning"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "Regn"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Kampe i alt"
@@ -8898,6 +8903,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slovakiet"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "Sne"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

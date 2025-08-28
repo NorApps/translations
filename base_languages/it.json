@@ -8680,6 +8680,11 @@
       "english": "Punches",
       "value": "Respinte"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "english": "Rain",
+      "value": "Pioggia"
+    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Incontri totali"
@@ -8899,6 +8904,11 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slovacchia"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "english": "Snow",
+      "value": "Neve"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",

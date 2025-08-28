@@ -6775,6 +6775,10 @@
       "comment": "Indicates that the keeper has punched the ball on a cross",
       "value": "Punches"
     },
+    "notifications_rain": {
+      "comment": "A label for rain, used for weather conditions",
+      "value": "Rain"
+    },
     "notifications_rating_team_subtitle": {
       "value": "Total matches"
     },
@@ -6947,6 +6951,10 @@
     },
     "notifications_slovakia": {
       "value": "Slovakia"
+    },
+    "notifications_snow": {
+      "comment": "A label for snow, used for weather conditions",
+      "value": "Snow"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
