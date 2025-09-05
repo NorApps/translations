@@ -3820,6 +3820,16 @@
       "english": "Submit",
       "value": "Submit"
     },
+    "seo_template_42": {
+      "comment": "UEFA Champions League",
+      "english": "Champions League",
+      "value": "Champions League"
+    },
+    "seo_template_73": {
+      "comment": "UEFA Europa League",
+      "english": "Europa League",
+      "value": "Europa League"
+    },
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
       "english": "Thank you for your feedback!",

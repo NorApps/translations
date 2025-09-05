@@ -10370,10 +10370,25 @@
       "english": "World Cup Qualification Inter-confederation",
       "value": "월드컵 대륙간 플레이오프"
     },
+    "seo_template_10216": {
+      "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
+      "english": "Conference League",
+      "value": "컨퍼런스 리그"
+    },
+    "seo_template_42": {
+      "comment": "UEFA Champions League",
+      "english": "Champions League",
+      "value": "챔피언스리그"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "english": "EURO",
       "value": "유로"
+    },
+    "seo_template_73": {
+      "comment": "UEFA Europa League",
+      "english": "Europa League",
+      "value": "유로파리그"
     },
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",

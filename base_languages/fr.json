@@ -10377,10 +10377,25 @@
       "english": "World Cup Qualification Inter-confederation",
       "value": "Barrages intercontinentaux de la Coupe du monde"
     },
+    "seo_template_10216": {
+      "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
+      "english": "Conference League",
+      "value": "Ligue Europa Conférence"
+    },
+    "seo_template_42": {
+      "comment": "UEFA Champions League",
+      "english": "Champions League",
+      "value": "Ligue des champions de l'UEFA"
+    },
     "seo_template_50": {
       "comment": "This refers to the European Championship in football. https://en.wikipedia.org/wiki/UEFA_European_Championship",
       "english": "EURO",
       "value": "EURO"
+    },
+    "seo_template_73": {
+      "comment": "UEFA Europa League",
+      "english": "Europa League",
+      "value": "UEFA Europa League"
     },
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",
