@@ -10396,7 +10396,7 @@
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
       "english": "%@ won!",
-      "value": "%@ فوز!"
+      "value": "فوز %@!"
     },
     "seo_template_10195": {
       "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
