@@ -10413,6 +10413,21 @@
       "english": "Conference League",
       "value": "Conference League"
     },
+    "seo_template_10611": {
+      "comment": "UEFA Champions League Qualification stage. Check how the Champions League string with id=template_42 is translated when translating this one. Translate short. Prefer Champions League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Champions League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
+      "english": "Champions League Qualification",
+      "value": "Calificări Liga Campionilor"
+    },
+    "seo_template_10613": {
+      "comment": "Europa League Qualification stage. Check how the Europa League string with id=template_42 is translated when translating this one. Translate short. Prefer Europa League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Europa League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
+      "english": "Europa League Qualification",
+      "value": "Europa League - Calificări"
+    },
+    "seo_template_10615": {
+      "comment": "Europa League Qualification stage. https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Translate short. Prefer Conference League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Conference League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
+      "english": "Conference League Qualification",
+      "value": "Conference League - Calificări"
+    },
     "seo_template_42": {
       "comment": "UEFA Champions League",
       "english": "Champions League",
@@ -10424,7 +10439,7 @@
       "value": "EURO"
     },
     "seo_template_73": {
-      "comment": "UEFA Europa League",
+      "comment": "Europa League.",
       "english": "Europa League",
       "value": "Liga Europei"
     },
