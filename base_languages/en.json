@@ -1678,6 +1678,10 @@
       "comment": "The league/table position of a team (like 1st, 22nd, etc).",
       "value": "Table position"
     },
+    "accessibility_tackle_per_90": {
+      "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
+      "value": "Tackles per 90"
+    },
     "accessibility_tackles_succeeded_percent": {
       "value": "Tackles won %"
     },
@@ -4476,6 +4480,10 @@
     },
     "common_tabs": {
       "value": "Tabs"
+    },
+    "common_tackle_title": {
+      "comment": "See won_tackle_title for context.",
+      "value": "Tackles per match"
     },
     "common_tap_to_compare": {
       "comment": "Onboarding user to the player's stats in the match facts. The placeholder is the name of the button.",

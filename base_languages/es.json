@@ -2116,6 +2116,11 @@
       "english": "Table position",
       "value": "Posición en la tabla"
     },
+    "accessibility_tackle_per_90": {
+      "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
+      "english": "Tackles per 90",
+      "value": "Entradas por 90"
+    },
     "accessibility_tackles_succeeded_percent": {
       "english": "Tackles won %",
       "value": "Entradas conseguidas %"
@@ -5689,6 +5694,11 @@
     "common_tabs": {
       "english": "Tabs",
       "value": "Pestañas"
+    },
+    "common_tackle_title": {
+      "comment": "See won_tackle_title for context.",
+      "english": "Tackles per match",
+      "value": "Entradas por partido"
     },
     "common_tap_to_compare": {
       "comment": "Onboarding user to the player's stats in the match facts. The placeholder is the name of the button.",
