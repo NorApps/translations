@@ -10516,6 +10516,11 @@
       "english": "Weather conditions",
       "value": "Hali ya Hewa"
     },
+    "seo_weather_forecast": {
+      "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
+      "english": "Weather forecast",
+      "value": "Utabiri wa Hali ya Hewa"
+    },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",
       "english": "Win probability",

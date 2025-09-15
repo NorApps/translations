@@ -10559,6 +10559,11 @@
       "english": "Weather conditions",
       "value": "Værforhold"
     },
+    "seo_weather_forecast": {
+      "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
+      "english": "Weather forecast",
+      "value": "Værmelding"
+    },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",
       "english": "Win probability",

@@ -10420,6 +10420,11 @@
       "english": "Weather conditions",
       "value": "Погодні умови"
     },
+    "seo_weather_forecast": {
+      "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
+      "english": "Weather forecast",
+      "value": "Прогноз погоди"
+    },
     "seo_women": {
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
       "english": "Women",
