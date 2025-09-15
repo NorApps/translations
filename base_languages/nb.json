@@ -3649,6 +3649,17 @@
       "english": "%1$@ made an error that led to a goal for %2$@.",
       "value": "%1$@ gjorde en feil som førte til at %2$@ scoret."
     },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "%1$@ made an error that led to a goal for %2$@.",
+        "other": "%1$@ made %3$d errors that led to goals for %2$@."
+      },
+      "plurals": {
+        "one": "%1$@ gjorde en feil som førte til et mål for %2$@.",
+        "other": "%1$@ gjorde %3$d feil som førte til mål for %2$@."
+      }
+    },
     "common_fun_fact_most_dribbles": {
       "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
       "english": "%1$@ completed the most dribbles (%2$@) in the match.",
@@ -8689,11 +8700,6 @@
       "english": "Punches",
       "value": "Bokset ballen"
     },
-    "notifications_rain": {
-      "comment": "A label for rain, used for weather conditions",
-      "english": "Rain",
-      "value": "Regn"
-    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Antall kamper totalt"
@@ -8913,11 +8919,6 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slovakia"
-    },
-    "notifications_snow": {
-      "comment": "A label for snow, used for weather conditions",
-      "english": "Snow",
-      "value": "Snø"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -10554,7 +10555,7 @@
       "value": "Følg all handling på %1$@"
     },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at the soccer stadium. Could be a forecast but we also show the same header after match is finished.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
       "english": "Weather conditions",
       "value": "Værforhold"
     },

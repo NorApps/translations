@@ -3649,6 +3649,17 @@
       "english": "%1$@ made an error that led to a goal for %2$@.",
       "value": "%1$@ heeft een fout gemaakt die leidde tot een goal voor %2$@."
     },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "%1$@ made an error that led to a goal for %2$@.",
+        "other": "%1$@ made %3$d errors that led to goals for %2$@."
+      },
+      "plurals": {
+        "one": "%1$@ maakte een fout die leidde tot een doelpunt voor %2$@.",
+        "other": "%1$@ maakte %3$d fouten die leidden tot doelpunten voor %2$@."
+      }
+    },
     "common_fun_fact_most_dribbles": {
       "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
       "english": "%1$@ completed the most dribbles (%2$@) in the match.",
@@ -8674,11 +8685,6 @@
       "english": "Punches",
       "value": "Stoten"
     },
-    "notifications_rain": {
-      "comment": "A label for rain, used for weather conditions",
-      "english": "Rain",
-      "value": "Regen"
-    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Totaal aantal wedstrijden"
@@ -8898,11 +8904,6 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Slowakije"
-    },
-    "notifications_snow": {
-      "comment": "A label for snow, used for weather conditions",
-      "english": "Snow",
-      "value": "Sneeuw"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -10533,7 +10534,7 @@
       "value": "Kijken op %1$@."
     },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at the soccer stadium. Could be a forecast but we also show the same header after match is finished.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
       "english": "Weather conditions",
       "value": "Weersomstandigheden"
     },

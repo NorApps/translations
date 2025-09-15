@@ -2879,6 +2879,13 @@
       "comment": "Ronaldo made an error that led to a goal for Barcelona.",
       "value": "%1$@ made an error that led to a goal for %2$@."
     },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
+      "plurals": {
+        "one": "%1$@ made an error that led to a goal for %2$@.",
+        "other": "%1$@ made %3$d errors that led to goals for %2$@."
+      }
+    },
     "common_fun_fact_most_dribbles": {
       "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
       "value": "%1$@ completed the most dribbles (%2$@) in the match."
@@ -6783,10 +6790,6 @@
       "comment": "Indicates that the keeper has punched the ball on a cross",
       "value": "Punches"
     },
-    "notifications_rain": {
-      "comment": "A label for rain, used for weather conditions",
-      "value": "Rain"
-    },
     "notifications_rating_team_subtitle": {
       "value": "Total matches"
     },
@@ -6959,10 +6962,6 @@
     },
     "notifications_slovakia": {
       "value": "Slovakia"
-    },
-    "notifications_snow": {
-      "comment": "A label for snow, used for weather conditions",
-      "value": "Snow"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -7518,6 +7517,10 @@
     "seo_match_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a match. See translation for \"following\"",
       "value": "Match removed from Following"
+    },
+    "seo_match_weather": {
+      "comment": "Header indicating the Weather that was present during the match at a football stadium, to be shown after the match is finished.",
+      "value": "Match weather"
     },
     "seo_men": {
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
@@ -8262,8 +8265,12 @@
       "value": "Catch all the action on %1$@."
     },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at the soccer stadium. Could be a forecast but we also show the same header after match is finished.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
       "value": "Weather conditions"
+    },
+    "seo_weather_forecast": {
+      "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
+      "value": "Weather forecast"
     },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",

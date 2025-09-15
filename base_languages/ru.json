@@ -3661,6 +3661,19 @@
       "english": "%1$@ made an error that led to a goal for %2$@.",
       "value": "%1$@ совершил результативную ошибку приведшую к голу %2$@."
     },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "%1$@ made an error that led to a goal for %2$@.",
+        "other": "%1$@ made %3$d errors that led to goals for %2$@."
+      },
+      "plurals": {
+        "few": "%1$@ совершил %3$d ошибки, приведшие к голам для %2$@.",
+        "many": "%1$@ совершил %3$d ошибок, приведших к голам для %2$@.",
+        "one": "%1$@ совершил ошибку, приведшую к голу для %2$@.",
+        "other": "%1$@ совершил %3$d ошибки, приведшие к голам для %2$@."
+      }
+    },
     "common_fun_fact_most_dribbles": {
       "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
       "english": "%1$@ completed the most dribbles (%2$@) in the match.",
@@ -8707,11 +8720,6 @@
       "english": "Punches",
       "value": "Выбил кулаком"
     },
-    "notifications_rain": {
-      "comment": "A label for rain, used for weather conditions",
-      "english": "Rain",
-      "value": "Дождь"
-    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Всего матчей"
@@ -8931,11 +8939,6 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Словакия"
-    },
-    "notifications_snow": {
-      "comment": "A label for snow, used for weather conditions",
-      "english": "Snow",
-      "value": "Снег"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -10575,7 +10578,7 @@
       "value": "Следите за всеми событиями на %1$@"
     },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at the soccer stadium. Could be a forecast but we also show the same header after match is finished.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
       "english": "Weather conditions",
       "value": "Погодные условия"
     },

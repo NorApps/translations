@@ -3644,6 +3644,17 @@
       "english": "%1$@ made an error that led to a goal for %2$@.",
       "value": "%1$@은(는) %2$@의 골로 연결되는 실수를 했습니다."
     },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "%1$@ made an error that led to a goal for %2$@.",
+        "other": "%1$@ made %3$d errors that led to goals for %2$@."
+      },
+      "plurals": {
+        "one": "%1$s이(가) %2$s에게 골을 허용하는 실수를 저질렀습니다.",
+        "other": "%1$s이(가) %2$s에게 %3$d번의 실수로 골을 허용했습니다."
+      }
+    },
     "common_fun_fact_most_dribbles": {
       "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
       "english": "%1$@ completed the most dribbles (%2$@) in the match.",
@@ -8664,11 +8675,6 @@
       "english": "Punches",
       "value": "펀칭"
     },
-    "notifications_rain": {
-      "comment": "A label for rain, used for weather conditions",
-      "english": "Rain",
-      "value": "비"
-    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "총 경기"
@@ -8888,11 +8894,6 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "슬로바키아"
-    },
-    "notifications_snow": {
-      "comment": "A label for snow, used for weather conditions",
-      "english": "Snow",
-      "value": "눈"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -10526,7 +10527,7 @@
       "value": "모든 액션을 %1$@에서 확인하세요"
     },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at the soccer stadium. Could be a forecast but we also show the same header after match is finished.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
       "english": "Weather conditions",
       "value": "날씨 조건"
     },

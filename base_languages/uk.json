@@ -3659,6 +3659,17 @@
       "english": "%1$@ made an error that led to a goal for %2$@.",
       "value": "%1$@ здійснив результативну помилку, що призвела до голу %2$@."
     },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "%1$@ made an error that led to a goal for %2$@.",
+        "other": "%1$@ made %3$d errors that led to goals for %2$@."
+      },
+      "plurals": {
+        "one": "%1$@ зробив помилку, яка призвела до голу для %2$@.",
+        "other": "%1$@ зробив %3$d помилки, які призвели до голів для %2$@."
+      }
+    },
     "common_fun_fact_most_dribbles": {
       "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
       "english": "%1$@ completed the most dribbles (%2$@) in the match.",
@@ -8677,11 +8688,6 @@
       "english": "Punches",
       "value": "Вибиті кулаком"
     },
-    "notifications_rain": {
-      "comment": "A label for rain, used for weather conditions",
-      "english": "Rain",
-      "value": "Дощ"
-    },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
       "value": "Загальна кількість матчів"
@@ -8901,11 +8907,6 @@
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Словаччина"
-    },
-    "notifications_snow": {
-      "comment": "A label for snow, used for weather conditions",
-      "english": "Snow",
-      "value": "Сніг"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -10415,7 +10416,7 @@
       "value": "Слідкуйте за усіма подіями на %1$@."
     },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at the soccer stadium. Could be a forecast but we also show the same header after match is finished.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
       "english": "Weather conditions",
       "value": "Погодні умови"
     },
