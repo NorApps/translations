@@ -9418,8 +9418,7 @@
       "plurals": {
         "one": "Läuft morgen ab",
         "other": "Läuft in %d Tagen ab"
-      },
-      "value": "Läuft in %d Tagen ab"
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9893,7 +9892,6 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
@@ -9901,9 +9899,9 @@
       },
       "plurals": {
         "one": "Wird morgen verlängert",
-        "other": "Wird in %d Tagen verlängert"
-      },
-      "value": "Wird in %d Tagen verlängert"
+        "other": "Wird in %d Tagen verlängert",
+        "zero": "Wird heute verlängert"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",

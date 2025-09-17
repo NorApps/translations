@@ -1006,6 +1006,7 @@
         "other": "%d matches"
       },
       "plurals": {
+        "one": "1경기",
         "other": "경기 %d회"
       },
       "value": "%d경기"
@@ -9391,9 +9392,9 @@
         "zero": "Expires today"
       },
       "plurals": {
+        "one": "내일 만료",
         "other": "Expires in %d days"
-      },
-      "value": "%d일 후 만료됩니다"
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9867,16 +9868,16 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
       },
       "plurals": {
-        "other": "Renews in %d days"
-      },
-      "value": "%d일 후 갱신됩니다"
+        "one": "내일 갱신됩니다",
+        "other": "Renews in %d days",
+        "zero": "오늘 갱신됩니다"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10553,6 +10554,7 @@
         "other": "%d matches"
       },
       "plurals": {
+        "one": "1경기",
         "other": "경기 %d회"
       }
     },

@@ -7744,8 +7744,7 @@
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
-      },
-      "value": "Renews in %d days"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",

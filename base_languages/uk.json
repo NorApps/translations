@@ -9359,12 +9359,9 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "few": "None",
-        "many": "None",
         "one": "Expires tomorrow",
         "other": "Expires in %d days"
-      },
-      "value": "Закінчується через %d дн."
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9778,19 +9775,15 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
       },
       "plurals": {
-        "few": "None",
-        "many": "None",
         "one": "Renews tomorrow",
         "other": "Renews in %d days"
-      },
-      "value": "Оновлення через %d дн."
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10437,8 +10430,6 @@
         "other": "%d matches"
       },
       "plurals": {
-        "few": "%d матчі",
-        "many": "%d матчів",
         "one": "1 матч",
         "other": "%d матч."
       }

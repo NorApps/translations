@@ -9434,12 +9434,11 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "few": "None",
-        "many": "None",
         "one": "Expires tomorrow",
-        "other": "Expires in %d days"
-      },
-      "value": "Wygasa za %d dni"
+        "other": "Expires in %d days",
+        "two": "Wygasa za dwa dni",
+        "zero": "Wygasa dzisiaj"
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9913,19 +9912,16 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
       },
       "plurals": {
-        "few": "None",
-        "many": "None",
         "one": "Renews tomorrow",
-        "other": "Renews in %d days"
-      },
-      "value": "Odnawia się za %d dni"
+        "other": "Renews in %d days",
+        "zero": "Odnawia się dzisiaj"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10602,7 +10598,6 @@
         "other": "%d matches"
       },
       "plurals": {
-        "few": "%d mecze",
         "many": "%d meczów",
         "one": "1 mecz",
         "other": "%d mecze"

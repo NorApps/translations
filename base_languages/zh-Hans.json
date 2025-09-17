@@ -1006,6 +1006,7 @@
         "other": "%d matches"
       },
       "plurals": {
+        "one": "1场比赛",
         "other": "%d场比赛"
       },
       "value": "%d场比赛"
@@ -9397,9 +9398,9 @@
         "zero": "Expires today"
       },
       "plurals": {
+        "one": "明天到期",
         "other": "Expires in %d days"
-      },
-      "value": "%d 天后到期"
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9873,16 +9874,15 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
       },
       "plurals": {
+        "one": "明天续订",
         "other": "Renews in %d days"
-      },
-      "value": "%d 天后续订"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10559,6 +10559,7 @@
         "other": "%d matches"
       },
       "plurals": {
+        "one": "1场比赛",
         "other": "%d场比赛"
       }
     },

@@ -3677,7 +3677,6 @@
       },
       "plurals": {
         "few": "%1$@ ارتكب %3$d أخطاء أدت إلى أهداف لصالح %2$@.",
-        "many": "%1$@ ارتكب %3$d خطأً أدت إلى أهداف لصالح %2$@.",
         "one": "%1$@ ارتكب خطأ أدى إلى هدف لصالح %2$@.",
         "other": "%1$@ ارتكب %3$d خطأً أدت إلى أهداف لصالح %2$@.",
         "two": "%1$@ ارتكب خطأين أديا إلى أهداف لصالح %2$@."
@@ -9448,13 +9447,11 @@
       },
       "plurals": {
         "few": "None",
-        "many": "None",
         "one": "Expires tomorrow",
         "other": "Expires in %d days",
         "two": "None",
         "zero": "Expires today"
-      },
-      "value": "ينتهي خلال %d أيام"
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9928,7 +9925,6 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
@@ -9941,8 +9937,7 @@
         "other": "Renews in %d days",
         "two": "None",
         "zero": "Renews today"
-      },
-      "value": "يتجدد في %d أيام"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10620,11 +10615,9 @@
       },
       "plurals": {
         "few": "%d مباراة",
-        "many": "%d مباراة",
         "one": "مباراة 1",
         "other": "%d مباريات",
-        "two": "مبارتان %d",
-        "zero": "%d مباراة"
+        "two": "مبارتان %d"
       }
     },
     "seo_xg_table_explanation": {

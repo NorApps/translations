@@ -1006,6 +1006,7 @@
         "other": "%d matches"
       },
       "plurals": {
+        "one": "1 pertandingan",
         "other": "%d pertandingan"
       },
       "value": "%d pertandingan"
@@ -9396,9 +9397,9 @@
         "zero": "Expires today"
       },
       "plurals": {
+        "one": "Berakhir besok",
         "other": "Expires in %d days"
-      },
-      "value": "Berakhir dalam %d hari"
+      }
     },
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -9872,16 +9873,15 @@
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
-      "english": "Renews in %d days",
       "english_plurals": {
         "one": "Renews tomorrow",
         "other": "Renews in %d days",
         "zero": "Renews today"
       },
       "plurals": {
+        "one": "Perpanjang besok",
         "other": "Renews in %d days"
-      },
-      "value": "Perpanjang dalam %d hari"
+      }
     },
     "seo_renews_today": {
       "comment": "Used to indicate when the subscription will renew today. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
@@ -10558,6 +10558,7 @@
         "other": "%d matches"
       },
       "plurals": {
+        "one": "1 pertandingan",
         "other": "%d pertandingan"
       }
     },
