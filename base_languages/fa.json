@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ اشتباهی کرد که منجر به گل برای %2$@ شد.",
-        "other": "%1$@ %3$d اشتباه کرد که منجر به گل برای %2$@ شد."
+        "one": "%1$@ اشتباهی کرد که منجر به گلی برای %2$@ شد.",
+        "other": "%1$@ %3$d اشتباه کرد که منجر به گل‌هایی برای %2$@ شد."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9416,8 +9416,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days",
+        "one": "منقضی می‌شود فردا",
+        "other": "منقضی می‌شود در %d روز",
         "zero": "منقضی می‌شود امروز"
       }
     },
@@ -9894,8 +9894,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "فردا تمدید می‌شود",
+        "other": "%d روز دیگر تمدید می‌شود",
         "zero": "امروز تمدید می‌شود"
       }
     },
@@ -10574,8 +10574,8 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 بازی",
-        "other": "%d بازی"
+        "one": "۱ مسابقه",
+        "other": "%d مسابقه"
       }
     },
     "seo_xg_table_explanation": {

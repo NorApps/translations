@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ cometeu um erro que resultou em um gol para %2$@.",
-        "other": "%1$@ cometeu %3$d erros que resultaram em gols para %2$@."
+        "one": "%1$@ cometeu um erro que resultou em um gol do(a) %2$@.",
+        "other": "%1$@ cometeu %3$d erros que resultaram em gols do(a) %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9401,8 +9401,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days",
+        "one": "Expira amanhã",
+        "other": "Expira em %d dias",
         "zero": "Expira hoje"
       }
     },
@@ -9884,8 +9884,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Renova amanhã",
+        "other": "Renova em %d dias",
         "zero": "Renova hoje"
       }
     },

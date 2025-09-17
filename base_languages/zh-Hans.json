@@ -3653,8 +3653,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ 犯了一个错误，导致%2$@ 进球。",
-        "other": "%1$@ 犯了%3$d个错误，导致%2$@ 进球。"
+        "one": "%1$@犯了一个错误，导致%2$@进球。",
+        "other": "%1$@犯了%3$d个错误，导致%2$@进球。"
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9399,7 +9399,7 @@
       },
       "plurals": {
         "one": "明天到期",
-        "other": "Expires in %d days"
+        "other": "%d天后到期"
       }
     },
     "seo_expires_today": {
@@ -9881,7 +9881,7 @@
       },
       "plurals": {
         "one": "明天续订",
-        "other": "Renews in %d days"
+        "other": "%d 天后续订"
       }
     },
     "seo_renews_today": {

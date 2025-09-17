@@ -3652,8 +3652,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ membuat kesalahan yang berujung gol untuk %2$@.",
-        "other": "%1$@ membuat %3$d kesalahan yang berujung gol untuk %2$@."
+        "one": "%1$@ melakukan kesalahan yang berujung gol untuk %2$@.",
+        "other": "%1$@ melakukan %3$d kesalahan yang berujung gol untuk %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9398,7 +9398,7 @@
       },
       "plurals": {
         "one": "Berakhir besok",
-        "other": "Expires in %d days"
+        "other": "Berakhir dalam %d hari"
       }
     },
     "seo_expires_today": {
@@ -9880,7 +9880,7 @@
       },
       "plurals": {
         "one": "Perpanjang besok",
-        "other": "Renews in %d days"
+        "other": "Perpanjang dalam %d hari"
       }
     },
     "seo_renews_today": {

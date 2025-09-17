@@ -3647,8 +3647,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@は%2$@のゴールにつながるミスをしました。",
-        "other": "%1$@は%2$@のゴールにつながる%3$d回のミスをしました。"
+        "one": "%1$@のミスが%2$@のゴールを誘発。",
+        "other": "%1$@の%3$d回のミスが%2$@のゴールを誘発。"
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9375,7 +9375,7 @@
       },
       "plurals": {
         "one": "明日期限切れ",
-        "other": "Expires in %d days",
+        "other": "%d日後に期限切れ",
         "zero": "今日期限切れ"
       }
     },
@@ -9858,7 +9858,7 @@
       },
       "plurals": {
         "one": "明日更新されます",
-        "other": "Renews in %d days",
+        "other": "%d日後に更新されます",
         "zero": "今日更新されます"
       }
     },
@@ -10538,7 +10538,7 @@
       },
       "plurals": {
         "one": "1 試合",
-        "other": "%d試合"
+        "other": "%d 試合"
       }
     },
     "seo_xg_table_explanation": {

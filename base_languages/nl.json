@@ -246,8 +246,8 @@
         "other": "Days"
       },
       "plurals": {
-        "one": "dag",
-        "other": "dagen"
+        "one": "Dag",
+        "other": "Dagen"
       }
     },
     "accessibility_defenders": {
@@ -9396,8 +9396,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Verloopt morgen",
+        "other": "Verloopt over %d dagen"
       }
     },
     "seo_expires_today": {
@@ -9878,8 +9878,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Verlengt morgen",
+        "other": "Verlengt in %d dagen",
         "zero": "Verlengt vandaag"
       }
     },

@@ -246,7 +246,7 @@
         "other": "Days"
       },
       "plurals": {
-        "other": "일"
+        "other": "%d일"
       }
     },
     "accessibility_defenders": {
@@ -1007,7 +1007,7 @@
       },
       "plurals": {
         "one": "1경기",
-        "other": "경기 %d회"
+        "other": "%d경기"
       },
       "value": "%d경기"
     },
@@ -3652,8 +3652,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$s이(가) %2$s에게 골을 허용하는 실수를 저질렀습니다.",
-        "other": "%1$s이(가) %2$s에게 %3$d번의 실수로 골을 허용했습니다."
+        "one": "%1$@은(는) %2$@의 골로 연결되는 실수를 했습니다.",
+        "other": "%1$@은(는) %2$@의 골로 연결되는 %3$d개의 실수를 했습니다."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9393,7 +9393,7 @@
       },
       "plurals": {
         "one": "내일 만료",
-        "other": "Expires in %d days"
+        "other": "%d일 후 만료"
       }
     },
     "seo_expires_today": {
@@ -9875,7 +9875,7 @@
       },
       "plurals": {
         "one": "내일 갱신됩니다",
-        "other": "Renews in %d days",
+        "other": "%d일 후 갱신됩니다",
         "zero": "오늘 갱신됩니다"
       }
     },
@@ -10555,7 +10555,7 @@
       },
       "plurals": {
         "one": "1경기",
-        "other": "경기 %d회"
+        "other": "%d경기"
       }
     },
     "seo_xg_table_explanation": {

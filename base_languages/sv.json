@@ -9401,8 +9401,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Upphör imorgon",
+        "other": "Upphör om %d dagar"
       }
     },
     "seo_expires_today": {
@@ -9883,8 +9883,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days"
+        "one": "Förnyas imorgon",
+        "other": "Förnyas om %d dagar"
       }
     },
     "seo_renews_today": {

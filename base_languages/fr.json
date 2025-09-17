@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ a commis une erreur qui a conduit à un but pour %2$@.",
-        "other": "%1$@ a commis %3$d erreurs qui ont conduit à des buts pour %2$@."
+        "one": "%1$@ a fait une erreur qui a permis à %2$@ de marquer un but.",
+        "other": "%1$@ a fait %3$d erreurs qui ont permis à %2$@ de marquer des buts."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9396,8 +9396,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Expire demain",
+        "other": "Expire dans %d jours"
       }
     },
     "seo_expires_today": {
@@ -9878,8 +9878,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days"
+        "one": "Renouvellement demain",
+        "other": "Renouvellement dans %d jours"
       }
     },
     "seo_renews_today": {
@@ -10558,7 +10558,7 @@
       },
       "plurals": {
         "one": "1 match",
-        "other": "%d matchs"
+        "other": "%d matches"
       }
     },
     "seo_xg_table_explanation": {

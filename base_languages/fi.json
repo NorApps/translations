@@ -246,8 +246,8 @@
         "other": "Days"
       },
       "plurals": {
-        "one": "päivä",
-        "other": "päivää"
+        "one": "Päivä",
+        "other": "Päivää"
       }
     },
     "accessibility_defenders": {
@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$s teki virheen, joka johti maaliin %2$s:lle.",
-        "other": "%1$s teki %3$d virhettä, jotka johtivat maaleihin %2$s:lle."
+        "one": "%1$@ teki virheen, joka johti maaliin %2$@:lle.",
+        "other": "%1$@ teki %3$d virhettä, jotka johtivat maaleihin %2$@:lle."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9401,8 +9401,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Vanhenee huomenna",
+        "other": "Vanhenee %d päivän kuluttua"
       }
     },
     "seo_expires_today": {
@@ -9883,8 +9883,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Uusiutuu huomenna",
+        "other": "Uusiutuu %d päivän kuluttua",
         "zero": "Uusiutuu tänään"
       }
     },
@@ -10563,8 +10563,8 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 match",
-        "other": "%d matches"
+        "one": "1 ottelu",
+        "other": "%d ottelua"
       }
     },
     "seo_xg_table_explanation": {

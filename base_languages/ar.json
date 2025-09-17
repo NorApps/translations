@@ -247,10 +247,10 @@
       },
       "plurals": {
         "few": "أيام",
-        "many": "يوم",
+        "many": "يومًا",
         "one": "يوم",
-        "other": "أيام",
-        "two": "أيام",
+        "other": "يوم",
+        "two": "يومان",
         "zero": "أيام"
       }
     },
@@ -9446,11 +9446,11 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "few": "None",
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days",
-        "two": "None",
-        "zero": "Expires today"
+        "few": "ينتهي في غضون %d أيام",
+        "one": "ينتهي غدًا",
+        "other": "ينتهي في غضون %d يومًا",
+        "two": "ينتهي في غضون يومين",
+        "zero": "ينتهي اليوم"
       }
     },
     "seo_expires_today": {
@@ -9931,12 +9931,12 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "few": "None",
-        "many": "None",
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
-        "two": "None",
-        "zero": "Renews today"
+        "few": "يتجدد خلال %d أيام",
+        "many": "يتجدد خلال %d يومًا",
+        "one": "يتجدد غدًا",
+        "other": "يتجدد خلال %d يوم",
+        "two": "يتجدد خلال يومين",
+        "zero": "يتجدد اليوم"
       }
     },
     "seo_renews_today": {
@@ -10614,10 +10614,10 @@
         "other": "%d matches"
       },
       "plurals": {
-        "few": "%d مباراة",
-        "one": "مباراة 1",
-        "other": "%d مباريات",
-        "two": "مبارتان %d"
+        "few": "%d مباريات",
+        "one": "مباراة واحدة",
+        "other": "%d مباراة",
+        "two": "مباراتان"
       }
     },
     "seo_xg_table_explanation": {

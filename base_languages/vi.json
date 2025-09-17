@@ -1007,7 +1007,7 @@
       },
       "plurals": {
         "one": "1 trận",
-        "other": "%d trận đấu"
+        "other": "%d trận"
       },
       "value": "%d trận"
     },
@@ -3652,8 +3652,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ đã mắc một lỗi dẫn đến bàn thắng cho %2$@.",
-        "other": "%1$@ đã mắc %3$d lỗi dẫn đến bàn thắng cho %2$@."
+        "one": "%1$@ phạm sai lầm dẫn tới một bàn thắng cho %2$@.",
+        "other": "%1$@ phạm %3$d sai lầm dẫn tới các bàn thắng cho %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9398,7 +9398,7 @@
       },
       "plurals": {
         "one": "Hết hạn vào ngày mai",
-        "other": "Expires in %d days",
+        "other": "Hết hạn trong %d ngày",
         "zero": "Hết hạn hôm nay"
       }
     },
@@ -9881,7 +9881,7 @@
       },
       "plurals": {
         "one": "Gia hạn vào ngày mai",
-        "other": "Renews in %d days",
+        "other": "Gia hạn trong %d ngày nữa",
         "zero": "Gia hạn hôm nay"
       }
     },

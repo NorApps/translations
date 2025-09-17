@@ -249,7 +249,7 @@
         "few": "Дні",
         "many": "Днів",
         "one": "День",
-        "other": "Дні"
+        "other": "Днів"
       }
     },
     "accessibility_defenders": {
@@ -3666,8 +3666,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ зробив помилку, яка призвела до голу для %2$@.",
-        "other": "%1$@ зробив %3$d помилки, які призвели до голів для %2$@."
+        "one": "%1$@ здійснив результативну помилку, що призвела до голу %2$@.",
+        "other": "%1$@ здійснив %3$d результативні помилки, що призвели до голів %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9359,8 +9359,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Закінчується завтра",
+        "other": "Закінчується через %d днів"
       }
     },
     "seo_expires_today": {
@@ -9781,8 +9781,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days"
+        "one": "Оновлення завтра",
+        "other": "Оновлення через %d дн."
       }
     },
     "seo_renews_today": {
@@ -10431,7 +10431,7 @@
       },
       "plurals": {
         "one": "1 матч",
-        "other": "%d матч."
+        "other": "%d матчі"
       }
     },
     "seo_xg_table_explanation": {

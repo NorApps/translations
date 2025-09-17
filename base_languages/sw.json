@@ -1007,7 +1007,7 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "Mechi 1",
+        "one": "1 mechi",
         "other": "%d mechi"
       },
       "value": "%d mechi"
@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ alifanya kosa lililosababisha bao kwa %2$@.",
-        "other": "%1$@ alifanya makosa %3$d yaliyosababisha mabao kwa %2$@."
+        "one": "%1$@ alikosea na kusababisha goli kwa %2$@.",
+        "other": "%1$@ alifanya makosa %3$d yaliyosababisha magoli kwa %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9384,8 +9384,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Inamalizika kesho",
-        "other": "Inamalizika ndani ya siku %d"
+        "one": "Inaisha kesho",
+        "other": "Inaisha baada ya %d siku"
       }
     },
     "seo_expires_today": {
@@ -9861,8 +9861,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Itafanya upya kesho",
-        "other": "Itafanya upya katika %d siku"
+        "one": "Inatafanywa upya kesho",
+        "other": "Inatafanywa upya katika siku %d"
       }
     },
     "seo_renews_today": {

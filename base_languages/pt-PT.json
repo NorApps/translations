@@ -1007,8 +1007,8 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 jogo",
-        "other": "%d jogos"
+        "one": "1 partida",
+        "other": "%d partidas"
       },
       "value": "%d partidas"
     },
@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ cometeu um erro que levou a um golo para %2$@.",
-        "other": "%1$@ cometeu %3$d erros que levaram a golos para %2$@."
+        "one": "%1$@ cometeu um erro que originou um golo a favor do(a) %2$@.",
+        "other": "%1$@ cometeu %3$d erros que originaram golos a favor do(a) %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9416,8 +9416,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Expira amanhã",
+        "other": "Expira em %d dias"
       }
     },
     "seo_expires_today": {
@@ -9898,8 +9898,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Renova amanhã",
+        "other": "Renova dentro de %d dias",
         "zero": "Renova hoje"
       }
     },
@@ -10578,8 +10578,8 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 partida",
-        "other": "%d partidas"
+        "one": "1 jogo",
+        "other": "%d jogos"
       }
     },
     "seo_xg_table_explanation": {

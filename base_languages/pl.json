@@ -1012,7 +1012,7 @@
         "few": "%d mecze",
         "many": "%d meczy",
         "one": "1 mecz",
-        "other": "%d mecze"
+        "other": "%d meczów"
       },
       "value": "Liczba meczy: %d"
     },
@@ -3666,10 +3666,10 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "few": "%1$s popełnił %3$d błędy, które doprowadziły do goli dla %2$s.",
+        "few": "%1$@ popełnił %3$d błędy, które doprowadziły do goli dla %2$@.",
         "many": "%1$s popełnił %3$d błędów, które doprowadziły do goli dla %2$s.",
         "one": "%1$s popełnił błąd, który doprowadził do gola dla %2$s.",
-        "other": "%1$s popełnił %3$d błędów, które doprowadziły do goli dla %2$s."
+        "other": "%1$s popełnił %3$d błędy, które doprowadziły do goli dla %2$s."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9434,8 +9434,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days",
+        "one": "Wygasa jutro",
+        "other": "Wygasa za %d dni",
         "two": "Wygasa za dwa dni",
         "zero": "Wygasa dzisiaj"
       }
@@ -9918,8 +9918,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Odnawia się jutro",
+        "other": "Odnawia się za %d dni",
         "zero": "Odnawia się dzisiaj"
       }
     },

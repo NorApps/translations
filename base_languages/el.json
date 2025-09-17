@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ έκανε ένα λάθος που οδήγησε σε γκολ για την %2$@.",
-        "other": "%1$@ έκανε %3$d λάθη που οδήγησαν σε γκολ για την %2$@."
+        "one": "Ο %1$@ έκανε ένα λάθος που οδήγησε σε γκολ για %2$@.",
+        "other": "Ο %1$@ έκανε %3$d λάθη που οδήγησαν σε γκολ για %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9416,8 +9416,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Λήγει αύριο",
+        "other": "Λήγει σε %d ημέρες"
       }
     },
     "seo_expires_today": {
@@ -9898,8 +9898,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Ανανεώνεται αύριο",
+        "other": "Ανανεώνεται σε %d ημέρες",
         "zero": "Ανανεώνεται σήμερα"
       }
     },

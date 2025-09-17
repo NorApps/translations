@@ -9417,8 +9417,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Scade domani",
+        "other": "Scade tra %d giorni"
       }
     },
     "seo_expires_today": {
@@ -9899,8 +9899,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days"
+        "one": "Si rinnova domani",
+        "other": "Si rinnova tra %d giorni"
       }
     },
     "seo_renews_today": {

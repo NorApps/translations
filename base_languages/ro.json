@@ -3662,8 +3662,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ a făcut o eroare care a dus la un gol pentru %2$@.",
-        "other": "%1$@ a făcut %3$d erori care au dus la goluri pentru %2$@."
+        "one": "%1$@ a făcut o greșeală care a condus la un gol pentru %2$@.",
+        "other": "%1$@ a făcut %3$d greșeli care au condus la goluri pentru %2$@."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9425,8 +9425,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Expiră mâine",
+        "other": "Expiră în %d zile"
       }
     },
     "seo_expires_today": {
@@ -9907,8 +9907,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days"
+        "one": "Se reînnoiește mâine",
+        "other": "Se reînnoiește în %d zile"
       }
     },
     "seo_renews_today": {

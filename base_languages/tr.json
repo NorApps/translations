@@ -247,7 +247,7 @@
       },
       "plurals": {
         "one": "Gün",
-        "other": "Gün"
+        "other": "%d Gün"
       }
     },
     "accessibility_defenders": {
@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ %2$@ için bir gole neden olan bir hata yaptı.",
-        "other": "%1$@ %2$@ için %3$d gole neden olan hatalar yaptı."
+        "one": "%1$@, %2$@ için golle sonuçlanan bir hata yaptı.",
+        "other": "%1$@, %2$@ için golle sonuçlanan %3$d hata yaptı."
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9401,8 +9401,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "Yarın sona eriyor",
+        "other": "%d gün içinde sona eriyor"
       }
     },
     "seo_expires_today": {
@@ -9883,8 +9883,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days",
+        "one": "Yarın yenilenecek",
+        "other": "%d gün içinde yenilenecek",
         "zero": "Bugün yenilenecek"
       }
     },

@@ -247,7 +247,7 @@
       },
       "plurals": {
         "one": "दिन",
-        "other": "दिन"
+        "other": "%d दिन"
       }
     },
     "accessibility_defenders": {
@@ -3656,8 +3656,8 @@
         "other": "%1$@ made %3$d errors that led to goals for %2$@."
       },
       "plurals": {
-        "one": "%1$@ ने %2$@ के लिए एक गोल की ओर ले जाने वाली गलती की।",
-        "other": "%1$@ ने %2$@ के लिए %3$d गोलों की ओर ले जाने वाली गलतियाँ कीं।"
+        "one": "%1$@ ने एक गलती की जिससे %2$@ के लिए एक गोल हो गया।",
+        "other": "%1$@ ने %3$d गलतियाँ कीं जिससे %2$@ के लिए गोल हो गए।"
       }
     },
     "common_fun_fact_most_dribbles": {
@@ -9416,8 +9416,8 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Expires tomorrow",
-        "other": "Expires in %d days"
+        "one": "कल समाप्त हो रहा है",
+        "other": "%d दिनों में समाप्त हो रहा है"
       }
     },
     "seo_expires_today": {
@@ -9898,8 +9898,8 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Renews tomorrow",
-        "other": "Renews in %d days"
+        "one": "कल नवीनीकरण होगा",
+        "other": "%d दिनों में नवीनीकरण होगा"
       }
     },
     "seo_renews_today": {
