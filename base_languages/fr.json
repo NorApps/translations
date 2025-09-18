@@ -10530,8 +10530,68 @@
       "english": "Catch all the action on %1$@.",
       "value": "Suivez toutes les actions sur %1$@"
     },
+    "seo_weather_condition_clear": {
+      "comment": "Weather condition for clear night weather (icon codes 31, 33)",
+      "english": "Clear",
+      "value": "Dégagé"
+    },
+    "seo_weather_condition_cloudy": {
+      "comment": "Weather condition for cloudy/mostly cloudy weather (icon codes 26, 27, 28)",
+      "english": "Cloudy",
+      "value": "Nuageux"
+    },
+    "seo_weather_condition_foggy": {
+      "comment": "Weather condition for fog/haze/smoke/dust (icon codes 19, 20, 21, 22)",
+      "english": "Foggy",
+      "value": "Brumeux"
+    },
+    "seo_weather_condition_heavy_rain": {
+      "comment": "Weather condition for heavy rain (icon code 40)",
+      "english": "Heavy Rain",
+      "value": "Pluie forte"
+    },
+    "seo_weather_condition_light_rain": {
+      "comment": "Weather condition for light rain/drizzle/showers (icon codes 8, 9, 11, 39, 45)",
+      "english": "Light Rain",
+      "value": "Pluie faible"
+    },
+    "seo_weather_condition_partly_cloudy": {
+      "comment": "Weather condition for partly cloudy weather (icon codes 29, 30)",
+      "english": "Partly Cloudy",
+      "value": "Partiellement nuageux"
+    },
+    "seo_weather_condition_rain": {
+      "comment": "Weather condition for rainy weather (icon codes 5, 6, 7, 10, 12, 35)",
+      "english": "Rain",
+      "value": "Pluie"
+    },
+    "seo_weather_condition_snowy": {
+      "comment": "Weather condition for snow/flurries/blizzard (icon codes 13, 14, 15, 16, 18, 41, 42, 43, 46)",
+      "english": "Snowy",
+      "value": "Neige"
+    },
+    "seo_weather_condition_stormy": {
+      "comment": "Weather condition for extreme weather like tornado/hurricane (icon codes 0, 1, 2)",
+      "english": "Stormy",
+      "value": "Tempête"
+    },
+    "seo_weather_condition_sunny": {
+      "comment": "Weather condition for sunny/mostly sunny weather (icon codes 32, 34, 36)",
+      "english": "Sunny",
+      "value": "Ensoleillé"
+    },
+    "seo_weather_condition_thunderstorms": {
+      "comment": "Weather condition for thunderstorms (icon codes 3, 4, 17, 37, 38, 47)",
+      "english": "Thunderstorms",
+      "value": "Orages"
+    },
+    "seo_weather_condition_windy": {
+      "comment": "Weather condition for windy conditions (icon code 24)",
+      "english": "Windy",
+      "value": "Venteux"
+    },
     "seo_weather_conditions": {
-      "comment": "Header indicating the Weather at a football stadium, to be shown during the match.",
+      "comment": "Header indicating the Weather at a football stadium, to be shown during or after the match.",
       "english": "Weather conditions",
       "value": "Conditions météorologiques"
     },
