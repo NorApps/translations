@@ -10613,12 +10613,12 @@
     "seo_weather_conditions": {
       "comment": "Header indicating the Weather at a football stadium, to be shown during or after the match.",
       "english": "Weather conditions",
-      "value": "मौसम की स्थिति"
+      "value": "मौसम"
     },
     "seo_weather_forecast": {
       "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
       "english": "Weather forecast",
-      "value": "मौसम पूर्वानुमान"
+      "value": "मौसम"
     },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",
