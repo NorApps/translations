@@ -5992,7 +5992,7 @@
       "value": "예상 이적료"
     },
     "common_transfer_sum": {
-      "comment": "Transfer sum. Label just before the amount the player was transferred for. Example: \"Transfer $10.000.000\"",
+      "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Transfer",
       "value": "이적"
     },
