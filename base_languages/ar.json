@@ -1616,7 +1616,7 @@
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
       "english": "Conference League playoff stage",
-      "value": "مرحلة تصفيات دوري المؤتمر الأوروبي"
+      "value": "مرحلة التصفيات في دوري المؤتمر الأوروبي"
     },
     "accessibility_red": {
       "comment": "Used to describe red cards in the stats for player profile.",
