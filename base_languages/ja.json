@@ -4,7 +4,7 @@
     "accessibility_about_us": {
       "comment": "Text on button or link that redirects to the About us page.",
       "english": "About us",
-      "value": "アプリ情報"
+      "value": "私たちについて"
     },
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
@@ -24,7 +24,7 @@
     "accessibility_accurate_long_balls_team_subtitle": {
       "comment": "Label used in stats for successful long balls percentage (accurate/total)",
       "english": "Successful long balls",
-      "value": "ロングボール成功率"
+      "value": "成功したロングボール"
     },
     "accessibility_accurate_long_balls_team_title": {
       "comment": "Label used in stats for accurate long balls per match",
@@ -84,7 +84,7 @@
     "accessibility_all_competitions": {
       "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
       "english": "All competitions",
-      "value": "全試合"
+      "value": "全大会"
     },
     "accessibility_all_leagues": {
       "comment": "Header indication you can set alerts that applies to all your favorite leagues",
@@ -128,17 +128,17 @@
     },
     "accessibility_attackers": {
       "english": "Forwards",
-      "value": "アタッカー"
+      "value": "フォワード"
     },
     "accessibility_attacking_threat": {
       "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
       "english": "Momentum",
-      "value": "攻撃の脅威"
+      "value": "勢い"
     },
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
       "english": "Attempt saved",
-      "value": "キーパーセーブ"
+      "value": "セーブされた試み"
     },
     "accessibility_by_date": {
       "comment": "Text shown on toggle that shows matches in a league sorted by date.",
@@ -158,7 +158,7 @@
     "accessibility_career_stats": {
       "comment": "Text shown on tab header for tab that shows the career stats for a player.",
       "english": "Career stats",
-      "value": "キャリアスタッツ"
+      "value": "キャリア統計"
     },
     "accessibility_careers": {
       "comment": "Text on button or link that redirects to the About us page with information about career opportunities.",
@@ -192,7 +192,7 @@
     "accessibility_company": {
       "comment": "Text on button or link that redirects to the About us page with information about our company.",
       "english": "Company",
-      "value": "会社情報"
+      "value": "会社"
     },
     "accessibility_cookie_policy": {
       "comment": "Text shown on link that redirects to the page that shows the cookie policy document.",
@@ -218,7 +218,7 @@
     },
     "accessibility_createleaguepopup_enter_name": {
       "english": "Enter a league name",
-      "value": "リーグ名を入力"
+      "value": "リーグ名を入力してください"
     },
     "accessibility_createleaguepopup_type_the_name": {
       "english": "Type the name of the league below",
@@ -246,6 +246,7 @@
         "other": "Days"
       },
       "plurals": {
+        "one": "日",
         "other": "日"
       }
     },
@@ -261,7 +262,7 @@
     "accessibility_defensive_actions": {
       "comment": "Football (soccer) stat to describe how many defensive contributions a player has made. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action.",
       "english": "Defensive contributions",
-      "value": "守備アクション"
+      "value": "守備貢献"
     },
     "accessibility_defensive_actions_explained": {
       "comment": "Explains what defensive contributions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
@@ -350,7 +351,7 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "直面した期待得点"
+      "value": "xGOT直面"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
@@ -360,7 +361,7 @@
     "accessibility_facts": {
       "comment": "The main tab for the match facts. Needs to be kept short.",
       "english": "Facts",
-      "value": "情報"
+      "value": "試合情報"
     },
     "accessibility_fast_break": {
       "comment": "A shot setup description. Goal was scored as part of a counter attack.",
@@ -450,7 +451,7 @@
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
       "english": "From corner",
-      "value": "コーナー"
+      "value": "コーナーから"
     },
     "accessibility_full_table": {
       "comment": "String indicating that we will show a complete standings table with all the columns. See translation for short_table",
@@ -535,7 +536,7 @@
     "accessibility_header": {
       "comment": "A shot type variant. Goal was scored via a header.",
       "english": "Header",
-      "value": "ヘッド"
+      "value": "ヘディング"
     },
     "accessibility_header_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for leagues, teams, players and news.",
@@ -655,7 +656,7 @@
     "accessibility_insights_gone_without_win": {
       "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
       "english": "Have gone %1$@ matches without a win",
-      "value": "%1$@試合無勝"
+      "value": "%1$@試合連続で勝利なし"
     },
     "accessibility_insights_good_form_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Have won their last 7 matches.",
@@ -720,7 +721,7 @@
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
       "english": "%1$@ has created the most big chances for %2$@ (%3$@)",
-      "value": "%1$@は%2$@でビッグチャンス演出数最多（%4$@）"
+      "value": "%1$@は%2$@でビッグチャンス演出数最多（%3$@）"
     },
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
@@ -740,7 +741,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "%1$@は今大会のセーブ率で%2$@にランクイン（%3$@）"
+      "value": "%1$@は大会での1試合あたりのセーブ数で%2$@位にランクインしています（%3$@）"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -750,7 +751,7 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@は%3$@の前%4$@試合で%2$@得点を記録"
+      "value": "%1$@は%3$@の最近の%4$@試合のうち%2$@試合で得点を記録しました"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -858,12 +859,12 @@
     "accessibility_keepers": {
       "comment": "A header for the list of goalkeepers",
       "english": "Keepers",
-      "value": "キーパー"
+      "value": "キーパーズ"
     },
     "accessibility_last_starting_xi": {
       "comment": "Header indicating that we are showing the last starting 11 players on the pitch.",
       "english": "Last starting XI",
-      "value": "最後の先発プレイヤー11人"
+      "value": "最後のスターティングイレブン"
     },
     "accessibility_league_widget_body": {
       "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
@@ -908,12 +909,12 @@
     "accessibility_live_activity_alert_message": {
       "comment": "Used as message on alert if user has not activated live activities",
       "english": "Looks like you don't have live activities turned on",
-      "value": "ライブアクテビティがオンにがなっていないようです"
+      "value": "ライブアクティビティがオンになっていないようです"
     },
     "accessibility_live_activity_alert_title": {
       "comment": "Used as title on alert if user has not activated live activities",
       "english": "Turn on live activities",
-      "value": "ライブアクテビティをオンにする"
+      "value": "ライブアクティビティをオンにする"
     },
     "accessibility_live_activity_max_exceeded": {
       "comment": "Toggle label which explains you have exceeed the number of teams we allow to have their matches pinned to the lock screen as Live Activities. Translate pinned as \"shown\" if pinned sounds strange.",
@@ -1151,7 +1152,7 @@
     "accessibility_myleaguespage_position_players": {
       "comment": "Position as in the users rank in a league. Players as in number of players in that league.",
       "english": "Position / Players",
-      "value": "順位/プレイヤー"
+      "value": "順位/選手"
     },
     "accessibility_myleaguespage_you_have_not_joined": {
       "comment": "Label telling the user he/she has not yet joined a league",
@@ -1161,7 +1162,7 @@
     "accessibility_new_match_experience_body": {
       "comment": "The body-text for the new-match-facts onboarding.",
       "english": "It is now easier to navigate, and we’ve put key info into the main tab.",
-      "value": "ナビゲーションしやすく、メインタブでたくさんの情報が見れるようになりました。"
+      "value": "ナビゲーションがしやすくなり、重要な情報をメインタブに配置しました。"
     },
     "accessibility_new_match_experience_header": {
       "comment": "The header for the new match-facts onboarding.",
@@ -1241,7 +1242,7 @@
     "accessibility_notifications_enabled": {
       "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
       "english": "Notifications enabled",
-      "value": "通知を有効にしました"
+      "value": "通知が有効"
     },
     "accessibility_notifications_toast_change": {
       "comment": "Used for toast when changing notifications from settings. \"News for Liverpool changed. Goals for Chelsea changed.\"",
@@ -1271,12 +1272,12 @@
     "accessibility_on_target": {
       "comment": "Shorthand for shots on target.",
       "english": "On target",
-      "value": "ターゲット上"
+      "value": "枠内シュート"
     },
     "accessibility_on_tv": {
       "comment": "Text on button that shows matches that are shown on TV.",
       "english": "On TV",
-      "value": "テレビ中継あり"
+      "value": "テレビ放送中"
     },
     "accessibility_onboarding_follow_leagues_description_line_1": {
       "comment": "Onboarding text for a new user.",
@@ -1346,7 +1347,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "チームをフォローすると、そのチームがアプリ全体で優先されます。"
+      "value": "チームをフォローすると、試合やゴールの際に通知を受け取ることができます。"
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1356,7 +1357,7 @@
     "accessibility_only_relevant_matches": {
       "comment": "A label on a filter button to show/hide filtered out leagues",
       "english": "Show only relevant matches",
-      "value": "関連する一致のみを表示"
+      "value": "関連する試合のみを表示"
     },
     "accessibility_open_match_for_more_details": {
       "comment": "Meant for VoiceOver. Lets the user know that clicking on a match will bring up a detailed explanation of the match",
@@ -1492,18 +1493,19 @@
         "other": "%d other competitions are playing now"
       },
       "plurals": {
-        "other": "その他%d試合が現在行われています"
+        "one": "他の1つの大会が現在行われています",
+        "other": "その他%dの大会が現在行われています"
       }
     },
     "accessibility_playing_today": {
       "comment": "First placeholder is a list of leagues and second placeholder is a single league. So like \"Premier League, La Liga and Serie A are playing\"",
       "english": "%1$@ and %2$@ are playing",
-      "value": "%1$@と%2$@が開催中"
+      "value": "%1$@と%2$@が試合中"
     },
     "accessibility_playing_today_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
       "english": "%@ other competitions play today",
-      "value": "その他%@リーグが今日試合を行います"
+      "value": "他の%@大会が今日試合を行います"
     },
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
@@ -1513,7 +1515,7 @@
     "accessibility_playing_today_single": {
       "comment": "Placeholder is a league. So like \"Premier League is playing\"",
       "english": "%1$@ is playing",
-      "value": "%1$@が開催中"
+      "value": "%1$@が試合中"
     },
     "accessibility_points_per_match": {
       "comment": "Average number of points earned per game played.",
@@ -1557,7 +1559,7 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "90分あたりのラスト3分の1ポゼッション獲得数"
+      "value": "90分あたりの攻撃サードでのポゼッション獲得数"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
@@ -1572,12 +1574,12 @@
     "accessibility_post": {
       "comment": "A shot result description (hit the post)",
       "english": "Post",
-      "value": "ポスト直撃"
+      "value": "ポスト"
     },
     "accessibility_predictor_make_predictions": {
       "comment": "Button indicating you can enter our competition where you predict who will win the tournament",
       "english": "Make your predictions",
-      "value": "予想する"
+      "value": "予想を入力する"
     },
     "accessibility_predictor_view_predictions": {
       "comment": "Button indicating you can see how you predicted who won the tournament",
@@ -1612,7 +1614,7 @@
     "accessibility_redeem_it_here": {
       "comment": "Subheader for redeem code view",
       "english": "Redeem it here",
-      "value": "ここで使用してください"
+      "value": "ここで引き換えてください"
     },
     "accessibility_regular_play": {
       "comment": "A shot setup description. Goal was scored from a normal play. So it wasn't part of a corner, free kick, counter-attack or throw-in.",
@@ -1650,7 +1652,7 @@
     "accessibility_roundof64": {
       "comment": "Label indicating it is the round of 64. 64 teams are left in the tournament. Round of 64 is the same as 32th-finals.",
       "english": "Round of 64",
-      "value": "ラウンドオブ64"
+      "value": "64強"
     },
     "accessibility_save_percentage": {
       "comment": "Label used in stats for save percentage for keepers",
@@ -1665,7 +1667,7 @@
     "accessibility_search_result_header": {
       "comment": "Text shown on top of the search results page. Input is the search text.",
       "english": "Search results for <b>\"%@\"</b>",
-      "value": "<b>「%@」</b>のシーズン結果"
+      "value": "<b>「%@」</b>の検索結果"
     },
     "accessibility_season_performance": {
       "comment": "Used for header in Player Profile for the season performance stats.",
@@ -1710,7 +1712,7 @@
     "accessibility_set": {
       "comment": "Used for confiming and setting alerts in the notifications popup sheet.",
       "english": "Set",
-      "value": "設定"
+      "value": "セット"
     },
     "accessibility_set_your_app_language": {
       "comment": "Label indicating you can change the language of the app",
@@ -1777,7 +1779,7 @@
     "accessibility_shot_blocked": {
       "comment": "A shot was blocked by a defender. An attacker shot the ball at goal but a defender blocked it.",
       "english": "Blocked",
-      "value": "シュートブロック"
+      "value": "ブロック"
     },
     "accessibility_shot_blocks": {
       "comment": "NUmber of times a defender has blocked a shot by standing in it's path when the other team has a shot at goal.",
@@ -1802,7 +1804,7 @@
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
       "english": "Shots faced",
-      "value": "直面したシュート"
+      "value": "被シュート数"
     },
     "accessibility_shots_on_target_per_90": {
       "comment": "Label used in stats for shots on target per 90 min",
@@ -1822,7 +1824,7 @@
     "accessibility_show_me": {
       "comment": "Call to action for bottom sheet. Used in player profile onboarding.",
       "english": "Show me",
-      "value": "表示"
+      "value": "見せて"
     },
     "accessibility_sign_in_is_required": {
       "comment": "The user gets the option to signin.",
@@ -1987,7 +1989,7 @@
     "accessibility_stepsheader_step3_title": {
       "comment": "plural",
       "english": "Round of 16",
-      "value": "ラウンドオブ16"
+      "value": "ベスト16"
     },
     "accessibility_stepsheader_step4_hinttext_v2": {
       "comment": "Explanation of what to do.",
@@ -2125,7 +2127,7 @@
     "accessibility_tap_to_make_changes": {
       "comment": "Used for subtitle on toast when settings alerts on match in matchfacts.",
       "english": "Tap to make changes",
-      "value": "タップして変更"
+      "value": "タップして変更を加える"
     },
     "accessibility_team_of_the_week": {
       "comment": "Header text for the Team of the week panel.",
@@ -2205,7 +2207,7 @@
     "accessibility_template_77": {
       "comment": "World Cup in Football, https://en.wikipedia.org/wiki/FIFA_World_Cup.",
       "english": "FIFA World Cup",
-      "value": "ワールドカップ"
+      "value": "FIFAワールドカップ"
     },
     "accessibility_template_78": {
       "comment": "The FIFA Club World cup tournament. https://en.wikipedia.org/wiki/FIFA_Club_World_Cup",
@@ -2270,7 +2272,7 @@
     "accessibility_ticker": {
       "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
       "english": "Commentary",
-      "value": "ティッカー"
+      "value": "実況"
     },
     "accessibility_tips_and_support": {
       "comment": "Support menu item title.",
@@ -2320,7 +2322,7 @@
     "accessibility_tr_afcchampionsleaguequal": {
       "comment": "Name of tournament",
       "english": "AFC Champions League Elite Qualification",
-      "value": "AFC チャンピョンズリーグエリート予選"
+      "value": "AFC チャンピオンズリーグエリート予選"
     },
     "accessibility_tr_cafchampionsleaguequal": {
       "comment": "Name of tournament",
@@ -2360,7 +2362,7 @@
     "accessibility_use_standalone_desc": {
       "comment": "We are asking the user to use the watch app without connecting the phone app. This is a mode we call \"Standalone\".",
       "english": "Don't connect with the FotMob phone app",
-      "value": "FotMobモバイルアプリとは接続しないでください"
+      "value": "FotMobモバイルアプリと接続せずに使用してください"
     },
     "accessibility_validation__errormessage_final": {
       "comment": "Text explainging what action is required to continue",
@@ -2788,6 +2790,11 @@
       "comment": "Label indicating how many people the stadium can take (have capacity for)",
       "english": "Capacity",
       "value": "収容人数"
+    },
+    "common_celsius": {
+      "comment": "A setting to toggle the temperature unit to Celsius (°C) instead of Fahrenheit (°F)",
+      "english": "Celsius (°C)",
+      "value": "摂氏 (°C)"
     },
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
@@ -3391,7 +3398,7 @@
     "common_expected_goals_on_target": {
       "comment": "Keep xG in the translation and translate it as \"xG <on target>\". On target means the a goal attempt that hits the goal.",
       "english": "xG on target (xGOT)",
-      "value": "xG 枠内シュート数（xGOT）"
+      "value": "xG 枠内（xGOT）"
     },
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
@@ -3426,6 +3433,11 @@
     "common_extratime_short": {
       "english": "ET",
       "value": "ET"
+    },
+    "common_fahrenheit": {
+      "comment": "A setting to toggle the temperature unit to Fahrenheit (°F) instead of Celsius (°C)",
+      "english": "Fahrenheit (°F)",
+      "value": "華氏 (°F)"
     },
     "common_failure_re_sign_in": {
       "comment": "On failure in sync, we ask user to re-sign-in again - this is a button's label",
@@ -5764,6 +5776,11 @@
       "english": "Teams to follow",
       "value": "フォローするチーム"
     },
+    "common_temperature_unit": {
+      "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
+      "english": "Temperature unit",
+      "value": "温度単位"
+    },
     "common_test_notification": {
       "english": "Test notification",
       "value": "テスト通知"
@@ -5850,7 +5867,7 @@
     "common_to_be_finished": {
       "comment": "Match status. There has been some form of disruption in the match which means the match is started, but not yet finished and we are waiting for it to start again.",
       "english": "To be resumed",
-      "value": "試合中断"
+      "value": "再開予定"
     },
     "common_today": {
       "english": "Today",
@@ -6469,6 +6486,16 @@
       "english": "Last matches",
       "value": "最近の試合"
     },
+    "ios_liquid_glass_is_here": {
+      "comment": "Liquid Glass onboarding title. “Liquid Glass” is the name of a design language and should not be translated.",
+      "english": "Liquid Glass is here",
+      "value": "Liquid Glassが登場"
+    },
+    "ios_liquid_glass_update": {
+      "comment": "Liquid Glass onboarding description. “Liquid Glass” is the name of a design language and should not be translated.",
+      "english": "We've updated FotMob for iOS 26 and Apple's new Liquid Glass design.",
+      "value": "FotMobをiOS 26およびAppleの新しいLiquid Glassデザインに更新しました。"
+    },
     "ios_location_reason": {
       "english": "We only use your location to enable features available to some countries",
       "value": "あなたの位置情報は、一部の国で利用可能な機能を有効にするためだけに使用されます"
@@ -6484,6 +6511,11 @@
     "ios_minutes_long": {
       "english": "minutes",
       "value": "分"
+    },
+    "ios_more_menu_tip": {
+      "comment": "Popover tip for the more menu.",
+      "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
+      "value": "ここで設定、通知、テレビ番組表、移籍センターを確認できます。"
     },
     "ios_most_red": {
       "english": "Most red cards",
@@ -8631,9 +8663,14 @@
       "value": "トーナメント"
     },
     "notifications_please_select_match": {
-      "comment": "Prompt to ask user to click a match so he can view details for the match on an iPad",
+      "comment": "Prompt to ask user to click a match so they can view details for the match on an iPad",
       "english": "Select a match from the left menu",
-      "value": "左のメニューから試合を選択してください"
+      "value": "左側のメニューから試合を選択してください"
+    },
+    "notifications_please_select_search": {
+      "comment": "Prompt to ask user to open the left menu and search for teams, leagues, players and matches",
+      "english": "Search for teams, leagues, players, and matches from the menu on the left",
+      "value": "左側のメニューからチーム、リーグ、選手、試合を検索してください"
     },
     "notifications_poland": {
       "english": "Poland",
@@ -8765,11 +8802,11 @@
     "notifications_seconds_short": {
       "comment": "Abbrevation of seconds (ideally short as \"s\" instead of \"sec\" if possible)",
       "english": "s",
-      "value": "秒"
+      "value": "ｓ"
     },
     "notifications_senior_career": {
       "english": "Senior career",
-      "value": "シニアグラブ所属歴"
+      "value": "プロフェッショナルキャリア"
     },
     "notifications_serbia": {
       "english": "Serbia",
@@ -9042,12 +9079,17 @@
     "notifications_transfer_type_player_swap": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
       "english": "player swap",
-      "value": "トレード移籍"
+      "value": "選手交換"
     },
     "notifications_transfer_type_trial": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
       "english": "trial",
       "value": "トライアル"
+    },
+    "notifications_transfers_tab": {
+      "comment": "This is the title for the transfers tab. There is limited space so the wording needs to be shortened if possible in the different languages. Try to keep them as short as possible as long as it makes proper sense for a transfer tab, for example \"mercado\" would be fine for Spanish/Portuguese as its shorter and makes sense",
+      "english": "Transfers",
+      "value": "移籍"
     },
     "notifications_trending_favorites_are_hidden": {
       "comment": "Short \"snackbar\" telling user that the trending favourites teams/players/leagues have been hidden.",
@@ -9077,6 +9119,11 @@
       "comment": "Button label asking the user to turn on the transfer alerts",
       "english": "Turn them on!",
       "value": "受け取る！"
+    },
+    "notifications_tv_schedule_tab": {
+      "comment": "This is the title for the TV Schedule tab. We already have an icon displaying TV, so we want a shortened word for this. For example in England it would make sense to just write Schedule as we already display the TV",
+      "english": "Schedule",
+      "value": "スケジュール"
     },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
@@ -9275,15 +9322,35 @@
       "english": "Bug",
       "value": "バグ"
     },
+    "seo_build_your_xi": {
+      "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
+      "english": "Build your XI",
+      "value": "XIを作成"
+    },
+    "seo_build_your_xi_text": {
+      "comment": "Text explaining how to use the lineupbuilder. See [lineup_builder]. Please keep the \\n placements in the English string when doing the translation.",
+      "english": "Build your dream XI, pick your team’s next lineup, or plan your transfer window.\\nStart by clicking on an empty player and searching for the player you want to add, or by selecting a team to pre-fill and modify.",
+      "value": "理想のXIを作成し、次のチームのラインナップを選択するか、移籍ウィンドウを計画しましょう。\\n空の選手をクリックして追加したい選手を検索するか、チームを選択して事前に入力し、修正します。"
+    },
     "seo_change_app_icon_dialog": {
       "comment": "Shown as a dialog to the user when user clicks on a different app icons in the FotMob+ membership page.",
       "english": "To change the app icon, an app restart is required.",
       "value": "アプリアイコンを変更するには、アプリを再起動する必要があります。"
     },
+    "seo_choose_a_team_to_edit": {
+      "comment": "headline for user to choose which football team he wants to edit in a lineup builder",
+      "english": "Choose a team to edit",
+      "value": "編集するチームを選択"
+    },
     "seo_choose_your_display_name": {
       "comment": "Subtitle for the dialogue where the user can choose their display name in the predictor game.",
       "english": "Choose your display name",
       "value": "表示名を選択"
+    },
+    "seo_clear_lineup": {
+      "comment": "Headline to clear the lineup created in the lineup builder for football team.",
+      "english": "Clear lineup",
+      "value": "スタメンをクリア"
     },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
@@ -9335,6 +9402,11 @@
       "english": "Total distance per match",
       "value": "試合ごとの総走行距離"
     },
+    "seo_download_image": {
+      "comment": "Text in a button which will download an image of the lineup team of football players.",
+      "english": "Download image",
+      "value": "画像をダウンロード"
+    },
     "seo_early_access_desc": {
       "comment": "A description for the \"Early access to new features\" FotMob+ feature.",
       "english": "Be the first to try FotMob’s latest updates.",
@@ -9349,6 +9421,11 @@
       "comment": "Text for button that opens the \"edit user name\"-dialogue.",
       "english": "Edit name",
       "value": "名前を編集"
+    },
+    "seo_enter_lineup_name": {
+      "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder.",
+      "english": "Enter lineup name",
+      "value": "フォーメーション名を入力"
     },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
@@ -9487,7 +9564,7 @@
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
       "english": "Gold",
-      "value": "ゴールド"
+      "value": "金メダル"
     },
     "seo_group_generic": {
       "comment": "Used in league fixtures filter",
@@ -9529,6 +9606,11 @@
       "english": "Join FotMob+ for %@ / year",
       "value": "年額%@でFotMob+に加入できます"
     },
+    "seo_league_added_to_following": {
+      "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
+      "english": "League added to Following",
+      "value": "フォロー中のリーグに追加されました"
+    },
     "seo_league_match": {
       "comment": "Text explaining that the the current match is a match in the given league or competition.",
       "english": "This is a %1$@ match.",
@@ -9539,10 +9621,20 @@
       "english": "This is %1$@ of the %2$@.",
       "value": "これは%2$@の%1$@です。"
     },
+    "seo_league_removed_from_following": {
+      "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
+      "english": "League removed from Following",
+      "value": "フォロー中からリーグが削除されました"
+    },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
       "english": "Lifetime supporter",
       "value": "ライフタイムサポーター"
+    },
+    "seo_lineup_builder": {
+      "comment": "Headline for a lineup builder for football teams.",
+      "english": "Lineup Builder",
+      "value": "スタメン作成ツール"
     },
     "seo_link_copied_to_clipboard": {
       "comment": "Text for the toast dialogue that pops up when the league invite link is copied to clipboard.",
@@ -9572,7 +9664,7 @@
     "seo_match_added_to_following": {
       "comment": "Pop up after clicking follow on a match. See translation for \"following\"",
       "english": "Match added to Following",
-      "value": "フォロー中に試合が追加されました"
+      "value": "フォロー中の試合に追加されました"
     },
     "seo_match_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a match. See translation for \"following\"",
@@ -9592,12 +9684,12 @@
     "seo_more_notification_sounds": {
       "comment": "One of FotMob+ features",
       "english": "More notification sounds",
-      "value": "通知音をもっと"
+      "value": "通知音をもっと追加"
     },
     "seo_more_notification_sounds_desc": {
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
       "english": "Unlock additional notification sounds.",
-      "value": "追加の通知音を解除できます。"
+      "value": "追加の通知音をアンロックできます。"
     },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
@@ -9637,7 +9729,7 @@
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
       "english": "%1$@ have odds of %2$@ to win, %3$@ for a draw, and %4$@ for %5$@ to win.",
-      "value": "%1$@は%2$@の勝利の可能性があり、%3$@の引き分けと%4$@ %5$@勝利の可能性があります。"
+      "value": "%1$@の勝利のオッズは%2$@、引き分けのオッズは%3$@、%5$@の勝利のオッズは%4$@です。"
     },
     "seo_odds_x": {
       "comment": "Used for the betting slip to show the odds of your current selected bets.",
@@ -9757,7 +9849,17 @@
     "seo_play_predict_prevail": {
       "comment": "Catchy slogan for the predictor game, used front and center on the predictor game page. Capture the essence of predicting, competing and winning. Be creative! The flow is more important than the order. Try alliteration, but not a must. NEEDS to be separated by periods.",
       "english": "Predict. Play. Prevail.",
-      "value": "予想。プレイ。勝利。"
+      "value": "予測。遊ぶ。勝つ。"
+    },
+    "seo_player_added_to_following": {
+      "comment": "Pop up after clicking follow on a player. See translation for \"player,match_added_to_following\"",
+      "english": "Player added to Following",
+      "value": "フォロー中の選手に追加されました"
+    },
+    "seo_player_removed_from_following": {
+      "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
+      "english": "Player removed from Following",
+      "value": "フォロー中から選手が削除されました"
     },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
@@ -9794,6 +9896,16 @@
       "english": "Winger",
       "value": "ウィンガー"
     },
+    "seo_pre_fill_lineup": {
+      "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder.",
+      "english": "Pre-fill lineup",
+      "value": "スタメンを自動入力"
+    },
+    "seo_pre_fill_with_popular_teams": {
+      "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder with popular football teams.",
+      "english": "Pre-fill with popular teams",
+      "value": "人気チームで自動入力"
+    },
     "seo_predict_edit_until_kick_off": {
       "comment": "Text for the second step in the predictor game, to explain that you can edit your predictions until the match starts.",
       "english": "You can edit your predictions until the match kicks off.",
@@ -9827,17 +9939,27 @@
     "seo_predictor_play_button": {
       "comment": "Button label for starting the predictor game. Must be short and clearly signal the action of predicting match results.",
       "english": "Play",
-      "value": "予想を始める"
+      "value": "プレイ"
     },
     "seo_privacy_title": {
       "comment": "Title for the dialogue where the user can choose their display name in the predictor game, for privacy.",
       "english": "Privacy",
       "value": "プライバシー"
     },
+    "seo_q1of16finals": {
+      "comment": "Indicator in a table who qualifies for the 1/16 Finals (Round of 32). See [roundof32].",
+      "english": "Qualification to 1/16 Finals",
+      "value": "ラウンド32進出"
+    },
+    "seo_q1of8finals": {
+      "comment": "Indicator in a table who qualifies for the 1/8 Finals (Round of 16). See [roundof16].",
+      "english": "Qualification to 1/8 Finals",
+      "value": "ラウンド16進出"
+    },
     "seo_random_draw": {
       "comment": "A header indicating matches that have been drawn as part of the random draw deciding who will meet in the playoff. Not to be confused with two teams that plays a match that ends in a draw!",
       "english": "Draw",
-      "value": "抽選"
+      "value": "組み合わせ抽選"
     },
     "seo_rematch": {
       "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
@@ -9910,7 +10032,7 @@
     "seo_round_of_16_draw": {
       "comment": "A header indicating matches that have been drawn as part of the Round of 16 draw",
       "english": "Round of 16 draw",
-      "value": "ラウンドオブ16 ドロー"
+      "value": "ラウンド16 抽選"
     },
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
@@ -9954,7 +10076,7 @@
     "seo_since_x": {
       "comment": "Subtitle used in membership page to indicate since which *year* they became a lifetime supporter. Like \"Since 2023\".",
       "english": "Since %@",
-      "value": "%@年入会"
+      "value": "%@年から"
     },
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
@@ -10024,7 +10146,7 @@
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
       "english": "%1$s historic seasons with winners and runners-up.",
-      "value": "%1$s 歴史的なシーズン、優勝者と準優勝者"
+      "value": "%1$s の歴史的なシーズンの優勝者と準優勝者を紹介します。"
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
@@ -10034,7 +10156,7 @@
     "seo_site_description_match_finished": {
       "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%3$@ の %1$@ vs %2$@ は %4$@ で終了しました。 ライブ結果、頭脳対決、試合の統計データ、ラインナップ、プレーヤーレーティング、洞察、チームのフォーム、シュートマップ、ハイライトをチェックしてください。"
+      "value": "%1$@ vs %2$@ の試合は %3$@ に行われ、%4$@ で終了しました。ライブ結果、対戦成績、試合の統計データ、ラインナップ、選手の評価、インサイト、チームの調子、シュートマップ、ハイライトをチェックしてください。"
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -10183,7 +10305,7 @@
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "%1$@ - transfers, contracts and market values",
-      "value": "%1$@ - 移籍、選手の手数料、契約、市場価値"
+      "value": "%1$@ - 移籍、契約、市場価値"
     },
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
@@ -10203,12 +10325,12 @@
     "seo_site_title_stats_league": {
       "comment": "Page title for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
       "english": "%1$@ - %2$@ %3$@ stats",
-      "value": "%1$@ - %3$@の%2$@スタッツ"
+      "value": "%1$@ - %2$@ %3$@ スタッツ"
     },
     "seo_site_title_stats_team": {
       "comment": "Page title for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
       "english": "%1$@ - %2$@ stats for %3$@ %4$@",
-      "value": "%1$@ - %3$@ %4$@の%2$@の統計"
+      "value": "%1$@ - %2$@の%3$@ %4$@の統計"
     },
     "seo_site_title_team_fixtures": {
       "comment": "Meta title tag value for the team fixtures page, with both future and past matches and results.",
@@ -10243,7 +10365,7 @@
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - %1$@ - チーム評価、試合ごとのゴール数、正確なシュートの数、その他の統計情報"
+      "value": "%1$@ - チーム評価、試合ごとのゴール数、枠内シュート数、その他の統計情報"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
@@ -10268,12 +10390,12 @@
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
       "english": "Something went wrong. Please try again.",
-      "value": "何かがうまくいきませんでした。もう一度お試しください。"
+      "value": "問題が発生しました。もう一度お試しください。"
     },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
       "english": "Source",
-      "value": "ソース元"
+      "value": "出典"
     },
     "seo_sprints_per_90": {
       "comment": "A label indicating how many sprints a player has taken per 90 minutes.",
@@ -10310,6 +10432,11 @@
       "english": "Guess results and compete against friends",
       "value": "結果を予想して友達と競い合おう"
     },
+    "seo_suggested_players": {
+      "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",
+      "english": "Suggested players",
+      "value": "推奨選手"
+    },
     "seo_support_fotmob": {
       "comment": "One of FotMob+ features",
       "english": "Support FotMob",
@@ -10320,15 +10447,25 @@
       "english": "Help support the ongoing development of FotMob.",
       "value": "FotMobの開発の継続的なサポートにご協力をお願いいたします。"
     },
+    "seo_team_added_to_following": {
+      "comment": "Pop up after clicking follow on a team. See translation for \"team,match_added_to_following\"",
+      "english": "Team added to Following",
+      "value": "フォロー中のチームに追加されました"
+    },
     "seo_team_rating": {
       "comment": "Average team rating in lineup.",
       "english": "Team rating",
       "value": "チーム評価点"
     },
+    "seo_team_removed_from_following": {
+      "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
+      "english": "Team removed from Following",
+      "value": "フォロー中からチームが削除されました"
+    },
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
       "english": "%@ won!",
-      "value": "%@が成功！"
+      "value": "%@が勝ちました！"
     },
     "seo_template_10195": {
       "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
@@ -10402,7 +10539,12 @@
     },
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",
-      "value": "上位3チーム"
+      "value": "3位の上位チーム"
+    },
+    "seo_template_promotion_group": {
+      "comment": "A group name in a tournament. Like Promotion group A. We will concatinate the string with the group number like A or B. See template_word_group",
+      "english": "Promotion Group",
+      "value": "昇格グループ"
     },
     "seo_template_word_division": {
       "comment": "A part of a league. Like \"1. division\" or \"2. division\".",
@@ -10508,7 +10650,7 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
-      "value": "%1$@でアクションを追う"
+      "value": "%1$@で全てのアクションを楽しもう"
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",
@@ -10538,7 +10680,7 @@
     "seo_weather_condition_partly_cloudy": {
       "comment": "Weather condition for partly cloudy weather (icon codes 29, 30)",
       "english": "Partly Cloudy",
-      "value": "一部曇り"
+      "value": "曇り時々晴れ"
     },
     "seo_weather_condition_rain": {
       "comment": "Weather condition for rainy weather (icon codes 5, 6, 7, 10, 12, 35)",
@@ -10573,12 +10715,12 @@
     "seo_weather_conditions": {
       "comment": "Header indicating the Weather at a football stadium, to be shown during or after the match.",
       "english": "Weather conditions",
-      "value": "天気"
+      "value": "天候状況"
     },
     "seo_weather_forecast": {
       "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
       "english": "Weather forecast",
-      "value": "天気"
+      "value": "天気予報"
     },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",

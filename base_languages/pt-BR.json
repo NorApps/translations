@@ -2792,6 +2792,11 @@
       "english": "Capacity",
       "value": "Capacidade"
     },
+    "common_celsius": {
+      "comment": "A setting to toggle the temperature unit to Celsius (°C) instead of Fahrenheit (°F)",
+      "english": "Celsius (°C)",
+      "value": "Celsius (°C)"
+    },
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
       "english": "Attacking Midfielder",
@@ -3430,6 +3435,11 @@
     "common_extratime_short": {
       "english": "ET",
       "value": "PR"
+    },
+    "common_fahrenheit": {
+      "comment": "A setting to toggle the temperature unit to Fahrenheit (°F) instead of Celsius (°C)",
+      "english": "Fahrenheit (°F)",
+      "value": "Fahrenheit (°F)"
     },
     "common_failure_re_sign_in": {
       "comment": "On failure in sync, we ask user to re-sign-in again - this is a button's label",
@@ -5778,6 +5788,11 @@
       "english": "Teams to follow",
       "value": "Times para Seguir"
     },
+    "common_temperature_unit": {
+      "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
+      "english": "Temperature unit",
+      "value": "Unidade de temperatura"
+    },
     "common_test_notification": {
       "english": "Test notification",
       "value": "Teste de notificação"
@@ -6491,6 +6506,16 @@
       "english": "Last matches",
       "value": "Últimas partidas"
     },
+    "ios_liquid_glass_is_here": {
+      "comment": "Liquid Glass onboarding title. “Liquid Glass” is the name of a design language and should not be translated.",
+      "english": "Liquid Glass is here",
+      "value": "Liquid Glass chegou"
+    },
+    "ios_liquid_glass_update": {
+      "comment": "Liquid Glass onboarding description. “Liquid Glass” is the name of a design language and should not be translated.",
+      "english": "We've updated FotMob for iOS 26 and Apple's new Liquid Glass design.",
+      "value": "Atualizamos o FotMob para iOS 26 e o novo design Liquid Glass da Apple."
+    },
     "ios_location_reason": {
       "english": "We only use your location to enable features available to some countries",
       "value": "Usamos sua localização para ativar recursos disponíveis em alguns países"
@@ -6506,6 +6531,11 @@
     "ios_minutes_long": {
       "english": "minutes",
       "value": "minutos"
+    },
+    "ios_more_menu_tip": {
+      "comment": "Popover tip for the more menu.",
+      "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
+      "value": "Aqui você encontra configurações, notificações, programação de TV e o centro de transferências."
     },
     "ios_most_red": {
       "english": "Most red cards",
@@ -8658,9 +8688,14 @@
       "value": "Eliminatórias"
     },
     "notifications_please_select_match": {
-      "comment": "Prompt to ask user to click a match so he can view details for the match on an iPad",
+      "comment": "Prompt to ask user to click a match so they can view details for the match on an iPad",
       "english": "Select a match from the left menu",
-      "value": "Selecione uma partida"
+      "value": "Selecione uma partida no menu à esquerda"
+    },
+    "notifications_please_select_search": {
+      "comment": "Prompt to ask user to open the left menu and search for teams, leagues, players and matches",
+      "english": "Search for teams, leagues, players, and matches from the menu on the left",
+      "value": "Busque times, ligas, jogadores e partidas no menu à esquerda"
     },
     "notifications_poland": {
       "english": "Poland",
@@ -9076,6 +9111,11 @@
       "english": "trial",
       "value": "teste"
     },
+    "notifications_transfers_tab": {
+      "comment": "This is the title for the transfers tab. There is limited space so the wording needs to be shortened if possible in the different languages. Try to keep them as short as possible as long as it makes proper sense for a transfer tab, for example \"mercado\" would be fine for Spanish/Portuguese as its shorter and makes sense",
+      "english": "Transfers",
+      "value": "Mercado"
+    },
     "notifications_trending_favorites_are_hidden": {
       "comment": "Short \"snackbar\" telling user that the trending favourites teams/players/leagues have been hidden.",
       "english": "Trending favorites are hidden.",
@@ -9104,6 +9144,11 @@
       "comment": "Button label asking the user to turn on the transfer alerts",
       "english": "Turn them on!",
       "value": "Ative agora!"
+    },
+    "notifications_tv_schedule_tab": {
+      "comment": "This is the title for the TV Schedule tab. We already have an icon displaying TV, so we want a shortened word for this. For example in England it would make sense to just write Schedule as we already display the TV",
+      "english": "Schedule",
+      "value": "Agenda"
     },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
@@ -9302,15 +9347,35 @@
       "english": "Bug",
       "value": "Erro"
     },
+    "seo_build_your_xi": {
+      "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
+      "english": "Build your XI",
+      "value": "Monte seu XI"
+    },
+    "seo_build_your_xi_text": {
+      "comment": "Text explaining how to use the lineupbuilder. See [lineup_builder]. Please keep the \\n placements in the English string when doing the translation.",
+      "english": "Build your dream XI, pick your team’s next lineup, or plan your transfer window.\\nStart by clicking on an empty player and searching for the player you want to add, or by selecting a team to pre-fill and modify.",
+      "value": "Monte seu XI dos sonhos, escolha a próxima escalação do seu time ou planeje sua janela de transferências.\\nComece clicando em um jogador vazio e buscando o jogador que deseja adicionar, ou selecionando um time para pré-preencher e modificar."
+    },
     "seo_change_app_icon_dialog": {
       "comment": "Shown as a dialog to the user when user clicks on a different app icons in the FotMob+ membership page.",
       "english": "To change the app icon, an app restart is required.",
       "value": "Para mudar o ícone do app, é necessário reiniciar o aplicativo."
     },
+    "seo_choose_a_team_to_edit": {
+      "comment": "headline for user to choose which football team he wants to edit in a lineup builder",
+      "english": "Choose a team to edit",
+      "value": "Escolha um time para editar"
+    },
     "seo_choose_your_display_name": {
       "comment": "Subtitle for the dialogue where the user can choose their display name in the predictor game.",
       "english": "Choose your display name",
       "value": "Escolha seu nome de exibição"
+    },
+    "seo_clear_lineup": {
+      "comment": "Headline to clear the lineup created in the lineup builder for football team.",
+      "english": "Clear lineup",
+      "value": "Limpar escalação"
     },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
@@ -9362,6 +9427,11 @@
       "english": "Total distance per match",
       "value": "Distância total por partida"
     },
+    "seo_download_image": {
+      "comment": "Text in a button which will download an image of the lineup team of football players.",
+      "english": "Download image",
+      "value": "Baixar imagem"
+    },
     "seo_early_access_desc": {
       "comment": "A description for the \"Early access to new features\" FotMob+ feature.",
       "english": "Be the first to try FotMob’s latest updates.",
@@ -9376,6 +9446,11 @@
       "comment": "Text for button that opens the \"edit user name\"-dialogue.",
       "english": "Edit name",
       "value": "Editar nome"
+    },
+    "seo_enter_lineup_name": {
+      "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder.",
+      "english": "Enter lineup name",
+      "value": "Insira o nome da escalação"
     },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
@@ -9556,6 +9631,11 @@
       "english": "Join FotMob+ for %@ / year",
       "value": "Assine o FotMob+ por %@ ao ano"
     },
+    "seo_league_added_to_following": {
+      "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
+      "english": "League added to Following",
+      "value": "Liga adicionada aos \"Seguidos\""
+    },
     "seo_league_match": {
       "comment": "Text explaining that the the current match is a match in the given league or competition.",
       "english": "This is a %1$@ match.",
@@ -9566,10 +9646,20 @@
       "english": "This is %1$@ of the %2$@.",
       "value": "Este é o %1$@ do %2$@."
     },
+    "seo_league_removed_from_following": {
+      "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
+      "english": "League removed from Following",
+      "value": "Liga removida dos \"Seguidos\""
+    },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
       "english": "Lifetime supporter",
       "value": "Torcedor vitalício"
+    },
+    "seo_lineup_builder": {
+      "comment": "Headline for a lineup builder for football teams.",
+      "english": "Lineup Builder",
+      "value": "Criador de Escalação"
     },
     "seo_link_copied_to_clipboard": {
       "comment": "Text for the toast dialogue that pops up when the league invite link is copied to clipboard.",
@@ -9786,6 +9876,16 @@
       "english": "Predict. Play. Prevail.",
       "value": "Prevê. Joga. Ganha."
     },
+    "seo_player_added_to_following": {
+      "comment": "Pop up after clicking follow on a player. See translation for \"player,match_added_to_following\"",
+      "english": "Player added to Following",
+      "value": "Jogador adicionado aos \"Seguidos\""
+    },
+    "seo_player_removed_from_following": {
+      "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
+      "english": "Player removed from Following",
+      "value": "Jogador removido dos \"Seguidos\""
+    },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
       "english": "Started",
@@ -9820,6 +9920,16 @@
       "comment": "A label for a player that plays on the Wing like Saka on the Right wing.",
       "english": "Winger",
       "value": "Ponta"
+    },
+    "seo_pre_fill_lineup": {
+      "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder.",
+      "english": "Pre-fill lineup",
+      "value": "Preencher escalação"
+    },
+    "seo_pre_fill_with_popular_teams": {
+      "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder with popular football teams.",
+      "english": "Pre-fill with popular teams",
+      "value": "Preencher com times populares"
     },
     "seo_predict_edit_until_kick_off": {
       "comment": "Text for the second step in the predictor game, to explain that you can edit your predictions until the match starts.",
@@ -9860,6 +9970,16 @@
       "comment": "Title for the dialogue where the user can choose their display name in the predictor game, for privacy.",
       "english": "Privacy",
       "value": "Privacidade"
+    },
+    "seo_q1of16finals": {
+      "comment": "Indicator in a table who qualifies for the 1/16 Finals (Round of 32). See [roundof32].",
+      "english": "Qualification to 1/16 Finals",
+      "value": "Classificação para os Dezesseis-avos-de-final"
+    },
+    "seo_q1of8finals": {
+      "comment": "Indicator in a table who qualifies for the 1/8 Finals (Round of 16). See [roundof16].",
+      "english": "Qualification to 1/8 Finals",
+      "value": "Classificação para as Oitavas-de-final"
     },
     "seo_random_draw": {
       "comment": "A header indicating matches that have been drawn as part of the random draw deciding who will meet in the playoff. Not to be confused with two teams that plays a match that ends in a draw!",
@@ -10337,6 +10457,11 @@
       "english": "Guess results and compete against friends",
       "value": "Adivinhe os resultados e desafie seus amigos"
     },
+    "seo_suggested_players": {
+      "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",
+      "english": "Suggested players",
+      "value": "Jogadores sugeridos"
+    },
     "seo_support_fotmob": {
       "comment": "One of FotMob+ features",
       "english": "Support FotMob",
@@ -10347,10 +10472,20 @@
       "english": "Help support the ongoing development of FotMob.",
       "value": "Ajude a apoiar o desenvolvimento contínuo do FotMob."
     },
+    "seo_team_added_to_following": {
+      "comment": "Pop up after clicking follow on a team. See translation for \"team,match_added_to_following\"",
+      "english": "Team added to Following",
+      "value": "Time adicionado aos \"Seguidos\""
+    },
     "seo_team_rating": {
       "comment": "Average team rating in lineup.",
       "english": "Team rating",
       "value": "Nota do time"
+    },
+    "seo_team_removed_from_following": {
+      "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
+      "english": "Team removed from Following",
+      "value": "Time removido dos \"Seguidos\""
     },
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
@@ -10430,6 +10565,11 @@
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",
       "value": "Melhores times em 3º lugar"
+    },
+    "seo_template_promotion_group": {
+      "comment": "A group name in a tournament. Like Promotion group A. We will concatinate the string with the group number like A or B. See template_word_group",
+      "english": "Promotion Group",
+      "value": "Grupo de Promoção"
     },
     "seo_template_word_division": {
       "comment": "A part of a league. Like \"1. division\" or \"2. division\".",
