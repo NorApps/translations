@@ -7169,7 +7169,7 @@
     },
     "notifications_alert_PenaltiesAreHappening": {
       "english": "%@ %@-%@ %@\\nPenalty shootout underway!",
-      "value": "%@ %@-%@ %@\\nTirs au buts en cours !"
+      "value": "%@ %@-%@ %@\\nTirs au but en cours !"
     },
     "notifications_alert_Postponed": {
       "english": "%@ %@-%@ %@\\nMatch is postponed",
