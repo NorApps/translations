@@ -7313,6 +7313,10 @@
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue. And as a description for mail.",
       "value": "Bug"
     },
+    "seo_build_your_own_xi": {
+      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi].",
+      "value": "Build your own XI"
+    },
     "seo_build_your_xi": {
       "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
       "value": "Build your XI"
@@ -7341,8 +7345,20 @@
       "comment": "Title for section listing competitions in the predictor game.",
       "value": "Competitions"
     },
+    "seo_copied_link_web": {
+      "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
+      "value": "Copied!"
+    },
+    "seo_copied_to_clipboard": {
+      "comment": "toast text after lineup has been successfully copied. see [copied_link_web].",
+      "value": "Copied to clipboard"
+    },
     "seo_copy_link": {
       "comment": "Text for the button that copies the league invite link to clipboard.",
+      "value": "Copy link"
+    },
+    "seo_copy_link_web": {
+      "comment": "Text in a button which will copy a link of linup builder team.",
       "value": "Copy link"
     },
     "seo_correct_outcome": {
@@ -7408,6 +7424,14 @@
     "seo_exclusive_app_icons_desc": {
       "comment": "A description for the \"Exclusive app icons\" FotMob+ feature.",
       "value": "Customize your homescreen with alternate app icons."
+    },
+    "seo_expected_return_date_about_1-2_weeks": {
+      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "value": "About 1-2 weeks"
+    },
+    "seo_expected_return_date_about_a_week": {
+      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "value": "About a week"
     },
     "seo_expires_in": {
       "comment": "Used to indicate when the subscription is expiring. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -7562,6 +7586,14 @@
       "comment": "Headline for a lineup builder for football teams.",
       "value": "Lineup Builder"
     },
+    "seo_lineup_saved": {
+      "comment": "toast text after lineup has been saved. see [saved_lineup].",
+      "value": "Lineup saved"
+    },
+    "seo_lineups_stored_on_this_device": {
+      "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
+      "value": "Lineups stored on this device"
+    },
     "seo_link_copied_to_clipboard": {
       "comment": "Text for the toast dialogue that pops up when the league invite link is copied to clipboard.",
       "value": "Link copied to clipboard"
@@ -7613,6 +7645,10 @@
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
       "value": "No matches today"
+    },
+    "seo_no_saved_lineups_infotext": {
+      "comment": "Information text in component containing list of saved lineups for the lineup builder, when the users has not saved any lineups yet.",
+      "value": "You have not saved any lineups yet. Create a squad and save it to keep it here."
     },
     "seo_no_subscriptions_found": {
       "comment": "Used in toast notification to tell the user that no active FotMob+ subscription where found on their account.",
@@ -7822,6 +7858,10 @@
       "comment": "A header indicating matches that have been drawn as part of the random draw deciding who will meet in the playoff. Not to be confused with two teams that plays a match that ends in a draw!",
       "value": "Draw"
     },
+    "seo_recent_player": {
+      "comment": "Recent player used in the lineup builder.",
+      "value": "Recent"
+    },
     "seo_rematch": {
       "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
       "value": "Rematch"
@@ -7888,6 +7928,18 @@
     "seo_save": {
       "comment": "Outcome after a shot that indicates that the keeper made a save",
       "value": "Save"
+    },
+    "seo_save_lineup": {
+      "comment": "Text in a button indicating to save the completed lineup builder.",
+      "value": "Save lineup"
+    },
+    "seo_saved_lineup": {
+      "comment": "Text in a button indicating that the completed lineup builder has been saved. see [save_lineup].",
+      "value": "Saved!"
+    },
+    "seo_saved_lineups": {
+      "comment": "Header text in component containing list of saved lineups for the lineup builder.",
+      "value": "Saved lineups"
     },
     "seo_saved_penalties_in_shootout": {
       "comment": "Stat for the number of penalties saved in a penalty shootout.",
@@ -8346,6 +8398,10 @@
     },
     "seo_troubleshooting_help_text": {
       "value": "The app will now run some automatic tests to troubleshoot your issue. Once it is finished, submit the test and we will review it."
+    },
+    "seo_try_our_lineup_builder": {
+      "comment": "subheadline for promotion component to try out the lineup builder. See [lineup_builder].",
+      "value": "Try our lineup builder"
     },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",

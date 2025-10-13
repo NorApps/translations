@@ -9343,6 +9343,11 @@
       "english": "Bug",
       "value": "Bug"
     },
+    "seo_build_your_own_xi": {
+      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi].",
+      "english": "Build your own XI",
+      "value": "Buat XI Anda Sendiri"
+    },
     "seo_build_your_xi": {
       "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
       "english": "Build your XI",
@@ -9378,8 +9383,23 @@
       "english": "Competitions",
       "value": "Kompetisi"
     },
+    "seo_copied_link_web": {
+      "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
+      "english": "Copied!",
+      "value": "Tersalin!"
+    },
+    "seo_copied_to_clipboard": {
+      "comment": "toast text after lineup has been successfully copied. see [copied_link_web].",
+      "english": "Copied to clipboard",
+      "value": "Disalin ke papan klip"
+    },
     "seo_copy_link": {
       "comment": "Text for the button that copies the league invite link to clipboard.",
+      "english": "Copy link",
+      "value": "Salin tautan"
+    },
+    "seo_copy_link_web": {
+      "comment": "Text in a button which will copy a link of linup builder team.",
       "english": "Copy link",
       "value": "Salin tautan"
     },
@@ -9462,6 +9482,16 @@
       "comment": "A description for the \"Exclusive app icons\" FotMob+ feature.",
       "english": "Customize your homescreen with alternate app icons.",
       "value": "Sesuaikan layar utama dengan ikon aplikasi alternatif."
+    },
+    "seo_expected_return_date_about_1-2_weeks": {
+      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "english": "About 1-2 weeks",
+      "value": "Sekitar 1-2 minggu"
+    },
+    "seo_expected_return_date_about_a_week": {
+      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "english": "About a week",
+      "value": "Sekitar satu minggu"
     },
     "seo_expires_in": {
       "comment": "Used to indicate when the subscription is expiring. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -9656,6 +9686,16 @@
       "english": "Lineup Builder",
       "value": "Pembuat Susunan Pemain"
     },
+    "seo_lineup_saved": {
+      "comment": "toast text after lineup has been saved. see [saved_lineup].",
+      "english": "Lineup saved",
+      "value": "Susunan pemain disimpan"
+    },
+    "seo_lineups_stored_on_this_device": {
+      "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
+      "english": "Lineups stored on this device",
+      "value": "Susunan pemain tersimpan di perangkat ini"
+    },
     "seo_link_copied_to_clipboard": {
       "comment": "Text for the toast dialogue that pops up when the league invite link is copied to clipboard.",
       "english": "Link copied to clipboard",
@@ -9720,6 +9760,11 @@
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
       "english": "No matches today",
       "value": "Tidak ada pertandingan hari ini"
+    },
+    "seo_no_saved_lineups_infotext": {
+      "comment": "Information text in component containing list of saved lineups for the lineup builder, when the users has not saved any lineups yet.",
+      "english": "You have not saved any lineups yet. Create a squad and save it to keep it here.",
+      "value": "Anda belum menyimpan susunan pemain. Buat skuad dan simpan untuk menyimpannya di sini."
     },
     "seo_no_subscriptions_found": {
       "comment": "Used in toast notification to tell the user that no active FotMob+ subscription where found on their account.",
@@ -9981,6 +10026,11 @@
       "english": "Draw",
       "value": "Undian"
     },
+    "seo_recent_player": {
+      "comment": "Recent player used in the lineup builder.",
+      "english": "Recent",
+      "value": "Terbaru"
+    },
     "seo_rematch": {
       "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
       "english": "Rematch",
@@ -10066,6 +10116,21 @@
       "comment": "Outcome after a shot that indicates that the keeper made a save",
       "english": "Save",
       "value": "Penyelamatan"
+    },
+    "seo_save_lineup": {
+      "comment": "Text in a button indicating to save the completed lineup builder.",
+      "english": "Save lineup",
+      "value": "Simpan susunan pemain"
+    },
+    "seo_saved_lineup": {
+      "comment": "Text in a button indicating that the completed lineup builder has been saved. see [save_lineup].",
+      "english": "Saved!",
+      "value": "Disimpan!"
+    },
+    "seo_saved_lineups": {
+      "comment": "Header text in component containing list of saved lineups for the lineup builder.",
+      "english": "Saved lineups",
+      "value": "Susunan Pemain Tersimpan"
     },
     "seo_saved_penalties_in_shootout": {
       "comment": "Stat for the number of penalties saved in a penalty shootout.",
@@ -10640,6 +10705,11 @@
     "seo_troubleshooting_help_text": {
       "english": "The app will now run some automatic tests to troubleshoot your issue. Once it is finished, submit the test and we will review it.",
       "value": "Aplikasi tersebut akan menjalankan beberapa uji otomatis untuk menyelesaikan masalah Anda. Setelah masalah selesai, kirim uji tersebut dan kami akan meninjaunya."
+    },
+    "seo_try_our_lineup_builder": {
+      "comment": "subheadline for promotion component to try out the lineup builder. See [lineup_builder].",
+      "english": "Try our lineup builder",
+      "value": "Coba pembuat susunan pemain kami"
     },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",

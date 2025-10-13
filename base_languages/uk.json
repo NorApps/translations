@@ -9340,6 +9340,11 @@
       "english": "Bug",
       "value": "Баг"
     },
+    "seo_build_your_own_xi": {
+      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi].",
+      "english": "Build your own XI",
+      "value": "Створіть свій власний XI"
+    },
     "seo_build_your_xi": {
       "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
       "english": "Build your XI",
@@ -9364,6 +9369,21 @@
       "comment": "Headline to clear the lineup created in the lineup builder for football team.",
       "english": "Clear lineup",
       "value": "Очистити склад"
+    },
+    "seo_copied_link_web": {
+      "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
+      "english": "Copied!",
+      "value": "Скопійовано!"
+    },
+    "seo_copied_to_clipboard": {
+      "comment": "toast text after lineup has been successfully copied. see [copied_link_web].",
+      "english": "Copied to clipboard",
+      "value": "Скопійовано в буфер"
+    },
+    "seo_copy_link_web": {
+      "comment": "Text in a button which will copy a link of linup builder team.",
+      "english": "Copy link",
+      "value": "Копіювати посилання"
     },
     "seo_daily_summary": {
       "comment": "Title of AI generated summary card found in team overview.",
@@ -9424,6 +9444,16 @@
       "comment": "A description for the \"Exclusive app icons\" FotMob+ feature.",
       "english": "Customize your homescreen with alternate app icons.",
       "value": "Налаштуйте домашній екран за допомогою альтернативних іконок програм."
+    },
+    "seo_expected_return_date_about_1-2_weeks": {
+      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "english": "About 1-2 weeks",
+      "value": "Приблизно 1-2 тижні"
+    },
+    "seo_expected_return_date_about_a_week": {
+      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "english": "About a week",
+      "value": "Приблизно тиждень"
     },
     "seo_expires_in": {
       "comment": "Used to indicate when the subscription is expiring. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -9608,6 +9638,16 @@
       "english": "Lineup Builder",
       "value": "Конструктор складу"
     },
+    "seo_lineup_saved": {
+      "comment": "toast text after lineup has been saved. see [saved_lineup].",
+      "english": "Lineup saved",
+      "value": "Склад збережено"
+    },
+    "seo_lineups_stored_on_this_device": {
+      "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
+      "english": "Lineups stored on this device",
+      "value": "Склади збережені на цьому пристрої"
+    },
     "seo_manage": {
       "comment": "Used for manage button on the FotMob+ member page.",
       "english": "Manage",
@@ -9662,6 +9702,11 @@
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
       "english": "No matches today",
       "value": "Сьогодні немає жодних матчів"
+    },
+    "seo_no_saved_lineups_infotext": {
+      "comment": "Information text in component containing list of saved lineups for the lineup builder, when the users has not saved any lineups yet.",
+      "english": "You have not saved any lineups yet. Create a squad and save it to keep it here.",
+      "value": "Ви ще не зберегли жодної розстановки. Створіть команду та збережіть її, щоб вона залишалася тут."
     },
     "seo_no_subscriptions_found": {
       "comment": "Used in toast notification to tell the user that no active FotMob+ subscription where found on their account.",
@@ -9883,6 +9928,11 @@
       "english": "Draw",
       "value": "Стики"
     },
+    "seo_recent_player": {
+      "comment": "Recent player used in the lineup builder.",
+      "english": "Recent",
+      "value": "Недавній"
+    },
     "seo_rematch": {
       "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
       "english": "Rematch",
@@ -9963,6 +10013,21 @@
       "comment": "Outcome after a shot that indicates that the keeper made a save",
       "english": "Save",
       "value": "Сейв"
+    },
+    "seo_save_lineup": {
+      "comment": "Text in a button indicating to save the completed lineup builder.",
+      "english": "Save lineup",
+      "value": "Зберегти склад"
+    },
+    "seo_saved_lineup": {
+      "comment": "Text in a button indicating that the completed lineup builder has been saved. see [save_lineup].",
+      "english": "Saved!",
+      "value": "Збережено!"
+    },
+    "seo_saved_lineups": {
+      "comment": "Header text in component containing list of saved lineups for the lineup builder.",
+      "english": "Saved lineups",
+      "value": "Збережені склади"
     },
     "seo_saved_penalties_in_shootout": {
       "comment": "Stat for the number of penalties saved in a penalty shootout.",
@@ -10517,6 +10582,11 @@
     "seo_troubleshooting_help_text": {
       "english": "The app will now run some automatic tests to troubleshoot your issue. Once it is finished, submit the test and we will review it.",
       "value": "Додаток виконає ряд автоматичних перевірок для виявлення Вашої помилки. Після завершення надішліть нам результати тесту і ми перевіримо його."
+    },
+    "seo_try_our_lineup_builder": {
+      "comment": "subheadline for promotion component to try out the lineup builder. See [lineup_builder].",
+      "english": "Try our lineup builder",
+      "value": "Спробуйте наш конструктор складу"
     },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",
