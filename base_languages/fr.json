@@ -1080,7 +1080,7 @@
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
       "english": "Miss",
-      "value": "Coup raté"
+      "value": "Tir non cadré"
     },
     "accessibility_more_tab": {
       "comment": "Text shown under an icon to show the user that more info can be found under the 'more' tab in the app.",
@@ -6768,7 +6768,7 @@
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
-      "value": "Composition d'équipe confirmé"
+      "value": "Composition confirmée"
     },
     "new_login_with": {
       "comment": "Header asking the users to log in with Facebook or Google+",
@@ -7966,7 +7966,7 @@
     },
     "notifications_injury_124": {
       "english": "Sprained knee injury",
-      "value": "Genou foulé"
+      "value": "Entorse du genou"
     },
     "notifications_injury_125": {
       "english": "Spinal cord injury",
@@ -8086,7 +8086,7 @@
     },
     "notifications_injury_38": {
       "english": "Sprained ankle",
-      "value": "Cheville foulée"
+      "value": "Entorse de la cheville"
     },
     "notifications_injury_39": {
       "english": "Broken hip",
@@ -8098,7 +8098,7 @@
     },
     "notifications_injury_41": {
       "english": "Sprained foot",
-      "value": "Pied foulé"
+      "value": "Entorse du pied"
     },
     "notifications_injury_42": {
       "english": "Hamstring injury",
@@ -8130,11 +8130,11 @@
     },
     "notifications_injury_52": {
       "english": "Sprained finger",
-      "value": "Doigt foulé"
+      "value": "Entorse du doigt"
     },
     "notifications_injury_53": {
       "english": "Sprained hand",
-      "value": "Main foulée"
+      "value": "Entorse de la main"
     },
     "notifications_injury_6": {
       "english": "Injured",
@@ -8170,7 +8170,7 @@
     },
     "notifications_injury_75": {
       "english": "Sprained leg",
-      "value": "Jambe foulée"
+      "value": "Entorse de la jambe"
     },
     "notifications_injury_76": {
       "english": "Cruciate ligament injury",
@@ -8210,7 +8210,7 @@
     },
     "notifications_injury_84": {
       "english": "Sprained arm",
-      "value": "Bras foulé"
+      "value": "Entorse du bras"
     },
     "notifications_injury_85": {
       "english": "Head injury",
@@ -8250,7 +8250,7 @@
     },
     "notifications_injury_94": {
       "english": "Groin strain",
-      "value": "Aisne foulée"
+      "value": "Élongation de l'aine"
     },
     "notifications_injury_95": {
       "english": "Malaria",
