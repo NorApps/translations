@@ -197,7 +197,7 @@
     "accessibility_cookie_policy": {
       "comment": "Text shown on link that redirects to the page that shows the cookie policy document.",
       "english": "Cookie policy",
-      "value": "Politique de cookies"
+      "value": "Politique relative aux cookies"
     },
     "accessibility_could_not_connect": {
       "english": "Could not connect to phone",
@@ -1313,7 +1313,7 @@
     "accessibility_onboarding_leagues_search_placeholder": {
       "comment": "Placeholder text for search field in leagues onboarding screen.",
       "english": "Search leagues",
-      "value": "Chercher des ligues"
+      "value": "Rechercher des ligues"
     },
     "accessibility_onboarding_manage_your_leagues": {
       "comment": "A header for the general onboarding for the new league sorting algorithm (that just informs the user about changes)",
@@ -1751,7 +1751,7 @@
     },
     "accessibility_sharepredictionspopup_copydescription": {
       "english": "Copy this link if you want to share with Messenger, E-mail or SMS.",
-      "value": "Copiez ce lien pour le partager via Messenger, e-mail ou SMS."
+      "value": "Copiez ce lien si vous souhaitez le partager via Messenger, e-mail ou SMS."
     },
     "accessibility_sharepredictionspopup_hint": {
       "comment": "Default text to share along with link to prediction on social media",
@@ -1858,7 +1858,7 @@
     "accessibility_sponsored_by": {
       "comment": "Text telling the user what the company with the adjacent logo sponsored this thing",
       "english": "Sponsored by",
-      "value": "Sponsor :"
+      "value": "Sponsorisé par"
     },
     "accessibility_starting_eleven": {
       "comment": "The 11 players who start a match",
@@ -2040,7 +2040,7 @@
     "accessibility_stepsheader_step7_title": {
       "comment": "Title of page telling the user his/her perdition is ready",
       "english": "All set!",
-      "value": "C'est bon !"
+      "value": "Tout est prêt !"
     },
     "accessibility_stepsheader_submit": {
       "english": "Submit",
@@ -2128,7 +2128,7 @@
     "accessibility_tap_to_make_changes": {
       "comment": "Used for subtitle on toast when settings alerts on match in matchfacts.",
       "english": "Tap to make changes",
-      "value": "Touchez pour modifier"
+      "value": "Appuyez pour modifier"
     },
     "accessibility_team_of_the_week": {
       "comment": "Header text for the Team of the week panel.",
@@ -2358,7 +2358,7 @@
     "accessibility_use_standalone": {
       "comment": "We are asking the user to use the watch app without connecting the phone app. This is a mode we call \"Standalone\". If it is difficult to translate then translate it to \"Use without phone\".",
       "english": "Use as standalone",
-      "value": "Utiliser en autonome"
+      "value": "Utiliser de manière autonome"
     },
     "accessibility_use_standalone_desc": {
       "comment": "We are asking the user to use the watch app without connecting the phone app. This is a mode we call \"Standalone\".",
@@ -2535,7 +2535,7 @@
     },
     "common_adfree_title": {
       "english": "Go Premium!",
-      "value": "Supporter FotMob"
+      "value": "Devenir Premium"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2622,7 +2622,7 @@
     "common_allow_tracking_body": {
       "comment": "The description for the popup asking for user's permission to track data",
       "english": "This lets us show you personalized ads, which keeps FotMob free for you.",
-      "value": "Cela nous permet de vous montrer des publicités personnalisées, ce qui permet de garder FotMob gratuit pour vous."
+      "value": "Cela nous permet de vous montrer des publicités personnalisées, ce qui permet à FotMob de rester gratuit pour vous."
     },
     "common_allow_tracking_confirmation_body": {
       "comment": "Extra description in the system-dialogue for usage-tracking",
@@ -2632,7 +2632,7 @@
     "common_allow_tracking_header": {
       "comment": "The header for the popup asking for user's permission to track data",
       "english": "Please tap \"Allow tracking\" on the next screen",
-      "value": "Veuillez toucher « Autoriser le suivi » à l'écran suivant"
+      "value": "Veuillez appuyer sur \"Autoriser le suivi\" sur l'écran suivant."
     },
     "common_always": {
       "english": "Always",
@@ -2674,7 +2674,7 @@
     "common_autoplay": {
       "comment": "Indicates that the videos will autoplay (play automatically when viewing them)",
       "english": "Autoplay",
-      "value": "Lecture auto"
+      "value": "Lecture automatique"
     },
     "common_autoplay_always": {
       "english": "Mobile data & Wi-Fi",
@@ -2964,7 +2964,7 @@
     },
     "common_commentary_feature_description4": {
       "english": "Feedback on commentaries are very welcome!",
-      "value": "Nous apprécions les retours sur les commentaires !"
+      "value": "Vos commentaires sont les bienvenus !"
     },
     "common_commentary_not_started": {
       "english": "The audio commentary starts about 5 minutes before the match. Please try again later.",
@@ -2986,7 +2986,7 @@
     "common_compare_player_explained": {
       "comment": "Explanation for a button that compares two players",
       "english": "You can click here to compare the current player against another player",
-      "value": "Touchez ici pour comparer le joueur actuel avec un autre joueur"
+      "value": "Vous pouvez cliquer ici pour comparer le joueur actuel à un autre joueur"
     },
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
@@ -3016,7 +3016,7 @@
     "common_contract_extension": {
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
-      "value": "Renouvellement de contrat"
+      "value": "Prolongation de contrat"
     },
     "common_copa2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3131,7 +3131,7 @@
     },
     "common_disclaimer_bet365": {
       "english": "Odds promotions are 18+.\\nRead more on BeGambleAware.org.",
-      "value": "Les promotions sur les cotes sont 18+.\\nPlus d'informations sur BeGambleAware.org."
+      "value": "Les promotions sur les cotes sont réservées aux personnes âgées de plus de 18 ans.\\nPour en savoir plus, rendez-vous sur BeGambleAware.org."
     },
     "common_double_chance": {
       "comment": "Odds type that indicates that you can bet on two outcomes. So you can bet one home and draw in one bet. https://www.online-betting.me.uk/betting-glossary/double-chance.php",
@@ -3154,12 +3154,12 @@
     "common_drawer_close": {
       "comment": "Closes the left navigation menu",
       "english": "Close navigation drawer",
-      "value": "Fermer le tiroir navigation"
+      "value": "Fermer le menu latéral"
     },
     "common_drawer_open": {
       "comment": "Opens the left navigation menu",
       "english": "Open navigation drawer",
-      "value": "Ouverture du tiroir navigation"
+      "value": "Ouvrir le menu latéral"
     },
     "common_drawn": {
       "english": "D",
@@ -3191,7 +3191,7 @@
     "common_edit_match_alerts": {
       "comment": "Button caption for changing alerts for all teams. Please keep this short as possible",
       "english": "Edit alerts",
-      "value": "Ajouter / supprimer des alertes"
+      "value": "Modifier les alertes"
     },
     "common_effective_clearance_subtitle": {
       "english": "Total clearances",
@@ -3218,7 +3218,7 @@
     "common_empty_placeholder_network_failure": {
       "comment": "Empty placeholder for live matches, if there's no connection",
       "english": "Network failure",
-      "value": "Erreur réseau"
+      "value": "Erreur de réseau"
     },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
@@ -3271,12 +3271,12 @@
     },
     "common_enable_push": {
       "english": "Enable push notifications",
-      "value": "Activer les notifications push."
+      "value": "Activer les notifications push"
     },
     "common_enable_push_description": {
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
       "english": "Enable push notifications to get breaking news and match updates",
-      "value": "Activer les notifications push pour obtenir les dernières infos et les actus des matchs"
+      "value": "Activez les notifications push pour recevoir les dernières actualités et les mises à jour des matchs"
     },
     "common_enable_push_question": {
       "english": "Do you want to enable push notifications?",
@@ -3285,7 +3285,7 @@
     "common_enable_tv_schedules": {
       "comment": "Settings item to enable/disable TV Guide",
       "english": "Enable TV schedules",
-      "value": "Activer les programmes télé"
+      "value": "Activer les programmes TV"
     },
     "common_end_of_match": {
       "english": "final",
@@ -3301,7 +3301,7 @@
     },
     "common_error_push": {
       "english": "Error registering push notification, please try again",
-      "value": "Erreur lors de l'activation des notification push. Réessayez."
+      "value": "Erreur lors de l'enregistrement de la notification push, veuillez réessayer."
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
@@ -3444,7 +3444,7 @@
     "common_failure_re_sign_in": {
       "comment": "On failure in sync, we ask user to re-sign-in again - this is a button's label",
       "english": "Re-sign in",
-      "value": "Se connecter de nouveau"
+      "value": "Se reconnecter"
     },
     "common_fantasy": {
       "comment": "Button label indicating you can click to toggle on showing of fantasy score",
@@ -3505,7 +3505,7 @@
     "common_filter_tv_schedule": {
       "comment": "Page header for TV Guide filter",
       "english": "Filter TV schedules",
-      "value": "Filtrer les programmes télé"
+      "value": "Filtrer les programmes TV"
     },
     "common_find_leagues": {
       "comment": "Placeholder for the filter in the search-box in the tournaments list",
@@ -3772,7 +3772,7 @@
     "common_go_to_the_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predict at fotmob.com",
-      "value": "Prédire sur fotmob.com"
+      "value": "Prédisez sur fotmob.com"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4013,7 +4013,7 @@
     },
     "common_in_app_purchase": {
       "english": "Remove ads (one time payment)",
-      "value": "Supprimer les pubs (paiement unique)"
+      "value": "Supprimer les publicités (paiement unique)"
     },
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
@@ -4159,7 +4159,7 @@
     },
     "common_last_updated": {
       "english": "Last updated",
-      "value": "Actualisée"
+      "value": "Dernière mise à jour"
     },
     "common_last_x_months": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 2 months\"",
@@ -4179,7 +4179,7 @@
     "common_latest_news_content_description": {
       "comment": "Text used as contentDescription for a Siri suggestion",
       "english": "Get up to date on the latest news, transfers and rumors!",
-      "value": "Tenez-vous au courant des actualités, des transferts et des rumeurs !"
+      "value": "Restez informé des dernières actualités, transferts et rumeurs !"
     },
     "common_latest_news_suggested_invocation": {
       "comment": "This is what we suggest the user to use as a voice command to summon latest news for a specific team.",
@@ -4347,7 +4347,7 @@
     "common_matches_not_determined": {
       "comment": "Placeholder for brackets rounds, which have not been drawen yet",
       "english": "Next round matches are yet to be determined",
-      "value": "Les matchs du tour suivant n'ont pas encore été déterminés"
+      "value": "Les matchs du prochain tour restent à déterminer"
     },
     "common_matches_on_bench": {
       "english": "Matches on bench",
@@ -4380,7 +4380,7 @@
     },
     "common_maximize_all": {
       "english": "Maximize all",
-      "value": "Tout développer"
+      "value": "Optimiser tout"
     },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
@@ -4618,7 +4618,7 @@
     },
     "common_no_tv_selected": {
       "english": "No TV schedules",
-      "value": "Aucune diffusion TV"
+      "value": "Pas de programmes TV"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
@@ -4631,7 +4631,7 @@
     "common_not_native_language": {
       "comment": "A message saying we don't have the live ticker in the users language. Like we may have the ticker in German while the user only speaks English.",
       "english": "Sorry but we don't have this commentary in your language",
-      "value": "Désolés, ce commentaire n'existe pas dans votre langue"
+      "value": "Désolé, mais nous ne disposons pas de ce commentaire dans votre langue."
     },
     "common_not_now": {
       "english": "Not now",
@@ -4655,7 +4655,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Ajuster le volume des notifications de but et changer les règles d'affichage des notifications"
+      "value": "Ajustez le volume des notifications de score et modifiez le moment où elles s'affichent. Modifiez le fuseau horaire."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -4680,7 +4680,7 @@
     },
     "common_notifications_off": {
       "english": "Turn off notifications",
-      "value": "Arret des notifications"
+      "value": "Désactiver les notifications"
     },
     "common_notifications_on": {
       "english": "Turn on notifications",
@@ -5066,11 +5066,11 @@
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
-      "value": "Predictor"
+      "value": "Prédicteur"
     },
     "common_predictor_text": {
       "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "Nous avons fait nos pronostics pour la coupe du monde. Faites les vôtres sur <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> et rivalisez avec vos amis !"
+      "value": "Nous avons fait nos pronostics pour la Coupe du Monde. Faites les vôtres sur <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> et rivalisez avec vos amis !"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5141,7 +5141,7 @@
     },
     "common_rate_fotmob_desc": {
       "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
-      "value": "Aimez-vous FotMob? Cela voudrait dire beaucoup pour nous si vous avez pris une minute pour noter!"
+      "value": "Vous aimez FotMob ? Cela nous ferait très plaisir si vous pouviez prendre une minute pour noter l'application !"
     },
     "common_rating": {
       "comment": "We give the players a rating from 1-10 based on their performance. This is what we call Rating.",
@@ -5164,7 +5164,7 @@
     "common_recent_news": {
       "comment": "Label for list of the latest news related to the team in the Team Profile",
       "english": "Recent news",
-      "value": "Actus récentes"
+      "value": "Actualités récentes"
     },
     "common_recoveries": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries",
@@ -5197,7 +5197,7 @@
     },
     "common_remove_league": {
       "english": "Remove League",
-      "value": "Deselectionner le championnat"
+      "value": "Supprimer la ligue"
     },
     "common_reset": {
       "english": "Reset",
@@ -5215,7 +5215,7 @@
     },
     "common_resync": {
       "english": "Re-sync purchases",
-      "value": "Synchroniser les achats"
+      "value": "Resynchroniser les achats"
     },
     "common_resync_desc": {
       "english": "If you have previously bought gold or silver, click here",
@@ -5430,7 +5430,7 @@
     "common_select_teams_to_follow": {
       "comment": "Description label to explain the concept of following over the WC2018",
       "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "Sélectionnez votre équipe nationale et d'autres équipes à suivre pendant la Coupe du Monde"
+      "value": "Sélectionnez votre équipe nationale et les autres équipes que vous souhaitez suivre pendant la Coupe du Monde."
     },
     "common_select_your_team": {
       "comment": "Onboarding your favorite team",
@@ -5445,7 +5445,7 @@
     "common_set_up_now": {
       "comment": "A label on the button to start league-onboarding (add teams, players to follow)",
       "english": "Set up now",
-      "value": "Paramétrer"
+      "value": "Configurer maintenant"
     },
     "common_settings": {
       "english": "Settings",
@@ -5498,7 +5498,7 @@
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
-      "value": "Nous pouvons conserver vos paramètres en sécurité pour vous permettre de les synchroniser entre les appareils ou de les récupérer lorsque vous utilisez un nouvel appareil."
+      "value": "Nous pouvons conserver vos paramètres en toute sécurité afin que vous puissiez les synchroniser sur tous vos appareils ou les récupérer lorsque vous achetez un nouvel appareil."
     },
     "common_sign_in_ios": {
       "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
@@ -5653,7 +5653,7 @@
     "common_supporter_club_pitch_3": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
       "english": "• Remove app ads (we cannot control ads displayed on third party news sites you visit).",
-      "value": "• Suppression des annonces de l'application (nous ne pouvons pas contrôler les annonces affichées sur les sites d'actualités tiers que vous visitez)."
+      "value": "• Supprime les publicités de l'application (nous ne pouvons pas contrôler les publicités affichées sur les sites d'actualités tiers que vous visitez)."
     },
     "common_surface": {
       "comment": "Type of grass that the football field has. Can be translated as \"Pitch type\" or \"Surface type\" as well. Options can be grass or artificial.",
@@ -5719,7 +5719,7 @@
     "common_tap_to_compare": {
       "comment": "Onboarding user to the player's stats in the match facts. The placeholder is the name of the button.",
       "english": "Tap %@ \\nto compare player stats",
-      "value": "Touchez %@ \\npour comparer les statistiques des joueurs"
+      "value": "Appuyez sur %@ \\npour comparer les statistiques des joueurs"
     },
     "common_team": {
       "english": "Team",
@@ -5752,7 +5752,7 @@
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "un de l'équipe a permis à des alertes, vous devez désactiver les alertes via la page d'équipe"
+      "value": "Un membre de l'équipe a activé les alertes. Vous devez désactiver les alertes via la page de l'équipe"
     },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
@@ -5809,7 +5809,7 @@
     "common_theme_auto": {
       "comment": "Option to choose the Default theme for the app",
       "english": "System default",
-      "value": "Paramètres par défaut du système"
+      "value": "Valeur par défaut du système"
     },
     "common_theme_classic": {
       "comment": "Name of good ol' classic green FotMob theme",
@@ -5842,17 +5842,17 @@
     },
     "common_timezone_caption": {
       "english": "Choose timezone",
-      "value": "Selectionner fuseau horaire"
+      "value": "Choisissez le fuseau horaire"
     },
     "common_tip_filter_and_sort": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
       "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "Touchez ici %1$@ pour <b>filtrer et trier</b> les ligues"
+      "value": "Appuyez ici %1$@ pour <b>filtrer et trier</b> les ligues"
     },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
-      "value": "Touchez ici %1$@ pour <b>filtrer et trier</b> les ligues"
+      "value": "Appuyez ici %1$@ pour <b>filtrer et trier</b> les ligues"
     },
     "common_title_activity_sort": {
       "english": "Sort",
@@ -5864,7 +5864,7 @@
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
-      "value": "Diffusions TV"
+      "value": "Programmes TV"
     },
     "common_to": {
       "comment": "A label indicating which club the player has transferred to. If Messi joins Manchester United it would read \"To <logo of club> Manchester United\"",
@@ -5882,11 +5882,11 @@
     },
     "common_toggle_favorite": {
       "english": "Set or unset as favorite",
-      "value": "Ou à l'arrêt comme favori"
+      "value": "Définir ou supprimer des favoris"
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
-      "value": "Basculer les notifications"
+      "value": "Activer/désactiver les notifications"
     },
     "common_tomorrow": {
       "english": "Tomorrow",
@@ -5919,11 +5919,11 @@
     "common_top_transfers": {
       "comment": "A label indicating that you want to search only the most important transfers.",
       "english": "Top transfers",
-      "value": "Transferts les plus importants"
+      "value": "Meilleurs transferts"
     },
     "common_topnews": {
       "english": "Top news",
-      "value": "Actus top"
+      "value": "Actualités principales"
     },
     "common_total_votes": {
       "comment": "Total number of votes for a poll on match facts. People can vote if they think home team or away team will win",
@@ -5979,7 +5979,7 @@
     "common_transfer_center_tv_migration": {
       "comment": "A help text informing our users that TV schedules and Transfer Center has moved from a side menu and down to a tab in the interface",
       "english": "TV schedules and Transfer Center have moved here!",
-      "value": "Les programmes télé et le centre des transferts ont été déplacés ici !"
+      "value": "Les programmes TV et le centre des transferts ont été déplacés ici !"
     },
     "common_transfer_enable_all": {
       "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
@@ -6922,7 +6922,7 @@
     },
     "new_remove_ads": {
       "english": "Remove ads",
-      "value": "Retirer les publicitaires"
+      "value": "Retirer les publicités"
     },
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
@@ -7097,7 +7097,7 @@
     "notifications_add_favorite_desc_ipad": {
       "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
       "english": "Tap + to add a favorite team or player",
-      "value": "Touchez + pour ajouter une équipe préférée ou un joueur préféré"
+      "value": "Appuyez sur + pour ajouter une équipe ou un joueur favori"
     },
     "notifications_add_widget": {
       "comment": "Call to action button for user adding widget to home screen.",
@@ -7169,7 +7169,7 @@
     },
     "notifications_alert_PenaltiesAreHappening": {
       "english": "%@ %@-%@ %@\\nPenalty shootout underway!",
-      "value": "%@ %@-%@ %@\\nTir au but en cours !"
+      "value": "%@ %@-%@ %@\\nTirs au buts en cours !"
     },
     "notifications_alert_Postponed": {
       "english": "%@ %@-%@ %@\\nMatch is postponed",
@@ -7300,7 +7300,7 @@
     },
     "notifications_already_a_user": {
       "english": "Already a user?",
-      "value": "Déjà un utilisateur ?"
+      "value": "Vous êtes déjà utilisateur ?"
     },
     "notifications_app_update_message": {
       "comment": "Short message telling user that app an be updated",
@@ -7315,12 +7315,12 @@
     "notifications_are_you_enjoying_app_variant_1": {
       "comment": "Used for rating dialog",
       "english": "Hi, are you enjoying FotMob?",
-      "value": "Salut, tu aimes FotMob ?"
+      "value": "Bonjour, appréciez-vous FotMob ?"
     },
     "notifications_are_you_enjoying_app_variant_2": {
       "comment": "Used for rating dialog",
       "english": "Hi %@! Do you enjoy using FotMob?",
-      "value": "Salut %@ ! Tu aimes utiliser FotMob ?"
+      "value": "Bonjour %@ ! Aimez-vous utiliser FotMob ?"
     },
     "notifications_assist_singular": {
       "english": "Assist",
@@ -7581,7 +7581,7 @@
     "notifications_enable_breaking_news": {
       "comment": "User can enable breaking news alerts",
       "english": "Enable breaking news",
-      "value": "Autoriser les infos cruciales"
+      "value": "Activer les dernières infos"
     },
     "notifications_enable_breaking_news_desc": {
       "comment": "User can enable breaking news alerts",
@@ -7596,7 +7596,7 @@
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
-      "value": "Autoriser les infos sur les transferts"
+      "value": "Activer les infos sur les transferts"
     },
     "notifications_enable_transfer_news_desc": {
       "comment": "User can enable transfer news alerts",
@@ -7938,7 +7938,7 @@
     },
     "notifications_injury_118": {
       "english": "Medial Collateral Ligament injury",
-      "value": "Blessure au ligament collatéral tibial"
+      "value": "Lésion du ligament collatéral médial"
     },
     "notifications_injury_119": {
       "english": "Mouth injury",
@@ -7962,7 +7962,7 @@
     },
     "notifications_injury_123": {
       "english": "Shin splints injury",
-      "value": "Périostite tibiale"
+      "value": "Fasciite tibiale"
     },
     "notifications_injury_124": {
       "english": "Sprained knee injury",
@@ -7970,7 +7970,7 @@
     },
     "notifications_injury_125": {
       "english": "Spinal cord injury",
-      "value": "Lésion médullaire"
+      "value": "Lésion de la moelle épinière"
     },
     "notifications_injury_126": {
       "english": "Bruised ankle",
@@ -7986,7 +7986,7 @@
     },
     "notifications_injury_129": {
       "english": "Nose surgery",
-      "value": "Chirurgie nasale"
+      "value": "Chirurgie du nez"
     },
     "notifications_injury_13": {
       "english": "Broken arm",
@@ -8090,11 +8090,11 @@
     },
     "notifications_injury_39": {
       "english": "Broken hip",
-      "value": "Hanche cassée"
+      "value": "Fracture de la hanche"
     },
     "notifications_injury_40": {
       "english": "Sprained toe",
-      "value": "Orteil foulé"
+      "value": "Entorse de l'orteil"
     },
     "notifications_injury_41": {
       "english": "Sprained foot",
@@ -8110,7 +8110,7 @@
     },
     "notifications_injury_44": {
       "english": "Tooth ache",
-      "value": "Mal aux dents"
+      "value": "Mal de dents"
     },
     "notifications_injury_45": {
       "english": "Back injury",
@@ -8118,7 +8118,7 @@
     },
     "notifications_injury_47": {
       "english": "Groin injury",
-      "value": "Blessure à l'aisne"
+      "value": "Blessure à l'aine"
     },
     "notifications_injury_5": {
       "english": "Flu",
@@ -8142,7 +8142,7 @@
     },
     "notifications_injury_61": {
       "english": "Eye injury",
-      "value": "Blessure à l'œil"
+      "value": "Blessure oculaire"
     },
     "notifications_injury_69": {
       "english": "Thigh injury",
@@ -8174,11 +8174,11 @@
     },
     "notifications_injury_76": {
       "english": "Cruciate ligament injury",
-      "value": "Blessure au ligament croisé"
+      "value": "Lésion du ligament croisé"
     },
     "notifications_injury_77": {
       "english": "Rib injury",
-      "value": "Blessure à la côte"
+      "value": "Blessure aux côtes"
     },
     "notifications_injury_78": {
       "english": "Collarbone injury",
@@ -8254,7 +8254,7 @@
     },
     "notifications_injury_95": {
       "english": "Malaria",
-      "value": "Malaria"
+      "value": "Paludisme"
     },
     "notifications_injury_96": {
       "english": "Virus",
@@ -9728,7 +9728,7 @@
     "seo_match_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a match. See translation for \"following\"",
       "english": "Match removed from Following",
-      "value": "Match retiré de vos suivis"
+      "value": "Match supprimé de vos suivis"
     },
     "seo_men": {
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
@@ -9748,7 +9748,7 @@
     "seo_more_notification_sounds_desc": {
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
       "english": "Unlock additional notification sounds.",
-      "value": "Débloquez des sons de notifications supplémentaires."
+      "value": "Débloquez des sons de notification supplémentaires."
     },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
@@ -9773,7 +9773,7 @@
     "seo_now_make_your_predictions_and_compete": {
       "comment": "Text in the toast dialogue after joining a league through an invite link, encouraging the user to make their predictions.",
       "english": "Now, make your predictions and compete!",
-      "value": "Maintenant, faites vos pronostics et concourez !"
+      "value": "Maintenant, faites vos pronostics et participez !"
     },
     "seo_number_of_sprints": {
       "comment": "Number of sprints a player has taken in a match.",
@@ -9913,7 +9913,7 @@
     "seo_play_predict_prevail": {
       "comment": "Catchy slogan for the predictor game, used front and center on the predictor game page. Capture the essence of predicting, competing and winning. Be creative! The flow is more important than the order. Try alliteration, but not a must. NEEDS to be separated by periods.",
       "english": "Predict. Play. Prevail.",
-      "value": "Prévois. Joue. Gagne."
+      "value": "Prédire. Jouer. Gagner."
     },
     "seo_player_added_to_following": {
       "comment": "Pop up after clicking follow on a player. See translation for \"player,match_added_to_following\"",
@@ -9923,7 +9923,7 @@
     "seo_player_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
       "english": "Player removed from Following",
-      "value": "Joueur retiré de vos suivis"
+      "value": "Joueur supprimé de vos suivis"
     },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
@@ -10154,7 +10154,7 @@
     "seo_sign_in_to_play": {
       "comment": "Text for the button that opens the sign in dialogue in the predictor game.",
       "english": "Sign in to play",
-      "value": "Connexion pour jouer"
+      "value": "Connectez-vous pour jouer"
     },
     "seo_since_x": {
       "comment": "Subtitle used in membership page to indicate since which *year* they became a lifetime supporter. Like \"Since 2023\".",
@@ -10473,7 +10473,7 @@
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
       "english": "Something went wrong. Please try again.",
-      "value": "Quelque chose s'est mal passé. Veuillez réessayer."
+      "value": "Une erreur s'est produite. Veuillez réessayer."
     },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
@@ -10543,7 +10543,7 @@
     "seo_team_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
       "english": "Team removed from Following",
-      "value": "Équipe retirée de vos suivis"
+      "value": "Équipe supprimée de vos suivis"
     },
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
