@@ -2386,6 +2386,21 @@
       "english": "Fouled per 90",
       "value": "场均被犯规"
     },
+    "accessibility_widget_desaturated": {
+      "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
+      "english": "Desaturated",
+      "value": "去色"
+    },
+    "accessibility_widget_full_color": {
+      "comment": "A rendering mode allowing the user to see the full color of logos/news images",
+      "english": "Full color",
+      "value": "全彩模式"
+    },
+    "accessibility_widget_rendering_mode": {
+      "comment": "Title for allowing to switch rendering mode for logo colors in widgets",
+      "english": "Rendering mode",
+      "value": "渲染模式"
+    },
     "accessibility_win_percentage": {
       "comment": "Percentage of matches won out of total played.",
       "english": "Win percentage",
@@ -9345,19 +9360,19 @@
       "value": "错误"
     },
     "seo_build_your_own_xi": {
-      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi].",
+      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi]. In football-related strings, “XI” refers to a team of eleven players (Roman numeral for 11). When translating, it can be replaced with “11” or the local equivalent (e.g., in Norwegian “ellever”), whichever sounds most natural in the target language.",
       "english": "Build your own XI",
-      "value": "创建你的首发XI"
+      "value": "创建你自己的11人阵容"
     },
     "seo_build_your_xi": {
-      "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
+      "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]. In football-related strings, “XI” refers to a team of eleven players (Roman numeral for 11). When translating, it can be replaced with “11” or the local equivalent (e.g., in Norwegian “ellever”), whichever sounds most natural in the target language.",
       "english": "Build your XI",
-      "value": "组建你的XI"
+      "value": "组建你的11人队伍"
     },
     "seo_build_your_xi_text": {
-      "comment": "Text explaining how to use the lineupbuilder. See [lineup_builder]. Please keep the \\n placements in the English string when doing the translation.",
+      "comment": "Text explaining how to use the lineupbuilder. See [lineup_builder]. Please keep the \\n placements in the English string when doing the translation. In football-related strings, “XI” refers to a team of eleven players (Roman numeral for 11). When translating, it can be replaced with “11” or the local equivalent (e.g., in Norwegian “ellever”), whichever sounds most natural in the target language.",
       "english": "Build your dream XI, pick your team’s next lineup, or plan your transfer window.\\nStart by clicking on an empty player and searching for the player you want to add, or by selecting a team to pre-fill and modify.",
-      "value": "组建你的梦想XI，选择你队的下一个阵容，或规划你的转会窗口。\\n开始时点击一个空位球员并搜索你想添加的球员，或选择一个球队进行预填充和修改。"
+      "value": "创建你的梦幻11人阵容，选择你队伍的下一个阵容，或规划你的转会窗口。\\n从点击一个空位球员并搜索你想添加的球员开始，或选择一个球队进行预填充和修改。"
     },
     "seo_change_app_icon_dialog": {
       "comment": "Shown as a dialog to the user when user clicks on a different app icons in the FotMob+ membership page.",
@@ -9383,6 +9398,16 @@
       "comment": "Title for section listing competitions in the predictor game.",
       "english": "Competitions",
       "value": "赛事"
+    },
+    "seo_continue_in_app_popup_btn": {
+      "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
+      "english": "Continue in app",
+      "value": "继续在应用中"
+    },
+    "seo_continue_in_app_popup_description": {
+      "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
+      "english": "Continue in the FotMob app for a faster, better experience - for free!",
+      "value": "在FotMob应用中继续，享受更快更好的体验 - 免费！"
     },
     "seo_copied_link_web": {
       "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
@@ -9465,7 +9490,7 @@
       "value": "编辑姓名"
     },
     "seo_enter_lineup_name": {
-      "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder.",
+      "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder. Keep the translation as short as possible for languages where the output is a very long string.",
       "english": "Enter lineup name",
       "value": "输入阵容名称"
     },
@@ -9484,13 +9509,13 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "用备用的应用图标定制你的主屏幕。"
     },
-    "seo_expected_return_date_about_1-2_weeks": {
-      "comment": "A text descibing for how long a player is out injured or abscent.",
+    "seo_expected_return_date_about_1_2_weeks": {
+      "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
       "value": "大约1-2周"
     },
     "seo_expected_return_date_about_a_week": {
-      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About a week",
       "value": "大约一周"
     },
@@ -9567,6 +9592,11 @@
       "english": "Followed teams",
       "value": "关注的球队"
     },
+    "seo_fotmob_lineup_builder": {
+      "comment": "Headline for the lineup builder for football teams. In Norwegian the natural translation for Lineup Builder would be \"Lagbygger\". see [lineup_builder].",
+      "english": "FotMob Lineup Builder",
+      "value": "FotMob阵容构建器"
+    },
     "seo_fotmob_plus": {
       "comment": "Header that describes FotMob+",
       "english": "FotMob+",
@@ -9576,6 +9606,11 @@
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
       "english": "Remove ads and get exclusive benefits",
       "value": "去除广告并享受专属福利"
+    },
+    "seo_free_form": {
+      "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
+      "english": "Free form",
+      "value": "自由阵型"
     },
     "seo_friendly_match": {
       "comment": "Text explaining that the the current match is a friendly match that does not count towards any trophies or prices.",
@@ -9611,6 +9646,11 @@
       "comment": "Fun fact for the player that has covered the most distance in an ongoing match.",
       "english": "%1$@ has covered the most distance (%2$@) in the match.",
       "value": "%1$@ 在比赛中跑动距离最长（%2$@）"
+    },
+    "seo_get_the_best_mobile_experience": {
+      "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
+      "english": "Get the best mobile experience",
+      "value": "获取最佳移动体验"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9682,10 +9722,35 @@
       "english": "Lifetime supporter",
       "value": "终身会员"
     },
+    "seo_limit_reached_lineupbuilder": {
+      "comment": "Error message toast when the user tries to save more than the maximum allowed lineups in the linup builder. See [lineup_builder].",
+      "english": "Limit of %1$@ reached, please delete one of your lineups",
+      "value": "已达到%1$@个阵容的上限，请删除一个阵容"
+    },
     "seo_lineup_builder": {
-      "comment": "Headline for a lineup builder for football teams.",
+      "comment": "Headline for a lineup builder for football teams. In Norwegian the natural translation would be \"Lagbygger\".",
       "english": "Lineup Builder",
-      "value": "阵容生成器"
+      "value": "阵容构建器"
+    },
+    "seo_lineup_builder_meta_description": {
+      "comment": "Meta info description for the lineup builder. see [lineup_builder].",
+      "english": "FotMob's Lineup Builder. Easily pick your starting 11 with the best formation maker. Add player faces and choose from FotMob's database of players and teams.",
+      "value": "FotMob的阵容构建器。使用最佳阵型创建器轻松选择你的首发11人。添加球员头像，并从FotMob的球员和球队数据库中选择。"
+    },
+    "seo_lineup_builder_meta_title": {
+      "comment": "Meta info title for the lineup builder. see [lineup_builder].",
+      "english": "Lineup Builder - Create Your Squad with Formations and Player Faces",
+      "value": "阵容构建器 - 用阵型和球员头像创建你的球队"
+    },
+    "seo_lineup_name_already_exists": {
+      "comment": "toast text after trying to save a lineup with the same name as an already saved lineup. User is prompted with the question of wheter he wishes to overwrite the lineup or not.",
+      "english": "A lineup with the name %1$@ already exists. Do you want to overwrite it?",
+      "value": "名为 %1$@ 的阵容已存在。是否要覆盖它？"
+    },
+    "seo_lineup_overwritten": {
+      "comment": "toast text stating that the lineup has been overwritten. The correct norwegian translation would be \"Lagoppstilling overskrevet\". see [lineup_name_already_exists] for translation of lagoppstilling.",
+      "english": "Lineup overwritten",
+      "value": "阵容已被重写"
     },
     "seo_lineup_saved": {
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
@@ -9826,6 +9891,11 @@
       "comment": "Header for the onboarding of the new physical performance state",
       "english": "<b>Official data.</b> These are the same physical stats trusted by professional teams.",
       "value": "<b>官方数据。</b> 与职业球队使用的体能数据相同。"
+    },
+    "seo_overwrite": {
+      "comment": "toast text option to overwrite a saved lineup.",
+      "english": "Overwrite",
+      "value": "覆盖"
     },
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -10138,6 +10208,16 @@
       "english": "Penalty shootout saves",
       "value": "点球大战扑救"
     },
+    "seo_search_for_any_player": {
+      "comment": "Placeholder string for searchbox in the lineup builder. See [lineup_builder].",
+      "english": "Search for any player to add",
+      "value": "搜索球员以添加"
+    },
+    "seo_search_for_any_team": {
+      "comment": "Placeholder string for searchbox in the lineup builder to start with a pre-filled team. The natural translation in norwegian would be: \"søk etter et lag å starte med\" See [pre_fill_lineup]",
+      "english": "Search for any team to start with",
+      "value": "搜索球队以开始"
+    },
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "2nd leg",
@@ -10147,6 +10227,16 @@
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
       "english": "Share link",
       "value": "分享链接"
+    },
+    "seo_show_club_badge": {
+      "comment": "Checkbox option to show club badge next to the player images in the lineupbuilder. see [lineup_builder].",
+      "english": "Show club",
+      "value": "显示俱乐部"
+    },
+    "seo_show_country_badge": {
+      "comment": "Checkbox option to show country badge next to the player images in the lineupbuilder. see [lineup_builder].",
+      "english": "Show country",
+      "value": "显示国家"
     },
     "seo_sign_in_to_fotmob_predict": {
       "comment": "Title for the sign in dialogue in the predictor game. Don't translate \"FotMob Predict\".",
@@ -10230,8 +10320,8 @@
     },
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
-      "english": "%1$s historic seasons with winners and runners-up.",
-      "value": "%1$s 个历史赛季的冠军和亚军。"
+      "english": "%1$@ historic seasons with winners and runners-up.",
+      "value": "%1$@ 个历史赛季的冠军和亚军。"
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
@@ -10491,6 +10581,11 @@
       "comment": "Call to action to start a free trial for FotMob+",
       "english": "Start free trial",
       "value": "开始免费试用"
+    },
+    "seo_stay_in_browser_popup_btn": {
+      "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
+      "english": "Stay in browser",
+      "value": "留在浏览器"
     },
     "seo_sub_terms_and_condition": {
       "comment": "Call to action to view subscription terms and conditions.",

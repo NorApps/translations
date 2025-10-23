@@ -2386,6 +2386,21 @@
       "english": "Fouled per 90",
       "value": "ฟาวล์ต่อ 90"
     },
+    "accessibility_widget_desaturated": {
+      "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
+      "english": "Desaturated",
+      "value": "ลดความอิ่มตัวของสี"
+    },
+    "accessibility_widget_full_color": {
+      "comment": "A rendering mode allowing the user to see the full color of logos/news images",
+      "english": "Full color",
+      "value": "สีเต็มรูปแบบ"
+    },
+    "accessibility_widget_rendering_mode": {
+      "comment": "Title for allowing to switch rendering mode for logo colors in widgets",
+      "english": "Rendering mode",
+      "value": "โหมดการแสดงผล"
+    },
     "accessibility_win_percentage": {
       "comment": "Percentage of matches won out of total played.",
       "english": "Win percentage",
@@ -9340,19 +9355,19 @@
       "value": "บัค"
     },
     "seo_build_your_own_xi": {
-      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi].",
+      "comment": "Headline for promotion component to use the lineup builder. See [build_your_xi]. In football-related strings, “XI” refers to a team of eleven players (Roman numeral for 11). When translating, it can be replaced with “11” or the local equivalent (e.g., in Norwegian “ellever”), whichever sounds most natural in the target language.",
       "english": "Build your own XI",
-      "value": "สร้าง XI ของคุณเอง"
+      "value": "สร้างทีม 11 ของคุณเอง"
     },
     "seo_build_your_xi": {
-      "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]",
+      "comment": "Headline for info box about how to use the lineupbuilder. See [lineup_builder]. In football-related strings, “XI” refers to a team of eleven players (Roman numeral for 11). When translating, it can be replaced with “11” or the local equivalent (e.g., in Norwegian “ellever”), whichever sounds most natural in the target language.",
       "english": "Build your XI",
-      "value": "สร้าง XI ของคุณ"
+      "value": "สร้างทีม 11 ของคุณ"
     },
     "seo_build_your_xi_text": {
-      "comment": "Text explaining how to use the lineupbuilder. See [lineup_builder]. Please keep the \\n placements in the English string when doing the translation.",
+      "comment": "Text explaining how to use the lineupbuilder. See [lineup_builder]. Please keep the \\n placements in the English string when doing the translation. In football-related strings, “XI” refers to a team of eleven players (Roman numeral for 11). When translating, it can be replaced with “11” or the local equivalent (e.g., in Norwegian “ellever”), whichever sounds most natural in the target language.",
       "english": "Build your dream XI, pick your team’s next lineup, or plan your transfer window.\\nStart by clicking on an empty player and searching for the player you want to add, or by selecting a team to pre-fill and modify.",
-      "value": "สร้างทีมในฝันของคุณ เลือกผู้เล่นตัวจริงถัดไปของทีมคุณ หรือวางแผนช่วงการย้ายทีม\\nเริ่มต้นโดยการคลิกที่ผู้เล่นว่างและค้นหาผู้เล่นที่คุณต้องการเพิ่ม หรือเลือกทีมเพื่อเติมล่วงหน้าและแก้ไข"
+      "value": "สร้างทีม 11 ในฝันของคุณ เลือกผู้เล่นตัวจริงถัดไปของทีมคุณ หรือวางแผนตลาดซื้อขายนักเตะ\\nเริ่มต้นโดยคลิกที่ผู้เล่นว่างและค้นหาผู้เล่นที่คุณต้องการเพิ่ม หรือเลือกทีมเพื่อเติมข้อมูลล่วงหน้าและแก้ไข"
     },
     "seo_change_app_icon_dialog": {
       "comment": "Shown as a dialog to the user when user clicks on a different app icons in the FotMob+ membership page.",
@@ -9378,6 +9393,16 @@
       "comment": "Title for section listing competitions in the predictor game.",
       "english": "Competitions",
       "value": "การแข่งขัน"
+    },
+    "seo_continue_in_app_popup_btn": {
+      "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
+      "english": "Continue in app",
+      "value": "ดำเนินการต่อในแอป"
+    },
+    "seo_continue_in_app_popup_description": {
+      "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
+      "english": "Continue in the FotMob app for a faster, better experience - for free!",
+      "value": "ใช้แอป FotMob ต่อเพื่อประสบการณ์ที่เร็วและดีกว่า - ฟรี!"
     },
     "seo_copied_link_web": {
       "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
@@ -9460,9 +9485,9 @@
       "value": "แก้ไขชื่อ"
     },
     "seo_enter_lineup_name": {
-      "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder.",
+      "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder. Keep the translation as short as possible for languages where the output is a very long string.",
       "english": "Enter lineup name",
-      "value": "กรอกชื่อผู้เล่นตัวจริง"
+      "value": "ใส่ชื่อรายชื่อผู้เล่น"
     },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
@@ -9479,13 +9504,13 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "ปรับแต่งหน้าจอโฮมของคุณด้วยไอคอนแอปแบบอื่น"
     },
-    "seo_expected_return_date_about_1-2_weeks": {
-      "comment": "A text descibing for how long a player is out injured or abscent.",
+    "seo_expected_return_date_about_1_2_weeks": {
+      "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
       "value": "ประมาณ 1-2 สัปดาห์"
     },
     "seo_expected_return_date_about_a_week": {
-      "comment": "A text descibing for how long a player is out injured or abscent.",
+      "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About a week",
       "value": "ประมาณหนึ่งสัปดาห์"
     },
@@ -9563,6 +9588,11 @@
       "english": "Followed teams",
       "value": "ทีมที่ติดตาม"
     },
+    "seo_fotmob_lineup_builder": {
+      "comment": "Headline for the lineup builder for football teams. In Norwegian the natural translation for Lineup Builder would be \"Lagbygger\". see [lineup_builder].",
+      "english": "FotMob Lineup Builder",
+      "value": "ตัวสร้างรายชื่อผู้เล่น FotMob"
+    },
     "seo_fotmob_plus": {
       "comment": "Header that describes FotMob+",
       "english": "FotMob+",
@@ -9572,6 +9602,11 @@
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
       "english": "Remove ads and get exclusive benefits",
       "value": "ลบโฆษณาและรับสิทธิพิเศษ"
+    },
+    "seo_free_form": {
+      "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
+      "english": "Free form",
+      "value": "รูปแบบอิสระ"
     },
     "seo_friendly_match": {
       "comment": "Text explaining that the the current match is a friendly match that does not count towards any trophies or prices.",
@@ -9607,6 +9642,11 @@
       "comment": "Fun fact for the player that has covered the most distance in an ongoing match.",
       "english": "%1$@ has covered the most distance (%2$@) in the match.",
       "value": "%1$@ วิ่งมากที่สุด (%2$@) ในการแข่งขัน"
+    },
+    "seo_get_the_best_mobile_experience": {
+      "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
+      "english": "Get the best mobile experience",
+      "value": "รับประสบการณ์มือถือที่ดีที่สุด"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9678,10 +9718,35 @@
       "english": "Lifetime supporter",
       "value": "ผู้สนับสนุนตลอดชีพ"
     },
+    "seo_limit_reached_lineupbuilder": {
+      "comment": "Error message toast when the user tries to save more than the maximum allowed lineups in the linup builder. See [lineup_builder].",
+      "english": "Limit of %1$@ reached, please delete one of your lineups",
+      "value": "ถึงขีดจำกัด %1$@ แล้ว กรุณาลบหนึ่งในรายชื่อผู้เล่นของคุณ"
+    },
     "seo_lineup_builder": {
-      "comment": "Headline for a lineup builder for football teams.",
+      "comment": "Headline for a lineup builder for football teams. In Norwegian the natural translation would be \"Lagbygger\".",
       "english": "Lineup Builder",
       "value": "สร้างทีม"
+    },
+    "seo_lineup_builder_meta_description": {
+      "comment": "Meta info description for the lineup builder. see [lineup_builder].",
+      "english": "FotMob's Lineup Builder. Easily pick your starting 11 with the best formation maker. Add player faces and choose from FotMob's database of players and teams.",
+      "value": "ตัวสร้างรายชื่อผู้เล่นของ FotMob เลือก 11 ตัวจริงของคุณได้ง่ายๆ ด้วยเครื่องมือจัดรูปแบบที่ดีที่สุด เพิ่มภาพนักเตะและเลือกจากฐานข้อมูลนักเตะและทีมของ FotMob"
+    },
+    "seo_lineup_builder_meta_title": {
+      "comment": "Meta info title for the lineup builder. see [lineup_builder].",
+      "english": "Lineup Builder - Create Your Squad with Formations and Player Faces",
+      "value": "สร้างทีม - จัดทีมของคุณด้วยแผนการเล่นและหน้าตานักเตะ"
+    },
+    "seo_lineup_name_already_exists": {
+      "comment": "toast text after trying to save a lineup with the same name as an already saved lineup. User is prompted with the question of wheter he wishes to overwrite the lineup or not.",
+      "english": "A lineup with the name %1$@ already exists. Do you want to overwrite it?",
+      "value": "มีรายชื่อผู้เล่นที่ชื่อ %1$@ อยู่แล้ว คุณต้องการเขียนทับหรือไม่?"
+    },
+    "seo_lineup_overwritten": {
+      "comment": "toast text stating that the lineup has been overwritten. The correct norwegian translation would be \"Lagoppstilling overskrevet\". see [lineup_name_already_exists] for translation of lagoppstilling.",
+      "english": "Lineup overwritten",
+      "value": "รายชื่อผู้เล่นถูกเขียนทับ"
     },
     "seo_lineup_saved": {
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
@@ -9822,6 +9887,11 @@
       "comment": "Header for the onboarding of the new physical performance state",
       "english": "<b>Official data.</b> These are the same physical stats trusted by professional teams.",
       "value": "<b>ข้อมูลทางการ</b> สถิติทางกายภาพที่ทีมมืออาชีพใช้งานจริง"
+    },
+    "seo_overwrite": {
+      "comment": "toast text option to overwrite a saved lineup.",
+      "english": "Overwrite",
+      "value": "เขียนทับ"
     },
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -10135,6 +10205,16 @@
       "english": "Penalty shootout saves",
       "value": "เซฟจุดโทษในการดวลจุดโทษ"
     },
+    "seo_search_for_any_player": {
+      "comment": "Placeholder string for searchbox in the lineup builder. See [lineup_builder].",
+      "english": "Search for any player to add",
+      "value": "ค้นหาผู้เล่นเพื่อเพิ่ม"
+    },
+    "seo_search_for_any_team": {
+      "comment": "Placeholder string for searchbox in the lineup builder to start with a pre-filled team. The natural translation in norwegian would be: \"søk etter et lag å starte med\" See [pre_fill_lineup]",
+      "english": "Search for any team to start with",
+      "value": "ค้นหาทีมเพื่อเริ่มต้น"
+    },
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "2nd leg",
@@ -10144,6 +10224,16 @@
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
       "english": "Share link",
       "value": "แชร์ลิงก์"
+    },
+    "seo_show_club_badge": {
+      "comment": "Checkbox option to show club badge next to the player images in the lineupbuilder. see [lineup_builder].",
+      "english": "Show club",
+      "value": "แสดงสโมสร"
+    },
+    "seo_show_country_badge": {
+      "comment": "Checkbox option to show country badge next to the player images in the lineupbuilder. see [lineup_builder].",
+      "english": "Show country",
+      "value": "แสดงประเทศ"
     },
     "seo_sign_in_to_fotmob_predict": {
       "comment": "Title for the sign in dialogue in the predictor game. Don't translate \"FotMob Predict\".",
@@ -10227,8 +10317,8 @@
     },
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
-      "english": "%1$s historic seasons with winners and runners-up.",
-      "value": "%1$s ฤดูกาลประวัติศาสตร์กับผู้ชนะและรองชนะเลิศ"
+      "english": "%1$@ historic seasons with winners and runners-up.",
+      "value": "%1$@ ฤดูกาลประวัติศาสตร์กับผู้ชนะและรองชนะเลิศ"
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
@@ -10488,6 +10578,11 @@
       "comment": "Call to action to start a free trial for FotMob+",
       "english": "Start free trial",
       "value": "เริ่มทดลองใช้ฟรี"
+    },
+    "seo_stay_in_browser_popup_btn": {
+      "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
+      "english": "Stay in browser",
+      "value": "อยู่ในเบราว์เซอร์"
     },
     "seo_sub_terms_and_condition": {
       "comment": "Call to action to view subscription terms and conditions.",
