@@ -10492,7 +10492,7 @@
     "seo_site_title_league_news": {
       "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
       "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - नवीनतम समाचार और अफवाहें"
+      "value": "%1$@ - ताज़ा खबरें और अफवाहें"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
@@ -10572,7 +10572,7 @@
     "seo_site_title_team_news": {
       "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
       "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - नवीनतम समाचार और अफवाहें"
+      "value": "%1$@ - ताज़ा खबरें और अफवाहें"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10582,7 +10582,7 @@
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "%1$@ - टीम, कोच, चोट और स्थिति"
+      "value": "%1$@ - टीम, कोच, चोटें और स्थिति"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
@@ -10840,12 +10840,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "बस एक छोटी सी याद दिलाने के लिए: आपकी FotMob+ ट्रायल 2 दिनों में समाप्त हो रही है और यह अपने आप नवीनीकृत हो जाएगी।"
+      "value": "बस एक छोटी सी याद दिलाने के लिए: आपकी FotMob+ ट्रायल 2 (दो) दिनों में समाप्त हो रही है और यह अपने आप नवीनीकृत हो जाएगी।"
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "आपका FotMob+ ट्रायल 2 दिनों में समाप्त हो जाएगा।"
+      "value": "आपका FotMob+ ट्रायल 2 (दो) दिनों में समाप्त हो जाएगा।"
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",
@@ -10892,7 +10892,7 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
-      "value": "%1$@ पर सभी क्रियाएं देखें"
+      "value": "%1$@ पर सभी खेल देखें"
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",
