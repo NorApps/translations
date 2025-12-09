@@ -44,7 +44,7 @@
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
       "english": "Advertise",
-      "value": "विज्ञापन देना"
+      "value": "विज्ञापन"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
@@ -231,8 +231,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "क्रॉस सटीकता"
+      "english": "Successful crosses %",
+      "value": "सफल क्रॉसेस %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -987,13 +987,18 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "लंबी गेंद की सटीकता"
+      "english": "Accurate long balls %",
+      "value": "सही लंबे पास %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
       "value": "कब्ज़ा खोया"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight",
+      "value": "मैच अंतर्दृष्टि"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -2057,9 +2062,8 @@
       "value": "सफल पास"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "पास सटीकता"
+      "english": "Successful passes %",
+      "value": "सफल पास %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -3157,6 +3161,11 @@
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
       "value": "ड्रॉ"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "english": "or",
+      "value": "या"
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
@@ -5031,6 +5040,11 @@
       "english": "Players to follow",
       "value": "फॉलो करने के लिए खिलाड़ी"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "english": "Play-off winner",
+      "value": "प्ले-ऑफ विजेता"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
@@ -6304,8 +6318,8 @@
       "value": "जीते"
     },
     "common_won_contest_subtitle": {
-      "english": "Dribble success",
-      "value": "ड्रिबल सफलता"
+      "english": "Successful dribbles %",
+      "value": "सफल ड्रिबल %"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -8897,6 +8911,11 @@
       "english": "Shirt",
       "value": "शर्ट"
     },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "english": "Shortcuts",
+      "value": "शॉर्टकट्स"
+    },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
@@ -9560,6 +9579,11 @@
       "english": "Expires tomorrow",
       "value": "कल समाप्त हो रहा है"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "english": "Failed to remove user from league",
+      "value": "उपयोगकर्ता को लीग से हटाने में त्रुटि हुई"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "english": "Family Annual",
@@ -9735,6 +9759,11 @@
       "english": "League removed from Following",
       "value": "फॉलोइंग से लीग हटाई गई"
     },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "english": "Leagues",
+      "value": "लीग्स"
+    },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
       "english": "Lifetime supporter",
@@ -9878,7 +9907,7 @@
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
       "english": "%1$@ have odds of %2$@ to win, %3$@ for a draw, and %4$@ for %5$@ to win.",
-      "value": "%1$@ को जीत करने के लिए %2$@ श्रेणी है, %3$@ बराबरी के लिए %3$@ है और %4$@ को %5$@ करने के लिए %4$@ है।"
+      "value": "%1$@ को जीत करने के लिए %2$@ श्रेणी है, %3$@ बराबरी के लिए है और %5$@ को जीतने के लिए %4$@ है।"
     },
     "seo_odds_x": {
       "comment": "Used for the betting slip to show the odds of your current selected bets.",
@@ -10129,6 +10158,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "निकालना"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "english": "Remove user",
+      "value": "उपयोगकर्ता को हटाएँ"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10538,7 +10572,7 @@
     "seo_site_title_team_news": {
       "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
       "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - ताज़ा खबरें और अफवाहें"
+      "value": "%1$@ - नवीनतम समाचार और अफवाहें"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10548,7 +10582,7 @@
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "%1$@ - टीम, कोच, चोटें और स्थिति"
+      "value": "%1$@ - टीम, कोच, चोट और स्थिति"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
@@ -10629,6 +10663,11 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "english": "Guess results and compete against friends",
       "value": "परिणामों का अनुमान लगाएं और दोस्तों के साथ प्रतिस्पर्धा करें"
+    },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "english": "User removed from league",
+      "value": "उपयोगकर्ता को लीग से हटाया गया"
     },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",
@@ -10801,12 +10840,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "बस एक छोटी सी याद दिलाने के लिए: आपकी FotMob+ ट्रायल 2 (दो) दिनों में समाप्त हो रही है और यह अपने आप नवीनीकृत हो जाएगी।"
+      "value": "बस एक छोटी सी याद दिलाने के लिए: आपकी FotMob+ ट्रायल 2 दिनों में समाप्त हो रही है और यह अपने आप नवीनीकृत हो जाएगी।"
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "आपका FotMob+ ट्रायल 2 (दो) दिनों में समाप्त हो जाएगा।"
+      "value": "आपका FotMob+ ट्रायल 2 दिनों में समाप्त हो जाएगा।"
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",
@@ -10853,7 +10892,7 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
-      "value": "%1$@ पर सभी खेल देखें"
+      "value": "%1$@ पर सभी क्रियाएं देखें"
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",

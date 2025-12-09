@@ -44,7 +44,7 @@
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
       "english": "Advertise",
-      "value": "Mainosta"
+      "value": "Mainosta meillä"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
@@ -231,8 +231,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "Keskitysten tarkkuus"
+      "english": "Successful crosses %",
+      "value": "Onnistuneet keskitykset %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -987,13 +987,18 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "Tarkka pitkä pallo"
+      "english": "Accurate long balls %",
+      "value": "Onnistuneet pitkät pallot %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
       "value": "Menetti pallon"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight",
+      "value": "Ottelunäkemys"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -2057,9 +2062,8 @@
       "value": "Onnistuneet syötöt"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "Syöttötarkkuus"
+      "english": "Successful passes %",
+      "value": "Onnistuneet syötöt %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -3157,6 +3161,11 @@
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
       "value": "Tasapeli"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "english": "or",
+      "value": "tai"
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
@@ -5016,6 +5025,11 @@
       "english": "Players to follow",
       "value": "Seurattavat pelaajat"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "english": "Play-off winner",
+      "value": "Karsintavoittaja"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
@@ -6289,8 +6303,8 @@
       "value": "W"
     },
     "common_won_contest_subtitle": {
-      "english": "Dribble success",
-      "value": "Onnistunut kuljetus"
+      "english": "Successful dribbles %",
+      "value": "Onnistuneet harhautukset %"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -7581,7 +7595,7 @@
     },
     "notifications_dribbles_succeeded": {
       "english": "Successful dribbles",
-      "value": "`Onnistuneet harhautukset `"
+      "value": "Onnistuneet harhautukset"
     },
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
@@ -8367,7 +8381,7 @@
     "notifications_long_balls_accurate": {
       "comment": "Long balls that are accurate (to a player on his own team)",
       "english": "Accurate long balls",
-      "value": "`Onnistuneet pitkät pallot `"
+      "value": "Onnistuneet pitkät pallot"
     },
     "notifications_macedonia": {
       "comment": "The republic of North Macedonia.",
@@ -8881,6 +8895,11 @@
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
       "value": "Numero"
+    },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "english": "Shortcuts",
+      "value": "Pikakuvakkeet"
     },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
@@ -9545,6 +9564,11 @@
       "english": "Expires tomorrow",
       "value": "Päättyy huomenna"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "english": "Failed to remove user from league",
+      "value": "Käyttäjän poistaminen liigasta epäonnistui"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "english": "Family Annual",
@@ -9719,6 +9743,11 @@
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
       "value": "Liiga on poistettu seuratuista"
+    },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "english": "Leagues",
+      "value": "Liigat"
     },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
@@ -10114,6 +10143,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "Poista"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "english": "Remove user",
+      "value": "Poista käyttäjä"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10615,6 +10649,11 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "english": "Guess results and compete against friends",
       "value": "Arvaa tulokset ja kilpaile ystäviä vastaan"
+    },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "english": "User removed from league",
+      "value": "Käyttäjä poistettu liigasta"
     },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",

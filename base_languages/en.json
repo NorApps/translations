@@ -184,7 +184,7 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "value": "Cross accuracy"
+      "value": "Successful crosses %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -786,11 +786,15 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "value": "Long ball accuracy"
+      "value": "Accurate long balls %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "value": "Lost possession"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "value": "Match insight"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -1631,8 +1635,7 @@
       "value": "Successful passes"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "value": "Pass accuracy"
+      "value": "Successful passes %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -2492,6 +2495,10 @@
     "common_draw": {
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "value": "Draw"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "value": "or"
     },
     "common_draw_streak_both": {
       "value": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@."
@@ -3952,6 +3959,10 @@
       "comment": "Favorite players picker in the WC2018 onboarding",
       "value": "Players to follow"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "value": "Play-off winner"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "value": "Please restart the app to complete the language change"
@@ -4944,7 +4955,7 @@
       "value": "W"
     },
     "common_won_contest_subtitle": {
-      "value": "Dribble success"
+      "value": "Successful dribbles %"
     },
     "common_won_contest_title": {
       "value": "Successful dribbles per match"
@@ -6946,6 +6957,10 @@
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "value": "Shirt"
     },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "value": "Shortcuts"
+    },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "value": "Shots"
@@ -7470,6 +7485,10 @@
       "comment": "Used to indicate when the subscription is expiring tomorrow. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "value": "Expires tomorrow"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "value": "Failed to remove user from league"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "value": "Family Annual"
@@ -7609,6 +7628,10 @@
     "seo_league_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "value": "League removed from Following"
+    },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "value": "Leagues"
     },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
@@ -7846,6 +7869,10 @@
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
       "value": "%1$@ is playing home against %2$@ at %3$@ on %4$@."
     },
+    "seo_poll_closed": {
+      "comment": "Letting users know the poll is closed and we can no longer vote",
+      "value": "Poll closed"
+    },
     "seo_popular_in": {
       "comment": "Used in search for popular search results. Give the users country.",
       "value": "Popular in %@"
@@ -7925,6 +7952,10 @@
     "seo_remove": {
       "comment": "Used to let user know they can remove something",
       "value": "Remove"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "value": "Remove user"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -8324,6 +8355,10 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "value": "Guess results and compete against friends"
     },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "value": "User removed from league"
+    },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",
       "value": "Suggested players"
@@ -8498,6 +8533,13 @@
     "seo_view_full_commentary": {
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "value": "Full commentary"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll",
+      "plurals": {
+        "one": "%@ vote",
+        "other": "%@ votes"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

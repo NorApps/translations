@@ -112,8 +112,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "Cross accuracy"
+      "english": "Successful crosses %",
+      "value": "Successful crosses %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -227,8 +227,8 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "Long ball accuracy"
+      "english": "Accurate long balls %",
+      "value": "Accurate long balls %"
     },
     "accessibility_matches_count": {
       "english": "%d matches",
@@ -359,9 +359,8 @@
       "value": "Successful passes"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "Pass accuracy"
+      "english": "Successful passes %",
+      "value": "Successful passes %"
     },
     "accessibility_sync_calendar_button_text": {
       "comment": "Text shown on a button that lets the user add a teams matches to their calendar.",
@@ -1911,6 +1910,10 @@
     "common_won": {
       "english": "W",
       "value": "W"
+    },
+    "common_won_contest_subtitle": {
+      "english": "Successful dribbles %",
+      "value": "Successful dribbles %"
     },
     "common_won_long": {
       "english": "Won",

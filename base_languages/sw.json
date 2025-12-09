@@ -231,8 +231,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "Usahihi wa krosi"
+      "english": "Successful crosses %",
+      "value": "Crossi Zilizofanikiwa %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -987,13 +987,18 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "Usahihi wa Mpira mrefu"
+      "english": "Accurate long balls %",
+      "value": "Mipigo mirefu sahihi %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
       "value": "Kupoteza umiliki"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight",
+      "value": "Ufahamu wa mechi"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -2057,9 +2062,8 @@
       "value": "Pasi Zilizofanikiwa"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "Usahihi wa pasi"
+      "english": "Successful passes %",
+      "value": "Pasi Zilizofanikiwa %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -3157,6 +3161,11 @@
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
       "value": "Sare"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "english": "or",
+      "value": "au"
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
@@ -5011,6 +5020,11 @@
       "english": "Players to follow",
       "value": "Wachezaji wa Kufuatilia"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "english": "Play-off winner",
+      "value": "Mshindi wa mechi za mchujo"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
@@ -6280,8 +6294,8 @@
       "value": "W"
     },
     "common_won_contest_subtitle": {
-      "english": "Dribble success",
-      "value": "Mafanikio ya chenga"
+      "english": "Successful dribbles %",
+      "value": "Chenga Zilizofanikiwa %"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -7140,7 +7154,7 @@
     },
     "notifications_alert_Aborted": {
       "english": "%@ %@-%@ %@\\nAborted",
-      "value": "%@ %@-%@ @\\nImesitishwa"
+      "value": "%@ %@-%@ %@\\nImesitishwa"
     },
     "notifications_alert_AfterExtraTime": {
       "english": "%@ %@-%@ %@\\nFinished after extra time",
@@ -8869,6 +8883,11 @@
       "english": "Shirt",
       "value": "Shati"
     },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "english": "Shortcuts",
+      "value": "Njia za mkato"
+    },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
@@ -9528,6 +9547,11 @@
       "english": "Expires tomorrow",
       "value": "Itakapita Kesho"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "english": "Failed to remove user from league",
+      "value": "Shida wakati wa kuondoa mtumiaji kutoka kwenye ligi"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "english": "Family Annual",
@@ -9697,6 +9721,11 @@
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
       "value": "Ligi imeondolewa kutoka kwenye ufuatiliaji"
+    },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "english": "Leagues",
+      "value": "Ligi"
     },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
@@ -10092,6 +10121,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "Ondoa"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "english": "Remove user",
+      "value": "Ondoa mtumiaji"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10587,6 +10621,11 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "english": "Guess results and compete against friends",
       "value": "Kisia matokeo na shindana na marafiki"
+    },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "english": "User removed from league",
+      "value": "Mtumiaji ameondolewa kwenye ligi"
     },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",

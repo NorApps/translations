@@ -44,7 +44,7 @@
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
       "english": "Advertise",
-      "value": "광고"
+      "value": "광고하기"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
@@ -231,8 +231,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "크로스 정확도"
+      "english": "Successful crosses %",
+      "value": "성공한 크로스 %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -986,13 +986,18 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "롱 패스 정확도"
+      "english": "Accurate long balls %",
+      "value": "정확한 긴 패스 %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
       "value": "잃은 점유율"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight",
+      "value": "경기 통찰력"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -1211,7 +1216,7 @@
     "accessibility_not_on_pitch": {
       "comment": "Used in Match Facts to inform if a player getting a card is not on pitch.",
       "english": "Not on pitch",
-      "value": "경기 중이 아님"
+      "value": "경기장 밖"
     },
     "accessibility_not_selected": {
       "comment": "Meant for VoiceOver. If a button is not selected.",
@@ -2054,9 +2059,8 @@
       "value": "성공한 패스"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "패스 정확도"
+      "english": "Successful passes %",
+      "value": "성공한 패스 %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -3153,6 +3157,11 @@
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
       "value": "비김"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "english": "or",
+      "value": "또는"
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
@@ -5007,6 +5016,11 @@
       "english": "Players to follow",
       "value": "팔로우할 선수"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "english": "Play-off winner",
+      "value": "플레이오프 우승팀"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
@@ -6280,8 +6294,8 @@
       "value": "승"
     },
     "common_won_contest_subtitle": {
-      "english": "Dribble success",
-      "value": "드리블 성공"
+      "english": "Successful dribbles %",
+      "value": "드리블 성공 %"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -8873,6 +8887,11 @@
       "english": "Shirt",
       "value": "셔츠"
     },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "english": "Shortcuts",
+      "value": "바로가기"
+    },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
@@ -9536,6 +9555,11 @@
       "english": "Expires tomorrow",
       "value": "내일 만료됩니다"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "english": "Failed to remove user from league",
+      "value": "리그에서 사용자를 제거하는 데 실패했습니다"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "english": "Family Annual",
@@ -9710,6 +9734,11 @@
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
       "value": "팔로잉에서 리그 제거됨"
+    },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "english": "Leagues",
+      "value": "리그"
     },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
@@ -10105,6 +10134,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "제거"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "english": "Remove user",
+      "value": "사용자를 제거"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10606,6 +10640,11 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "english": "Guess results and compete against friends",
       "value": "경기 결과를 예측하고 친구들과 경쟁하세요"
+    },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "english": "User removed from league",
+      "value": "사용자가 리그에서 제거되었습니다"
     },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",

@@ -44,7 +44,7 @@
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
       "english": "Advertise",
-      "value": "إعلان"
+      "value": "اعلن"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
@@ -231,8 +231,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "دقة التمريرات العرضية"
+      "english": "Successful crosses %",
+      "value": "تمريرات عرضية ناجحة"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -991,13 +991,18 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "دقة التمريرات البعيدة بالنسبة المئوية"
+      "english": "Accurate long balls %",
+      "value": "كرات طويلة ودقيقة"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
       "value": "فقدان الكرة"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight",
+      "value": "رؤية المباراة"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -2073,9 +2078,8 @@
       "value": "تمريرات ناجحة"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "دقة التمرير"
+      "english": "Successful passes %",
+      "value": "تمريرات ناجحة"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -3177,6 +3181,11 @@
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
       "value": "تعادل"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "english": "or",
+      "value": "أو"
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
@@ -5061,6 +5070,11 @@
       "english": "Players to follow",
       "value": "حدد اللاعبين للمتابعة"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "english": "Play-off winner",
+      "value": "الفائز بالتصفيات الإقصائية"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
@@ -6025,7 +6039,7 @@
     "common_transfer_alert_message_no_amount": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid from Barcelona\"",
       "english": "%1$@ is joining %2$@ from %3$@",
-      "value": "%1$@ ينضم إلى %3$@ من %2$@"
+      "value": "%1$@ ينضم إلى %2$@ من %3$@"
     },
     "common_transfer_alert_message_to_free_agent": {
       "comment": "This is for a transfer like: \"Ronaldo leaving Juventus and is now a free agent\". Free agent means he has no club.",
@@ -6330,8 +6344,8 @@
       "value": "ف"
     },
     "common_won_contest_subtitle": {
-      "english": "Dribble success",
-      "value": "نجاح المراوغة"
+      "english": "Successful dribbles %",
+      "value": "مراوغات ناجحه"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -7198,7 +7212,7 @@
     },
     "notifications_alert_Aborted": {
       "english": "%@ %@-%@ %@\\nAborted",
-      "value": "%@%@ %@-%@ %@\\nتم الغائها"
+      "value": "%@ %@-%@ %@\\nتم الغائها"
     },
     "notifications_alert_AfterExtraTime": {
       "english": "%@ %@-%@ %@\\nFinished after extra time",
@@ -7242,11 +7256,11 @@
     },
     "notifications_alert_SecondExtraHalf": {
       "english": "%@ %@-%@ %@\\nSecond extra half begins",
-      "value": "بدأ الشوط الاضافي الثاني"
+      "value": "%@ %@-%@ %@\\nبدأ الشوط الاضافي الثاني"
     },
     "notifications_alert_SecondHalf": {
       "english": "%@ %@-%@ %@\\nSecond half begins",
-      "value": "بداية الشوط الثاني"
+      "value": "%@ %@-%@ %@\\nبداية الشوط الثاني"
     },
     "notifications_alert_WaitingForExtratime": {
       "english": "%@ %@-%@ %@\\nWaiting for extra time",
@@ -7254,7 +7268,7 @@
     },
     "notifications_alert_WaitingForPenalties": {
       "english": "%@ %@-%@ %@\\nWaiting for penalties",
-      "value": "%@%@%@\\nبأنتظار ركلات الجزاء الترجيحية"
+      "value": "%@ %@-%@ %@\\nبأنتظار ركلات الجزاء الترجيحية"
     },
     "notifications_alert_assist": {
       "english": "%@ %@-%@ %@\\n%@%@ got an assist",
@@ -8927,6 +8941,11 @@
       "english": "Shirt",
       "value": "قميص"
     },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "english": "Shortcuts",
+      "value": "اختصارات"
+    },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
@@ -9593,6 +9612,11 @@
       "english": "Expires tomorrow",
       "value": "ينتهي غداً"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "english": "Failed to remove user from league",
+      "value": "حدث خطأ أثناء محاولة إزالة المستخدم من الدوري"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "english": "Family Annual",
@@ -9761,12 +9785,17 @@
     "seo_league_match_round": {
       "comment": "Text explaining that the the current match is a match in the given round or stage in the given league or competition. Eg. \"This is round 12 of the Eliteserien.\"",
       "english": "This is %1$@ of the %2$@.",
-      "value": "هذا هو %2$@ من %1$@."
+      "value": "هذا هو %1$@ من %2$@."
     },
     "seo_league_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
       "value": "تمت إزالة البطولة من المتابعة"
+    },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "english": "Leagues",
+      "value": "البطولات"
     },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
@@ -10162,6 +10191,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "إزالة"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "english": "Remove user",
+      "value": "إزالة المستخدم"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10666,6 +10700,11 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "english": "Guess results and compete against friends",
       "value": "خمّن النتائج وتنافس مع الأصدقاء"
+    },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "english": "User removed from league",
+      "value": "تم إزالة المستخدم من الدوري"
     },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",

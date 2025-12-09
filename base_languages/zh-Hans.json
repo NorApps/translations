@@ -44,7 +44,7 @@
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
       "english": "Advertise",
-      "value": "广告投放"
+      "value": "广告信息"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
@@ -231,8 +231,8 @@
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
-      "english": "Cross accuracy",
-      "value": "传中准确度"
+      "english": "Successful crosses %",
+      "value": "成功的传中 %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -745,7 +745,7 @@
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ consecutive matches",
-      "value": "%1$@在连续%2$@场比赛中进球数是%2$@"
+      "value": "%1$@在连续%2$@场比赛中进球"
     },
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
@@ -986,13 +986,18 @@
     },
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
-      "english": "Long ball accuracy",
-      "value": "长传准确率"
+      "english": "Accurate long balls %",
+      "value": "精准长传 %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
       "value": "非控球时间"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight",
+      "value": "比赛洞察"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -2054,9 +2059,8 @@
       "value": "成功传球"
     },
     "accessibility_successful_passes_accuracy": {
-      "comment": "Pass accuracy of a player in a match measured in percent",
-      "english": "Pass accuracy",
-      "value": "传球准确率"
+      "english": "Successful passes %",
+      "value": "成功传球 %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -3154,6 +3158,11 @@
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
       "value": "平局"
+    },
+    "common_draw_pot_or": {
+      "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
+      "english": "or",
+      "value": "或"
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
@@ -5013,6 +5022,11 @@
       "english": "Players to follow",
       "value": "关注的球员"
     },
+    "common_playoff_winner": {
+      "comment": "Placeholder for team advancing from the playoff stage",
+      "english": "Play-off winner",
+      "value": "附加赛胜者"
+    },
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
@@ -6286,8 +6300,8 @@
       "value": "胜"
     },
     "common_won_contest_subtitle": {
-      "english": "Dribble success",
-      "value": "带球成功"
+      "english": "Successful dribbles %",
+      "value": "盘带成功 %"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -7214,7 +7228,7 @@
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
-      "value": "%@%@-%@%@\\n%@%@替补出场更正：%@%@ 未助攻进球"
+      "value": "%@ %@-%@ %@\\n更正：%@%@ 未助攻进球"
     },
     "notifications_alert_card_removed": {
       "english": "Correction: %@%@ did not receive a red card\\n%@",
@@ -8879,6 +8893,11 @@
       "english": "Shirt",
       "value": "球衣号码"
     },
+    "notifications_shortcuts": {
+      "comment": "A filter title for shortcuts used to generalize setting shortcuts",
+      "english": "Shortcuts",
+      "value": "快捷方式"
+    },
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
@@ -9542,6 +9561,11 @@
       "english": "Expires tomorrow",
       "value": "明天到期"
     },
+    "seo_failed_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
+      "english": "Failed to remove user from league",
+      "value": "从联赛中移除用户失败"
+    },
     "seo_family_annual": {
       "comment": "Describing the duration for the annual family FotMob+ subscription option.",
       "english": "Family Annual",
@@ -9716,6 +9740,11 @@
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
       "value": "联赛已从关注中移除"
+    },
+    "seo_leagues_predict": {
+      "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
+      "english": "Leagues",
+      "value": "联赛"
     },
     "seo_lifetime_supporter": {
       "comment": "Title used in membership page for users which has bought a one-time purchase some time in the past. Used together with the text \"legacy_gold_member\".",
@@ -10111,6 +10140,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "删除"
+    },
+    "seo_remove_user_from_league": {
+      "comment": "Title for button that a league admin clicks to remove a user from a league",
+      "english": "Remove user",
+      "value": "移除用户"
     },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10611,6 +10645,11 @@
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",
       "english": "Guess results and compete against friends",
       "value": "猜测结果，与朋友竞赛"
+    },
+    "seo_success_removed_user_from_league": {
+      "comment": "Message in a toast that notifies the user that a user was removed from the league",
+      "english": "User removed from league",
+      "value": "用户已从联赛中移除"
     },
     "seo_suggested_players": {
       "comment": "Headline for a list of suggested football players to be used in the lineup builder. See [lineup_builder]",
