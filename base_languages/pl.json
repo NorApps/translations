@@ -5236,6 +5236,11 @@
       "english": "Recoveries",
       "value": "Odzyskania piłki"
     },
+    "common_recoveries_per_90": {
+      "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries. See recoveries. Also make sure to reference the other per 90 stats like chances_created_per_90 to we write them the same way.",
+      "english": "Recoveries per 90",
+      "value": "Odzyskania piłki na 90 minut"
+    },
     "common_red_cards": {
       "english": "Red cards",
       "value": "Czerwone kartki"
@@ -9361,6 +9366,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Proszę podać szczegóły dotyczące reklamy, takie jak reklamodawca, na którym ekranie, wideo lub obraz oraz co było problematyczne."
     },
+    "seo_afcon_predictor_cta": {
+      "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
+      "english": "Play the Africa Cup of Nations Predictor.",
+      "value": "Zagraj w Przewidywacz Pucharu Narodów Afryki"
+    },
     "seo_ai_generated": {
       "comment": "Label used to indicate that content was generated using artificial intelligence.",
       "english": "Generated with AI",
@@ -9399,6 +9409,11 @@
       "comment": "Description text for the dialogue that pops up when the auto save of the user's predictions fails.",
       "english": "Please try reloading the page or signing out and in again.",
       "value": "Spróbuj ponownie załadować stronę lub wylogować się i zalogować ponownie."
+    },
+    "seo_available_in": {
+      "comment": "Header string for when the next prediction will be available (countdown in days, hours and minutes)",
+      "english": "Available in",
+      "value": "Dostępne za"
     },
     "seo_average_age": {
       "comment": "Average age in lineup.",
@@ -9503,6 +9518,11 @@
       "comment": "Title of AI generated summary card found in team overview.",
       "english": "Daily summary",
       "value": "Codzienne podsumowanie"
+    },
+    "seo_days_countdown": {
+      "comment": "see [available_in]. A label below a number indicating how many days left til the next week tournament use the plural form in the given language.",
+      "english": "Days",
+      "value": "dni"
     },
     "seo_delayed": {
       "comment": "Displays the text delayed below a matches score",
@@ -9669,6 +9689,11 @@
       "english": "Remove ads and get exclusive benefits",
       "value": "Usuń reklamy i zyskaj ekskluzywne korzyści"
     },
+    "seo_fotmob_weekly_top_picks": {
+      "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
+      "english": "FotMob weekly top picks",
+      "value": "Cotygodniowe najlepsze wybory FotMob"
+    },
     "seo_free_form": {
       "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
       "english": "Free form",
@@ -9739,10 +9764,35 @@
       "english": "Help",
       "value": "Pomoc"
     },
+    "seo_hours_countdown": {
+      "comment": "see [available_in]. A label below a number indicating how many hours left til the next week tournament use the plural form in the given language.",
+      "english": "Hours",
+      "value": "godziny"
+    },
     "seo_how_to_play": {
       "comment": "Title for the \"How to play\" section in the predictor game. (Rules).",
       "english": "How to Play",
       "value": "Jak grać"
+    },
+    "seo_how_to_play_earn_trophies": {
+      "comment": "see [how_to_play_every_week_features_matches]. Ensure natural flow in the given language.",
+      "english": "You will also earn a trophy in your mini-league each week you finish in first place.",
+      "value": "Każdego tygodnia, gdy zajmiesz pierwsze miejsce w swojej mini-lidze, zdobędziesz trofeum."
+    },
+    "seo_how_to_play_every_week_features_matches": {
+      "comment": "Bulletpoint explaining how the FotMob football predictor works. When talking about top leagues it is football leagues so use what is most commonly used as a native speaker for the given language.",
+      "english": "Every week features a selection of matches from the top leagues.",
+      "value": "Każdy tydzień zawiera wybór meczów z najlepszych lig."
+    },
+    "seo_how_to_play_leaderboard_resets_each_week": {
+      "comment": "see [how_to_play_every_week_features_matches]. Ensure that the translation is natural and idiomatic in each language, not literal. Maintain the intended meaning and tone. Use the equivalent of ‘Rangeringen’ in each language (i.e., the natural term for ‘leaderboard’).”",
+      "english": "The leaderboard resets each week, so you can join in at any point during the season.",
+      "value": "Tabela wyników resetuje się co tydzień, więc możesz dołączyć w dowolnym momencie w trakcie sezonu."
+    },
+    "seo_how_to_play_matches_published_on_monday": {
+      "comment": "see [how_to_play_every_week_features_matches]. Ensure that the translation is natural and idiomatic in each language. Every week new matches are published. CET meaning Central European Time.",
+      "english": "Each week's matches are published on Monday at midnight (CET).",
+      "value": "Mecze każdego tygodnia są publikowane w poniedziałek o północy (CET)."
     },
     "seo_i_need_help": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
@@ -9868,6 +9918,11 @@
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
       "english": "Men",
       "value": "Mężczyźni"
+    },
+    "seo_minutes_countdown": {
+      "comment": "see [available_in]. A label below a number indicating how many minutes left til the next week tournament use the plural form in the given language.",
+      "english": "Minutes",
+      "value": "Minuty"
     },
     "seo_monthly": {
       "comment": "Describing the duration for the monthly FotMob+ subscription option.",
@@ -10079,6 +10134,16 @@
       "english": "%1$@ is playing home against %2$@ at %3$@ on %4$@.",
       "value": "%1$@ gra u siebie z %2$@ na %3$@ dnia %4$@."
     },
+    "seo_poll_closed": {
+      "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",
+      "english": "Poll closed",
+      "value": "Ankieta zamknięta"
+    },
+    "seo_poll_open": {
+      "comment": "Letting users know the poll is still open. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. See poll_closed.",
+      "english": "Poll open",
+      "value": "Ankieta otwarta"
+    },
     "seo_popular_in": {
       "comment": "Used in search for popular search results. Give the users country.",
       "english": "Popular in %@",
@@ -10173,6 +10238,11 @@
       "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
       "english": "Rematch",
       "value": "Rewanż"
+    },
+    "seo_reminder_turn_on": {
+      "comment": "Button label for turning on reminders when new matches are available to predict",
+      "english": "Turn on",
+      "value": "Włącz"
     },
     "seo_remove": {
       "comment": "Used to let user know they can remove something",
@@ -10291,10 +10361,20 @@
       "english": "Search for any team to start with",
       "value": "Wyszukaj drużynę, aby rozpocząć"
     },
+    "seo_season_total": {
+      "comment": "Text in a dropdown showing the season total score of a prediction competition, if the text is longer in the translated language use a shorter natural phrase like \"total\" instead.",
+      "english": "Season total",
+      "value": "Razem sezonu"
+    },
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "2nd leg",
       "value": "2. spotkanie"
+    },
+    "seo_seconds_countdown": {
+      "comment": "see [available_in]. A label below a number indicating how many Seconds left til the next week tournament starts. Use the plural form in the given language.",
+      "english": "Seconds",
+      "value": "sekundy"
     },
     "seo_share_link": {
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
@@ -10829,6 +10909,11 @@
       "english": "This tournament",
       "value": "Ten turniej"
     },
+    "seo_this_week": {
+      "comment": "Text in a dropdown showing the score this week of a prediction competition.",
+      "english": "This week",
+      "value": "Ten tydzień"
+    },
     "seo_throwins": {
       "comment": "Indicating that the player threw the ball as part of a throw-in. We use this translation only as part of a throw in from the side. Keeper throws is translated in another string.",
       "english": "Throw-ins",
@@ -10838,6 +10923,11 @@
       "comment": "Hint to a user that he can click a button to view a players career",
       "english": "Tap to view career history",
       "value": "Naciśnij, żeby obejrzeć historię kariery"
+    },
+    "seo_toppicks_predictor_cta": {
+      "comment": "Call to action for getting users to play the FotMob's Top Picks predictor game with every week features a selection of matches from the top leagues.",
+      "english": "Every week it features a selection of matches from the top leagues.",
+      "value": "Każdego tygodnia prezentuje wybór meczów z najlepszych lig."
     },
     "seo_tots": {
       "english": "Team of the Season",
@@ -10985,10 +11075,30 @@
       "english": "Weather forecast",
       "value": "Pogoda"
     },
+    "seo_week": {
+      "comment": "string indicating which week it is e.g. Week 12.",
+      "english": "Week",
+      "value": "Tydzień"
+    },
+    "seo_weekly_reminders": {
+      "comment": "Headline in the popup informing users that they can enable reminders for when the weekly matches are made available",
+      "english": "Weekly Reminders",
+      "value": "Cotygodniowe przypomnienia"
+    },
+    "seo_weekly_reminders_popup_content": {
+      "comment": "Text in popup informing the users that they can turn on a reminder and get notified when the next set of matches to predict are made available",
+      "english": "Enable weekly reminders to get notified about upcoming matches and never miss a chance to make your predictions!",
+      "value": "Włącz cotygodniowe przypomnienia, aby być informowanym o nadchodzących meczach i nigdy nie przegap szansy na swoje typy!"
+    },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",
       "english": "Win probability",
       "value": "Prawdopodobieństwo wygranej"
+    },
+    "seo_winner_predictor": {
+      "comment": "string for winner of the week´s predictor",
+      "english": "Winner",
+      "value": "Zwycięzca"
     },
     "seo_women": {
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
@@ -11021,6 +11131,11 @@
       "comment": "Short for expected goals against. Used in table column header so should not be longer than 4 characters.",
       "english": "xGA",
       "value": "xGA"
+    },
+    "seo_xmas_week": {
+      "comment": "Title of the week that includes christmas day and boxing day",
+      "english": "Christmas week",
+      "value": "Tydzień Bożego Narodzenia"
     },
     "seo_xpts_explanation": {
       "comment": "Explanation of the xG table. The text has newline separators in it.",
