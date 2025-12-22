@@ -9672,7 +9672,7 @@
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
       "english": "FotMob weekly top picks",
-      "value": "फोटमॉब साप्ताहिक शीर्ष चयन"
+      "value": "फोटमॉब साप्ताहिक चुनिंदा मुक़ाबले"
     },
     "seo_free_form": {
       "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
@@ -9757,22 +9757,22 @@
     "seo_how_to_play_earn_trophies": {
       "comment": "see [how_to_play_every_week_features_matches]. Ensure natural flow in the given language.",
       "english": "You will also earn a trophy in your mini-league each week you finish in first place.",
-      "value": "आपको हर हफ्ते अपनी मिनी-लीग में पहले स्थान पर समाप्त करने पर एक ट्रॉफी भी मिलेगी।"
+      "value": "आपको हर हफ्ते अपनी मिनी-लीग में प्रथम स्थान प्राप्त करने पर एक ट्रॉफी भी मिलेगी।"
     },
     "seo_how_to_play_every_week_features_matches": {
       "comment": "Bulletpoint explaining how the FotMob football predictor works. When talking about top leagues it is football leagues so use what is most commonly used as a native speaker for the given language.",
       "english": "Every week features a selection of matches from the top leagues.",
-      "value": "हर सप्ताह शीर्ष लीगों से मैचों का चयन प्रस्तुत किया जाता है।"
+      "value": "हर सप्ताह टॉप लीगों से चुनिंदा मुकाबले प्रस्तुत किए जाते हैं।"
     },
     "seo_how_to_play_leaderboard_resets_each_week": {
       "comment": "see [how_to_play_every_week_features_matches]. Ensure that the translation is natural and idiomatic in each language, not literal. Maintain the intended meaning and tone. Use the equivalent of ‘Rangeringen’ in each language (i.e., the natural term for ‘leaderboard’).”",
       "english": "The leaderboard resets each week, so you can join in at any point during the season.",
-      "value": "नेतृत्व बोर्ड हर हफ्ते रीसेट होता है, इसलिए आप किसी भी समय सीजन के दौरान शामिल हो सकते हैं।"
+      "value": "लीडरबोर्ड हर हफ्ते रीसेट होता है, तो आप सीजन में किसी भी समय जुड़ सकते हैं।"
     },
     "seo_how_to_play_matches_published_on_monday": {
       "comment": "see [how_to_play_every_week_features_matches]. Ensure that the translation is natural and idiomatic in each language. Every week new matches are published. CET meaning Central European Time.",
       "english": "Each week's matches are published on Monday at midnight (CET).",
-      "value": "प्रत्येक सप्ताह के मैच सोमवार को मध्यरात्रि (CET) पर प्रकाशित होते हैं।"
+      "value": "हर सप्ताह के मैच सोमवार की मध्यरात्रि (CET) को जारी होते हैं।"
     },
     "seo_i_need_help": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
@@ -10117,12 +10117,12 @@
     "seo_poll_closed": {
       "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",
       "english": "Poll closed",
-      "value": "मतदान बंद है"
+      "value": "मतदान समाप्त हो गया है"
     },
     "seo_poll_open": {
       "comment": "Letting users know the poll is still open. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. See poll_closed.",
       "english": "Poll open",
-      "value": "मतदान खुला है"
+      "value": "मतदान जारी है"
     },
     "seo_popular_in": {
       "comment": "Used in search for popular search results. Give the users country.",
@@ -10343,7 +10343,7 @@
     "seo_season_total": {
       "comment": "Text in a dropdown showing the season total score of a prediction competition, if the text is longer in the translated language use a shorter natural phrase like \"total\" instead.",
       "english": "Season total",
-      "value": "सीजन कुल"
+      "value": "सीजन कुल स्कोर"
     },
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -11067,7 +11067,7 @@
     "seo_weekly_reminders_popup_content": {
       "comment": "Text in popup informing the users that they can turn on a reminder and get notified when the next set of matches to predict are made available",
       "english": "Enable weekly reminders to get notified about upcoming matches and never miss a chance to make your predictions!",
-      "value": "आगामी मैचों की सूचना प्राप्त करने के लिए साप्ताहिक रिमाइंडर सक्षम करें और अपनी भविष्यवाणियाँ करने का मौक़ा कभी न चूकें!"
+      "value": "आगामी मैचों की सूचना प्राप्त करने के लिए साप्ताहिक रिमाइंडर सक्षम करें और अपनी भविष्यवाणियाँ करने का अवसर कभी न गंवाएँ!"
     },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",
