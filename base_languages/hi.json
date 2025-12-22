@@ -11067,7 +11067,7 @@
     "seo_weekly_reminders_popup_content": {
       "comment": "Text in popup informing the users that they can turn on a reminder and get notified when the next set of matches to predict are made available",
       "english": "Enable weekly reminders to get notified about upcoming matches and never miss a chance to make your predictions!",
-      "value": "आगामी मैचों की सूचना प्राप्त करने के लिए साप्ताहिक रिमाइंडर सक्षम करें और अपनी भविष्यवाणियाँ करने का अवसर कभी न गंवाएँ"
+      "value": "आगामी मैचों की सूचना प्राप्त करने के लिए साप्ताहिक रिमाइंडर सक्षम करें और अपनी भविष्यवाणियाँ करने का अवसर कभी न गंवाएँ!"
     },
     "seo_win_probability": {
       "comment": "Win probability. Short text next to the % chance of home win and away win.",
