@@ -2196,6 +2196,10 @@
     "common_both_score": {
       "value": "Will both teams score?"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "value": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round."
+    },
     "common_bronze_supporter": {
       "value": "Bronze supporter"
     },
@@ -3256,6 +3260,10 @@
     "common_kg": {
       "comment": "Weight of person in kg",
       "value": "%d kg"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "value": "Knockout Stage"
     },
     "common_label_1": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -8603,10 +8611,10 @@
       "value": "Full commentary"
     },
     "seo_votes": {
-      "comment": "Number of votes for a poll",
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
       "plurals": {
-        "one": "%@ vote",
-        "other": "%@ votes"
+        "one": "%d vote",
+        "other": "%d votes"
       }
     },
     "seo_watch_on_tv": {

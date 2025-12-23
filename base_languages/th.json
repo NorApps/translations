@@ -2772,6 +2772,11 @@
       "english": "Will both teams score?",
       "value": "ทั้งสองทีมจะทำประตูได้หรือไม่"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "การจัดอันดับในตารางจะขึ้นอยู่กับผลการแข่งขันสดและยังไม่ถือเป็นที่สิ้นสุดจนกว่าขั้นตอนปัจจุบันจะเสร็จสิ้น\\n\\nทีมที่แยกด้วย “หรือ” จะถูกจัดให้อยู่ในกลุ่มจับฉลากเดียวกันและไม่สามารถพบกันในรอบนั้นได้"
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "ผู้สนับสนุนระดับบรอนซ์"
@@ -4127,6 +4132,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d กก."
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "เพลย์ออฟ"
     },
     "common_label_1x": {
       "comment": "Odds indication of home or draw. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10957,6 +10967,16 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "การบรรยายเต็มรูปแบบ"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "other": "%d คะแนนโหวต"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

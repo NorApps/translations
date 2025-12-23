@@ -2775,6 +2775,11 @@
       "english": "Will both teams score?",
       "value": "क्या दोनों टीमें गोल करेंगी?"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "ब्रैकेट में स्थान लाइव परिणामों पर आधारित होते हैं और वर्तमान चरण पूरा होने तक अंतिम नहीं होते।\\n\\n'या' से अलग की गई टीमें एक साथ ड्रा में रखी जाएंगी और उस राउंड में एक-दूसरे का सामना नहीं कर सकतीं।"
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "ब्राँज़ सपोर्टर"
@@ -4135,6 +4140,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d किलो"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "नॉकआउट"
     },
     "common_label_1": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10978,6 +10988,16 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "पूरी कमेंट्री"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "other": "%d वोट"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

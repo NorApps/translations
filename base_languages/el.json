@@ -2775,6 +2775,11 @@
       "english": "Will both teams score?",
       "value": "Θα σκοράρουν και οι δύο ομάδες;"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "Οι θέσεις στο διάγραμμα βασίζονται σε ζωντανά αποτελέσματα και οριστικοποιούνται μετά την ολοκλήρωση της τρέχουσας φάσης.\\n\\nΟι ομάδες που διαχωρίζονται με «ή» θα τοποθετηθούν μαζί σε κλήρωση και δεν μπορούν να αντιμετωπίσουν η μία την άλλη σε αυτόν τον γύρο."
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "Χάλκινος υποστηρικτής"
@@ -4135,6 +4140,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d κιλά"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "Νοκ άουτ"
     },
     "common_label_1": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10979,6 +10989,17 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "Πλήρης σχολιασμός"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "one": "%d ψήφος",
+        "other": "%d ψήφοι"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

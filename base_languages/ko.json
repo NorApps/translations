@@ -2772,6 +2772,11 @@
       "english": "Will both teams score?",
       "value": "두 팀이 득점을 할까요?"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "대진표의 위치는 실시간 결과를 기반으로 하며, 현재 단계가 완료될 때까지 최종적이지 않습니다.\\n\\n“또는”으로 구분된 팀들은 함께 추첨에 포함되며, 해당 라운드에서 서로 맞붙을 수 없습니다."
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "브론즈 서포터"
@@ -4131,6 +4136,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%dkg"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "플레이오프"
     },
     "common_label_1x": {
       "comment": "Odds indication of home or draw. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10955,6 +10965,16 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "전체 해설"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "other": "%d표"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

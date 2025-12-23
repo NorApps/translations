@@ -2783,6 +2783,11 @@
       "english": "Will both teams score?",
       "value": "Чи заб'ють обидві команди?"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "Розміщення в сітці базується на поточних результатах і не є остаточним, поки не завершиться поточний етап.\\n\\nКоманди, розділені словом «або», будуть разом у жеребкуванні і не можуть зустрітися в цьому раунді."
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "Bronze користувач"
@@ -4147,6 +4152,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d кг"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "Фінальна стадія"
     },
     "common_label_1x": {
       "comment": "Odds indication of home or draw. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10836,6 +10846,17 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "Повний коментар"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "one": "%d голос",
+        "other": "%d голоси"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

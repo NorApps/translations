@@ -2772,6 +2772,11 @@
       "english": "Will both teams score?",
       "value": "两队都会有进球吗？"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "括号中的位置基于实时结果，直到当前阶段完成才最终确定。\\n\\n用“或”分隔的球队将一起进入抽签，且在该轮中不会相遇。"
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "青铜会员"
@@ -4132,6 +4137,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d 公斤"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "淘汰赛"
     },
     "common_label_1x": {
       "comment": "Odds indication of home or draw. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10960,6 +10970,16 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "全场实况"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "other": "%d 票"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

@@ -2772,6 +2772,11 @@
       "english": "Will both teams score?",
       "value": "Liệu cả hai đội có ghi bàn thắng không?"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "Vị trí trong bảng đấu dựa trên kết quả trực tiếp và chưa phải là cuối cùng cho đến khi giai đoạn hiện tại hoàn tất.\\n\\nCác đội được tách ra bằng “or” sẽ được đưa vào cùng một lượt bốc thăm và không thể đối đầu nhau trong vòng đó."
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "CĐV Đồng"
@@ -4131,6 +4136,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d kg"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "Loại trực tiếp"
     },
     "common_label_1x": {
       "comment": "Odds indication of home or draw. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10961,6 +10971,16 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "Bình luận đầy đủ"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "other": "%d phiếu"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",

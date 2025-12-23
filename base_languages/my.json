@@ -2773,6 +2773,11 @@
       "english": "Will both teams score?",
       "value": "နှစ်သင်းလုံး ဂိုးသွင်းမှာလား။"
     },
+    "common_bracket_draw_info_legend": {
+      "comment": "Bracket draw explanation",
+      "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
+      "value": "ဘရားကက်တွင် နေရာချထားမှုများသည် တိုက်ရိုက်ရလဒ်များအပေါ် အခြေခံထားပြီး လက်ရှိအဆင့်ပြီးဆုံးသည်အထိ အဆုံးအဖြတ်မရပါ။\\n\\n“or” ဖြင့် ခွဲထားသော အသင်းများကို အတူတူ မဲဖောက်၍ ထားပြီး အဆိုပါအဆင့်တွင် တစ်ခုနှင့်တစ်ခု မတိုက်ခိုက်နိုင်ပါ။"
+    },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
       "value": "ကြေးအဆင့် ကူညီပံ့ပိုးသူ"
@@ -4132,6 +4137,11 @@
       "comment": "Weight of person in kg",
       "english": "%d kg",
       "value": "%d ကီလို"
+    },
+    "common_knockout_stage": {
+      "comment": "Used as header for vertical bracket view",
+      "english": "Knockout Stage",
+      "value": "ရှုံးထွက်ပွဲစဉ်"
     },
     "common_label_1": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10976,6 +10986,17 @@
       "comment": "Text on button that takes you to the \"Commentary\" tab for a match.",
       "english": "Full commentary",
       "value": "အစီရင်ခံမှု အပြည့်အစုံ"
+    },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%d vote",
+        "other": "%d votes"
+      },
+      "plurals": {
+        "one": "%d မဲ",
+        "other": "%d မဲများ"
+      }
     },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
