@@ -10990,12 +10990,11 @@
     "seo_votes": {
       "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
       "english_plurals": {
-        "one": "%d vote",
-        "other": "%d votes"
+        "one": "%s vote",
+        "other": "%s votes"
       },
       "plurals": {
-        "one": "%d မဲ",
-        "other": "%d မဲများ"
+        "other": "%s မဲ"
       }
     },
     "seo_watch_on_tv": {

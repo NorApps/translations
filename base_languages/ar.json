@@ -11029,14 +11029,15 @@
     "seo_votes": {
       "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
       "english_plurals": {
-        "one": "%d vote",
-        "other": "%d votes"
+        "one": "%s vote",
+        "other": "%s votes"
       },
       "plurals": {
-        "few": "%d أصوات",
-        "many": "%d صوتًا",
-        "other": "%d صوت",
-        "two": "%d صوتان"
+        "few": "%s أصوات",
+        "many": "%s صوتًا",
+        "one": "%s صوت",
+        "other": "%s صوت",
+        "two": "%s صوت"
       }
     },
     "seo_watch_on_tv": {

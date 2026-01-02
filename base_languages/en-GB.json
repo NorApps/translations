@@ -3853,6 +3853,17 @@
       "english": "Throw-ins",
       "value": "Throw-ins"
     },
+    "seo_votes": {
+      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "english_plurals": {
+        "one": "%s vote",
+        "other": "%s votes"
+      },
+      "plurals": {
+        "one": "%s vote",
+        "other": "%s votes"
+      }
+    },
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
