@@ -1698,7 +1698,7 @@
     "accessibility_second_extra_time_half_short": {
       "comment": "Used for second extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
       "english": "2nd ET",
-      "value": "2ème Prol."
+      "value": "2e Prol"
     },
     "accessibility_second_half_short": {
       "comment": "Used for second half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
