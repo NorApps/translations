@@ -391,7 +391,7 @@
     "accessibility_first_extra_time_half_short": {
       "comment": "Used for first extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
       "english": "1st ET",
-      "value": "1ère MT"
+      "value": "1ère Prol."
     },
     "accessibility_first_half_short": {
       "comment": "Used for first half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
@@ -1358,7 +1358,7 @@
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
       "english": "Only key events",
-      "value": "Moments clés seulement"
+      "value": "Moments clés uniquement"
     },
     "accessibility_only_relevant_matches": {
       "comment": "A label on a filter button to show/hide filtered out leagues",
@@ -1688,7 +1688,7 @@
     "accessibility_season_so_far": {
       "comment": "Header of a section describing stats for how a season has gone so far (number of goals, wins, etc)",
       "english": "Season so far",
-      "value": "Saison actuelle"
+      "value": "Saison en cours"
     },
     "accessibility_season_stats": {
       "comment": "Used as a title of a button where the user can toggle to show seasonal stats for a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -1698,7 +1698,7 @@
     "accessibility_second_extra_time_half_short": {
       "comment": "Used for second extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
       "english": "2nd ET",
-      "value": "2ème MT"
+      "value": "2e Prol"
     },
     "accessibility_second_half_short": {
       "comment": "Used for second half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
@@ -6285,7 +6285,7 @@
     "common_who_will_win": {
       "comment": "Header for a poll where we ask the user who he thinks will win the match",
       "english": "Who will win?",
-      "value": "Qui va gagner ?"
+      "value": "Qui l’emportera ?"
     },
     "common_widget_configure_title": {
       "english": "Configure widget",
@@ -10846,7 +10846,7 @@
     },
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",
-      "value": "Meilleures équipes classées 3ème"
+      "value": "Classement des 3èmes"
     },
     "seo_template_promotion_group": {
       "comment": "A group name in a tournament. Like Promotion group A. We will concatinate the string with the group number like A or B. See template_word_group",
