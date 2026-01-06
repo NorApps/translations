@@ -3100,7 +3100,7 @@
     "common_deep_stats_teams": {
       "comment": "Title on a tab in the app. Stats for the teams for a particular league",
       "english": "Team stats",
-      "value": "Stats des équipes"
+      "value": "Stats équipes"
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
@@ -3539,7 +3539,7 @@
     "common_find_leagues": {
       "comment": "Placeholder for the filter in the search-box in the tournaments list",
       "english": "Find leagues",
-      "value": "Trouver des ligues"
+      "value": "Rechercher des ligues"
     },
     "common_finish": {
       "comment": "Button's label to complete the WC2018 onboarding",
@@ -4139,7 +4139,7 @@
     "common_knockout_stage": {
       "comment": "Used as header for vertical bracket view",
       "english": "Knockout Stage",
-      "value": "Phase finale"
+      "value": "Phase éliminatoire"
     },
     "common_label_1x": {
       "comment": "Odds indication of home or draw. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -10288,7 +10288,7 @@
     },
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
-      "value": "Barrage des 8ème de finale"
+      "value": "Barrages des 8ème de finale"
     },
     "seo_running_the_latest_version": {
       "comment": "Used as a short toast to the user to tell the latest version of FotMob is already installed.",
