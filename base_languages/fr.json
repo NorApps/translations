@@ -391,7 +391,7 @@
     "accessibility_first_extra_time_half_short": {
       "comment": "Used for first extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
       "english": "1st ET",
-      "value": "1ère Prol."
+      "value": "1ère Prol"
     },
     "accessibility_first_half_short": {
       "comment": "Used for first half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
