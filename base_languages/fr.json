@@ -816,7 +816,7 @@
     "accessibility_invalid_code": {
       "comment": "Error message indicating the code entered is invalid",
       "english": "That didn't work. Please check that you entered the right code.",
-      "value": "Ça n'a pas fonctionné. Veuillez vérifier le code."
+      "value": "Cela n'a pas fonctionné. Veuillez vérifier que vous avez saisi le bon code."
     },
     "accessibility_is_favorite": {
       "comment": "Meant for VoiceOver. A match/league/player etc. is part of your favorites",
@@ -2554,7 +2554,7 @@
     },
     "common_adfree_title": {
       "english": "Go Premium!",
-      "value": "Devenir Premium"
+      "value": "Passez à la version Premium !"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2710,7 +2710,7 @@
     "common_awarded_win": {
       "comment": "Match status. The match is over and one of the teams has been awarded the win, for example due to the opposing team not showing up.",
       "english": "Awarded win",
-      "value": "A remporté la victoire"
+      "value": "Victoire accordée"
     },
     "common_away": {
       "comment": "Label indicating we are showing the away matches of the team",
@@ -2755,12 +2755,12 @@
     "common_biggest_loss": {
       "comment": "The biggest match loss for a team in a given season.",
       "english": "Biggest loss",
-      "value": "Défaite la plus importante"
+      "value": "Plus lourde défaite"
     },
     "common_biggest_win": {
       "comment": "The biggest match win for a team in a given season.",
       "english": "Biggest win",
-      "value": "Victoire la plus importante"
+      "value": "Plus large victoire"
     },
     "common_bolivia": {
       "english": "Bolivia",
@@ -3326,7 +3326,7 @@
     },
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
-      "value": "Erreur. Veuillez réessayer."
+      "value": "Une erreur s’est produite, merci de réessayer"
     },
     "common_error_push": {
       "english": "Error registering push notification, please try again",
@@ -4322,7 +4322,7 @@
     },
     "common_loading": {
       "english": "Loading...",
-      "value": "Chargement"
+      "value": "Chargement..."
     },
     "common_loan_return": {
       "comment": "Transfer status: player returned from loan",
@@ -4393,11 +4393,11 @@
     },
     "common_matches_sub_in": {
       "english": "Matches substituted in",
-      "value": "Matchs en tant que remplaçant"
+      "value": "Matchs entrés"
     },
     "common_matches_sub_out": {
       "english": "Matches substituted out",
-      "value": "Matchs quand remplacé"
+      "value": "Matchs remplacés"
     },
     "common_matches_uppercase": {
       "english": "Matches",
@@ -4550,7 +4550,7 @@
     "common_never_miss_a_headline": {
       "comment": "Title in onboarding for team news alert",
       "english": "Never miss a headline",
-      "value": "Ne manquez jamais une nouvelle"
+      "value": "Ne manquez jamais une info"
     },
     "common_new_leagues": {
       "english": "New leagues available",
@@ -4558,7 +4558,7 @@
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
-      "value": "Je suis nouveau dans FotMob !"
+      "value": "Je suis nouveau sur FotMob !"
     },
     "common_news": {
       "english": "News",
@@ -5092,7 +5092,7 @@
     },
     "common_post_to_facebook": {
       "english": "Post to Facebook",
-      "value": "Publie sur Facebook"
+      "value": "Publier sur Facebook"
     },
     "common_postponed": {
       "english": "Postponed",
@@ -5643,7 +5643,7 @@
     },
     "common_stop": {
       "english": "Stop",
-      "value": "Arret"
+      "value": "Arrêt"
     },
     "common_stream_playback_ended": {
       "english": "Audio playback ended",
@@ -6071,7 +6071,7 @@
     },
     "common_try_refresh": {
       "english": "Try a refresh?",
-      "value": "Rafraîchir ?"
+      "value": "Essayez de rafraîchir ?"
     },
     "common_turn_off_favorite_league_pling": {
       "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
@@ -6093,31 +6093,31 @@
     },
     "common_tv_selected_denmark": {
       "english": "TV schedules - Denmark",
-      "value": "Horaires TV - Danemark"
+      "value": "Programmes TV - Danemark"
     },
     "common_tv_selected_germany": {
       "english": "TV schedules - Germany",
-      "value": "Horaires TV - Germany"
+      "value": "Programmes TV - Germany"
     },
     "common_tv_selected_norway": {
       "english": "TV schedules - Norway",
-      "value": "Programmes télé - Norvège"
+      "value": "Programmes TV - Norvège"
     },
     "common_tv_selected_spain": {
       "english": "TV schedules - Spain",
-      "value": "Programmes télé - Espagne"
+      "value": "Programmes TV - Espagne"
     },
     "common_tv_selected_sweden": {
       "english": "TV schedules - Sweden",
-      "value": "Diffusions TV - Suède"
+      "value": "Programmes TV - Suède"
     },
     "common_tv_selected_uk": {
       "english": "TV schedules - UK",
-      "value": "Horaires TV - Royaume-Uni"
+      "value": "Programmes TV - Royaume-Uni"
     },
     "common_tv_selected_usa": {
       "english": "TV schedules - USA",
-      "value": "Diffusions TV - USA"
+      "value": "Programmes TV - USA"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6262,7 +6262,7 @@
     "common_view_tv_schedule": {
       "comment": "\"Item in Settings to open TV-guide\"",
       "english": "View TV schedules",
-      "value": "Afficher les programmes télé"
+      "value": "Afficher les programmes TV"
     },
     "common_welcome_to_supporters_club": {
       "comment": "A header for the Thank-you-for-supporting-us popup",
@@ -6492,7 +6492,7 @@
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
-      "value": "Restaurer les achats"
+      "value": "Restaurer les achats ?"
     },
     "ios_SVK": {
       "english": "Slovak",
@@ -6513,11 +6513,11 @@
     },
     "ios_Tweet": {
       "english": "Tweet",
-      "value": "Tweeter"
+      "value": "Tweet"
     },
     "ios_Tweet_the_applink": {
       "english": "Tweet the link of FotMob",
-      "value": "Tweeter le lien de FotMob"
+      "value": "Tweetez le lien de FotMob"
     },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
@@ -6599,7 +6599,7 @@
     },
     "ios_purchase_failed": {
       "english": "The purchase failed, please try again",
-      "value": "Échec de l'achat. Veuillez réessayer."
+      "value": "L’achat a échoué, veuillez réessayer"
     },
     "ios_push_sent": {
       "comment": "Text that appears after the user has requested a test score message",
@@ -6719,7 +6719,7 @@
     "new_dismiss": {
       "comment": "User is prompted for an action in a dialog and this is the cancel button",
       "english": "Dismiss",
-      "value": "Ignorer"
+      "value": "Annuler"
     },
     "new_e_mail": {
       "english": "Email address",
@@ -8328,7 +8328,7 @@
     "notifications_is_in_lineup": {
       "comment": "A user can get an alert if the player is in the lineup that will start the match. Can be either sub or as the starting 11.",
       "english": "Is in lineup",
-      "value": "Est dans la composition de l'équipe"
+      "value": "Est dans la composition de départ"
     },
     "notifications_israel": {
       "english": "Israel",
@@ -8539,7 +8539,7 @@
     "notifications_night_mode": {
       "comment": "Deprecated",
       "english": "Dark mode",
-      "value": "Mode nuit"
+      "value": "Mode sombre"
     },
     "notifications_no_data_available": {
       "comment": "Shown when no data is available",
@@ -8879,7 +8879,7 @@
     "notifications_set_at_least_one_match_alert": {
       "comment": "Short message telling user to check at least one of the checkboxes for match alerts",
       "english": "Set at least one match alert.",
-      "value": "Cocher au moins une alerte de match"
+      "value": "Configurez au moins une alerte de match"
     },
     "notifications_set_quick_toggle_notifications": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts on a match",
@@ -9667,7 +9667,7 @@
     "seo_free_form": {
       "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
       "english": "Free form",
-      "value": "Forme libre"
+      "value": "Formation libre"
     },
     "seo_friendly_match": {
       "comment": "Text explaining that the the current match is a friendly match that does not count towards any trophies or prices.",
@@ -9997,7 +9997,7 @@
     "seo_penalty_shootout_miss": {
       "comment": "Used in notifications to indicate that a team missed a penalty during a penalty shootout event, such as \"Arsenal miss! (penalty shootout).\"",
       "english": "%@ miss!",
-      "value": "%@ rate ! (tirs au but)."
+      "value": "%@ rate ! (tirs au but)"
     },
     "seo_penalty_shootout_v2": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
