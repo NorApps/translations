@@ -1,0 +1,34 @@
+{
+  "language": "ku",
+  "translations": {
+    "accessibility_about_us": {
+      "comment": "Text on button or link that redirects to the About us page.",
+      "value": "About us"
+    },
+    "accessibility_accurate_cross_team_subtitle": {
+      "comment": "Label used in stats for cross success percentage (accurate/total)",
+      "value": "Cross success"
+    },
+    "accessibility_accurate_cross_team_title": {
+      "comment": "Label used in stats for accurate crosses per match",
+      "value": "Accurate crosses per match"
+    },
+    "accessibility_accurate_long_balls_subtitle": {
+      "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
+      "value": "Successful long balls %"
+    },
+    "accessibility_accurate_long_balls_team_subtitle": {
+      "comment": "Label used in stats for successful long balls percentage (accurate/total)",
+      "value": "Successful long balls"
+    },
+    "accessibility_accurate_long_balls_team_title": {
+      "comment": "Label used in stats for accurate long balls per match",
+      "value": "Accurate long balls per match"
+    },
+    "accessibility_accurate_long_balls_title": {
+      "comment": "Label used in stats for accurate long balls per 90",
+      "value": "Accurate long balls per 90"
+    },
+    "accessibility_accurate_pass_per_90": {
+      "comment": "Label used in stats for shot accurate passes per 90 min",
+      "value": "Accurate passes per 90"
