@@ -3,32 +3,698 @@
   "translations": {
     "accessibility_about_us": {
       "comment": "Text on button or link that redirects to the About us page.",
-      "value": "About us"
+      "english": "About us",
+      "value": "دەربارەی ئێمە"
     },
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
-      "value": "Cross success"
+      "english": "Cross success",
+      "value": "ئۆڤەری سەرکەوتوو"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
-      "value": "Accurate crosses per match"
+      "english": "Accurate crosses per match",
+      "value": "ئۆڤەری دروست بۆ هەر یاریەک"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
-      "value": "Successful long balls %"
+      "english": "Successful long balls %",
+      "value": "ڕێژەی % تۆپی درێژی سەرکەوتوو"
     },
     "accessibility_accurate_long_balls_team_subtitle": {
       "comment": "Label used in stats for successful long balls percentage (accurate/total)",
-      "value": "Successful long balls"
+      "english": "Successful long balls",
+      "value": "تۆپی درێژی سەرکەوتوو"
     },
     "accessibility_accurate_long_balls_team_title": {
       "comment": "Label used in stats for accurate long balls per match",
-      "value": "Accurate long balls per match"
+      "english": "Accurate long balls per match",
+      "value": "تۆپی درێژی دروست بۆ هەر یاریەک"
     },
     "accessibility_accurate_long_balls_title": {
       "comment": "Label used in stats for accurate long balls per 90",
-      "value": "Accurate long balls per 90"
+      "english": "Accurate long balls per 90",
+      "value": "تۆپی درێژی دروست بۆ هەر 90 خولەکێک"
     },
     "accessibility_accurate_pass_per_90": {
       "comment": "Label used in stats for shot accurate passes per 90 min",
-      "value": "Accurate passes per 90"
+      "english": "Accurate passes per 90",
+      "value": "پاسی دروست بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_advertise": {
+      "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
+      "english": "Advertise",
+      "value": "ڕیکلام"
+    },
+    "accessibility_aerials_won_percent": {
+      "comment": "Stat indicating how many aerial duels the player or team has won",
+      "english": "Aerial duels won %",
+      "value": "ڕێژەی % بردنەوەی ململانێی تۆپی بەرز"
+    },
+    "accessibility_age_confirmation": {
+      "comment": "Popup header - used when a user needs to consent to being 18+.",
+      "english": "Age confirmation",
+      "value": "پشتڕاستکردنەوەی تەمەن"
+    },
+    "accessibility_age_confirmation_button_negative": {
+      "comment": "Button indicating if user is below the age limit. The placeholder is the age. So it can be \"Below 18\"",
+      "english": "Below %d",
+      "value": "خوار %d ساڵ"
+    },
+    "accessibility_age_confirmation_button_positive": {
+      "comment": "Button indicating if user is above the age limit. The placeholder is the age. So it can be \"18+\" or \"18 and over\"",
+      "english": "%d and over",
+      "value": "سەروو %d ساڵ"
+    },
+    "accessibility_age_confirmation_subtitle": {
+      "comment": "Popup subtext - used when a user needs to verify his age to display betting odds",
+      "english": "To display odds we need to verify your age",
+      "value": "بۆ پیشاندانی ڕێژەی گرەوەکان، پێویستە تەمەنت پشتڕاست بکەینەوە"
+    },
+    "accessibility_alerts_disabled": {
+      "comment": "Meant for VoiceOver. Lets the user know that a match has alerts off when in the detailed match-controller",
+      "english": "Alerts are disabled",
+      "value": "ئاگادارکەرەوەکان ناچالاک کراون"
+    },
+    "accessibility_alerts_enabled": {
+      "comment": "Meant for VoiceOver. Lets the user know that a match has alerts on when in the detailed match-controller",
+      "english": "Alerts are enabled",
+      "value": "ئاگادارکەرەوەکان چالاک کراون"
+    },
+    "accessibility_all_competitions": {
+      "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
+      "english": "All competitions",
+      "value": "هەموو پاڵەوانێتییەکان"
+    },
+    "accessibility_all_leagues": {
+      "comment": "Header indication you can set alerts that applies to all your favorite leagues",
+      "english": "All leagues",
+      "value": "هەموو خولەکان"
+    },
+    "accessibility_all_players": {
+      "comment": "Header indication you can set alerts that applies to all your favorite players",
+      "english": "All players",
+      "value": "هەموو یاریزانەکان"
+    },
+    "accessibility_all_set_text": {
+      "comment": "The user is done guessing who the winners will be and gets the option to sign in to save their predictions.",
+      "english": "All set! Sign in to save your predictions.",
+      "value": "هەموو شتێک ئامادەیە! بچۆ ژوورەوە بۆ پاشەکەوتکردنی پێشبینیەکانت."
+    },
+    "accessibility_all_stats": {
+      "comment": "Text shown on a link that lets the user see all the stats.",
+      "english": "All stats",
+      "value": "هەموو ئامارەکان"
+    },
+    "accessibility_all_teams": {
+      "comment": "Header indication you can set alerts that applies to all your favorite teams",
+      "english": "All teams",
+      "value": "هەموو یانەکان"
+    },
+    "accessibility_app_notifications_off_desc": {
+      "comment": "Text appearing when app notifications are off.",
+      "english": "You have disabled Notifications for FotMob",
+      "value": "تۆ ئاگادارکردنەوەکانی فوتمۆبت ناچالاک کردووە"
+    },
+    "accessibility_assist_by": {
+      "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
+      "english": "assist by %@",
+      "value": "ئەسیست لەلایەن %@"
+    },
+    "accessibility_assists_per_90": {
+      "comment": "Goal assists per 90 min",
+      "english": "Assists per 90",
+      "value": "ئەسیست بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_attackers": {
+    "english": "Forwards",
+      "value": "هێرشبەرەکان"
+    },
+    "accessibility_attacking_threat": {
+      "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
+      "english": "Momentum",
+      "value": "تەوژمی یاری"
+    },
+    "accessibility_attempt_saved": {
+      "comment": "A shot result description (attempt saved by keeper)",
+      "english": "Attempt saved",
+      "value": "سەیڤ کرا"
+    },
+    "accessibility_by_date": {
+      "comment": "Text shown on toggle that shows matches in a league sorted by date.",
+      "english": "By date",
+      "value": "بەپێی بەروار"
+    },
+    "accessibility_by_round": {
+      "comment": "Text shown on toggle that shows matches in a league or tournament sorted by round.",
+      "english": "By round",
+      "value": "بەپێی گەڕ"
+    },
+    "accessibility_calendar_hint": {
+      "comment": "Meant for VoiceOver. Hint for a calendar button where the user can change which the date for the matches they want to see",
+      "english": "See matches in other date",
+      "value": "بینینی یارییەکان لە بەروارێکی تردا"
+    },
+    "accessibility_career_stats": {
+      "comment": "Text shown on tab header for tab that shows the career stats for a player.",
+      "english": "Career stats",
+      "value": "ئامارەکانی ژیانی پیشەگەری"
+    },
+    "accessibility_careers": {
+      "comment": "Text on button or link that redirects to the About us page with information about career opportunities.",
+      "english": "Careers",
+      "value": "هەلی کار"
+    },
+    "accessibility_change_language_explanation": {
+      "comment": "Label indicating you can change the language of the app",
+      "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
+      "value": "بڕۆ بۆ ڕێکخستنەکان و دەست بنێ بە (زمان)دا بۆ هەڵبژاردنی زمانی پەسەندت بۆ فۆتمۆب.\\n\\nئەگەر ڕێکخستنی زمان بەردەست نەبوو، بڕۆ بۆ ڕێکخستنەکانی زمانی ئامێرەکەت بۆ ئەوەی سەرەتا زمانێکی پەسەند دابنێیت."
+    },
+    "accessibility_city": {
+      "comment": "Text shown for venue on a match if do not have a link to it.",
+      "english": "City",
+      "value": "شار"
+    },
+    "accessibility_club_team": {
+      "comment": "This is a header to indicate the team club a player plays on when he is playing for the national team. So for Ronaldo it would be \"Club => Manchester United\". Feel free to translate it to the same as the \"Team\" translation if Team and Club is the same in your language.",
+      "english": "Club",
+      "value": "یانە"
+    },
+    "accessibility_coach_win_percentage": {
+      "comment": "Percentage of games won out of total played.",
+      "english": "Coach win percentage",
+      "value": "ڕێژەی % بردنەوەی ڕاهێنەر"
+    },
+    "accessibility_collapse": {
+    "english": "Collapse",
+      "value": "بچووککردنەوە"
+    },
+    "accessibility_company": {
+      "comment": "Text on button or link that redirects to the About us page with information about our company.",
+      "english": "Company",
+      "value": "کۆمپانیا"
+    },
+    "accessibility_cookie_policy": {
+      "comment": "Text shown on link that redirects to the page that shows the cookie policy document.",
+      "english": "Cookie policy",
+      "value": "سیاسەتی کوکی"
+    },
+    "accessibility_could_not_connect": {
+    "english": "Could not connect to phone",
+      "value": "نەتوانرا بە مۆبایلەوە ببەسترێتەوە"
+    },
+    "accessibility_coupon": {
+      "comment": "Title for a coupon builder",
+      "english": "Coupon",
+      "value": "کۆبۆن"
+    },
+    "accessibility_createleaguepopup_create_a_league": {
+    "english": "Create a league",
+      "value": "خولێک دروست بکە"
+    },
+    "accessibility_createleaguepopup_create_league": {
+    "english": "Create league",
+      "value": "دروستکردنی خول"
+    },
+    "accessibility_createleaguepopup_enter_name": {
+    "english": "Enter a league name",
+      "value": "ناوی خولەکە بنووسە"
+    },
+    "accessibility_createleaguepopup_type_the_name": {
+    "english": "Type the name of the league below",
+      "value": "ناوی خولەکە لە خوارەوە بنووسە"
+    },
+    "accessibility_crosses_succeeeded": {
+      "comment": "Number of successful crosses for a player in a match",
+      "english": "Successful crosses",
+      "value": "ئۆڤەری سەرکەوتوو"
+    },
+    "accessibility_crosses_succeeeded_accuracy": {
+      "comment": "Number of successful crosses for a player in a match measured in percent",
+      "english": "Successful crosses %",
+      "value": "ڕێژەی % ئۆڤەری سەرکەوتوو"
+    },
+    "accessibility_date": {
+      "comment": "Text shown in table header for cells that show the date a match was played.",
+      "english": "Date",
+      "value": "بەروار"
+    },
+    "accessibility_days": {
+      "comment": "A label below a number indicating how many days are left until tournament starts",
+      "english_plurals": {
+        "one": "Day",
+        "other": "Days"
+        },
+      "plurals": {
+        "one": "ڕۆژ",
+        "other": "ڕۆژ"
+      }
+    },
+    "accessibility_defenders": {
+    "english": "Defenders",
+      "value": "بەرگریکارەکان"
+    },
+    "accessibility_defending": {
+      "comment": "A section header for defending stats for a football player. Below are things like tackles and recoveries",
+      "english": "Defending",
+      "value": "بەرگریکردن"
+    },
+    "accessibility_defensive_actions": {
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action.",
+      "english": "Defensive contributions",
+      "value": "بەشداریکردنی بەرگری"
+    },
+    "accessibility_defensive_actions_explained": {
+      "comment": "Explains what defensive contributions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
+      "english": "Defensive contributions is the sum of attempted tackles, blocks, clearances, and interceptions.",
+      "value": "بەشداریە بەرگریەکان بریتییە لە کۆی هەوڵەکانی خۆخشاندن، بەرپەرچدانەوە، دوورخستنەوە و پچڕاندنی تۆپ."
+    },
+    "accessibility_delete_account": {
+      "comment": "Button that the user can click to delete his FotMob account so all his data is removed from our servers.",
+      "english": "Delete account",
+      "value": "سڕینەوەی هەژمار"
+    },
+    "accessibility_delete_account_auth_prompt": {
+      "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
+      "english": "You will be asked to log in again to verify your identity before we can delete your data.",
+      "value": "داوات لێ دەکرێت دووبارە بچیتە ژوورەوە بۆ پشتڕاستکردنەوەی ناسنامەکەت پێش ئەوەی بتوانین زانیارییەکانت بسڕینەوە."
+    },
+    "accessibility_delete_account_description": {
+      "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
+      "english": "Are you certain you wish to delete your account? This cannot be undone.",
+      "value": "ئایا دڵنیایت لەوەی دەتەوێت هەژمارەکەت بسڕیتەوە؟ ئەم کارە ناگەڕێنرێتەوە."
+    },
+    "accessibility_detailed_goal_data": {
+      "comment": "Used for expandable button on goal types in player profile.",
+      "english": "Shot details",
+      "value": "وردەکاری شووتەکان"
+    },
+    "accessibility_detailspage_group_stage": {
+      "comment": "Heading over readonly view of the users preditions on the group stage",
+      "english": "Group stage",
+      "value": "قۆناغی کۆمەڵەکان"
+    },
+    "accessibility_detailspage_reset": {
+      "comment": "Text on button for users to reset their current predictions.",
+      "english": "Reset",
+      "value": "ڕێکخستنەوە"
+    },
+    "accessibility_direct_free_kick": {
+      "comment": "A shot setup description. Goal was scored via a free kick.",
+      "english": "Direct free kick",
+      "value": "لێدانی ڕاستەوخۆ"
+    },
+    "accessibility_download_fotmob": {
+    "english": "Download FotMob",
+      "value": "دابەزاندنی فوتمۆب"
+    },
+    "accessibility_dribbled_past": {
+      "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
+      "english": "Dribbled past",
+      "value": "بڕین لەلایەن یاریزانانی بەرامبەر"
+    },
+    "accessibility_duel_won_percent": {
+      "comment": "Duel over the possession of the ball where a player wins the ball",
+      "english": "Duels won %",
+      "value": "ڕێژەی % بردنەوەی ململانێکان"
+    },
+    "accessibility_effective_clearance_per_90": {
+      "comment": "Label used in stats for clearances per 90",
+      "english": "Clearances per 90",
+      "value": "دورخستنەوەی مەترسی بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_enable_push_description_live_activity": {
+      "comment": "Description for push reminder for live activities",
+      "english": "Enable push notifications to get live match updates on your lock screen",
+      "value": "ئاگادارکردنەوەکان چالاک بکە بۆ وەرگرتنی نوێکارییە ڕاستەوخۆکانی یاری کاتێک شاشە قوفڵە"
+    },
+    "accessibility_europa_conference_league_playoff": {
+      "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
+      "english": "Conference League playoff",
+      "value": "قۆناغی پاشکۆی کۆنفرانس لیگ"
+    },
+    "accessibility_events": {
+      "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
+      "english": "Events",
+      "value": "ڕووداوەکان"
+    },
+    "accessibility_expand": {
+      "comment": "To expand a league",
+      "english": "Expand",
+      "value": "فراوانکردن"
+    },
+    "accessibility_expected_goals_non_penalty": {
+      "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
+      "english": "Non-penalty xG",
+      "value": "xG بەبێ لێدانی سزا"
+    },
+    "accessibility_expected_goals_on_target_faced": {
+      "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
+      "english": "xGOT faced",
+      "value": "xGOT ڕوبەڕوبونەوە بۆ گۆڵ لێکران"
+    },
+    "accessibility_expected_goals_on_target_faced_per_90": {
+      "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
+      "english": "xGOT faced per 90",
+      "value": "ڕوبەڕوبونەوە بۆ گۆڵ لێکران بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_facts": {
+      "comment": "The main tab for the match facts. Needs to be kept short.",
+      "english": "Facts",
+      "value": "ڕووداوەکان"
+    },
+    "accessibility_fast_break": {
+      "comment": "A shot setup description. Goal was scored as part of a counter attack.",
+      "english": "Fast break",
+      "value": "هێرشی خێرا"
+    },
+    "accessibility_favorites_widget_display_body": {
+      "comment": "Used as the display body for the favorites widget in the widget selection menu. Body of a widget that shows the matches you are following.",
+      "english": "View the matches you follow with live updates",
+      "value": "بینینی ئەو یارییانەی فۆڵۆیان دەکەیت بە نوێکاریی ڕاستەوخۆوە"
+    },
+    "accessibility_favorites_widget_display_title": {
+      "comment": "Used as the display name for the favorites widget in the widget selection menu. Title of a widget that shows the matches you are following.",
+      "english": "Followed matches",
+      "value": "یاریە فۆڵۆکراوەکان"
+    },
+    "accessibility_fifa_rank": {
+      "comment": "Used as header for a list that displays all countries and their respective fifa ranking (e.g 1st - Belgium)",
+      "english": "FIFA rank",
+      "value": "ڕیزبەندی فیفا"
+    },
+    "accessibility_finals_loser": {
+      "comment": "Description of team that lost match. Eg. \"Loser SF1 vs Loser SF2\"",
+      "english": "Loser %1$@",
+      "value": "دۆڕاوی %1$@"
+    },
+    "accessibility_first_extra_time_half_short": {
+      "comment": "Used for first extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
+      "english": "1st ET",
+      "value": "گێمی +1"
+    },
+    "accessibility_first_half_short": {
+      "comment": "Used for first half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
+      "english": "1st",
+      "value": "گێمی 1"
+    },
+    "accessibility_follow_in_the_app": {
+      "comment": "Text shown in predictor to make the user want to download the app.",
+      "english": "Follow in the FotMob app",
+      "value": "لە بەرنامەی فوتمۆب فۆڵۆ بکە"
+    },
+    "accessibility_follow_in_the_app_description": {
+      "comment": "Describes the app so the user will want to download it.",
+      "english": "Access your predictions, points and leagues straight from your Android/iOS FotMob app.",
+      "value": "ڕاستەوخۆ لەڕێگەی بەرنامەی فۆتمۆبەوە بۆ ئەندرۆید و ئای ئۆ ئێس دەستت بە پێشبینییەکان، خاڵەکان و خولەکانت دەگات."
+    },
+    "accessibility_follow_leagues": {
+      "comment": "Header in the onboarding where you can choose your favorite leagues",
+      "english": "Follow leagues",
+      "value": "فۆڵۆکردنی خولەکان"
+    },
+    "accessibility_follow_leagues_to_set_notifications": {
+      "comment": "Used for subtitle on toast from settings if user is not following any leagues.",
+      "english": "Follow leagues to set notifications",
+      "value": "بۆ ڕێکخستنی ئاگادارکردنەوەکان فۆڵۆوی خولەکان بکە"
+    },
+    "accessibility_follow_players_to_set_notifications": {
+      "comment": "Used for subtitle on toast from settings if user is not following any players.",
+      "english": "Follow players to set notifications",
+      "value": "بۆ ڕێکخستنی ئاگادارکردنەوەکان فۆڵۆوی یاریزانەکان بکە"
+    },
+    "accessibility_follow_teams_to_set_notifications": {
+      "comment": "Used for subtitle on toast from settings if user is not following any teams.",
+      "english": "Follow teams to set notifications",
+      "value": "بۆ ڕێکخستنی ئاگادارکردنەوەکان فۆڵۆوی یانەکان بکە"
+    },
+    "accessibility_fotmob_is_the_essential_app": {
+      "comment": "Text shown in predictor to make the user want to download the app.",
+      "english": "FotMob is the essential football app.",
+      "value": "فۆتمۆب بەرنامەیەکی سەرەکی و گرنگی تۆپی پێیە."
+    },
+    "accessibility_fouls_committed_per_90": {
+      "comment": "This is a number for how many free kicks a player concedes on average during 90 minutes",
+      "english": "Fouls committed per 90",
+      "value": "فاوڵ لەسەر گیران بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_fouls_per_match": {
+      "comment": "Label used in stats for fouls per match",
+      "english": "Fouls per match",
+      "value": "فاوڵ بۆ هەر یاریەک"
+    },
+    "accessibility_fouls_won": {
+      "comment": "Number of fouls a player has won in a match",
+      "english": "Fouls won",
+      "value": "فاوڵ بۆ گیران"
+    },
+    "accessibility_from_corner": {
+      "comment": "A shot setup description. Goal was scored from a corner.",
+      "english": "From corner",
+      "value": "لە لێدانی گۆشەوە"
+    },
+    "accessibility_full_table": {
+      "comment": "String indicating that we will show a complete standings table with all the columns. See translation for short_table",
+      "english": "Full",
+      "value": "خشتەی تەواو"
+    },
+    "accessibility_fullscreen": {
+      "comment": "Button text - click on it to open play-by-play in fullscreen.",
+      "english": "Fullscreen",
+      "value": "فوول شاشە"
+    },
+    "accessibility_get_the_app": {
+      "comment": "Shown above the FotMob app download links.",
+      "english": "Get the app",
+      "value": "بەرنامەکە دابەزێنە"
+    },
+    "accessibility_gfx_season_stats": {
+      "comment": "Used as a title on graphics card for with season stats. Very limited room. Find shortest possible version",
+      "english": "Season stats",
+      "value": "ئامارەکانی وەرز"
+    },
+    "accessibility_goal_type": {
+      "comment": "Used for goal types in player profile",
+      "english": "Goal type",
+      "value": "جۆری گۆڵ"
+    },
+    "accessibility_goalkeeping": {
+      "comment": "This is a header for goalkeeper stats like saves, goals conceded and more. May be translated as \"Keeper stats\" or \"Goalkeeper stats\" if there isn't a good translation for this.",
+      "english": "Goalkeeping",
+      "value": "گۆڵپارێزی"
+    },
+    "accessibility_goals_and_assists": {
+      "comment": "Label used in stats for the sum of goals and assists",
+      "english": "Goals + Assists",
+      "value": "گۆڵ + ئەسیست"
+    },
+    "accessibility_goals_and_assists_per_90": {
+      "comment": "Label used in stats for the sum of goals and assists per 90 min",
+      "english": "Goals + Assists per 90",
+      "value": "گۆڵ + ئەسیست بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_goals_conceded_per_90": {
+      "comment": "Label used in stats for goals conceded per 90 for keepers.",
+      "english": "Goals conceded per 90",
+      "value": "گۆڵ لێکران بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_goals_per_90_subtitle": {
+      "comment": "Label used in stats for expected goals per 90 min",
+      "english": "Expected Goals per 90",
+      "value": "گۆڵی چاوەڕوانکراو بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_goals_per_90_title": {
+      "comment": "Label used in stats for goals per 90 min",
+      "english": "Goals per 90",
+      "value": "گۆڵ بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_goals_prevented": {
+      "comment": "Label used in stats for goals prevented for keepers.",
+      "english": "Goals prevented",
+      "value": "ڕێگریکردن لە گۆڵ لێکران"
+    },
+    "accessibility_got_a_code": {
+      "comment": "Header for redeem code view",
+      "english": "Have a code?",
+      "value": "کۆدت هەیە؟"
+    },
+    "accessibility_ground_duels_won": {
+      "comment": "This is a statistic where we list the number of times a football defender won a ground duel as opposed to an aerial duel.",
+      "english": "Ground duels won",
+      "value": "بردنەوەی ململانێی تۆپی نزم"
+    },
+    "accessibility_h2h_short": {
+      "comment": "Shortname of 'Head to head'. This tab shows how two teams have fared against each other in the past. Needs to be kept short. Use 'H2h' if it makes sense in the language",
+      "english": "H2H",
+      "value": "ڕوبەڕوبونەوە"
+    },
+    "accessibility_headed_clearances_per_90": {
+      "comment": "Clearances via head per 90",
+      "english": "Headed clearances per 90",
+      "value": "دوورخستنەوەی تۆپ بە سەر بۆ هەر 90 خولەک"
+    },
+    "accessibility_header": {
+      "comment": "A shot type variant. Goal was scored via a header.",
+      "english": "Header",
+      "value": "بە لێدانی سەر"
+    },
+    "accessibility_header_search_placeholder": {
+      "comment": "Placeholder text for a search bar where the user can search for leagues, teams, players and news.",
+      "english": "Leagues, teams, players and news",
+      "value": "خولەکان، یانەکان، یاریزانەکان و هەواڵەکان"
+    },
+    "accessibility_hide_all": {
+      "comment": "Button that can be clicked to hide all the leagues you don't follow.",
+      "english": "Hide all",
+      "value": "شاردنەوەی هەمووی"
+    },
+    "accessibility_highest_rank": {
+      "comment": "Label for field that shows a teams highest FIFA rank value.",
+      "english": "Highest rank",
+      "value": "بەرزترین ڕیزبەندی"
+    },
+    "accessibility_historical_table_positions": {
+      "comment": "Header indication a team's previous positions in the table. Example here: https://www.fotmob.com/teams/8650/history/liverpool",
+      "english": "Historical table positions",
+      "value": "ڕیزبەندی وەرزەکانی پێشووی یانەکە"
+    },
+    "accessibility_historical_table_positions_header": {
+      "comment": "Header text over graph that shows a team's historical table positions.",
+      "english": "Historical table positions",
+      "value": "ڕیزبەندی وەرزەکانی پێشووی یانەکە"
+    },
+    "accessibility_history": {
+      "comment": "Tab header for page with historical team data.",
+      "english": "History",
+      "value": "مێژوو"
+    },
+    "accessibility_individual_play": {
+      "comment": "A shot setup description. Goal was scored due to a solo effort. One player did it all himself.",
+      "english": "Individual play",
+      "value": "هەوڵی تاکەکەسی"
+    },
+    "accessibility_info_points_give": {
+      "comment": "button to open information about how points are given in a tournament",
+      "english": "show information about how points are given",
+      "value": "پیشاندانی زانیاری دەربارەی چۆنیەتی پێدانی خاڵەکان"
+    },
+    "accessibility_insights": {
+      "comment": "Used as a header for a section which displays insights about each of the teams before a match.",
+      "english": "Insights",
+      "value": "سەرنجەکان"
+    },
+    "accessibility_insights_average_goals_per_match": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Average [2.3] goals per match",
+      "english": "Average %1$@ goals per match",
+      "value": "تێکڕای %1$@ گۆڵی تۆمار کردووە بۆ هەر یاریەک"
+    },
+    "accessibility_insights_average_possession": {
+      "comment": "Displayed next to an icon of the team. Although the variable is percentage, do not format this. We localize the formatting of the percentage value automatically. Correct example for Liverpool: [image of Liverpool logo] Have an average possession of [44 %]. Wrong example for Liverpool: [image of Liverpool logo] Have an average possession of [44] %. Where everything inside the brackets are variables.",
+      "english": "Have an average possession of %1$@",
+      "value": "تێکڕای %1$@ خاوەندارێتی تۆپی لابووە"
+    },
+    "accessibility_insights_average_stat": {
+      "comment": "The team averages a value for a particular stat. Example (image of Barcelona to the left of this text): \"Average [shots on target per match]: [7.8]\" where text inside brackets ([xxx]) are variables",
+      "english": "Average %1$@: %2$@",
+      "value": "تێکڕای %1$@: %2$@"
+    },
+    "accessibility_insights_bad_form_team": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have lost their last 7 matches",
+      "english": "Have lost their last %1$@ matches",
+      "value": "دواین %1$@ یاری دۆڕاندووە"
+    },
+    "accessibility_insights_best_away": {
+      "comment": "The team is ranked some number for away games this season. Example: \"Ranked 3rd away from home this season\"",
+      "english": "Ranked %1$@ away from home this season",
+      "value": "لەم وەرزەدا لە ڕیزبەندی %1$@ دێت لە یاریەکانی دەرەوەی یاریگای خۆیان"
+    },
+    "accessibility_insights_best_home": {
+      "comment": "The team is ranked some number for home games this season. Example: \"Ranked 1st at home this season\"",
+      "english": "Ranked %1$@ at home this season",
+      "value": "لەم وەرزەدا لە ڕیزبەندی %1$@ دێت لە یاریەکانی ناو یاریگای خۆیان"
+    },
+    "accessibility_insights_chances_created_rank_in_competition": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
+      "english": "Ranked %1$@ in big chances created (%2$@ big chances)",
+      "value": "لە ڕیزبەندی %1$@ دێت بۆ دروستکردنی هەلی گەورە بە (%2$@ هەلی گەورە)"
+    },
+    "accessibility_insights_clean_sheets": {
+      "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
+      "english": "Have kept the most clean sheets in the competition (%1$@)",
+      "value": "خاوەنی زۆرترین کلین شیتە لەم پاڵەوانێتیەدا بە (%1$@) کلین شیت"
+    },
+    "accessibility_insights_goalless_away": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 4 away matches",
+      "english": "Haven't scored in %1$@ away matches",
+      "value": "لە دواین %1$@ یاری دەرەوەی یاریگای خۆیان گۆڵیان تۆمار نەکردووە"
+    },
+    "accessibility_insights_goalless_home": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 3 home matches",
+      "english": "Haven't scored in %1$@ home matches",
+      "value": "لە دواین %1$@ یاری ناو یاریگای خۆیان گۆڵیان تۆمار نەکردووە"
+    },
+    "accessibility_insights_goalless_team": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in their last 4 matches",
+      "english": "Haven't scored in their last %1$@ matches",
+      "value": "لە دواین %1$@ یاریدا گۆڵیان تۆمار نەکردووە"
+    },
+    "accessibility_insights_goals_conceded_team_ranking": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [2nd] in goals conceded per match ([0.7] goals)",
+      "english": "Ranked %1$@ in goals conceded per match (%2$@ goals)",
+      "value": "لە ڕیزبەندی %1$@ دێت لە گۆڵ لێکران بۆ هەر یاریەک بە (%2$@ گۆڵ)"
+    },
+    "accessibility_insights_goals_scored_team_ranking": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [1st] in goals scored per match ([2.1] goals)",
+      "english": "Ranked %1$@ in goals scored per match (%2$@ goals)",
+      "value": "لە ڕیزبەندی %1$@ دێت لە تۆمارکردنی گۆڵ بۆ هەر یاریەک بە (%2$@ گۆڵ)"
+    },
+    "accessibility_insights_goals_team": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
+      "english": "Have scored %1$@ goals in their last %2$@ matches",
+      "value": "Have scored %1$@ گۆڵیان تۆمار کردووە لە دواین %2$@ یاریاندا"
+    },
+    "accessibility_insights_gone_without_win": {
+      "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
+      "english": "Have gone %1$@ matches without a win",
+      "value": "لە دواین %1$@ یاریدا بردنەوەیان بەدەست نەهێناوە"
+    },
+    "accessibility_insights_good_form_team": {
+      "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Have won their last 7 matches.",
+      "english": "Have won their last %1$@ matches",
+      "value": "دواین %1$@ یاریان بردووەتەوە"
+    },
+    "accessibility_insights_lost_last_matches": {
+      "comment": "The team has lost a particular number of consecutive matches. Example: \"Have lost their 5 last matches\"",
+      "english": "Have lost their last %1$@ matches",
+      "value": "دواین %1$@ یاریان دۆڕاندووە"
+    },
+    "accessibility_insights_not_clean_sheet": {
+      "comment": "The team has not kept a clean sheet (conceded at least one goal) for a particular number of matches. Example: \"Haven't kept a clean sheet in 7 matches\"",
+      "english": "Haven't kept a clean sheet in %1$@ matches",
+      "value": "ماوەی %1$@ یاریە کلین شیتیان نەکردووە"
+    },
+    "accessibility_insights_not_won_at_home": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won at home in their last (number greater than 2) matches",
+      "english": "Haven't won at home in their last %1$@ matches",
+      "value": "لە دواین %1$@ یاری لەناو یاریگای خۆیان بردنەوەیان بەدەست نەهێناوە"
+    },
+    "accessibility_insights_not_won_away": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won an away game in their last (number greater than 2) matches",
+      "english": "Haven't won an away game in their last %1$@ matches",
+      "value": "لە دواین %1$@ یاری لە دەرەوەی یاریگای خۆیان بردنەوەیان بەدەست نەهێناوە"
+    },
+    "accessibility_insights_not_won_team": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won a match in 4 attempts",
+      "english": "Haven't won a match in %1$@ attempts",
+      "value": "لە دواین %1$@ یاریان بردنەوەیان تۆمار نەکردووە"
+    },
+    "accessibility_insights_penalties_awarded": {
+      "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
+      "english": "Have been awarded the most penalties this season (%1$@)",
+      "value": "بە (%1$@) لێدانی سزا زۆرترین لێدانی سزایان بۆ هەژمار کراوە لەم وەرزەدا"
+    },
+    "accessibility_insights_penalties_conceded": {
+      "comment": "The team has the record for conceding penalties in a season. Example: \"Have conceded the most penalties this season (13)\"",
+      "english": "Have conceded the most penalties this season (%1$@)",
+      "value": "بە  (%1$@) لێدانی سزا زۆرترین لێدانی سزایان لەسەر هەژمار کراوە لەم وەرزەدا"
+    },
