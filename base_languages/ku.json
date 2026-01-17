@@ -698,3 +698,446 @@
       "english": "Have conceded the most penalties this season (%1$@)",
       "value": "بە  (%1$@) لێدانی سزا زۆرترین لێدانی سزایان لەسەر هەژمار کراوە لەم وەرزەدا"
     },
+    "accessibility_insights_player_average_minutes_per_goal": {
+      "comment": "A player averages some value (typically 60-120) minutes per goal. Example: \"[Mohammed Salah] averages [67] minutes per goal\"",
+      "english": "%1$@ averages %2$@ minutes per goal"
+      "value": "یاریزان %1$@ بە تێکڕا هەر %2$@ خولەکێک گۆڵێکی تۆمار کردووە"
+    },
+    "accessibility_insights_player_average_stat": {
+      "comment": "A player averages some number for a stat. Example: \"[Lionel Messi] averages [7.2] [shots on target]\" %2$@ signifies the stat while %3$@ is the value, so feel free to swap these if that is appropriate for the language.",
+      "english": "%1$@ averages %2$@ %3$@"
+      "value": "یاریزان %1$@ بە تێکڕا %2$@ %3$@ هەیە"
+    },
+    "accessibility_insights_player_chances_created_rank_in_competition": {
+      "comment": "A player which is one of the top players in terms of big chances created in the competition. Example: \"Erling Haaland is ranked 1st in big chances created in the competition (20)\"",
+      "english": "%1$@ is ranked %2$@ in big chances created in the competition (%3$@)"
+      "value": "یاریزان %1$@ لە ڕیزبەندی %2$@ دێت لە دروستکردنی هەلی گەورە لە پاڵەوانێتییەکەدا بە (%3$@) هەلی گەورە"
+    },
+    "accessibility_insights_player_goals_scored": {
+      "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
+      "english": "%1$@ is the competition's top scorer (%2$@)"
+      "value": "یاریزان %1$@ گۆڵکاری پاڵەوانێتیەکەیە بە (%2$@) گۆڵ"
+    },
+    "accessibility_insights_player_most_chances_for_team": {
+      "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
+      "english": "%1$@ has created the most big chances for %2$@ (%3$@)"
+      "value": "یاریزان %1$@ زۆرترین هەلی گەورەی دروست کردووە بۆ یانەی %2$@ بە (%3$@) هەلی گەورە"
+    },
+    "accessibility_insights_player_most_shots_on_target_for_team": {
+      "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
+      "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)"
+      "value": "یاریزان %1$@ زۆرترین شووتی بۆناو گۆڵ هەیە بۆ یانەی %2$@ بە تێکڕای (%3$@) شووت بۆ هەر یاریەک"
+    },
+    "accessibility_insights_player_most_x_for_team": {
+      "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
+      "english": "%1$@ has the most %2$@ for %3$@ (%4$@)"
+      "value": "یاریزان %1$@ زۆرترین %2$@ هەیە لە یانەی %3$@ بە (%4$@ - %2$@)"
+    },
+    "accessibility_insights_player_rank_in_competition": {
+      "comment": "A player is ranked some number in a stat this season. Example: \"[Lionel Messi] is ranked [2nd] in [goals] in the competition (21)\" where text inside brackets ([xxx]) are variables",
+      "english": "%1$@ is ranked %2$@ in %3$@ in the competition (%4$@)"
+      "value": "یاریزان %1$@ لە ڕیزبەندی %2$@ دێت لە %3$@ لە پاڵەوانێتییەکەدا بە (%4$@ - %3$@)"
+    },
+    "accessibility_insights_player_saves_per_match_rank_in_competition": {
+      "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
+      "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)"
+      "value": "یاریزان %1$@ لە ڕیزبەندی %2$@ دێت لە سەیڤ کردنی تۆپ لە پاڵەوانێتییەکەدا بە (%3$@) سەیڤ بۆ هەر یاریەک"
+    },
+    "accessibility_insights_player_scored_consecutive": {
+      "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
+      "english": "%1$@ has scored in %2$@ consecutive matches"
+      "value": "یاریزان %1$@ ماوەی %2$@ یاریە لەسەریەک گۆڵ تۆمار دەکات"
+    },
+    "accessibility_insights_player_scored_x_in_y": {
+      "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
+      "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches"
+      "value": "یاریزان %1$@ لە %2$@ یاری لە دواین %3$@'s یاری یانەی %4$@ گۆڵی تۆمار کردووە" 
+    },
+    "accessibility_insights_rank_in_competition": {
+      "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
+      "english": "Ranked %1$@ in %2$@ in the competition (%3$@)"
+      "value": "لە ڕیزبەندی %1$@ دێت لە %2$@ لە پاڵەوانێتییەکەدا بە (%3$@ - %2$@)"
+    },
+    "accessibility_insights_shots_on_target_team_ranking": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
+      "english": "Ranked %1$@ in shots on target per match (%2$@ shots)"
+      "value": "لە ڕیزبەندی %1$@ دێت لە شووت کردن بۆناو خانەی گۆڵ بە (%2$@ شووت) بۆ هەر یاریەک"
+    },
+    "accessibility_insights_team_ranking": {
+      "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
+      "english": "Are ranked %1$@ in %2$@ (%3$@)"
+      "value": "لە ڕیزبەندی %1$@ دێت لە %2$@ بە (%3$@ - %2$@)"
+    },
+    "accessibility_insights_unbeaten_at_home": {
+      "comment": "The team has not lost in a particular number of consecutive home matches. Example: \"Are unbeaten in 15 home games\"",
+      "english": "Unbeaten in %1$@ home games"
+      "value": "ماوەی %1$@ یاریە لەسەریەک لەناو یاریگای خۆیدا نەدۆڕاوە"
+    },
+    "accessibility_insights_unbeaten_away": {
+      "comment": "The team has not lost in a particular number of consecutive away matches. Example: \"Are unbeaten in 15 away games\"",
+      "english": "Unbeaten in %1$@ away games"
+      "value": "ماوەی %1$@ یاریە لەسەریەک لە دەرەوەی یاریگای خۆیدا نەدۆڕاوە"
+    },
+    "accessibility_insights_undefeated": {
+      "comment": "The team has gone a particular number of matches without losing. Example: \"Undefeated in 7 matches\"",
+      "english": "Undefeated in %1$@ matches"
+      "value": "ماوەی %1$@ یاریە لەسەریەک نەدۆڕاوە"
+    },
+    "accessibility_insights_undefeated_team": {
+      "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Haven't lost in 12 matches",
+      "english": "Haven't lost in %1$@ matches"
+      "value": "لە دواین %1$@ یاریدا نەدۆڕاوە"
+    },
+    "accessibility_interception_team_title": {
+      "comment": "Label used in stats for interceptions per match",
+      "english": "Interceptions per match",
+      "value": "بەرپەچدانەوەی تۆپ بۆ هەر یاریەک"
+    },
+    "accessibility_interception_title": {
+      "comment": "Label used in stats for interceptions per 90",
+      "english": "Interceptions per 90",
+      "value": "بەرپەچدانەوەی تۆپ بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_international_clubs": {
+      "comment": "Header listing a list of tournaments where clubs from different countries participate. Like Champions League.",
+      "english": "International - clubs",
+      "value": "جامی یانەکان"
+    },
+    "accessibility_interrupted": {
+      "comment": "A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
+      "english": "Interrupted", 
+      "value": "ڕاگیراوە"
+    },
+    "accessibility_interrupted_short": {
+      "comment": "Char limit is 2! A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
+      "english": "IR"
+      "value": "IR"
+    },
+    "accessibility_invalid_code": {
+      "comment": "Error message indicating the code entered is invalid",
+      "english": "That didn't work. Please check that you entered the right code."
+      "value": "سەرکەوتوو نەبوو. تکایە دڵنیا بەرەوە کە کۆدەکەت بە دروستی نووسیوە."
+    },
+    "accessibility_is_favorite": {
+      "comment": "Meant for VoiceOver. A match/league/player etc. is part of your favorites",
+      "english": "Is favorite"
+      "value": "دڵخوازە"
+    },
+    "accessibility_is_not_favorite": {
+      "comment": "Meant for VoiceOver. A match/league/player etc. is not a favorite",
+      "english": "Is not favorite"
+      "value": "دڵخواز نیە"
+    },
+    "accessibility_joinleaguepopup_enter_code": {
+      "comment": "placeholder in text box for entering league",
+      "english": "Enter a league code"
+      "value": "کۆدی خولەکە بنووسە"
+    },
+    "accessibility_joinleaguepopup_error": {
+      "comment": "Error message displayed when we cannot find a league with the given code",
+      "english": "Sorry, we're unable to find a league with that code"
+      "value": "ببورە، هیچ خولێک بەو کۆدە نەدۆزرایەوە"
+    },
+    "accessibility_joinleaguepopup_join_league": {
+    "english": "Join league"
+    "value": "بەشداری خول بکە"
+    },
+    "accessibility_joinleaguepopup_type_league_code": {
+    "english": "Type or paste the unique League ID-code in the text field below:"
+    "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
+    },
+    "accessibility_keeper_saves": {
+      "comment": "Stat for the number of keeper saves in the match",
+      "english": "Keeper saves"
+      "value": "سەیڤەکانی گۆڵپارێز"
+    },
+    "accessibility_keeper_sweeper_actions": {
+      "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
+      "english": "Sweeper"
+      "value": "دوورخستنەوەی تۆپ لە دەرەوەی ناوچەی سزا"
+    },
+    "accessibility_keepers": {
+      "comment": "A header for the list of goalkeepers",
+      "english": "Keepers"
+      "value": "گۆڵپارێزەکان"
+    },
+    "accessibility_last_starting_xi": {
+      "comment": "Header indicating that we are showing the last starting 11 players on the pitch.",
+      "english": "Last starting XI"
+      "value": "دواین پێکهاتەی سەرەکی یاریزانان"
+    },
+    "accessibility_league_widget_body": {
+      "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
+      "english": "View today's matches with live updates"
+      "value": " یاریەکانی ئەمڕۆ بە نوێکاریی ڕاستەوخۆوە"
+    },
+    "accessibility_league_widget_header": {
+      "comment": "Header for a widget where you get an overview of a league's matches",
+      "english": "League Widget"
+      "value": "ویجێتی خول"
+    },
+    "accessibility_learn_more_cta": {
+      "comment": "A call-to-action to read more about a subject. The placeholder is just a link to the info-page. Make sure to keep <a href=\"%@\"> & </a> in the translation",
+      "english": "For more info, <a href=\"%@\">click here.</a>"
+      "value": "بۆ زانیاری زیاتر، <a href=\"%@\">کلیک لێرە بکە.</a>"
+    },
+    "accessibility_left_foot": {
+      "comment": "A shot type variant. Goal was scored via the left foot.",
+      "english": "Left foot"
+      "value": "پێی چەپ"
+    },
+    "accessibility_live_activities": {
+      "comment": "A new feature in iOS 16: See https://www.apple.com/[your-language-code]/ios/ios-16/ for the proper naming scheme",
+      "english": "Live Activities"
+      "value": "چالاکیە ڕاستەوخۆکان"
+    },
+    "accessibility_live_activities_onboarding_bell_info": {
+      "comment": "Used to inform the user that live activities can be changed in the team profile.",
+      "english": "Make changes by clicking the bell on the team profile"
+      "value": "بۆ ئەنجامدانی گۆڕانکاری، کلیک لەسەر زەنگۆلەکە بکە لەناو پرۆفایلی تیپەکەدا"
+    },
+    "accessibility_live_activities_onboarding_pin_teams": {
+      "comment": "Description string used when onboarding users to auto live activities.",
+      "english": "Automatically pin matches from teams you follow to your lock screen"
+      "value": "بە شێوەیەکی ئۆتۆماتیکی یاریەکانی ئەو یانانەی فۆڵۆیان دەکەیت پین بکە کاتێک شاشەی مۆبایلەکەت قوفڵە"
+    },
+    "accessibility_live_activity_added": {
+      "comment": "Used in toast when activating a live activity",
+      "english": "Live match added to your lock screen"
+      "value": "یاریە ڕاستەوخۆکە بۆ سەر شاشەی قوفڵ زیاد کرا"
+    },
+    "accessibility_live_activity_alert_message": {
+      "comment": "Used as message on alert if user has not activated live activities",
+      "english": "Looks like you don't have live activities turned on"
+      "value": "وا دیارە چالاکیە ڕاستەوخۆکانت کارا نەکردووە"
+    },
+    "accessibility_live_activity_alert_title": {
+      "comment": "Used as title on alert if user has not activated live activities",
+      "english": "Turn on live activities"
+      "value": "چالاکییە ڕاستەوخۆکان کارا بکە"
+    },
+    "accessibility_live_activity_max_exceeded": {
+      "comment": "Toggle label which explains you have exceeed the number of teams we allow to have their matches pinned to the lock screen as Live Activities. Translate pinned as \"shown\" if pinned sounds strange.",
+      "english": "You've reached the maximum number of teams that can be pinned to the lock screen"
+      "value": "گەیشتوویتە ئاستی ڕێگەپێدراوی ژمارەی ئەو یانانەی کە دەتوانیت لەسەر شاشەی قوفڵ پین بکەیت"
+    },
+    "accessibility_live_activity_pin_to_lockscreen": {
+      "comment": "Toggle label which appears when clicking the bell on a team page. It will then create a Live Activity for all matches for this specific team on your lock screen. Translate pinned as \"shown\" if pinned sounds strange.",
+      "english": "Pin all matches to lock screen"
+      "value": "هەموو یاریەکان لەسەر شاشەی قوفڵ پین بکە"
+    },
+    "accessibility_live_activity_removed": {
+      "comment": "Used in toast when removing a live activity",
+      "english": "Live match removed from lock screen"
+      "value": "یاریە ڕاستەوخۆکە لەسەر شاشەی قوفڵ لادرا"
+    },
+    "accessibility_live_activity_tooltip": {
+      "comment": "Used in onboarding of live activities on tooltip",
+      "english": "Tap the star to add the match to your lock screen"
+      "value": "دەست بنێ بە ئەستێرەکەدا بۆ زیادکردنی یاریەکە بۆ سەر شاشەی قوفڵ"
+    },
+    "accessibility_live_activity_visit_team_page": {
+      "comment": "Hint indicating the user has to go to the team page to turn on Live Activities for all the team's matches",
+      "english": "Turn on for all matches via the bell on the team page"
+      "value": "لە ڕێگەی زەنگۆلەکەی ناو لاپەڕەی یانەکەوە، ئەم تایبەتمەندیە بۆ هەموو یاریەکان کارا بکە"
+    },
+    "accessibility_live_activity_will_be_added": {
+      "comment": "Used in toast when activating a live activity ahead of time.",
+      "english": "Match will be shown on the lock screen one hour before kickoff"
+      "value": "یاریەکە یەک کاتژمێر پێش دەستپێکردن لەسەر شاشەی قوفڵ پیشان دەدرێت"
+    },
+    "accessibility_live_score_filter_hint": {
+      "comment": "Hint text on the live scores filter that lets the use filter matches by typing in a country, team or league name.",
+      "english": "Country, team or league"
+      "value": "وڵات، یانە یان خول"
+    },
+    "accessibility_load_more": {
+      "comment": "Text on button that lets the user load more news articles.",
+      "english": "Load more"
+      "value": "بینینی زیاتر"
+    },
+    "accessibility_log_out_and_delete_account": {
+      "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
+      "english": "Sign out and delete account"
+      "value": "چوونە دەرەوە و سڕینەوەی هەژمار"
+    },
+    "accessibility_login_disclaimer": {
+      "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
+      "english": "By signing in you accept the Terms of use and Privacy Policy."
+      "value": "بە چوونە ژوورەوەت، تۆ ڕەزامەندیت لەسەر مەرجەکانی بەکارهێنان و سیاسەتی تایبەتمەندی."
+    },
+    "accessibility_logincomponent_desc1": {
+      "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
+      "english": "To save your data you just have to sign in to enter the FotMob"
+      "value": "بۆ پاشەکەوتکردنی زانیاریەکانت، تەنها پێویستە بچیتە ژوورەوە بۆ ناو بەرنامەی فۆتمۆب "
+    },
+    "accessibility_logincomponent_desc1_v2": {
+      "comment": "explanation that the user needs to login to enter the competion.",
+      "english": "Sign in to save your data and sync across devices."
+      "value": "بچۆ ژوورەوە بۆ پاشەکەوتکردنی زانیاریەکانت و هاوکاتکردنیان لەنێوان ئامێرەکاندا."
+    },
+    "accessibility_logincomponent_desc2": {
+      "english": "Euro 2020 Competition!"
+      "value": "پاڵەوانێتی یۆرۆی 2020!"
+    },
+    "accessibility_logincomponent_desc2_v2": {
+      "comment": "Spesific tournament competition header. Eg. \"EURO 2020 Competition!\" / \"Copa America 2021 Competition!\"",
+      "english": "%1$@ Competition!"
+      "value": "پاڵەوانێتی %1$@!"
+    },
+    "accessibility_long_ball_succeeeded_accuracy": {
+      "comment": "Number of successful long balls for a player in a match measured in percent",
+      "english": "Accurate long balls %"
+      "value": "ڕێژەی % تۆپی درێژی دروست"
+    },
+    "accessibility_lost_possession": {
+      "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
+      "english": "Lost possession"
+      "value": "لەدەستدانی تۆپ"
+    },
+    "accessibility_match_insights": {
+      "comment": "Used as a header for betting insights",
+      "english": "Match insight"
+      "value": "تێڕوانینی یاری"
+    },
+    "accessibility_match_stats": {
+      "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
+      "english": "Match stats"
+      "value": "ئامارەکانی یاری"
+    },
+    "accessibility_matches_count": {
+    "english": "%d matches",
+      "english_plurals": {
+        "one": "1 match",
+        "other": "%d matches"
+      },
+      "plurals": {
+        "one": "1 یاری",
+        "other": "%d یاری"
+      },
+      "value": "%d یاری"
+    },
+    "accessibility_matches_left": {
+    "english": "%d matches left",
+      "english_plurals": {
+        "one": "1 match left",
+        "other": "%d matches left"
+      },
+      "plurals": {
+        "one": "1 یاری ماوە",
+        "other": "%d یاری ماوە"
+      },
+      "value": "%d یاری ماوە"
+    },
+    "accessibility_midfielders": {
+      "comment": "A header for the list of midfielders",
+      "english": "Midfielders"
+      "value": "ناوەڕاستکاران"
+    },
+    "accessibility_misc_2nd_of_group": {
+      "comment": "Indicating the runner up of a group. Eg \"2nd Group C\"",
+      "english": "2nd Group %1$@"
+      "value": "دووەمی کۆمەڵەی %1$@"
+    },
+    "accessibility_misc_3rd_of_group": {
+      "comment": "Indicating the 3rd placed team in a group. Eg \"3rd in Group C\"",
+      "english": "3rd in Group %1$@"
+      "value": "سێیەمی کۆمەڵەی %1$@"
+    },
+    "accessibility_misc_4th_of_group": {
+      "comment": "Indicating the fourth place finisher in a group. Eg \"4th in Group C\"",
+      "english": "4th in Group %1$@"
+      "value": "چوارەمی کۆمەڵەی %1$@"
+    },
+    "accessibility_misc_5th_of_group": {
+      "comment": "Indicating the fifth place finisher in a group. Eg \"5th in Group C\"",
+      "english": "5th in Group %1$@"
+      "value": "پێنجەمی کۆمەڵەی %1$@"
+    },
+    "accessibility_misc_lucky_loser_of_groups": {
+      "comment": "Indicating the lucky loser team from one of the given groups. Eg \"Lucky Loser Groups DEF\"",
+      "english": "Lucky Loser Groups %1$@"
+      "value": "دۆڕاوی بەبەختی کۆمەڵەکانی %1$@"
+    },
+    "accessibility_misc_save_and_continue": {
+      "english": "Save locally & continue"
+      "value": "پاشەکەوتکردن لەسەر ئامێرەکە و بەردەوامبوون"
+    },
+    "accessibility_misc_save_and_continue_hint": {
+      "comment": "Explanation of the benefits of signing in",
+      "english": "Sign in to save your predictions (or save locally in your browser). Signing in is required to create and join leagues."
+      "value": "بچۆ ژوورەوە بۆ پاشەکەوتکردنی پێشبینییەکانت (یان بە شێوەی ناوخۆیی لە وێبگەڕەکەتدا پاشەکەوتیان بکە). بۆ دروستکردن و چوونە ناو خولەکان، پێویستە بچیتە ژوورەوە."
+    },
+    "accessibility_misc_save_and_continue_v2": {
+      "comment": "Alternative to logging in.",
+      "english": "Or save locally and continue."
+      "value": "یان بە شێوەی ناوخۆیی پاشەکەوتی بکە و بەردەوامبە."
+    },
+    "accessibility_misc_winner": {
+      "comment": "Indecating the winner of a match. The winner for match between the 2nd placed team in group C and the 1st placed team in group A would be; \"Winner 2C/1A\"",
+      "english": "Winner %1$@"
+      "value": "براوەی %1$@"
+    },
+    "accessibility_misc_winner_of_group": {
+      "comment": "Indicating the winner of a group. Eg \"Winner Group B\"",
+      "english": "Winner Group %1$@"
+      "value": "براوەی کۆمەڵەی %1$@"
+    },
+    "accessibility_miss": {
+      "comment": "A shot result description (missed the target)",
+      "english": "Miss"
+      "value": "بۆ دەرەوە"
+    },
+    "accessibility_more_tab": {
+      "comment": "Text shown under an icon to show the user that more info can be found under the 'more' tab in the app.",
+      "english": "More tab"
+      "value": "بەشی زیاتر"
+    },
+    "accessibility_most_recent": {
+      "comment": "Used in transfer center to order transfers by most recent.",
+      "english": "Most recent"
+      "value": "نوێترین"
+    },
+    "accessibility_myleaguespage_challenge_your_friends": {
+      "comment": "Heading on dialog for creating or joining a league",
+      "english": "Challenge your friends!"
+      "value": "ڕکابەری هاوڕێکانت بکە!"
+    },
+    "accessibility_myleaguespage_create_a_new_league": {
+      "comment": "Label on button for creating a new league",
+      "english": "Create a new league"
+      "value": "دروستکردنی خولێکی نوێ"
+    },
+    "accessibility_myleaguespage_desc1": {
+      "comment": "explanation on nature of the leagues the user create",
+      "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide."
+      "value": "ئەو خولانەی دروستیان دەکەیت تایبەتن، و تەنها ئەو کەسانە دەتوانن بەشداری تێدا بکەن کە کۆدی تایبەت یان لێنکی بانگهێشتنامەیان لایە."
+    },
+    "accessibility_myleaguespage_desc1_v2": {
+      "comment": "Create a league to compete against others.",
+      "english": "Create a league to compete against others."
+      "value": "خولێک دروست بکە بۆ کێبڕکێکردن لەگەڵ کەسانی تر."
+    },
+    "accessibility_myleaguespage_desc2": {
+      "english": "You will automatically be added to the Global League once the World Cup kicks off, where you can see your standing versus all players in the competition."
+      "value": "بە شێوەیەکی ئۆتۆماتیکی زیاد دەکرێیت بۆ خولی جیهانی هەر کە پاڵەوانێتییەکە دەستی پێکرد، لەوێدا دەتوانیت ڕیزبەندی خۆت بەرامبەر هەموو یاریزانە بەشداربووەکان ببینیت."
+    },
+    "accessibility_myleaguespage_desc2_v2": {
+      "english": "You will automatically be added to the Global League once the tournament kicks off, where you can see your standing versus all players in the competition."
+      "value": "بە شێوەیەکی ئۆتۆماتیکی زیاد دەکرێیت بۆ خولی جیهانی هەر کە پاڵەوانێتییەکە دەستی پێکرد، لەوێدا دەتوانیت ڕیزبەندی خۆت بەرامبەر هەموو یاریزانە بەشداربووەکان ببینیت."
+    },
+    "accessibility_myleaguespage_desc2_v3": {
+      "comment": "User gets the option to invite friends to a league by sharing the unique league ID-code or invite link.",
+      "english": "You can invite friends to a league by sharing the unique league ID-code or invite link."
+      "value": "دەتوانیت هاوڕێکانت بانگهێشتی خول بکەیت لە ڕێگەی ناردنی کۆدی تایبەتی خولەکە یان لێنکی بانگهێشتکردن."
+    },
+    "accessibility_myleaguespage_desc2_v4": {
+      "comment": "explanation on private leagues and how people can join them",
+      "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide."
+      "value": "ئەو خولانەی دروستیان دەکەیت تایبەتن، تەنها ئەو کەسانە دەتوانن بەشداری تێدا بکەن کە کۆدی تایبەت یان ئەو لێنکەیان لایە کە تۆ پێیان دەدەیت."
+    },
+    "accessibility_myleaguespage_join_a_league": {
+      "comment": "Label on button to join a league",
+      "english": "Join a league"
+      "value": "بەشداری خولێک بکە"
+    },
