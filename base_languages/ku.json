@@ -1141,3 +1141,366 @@
       "english": "Join a league"
       "value": "بەشداری خولێک بکە"
     },
+    "accessibility_myleaguespage_join_league": {
+      "comment": "User gets the option to join a existing league by entering a league ID-code.",
+      "english": "Join a existing league by entering a league ID-code."
+      "value": "بەشداری خولێکی بەردەست بکە لە ڕێگەی نووسینی کۆدی خولەکەوە."
+    },
+    "accessibility_myleaguespage_join_league_v2": {
+      "comment": "explanation that the user will automatically added to the global league",
+      "english": "You will automatically be added to the Global League once the tournament kick off, where you can see your standing versus all players in the competition."
+      "value": "بە شێوەیەکی ئۆتۆماتیکی زیاد دەکرێیت بۆ خولی جیهانی هەر کە پاڵەوانێتیەکە دەستی پێکرد، لەوێدا دەتوانیت ڕیزبەندی خۆت بەرامبەر هەموو یاریزانەکانی ناو کێبڕکێکە ببینیت."
+    },
+    "accessibility_myleaguespage_points_calculation": {
+      "comment": "Label on button to bring up dialog with explanation of how the points are caluclated",
+      "english": "Points calculation"
+      "value": "هەژمارکردنی خاڵەکان"
+    },
+    "accessibility_myleaguespage_position_players": {
+      "comment": "Position as in the users rank in a league. Players as in number of players in that league.",
+      "english": "ڕیزبەندی / یاریزانان"
+      "value": "ڕیزبەندی / یاریزانان"
+    },
+    "accessibility_myleaguespage_you_have_not_joined": {
+      "comment": "Label telling the user he/she has not yet joined a league",
+      "english": "You have not joined any Leagues yet..."
+      "value": "هێشتا بەشداریت لە هیچ خولێکدا نەکردووە..."
+    },
+    "accessibility_new_match_experience_body": {
+      "comment": "The body-text for the new-match-facts onboarding.",
+      "english": "It is now easier to navigate, and we’ve put key info into the main tab."
+      "value": "ئێستا گەڕان و بەکارهێنان ئاسانتر بووە، هەروەها زانیاریە سەرەکیەکانمان خستووەتە ناو بەشی سەرەکیەوە."
+    },
+    "accessibility_new_match_experience_header": {
+      "comment": "The header for the new match-facts onboarding.",
+      "english": "New match experience"
+      "value": "ئەزموونێکی نوێی یاری"
+    },
+    "accessibility_new_match_experience_subtitle": {
+      "comment": "The subtitle for the new-match-facts onboarding.",
+      "english": "With your feedback, we’ve redesigned match pages."
+      "value": "بەپێی پێشنیارەکانتان، پەڕەی یاریەکەمان سەرلەنوێ دیزاین کردووەتەوە."
+    },
+    "accessibility_news_alerts_warning": {
+      "comment": "Used to warn user about from/to how many news alerts will be received.",
+      "english": "We will send you %1$@-%2$@ news alerts per day."
+      "value": "ڕۆژانە %1$@-%2$@ ئاگادارکەرەوەی هەواڵت بۆ دەنێرین."
+    },
+    "accessibility_no_bots_allowed": {
+      "comment": "Text shown in the footer to emphasize that web scraping is not permitted.",
+      "english": "The use of automatic services (robots, crawler, indexing etc.) as well as other methods for systematic or regular use is not permitted."
+      "value": "بەکارهێنانی خزمەتگوزاریە ئۆتۆماتیکیەکان (ڕۆبۆت، کراولەر، ئیندێکسکردن و هتد) و هەروەها ڕێگاکانی تری بەکارهێنانی ڕێکخراو یان بەردەوام ڕێگەپێدراو نیە."
+    },
+    "accessibility_no_next_match": {
+      "comment": "Text shown when there are no new matches scheduled for the team or league.",
+      "english": "No next match scheduled"
+      "value": "یاریەکانی داهاتوو دیاری نەکراوە"
+    },
+    "accessibility_non_penalty_xg": {
+      "comment": "Expected goals for a player where we excluded the xG on penalties",
+      "english": "Non-penalty xG"
+      "value": "xG بەبێ لێدانی سزا"
+    },
+    "accessibility_not_following_any_leagues": {
+      "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
+      "english": "You are not following any leagues"
+      "value": "فۆڵۆوی هیچ خولێکت نەکردووە"
+    },
+    "accessibility_not_following_any_players": {
+      "comment": "Used for toast when clicking players in notifications settings and the user is not following any players.",
+      "english": "You are not following any players"
+      "value": "فۆڵۆوی هیچ یاریزانێکت نەکردووە"
+    },
+    "accessibility_not_following_any_teams": {
+      "comment": "Used for toast when clicking teams in notifications settings and the user is not following any teams.",
+      "english": "You are not following any teams"
+      "value": "فۆڵۆوی هیچ یانەیەکت نەکردووە"
+    },
+    "accessibility_not_on_pitch": {
+      "comment": "Used in Match Facts to inform if a player getting a card is not on pitch.",
+      "english": "Not on pitch"
+      "value": "لە دەرەوەی یاریگاوە"
+    },
+    "accessibility_not_selected": {
+      "comment": "Meant for VoiceOver. If a button is not selected.",
+      "english": "Not selected"
+      "value": "دیاری نەکراوە"
+    },
+    "accessibility_notification_log": {
+      "comment": "Used as header for the notification log in FAQ.",
+      "english": "Notification Log"
+      "value": "تۆماری ئاگادارکردنەوەکان"
+    },
+    "accessibility_notifications_all_leagues_desc": {
+      "comment": "Used as a description in notifications settings when setting alerts for your favorite leagues.",
+      "english": "Set notifications for all the leagues you follow"
+      "value": "ڕێکخستنی ئاگادارکردنەوەکان بۆ هەموو ئەو خولانەی فۆڵۆیان دەکەیت"
+    },
+    "accessibility_notifications_all_players_desc": {
+      "comment": "Used as a description in notifications settings when setting alerts for your favorite players.",
+      "english": "Set notifications for all the players you follow"
+      "value": "ڕێکخستنی ئاگادارکردنەوەکان بۆ هەموو ئەو یاریزانانەی فۆڵۆیان دەکەیت"
+    },
+    "accessibility_notifications_all_teams_desc": {
+      "comment": "Used as a description in notifications settings when setting alerts for your favorite teams.",
+      "english": "Set notifications for all the teams you follow"
+      "value": "ڕێکخستنی ئاگادارکردنەوەکان بۆ هەموو ئەو یانانەی فۆڵۆیان دەکەیت"
+    },
+    "accessibility_notifications_enabled": {
+      "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
+      "english": "Notifications enabled"
+      "value": "ئاگادارکردنەوەکان چالاک کران"
+    },
+    "accessibility_notifications_toast_change": {
+      "comment": "Used for toast when changing notifications from settings. \"News for Liverpool changed. Goals for Chelsea changed.\"",
+      "english": "%1$@ for %2$@ changed"
+      "value": "ئێستا %1$@ی %2$@ گۆڕدرا"
+    },
+    "accessibility_notifications_toast_disable": {
+      "comment": "Used for toast when removing notifications from settings. Examples: \"News for Liverpool disabled. Goals for Chelsea disabled.\"",
+      "english": "%1$@ for %2$@ disabled"
+      "value": "ئێستا %1$@ی %2$@ ناچالاک کرا"
+    },
+    "accessibility_notifications_toast_enable": {
+      "comment": "Used for toast when adding notifications from settings.Examples: \"News for Liverpool enabled. Goals for Chelsea enabled.\"",
+      "english": "%1$@ for %2$@ enabled"
+      "value": "ئێستا %1$@ی %2$@ چالاک کرا"
+    },
+    "accessibility_odds": {
+      "comment": "Used for the Odds tab title",
+      "english": "Odds"
+      "value": "ڕێژەی گرەوەکان"
+    },
+    "accessibility_off_target": {
+      "comment": "Shorthand for shots off target.",
+      "english": "Off target"
+      "value": "بۆ دەرەوەی خانەی گۆڵ"
+    },
+    "accessibility_on_target": {
+      "comment": "Shorthand for shots on target.",
+      "english": "On target"
+      "value": "بۆ ناو خانەی گۆڵ"
+    },
+    "accessibility_on_tv": {
+      "comment": "Text on button that shows matches that are shown on TV.",
+      "english": "On TV"
+      "value": "پەخشی تەلەفزیۆن"
+    },
+    "accessibility_onboarding_follow_leagues_description_line_1": {
+      "comment": "Onboarding text for a new user.",
+      "english": "We’ve made it easier to see the leagues you want."
+      "value": "ئێستا بینینی ئەو خولانەی ئارەزووی دەکەیت ئاسانتر بووە."
+    },
+    "accessibility_onboarding_follow_leagues_description_line_2": {
+      "comment": "Onboarding text for a new user. Placeholder is the name of the first tab in the UI. It is called \"Matches\" in English.",
+      "english": "Leagues you Follow are at the top of your <b>%@</b> feed."
+      "value": "ئەو خولانەی فۆڵۆیان دەکەیت لە بەشی سەرەوەی لیستی <b>%@</b> دەبن."
+    },
+    "accessibility_onboarding_follow_leagues_description_line_3": {
+      "comment": "Onboarding text for a new user.",
+      "english": "Follow the leagues you’re interested in and we’ll do the rest!"
+      "value": "ئەو خولانە فۆڵۆ بکە کە گرنگیان پێ دەدەیت، کارەکانی تر بۆ ئێمە لێ بگەڕێ!"
+    },
+    "accessibility_onboarding_follow_leagues_header": {
+      "comment": "Onboarding header for an existing user as part of a change we are making to the leagues. We are asking the user to check that their leagues are correct. It could also read \"Check your leagues setup\" or just \"League setup\".",
+      "english": "Review your leagues"
+      "value": "پێداچوونەوە بە خولەکانت بکە"
+    },
+    "accessibility_onboarding_following_leagues_simple_description_1": {
+      "comment": "A description for the general onboarding for the new leaguesorting algorithm (that just informs the user about changes). Placeholder is the name of the first tab in the UI. It is called \"Leagues\" in English.",
+      "english": "You can now manage the leagues you follow and order them in the <b>%@</b> tab."
+      "value": "ئێستا دەتوانیت لە بەشی <b>%@</b>، ئەو خولانەی فۆڵۆیان دەکەیت بەڕێوەیان ببەیت و ڕێکیان بخەیت."
+    },
+    "accessibility_onboarding_leagues": {
+      "comment": "An explanation during onboarding that when you click a button to follow a league, it will appear at the top of the live matches list showing the football matches",
+      "english": "Leagues you follow appear at the top of your match list."
+      "value": "ئەو خولانەی فۆڵۆیان دەکەیت لە سەرەوەی لیستی یاریەکانت دەردەکەون."
+    },
+    "accessibility_onboarding_leagues_search_placeholder": {
+      "comment": "Placeholder text for search field in leagues onboarding screen.",
+      "english": "Search leagues"
+      "value": "گەڕان بۆ خولەکان"
+    },
+    "accessibility_onboarding_manage_your_leagues": {
+      "comment": "A header for the general onboarding for the new league sorting algorithm (that just informs the user about changes)",
+      "english": "Manage your leagues"
+      "value": "خولەکانت بەڕێوەببە"
+    },
+    "accessibility_onboarding_newplayerprofile_header": {
+      "comment": "Keep this short. Feel free to translate it as \"New player profiles\".",
+      "english": "Brand new player profiles"
+      "value": "پڕۆفایلی نوێی یاریزانان"
+    },
+    "accessibility_onboarding_newplayerprofile_section1": {
+      "comment": "Onboarding text of our new player profile page in the app",
+      "english": "<b>Player traits.</b> Get an overview of a players strengths, weaknesses and playing style."
+      "value": "<b>تایبەتمەندیەکانی یاریزان.</b> کورتەیەک دەربارەی خاڵە بەهێزەکان، خاڵە لاوازەکان و شێوازی یاریکردنی یاریزانەکە بەدەستبهێنە."
+    },
+    "accessibility_onboarding_newplayerprofile_section2": {
+      "comment": "Onboarding text of our new player profile page in the app",
+      "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts."
+      "value": "<b>پەڕەی نوێی ئامارەکان.</b> بە وردی بچۆ ناو ئامارەکانەوە، لەوانە نەخشەی شووتەکانی وەرز و خشتەکانی بەراوردکاری."
+    },
+    "accessibility_onboarding_newplayerprofile_section3": {
+      "comment": "Onboarding text of our new player profile page in the app",
+      "english": "<b>Redesigned career page.</b> View a players career path by club or across seasons."
+      "value": "<b>پەڕەی ژیانی پیشەگەری نوێکراوە.</b> بینینی ڕێڕەوی ژیانی پیشەگەریی یاریزان بەپێی یانەکان یان بە درێژایی وەرزەکان."
+    },
+    "accessibility_onboarding_players": {
+      "comment": "An explanation during onboarding that when you click a button to follow a player, you will get notifications about the player",
+      "english": "Follow players to get notifications when they play and score."
+      "value": "فۆڵۆوی یاریزانەکان بکە بۆ وەرگرتنی ئاگادارکردنەوەکان کاتێک یاری دەکەن و گۆڵ تۆمار دەکەن."
+    },
+    "accessibility_onboarding_teams": {
+      "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
+      "english": "Follow teams to get notifications when they play and score goals."
+      "value": "فۆڵۆوی یانەکان بکە بۆ وەرگرتنی ئاگادارکردنەوەکان کاتێک یاری دەکەن و گۆڵ تۆمار دەکەن."
+    },
+    "accessibility_only_key_events": {
+      "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
+      "english": "Only key events"
+      "value": "تەنها ڕووداوە سەرەکیەکان"
+    },
+    "accessibility_only_relevant_matches": {
+      "comment": "A label on a filter button to show/hide filtered out leagues",
+      "english": "Show only relevant matches"
+      "value": "تەنها یاریە پەیوەندیدارەکان پیشان بدە"
+    },
+    "accessibility_open_match_for_more_details": {
+      "comment": "Meant for VoiceOver. Lets the user know that clicking on a match will bring up a detailed explanation of the match",
+      "english": "Open the match for more details"
+      "value": "بۆ بینینی وردەکاری زیاتر، یاریەکە بکەرەوە"
+    },
+    "accessibility_open_settings": {
+      "comment": "Label indicating you need to open the Settings page on iPhone",
+      "english": "Open settings"
+      "value": "کردنەوەی ڕێکخستنەکان"
+    },
+    "accessibility_other": {
+      "comment": "Header for other options. Meant to be used as a header for a section of items that don't fit in any other section. E.g \"Teams, Players, Leagues & Other\"",
+      "english": "Other"
+      "value": "ئەوانی تر"
+    },
+    "accessibility_other_body_parts": {
+      "comment": "A shot type variant. A goal was scored with a part of the body that isn't foot or head.",
+      "english": "Other body parts"
+      "value": "بەشەکانی تری جەستە"
+    },
+    "accessibility_outfielder_block_subtitle": {
+      "comment": "Label used in stats for total outfielder blocks",
+      "english": "Total blocks"
+      "value": "کۆی بەرپەچدانەوەکان"
+    },
+    "accessibility_outfielder_block_title": {
+      "comment": "Label used in stats for outfielder blocks per 90",
+      "english": "Blocks per 90"
+      "value": "بەرپەچدانەوە بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_overall_table": {
+      "comment": "String indicating that we will show a complete standings table with including both Home & Away matches. User can filter to only include Home or only Away. Can be translated as \"All\" as well.",
+      "english": "Overall"
+      "value": "بە گشتی"
+    },
+    "accessibility_overhead_kick": {
+      "comment": "Overhead kick of bicycle kick. Description is here https://en.wikipedia.org/wiki/Bicycle_kick.  is an acrobatic strike where a player kicks an airborne ball rearward in midair. It is achieved by throwing the body backward up into the air and, before descending to the ground, making a shearing movement with the lower limbs to get the ball-striking leg in front of the other. In most languages, the manoeuvre is named after either the cycling motion or the scissor motion that it resembles.",
+      "english": "Overhead kick"
+      "value": "دەبڵ کیک (مەقەستی)"
+    },
+    "accessibility_overviewheader_details": {
+      "english": "Details"
+      "value": "وردەکاریەکان"
+    },
+    "accessibility_overviewheader_headertext": {
+      "english": "Euro 2020 Predictor"
+      "value": "پێشبینیکەری یۆرۆی 2020"
+    },
+    "accessibility_overviewheader_headertext_v2": {
+      "comment": "Heading for the tournament predictor. Eg. \"EURO 2020 Predictor\" or \"Copa America 2021 Predictor\"",
+      "english": "%1$@ Predictor"
+      "value": "پێشبینیکەری %1$@"
+    },
+    "accessibility_overviewheader_my_leagues": {
+      "english": "My leagues"
+      "value": "خولەکانم"
+    },
+    "accessibility_overviewpage_join_create": {
+      "comment": "Label on actionalbe to join or create a league",
+      "english": "Join/Create"
+      "value": "بەشداریکردن/دروستکردن"
+    },
+    "accessibility_overviewpage_leagues": {
+      "comment": "Tab header for listing of the private leagues the usere is in",
+      "english": "Leagues"
+      "value": "خولەکان"
+    },
+    "accessibility_overviewpage_share": {
+      "comment": "Label on actionalbe to share predictions",
+      "english": "Share"
+      "value": "بڵاوکردنەوە"
+    },
+    "accessibility_passes_into_final_third": {
+      "comment": "This is a pass from outside the final third of the pitch into the final third. So it's an attacking pass.",
+      "english": "Passes into final third"
+      "value": "پاس بۆ ناو سێیەکی کۆتایی"
+    },
+    "accessibility_passing": {
+      "comment": "A section header for passing stats for a football player. Below are things like Passes, pass accuracy",
+      "english": "Passing"
+      "value": "پاسدان"
+    },
+    "accessibility_past_matches": {
+      "comment": "Text shown on a link that lets the user see all finished matches for a team or league.",
+      "english": "Past matches"
+      "value": "یاریەکانی ڕابردوو"
+    },
+    "accessibility_penalty_conversion_rate": {
+      "comment": "Label used in stats for penalty conversion rate (penalty goals/total penalties)",
+      "english": "Conversion rate"
+      "value": "ڕێژەی سەرکەوتنی لێدانی سزا"
+    },
+    "accessibility_penalty_goals_conceded": {
+      "comment": "Label used in stats for penalty goals conceded",
+      "english": "Penalty goals conceded"
+      "value": "گۆڵ لێکران بە لێدانی سزا"
+    },
+    "accessibility_penalty_saves": {
+      "comment": "Number of times a keeper has saved a penalty",
+      "english": "Penalty saves"
+      "value": "گەڕاندنەوەی لێدانی سزا"
+    },
+    "accessibility_per_90": {
+      "comment": "Used for Picker in Player Profile to switch between total and per90 stats.",
+      "english": "Per 90"
+      "value": "بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_per_90_bar_explanation_text": {
+      "comment": "Explanation text for bar graph for a player stat",
+      "english": "The bar graph shows how a player compares to other players in their position on each stat for the currently selected competition. A green bar graph indicates they are among the best in their position at that stat, while a red bar indicates they are among the worst.\\n\\nThe length of the bar graph represents the rank of the player for each stat, based on percentile. Players are compared only against their positional peers from the currently selected competition."
+      "value": "هێڵکاریەکە نیشانی دەدات کە چۆن یاریزانەکە بەراورد دەکرێت لەگەڵ یاریزانانی دیکەی هەمان پێگەی یاریکردن لەسەر بنەمای هەر ئامارێک بۆ خولە هەڵبژێردراوەکە. لە هێڵکاریەکەدا ڕەنگی سەوز ئاماژەیە بۆ ئەوەی یاریزانەکە لە باشترینەکانە لە پێگەی خۆی لەو ئامارەدا، هەروەها ڕەنگی سووریش ئاماژەیە بۆ ئەوەی لە خراپترینەکانە لە پێگەی خۆیدا.\\n\\nدرێژی هێڵکاریەکە گوزارشت لە ڕیزبەندی یاریزانەکە دەکات بۆ هەر ئامارێک، کە لەسەر بنەمای ڕێژەی سەدی دیاریکراوە. یاریزانەکان تانها لەگەڵ یاریزانی دیکەی هەمان پێگەی خۆیان واتە لە هەمان شوێنی یاریکردن بەراورد دەکرێن لەو خولەی ئێستا هەڵبژێردراوە."
+    },
+    "accessibility_player_trait_positional_rank": {
+      "comment": "Used as a subtitle in the player's profile to highlight how the player's specific trait ranks in comparison to other players in the same position.",
+      "english": "Rank compared to positional peers"
+      "value": "بەراوردی ڕیزبەندی لەگەڵ یاریزانانی دیکەی هەمان پێگە"
+    },
+    "accessibility_player_traits": {
+      "comment": "The characteristics of a player. We show an overview of his main ranks like Shooting, Passing, Defending",
+      "english": "Player traits"
+      "value": "تایبەتمەندیەکانی یاریزان"
+    },
+    "accessibility_players_and_managers": {
+      "comment": "Header text shown above list of search results for players and managers.",
+      "english": "Players and managers"
+      "value": "یاریزانان و ڕاهێنەران"
+    },
+    "accessibility_playing_now_no_ranked_leagues": {
+      "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other are playing now\". This is a list of leagues with ongoing matches.",
+      "english_plurals": {
+        "one": "One other competition is playing now",
+        "other": "%d other competitions are playing now"
+      },
+      "plurals": {
+        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت",
+        "other": "ئێستا %d پاڵەوانێتی تریش بەڕێوە دەچن"
+      }
+    },
