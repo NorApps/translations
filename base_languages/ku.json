@@ -1504,3 +1504,249 @@
         "other": "ئێستا %d پاڵەوانێتی تریش بەڕێوە دەچن"
       }
     },
+    "accessibility_playing_today": {
+      "comment": "First placeholder is a list of leagues and second placeholder is a single league. So like \"Premier League, La Liga and Serie A are playing\"",
+      "english": "%@ other competitions play today",
+      "value": "یاریەکانی %1$@ و %2$@ بەڕێوەدەچن"
+    },
+    "accessibility_playing_today_no_ranked_leagues": {
+      "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
+      "english": "%@ other competitions play today",
+      "value": "ئەمڕۆ %@ پاڵەوانێتی تریش یاری تێدا دەکرێت"
+    },
+    "accessibility_playing_today_ranked_leagues": {
+      "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
+      "english": "%1$@ and %2$@ other competitions play today",
+      "value": "ئەمڕۆ یاریەکانی %1$@ و %2$@ پاڵەوانێتی تریش بەڕێوە دەچن"
+    },
+    "accessibility_playing_today_single": {
+      "comment": "Placeholder is a league. So like \"Premier League is playing\"",
+      "english": "%1$@ is playing",
+      "value": "یاریەکانی %1$@ بەڕێوەدەچن"
+    },
+    "accessibility_points_per_match": {
+      "comment": "Average number of points earned per game played.",
+      "english": "Points per game",
+      "value": "خاڵ بۆ هەر یاریەک"
+    },
+    "accessibility_pointspopup_10pts": {
+    "english": "10 pts for the winner of the final",
+      "value": "دە 10 خاڵ بۆ براوەی یاری کۆتایی"
+    },
+    "accessibility_pointspopup_1pts": {
+    "english": "1 pt per correctly placed team in the group stage",
+      "value": "یەک 1 خاڵ بۆ هەر یانەیەک کە بە دروستی لە قۆناغی کۆمەڵەکان ڕیزبەندی دەکەیت"
+    },
+    "accessibility_pointspopup_2pts": {
+    "english": "2 pts per correct winner in the round of 16",
+      "value": "دوو 2 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە قۆناغی 16"
+    },
+    "accessibility_pointspopup_3pts": {
+    "english": "3 pts per correct winner in the quarter finals",
+      "value": "سێ 3 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە چارەکی کۆتایی"
+    },
+    "accessibility_pointspopup_4pts": {
+    "english": "4 pts per correct winner in the semi finals",
+      "value": "چوار 4 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە پێش کۆتایی"
+    },
+    "accessibility_pointspopup_5pts": {
+    "english": "5 pts for the winner of the bronze final",
+      "value": "پێنج 5 خاڵ بۆ براوەی یاری پلەی سێیەم"
+    },
+    "accessibility_pointspopup_about_the_competition": {
+      "comment": "Headline on competition about box",
+      "english": "About the competition",
+      "value": "دەربارەی پاڵەوانێتیەکە"
+    },
+    "accessibility_pointspopup_points_are_calculated": {
+      "comment": "Heading of explanation of how the points are calculated",
+      "english": "Points are calculated like this:",
+      "value": "خاڵەکان بەم شێوەیە هەژمار دەکرێن:"
+    },
+    "accessibility_poss_won_att_3rd_per_90": {
+      "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
+      "english": "Possession won final 3rd per 90",
+      "value": "وەرگرتنەوەی تۆپ لە سێیەکی کۆتایی بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_poss_won_mid_3rd_per_90": {
+      "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
+      "english": "Possession won midfield per 90",
+      "value": "وەرگرتنەوەی تۆپ لە سێیەکی دووەم بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_possession": {
+      "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
+      "english": "Possession",
+      "value": "خاوەندارێتی تۆپ"
+    },
+    "accessibility_post": {
+      "comment": "A shot result description (hit the post)",
+      "english": "Post",
+      "value": "لەستووندان"
+    },
+    "accessibility_predictor_make_predictions": {
+      "comment": "Button indicating you can enter our competition where you predict who will win the tournament",
+      "english": "Make your predictions",
+      "value": "پێشبینیەکانت بکە"
+    },
+    "accessibility_predictor_view_predictions": {
+      "comment": "Button indicating you can see how you predicted who won the tournament",
+      "english": "View predictions",
+      "value": "بینینی پێشبینیەکان"
+    },
+    "accessibility_preview": {
+      "comment": "The title of the tab we show pre-match. Needs to be short, worst case use the English translation",
+      "english": "Preview",
+      "value": "پێشەکی"
+    },
+    "accessibility_privacy_policy": {
+      "comment": "A link to the Privacy policy of the app",
+      "english": "Privacy policy",
+      "value": "سیاسەتی تایبەتمەندی"
+    },
+    "accessibility_qualeuropaconffinalstage": {
+      "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
+      "english": "Conference League playoff stage",
+      "value": "قۆناغی پاشکۆی کۆنفراس لیگ"
+    },
+    "accessibility_red": {
+      "comment": "Used to describe red cards in the stats for player profile.",
+      "english": "Red",
+      "value": "سوور"
+    },
+    "accessibility_redeem_code": {
+      "comment": "Button where user can click to enter a secret code to unlock something.",
+      "english": "Redeem code",
+      "value": "بەکارهێنانی کۆد"
+    },
+    "accessibility_redeem_it_here": {
+      "comment": "Subheader for redeem code view",
+      "english": "Redeem it here", 
+      "value": "لێرە بەکاری بهێنە"
+    },
+    "accessibility_regular_play": {
+      "comment": "A shot setup description. Goal was scored from a normal play. So it wasn't part of a corner, free kick, counter-attack or throw-in.",
+      "english": "Regular play", 
+      "value": "یاری ئاسایی"
+    },
+    "accessibility_reorder_favorite_leagues_disclaimer": {
+      "comment": "A hint-message from the header of the \"Leagues\" page in the editing mode",
+      "english": "Drag to change the order of your leagues in the %1$@ tab.",
+      "value": "لە بەشی %1$@ دەست لەسەر خولەکان ڕابگرە و بیانجوڵێنە بۆ ئەوەی شوێنیان بگۆڕیت."
+    },
+    "accessibility_resetpopup_are_you_sure": {
+      "english": "Are you sure you want to reset predictions?",
+      "value": "ئایا دڵنیایت لە سڕینەوەی پێشبینیەکان؟"
+    },
+    "accessibility_resetpopup_reset_predictions": {
+      "english": "Reset Predictions",
+      "value": "سڕینەوەی پێشبینیەکان"
+    },
+    "accessibility_result": {
+      "comment": "A label for the result of the shot under the shotmap (in shotmap details; It could be a goal, save, etc.)",
+      "english": "Result",
+      "value": "ئەنجام"
+    },
+    "accessibility_retry": {
+      "comment": "We are asking the user to retry the operation. This is a button label.",
+      "english": "Retry",
+      "value": "دوبارە هەوڵبدەرەوە"
+    },
+    "accessibility_right_foot": {
+      "comment": "A shot type variant. Goal was scored via the right foot.",
+      "english": "Right foot",
+      "value": "پێی ڕاست"
+    },
+    "accessibility_roundof64": {
+      "comment": "Label indicating it is the round of 64. 64 teams are left in the tournament. Round of 64 is the same as 32th-finals.",
+      "english": "Round of 64",
+      "value": "قۆناغی 64"
+    },
+    "accessibility_save_percentage": {
+      "comment": "Label used in stats for save percentage for keepers",
+      "english": "Save percentage",
+      "value": "ڕێژەی سەیڤەکان"
+    },
+    "accessibility_saves_per_90": {
+      "comment": "Label used in stats for saves per 90 min for keepers",
+      "english": "Saves per 90",
+      "value": "سەیڤ بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_search_result_header": {
+      "comment": "Text shown on top of the search results page. Input is the search text.",
+      "english": "Search results for <b>\"%@\"</b>",
+      "value": "ئەنجامەکانی گەڕان بۆ <b>\"%@\"</b>"
+    },
+    "accessibility_season_performance": {
+      "comment": "Used for header in Player Profile for the season performance stats.",
+      "english": "Season performance",
+      "value": "ئاست و ئەدای وەرز"
+    },
+    "accessibility_season_shot_map": {
+      "comment": "Used for seasonal shot map in player profile.",
+      "english": "Season shot map",
+      "value": "نەخشەی شووتەکانی وەرز"
+    },
+    "accessibility_season_so_far": {
+      "comment": "Header of a section describing stats for how a season has gone so far (number of goals, wins, etc)",
+      "english": "Season so far",
+      "value": "وەرز تا ئێستا"
+    },
+    "accessibility_season_stats": {
+      "comment": "Used as a title of a button where the user can toggle to show seasonal stats for a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
+      "english": "Season stats",
+      "value": "ئامارەکانی وەرز"
+    },
+    "accessibility_second_extra_time_half_short": {
+      "comment": "Used for second extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
+      "english": "2nd ET",
+      "value": "گێمی +2"
+    },
+    "accessibility_second_half_short": {
+      "comment": "Used for second half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
+      "english": "2nd",
+      "value": "گێمی 2"
+    },
+    "accessibility_select_winner_for_each_match": {
+      "comment": "error message shown if one or more preditions are missing",
+      "english": "Please select a winner for each match ;)",
+      "value": "تکایە بۆ هەر یاریەک براوەیەک دیاری بکە ;)"
+    },
+    "accessibility_selected": {
+      "comment": "Meant for VoiceOver. If a button is selected.",
+      "english": "Selected",
+      "value": "دیاری کراوە"
+    },
+    "accessibility_set": {
+      "comment": "Used for confiming and setting alerts in the notifications popup sheet.",
+      "english": "Set",
+      "value": "جێگیرکردن"
+    },
+    "accessibility_set_your_app_language": {
+      "comment": "Label indicating you can change the language of the app",
+      "english": "Set your app language",
+      "value": "زمانی بەرنامەکە دیاری بکە"
+    },
+    "accessibility_share_lineup": {
+      "comment": "Button label for sharing the starting lineup of a football match. Once clicked the user will share an image of the 11 players starting the match.",
+      "english": "Share lineup",
+      "value": "بڵاوکردنەوەی پێکهاتە"
+    },
+    "accessibility_share_lineup_graphics": {
+      "comment": "Onboarding that explains to the users that we have a new feature for sharing an image of the lineup",
+      "english": "Share lineup graphics!",
+      "value": "بڵاوکردنەوەی وێنەی پێکهاتە!"
+    },
+    "accessibility_share_on_twitter": {
+      "english": "Share on Twitter",
+      "value": "بڵاوکردنەوە لە تویتەر"
+    },
+    "accessibility_shareleaguepopup_copy_this_code": {
+      "comment": "Tekst describing what to do with the shareable league link",
+      "english": "👉 %1$@ 👈 Copy the link and share it with your friends!",
+      "value": "👉 %1$@ 👈 لینکەکە کۆپی بکە و لەگەڵ هاوڕێکانت هاوبەشی بکە!"
+    },
+    "accessibility_shareleaguepopup_helper": {
+      "comment": "Help pointing out that they can also click the button to copy the league code",
+      "english": "or click button to copy code",
+      "value": "یان کلیک لە دوگمەکە بکە بۆ کۆپیکردنی کۆدەکە"
+    },
