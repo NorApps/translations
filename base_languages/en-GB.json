@@ -3854,14 +3854,14 @@
       "value": "Throw-ins"
     },
     "seo_votes": {
-      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "comment": "Number of votes for a poll. Uses %@ for formatted string display (e.g. \"10,000\"). Twine converts to %s for Android.",
       "english_plurals": {
-        "one": "%s vote",
-        "other": "%s votes"
+        "one": "%@ vote",
+        "other": "%@ votes"
       },
       "plurals": {
-        "one": "%s vote",
-        "other": "%s votes"
+        "one": "%@ vote",
+        "other": "%@ votes"
       }
     },
     "seo_watch_on_tv": {

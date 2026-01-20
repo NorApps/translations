@@ -375,6 +375,10 @@
       "comment": "Used as a title on graphics card for with season stats. Very limited room. Find shortest possible version",
       "value": "Season stats"
     },
+    "accessibility_goal_diff_title": {
+      "comment": "Label for goal difference stat (goals scored minus goals conceded).",
+      "value": "Goal difference"
+    },
     "accessibility_goal_type": {
       "comment": "Used for goal types in player profile",
       "value": "Goal type"
@@ -1938,6 +1942,10 @@
     "accessibility_xg_and_xa_per_90": {
       "comment": "Label used in stats for the sum of expexted goals and expexted assists per 90 min",
       "value": "xG + xA per 90"
+    },
+    "accessibility_xg_diff_title": {
+      "comment": "Label for expected goals difference stat. Keep xG untranslated.",
+      "value": "xG difference"
     },
     "accessibility_yellow": {
       "comment": "Used to describe yellow cards in the stats for player profile.",
@@ -7388,6 +7396,10 @@
       "comment": "Headline to clear the lineup created in the lineup builder for football team.",
       "value": "Clear lineup"
     },
+    "seo_code_copied_to_clipboard": {
+      "comment": "Toast message shown when user has copied the league code to clipboard",
+      "value": "Code copied to clipboard"
+    },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
       "value": "Competitions"
@@ -7399,6 +7411,10 @@
     "seo_continue_in_app_popup_description": {
       "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
       "value": "Continue in the FotMob app for a faster, better experience - for free!"
+    },
+    "seo_contract_end": {
+      "comment": "Label for the contract end date/expire date for a football player with his club.",
+      "value": "Contract end"
     },
     "seo_copied_link_web": {
       "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
@@ -7545,6 +7561,10 @@
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "value": "1st leg"
     },
+    "seo_fixture_difficulty": {
+      "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
+      "value": "Fixture difficulty"
+    },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
       "value": "Followed leagues"
@@ -7653,6 +7673,14 @@
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
       "value": "I need help"
     },
+    "seo_in_app_browser_warning_headline": {
+      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "value": "Login may not work in this in-app browser"
+    },
+    "seo_in_app_browser_warning_subline": {
+      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "value": "Please open this page in your device’s browser (Safari or Chrome) to continue."
+    },
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "value": "Join FotMob+ for %@ / month"
@@ -7725,6 +7753,10 @@
       "comment": "Disclaimer informing user that is has been automatically translated.",
       "value": "This live commentary has been auto-translated. There may be minor inaccuracies."
     },
+    "seo_ltc_new_updates": {
+      "comment": "\"Toast\" used in live ticker commentary when user has scrolled down and there are new updates on the top of the page.",
+      "value": "New updates"
+    },
     "seo_manage": {
       "comment": "Used for manage button on the FotMob+ member page.",
       "value": "Manage"
@@ -7749,6 +7781,10 @@
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
       "value": "Men"
     },
+    "seo_min_value_filter": {
+      "comment": "Label for a filter input where the user can set a value for players shown in a transfers list. Should cover both minimum market value and minimum transfer fee. Keep it short.",
+      "value": "Min value"
+    },
     "seo_minutes_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many minutes left til the next week tournament use the plural form in the given language.",
       "value": "Minutes"
@@ -7768,6 +7804,10 @@
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "value": "Newsletter"
+    },
+    "seo_next_five_matches": {
+      "comment": "Label for a section showing the next five matches for a football team. See next_match",
+      "value": "Next five matches"
     },
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
@@ -7828,6 +7868,10 @@
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",
       "value": "Overwrite"
+    },
+    "seo_participants_count": {
+      "comment": "Label showing how many participants/members are in your mini-league. %1$@ is replaced with the number of participants. Don't support plural differences.",
+      "value": "%1$@ participants"
     },
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -7953,9 +7997,17 @@
       "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder with popular football teams.",
       "value": "Pre-fill with popular teams"
     },
+    "seo_predict_copy_code": {
+      "comment": "Button label for copying your league code to clipboard so you can share it with others to join your mini-league. See predict_league_code",
+      "value": "Copy code"
+    },
     "seo_predict_edit_until_kick_off": {
       "comment": "Text for the second step in the predictor game, to explain that you can edit your predictions until the match starts.",
       "value": "You can edit your predictions until the match kicks off."
+    },
+    "seo_predict_league_code": {
+      "comment": "Label for your league's unique code that can be shared with others to join your mini-league. See joinleaguepopup_enter_code",
+      "value": "League code"
     },
     "seo_predict_onboarding_apps": {
       "comment": "Text in onboarding of our predictor game. The placeholder is a league name like \"Women's EURO 2025\" so the complete string in English will be \"Predict Women's EURO 2025 results and compete against friends in leagues!\". If the word \"Predict\" sounds weird in your language, please use \"Guess\" as a replacement.",
@@ -8387,6 +8439,10 @@
       "comment": "Used for failure toest in troubleshooting mail.",
       "value": "Something went wrong. Please try again."
     },
+    "seo_sort_by": {
+      "comment": "Label for a dropdown or button that allows the user to sort a list by different criteria. E.g. sort transfers by date, fee, or market value.",
+      "value": "Sort by"
+    },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
       "value": "Source"
@@ -8557,6 +8613,14 @@
     "seo_tots": {
       "value": "Team of the Season"
     },
+    "seo_transfers_in_short": {
+      "comment": "Label for a button to filter transfers in a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_in",
+      "value": "In"
+    },
+    "seo_transfers_out_short": {
+      "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
+      "value": "Out"
+    },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
       "value": "Then %1$@ / year (%2$@ / month)"
@@ -8611,10 +8675,10 @@
       "value": "Full commentary"
     },
     "seo_votes": {
-      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "comment": "Number of votes for a poll. Uses %@ for formatted string display (e.g. \"10,000\"). Twine converts to %s for Android.",
       "plurals": {
-        "one": "%s vote",
-        "other": "%s votes"
+        "one": "%@ vote",
+        "other": "%@ votes"
       }
     },
     "seo_watch_on_tv": {
@@ -8680,6 +8744,22 @@
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",
       "value": "Week"
+    },
+    "seo_weekly_predictor_notification_body": {
+      "comment": "Notification body mentioning that new Fotmob Predictor matches are now open.",
+      "value": "New matches are available. Make your predictions before kickoff!"
+    },
+    "seo_weekly_predictor_notification_title": {
+      "comment": "Notification title mentioning that new Fotmob Predictor matches are now open.",
+      "value": "Time to predict!"
+    },
+    "seo_weekly_predictor_reminders": {
+      "comment": "A toggle to turn on/off weekly predictor reminders. Don't translate \"FotMob Predict\"",
+      "value": "Weekly FotMob Predict reminders"
+    },
+    "seo_weekly_predictor_reminders_desc": {
+      "comment": "A toggle description about getting weekly reminders for new predictor matches available. Don't translate \"FotMob Predict\"",
+      "value": "Receive weekly reminders when new FotMob Predict matches are available"
     },
     "seo_weekly_reminders": {
       "comment": "Headline in the popup informing users that they can enable reminders for when the weekly matches are made available",

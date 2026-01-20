@@ -473,6 +473,11 @@
       "english": "Season stats",
       "value": "今季のスタッツ"
     },
+    "accessibility_goal_diff_title": {
+      "comment": "Label for goal difference stat (goals scored minus goals conceded).",
+      "english": "Goal difference",
+      "value": "得失点差"
+    },
     "accessibility_goal_type": {
       "comment": "Used for goal types in player profile",
       "english": "Goal type",
@@ -2441,6 +2446,11 @@
       "comment": "Label used in stats for the sum of expexted goals and expexted assists per 90 min",
       "english": "xG + xA per 90",
       "value": "90分あたりのxG + xA"
+    },
+    "accessibility_xg_diff_title": {
+      "comment": "Label for expected goals difference stat. Keep xG untranslated.",
+      "english": "xG difference",
+      "value": "xG差"
     },
     "accessibility_yellow": {
       "comment": "Used to describe yellow cards in the stats for player profile.",
@@ -9416,6 +9426,11 @@
       "english": "Clear lineup",
       "value": "スタメンをクリア"
     },
+    "seo_code_copied_to_clipboard": {
+      "comment": "Toast message shown when user has copied the league code to clipboard",
+      "english": "Code copied to clipboard",
+      "value": "コードをクリップボードにコピーしました"
+    },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
       "english": "Competitions",
@@ -9430,6 +9445,11 @@
       "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
       "english": "Continue in the FotMob app for a faster, better experience - for free!",
       "value": "FotMobアプリで続けて、より速く、より良い体験を無料で！"
+    },
+    "seo_contract_end": {
+      "comment": "Label for the contract end date/expire date for a football player with his club.",
+      "english": "Contract end",
+      "value": "契約終了"
     },
     "seo_copied_link_web": {
       "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
@@ -9615,6 +9635,11 @@
       "english": "1st leg",
       "value": "第1戦"
     },
+    "seo_fixture_difficulty": {
+      "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
+      "english": "Fixture difficulty",
+      "value": "試合日程の難易度"
+    },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
       "english": "Followed leagues",
@@ -9750,6 +9775,16 @@
       "english": "I need help",
       "value": "助けが必要です"
     },
+    "seo_in_app_browser_warning_headline": {
+      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "english": "Login may not work in this in-app browser",
+      "value": "このアプリ内ブラウザではログインが機能しないかもしれません"
+    },
+    "seo_in_app_browser_warning_subline": {
+      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
+      "value": "続行するには、デバイスのブラウザ (Safari または Chrome) でこのページを開いてください。"
+    },
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "english": "Join FotMob+ for %@ / month",
@@ -9840,6 +9875,11 @@
       "english": "This live commentary has been auto-translated. There may be minor inaccuracies.",
       "value": "このライブ解説は自動翻訳されています。小さな不正確さが含まれる場合があります。"
     },
+    "seo_ltc_new_updates": {
+      "comment": "\"Toast\" used in live ticker commentary when user has scrolled down and there are new updates on the top of the page.",
+      "english": "New updates",
+      "value": "新しい更新"
+    },
     "seo_manage": {
       "comment": "Used for manage button on the FotMob+ member page.",
       "english": "Manage",
@@ -9870,6 +9910,11 @@
       "english": "Men",
       "value": "男子"
     },
+    "seo_min_value_filter": {
+      "comment": "Label for a filter input where the user can set a value for players shown in a transfers list. Should cover both minimum market value and minimum transfer fee. Keep it short.",
+      "english": "Min value",
+      "value": "最小値"
+    },
     "seo_minutes_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many minutes left til the next week tournament use the plural form in the given language.",
       "english": "Minutes",
@@ -9894,6 +9939,11 @@
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "english": "Newsletter",
       "value": "ニュースレター"
+    },
+    "seo_next_five_matches": {
+      "comment": "Label for a section showing the next five matches for a football team. See next_match",
+      "english": "Next five matches",
+      "value": "次の5試合"
     },
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
@@ -9969,6 +10019,11 @@
       "comment": "toast text option to overwrite a saved lineup.",
       "english": "Overwrite",
       "value": "上書き"
+    },
+    "seo_participants_count": {
+      "comment": "Label showing how many participants/members are in your mini-league. %1$@ is replaced with the number of participants. Don't support plural differences.",
+      "english": "%1$@ participants",
+      "value": "%1$@ 人の参加者"
     },
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -10125,10 +10180,20 @@
       "english": "Pre-fill with popular teams",
       "value": "人気チームで自動入力"
     },
+    "seo_predict_copy_code": {
+      "comment": "Button label for copying your league code to clipboard so you can share it with others to join your mini-league. See predict_league_code",
+      "english": "Copy code",
+      "value": "コードをコピー"
+    },
     "seo_predict_edit_until_kick_off": {
       "comment": "Text for the second step in the predictor game, to explain that you can edit your predictions until the match starts.",
       "english": "You can edit your predictions until the match kicks off.",
       "value": "試合開始まで予測を編集できます。"
+    },
+    "seo_predict_league_code": {
+      "comment": "Label for your league's unique code that can be shared with others to join your mini-league. See joinleaguepopup_enter_code",
+      "english": "League code",
+      "value": "リーグコード"
     },
     "seo_predict_onboarding_apps": {
       "comment": "Text in onboarding of our predictor game. The placeholder is a league name like \"Women's EURO 2025\" so the complete string in English will be \"Predict Women's EURO 2025 results and compete against friends in leagues!\". If the word \"Predict\" sounds weird in your language, please use \"Guess\" as a replacement.",
@@ -10671,6 +10736,11 @@
       "english": "Something went wrong. Please try again.",
       "value": "問題が発生しました。もう一度お試しください。"
     },
+    "seo_sort_by": {
+      "comment": "Label for a dropdown or button that allows the user to sort a list by different criteria. E.g. sort transfers by date, fee, or market value.",
+      "english": "Sort by",
+      "value": "並び替え"
+    },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
       "english": "Source",
@@ -10884,6 +10954,16 @@
       "english": "Team of the Season",
       "value": "シーズン最優秀チーム"
     },
+    "seo_transfers_in_short": {
+      "comment": "Label for a button to filter transfers in a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_in",
+      "english": "In",
+      "value": "入"
+    },
+    "seo_transfers_out_short": {
+      "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
+      "english": "Out",
+      "value": "放出"
+    },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
       "english": "Then %1$@ / year (%2$@ / month)",
@@ -10952,13 +11032,13 @@
       "value": "フル解説"
     },
     "seo_votes": {
-      "comment": "Number of votes for a poll. Check other plurals like expires_in to see what we need. Ultrathink. See expires_in",
+      "comment": "Number of votes for a poll. Uses %@ for formatted string display (e.g. \"10,000\"). Twine converts to %s for Android.",
       "english_plurals": {
-        "one": "%s vote",
-        "other": "%s votes"
+        "one": "%@ vote",
+        "other": "%@ votes"
       },
       "plurals": {
-        "other": "%s 票"
+        "other": "%@ 票"
       }
     },
     "seo_watch_on_tv": {
@@ -11040,6 +11120,21 @@
       "comment": "string indicating which week it is e.g. Week 12.",
       "english": "Week",
       "value": "第%1$d週"
+    },
+    "seo_weekly_predictor_notification_body": {
+      "comment": "Notification body mentioning that new Fotmob Predictor matches are now open.",
+      "english": "New matches are available. Make your predictions before kickoff!",
+      "value": "新しい試合が利用可能です。キックオフ前に予想をしましょう！"
+    },
+    "seo_weekly_predictor_reminders": {
+      "comment": "A toggle to turn on/off weekly predictor reminders. Don't translate \"FotMob Predict\"",
+      "english": "Weekly FotMob Predict reminders",
+      "value": "週刊FotMob Predictリマインダー"
+    },
+    "seo_weekly_predictor_reminders_desc": {
+      "comment": "A toggle description about getting weekly reminders for new predictor matches available. Don't translate \"FotMob Predict\"",
+      "english": "Receive weekly reminders when new FotMob Predict matches are available",
+      "value": "新しいFotMob Predictの試合が利用可能になったら毎週リマインダーを受け取る"
     },
     "seo_weekly_reminders": {
       "comment": "Headline in the popup informing users that they can enable reminders for when the weekly matches are made available",
