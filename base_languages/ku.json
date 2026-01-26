@@ -651,7 +651,7 @@
     "accessibility_insights_goals_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
       "english": "Have scored %1$@ goals in their last %2$@ matches",
-      "value": "Have scored %1$@ گۆڵیان تۆمار کردووە لە دواین %2$@ یاریاندا"
+      "value": "یانەی %1$@ گۆڵیان تۆمار کردووە لە دواین %2$@ یاریاندا"
     },
     "accessibility_insights_gone_without_win": {
       "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
@@ -9967,7 +9967,7 @@
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
       "english": "The bookmakers predict a close match between %1$@ and %2$@.",
-      "value": "کۆمپانیاکانی گرەوکردن پێشبینی یاریەکی نزیک و سەخت دەکەن لە نێوان %1$@ and %2$@."
+      "value": "کۆمپانیاکانی گرەوکردن پێشبینی یاریەکی نزیک و سەخت دەکەن لە نێوان %1$@ و %2$@."
     },
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
