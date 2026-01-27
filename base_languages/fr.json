@@ -6949,7 +6949,7 @@
     },
     "new_quarterfinal": {
       "english": "Quarter-final",
-      "value": "Quart de finale"
+      "value": "Quarts de finale"
     },
     "new_quick_start": {
       "comment": "Short button caption at splash screen.",
@@ -6981,7 +6981,7 @@
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
       "english": "Round of 16",
-      "value": "8ème de finale"
+      "value": "8èmes de finale"
     },
     "new_score_correction": {
       "comment": "Information message if we have mistakenly informed of a wrong score earlier, this is a correction message",
@@ -10353,7 +10353,7 @@
     },
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
-      "value": "Barrages des 8ème de finale"
+      "value": "Barrages des 8èmes de finale"
     },
     "seo_running_the_latest_version": {
       "comment": "Used as a short toast to the user to tell the latest version of FotMob is already installed.",
