@@ -3351,6 +3351,21 @@
       "english": "Errors led to goal",
       "value": "골로 이어진 실수"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "추정 이적 가치 (ETV)는 현재 선수가 판매된다면 얼마나 가치가 있을지를 추정한 것입니다.\\n\\n실제 이적 데이터를 사용하여 계산되며 다음을 고려합니다:\\n\\n• 선수의 성과\\n• 나이와 미래 잠재력\\n• 포지션에서 얼마나 자주, 어떤 수준으로 플레이하는지\\n• 팀과 리그의 강도\\n• 계약이 얼마나 남았는지\\n• 최근 발전 및 유사한 요인들\\n\\n우리는 소문이나 어떤 클럽이 선수를 살지에 대해 집중하지 않고, 선수 자체에 집중합니다.\\n\\n이 가치는 시간이 지남에 따라 이적 시장의 변화를 반영하기 위해 정기적으로 업데이트됩니다."
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "추정 이적 가치"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "현재 판매 시 예상 가치"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9572,6 +9587,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "대체 앱 아이콘으로 홈 화면을 사용자 지정하세요."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "경기 중 xG 대비"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9729,6 +9749,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "최고의 모바일 경험을 즐기세요"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "경기 중 실점"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",

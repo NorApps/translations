@@ -3352,6 +3352,21 @@
       "english": "Errors led to goal",
       "value": "乌龙"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "估计转会价值 (ETV) 是我们对球员当前出售价值的最佳估算。\\n\\n它通过真实的转会数据计算，并考虑以下因素：\\n\\n• 球员表现\\n• 年龄和未来潜力\\n• 在其位置上的出场频率和水平\\n• 球队和联赛的实力\\n• 合同剩余期限\\n• 最近的发展和类似因素\\n\\n我们专注于球员本身，而非传闻或可能购买他们的俱乐部。\\n\\n该价值会定期更新，以反映转会市场随时间的变化。"
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "估计转会价值"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "当前出售可能的价值"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9578,6 +9593,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "用备用的应用图标定制你的主屏幕。"
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "场上xG失球"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9735,6 +9755,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "获取最佳移动体验"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "场上失球数"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",

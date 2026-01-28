@@ -3355,6 +3355,21 @@
       "english": "Errors led to goal",
       "value": "Maaliin johtaneet virheet"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "Arvioitu siirtoarvo (ETV) on paras arvauksemme siitä, mitä pelaaja olisi arvoltaan, jos hänet myytäisiin juuri nyt.\\n\\nSe lasketaan käyttämällä todellisia siirtotietoja ja ottaa huomioon:\\n\\n• pelaajan suorituskyky\\n• hänen ikänsä ja tuleva potentiaalinsa\\n• kuinka usein ja millä tasolla hän pelaa pelipaikkaansa\\n• hänen joukkueensa ja liigan vahvuus\\n• kuinka kauan hänen sopimuksensa on vielä voimassa\\n• viimeaikainen kehitys ja samankaltaiset tekijät\\n\\nKeskitymme itse pelaajaan, emme huhuihin tai siihen, mikä seura saattaisi ostaa hänet.\\n\\nArvo päivitetään säännöllisesti heijastamaan muutoksia siirtomarkkinoilla ajan myötä."
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "Arvioitu siirtomarkkina-arvo"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "Todennäköinen arvo, jos myydään nyt"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9581,6 +9596,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "Mukauta aloitusnäyttösi vaihtoehtoisten sovelluskuvakkeiden avulla."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "xG vastaan kentällä ollessa"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9738,6 +9758,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "Saa paras mobiilikokemus"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "Päästetyt maalit kentällä ollessa"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",

@@ -3367,6 +3367,21 @@
       "english": "Errors led to goal",
       "value": "Ошибки приводят к голу"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "Оценочная трансферная стоимость (ETV) — это наша лучшая оценка того, сколько игрок может стоить, если его продать прямо сейчас.\\n\\nОна рассчитывается на основе реальных данных о трансферах и учитывает:\\n\\n• выступления игрока\\n• его возраст и будущий потенциал\\n• как часто и на каком уровне он играет на своей позиции\\n• силу его команды и лиги\\n• срок действия его контракта\\n• недавние изменения и аналогичные факторы\\n\\nМы сосредотачиваемся на самом игроке, а не на слухах или на том, какой клуб может его купить.\\n\\nСтоимость регулярно обновляется, чтобы отражать изменения на трансферном рынке с течением времени."
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "Оценочная стоимость трансфера"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "Вероятная стоимость при продаже сейчас"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9616,6 +9631,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "Настраивайте свой главный экран, используя меняющиеся значки приложений."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "xG против на поле"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9775,6 +9795,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "Получите лучший мобильный опыт"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "Пропущенные голы на поле"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",

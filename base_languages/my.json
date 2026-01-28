@@ -3352,6 +3352,21 @@
       "english": "Errors led to goal",
       "value": "ဂိုးပေးခဲ့ရသည့် အမှားများ"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "ခန့်မှန်းအရောင်းတန်ဖိုး (ETV) သည် ယခုအချိန်တွင် ကစားသမားတစ်ဦးကို ရောင်းချပါက ဘယ်လောက်တန်ဖိုးရှိမည်ကို ကျွန်ုပ်တို့၏ အကောင်းဆုံးခန့်မှန်းခြင်းဖြစ်သည်။\\n\\nဤတန်ဖိုးကို အမှန်တကယ်အရောင်းအဝယ်ဒေတာများကို အသုံးပြု၍ တွက်ချက်ပြီး အောက်ပါအချက်များကို ထည့်သွင်းစဉ်းစားထားသည် - \\n\\n• ကစားသမား၏ စွမ်းဆောင်ရည်\\n• သူတို့၏ အသက်နှင့် အနာဂတ်အလားအလာ\\n• သူတို့၏ ရာထူးတွင် ဘယ်နှစ်ခါနှင့် ဘယ်အဆင့်တွင် ကစားသည်\\n• သူတို့၏ အသင်းနှင့် လိဂ်၏ အားကောင်းမှု\\n• သူတို့၏ စာချုပ်ကျန်ရှိချိန်\\n• မကြာသေးမီက ဖြစ်ပေါ်မှုများနှင့် ဆင်တူသော အချက်များ\\n\\nကျွန်ုပ်တို့သည် ကစားသမားကိုယ်တိုင်ကို အာရုံစိုက်ပြီး အတုအယောင်များ သို့မဟုတ် ဘယ်အသင်းက ဝယ်ယူနိုင်မည်ကို အာရုံမစိုက်ပါ။\\n\\nဤတန်ဖိုးကို အချိန်အလိုက် အရောင်းအဝယ်ဈေးကွက်ပြောင်းလဲမှုများကို အထောက်အထားပြု၍ ပုံမှန်ပြင်ဆင်ထားသည်။"
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "ခန့်မှန်းထားသော လွှဲပြောင်းတန်ဖိုး"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "ယခုရောင်းချပါက ခန့်မှန်းတန်ဖိုး"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9593,6 +9608,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "သင့်ပင်မစာမျက်နှာကို ပုံစံကွဲ အက်ပ်အိုင်ကွန်တွေနဲ့ စိတ်ကြိုက်အလှဆင်လိုက်ပါ။"
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "ကွင်းပေါ်တွင်ရှိစဉ် xG ဆန့်ကျင်"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9750,6 +9770,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "အကောင်းဆုံး မိုဘိုင်း အတွေ့အကြုံ ရယူပါ"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "ကွင်းပေါ်တွင်မတားဆီးနိုင်ခဲ့သောဂိုးများ"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",

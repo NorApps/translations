@@ -3355,6 +3355,21 @@
       "english": "Errors led to goal",
       "value": "Λάθη που οδήγησαν σε γκολ"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "Η Εκτιμώμενη Αξία Μεταγραφής (ETV) είναι η καλύτερη εκτίμησή μας για το πόσο θα άξιζε ένας παίκτης αν πωλούνταν τώρα.\\n\\nΥπολογίζεται χρησιμοποιώντας πραγματικά δεδομένα μεταγραφών και λαμβάνει υπόψη:\\n\\n• την απόδοση του παίκτη\\n• την ηλικία και το μελλοντικό του δυναμικό\\n• πόσο συχνά και σε ποιο επίπεδο παίζει στη θέση του\\n• τη δύναμη της ομάδας και του πρωταθλήματος του\\n• τη διάρκεια του συμβολαίου του\\n• πρόσφατες εξελίξεις και παρόμοιους παράγοντες\\n\\nΕστιάζουμε στον ίδιο τον παίκτη, όχι σε φήμες ή ποιος σύλλογος μπορεί να τον αγοράσει.\\n\\nΗ αξία ενημερώνεται τακτικά για να αντικατοπτρίζει τις αλλαγές στην αγορά μεταγραφών με την πάροδο του χρόνου."
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "Εκτιμώμενη αξία μεταγραφής"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "Πιθανή αξία αν πωληθεί τώρα"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9596,6 +9611,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "Προσάρμοσε την αρχική σου οθόνη με εναλλακτικά εικονίδια εφαρμογών."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "xG κατά ενώ στον αγωνιστικό χώρο"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9753,6 +9773,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "Αποκτήστε την καλύτερη εμπειρία στο κινητό"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "Γκολ κατά ενώ στον αγωνιστικό χώρο"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",

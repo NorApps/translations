@@ -3355,6 +3355,21 @@
       "english": "Errors led to goal",
       "value": "Feil som ledet til mål"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
+      "value": "Estimert overgangsverdi (ETV) er vår beste gjetning på hva en spiller ville vært verdt hvis de ble solgt akkurat nå.\\n\\nDen beregnes ved hjelp av reelle overgangsdata og tar hensyn til:\\n\\n• spillerens prestasjon\\n• deres alder og fremtidige potensial\\n• hvor ofte og på hvilket nivå de spiller sin posisjon\\n• styrken til laget og ligaen deres\\n• hvor lenge kontrakten deres varer\\n• nylige utviklinger og lignende faktorer\\n\\nVi fokuserer på spilleren selv, ikke rykter eller hvilken klubb som kanskje kjøper dem.\\n\\nVerdien oppdateres jevnlig for å reflektere endringer i overgangsmarkedet over tid."
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "english": "Estimated transfer value",
+      "value": "Anslått overgangsverdi"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "english": "Likely value if sold now",
+      "value": "Sannsynlig verdi ved salg nå"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
@@ -9596,6 +9611,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "TIlpass hjemmeskjermen med alternative app-ikoner."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "english": "xG against while on pitch",
+      "value": "xG mot mens på banen"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9754,6 +9774,11 @@
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "english": "Get the best mobile experience",
       "value": "Få den beste mobilopplevelsen"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "Mål sluppet inn på banen"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -10054,6 +10079,21 @@
       "comment": "Header for the onboarding of the new physical performance state",
       "english": "<b>Official data.</b> These are the same physical stats trusted by professional teams.",
       "value": "<b>Offisielle data.</b> De samme fysiske statistikkene profesjonelle lag bruker."
+    },
+    "seo_onboarding_wear_button": {
+      "comment": "Button for opening the Play Store when user sees Wear onboarding",
+      "english": "Get the Wear app",
+      "value": "Last ned Wear appen"
+    },
+    "seo_onboarding_wear_subtitle": {
+      "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "english": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch.",
+      "value": "Se enkelt kamphendelser, statistikk og mer for lagene du følger på klokken med FotMob."
+    },
+    "seo_onboarding_wear_title": {
+      "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "english": "All the action, right from your wrist.",
+      "value": "Alt du trenger, rett fra håndleddet."
     },
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",

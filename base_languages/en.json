@@ -2647,6 +2647,18 @@
       "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",
       "value": "Errors led to goal"
     },
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
+      "value": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time."
+    },
+    "common_estimated_transfer_value_header": {
+      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+      "value": "Estimated transfer value"
+    },
+    "common_estimated_transfer_value_subheader": {
+      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
+      "value": "Likely value if sold now"
+    },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "value": "Ready for Euro 2016?"
@@ -7500,6 +7512,10 @@
       "comment": "A description for the \"Exclusive app icons\" FotMob+ feature.",
       "value": "Customize your homescreen with alternate app icons."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "value": "xG against while on pitch"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "value": "About 1-2 weeks"
@@ -7624,6 +7640,10 @@
     "seo_get_the_best_mobile_experience": {
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
       "value": "Get the best mobile experience"
+    },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "value": "Goals conceded while on pitch"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -7864,6 +7884,18 @@
     "seo_onboarding_physical_metrics_section3": {
       "comment": "Header for the onboarding of the new physical performance state",
       "value": "<b>Official data.</b> These are the same physical stats trusted by professional teams."
+    },
+    "seo_onboarding_wear_button": {
+      "comment": "Button for opening the Play Store when user sees Wear onboarding",
+      "value": "Get the Wear app"
+    },
+    "seo_onboarding_wear_subtitle": {
+      "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "value": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch."
+    },
+    "seo_onboarding_wear_title": {
+      "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "value": "All the action, right from your wrist."
     },
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",
