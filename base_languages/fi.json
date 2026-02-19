@@ -84,7 +84,7 @@
     "accessibility_all_competitions": {
       "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
       "english": "All competitions",
-      "value": "Kaikki ottelut"
+      "value": "Kaikki kilpailut"
     },
     "accessibility_all_leagues": {
       "comment": "Header indication you can set alerts that applies to all your favorite leagues",
@@ -681,12 +681,12 @@
     "accessibility_insights_not_won_at_home": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won at home in their last (number greater than 2) matches",
       "english": "Haven't won at home in their last %1$@ matches",
-      "value": "Ei ole voittanut kotiottelua viimeiseen %2$@ otteluun"
+      "value": "Ei ole voittanut kotona viimeisessä %1$@ ottelussa"
     },
     "accessibility_insights_not_won_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won an away game in their last (number greater than 2) matches",
       "english": "Haven't won an away game in their last %1$@ matches",
-      "value": "Ei ole voittanut vierasottelua viimeiseen %2$@ otteluun"
+      "value": "Ei ole voittanut vierasottelua viimeiseen %1$@ otteluun"
     },
     "accessibility_insights_not_won_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won a match in 4 attempts",
@@ -736,7 +736,7 @@
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has the most %2$@ for %3$@ (%4$@)",
-      "value": "Cannot be translated :( %1$@%2$@%3$@%4$@"
+      "value": "%1$@lla on eniten %2$@ joukkueessa %3$@ (%4$@)"
     },
     "accessibility_insights_player_rank_in_competition": {
       "comment": "A player is ranked some number in a stat this season. Example: \"[Lionel Messi] is ranked [2nd] in [goals] in the competition (21)\" where text inside brackets ([xxx]) are variables",
@@ -746,7 +746,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "q%1$@ on sijalla %2$@ kilpailun  aikana ottelua kohti tehtyjen torjuntojen määrässä (%3$@)"
+      "value": "%1$@ on sijalla %2$@ torjunnoissa per ottelu kilpailussa (%3$@)"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -766,7 +766,7 @@
     "accessibility_insights_shots_on_target_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
       "english": "Ranked %1$@ in shots on target per match (%2$@ shots)",
-      "value": "Sijalla %1$@ maalia kohti dehdyissä laukauksissa ottelua kohtden (%2$@ laukausta)"
+      "value": "Sijalla %1$@ ottelukohtaisissa maalia kohti suuntautuneissa laukauksissa (%2$@ laukausta)"
     },
     "accessibility_insights_team_ranking": {
       "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -949,7 +949,7 @@
     "accessibility_live_activity_will_be_added": {
       "comment": "Used in toast when activating a live activity ahead of time.",
       "english": "Match will be shown on the lock screen one hour before kickoff",
-      "value": "Ottelu näytetään lukitusnäytöllä tuntia ennen aloituspotkua"
+      "value": "Ottelu näytetään lukitusnäytöllä tunti ennen aloituspotkua"
     },
     "accessibility_live_score_filter_hint": {
       "comment": "Hint text on the live scores filter that lets the use filter matches by typing in a country, team or league name.",
@@ -1085,7 +1085,7 @@
     "accessibility_misc_winner_of_group": {
       "comment": "Indicating the winner of a group. Eg \"Winner Group B\"",
       "english": "Winner Group %1$@",
-      "value": "Voittaja, l%1$@-lohko"
+      "value": "%1$@-lohkon voittaja"
     },
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
@@ -1148,7 +1148,7 @@
     "accessibility_myleaguespage_join_league": {
       "comment": "User gets the option to join a existing league by entering a league ID-code.",
       "english": "Join a existing league by entering a league ID-code.",
-      "value": "Liity liigaan syöttämällä liidatunnistekoodi."
+      "value": "Liity olemassa olevaan liigaan syöttämällä liigan ID-koodi."
     },
     "accessibility_myleaguespage_join_league_v2": {
       "comment": "explanation that the user will automatically added to the global league",
@@ -1203,7 +1203,7 @@
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
       "english": "Non-penalty xG",
-      "value": "Ei-rankaisualuetta xG"
+      "value": "Rangaistuspotkuttomat xG"
     },
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
@@ -1338,12 +1338,12 @@
     "accessibility_onboarding_newplayerprofile_section1": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Player traits.</b> Get an overview of a players strengths, weaknesses and playing style.",
-      "value": "<b>Pelaajatiedot.</b>Katselmus pelaajan vahvuuksiin, heikkouksiin ja pelityyliin."
+      "value": "<b>Pelaajaominaisuudet.</b> Saat yleiskuvan pelaajan vahvuuksista, heikkouksista ja pelityylistä."
     },
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>Uusi ominaisuussivu.</b>Sukella tilastoihin. Sisältää kauden potkukartat ja vertailukaaviot."
+      "value": "<b>Uusi tilastosivu.</b> Sukella syvälle tilastoihin, mukaan lukien kauden laukaisukartat ja vertailukaaviot."
     },
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1358,7 +1358,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Seuraa tiimejä priorisoidaksesi ne sovelluksen kautta."
+      "value": "Seuraa joukkueita saadaksesi ilmoituksia, kun ne pelaavat ja tekevät maaleja."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1595,7 +1595,7 @@
     "accessibility_predictor_view_predictions": {
       "comment": "Button indicating you can see how you predicted who won the tournament",
       "english": "View predictions",
-      "value": "Nääytä ennusteet"
+      "value": "Näytä ennusteet"
     },
     "accessibility_preview": {
       "comment": "The title of the tab we show pre-match. Needs to be short, worst case use the English translation",
@@ -1733,12 +1733,12 @@
     "accessibility_share_lineup": {
       "comment": "Button label for sharing the starting lineup of a football match. Once clicked the user will share an image of the 11 players starting the match.",
       "english": "Share lineup",
-      "value": "Jaa aloitusketju"
+      "value": "Jaa avauskokoonpano"
     },
     "accessibility_share_lineup_graphics": {
       "comment": "Onboarding that explains to the users that we have a new feature for sharing an image of the lineup",
       "english": "Share lineup graphics!",
-      "value": "Jaa ketjun kaaviot!"
+      "value": "Jaa kokoonpanografiikka!"
     },
     "accessibility_share_on_twitter": {
       "english": "Share on Twitter",
@@ -1747,7 +1747,7 @@
     "accessibility_shareleaguepopup_copy_this_code": {
       "comment": "Tekst describing what to do with the shareable league link",
       "english": "👉 %1$@ 👈 Copy the link and share it with your friends!",
-      "value": "👉 %1$@ 👈 Kipioi linkki ja jaa se kavereille!"
+      "value": "👉 %1$@ 👈 Kopioi linkki ja jaa se kavereillesi!"
     },
     "accessibility_shareleaguepopup_helper": {
       "comment": "Help pointing out that they can also click the button to copy the league code",
@@ -1950,7 +1950,7 @@
     "accessibility_stepsheader_step1_hinttext_table": {
       "comment": "Explanation of how to arrage the teams in the table. With emphasis on the on the action to take.",
       "english": "<b>Drag</b> the teams to predict the final table.",
-      "value": "<b>Vedä</b> tiimejä ennustaaksesi viimeisen taulukon."
+      "value": "<b>Vedä</b> joukkueita ennustaaksesi lopullisen sarjataulukon."
     },
     "accessibility_stepsheader_step1_hinttext_v2": {
       "comment": "Explanation of how to arrage teams.",
@@ -2123,7 +2123,7 @@
     "accessibility_table_position": {
       "comment": "The league/table position of a team (like 1st, 22nd, etc).",
       "english": "Table position",
-      "value": "Sijainti kaaviossa"
+      "value": "Sarjasijoitus"
     },
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
@@ -2460,7 +2460,7 @@
     },
     "common_Attendance": {
       "english": "Attendance",
-      "value": "Osallistuminen"
+      "value": "Yleisömäärä"
     },
     "common_BallPossesion": {
       "english": "Ball possession",
@@ -2824,7 +2824,7 @@
     "common_capacity": {
       "comment": "Label indicating how many people the stadium can take (have capacity for)",
       "english": "Capacity",
-      "value": "Yleisömäärä"
+      "value": "Kapasiteetti"
     },
     "common_celsius": {
       "comment": "A setting to toggle the temperature unit to Celsius (°C) instead of Fahrenheit (°F)",
@@ -3110,7 +3110,7 @@
     "common_deep_stats_teams": {
       "comment": "Title on a tab in the app. Stats for the teams for a particular league",
       "english": "Team stats",
-      "value": "Välilehden otsake."
+      "value": "Joukkuetilastot"
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
@@ -3328,7 +3328,7 @@
     },
     "common_end_of_match": {
       "english": "final",
-      "value": "finaali"
+      "value": "lopputulos"
     },
     "common_error_adding_match_to_calendar": {
       "english": "Error adding match to calendar, this feature works only on Android 4.x",
@@ -3355,20 +3355,25 @@
       "english": "Errors led to goal",
       "value": "Maaliin johtaneet virheet"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Arvioitu siirtoarvo (ETV) on paras arvauksemme siitä, mitä pelaaja olisi arvoltaan, jos hänet myytäisiin juuri nyt.\\n\\nSe lasketaan käyttämällä todellisia siirtotietoja ja ottaa huomioon:\\n\\n• pelaajan suorituskyky\\n• hänen ikänsä ja tuleva potentiaalinsa\\n• kuinka usein ja millä tasolla hän pelaa pelipaikkaansa\\n• hänen joukkueensa ja liigan vahvuus\\n• kuinka kauan hänen sopimuksensa on vielä voimassa\\n• viimeaikainen kehitys ja samankaltaiset tekijät\\n\\nKeskitymme itse pelaajaan, emme huhuihin tai siihen, mikä seura saattaisi ostaa hänet.\\n\\nArvo päivitetään säännöllisesti heijastamaan muutoksia siirtomarkkinoilla ajan myötä."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Arvioitu pelaajan arvo"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Arvioitu siirtomarkkina-arvo"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Todennäköinen arvo, jos myydään nyt"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Arvioitu siirtoarvo (ETV) on arvio siitä, mitä pelaaja voisi olla arvoltaan, jos hänet myytäisiin tänään.\\n\\nSe lasketaan käyttämällä historiallisia siirtotietoja ja useita suorituskykyyn ja kontekstiin liittyviä tekijöitä, mukaan lukien:\\n\\n• pelaajan suorituskyky ja kehitys\\n• ikä ja tuleva potentiaali\\n• kuinka usein ja millä tasolla he pelaavat\\n• pelipaikka\\n• joukkueen ja liigan vahvuus\\n• jäljellä oleva sopimuksen pituus\\n\\nETV keskittyy itse pelaajaan, ei huhuihin tai siihen, mikä seura saattaisi ostaa hänet.\\n\\nArvo päivitetään säännöllisesti heijastamaan ajan myötä tapahtuvia muutoksia."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Arvioitu arvo"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3503,7 +3508,7 @@
     "common_fantasy": {
       "comment": "Button label indicating you can click to toggle on showing of fantasy score",
       "english": "Fantasy",
-      "value": "Unelma"
+      "value": "Fantasy"
     },
     "common_fantasy_points": {
       "comment": "This indicates how many Fantasy Premier League points the player got. Don't translate Fantasy directly if that makes a different meaning in your language! Then just keep it as \"Fantasy <translation for point>\" See https://fantasy.premierleague.com/",
@@ -3663,162 +3668,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ teki virheen, josta %2$@ sai rangaistuspotkun."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ oli ottelun rikotuin pelaaja (%2$@ kertaa)."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ on ottelun rikotuin pelaaja (%2$@ kertaa)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ hävisi eniten kamppailuja (%2$@) ottelussa."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ on hävinnyt eniten kamppailuja (%2$@) ottelussa."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ menetti pallon useimmin (%2$@) ottelussa."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ on menettänyt pallon useimmin (%2$@) ottelussa."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "Pelaajalla %1$@ oli vähiten pallokosketuksia (%2$@) pelaajista, jotka olivat kentällä 90 minuutin ajan."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ kosketti palloa harvimmin (%2$@) kaikista kenttäpelaajista."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ teki virheen, jonka vuoksi %2$@ teki maalin."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ teki virheen, joka johti maaliin %2$@:lle.",
-        "other": "%1$@ teki %3$d virhettä, jotka johtivat maaleihin %2$@:lle."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ on tehnyt eniten kuljetuksia (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ teki eniten kuljetuksia (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ sai eniten paikkoja (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ loi eniten paikkoja (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ teki eniten syöttöjä (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ on tehnyt eniten syöttöjä (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ teki eniten taklauksia (%2$@) ottelussa."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ on tehnyt eniten taklauksia (%2$@) ottelussa."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ oli pelin paras pelaaja keskiarvolla %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ on korkeimman pelikeskiarvon (%2$@) saanut pelaaja."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "Pelaajalla %1$@ oli eniten pallokosketuksia (%2$@) vastustajan rangaistusalueella."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "Pelaajalla %1$@ on eniten pallokosketuksia (%2$@) vastustajan rangaistusalueella."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ oli tarkin syöttäjä (%2$@) pelaajista, jotka olivat kentällä 45 minuuttia tai kauemmin."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@on ottelun tarkin syöttäjä (%2$@)."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ teki oman maalin."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ voitti eniten kamppailuja (%2$@) ottelussa."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ on voittanut eniten kamppailuja (%2$@) ottelussa."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ osui maalikehikkoon %2$@ kertaa yhteensä %3$@ maalipotkusta."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ on osunut maalikehikkoon %2$@ kertaa yhteensä %3$@ maalipotkusta."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "YLEISTÄ"
@@ -3909,7 +3758,7 @@
     },
     "common_goals_title": {
       "english": "Top scorer",
-      "value": "Maalit"
+      "value": "Paras maalintekijä"
     },
     "common_goals_total_last_3_both": {
       "english": "%1$@ have scored %4$@ goals in their last %3$@ matches, while %2$@ have scored %5$@.",
@@ -3936,6 +3785,7 @@
       "value": "Kultakannattaja"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "Kultainen maali"
     },
@@ -3985,11 +3835,11 @@
     },
     "common_h2h_not_lost_home_not_won_away": {
       "english": "%1$@ haven't lost at home their last %3$@ matches (%5$@W, %6$@D). %2$@ haven't won an away match in %4$@ matches (%7$@D, %8$@L).",
-      "value": "%1$@ ei ole hävinnyt kotiottelua viimeisissä %3$@ ottelussaan (%5$@V, %6$@T). %2$@ ei ole voittanut vierasottelua viimeiseen %4$@ otteluun (%7$@V, %8$@T)."
+      "value": "%1$@ ei ole hävinnyt kotiottelua viimeisissä %3$@ ottelussaan (%5$@V, %6$@T). %2$@ ei ole voittanut vierasottelua viimeiseen %4$@ otteluun (%7$@T, %8$@H)."
     },
     "common_h2h_not_won_home_not_lost_away": {
       "english": "%1$@ haven't won at home their last %3$@ matches (%5$@D, %6$@L). %2$@ haven't lost an away match in %4$@ matches (%7$@W, %8$@D).",
-      "value": "%1$@ ei ole voittanut kotiottelua viimeisissä %3$@ ottelussaan (%5$@ V, %6$@ T). %2$@ ei ole hävinnyt vierasottelua viimeiseen %4$@ otteluun (%7$@ V, %8$@ T)."
+      "value": "%1$@ ei ole voittanut kotona viimeisissä %3$@ ottelussaan (%5$@T, %6$@H). %2$@ ei ole hävinnyt vierasottelua viimeiseen %4$@ otteluun (%7$@V, %8$@T)."
     },
     "common_h2h_undefeated": {
       "english": "%1$@ haven't lost to %2$@ in their last %3$@ meetings (%4$@W, %5$@D).",
@@ -4012,6 +3862,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Piilota %@ -uutiset"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Korkein"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4095,7 +3950,7 @@
     },
     "common_injuries": {
       "english": "Injuries",
-      "value": "Loukkaantunut"
+      "value": "Loukkaantumiset"
     },
     "common_injury_134": {
       "comment": "The club has decided the player can't play as a disciplinary action",
@@ -4130,12 +3985,12 @@
     "common_international_national_teams": {
       "comment": "Header indication for a list of tournaments where national teams play each other. So country vs country like England vs Brazil as opposed to club competitions where Barcelona play Manchester United.",
       "english": "International - national teams",
-      "value": "Maajoukkueet – liigajoukkueet"
+      "value": "Kansainväliset – maajoukkueet"
     },
     "common_invite_informal_prompt2": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
       "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "Ystäväsi ovat saattaneet jäädä paitsioon.<br/>Jakaisitko FotMobin heidän kanssaan nyt heti?</b>"
+      "value": "Ystäväsi ovat saattaneet jäädä paitsioon.<br/><b>Jakaisitko FotMobin heidän kanssaan nyt?</b>"
     },
     "common_keeper": {
       "comment": "MAX 2 chars!",
@@ -4228,12 +4083,12 @@
     "common_last_x_months": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 2 months\"",
       "english": "%@ months ago",
-      "value": "Edelliset %@ kuukautta"
+      "value": "%@ kuukautta sitten"
     },
     "common_last_x_years": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 3 years\"",
       "english": "%@ years ago",
-      "value": "Edelliset %@ vuotta"
+      "value": "%@ vuotta sitten"
     },
     "common_later": {
       "comment": "Label for \"Sign in\"-dialogue to postpone sign-in",
@@ -4440,7 +4295,7 @@
     "common_max_number_of_5_reached": {
       "comment": "Error message saying you can't add any more countries to the TV schedules since we have a maximum number of 5 countries.",
       "english": "Max number is reached (5)",
-      "value": "Enimmäismäärä maita (5)"
+      "value": "Enimmäismäärä on saavutettu (5)"
     },
     "common_maximize_all": {
       "english": "Maximize all",
@@ -4641,7 +4496,7 @@
     "common_no_results_for_query": {
       "comment": "Onboarding: not players found for the query",
       "english": "No results found for %@",
-      "value": "Haulle \"%@\" ei löytynyt tuloksia"
+      "value": "Haulla \"%@\" ei löytynyt tuloksia"
     },
     "common_no_results_found": {
       "english": "No results",
@@ -4789,7 +4644,7 @@
     },
     "common_onboarding_fantasy_scores": {
       "english": "Tap this to see official fantasy points! (Only available in certain leagues)",
-      "value": "Napauttamalla tästä näet viralliset unelmapisteet! (Käytössä vain tietyissä liigoissa)"
+      "value": "Napauttamalla tästä näet viralliset fantasipisteet! (Käytössä vain tietyissä liigoissa)"
     },
     "common_onboarding_favorites": {
       "comment": "Welcome message that informs users that they can see all their favorite players and teams in this part of the app",
@@ -4799,7 +4654,7 @@
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
       "english": "Follow %@ and get updates from your favorite teams and players.",
-      "value": "Seuraa lempijoukkueitasi ja %@-turnauksen pelaajia, niin et jää paitsi toiminnasta."
+      "value": "Seuraa %@ ja saat päivityksiä lempijoukkueistasi ja -pelaajistasi."
     },
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
@@ -4923,6 +4778,7 @@
       "value": "Paraguay"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Tauko"
     },
@@ -4960,6 +4816,7 @@
       "value": "Otteluita yhteensä"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Aiheutettuja rangaistuksia"
     },
@@ -5597,10 +5454,12 @@
       "value": "Hopeakannattaja"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Hopeinen maali"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Hopeinen maali"
     },
@@ -5812,7 +5671,7 @@
     "common_team_form": {
       "comment": "Label for the list of the last matches for the team in the Team Profile",
       "english": "Team form",
-      "value": "Joukkuelomake"
+      "value": "Joukkueen vire"
     },
     "common_team_form_both": {
       "comment": "W is Win, D is Draw and L is loss",
@@ -6090,9 +5949,9 @@
       "value": "Summa"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Markkina-arvo"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Siirtosumma"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6127,7 +5986,7 @@
     },
     "common_tv_selected_germany": {
       "english": "TV schedules - Germany",
-      "value": "TV-ohjelmaopas – Germany"
+      "value": "TV-ohjelmaopas – Saksa"
     },
     "common_tv_selected_norway": {
       "english": "TV schedules - Norway",
@@ -6152,7 +6011,7 @@
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",
-      "value": "Tasapelitilanne"
+      "value": "Kaksiosainen ottelupari"
     },
     "common_undefeated_both_equal": {
       "english": "%1$@ and %2$@ haven't lost their %3$@ last games.",
@@ -6660,11 +6519,11 @@
     },
     "new_END_NOTIFICATION": {
       "english": "%@ vs %@ finished %@-%@",
-      "value": "%@-%@ on päättynyt %@-%@"
+      "value": "%@ vs %@ päättyi %@-%@"
     },
     "new_GOAL_SCORED": {
       "english": "%@ vs %@ %@-%@",
-      "value": "%@-%@ %@-%@"
+      "value": "%@ vs %@ %@-%@"
     },
     "new_POSTPONED_NOTIFICATION": {
       "english": "%@ vs %@ is postponed",
@@ -6777,7 +6636,7 @@
     "new_favorite_summary": {
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
-      "value": "Arvostele suosikkijoukkueesi ja aseta ilmoitukset"
+      "value": "Tarkista suosikkijoukkueesi ja aseta ilmoitukset"
     },
     "new_featured_videos": {
       "english": "Featured videos",
@@ -6881,7 +6740,7 @@
     "new_no_favorites_added": {
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
-      "value": "`Et lisännyt yhtään suosikkia.\\n\\nValitse suosikkisi siirtymällä edelliseen vaiheeseen tai jatka eteenpäin ja lisää suosikkeja myöhemmin. `"
+      "value": "Et lisännyt yhtään suosikkia.\\n\\nPaina Takaisin lisätäksesi suosikin nyt tai paina Valmis ja lisää suosikki myöhemmin."
     },
     "new_no_internet_connection": {
       "english": "No internet connection",
@@ -6952,7 +6811,7 @@
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
       "english": "%@ is not sent off",
-      "value": "`Pelaajaa %@ ei ajettu ulos kentältä `"
+      "value": "%@ ei ajettu ulos kentältä"
     },
     "new_player_scores": {
       "english": "%@ scores!",
@@ -6961,7 +6820,7 @@
     "new_player_sent_off": {
       "comment": "Information message that a player has received a red card",
       "english": "%@ is sent off!",
-      "value": "`%@ ajettiin ulos! `"
+      "value": "%@ ajettiin ulos!"
     },
     "new_profile_picture": {
       "english": "Profile picture",
@@ -7060,7 +6919,7 @@
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
       "english": "Standings",
-      "value": "Tilastot"
+      "value": "Sarjataulukko"
     },
     "new_start_and_finish": {
       "comment": "Indicates that the user wants alerts for the start and end of the match",
@@ -7125,7 +6984,7 @@
     },
     "new_waiting_for_penalties": {
       "english": "Waiting for penalties",
-      "value": "`Odottaa rangaistuspotkuja `"
+      "value": "Odottaa rangaistuspotkuja"
     },
     "new_wc_qual": {
       "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
@@ -7157,11 +7016,11 @@
     "notifications_accurate_forward_zone_pass": {
       "comment": "An accurate pass that ends in the attacking half of the pitch",
       "english": "Accurate forward zone pass",
-      "value": "Onnistunut syöttö hyökkäysaluella"
+      "value": "Onnistunut syöttö hyökkäysalueella"
     },
     "notifications_accurate_passes": {
       "english": "Accurate passes",
-      "value": "`Onnistuneet syötöt `"
+      "value": "Onnistuneet syötöt"
     },
     "notifications_ad": {
       "comment": "Used for marking of ad content",
@@ -7243,7 +7102,7 @@
     },
     "notifications_alert_PenaltiesAreHappening": {
       "english": "%@ %@-%@ %@\\nPenalty shootout underway!",
-      "value": "%@ %@-%@ %@\\nRangaistuspotku menossa!"
+      "value": "%@ %@-%@ %@\\nRankkarikilpailu käynnissä!"
     },
     "notifications_alert_Postponed": {
       "english": "%@ %@-%@ %@\\nMatch is postponed",
@@ -7289,7 +7148,7 @@
     },
     "notifications_alert_goal_owngoal": {
       "english": "%@ %@-%@ %@\\n%@Own goal!",
-      "value": "%@%@-%@%@\\n%@Oma maali!"
+      "value": "%@ %@-%@ %@\\n%@Oma maali!"
     },
     "notifications_alert_goal_penalty": {
       "english": "%@ %@-%@ %@\\n%@ Goal! (penalty)",
@@ -7297,11 +7156,11 @@
     },
     "notifications_alert_goal_removed": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
-      "value": "%@%@-%@%@\\n%@Maalitilanteen oikaisu"
+      "value": "%@ %@-%@ %@\\n%@ Maalitilanteen oikaisu"
     },
     "notifications_alert_goal_removed_penalty": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
-      "value": "%@%@-%@%@\\n%@Maalitilanteen oikaisu"
+      "value": "%@ %@-%@ %@\\n%@ Maalitilanteen oikaisu"
     },
     "notifications_alert_goal_scorer": {
       "comment": "No need to translate this",
@@ -7319,7 +7178,7 @@
     },
     "notifications_alert_lineup_confirmed": {
       "english": "%@ - %@\\nLineups confirmed!",
-      "value": "`%@ - %@\\nKokoonpanot vahvistettu! `"
+      "value": "%@ - %@\\nKokoonpanot vahvistettu!"
     },
     "notifications_alert_matchreminder": {
       "english": "%@ - %@\\nBegins in %@ minutes",
@@ -7389,7 +7248,7 @@
     "notifications_are_you_enjoying_app_variant_1": {
       "comment": "Used for rating dialog",
       "english": "Hi, are you enjoying FotMob?",
-      "value": "`Hei! Pidätkö FotMobista? `"
+      "value": "Hei! Pidätkö FotMobista?"
     },
     "notifications_are_you_enjoying_app_variant_2": {
       "comment": "Used for rating dialog",
@@ -7456,7 +7315,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "`Luotuja maalipaikkoja `"
+      "value": "Luotuja maalipaikkoja"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -7618,12 +7477,12 @@
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
-      "value": "`Älä häiritse -tila on käytössä `"
+      "value": "Älä häiritse -tila on käytössä"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
       "english": "Do not disturb",
-      "value": "`Älä häiritse `"
+      "value": "Älä häiritse"
     },
     "notifications_dont_show_again": {
       "english": "Don't show again",
@@ -7745,17 +7604,17 @@
       "value": "Epävarma"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "%1$@ alkupuolella"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "%1$@ loppupuolella"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "%1$@ keskivaiheilla"
     },
@@ -7855,7 +7714,7 @@
     "notifications_goals_outside_box": {
       "comment": "Goals scored outside the penalty area",
       "english": "Goals outside box",
-      "value": "`Maalit rangaistusalueen ulkopuolelta `"
+      "value": "Maalit rangaistusalueen ulkopuolelta"
     },
     "notifications_goals_penalties": {
       "comment": "Goals scored via a penalty",
@@ -7920,7 +7779,7 @@
     },
     "notifications_injured": {
       "english": "Injured",
-      "value": "Loukkaantumiset"
+      "value": "Loukkaantunut"
     },
     "notifications_injured_and_suspended_players": {
       "english": "Injured and suspended players",
@@ -7948,7 +7807,7 @@
     },
     "notifications_injury_103": {
       "english": "Away on International duty",
-      "value": "`Maajoukkuetehtävissä `"
+      "value": "Maajoukkuetehtävissä"
     },
     "notifications_injury_104": {
       "english": "Abdominal injury",
@@ -8044,7 +7903,7 @@
     },
     "notifications_injury_125": {
       "english": "Spinal cord injury",
-      "value": "Selkärankavamma"
+      "value": "Selkäydinvamma"
     },
     "notifications_injury_126": {
       "english": "Bruised ankle",
@@ -8336,7 +8195,7 @@
     },
     "notifications_injury_97": {
       "english": "Africa Cup of Nations",
-      "value": "`Afrikan mestaruusturnaus `"
+      "value": "Afrikan mestaruusturnaus"
     },
     "notifications_injury_98": {
       "english": "Overload",
@@ -8656,7 +8515,7 @@
     "notifications_pass_percentage_short": {
       "comment": "Short header for pass percentage",
       "english": "Pass %",
-      "value": "`Syöttöprosentti `"
+      "value": "Syöttö %"
     },
     "notifications_passes": {
       "english": "Passes",
@@ -8684,7 +8543,7 @@
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@ on aloituskokoonpanossa. %@ - %@"
+      "value": "%@ on aloituskokoonpanossa\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -8729,7 +8588,7 @@
     "notifications_player_sub_out_injury_short": {
       "comment": "When a player has to be subbed off due to an injury.",
       "english": "Subbed off due to injury",
-      "value": "Viahdettu loukkaantumisen vuoksi"
+      "value": "Vaihdettu pois loukkaantumisen vuoksi"
     },
     "notifications_player_sub_out_short": {
       "comment": "Label indicating the player was substituted out. Header: Messi Content: Subbed off",
@@ -8739,7 +8598,7 @@
     "notifications_player_substitution": {
       "comment": "User can enable alerts when a player is substituted (in our out or the pitch). This is the label on the checkbox that the user can toggle to enable those alerts.",
       "english": "Substitution",
-      "value": "`Vaihto `"
+      "value": "Vaihto"
     },
     "notifications_player_throws": {
       "comment": "Goalkeeper throws or throw-ins from the side. We use the same translation for both.",
@@ -8954,7 +8813,7 @@
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
       "english": "Shots inside box",
-      "value": "`Laukaukset rangaistusalueen sisältä `"
+      "value": "Laukaukset rangaistusalueen sisältä"
     },
     "notifications_shots_outside_box": {
       "comment": "Stat for shots taken outside the penalty area",
@@ -9105,7 +8964,7 @@
     "notifications_the_league_was_removed": {
       "comment": "Removing element from profile page",
       "english": "The league was removed.",
-      "value": "`Liiga on poistettu. `"
+      "value": "Liiga poistettiin."
     },
     "notifications_the_player_was_removed": {
       "comment": "Removing element from profile page",
@@ -9139,7 +8998,7 @@
     "notifications_time_settings": {
       "comment": "Button that open time and date settings on the device",
       "english": "Time settings",
-      "value": "`Aika-asetukset `"
+      "value": "Aika-asetukset"
     },
     "notifications_timezone_and_time_warning_message": {
       "comment": "The first argument is the name of the timezone, the last two is the time of day.",
@@ -9227,7 +9086,7 @@
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
       "english": "UK",
-      "value": "Englanti"
+      "value": "Iso-Britannia"
     },
     "notifications_ukraine": {
       "english": "Ukraine",
@@ -9368,6 +9227,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Kerro mainoksen tiedot, kuten mainostaja, millä näytöllä, video tai kuva ja mikä oli ongelmallista."
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Mainosta kanssamme"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9415,7 +9279,7 @@
     "seo_available_in": {
       "comment": "Header string for when the next prediction will be available (countdown in days, hours and minutes)",
       "english": "Available in",
-      "value": "Saatavilla %1$s kuluttua"
+      "value": "Saatavilla"
     },
     "seo_average_age": {
       "comment": "Average age in lineup.",
@@ -9597,7 +9461,7 @@
       "value": "Mukauta aloitusnäyttösi vaihtoehtoisten sovelluskuvakkeiden avulla."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "xG vastaan kentällä ollessa"
     },
@@ -9677,7 +9541,7 @@
     "seo_first_leg": {
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "1st leg",
-      "value": "1. jakso"
+      "value": "1. osaottelu"
     },
     "seo_fixture_difficulty": {
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
@@ -9784,6 +9648,21 @@
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Joukkueiden keskinäinen tilasto on %1$@:n %2$@ voittoa, %3$@:n %4$@ voittoa ja %5$@ tasapeliä."
     },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Heatmap"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Katso, missä pelaajat vaikuttavat kentällä. Napauta pelaajaa kokoonpanonäkymästä nähdäksesi sen."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Heatmapit ovat täällä"
+    },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
       "english": "Help",
@@ -9824,13 +9703,138 @@
       "english": "I need help",
       "value": "Tarvitsen apua"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Kopioi linkki"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Kopioi linkki ja liitä se Safariin tai Chromeen"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Napauta oikeassa alakulmassa olevia kolmea pistettä (•••) ja valitse sitten \"Avaa selaimessa\""
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Napauta oikean yläkulman kolmea pistettä (•••) ja valitse sitten \"Avaa selaimessa\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Napauta valikkoa (≡) ja valitse sitten \"Avaa toisessa selaimessa\""
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Napauta alareunan jakokuvaketta ja valitse sitten selaimesi"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Napauta kolmea pistettä (•••) ja valitse sitten \"Avaa selaimessa\""
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Napauta oikean yläkulman kolmea pistettä (•••) ja valitse sitten \"Avaa ulkoisessa selaimessa\""
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Napauta kolmea pistettä (•••) ja valitse sitten \"Avaa selaimessa\""
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Napauta kolmea pistettä (•••) ja valitse sitten \"Avaa selaimessa\""
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Napauta jakokuvaketta ja valitse sitten \"Avaa Safarissa\" tai \"Kopioi linkki\""
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Napauta kolmea pistettä (•••), sitten “Avaa…” ja valitse Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Kopioi linkki ja liitä se Safariin tai Chromeen"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Napauta jakokuvaketta ja valitse sitten \"Avaa Safarissa\""
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Etsi valikko (••• tai jakokuvake) ja valitse 'Avaa selaimessa'"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Napauta kolmea pistettä (•••) ja sitten \"Avaa Safarissa\""
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Takaisin"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Avaa selaimessa"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Avaa selaimessa kirjautuaksesi sisään"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Avaa Chromessa"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Avaa Safarissa"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Tai manuaalisesti:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "Kirjautuminen ei toimi luotettavasti %1$s:n selaimessa. Avaa tämä sivu Safarissa tai Chromessa."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Kokeile kirjautua sisään tästä silti (ei välttämättä toimi)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Kirjautuminen ei välttämättä toimi tässä sovelluksen sisäisessä selaimessa"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "Kirjautuminen ei välttämättä toimi %1$s:n selaimessa. Saat parhaan kokemuksen palaamalla takaisin ja avaamalla tämän sivun selaimessasi."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Avaa tämä sivu laitteesi selaimessa (Safari tai Chrome) jatkaaksesi."
     },
@@ -9908,6 +9912,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Kokoonpano tallennettu"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Ei mitään"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10152,7 +10161,7 @@
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
       "english": "The play-off matchups are determined by a draw. In each grouping, the two teams on the left are drawn against the two teams on the right to create two play-off matchups. The play-offs are played over two legs, with the winner going to the round of 16.\\n\\nThere is a separate draw for the round of 16 using the same process.",
-      "value": "Playoff-otteluparit määräytyvät arvonnalla. Kussakin ryhmässä vasemmanpuoleiset kaksi joukkuetta arvotaan oikeanpuoleisia vastaan luomaan kaksi playoff-otteluparia. Playoffit pelataan kahdessa osassa, ja voittaja etenee neljännesvälieriin.\\n\\nNeljännesvälieriin on oma arvontansa samalla prosessilla."
+      "value": "Playoff-otteluparit määräytyvät arvonnalla. Kussakin ryhmässä vasemmanpuoleiset kaksi joukkuetta arvotaan oikeanpuoleisia vastaan luomaan kaksi playoff-otteluparia. Playoffit pelataan kahdessa osassa, ja voittaja etenee 16 parhaan joukkoon.\\n\\n16 parhaan joukkoon on oma arvontansa samalla prosessilla."
     },
     "seo_play_offs_format": {
       "comment": "Label leading to an explanation of the new Champions league play-off format",
@@ -10202,7 +10211,7 @@
     "seo_popular_in": {
       "comment": "Used in search for popular search results. Give the users country.",
       "english": "Popular in %@",
-      "value": "%@ suosii"
+      "value": "Suosittu maassa %@"
     },
     "seo_popular_in_your_country": {
       "comment": "Used in search for popular search results if we dont know the users country",
@@ -10384,7 +10393,7 @@
     },
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
-      "value": "Neljännesvälierien pudotuspeli"
+      "value": "16 parhaan pudotuspeli"
     },
     "seo_running_the_latest_version": {
       "comment": "Used as a short toast to the user to tell the latest version of FotMob is already installed.",
@@ -10434,7 +10443,7 @@
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "2nd leg",
-      "value": "2. jakso"
+      "value": "2. osaottelu"
     },
     "seo_seconds_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many Seconds left til the next week tournament starts. Use the plural form in the given language.",
@@ -10594,7 +10603,7 @@
     "seo_site_description_team_table": {
       "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
       "english": "%1$@ - league and cup standings and form guide",
-      "value": "%1$@ - sarja- ja cup-taulukot sekä pelilomake"
+      "value": "%1$@ – sarja- ja cup-taulukot sekä kuntopuntari"
     },
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
@@ -10763,7 +10772,7 @@
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
       "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ taulukko, lomake ja seuraava vastustaja"
+      "value": "%1$@ taulukko, vire ja seuraava vastustaja"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
@@ -10773,7 +10782,7 @@
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
       "english": "Transfer Center - Latest & Top Transfers - FotMob",
-      "value": "Siirto Center - Uusimmat ja Suositut Siirrot - FotMob"
+      "value": "Siirtokeskus - Uusimmat ja suurimmat siirrot - FotMob"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
@@ -10819,6 +10828,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "Lähetä"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "In"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10972,7 +10986,7 @@
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "3rd leg",
-      "value": "3. jakso"
+      "value": "3. osaottelu"
     },
     "seo_this_tournament": {
       "comment": "Button text for button that toggles only showing matches from the current tournament.",
@@ -10992,7 +11006,7 @@
     "seo_tips_tap_to_view_career_history": {
       "comment": "Hint to a user that he can click a button to view a players career",
       "english": "Tap to view career history",
-      "value": "Siirry yläosaan näyttääksesi urahistorian"
+      "value": "Napauta nähdäksesi urahistorian"
     },
     "seo_toppicks_predictor_cta": {
       "comment": "Call to action for getting users to play the FotMob's Top Picks predictor game with every week features a selection of matches from the top leagues.",
@@ -11012,6 +11026,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Ulos"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Avoimuuslain lausunto"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",

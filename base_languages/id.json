@@ -49,7 +49,7 @@
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won %",
-      "value": "Memenangkan bola udara %"
+      "value": "Duel udara dimenangkan %"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
@@ -69,7 +69,7 @@
     "accessibility_age_confirmation_subtitle": {
       "comment": "Popup subtext - used when a user needs to verify his age to display betting odds",
       "english": "To display odds we need to verify your age",
-      "value": "Untuk menampilkan lainnya, kami harus memverifikasi usia kamu."
+      "value": "Untuk menampilkan odds, kami perlu memverifikasi usia kamu."
     },
     "accessibility_alerts_disabled": {
       "comment": "Meant for VoiceOver. Lets the user know that a match has alerts off when in the detailed match-controller",
@@ -310,7 +310,7 @@
     "accessibility_dribbled_past": {
       "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
       "english": "Dribbled past",
-      "value": "Melalui pertahanan"
+      "value": "Dilewati saat dribel"
     },
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
@@ -325,7 +325,7 @@
     "accessibility_enable_push_description_live_activity": {
       "comment": "Description for push reminder for live activities",
       "english": "Enable push notifications to get live match updates on your lock screen",
-      "value": "Aktifkan notifikasi otomatis untuk mendapatkan pembaruan pertandingan langsung di layar kunci Anda"
+      "value": "Aktifkan notifikasi push untuk mendapatkan pembaruan pertandingan langsung di layar kunci Anda"
     },
     "accessibility_europa_conference_league_playoff": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
@@ -335,7 +335,7 @@
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
       "english": "Events",
-      "value": "Pertandingan"
+      "value": "Peristiwa"
     },
     "accessibility_expand": {
       "comment": "To expand a league",
@@ -350,7 +350,7 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "xGOT lawan"
+      "value": "xGOT dihadapi"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
@@ -525,7 +525,7 @@
     "accessibility_ground_duels_won": {
       "comment": "This is a statistic where we list the number of times a football defender won a ground duel as opposed to an aerial duel.",
       "english": "Ground duels won",
-      "value": "Menang adu bola di lapangan"
+      "value": "Duel darat dimenangkan"
     },
     "accessibility_h2h_short": {
       "comment": "Shortname of 'Head to head'. This tab shows how two teams have fared against each other in the past. Needs to be kept short. Use 'H2h' if it makes sense in the language",
@@ -575,7 +575,7 @@
     "accessibility_individual_play": {
       "comment": "A shot setup description. Goal was scored due to a solo effort. One player did it all himself.",
       "english": "Individual play",
-      "value": "Индивидуальная игра"
+      "value": "Aksi individu"
     },
     "accessibility_info_points_give": {
       "comment": "button to open information about how points are given in a tournament",
@@ -610,7 +610,7 @@
     "accessibility_insights_best_away": {
       "comment": "The team is ranked some number for away games this season. Example: \"Ranked 3rd away from home this season\"",
       "english": "Ranked %1$@ away from home this season",
-      "value": "Peringkat %1$@ kandang musim ini"
+      "value": "Peringkat %1$@ tandang musim ini"
     },
     "accessibility_insights_best_home": {
       "comment": "The team is ranked some number for home games this season. Example: \"Ranked 1st at home this season\"",
@@ -690,7 +690,7 @@
     "accessibility_insights_not_won_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won a match in 4 attempts",
       "english": "Haven't won a match in %1$@ attempts",
-      "value": "Belum terkalahkan dalam %1$@ kesempatan"
+      "value": "Belum menang dalam %1$@ kesempatan"
     },
     "accessibility_insights_penalties_awarded": {
       "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
@@ -725,7 +725,7 @@
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
       "english": "%1$@ has created the most big chances for %2$@ (%3$@)",
-      "value": "%1$@ membuat peluang terbesar untuk %2$@ (%3$@)"
+      "value": "%1$@ telah menciptakan peluang besar terbanyak untuk %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
@@ -750,12 +750,12 @@
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ consecutive matches",
-      "value": "%1$@ mencetak skor %2$@ pertandingan berturut-turut"
+      "value": "%1$@ telah mencetak gol dalam %2$@ pertandingan berturut-turut"
     },
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@ mencetak skor %2$@ untuk %4$@ laga terakhir %3$@"
+      "value": "%1$@ telah mencetak gol dalam %2$@ dari %4$@ laga terakhir %3$@"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -785,7 +785,7 @@
     "accessibility_insights_undefeated": {
       "comment": "The team has gone a particular number of matches without losing. Example: \"Undefeated in 7 matches\"",
       "english": "Undefeated in %1$@ matches",
-      "value": "Tak terkalahkan dalam in %1$@ laga"
+      "value": "Tak terkalahkan dalam %1$@ laga"
     },
     "accessibility_insights_undefeated_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Haven't lost in 12 matches",
@@ -1271,7 +1271,7 @@
     "accessibility_odds": {
       "comment": "Used for the Odds tab title",
       "english": "Odds",
-      "value": "Ganjil"
+      "value": "Odds"
     },
     "accessibility_off_target": {
       "comment": "Shorthand for shots off target.",
@@ -1316,7 +1316,7 @@
     "accessibility_onboarding_leagues": {
       "comment": "An explanation during onboarding that when you click a button to follow a league, it will appear at the top of the live matches list showing the football matches",
       "english": "Leagues you follow appear at the top of your match list.",
-      "value": "Liga yang kamu ikuti sepertinya ada di bagian atas daftar pertandinganmu."
+      "value": "Liga yang kamu ikuti akan muncul di bagian atas daftar pertandinganmu."
     },
     "accessibility_onboarding_leagues_search_placeholder": {
       "comment": "Placeholder text for search field in leagues onboarding screen.",
@@ -1356,12 +1356,12 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Ikuti tim untuk memprioritaskannya di seluruh aplikasi."
+      "value": "Ikuti tim untuk menerima notifikasi saat mereka bermain dan mencetak gol."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
       "english": "Only key events",
-      "value": "Hanya pertandingan utama"
+      "value": "Hanya peristiwa penting"
     },
     "accessibility_only_relevant_matches": {
       "comment": "A label on a filter button to show/hide filtered out leagues",
@@ -1443,7 +1443,7 @@
     "accessibility_passes_into_final_third": {
       "comment": "This is a pass from outside the final third of the pitch into the final third. So it's an attacking pass.",
       "english": "Passes into final third",
-      "value": "Lolos ke final ketiga"
+      "value": "Operan ke sepertiga akhir"
     },
     "accessibility_passing": {
       "comment": "A section header for passing stats for a football player. Below are things like Passes, pass accuracy",
@@ -1540,7 +1540,7 @@
     },
     "accessibility_pointspopup_2pts": {
       "english": "2 pts per correct winner in the round of 16",
-      "value": "1 poin per pemenang yang benar di babak 16"
+      "value": "2 poin per pemenang yang benar di babak 16 besar"
     },
     "accessibility_pointspopup_3pts": {
       "english": "3 pts per correct winner in the quarter finals",
@@ -1777,7 +1777,7 @@
     "accessibility_short_table": {
       "comment": "String indicating that we will show a short/condensed standings table without all the columns",
       "english": "Short",
-      "value": "Sumir"
+      "value": "Singkat"
     },
     "accessibility_shot_attempts": {
       "comment": "A stat name indicating the number of shot attempts made by a player.",
@@ -1802,7 +1802,7 @@
     "accessibility_shot_map": {
       "comment": "A label in the player details stats showing a graphic representation of all the shots on goal in the match.",
       "english": "Shot map",
-      "value": "Peta tambakan"
+      "value": "Peta tembakan"
     },
     "accessibility_shot_type": {
       "comment": "A label for the shot description under the shotmap (in shotmap details, left/right foot, head, etc.)",
@@ -1837,7 +1837,7 @@
     "accessibility_sign_in_is_required": {
       "comment": "The user gets the option to signin.",
       "english": "Signing in is required to create and join leagues.",
-      "value": "Masuk harus membuat dan bergabung liga."
+      "value": "Anda harus masuk untuk membuat dan bergabung dengan liga."
     },
     "accessibility_sign_in_required_to_continue": {
       "comment": "Header for sign-in prompt",
@@ -1922,7 +1922,7 @@
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
-      "value": "Diagram Ciri Pemain menyoroti kekuatan dan kelemahan statistik pemain, dibandingkan dengan pemain yang serupa.\\n\\nSetiap statistik disesuaikan setiap 90 hari dan mencakup pertandingan dari 365 hari yang lalu.\\n\\nKemudian pemain dibandingkan dengan rekan seposisi dari liga yang sama, dan ditempatkan ke dalam peringkat persentil. Contoh, pemain dengan peringkat persentil 90% pada Peluang yang Diciptakan berarti mereka menciptakan lebih banyak peluang dibandingkan 90% pemain di posisinya di liga serupa.\\n\\nDetail lengkap tentang perbandingan dapat dibaca di Pertanyaan Umum kami."
+      "value": "Diagram Ciri Pemain menyoroti kekuatan dan kelemahan statistik pemain, dibandingkan dengan pemain yang serupa.\\n\\nSetiap statistik disesuaikan per 90 menit dan mencakup pertandingan dari 365 hari terakhir.\\n\\nPemain kemudian dibandingkan dengan rekan seposisi dari liga yang serupa, dan ditempatkan ke dalam peringkat persentil. Misalnya, pemain dengan peringkat persentil 90% pada Peluang yang Diciptakan berarti mereka menciptakan lebih banyak peluang daripada 90% pemain di posisinya di liga serupa.\\n\\nDetail lengkap tentang perbandingan dapat dibaca di Pertanyaan Umum kami."
     },
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
@@ -2149,7 +2149,7 @@
     "accessibility_template_10096": {
       "comment": "Tournament between women club teams",
       "english": "Women club friendlies",
-      "value": "Persabahatan klub wanita"
+      "value": "Persahabatan klub wanita"
     },
     "accessibility_template_114": {
       "comment": "Tournament between national teams",
@@ -2159,7 +2159,7 @@
     "accessibility_template_287": {
       "comment": "EURO U19 tournament. https://www.uefa.com/under19/",
       "english": "EURO U19",
-      "value": "EURO 19"
+      "value": "EURO U19"
     },
     "accessibility_template_288": {
       "comment": "EURO U21 tournament. https://www.uefa.com/under21/",
@@ -2224,7 +2224,7 @@
     "accessibility_template_9375": {
       "comment": "Champions League for Women: https://en.wikipedia.org/wiki/UEFA_Women%27s_Champions_League",
       "english": "Women's Champions League",
-      "value": "Liga Champion Wanita"
+      "value": "Liga Champions Wanita"
     },
     "accessibility_template_9741": {
       "comment": "Youth league: https://www.uefa.com/uefayouthleague/ and https://en.wikipedia.org/wiki/UEFA_Youth_League",
@@ -2319,7 +2319,7 @@
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
       "english": "AFC Champions League Two",
-      "value": "Liga Dua Champion AFC"
+      "value": "Liga Champions AFC 2"
     },
     "accessibility_tr_afcchampionsleague": {
       "comment": "Name of tournament",
@@ -2393,7 +2393,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "Pelanggaran per 90"
+      "value": "Dilanggar per 90"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -2527,7 +2527,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "<b>Tabahkan berita</b> untuk \\ntim favorit Anda."
+      "value": "<b>Dapatkan berita</b> untuk \\ntim favorit Anda."
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2629,7 +2629,7 @@
     "common_all_events": {
       "comment": "Option in Notification Settings to enable/disable all events at once for player/team/match/etc.",
       "english": "All events",
-      "value": "Semua pertandingan"
+      "value": "Semua peristiwa"
     },
     "common_all_matches": {
       "english": "All matches",
@@ -2708,7 +2708,7 @@
     },
     "common_autoplay_wifi": {
       "english": "Wi-FI only",
-      "value": "Hanya di Wi-FI"
+      "value": "Hanya Wi‑Fi"
     },
     "common_average_goals_last3_both": {
       "english": "%1$@ have an average of %3$@ goals in their last three matches and %2$@ have an average of %4$@.",
@@ -2739,7 +2739,7 @@
     },
     "common_bad_form_both": {
       "english": "%1$@ have lost their last %3$@ matches and %2$@ their last %4$@ matches.",
-      "value": "%1$@ kalah dalam %3$@ laga terakhir mereka dan %2$@ %4$@ laga terakhir mereka."
+      "value": "%1$@ kalah dalam %3$@ laga terakhir mereka dan %2$@ kalah dalam %4$@ laga terakhir mereka."
     },
     "common_bad_form_team": {
       "english": "%1$@ have lost their last %2$@ matches.",
@@ -2752,7 +2752,7 @@
     },
     "common_betting": {
       "english": "Odds",
-      "value": "Ganjil"
+      "value": "Peluang"
     },
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
@@ -2785,7 +2785,7 @@
     "common_bracket_draw_info_legend": {
       "comment": "Bracket draw explanation",
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
-      "value": "Penempatan dalam bagan didasarkan pada hasil langsung dan tidak final sampai tahap saat ini selesai.\\n\\nTim yang dipisahkan oleh “or” akan ditempatkan bersama dalam undian, dan tidak dapat saling berhadapan di babak tersebut."
+      "value": "Penempatan dalam bagan didasarkan pada hasil langsung dan tidak final sampai tahap saat ini selesai.\\n\\nTim yang dipisahkan oleh “atau” akan ditempatkan bersama dalam undian, dan tidak dapat saling berhadapan di babak tersebut."
     },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
@@ -2880,12 +2880,12 @@
     },
     "common_championsleague": {
       "english": "Champions League",
-      "value": "Liga Champion"
+      "value": "Liga Champions"
     },
     "common_chances_created": {
       "comment": "Header for how many chances a team has created to score during the match",
       "english": "Chances created",
-      "value": "Kesempatan telah diciptakan"
+      "value": "Peluang diciptakan"
     },
     "common_chances_created_per_90": {
       "comment": "Label for how many chances a player has created divided by 90 minutes",
@@ -3022,7 +3022,7 @@
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
       "english": "CONCACAF Champions League",
-      "value": "Liga Champion CONCACAF"
+      "value": "Liga Champions CONCACAF"
     },
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
@@ -3110,7 +3110,7 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Semua data dikalkulasikan berdasarkan statistik yang ditampilkan oleh Opta.</p><p>Tingkatan pemain FotMob dikalkulasikan berdasarkan lebih dari 100 statistik perorangan per pemain dan pertandingan.</p><p>Sebuah pertandingan dalam tingkatan per pertandingan adalah setiap pertandingan dimana setiap peserta terlibat meskipun ia mulai menjadi pemain pengganti di beberapa menit terakhir.</p><p>Seorang pemain harus bermain sedikitnya 50% dari semua pertandingan yang menjadi bagian dari tingkatan-tingkatan.</p>"
+      "value": "<p>Semua data dikalkulasikan berdasarkan statistik yang disediakan oleh Opta.</p><p>Rating pemain FotMob dikalkulasikan berdasarkan lebih dari 100 statistik individual per pemain per pertandingan.</p><p>Pertandingan dalam rating per pertandingan adalah pertandingan apa pun yang diikuti oleh pemain, meskipun ia masuk sebagai pemain pengganti pada beberapa menit terakhir.</p><p>Seorang pemain harus bermain setidaknya 50% dari semua pertandingan dan setidaknya 90 menit (untuk statistik per 90 menit) agar dapat masuk dalam peringkat.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
@@ -3120,7 +3120,7 @@
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
       "english": "Default",
-      "value": "Default"
+      "value": "Bawaan"
     },
     "common_defender": {
       "comment": "MAX 2 chars!",
@@ -3133,11 +3133,11 @@
     },
     "common_deselect": {
       "english": "Deselect",
-      "value": "Hapus"
+      "value": "Batal pilih"
     },
     "common_deselect_all": {
       "english": "Deselect all",
-      "value": "Tidak pilih semua"
+      "value": "Batalkan pilihan semua"
     },
     "common_deselect_favorite": {
       "english": "Deselect favorite?",
@@ -3149,7 +3149,7 @@
     },
     "common_deselect_favorites": {
       "english": "Deselect favorites?",
-      "value": "Hapus kesukaan-kesukaan?"
+      "value": "Batal pilih favorit?"
     },
     "common_deselect_favorites_message": {
       "english": "Do you want to deselect your favorite leagues?",
@@ -3278,7 +3278,7 @@
     "common_empty_placeholder_no_ongoing_matches_and_my_matches": {
       "comment": "Empty placeholder for live matches, if there're no ongoing my matches",
       "english": "No my matches that are ongoing",
-      "value": "Tidak ada pertandingan yang sedang berlangsung"
+      "value": "Tidak ada pertandingan saya yang sedang berlangsung"
     },
     "common_empty_placeholder_no_players_stats": {
       "comment": "Empty placeholder for the case of empty player-statistics",
@@ -3306,12 +3306,12 @@
     },
     "common_enable_push": {
       "english": "Enable push notifications",
-      "value": "Aktifkan pemberitahuan otomatis"
+      "value": "Aktifkan notifikasi push"
     },
     "common_enable_push_description": {
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
       "english": "Enable push notifications to get breaking news and match updates",
-      "value": "Aktifkan notifikasi otomatis agar mendapatkan berita sela dan update pertandingan"
+      "value": "Aktifkan notifikasi push untuk mendapatkan berita terkini dan pembaruan pertandingan"
     },
     "common_enable_push_question": {
       "english": "Do you want to enable push notifications?",
@@ -3351,20 +3351,25 @@
       "english": "Errors led to goal",
       "value": "Kesalahan berujung gol"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Nilai Transfer Estimasi (ETV) adalah perkiraan terbaik kami tentang berapa nilai seorang pemain jika dijual saat ini.\\n\\nIni dihitung menggunakan data transfer nyata dan mempertimbangkan:\\n\\n• performa pemain\\n• usia dan potensi masa depan mereka\\n• seberapa sering dan pada level apa mereka bermain di posisi mereka\\n• kekuatan tim dan liga mereka\\n• berapa lama kontrak mereka masih berlaku\\n• perkembangan terbaru dan faktor serupa\\n\\nKami fokus pada pemain itu sendiri, bukan rumor, atau klub mana yang mungkin membelinya.\\n\\nNilai ini diperbarui secara berkala untuk mencerminkan perubahan di pasar transfer seiring waktu."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Nilai Perkiraan Pemain"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Nilai transfer estimasi"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Nilai kemungkinan jika dijual sekarang"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Nilai Transfer Estimasi (ETV) adalah perkiraan terbaik kami tentang berapa nilai seorang pemain jika dijual saat ini.\\n\\nIni dihitung menggunakan data transfer historis dan mempertimbangkan berbagai faktor performa dan konteks, termasuk:\\n\\n• performa dan perkembangan pemain\\n• usia dan potensi masa depan\\n• seberapa sering dan pada level apa mereka bermain\\n• posisi\\n• kekuatan tim dan liga\\n• sisa durasi kontrak\\n\\nETV berfokus pada pemain itu sendiri, bukan rumor atau klub mana yang mungkin membelinya.\\n\\nNilai ini diperbarui secara berkala untuk mencerminkan perubahan seiring waktu."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Nilai Perkiraan"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3374,7 +3379,7 @@
     "common_euro2016_onboarding_desc_line2": {
       "comment": "Onboarding: second line in adv.-alert",
       "english": "Setup alerts for top players and teams",
-      "value": "Peringatan penyiapan untuk pemain dan tim teratas"
+      "value": "Atur peringatan untuk pemain dan tim teratas"
     },
     "common_euro2016_setup_national_team": {
       "comment": "Onboarding: asking the user to setup their favorite national team",
@@ -3425,7 +3430,7 @@
     "common_expected_goals": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "Expected goals (xG)",
-      "value": "Tujuan yang diharapkan (xG)"
+      "value": "Expected goals (xG)"
     },
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
@@ -3509,7 +3514,7 @@
     "common_fast_push_alerts": {
       "comment": "Option in settings to enable faster notification",
       "english": "Fast push alerts",
-      "value": "Peringatan otomatis cepat"
+      "value": "Notifikasi push cepat"
     },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
@@ -3659,162 +3664,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ melakukan pelanggaran yang mengakibatkan penalti untuk %2$@."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ adalah pemain paling banyak dilanggar dalam pertandingan (%2$@ kali)"
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ adalah pemain paling banyak dilanggar dalam pertandingan (%2$@ kali)"
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ kalah duel paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ kalah duel paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ kehilangan penguasaan bola paling sering (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ kehilangan penguasaan bola paling sering dalam pertandingan (%2$@)."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ memiliki sentuhan bola paling sedikit (%2$@) dari pemain outfield mana pun yang bermain 90 menit."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ memiliki sentuhan bola paling sedikit (%2$@) dari pemain outfield mana pun."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ melakukan kesalahan yang berujung gol untuk %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ melakukan kesalahan yang berujung gol untuk %2$@.",
-        "other": "%1$@ melakukan %3$d kesalahan yang berujung gol untuk %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ menyelesaikan paling banyak dribel (%2$@) dalam pertandindan."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ menyelesaikan paling banyak dribel (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ menciptakan paling banyak peluang (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ menciptakan paling banyak peluang (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ menyelesaikan umpan paling banyak  (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ menyelesaikan umpan paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ memiliki tackle paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ memiliki tackle paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ menjadi pemain terbaik dengan nilai %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ saat ini memiliki nilai pertandingan paling tinggi dengan %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ memiliki sentuhan paling banyak (%2$@) di kotak lawan."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ memiliki sentuhan paling banyak (%2$@) di kotak lawan."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ adalah pengumpan paling akurat (%2$@) yang bermain 45 menit atau lebih."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ pengumpan paling akurat (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ membuat gol bunuh diri"
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ menang duel paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ menang duel paling banyak (%2$@) dalam pertandingan."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ mengenai mistar %2$@ kali dengan total tendangan %3$@."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ mengenai mistar %2$@ kali dengan total tendangan %3$@."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "UMUM"
@@ -3896,7 +3745,7 @@
     "common_goals_team_match_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals scored",
-      "value": "Total gol memasukkan"
+      "value": "Total gol yang dicetak"
     },
     "common_goals_team_match_title": {
       "comment": "Number of goals a team scores in average per match",
@@ -3932,12 +3781,13 @@
       "value": "Pendukung Emas"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "Golden goal"
     },
     "common_good_form_both": {
       "english": "%1$@ have won their last %3$@ matches and %2$@ their last %4$@ matches.",
-      "value": "%1$@ telah memenangkan %3$@ laga terakhir mereka dan %2$@ %4$@ laga terakhir mereka."
+      "value": "%1$@ telah memenangkan %3$@ laga terakhir mereka dan %2$@ telah memenangkan %4$@ laga terakhir mereka."
     },
     "common_good_form_team": {
       "english": "%1$@ have won their last %2$@ matches.",
@@ -4009,6 +3859,11 @@
       "english": "Hide %@ news",
       "value": "Sembunyikan berita %@"
     },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Tertinggi"
+    },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
       "english": "Highlight",
@@ -4068,7 +3923,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "Gabung Klub Suporter FotMob untuk menghapus iklan yang kami kontrol agar FotMob lebih cepat, bebas gangguan. Dukunganmu membantu kami untuk terus menjadikan FotMob lebih baik. Terima kasih atas dukungannya."
+      "value": "Gabung Klub Suporter FotMob untuk menghapus iklan yang kami kontrol agar FotMob lebih cepat dan bebas gangguan. Dukunganmu membantu kami terus membuat FotMob lebih baik. Perlu diketahui, jika kamu mengeklik artikel berita dari pihak ketiga, kami tidak dapat mengontrol iklan yang mereka tampilkan di situs web mereka. Terima kasih atas dukunganmu!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4141,7 +3996,7 @@
     "common_keeper_diving_save": {
       "comment": "Keeper dives to save the ball",
       "english": "Diving save",
-      "value": "Diving penyelamatan"
+      "value": "Penyelamatan terbang"
     },
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
@@ -4266,7 +4121,7 @@
     },
     "common_league_has_notifications": {
       "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "Liga telah mengaktifkan pemberitahuan, kamu harus mematikan pemberitahuan melalui menu Filter di jendela langsung"
+      "value": "Liga telah mengaktifkan notifikasi, kamu harus mematikan peringatan melalui menu Filter di tab Pertandingan"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4335,7 +4190,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "Video ini dikelola oleh server eksternal. FotMob bukan pemilik konten yang akan Anda tonton.\\n\\nFotMob tidak bertanggung jawab atas dan dimintai tanggung jawab atas konten yang dikelola oleh server pihak ketiga."
+      "value": "Video ini dihosting di situs eksternal. FotMob bukan pemilik konten yang akan Anda tonton.\\n\\nFotMob tidak bertanggung jawab dan tidak dapat dimintai pertanggungjawaban atas konten apa pun yang dihosting di situs pihak ketiga tersebut.\\n\\nUntuk pengaduan hukum apa pun, silakan hubungi pemilik berkas media atau penyedia hosting video/audio."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4372,7 +4227,7 @@
     },
     "common_log_me_in": {
       "english": "Log me in",
-      "value": "Masukkan saya"
+      "value": "Masuk"
     },
     "common_lost": {
       "english": "L",
@@ -4384,7 +4239,7 @@
     },
     "common_ltc": {
       "english": "Live ticker",
-      "value": "Waktu langsung"
+      "value": "Ticker langsung"
     },
     "common_ltc_not_found": {
       "comment": "Empty placeholder if there's no live-comments available",
@@ -4534,7 +4389,7 @@
     "common_minutes_until_second_half": {
       "comment": "countdown to the second half of the match",
       "english": "%@ until second half",
-      "value": "%@ hingga paruh babak"
+      "value": "%@ hingga babak kedua"
     },
     "common_missed_penalty": {
       "english": "Missed penalty",
@@ -4555,7 +4410,7 @@
     },
     "common_my_matches": {
       "english": "My matches",
-      "value": "Favorit"
+      "value": "Pertandingan saya"
     },
     "common_myanmar": {
       "english": "Myanmar",
@@ -4651,7 +4506,7 @@
     "common_no_suggestions": {
       "comment": "Empty placeholder if there's no quick-suggestions found",
       "english": "No suggestions but hit search for results",
-      "value": "Tidak ada saran, kecuali petunjuk hasil"
+      "value": "Tidak ada saran, tetapi ketuk Cari untuk melihat hasil"
     },
     "common_no_table": {
       "english": "No table available",
@@ -4715,7 +4570,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Sesuaikan volume pemberitahuan skor dan ubah untuk menunjukkan pemberitahuan. Ubah zona waktu."
+      "value": "Sesuaikan volume pemberitahuan skor dan ubah kapan pemberitahuan ditampilkan. Ubah zona waktu."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -4815,7 +4670,7 @@
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
-      "value": "Pilih pemain favorit dan dapatkan pemberitahuan gol, kartu merah, absen di pertandingan berikutnya, dan banyak lagi"
+      "value": "Pilih pemain favorit Anda dan dapatkan pemberitahuan untuk gol, kartu merah, penalti yang gagal, dan lainnya"
     },
     "common_onboarding_players_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for players",
@@ -4894,7 +4749,7 @@
     },
     "common_over_under": {
       "english": "Will there be more than 2.5 goals?",
-      "value": "Akankah terjadi lebih dari 2,5 goal?"
+      "value": "Akankah terjadi lebih dari 2,5 gol?"
     },
     "common_own_goal_short": {
       "comment": "Shorthand for Own Goal. If no possible way to translate this then use OG. This is used to write things like \"Messi 92'(OG)\". Indicating Messi scored an Own Goal in 92' minute.",
@@ -4904,7 +4759,7 @@
     "common_own_half_passes": {
       "comment": "Label for number of passes inside their own half",
       "english": "Own half",
-      "value": "Setengah memiliki"
+      "value": "Setengah lapangan sendiri"
     },
     "common_owngoal": {
       "english": "Own goal",
@@ -4919,12 +4774,13 @@
       "value": "Paraguay"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Jeda"
     },
     "common_pause_match": {
       "english": "Half time",
-      "value": "Babak satu"
+      "value": "Paruh waktu"
     },
     "common_pauseextratime": {
       "english": "Pause extra time",
@@ -4933,7 +4789,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "Penyelamatan penalti"
+      "value": "Penalti yang dihadapi"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -4956,8 +4812,9 @@
       "value": "Jumlah pertandingan"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "Pelanggaran di kotak penalti"
+      "value": "Penalti yang diberikan"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
@@ -4974,12 +4831,12 @@
     },
     "common_penalty_won_team_title": {
       "english": "Penalties awarded",
-      "value": "Hadiah penalti"
+      "value": "Penalti diberikan"
     },
     "common_penalty_won_title": {
       "comment": "Team/Player has received a penalty because of a foul",
       "english": "Penalties awarded",
-      "value": "Hadiah penalti"
+      "value": "Penalti diberikan"
     },
     "common_peru": {
       "english": "Peru",
@@ -5064,7 +4921,7 @@
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
-      "value": "Mulai ulang aplikasi untuk menyelesaikan perubahan liga"
+      "value": "Harap mulai ulang aplikasi untuk menyelesaikan perubahan bahasa"
     },
     "common_points": {
       "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
@@ -5088,11 +4945,11 @@
     },
     "common_poss_won_att_3rd_subtitle": {
       "english": "Possession won midfield",
-      "value": "Penguasaan bola oleh lini tengah"
+      "value": "Penguasaan bola direbut di lini tengah"
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "Penguasaan bola oleh lini tengah"
+      "value": "Penguasaan bola dimenangkan di lini tengah"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
@@ -5373,7 +5230,7 @@
     },
     "common_score_volume": {
       "english": "Score alert volume",
-      "value": "Volume berita skor"
+      "value": "Volume peringatan skor"
     },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
@@ -5593,10 +5450,12 @@
       "value": "Pendukung perak"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Silver goal"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Silver goal"
     },
@@ -5607,7 +5466,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "Seret kompetisi yang kamu inginkan di jendela langsung atau pilih kompetisi dan gunakan tombol untuk membuat penyortiran yang disukai"
+      "value": "Seret untuk mengubah urutan liga di tab Pertandingan. Atau, ketuk liga dan gunakan tombol di bagian bawah untuk memindahkan."
     },
     "common_sort_favorite_leagues_v2": {
       "comment": "A body for the hint (onboarding) for the new News, where we explain how to change order of the news-sections",
@@ -5808,7 +5667,7 @@
     "common_team_form": {
       "comment": "Label for the list of the last matches for the team in the Team Profile",
       "english": "Team form",
-      "value": "Formasi tim"
+      "value": "Performa tim"
     },
     "common_team_form_both": {
       "comment": "W is Win, D is Draw and L is loss",
@@ -6053,7 +5912,7 @@
     },
     "common_transfer_enable_all": {
       "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Ingin menerima pemberitahuan transfer yang disesuaikan untuk tim dan pertandingan favoritmu?"
+      "value": "Ingin menerima pemberitahuan transfer yang disesuaikan untuk tim dan liga favoritmu?"
     },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
@@ -6086,9 +5945,9 @@
       "value": "Jumlah"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Nilai pasar"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Nilai transfer"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6101,7 +5960,7 @@
     },
     "common_turn_off_favorite_league_pling": {
       "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Kamu telah menonaktifkan pemberitahuan tim favorit (tekan lama header &quot;Tim Favorit&quot;) untuk mengaktifkan status pemberitahuan pertandingan ini"
+      "value": "Kamu harus menonaktifkan pemberitahuan untuk tim favorit (tekan lama header &quot;Tim Favorit&quot;) untuk mengubah status pemberitahuan pada pertandingan ini"
     },
     "common_tv_prompt": {
       "english": "TV Listing",
@@ -6148,7 +6007,7 @@
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",
-      "value": "Draw dua leg"
+      "value": "Pertandingan dua leg"
     },
     "common_undefeated_both_equal": {
       "english": "%1$@ and %2$@ haven't lost their %3$@ last games.",
@@ -6340,11 +6199,11 @@
     },
     "common_won_contest_subtitle": {
       "english": "Successful dribbles %",
-      "value": "Dibble sukses %"
+      "value": "Dribel sukses %"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
-      "value": "Penggiringan bola per pertandingan"
+      "value": "Penggiringan bola sukses per pertandingan"
     },
     "common_won_long": {
       "english": "Won",
@@ -6428,7 +6287,7 @@
     },
     "ios_CZE": {
       "english": "Czech",
-      "value": "Cheska"
+      "value": "Ceko"
     },
     "ios_Changing_notification": {
       "english": "Changing notification...",
@@ -6452,7 +6311,7 @@
     },
     "ios_Error_reporting": {
       "english": "Error reporting",
-      "value": "Kesalahan pelaporan"
+      "value": "Pelaporan kesalahan"
     },
     "ios_GER": {
       "english": "German",
@@ -6518,7 +6377,7 @@
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
-      "value": "Kembalikan pembelian sebelumnya"
+      "value": "Pulihkan pembelian?"
     },
     "ios_SVK": {
       "english": "Slovak",
@@ -6644,7 +6503,7 @@
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
-      "value": "FotMob - aplikasi skor langsung terbaik untuk sepakbola/sepakbola"
+      "value": "FotMob - aplikasi skor langsung terbaik untuk sepak bola"
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
@@ -6690,11 +6549,11 @@
     "new_bracket": {
       "comment": "This is the World Cup bracket. Like this http://cdn.bleacherreport.net/images_root/article/media_slots/photos/001/240/770/KnockoutRoundBracket_original.jpg?1386355815",
       "english": "Bracket",
-      "value": "Tanda kurung"
+      "value": "Bagan"
     },
     "new_bronzeFinal": {
       "english": "Bronze-final",
-      "value": "Perunggu-final"
+      "value": "Final Perunggu"
     },
     "new_change_news_sound": {
       "english": "Change sound for news alerts",
@@ -6736,7 +6595,7 @@
     "new_default_sound": {
       "comment": "Indicates that the user has the default sound set",
       "english": "Default",
-      "value": "Default"
+      "value": "Bawaan"
     },
     "new_did_you_know": {
       "english": "Did you know?",
@@ -6824,7 +6683,7 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "Kamu harus mencoba aplikasi ini, benar-benar keren untuk Liga Premier ++ berikut."
+      "value": "Aku pakai aplikasi ini untuk cek skor sepak bola langsung. Coba deh!"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
@@ -6895,7 +6754,7 @@
     },
     "new_no_odds": {
       "english": "No odds",
-      "value": "Tidak ada yang ganjil"
+      "value": "Tidak ada odds"
     },
     "new_no_player_data": {
       "english": "Nothing here yet, check back later",
@@ -6903,7 +6762,7 @@
     },
     "new_no_thanks": {
       "english": "No thanks",
-      "value": "Tidak terima kasih"
+      "value": "Tidak, terima kasih"
     },
     "new_notification_sound_fav_opponent": {
       "comment": "it is in the notification settings where you can choose a sound for the goal of an opponent to your favorite team",
@@ -6917,7 +6776,7 @@
     },
     "new_odds_format": {
       "english": "Odds format",
-      "value": "Format ganjil"
+      "value": "Format odds"
     },
     "new_onlytopnews": {
       "english": "Only top news",
@@ -6992,7 +6851,7 @@
     },
     "new_remove_ads": {
       "english": "Remove ads",
-      "value": "Hapus iklan spanduk"
+      "value": "Hapus iklan"
     },
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
@@ -7061,7 +6920,7 @@
     "new_start_and_finish": {
       "comment": "Indicates that the user wants alerts for the start and end of the match",
       "english": "Start and fulltime result",
-      "value": "Hasil mulai dan waktu penuh"
+      "value": "Kick-off dan hasil akhir"
     },
     "new_summary": {
       "english": "Summary",
@@ -7231,7 +7090,7 @@
     },
     "notifications_alert_Pause": {
       "english": "%@ %@-%@ %@\\nHalf time",
-      "value": "%@ %@-%@ %@\\nSeparo babak"
+      "value": "%@ %@-%@ %@\\nParuh waktu"
     },
     "notifications_alert_PauseExtraTime": {
       "english": "%@ %@-%@ %@\\nPause in extra time",
@@ -7276,7 +7135,7 @@
     "notifications_alert_goal": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
       "english": "%@ %@-%@ %@\\n%@Goal!",
-      "value": "%@ %@-%@ %@\\n%@Goal!"
+      "value": "%@ %@-%@ %@\\n%@Gol!"
     },
     "notifications_alert_goal_noscorer": {
       "comment": "No need to translate this",
@@ -7350,7 +7209,7 @@
     "notifications_alert_score": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
       "english": "%@ %@-%@ %@\\n%@Goal!",
-      "value": "%@ %@-%@ %@\\n%@Goal!"
+      "value": "%@ %@-%@ %@\\n%@Gol!"
     },
     "notifications_alert_subst_in": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
@@ -7476,7 +7335,7 @@
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
-      "value": "Bola diblok"
+      "value": "Tembakan diblok"
     },
     "notifications_bosnia": {
       "english": "Bosnia and Herzegovina",
@@ -7525,7 +7384,7 @@
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
       "english": "Clearances",
-      "value": "Clearance"
+      "value": "Sapuan"
     },
     "notifications_compare_stats": {
       "english": "Compare stats",
@@ -7543,7 +7402,7 @@
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
       "english": "Crosses",
-      "value": "Melewati"
+      "value": "Umpan silang"
     },
     "notifications_customize": {
       "comment": "Button label indicating that the user want to customize the alerts for the transfers",
@@ -7591,7 +7450,7 @@
     "notifications_disable_dnd_to_hear_notifications": {
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
-      "value": "Mode \"Jangan Diganggu\" dinonaktifkan untuk mendengar suara pemberitahuan."
+      "value": "Nonaktifkan mode \"Jangan Diganggu\" untuk mendengar suara pemberitahuan."
     },
     "notifications_disable_push": {
       "english": "Are you sure? You should only do this if you experience problems with the notifications.",
@@ -7614,7 +7473,7 @@
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
-      "value": "- \"Jangan Diganggu sedang diaktifkan"
+      "value": "- \"Jangan Diganggu\" sedang diaktifkan"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
@@ -7651,7 +7510,7 @@
     "notifications_enable_breaking_news": {
       "comment": "User can enable breaking news alerts",
       "english": "Enable breaking news",
-      "value": "Aktifkan berita sela"
+      "value": "Aktifkan berita terkini"
     },
     "notifications_enable_breaking_news_desc": {
       "comment": "User can enable breaking news alerts",
@@ -7661,7 +7520,7 @@
     "notifications_enable_http_cache": {
       "comment": "Enables the app to work with no network connection showing cached information.",
       "english": "Enable offline cache",
-      "value": "Aktifkan cache offline (BETA)"
+      "value": "Aktifkan cache offline"
     },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
@@ -7741,17 +7600,17 @@
       "value": "Meragukan"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "Awal %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "Terakhir %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "Pertengahan %1$@"
     },
@@ -7780,7 +7639,7 @@
     },
     "notifications_filter_tournaments_help_text": {
       "english": "Select which leagues to display in Matches tab",
-      "value": "Pilih turnamen yang akan ditampilkan di layar langsung"
+      "value": "Pilih liga yang akan ditampilkan di tab Pertandingan"
     },
     "notifications_finland": {
       "english": "Finland",
@@ -8004,7 +7863,7 @@
     },
     "notifications_injury_117": {
       "english": "Knee cap injury",
-      "value": "Cedera tempurung"
+      "value": "Cedera tempurung lutut"
     },
     "notifications_injury_118": {
       "english": "Medial Collateral Ligament injury",
@@ -8052,7 +7911,7 @@
     },
     "notifications_injury_128": {
       "english": "Contracture",
-      "value": "Kontrak"
+      "value": "Kontraktur"
     },
     "notifications_injury_129": {
       "english": "Nose surgery",
@@ -8064,7 +7923,7 @@
     },
     "notifications_injury_130": {
       "english": "Knock",
-      "value": "Cedera knock"
+      "value": "Benturan"
     },
     "notifications_injury_131": {
       "english": "Jaw injury",
@@ -8140,7 +7999,7 @@
     },
     "notifications_injury_34": {
       "english": "Wrist injury",
-      "value": "Cedera pergelangan"
+      "value": "Cedera pergelangan tangan"
     },
     "notifications_injury_35": {
       "english": "Hand injury",
@@ -8232,7 +8091,7 @@
     },
     "notifications_injury_73": {
       "english": "Achilles tendon injury",
-      "value": "Luka tendon achilles"
+      "value": "Cedera tendon Achilles"
     },
     "notifications_injury_74": {
       "english": "Leg injury",
@@ -8252,7 +8111,7 @@
     },
     "notifications_injury_78": {
       "english": "Collarbone injury",
-      "value": "Cedera tulang tengkorak"
+      "value": "Cedera tulang selangka"
     },
     "notifications_injury_79": {
       "english": "Dislocated shoulder",
@@ -8304,7 +8163,7 @@
     },
     "notifications_injury_90": {
       "english": "Cold",
-      "value": "Demam"
+      "value": "Pilek"
     },
     "notifications_injury_91": {
       "english": "Personal reasons",
@@ -8660,7 +8519,7 @@
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
-      "value": "Penalti berhasil"
+      "value": "Penalti didapat"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -8680,7 +8539,7 @@
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@ berada di starting lineup. %@ - %@"
+      "value": "%@ berada di starting lineup\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -9008,7 +8867,7 @@
     },
     "notifications_slovakia": {
       "english": "Slovakia",
-      "value": "Slowakia"
+      "value": "Slovakia"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -9164,7 +9023,7 @@
     "notifications_transfer_type_free_agent": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
       "english": "free agent",
-      "value": "bebas agen"
+      "value": "agen bebas"
     },
     "notifications_transfer_type_free_transfer": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
@@ -9363,6 +9222,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Silakan bagikan detail tentang iklan, seperti pengiklan, di layar mana, video atau gambar, dan apa yang Anda anggap bermasalah."
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Iklankan dengan kami"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9575,7 +9439,7 @@
     "seo_enter_lineup_name": {
       "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder. Keep the translation as short as possible for languages where the output is a very long string.",
       "english": "Enter lineup name",
-      "value": "Masukkan nama tim"
+      "value": "Masukkan nama susunan pemain"
     },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
@@ -9593,9 +9457,9 @@
       "value": "Sesuaikan layar utama dengan ikon aplikasi alternatif."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "xG lawan saat di lapangan"
+      "value": "xG kebobolan saat di lapangan"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9668,12 +9532,12 @@
     "seo_final_third_passes": {
       "comment": "Passes in the final third of the pitch. Will be written below a \"Passes\" header as \"Final third 75 (97%)\"",
       "english": "Final third",
-      "value": "Final ketiga"
+      "value": "Sepertiga akhir"
     },
     "seo_first_leg": {
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "1st leg",
-      "value": "babak pertama"
+      "value": "leg pertama"
     },
     "seo_fixture_difficulty": {
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
@@ -9758,7 +9622,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "Gol kemasukan saat di lapangan"
+      "value": "Gol kemasukan (di lapangan)"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9779,6 +9643,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Rekor head to head saat ini untuk tim adalah %2$@ kemenangan %1$@, %4$@ kemenangan %3$@, dan %5$@ hasil imbang."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Heatmap"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Lihat di mana pemain membuat dampak di lapangan. Ketuk pemain dari layar susunan untuk memeriksanya."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Heatmap sudah tersedia"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9820,13 +9699,138 @@
       "english": "I need help",
       "value": "Saya butuh bantuan"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Salin Tautan"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Salin tautannya lalu tempelkan di Safari atau Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Ketuk tiga titik (•••) di kanan bawah, lalu \"Buka di browser\""
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Ketuk tiga titik (•••) di kanan atas, lalu pilih \"Buka di browser\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Ketuk menu (≡), lalu pilih \"Buka di browser lain\""
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Ketuk ikon bagikan di bawah, lalu pilih browser Anda"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Ketuk tiga titik (•••), lalu \"Buka di browser\""
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Ketuk tiga titik (•••) di kanan atas, lalu \"Buka di browser eksternal\""
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Ketuk tiga titik (•••), lalu pilih \"Buka di browser\""
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Ketuk tiga titik (•••), lalu \"Buka di browser\""
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Ketuk ikon bagikan, lalu pilih \"Buka di Safari\" atau \"Salin Tautan\""
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Ketuk tiga titik (•••), lalu “Buka di…” dan pilih Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Salin tautan lalu tempelkan di Safari atau Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Ketuk ikon bagikan, lalu \"Buka di Safari\""
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Cari menu (••• atau ikon berbagi) dan pilih 'Buka di browser'"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Ketuk tiga titik (•••), lalu \"Buka di Safari\""
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Kembali"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Buka di browser"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Buka di browser Anda untuk masuk"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Buka di Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Buka di Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Atau secara manual:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "Login tidak selalu berfungsi dengan andal di browser %1$s. Silakan buka halaman ini di Safari atau Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Coba masuk di sini saja (mungkin tidak berfungsi)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Login mungkin tidak berfungsi di browser dalam aplikasi ini"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "Login mungkin tidak berfungsi di browser %1$s. Untuk pengalaman terbaik, kembali dan buka halaman ini di browser Anda."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Silakan buka halaman ini di browser perangkat Anda (Safari atau Chrome) untuk melanjutkan."
     },
@@ -9904,6 +9908,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Susunan pemain disimpan"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Tidak ada"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10335,7 +10344,7 @@
     "seo_renews_tomorrow": {
       "comment": "Used to indicate when the subscription will renew tomorrow. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "english": "Renews tomorrow",
-      "value": "Perpanjang besok"
+      "value": "Diperpanjang besok"
     },
     "seo_restart_now": {
       "comment": "Text for button that will restart the app.",
@@ -10429,7 +10438,7 @@
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "2nd leg",
-      "value": "babak kedua"
+      "value": "leg kedua"
     },
     "seo_seconds_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many Seconds left til the next week tournament starts. Use the plural form in the given language.",
@@ -10494,7 +10503,7 @@
     "seo_site_description_league_matches": {
       "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
       "english": "%1$@ results %2$@ and upcoming fixtures",
-      "value": "Hasil %1$@ dan pertandingan mendatang %2$@"
+      "value": "Hasil %1$@ %2$@ dan pertandingan mendatang"
     },
     "seo_site_description_league_news": {
       "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
@@ -10524,7 +10533,7 @@
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "english": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob.",
-      "value": "%1$@ %2$@ diberi peringkat berdasarkan poin yang diharapkan (xPts). Lihat %1$@ tabel xG, atau tabel keadilan sebesar %2$@ dan musim lain di FotMob."
+      "value": "%1$@ %2$@ diberi peringkat berdasarkan poin yang diharapkan (xPts). Lihat tabel xG %1$@, atau tabel keadilan untuk %2$@ dan musim lainnya di FotMob."
     },
     "seo_site_description_league_transfers": {
       "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
@@ -10534,7 +10543,7 @@
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
       "english": "%1$@ historic seasons with winners and runners-up.",
-      "value": "%1$@ musim bersejarah dengan pemenang dan runner-up."
+      "value": "%1$@ musim bersejarah dengan pemenang dan juara kedua."
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
@@ -10967,7 +10976,7 @@
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "3rd leg",
-      "value": "babak ketiga"
+      "value": "leg ke-3"
     },
     "seo_this_tournament": {
       "comment": "Button text for button that toggles only showing matches from the current tournament.",
@@ -11007,6 +11016,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Kel."
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Pernyataan Undang-Undang Transparansi"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11158,7 +11172,7 @@
     "seo_weather_forecast": {
       "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
       "english": "Weather forecast",
-      "value": "Prakiraan"
+      "value": "Prakiraan cuaca"
     },
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",

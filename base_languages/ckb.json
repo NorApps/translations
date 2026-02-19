@@ -127,7 +127,7 @@
       "value": "ئەسیست بۆ هەر 90 خولەکێک"
     },
     "accessibility_attackers": {
-    "english": "Forwards",
+      "english": "Forwards",
       "value": "هێرشبەرەکان"
     },
     "accessibility_attacking_threat": {
@@ -186,7 +186,7 @@
       "value": "ڕێژەی % بردنەوەی ڕاهێنەر"
     },
     "accessibility_collapse": {
-    "english": "Collapse",
+      "english": "Collapse",
       "value": "بچووککردنەوە"
     },
     "accessibility_company": {
@@ -200,7 +200,7 @@
       "value": "سیاسەتی کوکی"
     },
     "accessibility_could_not_connect": {
-    "english": "Could not connect to phone",
+      "english": "Could not connect to phone",
       "value": "نەتوانرا بە مۆبایلەوە ببەسترێتەوە"
     },
     "accessibility_coupon": {
@@ -209,19 +209,19 @@
       "value": "کۆبۆن"
     },
     "accessibility_createleaguepopup_create_a_league": {
-    "english": "Create a league",
+      "english": "Create a league",
       "value": "خولێک دروست بکە"
     },
     "accessibility_createleaguepopup_create_league": {
-    "english": "Create league",
+      "english": "Create league",
       "value": "دروستکردنی خول"
     },
     "accessibility_createleaguepopup_enter_name": {
-    "english": "Enter a league name",
+      "english": "Enter a league name",
       "value": "ناوی خولەکە بنووسە"
     },
     "accessibility_createleaguepopup_type_the_name": {
-    "english": "Type the name of the league below",
+      "english": "Type the name of the league below",
       "value": "ناوی خولەکە لە خوارەوە بنووسە"
     },
     "accessibility_crosses_succeeeded": {
@@ -244,14 +244,13 @@
       "english_plurals": {
         "one": "Day",
         "other": "Days"
-        },
+      },
       "plurals": {
-        "one": "ڕۆژ",
-        "other": "ڕۆژ"
+        "one": "ڕۆژ"
       }
     },
     "accessibility_defenders": {
-    "english": "Defenders",
+      "english": "Defenders",
       "value": "بەرگریکارەکان"
     },
     "accessibility_defending": {
@@ -305,7 +304,7 @@
       "value": "لێدانی ڕاستەوخۆ"
     },
     "accessibility_download_fotmob": {
-    "english": "Download FotMob",
+      "english": "Download FotMob",
       "value": "دابەزاندنی فوتمۆب"
     },
     "accessibility_dribbled_past": {
@@ -472,11 +471,6 @@
       "comment": "Used as a title on graphics card for with season stats. Very limited room. Find shortest possible version",
       "english": "Season stats",
       "value": "ئامارەکانی وەرز"
-    },
-    "accessibility_goal_diff_title": {
-      "comment": "Label for goal difference stat (goals scored minus goals conceded).",
-      "english": "Goal difference",
-      "value": "جیاوازی گۆڵ"
     },
     "accessibility_goal_type": {
       "comment": "Used for goal types in player profile",
@@ -756,7 +750,7 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "یاریزان %1$@ لە %2$@ یاری لە دواین %3$@'s یاری یانەی %4$@ گۆڵی تۆمار کردووە" 
+      "value": "یاریزان %1$@ لە %2$@ یاری لە دواین %3$@'s یاری یانەی %4$@ گۆڵی تۆمار کردووە"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -810,7 +804,7 @@
     },
     "accessibility_interrupted": {
       "comment": "A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
-      "english": "Interrupted", 
+      "english": "Interrupted",
       "value": "ڕاگیراوە"
     },
     "accessibility_interrupted_short": {
@@ -844,12 +838,12 @@
       "value": "ببورە، هیچ خولێک بەو کۆدە نەدۆزرایەوە"
     },
     "accessibility_joinleaguepopup_join_league": {
-    "english": "Join league",
-    "value": "بەشداری خول بکە"
+      "english": "Join league",
+      "value": "بەشداری خول بکە"
     },
     "accessibility_joinleaguepopup_type_league_code": {
-    "english": "Type or paste the unique League ID-code in the text field below:",
-    "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
+      "english": "Type or paste the unique League ID-code in the text field below:",
+      "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
     },
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
@@ -874,7 +868,7 @@
     "accessibility_league_widget_body": {
       "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
       "english": "View today's matches with live updates",
-      "value": " یاریەکانی ئەمڕۆ بە نوێکاریی ڕاستەوخۆوە"
+      "value": "یاریەکانی ئەمڕۆ بە نوێکاریی ڕاستەوخۆوە"
     },
     "accessibility_league_widget_header": {
       "comment": "Header for a widget where you get an overview of a league's matches",
@@ -974,7 +968,7 @@
     "accessibility_logincomponent_desc1": {
       "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
       "english": "To save your data you just have to sign in to enter the FotMob",
-      "value": "بۆ پاشەکەوتکردنی زانیاریەکانت، تەنها پێویستە بچیتە ژوورەوە بۆ ناو بەرنامەی فۆتمۆب "
+      "value": "بۆ پاشەکەوتکردنی زانیاریەکانت، تەنها پێویستە بچیتە ژوورەوە بۆ ناو بەرنامەی فۆتمۆب"
     },
     "accessibility_logincomponent_desc1_v2": {
       "comment": "explanation that the user needs to login to enter the competion.",
@@ -1011,26 +1005,24 @@
       "value": "ئامارەکانی یاری"
     },
     "accessibility_matches_count": {
-    "english": "%d matches",
+      "english": "%d matches",
       "english_plurals": {
         "one": "1 match",
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 یاری",
-        "other": "%d یاری"
+        "one": "1 یاری"
       },
       "value": "%d یاری"
     },
     "accessibility_matches_left": {
-    "english": "%d matches left",
+      "english": "%d matches left",
       "english_plurals": {
         "one": "1 match left",
         "other": "%d matches left"
       },
       "plurals": {
-        "one": "1 یاری ماوە",
-        "other": "%d یاری ماوە"
+        "one": "1 یاری ماوە"
       },
       "value": "%d یاری ماوە"
     },
@@ -1505,13 +1497,12 @@
         "other": "%d other competitions are playing now"
       },
       "plurals": {
-        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت",
-        "other": "ئێستا %d پاڵەوانێتی تریش بەڕێوە دەچن"
+        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت"
       }
     },
     "accessibility_playing_today": {
       "comment": "First placeholder is a list of leagues and second placeholder is a single league. So like \"Premier League, La Liga and Serie A are playing\"",
-      "english": "%@ other competitions play today",
+      "english": "%1$@ and %2$@ are playing",
       "value": "یاریەکانی %1$@ و %2$@ بەڕێوەدەچن"
     },
     "accessibility_playing_today_no_ranked_leagues": {
@@ -1535,27 +1526,27 @@
       "value": "خاڵ بۆ هەر یاریەک"
     },
     "accessibility_pointspopup_10pts": {
-    "english": "10 pts for the winner of the final",
+      "english": "10 pts for the winner of the final",
       "value": "دە 10 خاڵ بۆ براوەی یاری کۆتایی"
     },
     "accessibility_pointspopup_1pts": {
-    "english": "1 pt per correctly placed team in the group stage",
+      "english": "1 pt per correctly placed team in the group stage",
       "value": "یەک 1 خاڵ بۆ هەر یانەیەک کە بە دروستی لە قۆناغی کۆمەڵەکان ڕیزبەندی دەکەیت"
     },
     "accessibility_pointspopup_2pts": {
-    "english": "2 pts per correct winner in the round of 16",
+      "english": "2 pts per correct winner in the round of 16",
       "value": "دوو 2 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە قۆناغی 16"
     },
     "accessibility_pointspopup_3pts": {
-    "english": "3 pts per correct winner in the quarter finals",
+      "english": "3 pts per correct winner in the quarter finals",
       "value": "سێ 3 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە چارەکی کۆتایی"
     },
     "accessibility_pointspopup_4pts": {
-    "english": "4 pts per correct winner in the semi finals",
+      "english": "4 pts per correct winner in the semi finals",
       "value": "چوار 4 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە پێش کۆتایی"
     },
     "accessibility_pointspopup_5pts": {
-    "english": "5 pts for the winner of the bronze final",
+      "english": "5 pts for the winner of the bronze final",
       "value": "پێنج 5 خاڵ بۆ براوەی یاری پلەی سێیەم"
     },
     "accessibility_pointspopup_about_the_competition": {
@@ -1625,12 +1616,12 @@
     },
     "accessibility_redeem_it_here": {
       "comment": "Subheader for redeem code view",
-      "english": "Redeem it here", 
+      "english": "Redeem it here",
       "value": "لێرە بەکاری بهێنە"
     },
     "accessibility_regular_play": {
       "comment": "A shot setup description. Goal was scored from a normal play. So it wasn't part of a corner, free kick, counter-attack or throw-in.",
-      "english": "Regular play", 
+      "english": "Regular play",
       "value": "یاری ئاسایی"
     },
     "accessibility_reorder_favorite_leagues_disclaimer": {
@@ -2298,7 +2289,7 @@
     "accessibility_top_transfer_description": {
       "comment": "You can toggle on getting alerts for all the most important transfers. This is regardless of which team or league the transfer is from.",
       "english": "Get notifications for all the top transfers across all leagues",
-      "value": "ئاگادارکردنەوەکان بۆ گواستنەوە گرنگەکانی هەموو خولەکان وەربگرە "
+      "value": "ئاگادارکردنەوەکان بۆ گواستنەوە گرنگەکانی هەموو خولەکان وەربگرە"
     },
     "accessibility_total": {
       "comment": "Table header text for the column that shows total Fifa rank points.",
@@ -2448,11 +2439,6 @@
       "comment": "Label used in stats for the sum of expexted goals and expexted assists per 90 min",
       "english": "xG + xA per 90",
       "value": "xG + xA بۆ هەر 90 خولەکێک"
-    },
-    "accessibility_xg_diff_title": {
-      "comment": "Label for expected goals difference stat. Keep xG untranslated.",
-      "english": "xG difference",
-      "value": "جیاوازی xG"
     },
     "accessibility_yellow": {
       "comment": "Used to describe yellow cards in the stats for player profile.",
@@ -2662,7 +2648,7 @@
     "common_allow_tracking_header": {
       "comment": "The header for the popup asking for user's permission to track data",
       "english": "Please tap \"Allow tracking\" on the next screen",
-      "value": "تکایە کلیک لە\"ڕێگەپێدان بە بەدواداچوون\" بکە لە شاشەی داهاتوو "
+      "value": "تکایە کلیک لە\"ڕێگەپێدان بە بەدواداچوون\" بکە لە شاشەی داهاتوو"
     },
     "common_always": {
       "english": "Always",
@@ -3089,13 +3075,12 @@
       "value": "دراو"
     },
     "common_days_ago": {
-          "english_plurals": {
+      "english_plurals": {
         "one": "1 day ago",
         "other": "%d days ago"
       },
       "plurals": {
-        "one": "1 ڕۆژ لەمەوبەر",
-        "other": "%d ڕۆژ لەمەوبەر"
+        "one": "1 ڕۆژ لەمەوبەر"
       }
     },
     "common_days_until_match_start_short": {
@@ -3356,20 +3341,25 @@
       "english": "Errors led to goal",
       "value": "هەڵەکان کە دەبنە هۆی گۆڵ لێکران"
     },
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "نرخی یاریزان"
+    },
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
+      "english": "Estimated transfer value",
+      "value": "نرخی گواستنەوەی خەمڵاندراو"
+    },
     "common_estimated_transfer_value_description": {
       "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "بەهای خەمڵێنراوی گواستنەوە (ETV) باشترین پێشبینی ئێمەیە بۆ نرخی یاریزانێک ئەگەر هەر ئێستا بفرۆشرێت.\\n\\nئەم بەهایە بە بەکارهێنانی داتای ڕاستەقینەی گواستنەوەکان هەژمار دەکرێت و ڕەچاوی ئەم خاڵانە دەکات:\\n\\n• ئاستی یاریزان\\n• تەمەن و توانای داهاتووی یاریزان\\n• چەند جار و لە چ ئاستێکدا لە پێگەکەی خۆیدا یاری دەکات\\n• هێزی یانە و خولەکەی\\n• ماوەی ماوە لە گرێبەستەکەی\\n• گەشەسەندنی ئەم دواییانە و هۆکارە هاوشێوەکان\\n\\nئێمە جەخت لەسەر خودی یاریزانەکە دەکەینەوە، نەک دەنگۆکان یان ئەوەی کام یانە لەوانەیە بییانکڕێت.\\n\\nبەهاکە بە شێوەیەکی خولی نوێ دەکرێتەوە بۆ ڕەنگدانەوەی گۆڕانکاریەکانی بازاڕی گواستنەوە بە تێپەڕبوونی کات."
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "نرخی گواستنەوەی خەمڵاندراو (ETV) باشترین هەڵسەنگاندنەکەی ئێمەیە بۆ ئەوەی کە یاریزانێک ئەگەر ئێستا بفرۆشرێت، چەند دەبێت نرخەکەی.\\n\\nئەم نرخە بە بەکارهێنانی داتای مێژوویی گواستنەوە و ژمارەیەک فاکتەری پەیوەندیدار بە ئەدا و دۆخ هەژمار دەکرێت، وەک:\\n\\n• ئەدای یاریزان و پەرەسەندنی\\n• تەمەن و توانای داهاتوو\\n• چەند جار و لە چ ئاستێکدا یاری دەکات\\n• شوێنی یاری\\n• هێزی تیم و لیگەکە\\n• ماوەی ماوەی ماوەی ماوەی ماوەی مابەستراوی گرێبەست\\n\\nETV سەرنجی لەسەر خودی یاریزانەکە دەخات، نەک لەسەر قسە و گوێزەکان یان ئەو تیمەی کە ڕەنگە بیهەوێت بیکڕێت.\\n\\nئەم نرخە بە شێوەی بەردەوام نوێ دەکرێتەوە بۆ ئەوەی گۆڕانکارییەکان لەگەڵ کاتدا پیشان بدات."
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
-      "english": "Estimated transfer value",
-      "value": "بەهای خەمڵێنراوی گواستنەوە"
-    },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "بەهای پێشبینیکراو ئەگەر ئێستا بفرۆشرێت"
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "نرخی خەمڵاندراو"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3664,162 +3654,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "یاریزان %1$@ فاوڵێکی لەسەر گیرا کە بووە هۆی لێدانی سزا بۆ یانەی %2$@."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "یاریزان %1$@ زۆرترین فاوڵی بۆ گیراوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین فاوڵی بۆ گیراوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین ململانێی تۆپی دۆڕاندووە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین ململانێی تۆپی دۆڕاندووە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین تۆپی لەدەستداوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین تۆپی لەدەستداوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "یاریزان %1$@ کەمترین بەرکەوتنی هەبووە لەگەڵ تۆپ (%2$@ بەرکەوتن) لە نێوان ئەو یاریزانانەی 90 خولەک یاریان کردووە."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "یاریزان %1$@ کەمترین بەرکەوتنی هەبووە لەگەڵ تۆپ (%2$@ بەرکەوتن) لە نێوان هەموو یاریزانەکان."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "یاریزان %1$@ هەڵەیەکی کرد کە بووە هۆی گۆڵ بۆ یانەی %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-            "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "یاریزان %1$@ هەڵەیەکی کرد کە بووە هۆی گۆڵ بۆ یانەی %2$@.",
-        "other": "یاریزان %1$@ ئەم یاریە %3$d هەڵەی کرد کە بوونە هۆی گۆڵ بۆ یانەی %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین بڕینی سەرکەوتووی هەیە لە یاریەکەدا (%2$@) بڕینی سەرکەوتوو."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین بڕینی سەرکەوتووی هەیە لە یاریەکەدا (%2$@) بڕینی سەرکەوتوو."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین هەلی دروستکردووە لە یاریەکەدا (%2$@) هەل."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین هەلی دروستکردووە لە یاریەکەدا (%2$@) هەل."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین پاسی سەرکەوتووی داوە لە یاریەکەدا (%2$@) پاس."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین پاسی سەرکەوتووی داوە لە یاریەکەدا (%2$@) پاس."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین تۆپ لێسەندنەوەی سەرکەوتووی ئەنجامداوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین تۆپ لێسەندنەوەی سەرکەوتووی ئەنجامداوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "یاریزان %1$@ باشترین یاریزانی یاریەکە بوو بە هەڵسەنگاندنی %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "یاریزان %1$@ تا ئێستا باشترین یاریزانی یاریەکەیە بە هەڵسەنگاندنی %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "یاریزان %1$@ زۆرترین بەرکەوتنی هەبووە لەگەڵ تۆپ لەناو ناوچەی سزای بەرامبەر (%2$@) جار."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین بەرکەوتنی هەیە لەگەڵ تۆپ لەناو ناوچەی سزای بەرامبەر (%2$@) جار."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "یاریزان %1$@ زۆرترین پاسی دروستی داوە لە یاریەکەدا لە نێوان ئەو یاریزانانەی 45 خولەک یان زیاتر یاریان کردووە (%2$@) پاسەکانی دروست بوو."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین پاسی دروستی داوە لە یاریەکەدا، ڕێژەی (%2$@) پاسەکانی دروست بوون."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "یاریزان %1$@ گۆڵێکی لەخۆیان تۆمارکرد."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "یاریزان %1$@ زۆرترین ململانێی تۆپی بردۆتەوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "یاریزان %1$@ تا ئێستا زۆرترین ململانێی تۆپی بردۆتەوە لە یاریەکەدا (%2$@) جار."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "یاریزان %1$@ تۆپی داوە لە ستوونی گۆڵ%2$@ لە کۆی %3$@ شووت."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "یاریزان %1$@ تۆپی داوە لە ستوونی گۆڵ %2$@ لە کۆی %3$@ شووت."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "گشتی"
@@ -3937,6 +3771,7 @@
       "value": "پشتگیریکاری زێڕین"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "گۆڵی زێڕین"
     },
@@ -4014,6 +3849,11 @@
       "english": "Hide %@ news",
       "value": "شاردنەوەی هەواڵەکانی %@"
     },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "بەرزترین"
+    },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
       "english": "Highlight",
@@ -4038,13 +3878,12 @@
       "value": "هیندوراس"
     },
     "common_hours_ago": {
-          "english_plurals": {
+      "english_plurals": {
         "one": "%d hour ago",
         "other": "%d hours ago"
       },
       "plurals": {
-        "one": "%d کاتژمێر لەمەوبەر",
-        "other": "%d کاتژمێر لەمەوبەر"
+        "one": "%d کاتژمێر لەمەوبەر"
       }
     },
     "common_hours_tweet_timestamp": {
@@ -4537,13 +4376,12 @@
       "value": "خولەک بۆ هەر گۆڵێک"
     },
     "common_minutes_ago": {
-          "english_plurals": {
+      "english_plurals": {
         "one": "%d minute ago",
         "other": "%d minutes ago"
       },
       "plurals": {
-        "one": "%d خولەک لەمەوبەر",
-        "other": "%d خولەک لەمەوبەر"
+        "one": "%d خولەک لەمەوبەر"
       }
     },
     "common_minutes_tweet_timestamp": {
@@ -4735,7 +4573,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": " دەنگی ئاگادارکەرەوەی ئەنجامەکان و کاتی پیشاندانیان ڕێکبخە. کاتی ناوچەیی بگۆڕە."
+      "value": "دەنگی ئاگادارکەرەوەی ئەنجامەکان و کاتی پیشاندانیان ڕێکبخە. کاتی ناوچەیی بگۆڕە."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -4939,6 +4777,7 @@
       "value": "پاراگوای"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "وەستان"
     },
@@ -4976,6 +4815,7 @@
       "value": "کۆی یاریەکان"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "لەسەر گیرانی لێدانی سزا"
     },
@@ -5094,7 +4934,7 @@
     "common_points_lowercase_abbreviation": {
       "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
       "english": "pts",
-      "value": "خاڵ "
+      "value": "خاڵ"
     },
     "common_popular": {
       "comment": "The most popular leagues",
@@ -5154,9 +4994,8 @@
       "value": "پێشبینیکەر"
     },
     "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!",
       "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "ئێمە پێشبینیەکانی خۆمان بۆ مۆندیال داناوە. تۆش پێشبینیەکانی خۆت لێرە دابنێ <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!" 
+      "value": "ئێمە پێشبینیەکانی خۆمان بۆ مۆندیال داناوە. تۆش پێشبینیەکانی خۆت لێرە دابنێ <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5614,10 +5453,12 @@
       "value": "پشتگیریکاری زیوین"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "گۆڵی زیوین"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "گۆڵی زیوین"
     },
@@ -6107,9 +5948,9 @@
       "value": "تێچوو"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "بەهای بازاڕ"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "بهای گواستنەوە"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -7197,14 +7038,13 @@
     },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
-            "english": "+%d minutes added",
+      "english": "+%d minutes added",
       "english_plurals": {
         "one": "+%d minute added",
         "other": "+%d minutes added"
       },
       "plurals": {
-        "one": "کاتی زیادکراو +%d خولەک",
-        "other": "کاتی زیادکراو +%d خولەک"
+        "one": "کاتی زیادکراو +%d خولەک"
       },
       "value": "کاتی زیادکراو +%d خولەک"
     },
@@ -7702,7 +7542,7 @@
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
-      "value": "هەڵەیەک بووە هۆی شووت "
+      "value": "هەڵەیەک بووە هۆی شووت"
     },
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
@@ -7762,17 +7602,17 @@
       "value": "گوماناویە"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "سەرەتای %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "کۆتاییەکانی %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "ناوەڕاستی %1$@"
     },
@@ -9483,11 +9323,6 @@
       "english": "Clear lineup",
       "value": "سڕینەوەی پێکهاتە"
     },
-    "seo_code_copied_to_clipboard": {
-      "comment": "Toast message shown when user has copied the league code to clipboard",
-      "english": "Code copied to clipboard",
-      "value": "کۆدەکە کۆپی کرا بۆ کلیپبۆرد"
-    },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
       "english": "Competitions",
@@ -9502,11 +9337,6 @@
       "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
       "english": "Continue in the FotMob app for a faster, better experience - for free!",
       "value": "لە ناو بەرنامەی فوتمۆبدا بەردەوام بە بۆ ئەزموونێکی خێراتر و باشتر - بەخۆڕایی!"
-    },
-    "seo_contract_end": {
-      "comment": "Label for the contract end date/expire date for a football player with his club.",
-      "english": "Contract end",
-      "value": "کۆتایی گرێبەست"
     },
     "seo_copied_link_web": {
       "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
@@ -9613,11 +9443,6 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "شاشەی مۆبایلەکەت بڕازێنەرەوە بە ئایکۆنە جیاوازەکانی بەرنامەکە."
     },
-    "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
-      "english": "xG against while on pitch",
-      "value": "xG یانەی بەرامبەر لە کاتی یاریکردندا"
-    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9638,10 +9463,8 @@
       },
       "plurals": {
         "one": "سبەی بەسەردەچێت",
-        "other": "دوای %d ڕۆژ بەسەردەچێت",
         "zero": "ئەمڕۆ بەسەردەچێت"
       },
-
       "value": "دوای %d ڕۆژ بەسەردەچێت"
     },
     "seo_expires_today": {
@@ -9698,11 +9521,6 @@
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "1st leg",
       "value": "یاری چوون"
-    },
-    "seo_fixture_difficulty": {
-      "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
-      "english": "Fixture difficulty",
-      "value": "خشتەی سەختی یاریەکان"
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
@@ -9779,11 +9597,6 @@
       "english": "Get the best mobile experience",
       "value": "باشترین ئەزموونی مۆبایل بەدەست بهێنە"
     },
-    "seo_goals_conceded_while_on_pitch": {
-      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
-      "english": "Goals conceded while on pitch",
-      "value": "گۆڵ لێکران کاتێک یاریزانەکە لە یاریگادایە"
-    },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
       "english": "Gold",
@@ -9803,6 +9616,11 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "ئاماری ڕووبەڕوبونەوەی نێوان دوو یانەکە بریتیە لە %1$@ %2$@ بردنەوە، %3$@ %4$@ بردنەوە، و %5$@ یەکسانبوون."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "نەخشەی گەرمی"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9843,16 +9661,6 @@
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
       "english": "I need help",
       "value": "پێویستم بە یارمەتیە"
-    },
-    "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
-      "english": "Login may not work in this in-app browser",
-      "value": "ڕەنگە چوونە ناوەوە لەم وێبگەڕەی ناو بەرنامەدا کار نەکات"
-    },
-    "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
-      "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
-      "value": "تکایە بۆ بەردەوامبوون، ئەم لاپەڕەیە لە وێبگەڕی ئامێرەکەتدا (سافاری یان گووگڵ کرۆم) بکەرەوە."
     },
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
@@ -9944,11 +9752,6 @@
       "english": "This live commentary has been auto-translated. There may be minor inaccuracies.",
       "value": "ئەم بێژەریە ڕاستەوخۆیە بە شێوەیەکی ئۆتۆماتیکی وەرگێڕدراوە. ڕەنگە هەندێک هەڵەی بچووکی تێدابێت."
     },
-    "seo_ltc_new_updates": {
-      "comment": "\"Toast\" used in live ticker commentary when user has scrolled down and there are new updates on the top of the page.",
-      "english": "New updates",
-      "value": "زانیاری نوێ"
-    },
     "seo_manage": {
       "comment": "Used for manage button on the FotMob+ member page.",
       "english": "Manage",
@@ -9979,11 +9782,6 @@
       "english": "Men",
       "value": "پیاوان"
     },
-    "seo_min_value_filter": {
-      "comment": "Label for a filter input where the user can set a value for players shown in a transfers list. Should cover both minimum market value and minimum transfer fee. Keep it short.",
-      "english": "Min value",
-      "value": "کەمترین بەها"
-    },
     "seo_minutes_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many minutes left til the next week tournament use the plural form in the given language.",
       "english": "Minutes",
@@ -10008,11 +9806,6 @@
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "english": "Newsletter",
       "value": "هەواڵ نامە"
-    },
-    "seo_next_five_matches": {
-      "comment": "Label for a section showing the next five matches for a football team. See next_match",
-      "english": "Next five matches",
-      "value": "پێنج یاری داهاتوو"
     },
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
@@ -10084,30 +9877,10 @@
       "english": "<b>Official data.</b> These are the same physical stats trusted by professional teams.",
       "value": "<b>داتا فەڕمیەکان.</b> ئەمانە هەمان ئەو ئامارە جەستەییانەن کە یانە پیشەگەرەکان پشتی پێ دەبەستن."
     },
-    "seo_onboarding_wear_button": {
-      "comment": "Button for opening the Play Store when user sees Wear onboarding",
-      "english": "Get the Wear app",
-      "value": "بەرنامەی Wear بەدەستبهێنە"
-    },
-    "seo_onboarding_wear_subtitle": {
-      "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
-      "english": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch.",
-      "value": "بە ئاسانی ڕووداوەکانی یاری، ئامار و زانیاری ئەو یانانە ببینە کە بەدواداچوونیان بۆ دەکەیت، لە ڕێگەی فۆتمۆب لەسەر کاتژمێرەکەت."
-    },
-    "seo_onboarding_wear_title": {
-      "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
-      "english": "All the action, right from your wrist.",
-      "value": "هەموو ڕوداوەکان ڕاستەوخۆ، لەسەر دەستت ببینە."
-    },
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",
       "english": "Overwrite",
       "value": "جێبەجێکردن"
-    },
-    "seo_participants_count": {
-      "comment": "Label showing how many participants/members are in your mini-league. %1$@ is replaced with the number of participants. Don't support plural differences.",
-      "english": "%1$@ participants",
-      "value": "%1$@ بەشداربوو"
     },
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -10264,20 +10037,10 @@
       "english": "Pre-fill with popular teams",
       "value": "پڕکردنەوە بە تیمە بەناوبانگەکان"
     },
-    "seo_predict_copy_code": {
-      "comment": "Button label for copying your league code to clipboard so you can share it with others to join your mini-league. See predict_league_code",
-      "english": "Copy code",
-      "value": "کۆدەکە کۆپی بکە"
-    },
     "seo_predict_edit_until_kick_off": {
       "comment": "Text for the second step in the predictor game, to explain that you can edit your predictions until the match starts.",
       "english": "You can edit your predictions until the match kicks off.",
       "value": "دەتوانیت پێشبینیەکانت دەستکاری بکەیت تا ئەو کاتەی یاریەکە دەست پێ دەکات."
-    },
-    "seo_predict_league_code": {
-      "comment": "Label for your league's unique code that can be shared with others to join your mini-league. See joinleaguepopup_enter_code",
-      "english": "League code",
-      "value": "کۆدی خول"
     },
     "seo_predict_onboarding_apps": {
       "comment": "Text in onboarding of our predictor game. The placeholder is a league name like \"Women's EURO 2025\" so the complete string in English will be \"Predict Women's EURO 2025 results and compete against friends in leagues!\". If the word \"Predict\" sounds weird in your language, please use \"Guess\" as a replacement.",
@@ -10363,7 +10126,6 @@
       },
       "plurals": {
         "one": "سبەی نوێ دەبێتەوە",
-        "other": "دوای %d ڕۆژ نوێ دەبێتەوە",
         "zero": "ئەمڕۆ نوێ دەبێتەوە"
       }
     },
@@ -10820,11 +10582,6 @@
       "english": "Something went wrong. Please try again.",
       "value": "هەڵەیەک ڕوویدا. تکایە دووبارە هەوڵ بدەرەوە."
     },
-    "seo_sort_by": {
-      "comment": "Label for a dropdown or button that allows the user to sort a list by different criteria. E.g. sort transfers by date, fee, or market value.",
-      "english": "Sort by",
-      "value": "ڕیزکردن بەپێی"
-    },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
       "english": "Source",
@@ -10854,6 +10611,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "ناردن"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -11038,16 +10800,6 @@
       "english": "Team of the Season",
       "value": "باشترین پێکهاتەی وەرز"
     },
-    "seo_transfers_in_short": {
-      "comment": "Label for a button to filter transfers in a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_in",
-      "english": "In",
-      "value": "هاتوو"
-    },
-    "seo_transfers_out_short": {
-      "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
-      "english": "Out",
-      "value": "ڕۆشتو"
-    },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
       "english": "Then %1$@ / year (%2$@ / month)",
@@ -11122,8 +10874,7 @@
         "other": "%@ votes"
       },
       "plurals": {
-        "one": "%@ دەنگ",
-        "other": "%@ دەنگ"
+        "one": "%s دەنگ"
       }
     },
     "seo_watch_on_tv": {
@@ -11206,26 +10957,6 @@
       "english": "Week",
       "value": "هەفتە"
     },
-    "seo_weekly_predictor_notification_body": {
-      "comment": "Notification body mentioning that new Fotmob Predictor matches are now open.",
-      "english": "New matches are available. Make your predictions before kickoff!",
-      "value": "یاریە نوێیەکان بەردەستن. پێش دەستپێکردن پێشبینییەکانت تۆمار بکە!"
-    },
-    "seo_weekly_predictor_notification_title": {
-      "comment": "Notification title mentioning that new Fotmob Predictor matches are now open.",
-      "english": "Time to predict!",
-      "value": "کاتی پێشبینیکردنە!"
-    },
-    "seo_weekly_predictor_reminders": {
-      "comment": "A toggle to turn on/off weekly predictor reminders. Don't translate \"FotMob Predict\"",
-      "english": "Weekly FotMob Predict reminders",
-      "value": "ئاگادارکردنەوەی هەفتانەی پێشبینیکردنی فوتمۆب"
-    },
-    "seo_weekly_predictor_reminders_desc": {
-      "comment": "A toggle description about getting weekly reminders for new predictor matches available. Don't translate \"FotMob Predict\"",
-      "english": "Receive weekly reminders when new FotMob Predict matches are available",
-      "value": "ئاگادارکردنەوەی هەفتانە بەدەست بهێنە کاتێک یاریە نوێەکانی پێشبینیکردنی فوتمۆب بەردەست دەبن"
-    },
     "seo_weekly_reminders": {
       "comment": "Headline in the popup informing users that they can enable reminders for when the weekly matches are made available",
       "english": "Weekly Reminders",
@@ -11258,8 +10989,7 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 یاری",
-        "other": "%d یاری"
+        "one": "1 یاری"
       }
     },
     "seo_xg_table_explanation": {

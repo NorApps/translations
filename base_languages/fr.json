@@ -183,7 +183,7 @@
     "accessibility_coach_win_percentage": {
       "comment": "Percentage of games won out of total played.",
       "english": "Coach win percentage",
-      "value": "Pourcentage de victoires des derniers entraîneurs"
+      "value": "Pourcentage de victoires de l’entraîneur"
     },
     "accessibility_collapse": {
       "english": "Collapse",
@@ -201,7 +201,7 @@
     },
     "accessibility_could_not_connect": {
       "english": "Could not connect to phone",
-      "value": "Impossible de connecter au téléphone"
+      "value": "Impossible de se connecter au téléphone"
     },
     "accessibility_coupon": {
       "comment": "Title for a coupon builder",
@@ -406,7 +406,7 @@
     "accessibility_follow_in_the_app_description": {
       "comment": "Describes the app so the user will want to download it.",
       "english": "Access your predictions, points and leagues straight from your Android/iOS FotMob app.",
-      "value": "Consultez nos pronostics, les classements et les ligues directement depuis l'application FotMob pour Android/iOS."
+      "value": "Accédez à vos pronostics, vos points et vos ligues directement depuis votre application FotMob Android/iOS."
     },
     "accessibility_follow_leagues": {
       "comment": "Header in the onboarding where you can choose your favorite leagues",
@@ -446,7 +446,7 @@
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
       "english": "Fouls won",
-      "value": "Fautes obtenus"
+      "value": "Fautes subies"
     },
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
@@ -586,7 +586,7 @@
     "accessibility_insights": {
       "comment": "Used as a header for a section which displays insights about each of the teams before a match.",
       "english": "Insights",
-      "value": "Informations des équipes"
+      "value": "Analyses"
     },
     "accessibility_insights_average_goals_per_match": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Average [2.3] goals per match",
@@ -756,7 +756,7 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@ a marqué %2$@ buts lors des %4$@ derniers matchs de %3$@"
+      "value": "%1$@ a marqué lors de %2$@ des %4$@ derniers matchs de %3$@"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -964,7 +964,7 @@
     "accessibility_log_out_and_delete_account": {
       "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
       "english": "Sign out and delete account",
-      "value": "Se déconnecter et supprimez le compte"
+      "value": "Se déconnecter et supprimer le compte"
     },
     "accessibility_login_disclaimer": {
       "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
@@ -1115,7 +1115,7 @@
     "accessibility_myleaguespage_desc1": {
       "comment": "explanation on nature of the leagues the user create",
       "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide.",
-      "value": "Les ligues que vous créez sont privées. Les utilisateurs qui veulent vous rejoindre doivent utiliser le lien ou l'ID unique que vous leur donnez."
+      "value": "Les ligues que vous créez sont privées et ne peuvent être rejointes que par les personnes qui disposent de l’ID unique ou du lien que vous fournissez."
     },
     "accessibility_myleaguespage_desc1_v2": {
       "comment": "Create a league to compete against others.",
@@ -1178,7 +1178,7 @@
     "accessibility_new_match_experience_header": {
       "comment": "The header for the new match-facts onboarding.",
       "english": "New match experience",
-      "value": "Expérience de nouveau match"
+      "value": "Nouvelle expérience de match"
     },
     "accessibility_new_match_experience_subtitle": {
       "comment": "The subtitle for the new-match-facts onboarding.",
@@ -1293,7 +1293,7 @@
     "accessibility_onboarding_follow_leagues_description_line_1": {
       "comment": "Onboarding text for a new user.",
       "english": "We’ve made it easier to see the leagues you want.",
-      "value": "Nous avons faciliter la consultation des ligues que vous voulez."
+      "value": "Nous avons facilité la consultation des ligues que vous voulez."
     },
     "accessibility_onboarding_follow_leagues_description_line_2": {
       "comment": "Onboarding text for a new user. Placeholder is the name of the first tab in the UI. It is called \"Matches\" in English.",
@@ -1521,7 +1521,7 @@
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
       "english": "%1$@ and %2$@ other competitions play today",
-      "value": "%1$@ et %2$@ compétitions se jouent aujourd'hui"
+      "value": "%1$@ et %2$@ autres compétitions se jouent aujourd'hui"
     },
     "accessibility_playing_today_single": {
       "comment": "Placeholder is a league. So like \"Premier League is playing\"",
@@ -2108,7 +2108,7 @@
     "accessibility_sync_to_calendar_description": {
       "comment": "Text shown in a panel that lets the user add a team's fixtures to the calendar. Input is the team name and the team short name, eg: Sync <b>Manchester United's</b><b>Man United's</b> fixtures to your favorite calendar app. (The code will show either the team name or the short name depending on screen size)",
       "english": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app.",
-      "value": "Synchronisez les matchs de <b>%1$@'s</b><b>%2$@'s</b> avec votre application de calendrier préférée."
+      "value": "Synchronisez les matchs de <b>%1$@</b><b>%2$@</b> avec votre application de calendrier préférée."
     },
     "accessibility_sync_to_calendar_description_plain": {
       "comment": "Same as sync_to_calendar_description, but without html tags. Input is the team name, eg: Sync Liverpool's fixtures to your favorite calendar app.",
@@ -2147,7 +2147,7 @@
     "accessibility_team_score": {
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
       "english": "%@ scores!",
-      "value": "BUT ! pour %@"
+      "value": "%@ marque !"
     },
     "accessibility_template_10096": {
       "comment": "Tournament between women club teams",
@@ -2277,7 +2277,7 @@
     "accessibility_throw_in_set_piece": {
       "comment": "A shot setup description. Goal was scored as part of a throw in.",
       "english": "Throw in set piece",
-      "value": "Lancer en coup de pied arrêté"
+      "value": "Phase arrêtée sur touche"
     },
     "accessibility_ticker": {
       "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
@@ -2568,7 +2568,7 @@
     },
     "common_after90": {
       "english": "After fulltime",
-      "value": "Prolongations"
+      "value": "Après le temps réglementaire"
     },
     "common_afterextra": {
       "english": "After extra time",
@@ -2584,7 +2584,7 @@
     },
     "common_against": {
       "english": "against",
-      "value": "de nouveau"
+      "value": "contre"
     },
     "common_aggregate": {
       "english": "Aggregate",
@@ -2684,7 +2684,7 @@
     "common_assist": {
       "comment": "Shown in match facts when a player got an assist for a goal",
       "english": "assist by",
-      "value": "passe décisive"
+      "value": "passe décisive de"
     },
     "common_assists": {
       "comment": "Header for top lists of the player with mosts assists",
@@ -2797,7 +2797,7 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "Twitter non disponible"
+      "value": "Buzz non disponible"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
@@ -2945,7 +2945,7 @@
     "common_clear": {
       "comment": "A button label removing all the search filters. It will clear the filters the user has set.",
       "english": "Clear",
-      "value": "Supprimer"
+      "value": "Effacer"
     },
     "common_clear_cache": {
       "comment": "Option in settings to clear cache and local files",
@@ -3119,7 +3119,7 @@
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Toutes les données sont calculées sur la base des statistiques fournies par Opta.</p><p>La note du joueur FotMob est calculée sur la base de plus de 100 statistiques individuelles par joueur et par match.</p><p>Un match dans les notes par match est tout match auquel le participant a participé, même s'il est entré en jeu en tant que remplaçant au cours des dernières minutes.</p><p>Un joueur doit avoir joué au moins 50 % de tous les matchs et au moins 90 minutes (pour les statistiques par 90) pour être inclus dans le classement.</p>"
+      "value": "<p>Toutes les données sont calculées sur la base des statistiques fournies par Opta.</p><p>La note du joueur FotMob est calculée sur la base de plus de 100 statistiques individuelles par joueur et par match.</p><p>Un match dans les notes par match est tout match auquel le participant a participé, même s'il est entré en jeu en tant que remplaçant au cours des dernières minutes.</p><p>Un joueur doit avoir joué au moins 50%% de tous les matchs et au moins 90 minutes (pour les statistiques par 90) pour être inclus dans le classement.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3252,7 +3252,7 @@
     },
     "common_elSalvador": {
       "english": "El Salvador",
-      "value": "Salvador"
+      "value": "El Salvador"
     },
     "common_empty_placeholder_network_failure": {
       "comment": "Empty placeholder for live matches, if there's no connection",
@@ -3355,20 +3355,25 @@
       "english": "Errors led to goal",
       "value": "Erreurs ayant provoqué un but"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "La Valeur de Transfert Estimée (ETV) est notre meilleure estimation de la valeur d'un joueur s'il était vendu actuellement.\\n\\nElle est calculée à partir de données réelles de transferts et prend en compte :\\n\\n• la performance du joueur\\n• son âge et son potentiel futur\\n• la fréquence et le niveau auxquels il joue à son poste\\n• la force de son équipe et de sa ligue\\n• la durée restante de son contrat\\n• les développements récents et des facteurs similaires\\n\\nNous nous concentrons sur le joueur lui-même, pas sur les rumeurs ou le club qui pourrait l'acheter.\\n\\nLa valeur est mise à jour régulièrement pour refléter les changements du marché des transferts au fil du temps."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Valeur estimée du joueur"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
-      "value": "Valeur de transfert estimée"
+      "value": "Valeur estimée du transfert"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Valeur probable si vendu maintenant"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "La Valeur de Transfert Estimée (ETV) est notre meilleure estimation de la valeur d'un joueur s'il était vendu actuellement.\\n\\nElle est calculée à partir de données historiques de transferts et prend en compte :\\n\\n• la performance et le développement du joueur\\n• son âge et son potentiel futur\\n• la fréquence et le niveau auxquels il joue\\n• sa position\\n• la force de son équipe et de sa ligue\\n• la durée restante de son contrat\\n\\nL'ETV se concentre sur le joueur lui-même, pas sur les rumeurs ou le club qui pourrait l'acheter.\\n\\nLa valeur est mise à jour régulièrement pour refléter les changements au fil du temps."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Valeur estimée"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3503,7 +3508,7 @@
     "common_fantasy": {
       "comment": "Button label indicating you can click to toggle on showing of fantasy score",
       "english": "Fantasy",
-      "value": "Fantaisie"
+      "value": "Fantasy"
     },
     "common_fantasy_points": {
       "comment": "This indicates how many Fantasy Premier League points the player got. Don't translate Fantasy directly if that makes a different meaning in your language! Then just keep it as \"Fantasy <translation for point>\" See https://fantasy.premierleague.com/",
@@ -3608,12 +3613,12 @@
     "common_follow_players": {
       "comment": "Header in the onboarding where you can choose your favorite players",
       "english": "Follow players",
-      "value": "Suivre joueurs"
+      "value": "Suivre des joueurs"
     },
     "common_follow_teams": {
       "comment": "Header in the onboarding where you can choose your favorite teams",
       "english": "Follow teams",
-      "value": "Suivre équipes"
+      "value": "Suivre des équipes"
     },
     "common_follow_us": {
       "comment": "Label for button indicating you can follow us on social media like Facebook, Twitter and Instagram",
@@ -3662,162 +3667,6 @@
     "common_fulltime_short": {
       "english": "FT",
       "value": "FM"
-    },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ a commis une faute entraînant un pénalty pour %2$@."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ a subi le plus de fautes (%2$@) du match."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ a subi le plus de fautes (%2$@) du match."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ a perdu le plus de duels (%2$@) du match."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ a perdu le plus de duels (%2$@) du match."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ a perdu la possession le plus de fois (%2$@) du match."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ a perdu la possession le plus de fois (%2$@) du match."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ a fait le moins de touchés (%2$@) de tous les joueurs ayant joué 90 minutes."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ a fait le moins de touchés (%2$@) de tous les joueurs."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ a fait une erreur qui a permis à %2$@ de marquer un but."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ a fait une erreur qui a permis à %2$@ de marquer un but.",
-        "other": "%1$@ a fait %3$d erreurs qui ont permis à %2$@ de marquer des buts."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ a réussi le plus de dribbles (%2$@) du match."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ a réussi le plus de dribbles (%2$@) du match."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ a créé le plus d'occasions (%2$@) dans le match."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ a créé le plus d'occasions (%2$@) du match."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ a réussi le plus de passes (%2$@) du match."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ a réussi le plus de passes (%2$@) du match."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ a fait le plus de tacles (%2$@) du match."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ a fait le plus de tacles (%2$@) du match."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ a été élu Joueur du match avec une note de %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ a actuellement le meilleur score du match avec %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ a fait le plus de touchés (%2$@) dans la surface adverse."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ a fait le plus de touchés (%2$@) dans la surface adverse."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ est le passeur le plus précis (%2$@) à avoir joué 45 minutes ou plus."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ est le passeur le plus précis (%2$@) du match."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ a marqué un but contre son camp."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ a gagné le plus de duels (%2$@) du match."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ a gagné le plus de duels (%2$@) du match."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ a frappé le cadre %2$@ fois sur un total de %3$@ tirs."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ a frappé le cadre %2$@ fois sur un total de %3$@ tirs."
     },
     "common_generalUpper": {
       "english": "GENERAL",
@@ -3936,6 +3785,7 @@
       "value": "Supporter en or"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "But en or"
     },
@@ -4012,6 +3862,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Masquer les actus sur %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Plus élevé"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4177,7 +4032,7 @@
     },
     "common_label_submit_button": {
       "english": "Send",
-      "value": "Envoi"
+      "value": "Envoyer"
     },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -4476,12 +4331,12 @@
     },
     "common_message_sent": {
       "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Astuce:. Appui long d'un objectif ou d'un autre événement à partager"
+      "value": "Astuce : Appuyez longuement sur un but ou un autre événement pour le partager."
     },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
-      "value": "Métrique (cm/kg)"
+      "value": "Métrique (cm)"
     },
     "common_mexico": {
       "english": "Mexico",
@@ -4627,11 +4482,11 @@
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
-      "value": "Pas de match selectionné"
+      "value": "Aucune information sur le match disponible"
     },
     "common_no_matches_today": {
       "english": "No matches in selected leagues",
-      "value": "Aucun match aujourd'hui dans les leagues selectionnées"
+      "value": "Aucun match dans les ligues sélectionnées"
     },
     "common_no_results_for_query": {
       "comment": "Onboarding: not players found for the query",
@@ -4735,7 +4590,7 @@
     },
     "common_notifications": {
       "english": "Settings",
-      "value": "Notifications"
+      "value": "Paramètres"
     },
     "common_notifications_off": {
       "english": "Turn off notifications",
@@ -4918,6 +4773,7 @@
       "value": "Paraguay"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Mi-temps"
     },
@@ -4955,6 +4811,7 @@
       "value": "Total des matchs"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Penalties concédées"
     },
@@ -5015,7 +4872,7 @@
     "common_player_assist_removed_short": {
       "comment": "We have earlier sent a notification that the player got an assist, but this was wrong. So we then send a correction alert saying we were wrong and the player didn't get an assist.",
       "english": "Correction: Didn't get an assist",
-      "value": "Correction : n'a pas participé à un but"
+      "value": "Correction : n’a pas fait de passe décisive"
     },
     "common_player_fact": {
       "english": "Player fact",
@@ -5201,7 +5058,7 @@
     },
     "common_rate": {
       "english": "Rate",
-      "value": "Rate"
+      "value": "Noter"
     },
     "common_rate_fotmob_desc": {
       "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
@@ -5346,7 +5203,7 @@
     },
     "common_rss_feeds": {
       "english": "News",
-      "value": "RSS feeds"
+      "value": "Actualités"
     },
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
@@ -5418,7 +5275,7 @@
     },
     "common_secondhalf": {
       "english": "Second half",
-      "value": "Début de la seconde période"
+      "value": "Deuxième mi-temps"
     },
     "common_see_all": {
       "comment": "See all (transfers)",
@@ -5592,10 +5449,12 @@
       "value": "Supporter argent"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "But en argent"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "But en argent"
     },
@@ -5672,7 +5531,7 @@
     },
     "common_stream_playback_ended": {
       "english": "Audio playback ended",
-      "value": "Live audio terminée"
+      "value": "Lecture audio terminée"
     },
     "common_stream_playback_error": {
       "english": "An error occurred playing the audio stream",
@@ -5698,7 +5557,7 @@
     },
     "common_subs": {
       "english": "Substitutes",
-      "value": "Changements"
+      "value": "Remplaçants"
     },
     "common_subs_stats": {
       "english": "Substitutes",
@@ -5845,7 +5704,7 @@
     },
     "common_teams_played_for": {
       "english": "Teams played for",
-      "value": "Équipe(s)"
+      "value": "Équipes dans lesquelles il a joué"
     },
     "common_teams_to_follow": {
       "comment": "Favorite teams picker in the WC2018 onboarding",
@@ -5974,7 +5833,7 @@
     "common_top_rated": {
       "comment": "Label for the top rated player in the Team Profile",
       "english": "Top rated",
-      "value": "Meilleurs notes"
+      "value": "Meilleures notes"
     },
     "common_top_scorer": {
       "comment": "Label for the top scorer player in the Team Profile",
@@ -6013,17 +5872,17 @@
     },
     "common_tournaments": {
       "english": "Tables & news",
-      "value": "Tournois"
+      "value": "Classements et actualités"
     },
     "common_transfer": {
       "comment": "Transfer status: player transfered;",
       "english": "Transfer",
-      "value": "Transfert confirmé"
+      "value": "Transfert"
     },
     "common_transfer_alert_message": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid for $500.000.000 from Barcelona\"",
       "english": "%1$@ is joining %2$@ for %3$@ from %4$@",
-      "value": "%1$@ quitte %4$@ pour %2$@ pour %3$@"
+      "value": "%1$@ rejoint %2$@ pour %3$@ en provenance de %4$@"
     },
     "common_transfer_alert_message_from_free_agent": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid\"",
@@ -6085,9 +5944,9 @@
       "value": "Montant"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Valeur marchande"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Valeur de transfert"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6198,7 +6057,7 @@
     },
     "common_updating": {
       "english": "Updating...",
-      "value": "Mis à jour..."
+      "value": "Mise à jour..."
     },
     "common_uruguay": {
       "english": "Uruguay",
@@ -6282,7 +6141,7 @@
     },
     "common_view_fixtures": {
       "english": "View fixtures",
-      "value": "Voir les fonctionnalités"
+      "value": "Voir les matchs à venir"
     },
     "common_view_tv_schedule": {
       "comment": "\"Item in Settings to open TV-guide\"",
@@ -6301,7 +6160,7 @@
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
-      "value": "Que le résultat sera??"
+      "value": "Quel sera le résultat ?"
     },
     "common_when_phone_is_set_to_vibrate": {
       "english": "When phone is set to vibrate",
@@ -6389,7 +6248,7 @@
     },
     "common_worldnews": {
       "english": "World news",
-      "value": "Mondiales"
+      "value": "Actualités mondiales"
     },
     "common_years": {
       "english": "years",
@@ -6603,7 +6462,7 @@
     },
     "ios_most_red": {
       "english": "Most red cards",
-      "value": "Majorité de cartons rouges"
+      "value": "Le plus de cartons rouges"
     },
     "ios_most_yellow": {
       "english": "Most yellow cards",
@@ -6689,7 +6548,7 @@
     "new_bracket": {
       "comment": "This is the World Cup bracket. Like this http://cdn.bleacherreport.net/images_root/article/media_slots/photos/001/240/770/KnockoutRoundBracket_original.jpg?1386355815",
       "english": "Bracket",
-      "value": "Groupe"
+      "value": "Tableau"
     },
     "new_bronzeFinal": {
       "english": "Bronze-final",
@@ -7036,7 +6895,7 @@
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
       "english": "Sign up",
-      "value": "Enregistrement"
+      "value": "S’inscrire"
     },
     "new_skip": {
       "comment": "Button caption for skipping to the next screen",
@@ -7258,7 +7117,7 @@
     },
     "notifications_alert_WaitingForPenalties": {
       "english": "%@ %@-%@ %@\\nWaiting for penalties",
-      "value": "%@ %@-%@ %@\\nEn attente des tirs au buts"
+      "value": "%@ %@-%@ %@\\nEn attente des tirs au but"
     },
     "notifications_alert_assist": {
       "english": "%@ %@-%@ %@\\n%@%@ got an assist",
@@ -7266,7 +7125,7 @@
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
-      "value": "%@ %@-%@ %@\\nCorrection : %@%@ n'a pas participé à un but"
+      "value": "%@ %@-%@ %@\\nCorrection : %@%@ n'a pas délivré de passe décisive"
     },
     "notifications_alert_card_removed": {
       "english": "Correction: %@%@ did not receive a red card\\n%@",
@@ -7288,7 +7147,7 @@
     },
     "notifications_alert_goal_penalty": {
       "english": "%@ %@-%@ %@\\n%@ Goal! (penalty)",
-      "value": "%@ %@-%@ %@\\nBut à la %@ minute ! (pénalty)"
+      "value": "%@ %@-%@ %@\\n%@ But ! (pénalty)"
     },
     "notifications_alert_goal_removed": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
@@ -7349,7 +7208,7 @@
     "notifications_alert_score": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
       "english": "%@ %@-%@ %@\\n%@Goal!",
-      "value": "%@ %@-%@ %@\\nBut à la %@ minute !"
+      "value": "%@ %@-%@ %@\\n%@But !"
     },
     "notifications_alert_subst_in": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
@@ -7441,7 +7300,7 @@
     "notifications_big_chance_created_subtitle": {
       "comment": "See \"assists\" translation",
       "english": "Total assists",
-      "value": "Total des passes"
+      "value": "Total des passes décisives"
     },
     "notifications_big_chance_created_team_subtitle": {
       "comment": "Total number of goals the team has scored",
@@ -7542,7 +7401,7 @@
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
       "english": "Crosses",
-      "value": "Passes moyennes"
+      "value": "Centres"
     },
     "notifications_customize": {
       "comment": "Button label indicating that the user want to customize the alerts for the transfers",
@@ -7740,17 +7599,17 @@
       "value": "Incertain"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "Début %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "Fin %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "Mi %1$@"
     },
@@ -8709,12 +8568,12 @@
     "notifications_player_sub_in": {
       "comment": "Messi has been subbed on.",
       "english": "%@ has been subbed on.",
-      "value": "%@ a remplacé un joueur."
+      "value": "%@ est entré en jeu."
     },
     "notifications_player_sub_in_short": {
       "comment": "Label indicating the player was substituted in. Header: Messi Content: Subbed on",
       "english": "Subbed on",
-      "value": "A remplacé un joueur"
+      "value": "Entré en jeu"
     },
     "notifications_player_sub_out": {
       "comment": "Messi has been subbed off.",
@@ -9222,7 +9081,7 @@
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
       "english": "UK",
-      "value": "Angleterre"
+      "value": "Royaume-Uni"
     },
     "notifications_ukraine": {
       "english": "Ukraine",
@@ -9362,6 +9221,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Veuillez partager les détails concernant la publicité, comme l'annonceur, sur quel écran, la vidéo ou l'image, et ce que vous avez trouvé problématique."
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Annoncez avec nous"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9579,7 +9443,7 @@
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
       "english": "Europa Cup Qualification",
-      "value": "Qualifications pour la Coupe Europa féminine"
+      "value": "Qualification pour la Coupe Europa"
     },
     "seo_exclusive_app_icons": {
       "comment": "One of FotMob+ benefits",
@@ -9592,9 +9456,9 @@
       "value": "Personnalisez votre écran d'accueil avec des icônes d'application alternatives."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "xG contre sur le terrain"
+      "value": "xG concédés sur le terrain"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9687,7 +9551,7 @@
     "seo_followed_teams": {
       "comment": "Header for the list of teams you are following.",
       "english": "Followed teams",
-      "value": "Équipes"
+      "value": "Équipes suivies"
     },
     "seo_fotmob_lineup_builder": {
       "comment": "Headline for the lineup builder for football teams. In Norwegian the natural translation for Lineup Builder would be \"Lagbygger\". see [lineup_builder].",
@@ -9757,7 +9621,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "Buts encaissés sur le terrain"
+      "value": "Buts encaissés (sur le terrain)"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9778,6 +9642,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Le bilan actuel en face-à-face entre les équipes est de %2$@ victoire(s) pour %1$@, %4$@ victoire(s) pour %3$@ et %5$@ match(s) nul(s)."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Carte de chaleur"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Découvrez où les joueurs ont un impact sur le terrain. Touchez un joueur depuis l'écran de l'alignement pour le voir."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Les cartes de chaleur sont là"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9819,13 +9698,138 @@
       "english": "I need help",
       "value": "J'ai besoin d'aide"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Copier le lien"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Copiez le lien et collez-le dans Safari ou Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Appuyez sur les trois points (•••) en bas à droite, puis sur « Ouvrir dans le navigateur »"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Appuyez sur les trois points (•••) en haut à droite, puis sur « Ouvrir dans le navigateur »"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Appuyez sur le menu (≡), puis sur « Ouvrir dans un autre navigateur »"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Appuyez sur l’icône de partage en bas, puis choisissez votre navigateur"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Appuyez sur les trois points (•••), puis sur « Ouvrir dans le navigateur »"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Appuyez sur les trois points (•••) en haut à droite, puis sur « Ouvrir dans un navigateur externe »"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Appuyez sur les trois points (•••), puis sur « Ouvrir dans le navigateur »"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Appuyez sur les trois points (•••), puis sur « Ouvrir dans le navigateur »"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Appuyez sur l’icône de partage, puis sur « Ouvrir dans Safari » ou « Copier le lien »"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Appuyez sur les trois points (•••), puis sur « Ouvrir dans… » et choisissez Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Copiez le lien et collez-le dans Safari ou Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Appuyez sur l’icône de partage, puis sur « Ouvrir dans Safari »"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Cherchez un menu (••• ou icône de partage) et sélectionnez 'Ouvrir dans le navigateur'"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Appuyez sur les trois points (•••), puis sur « Ouvrir dans Safari »"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Retour"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Ouvrir dans le navigateur"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Ouvrez dans votre navigateur pour vous connecter"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Ouvrir dans Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Ouvrir dans Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Ou manuellement :"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "La connexion ne fonctionne pas de manière fiable dans le navigateur de %1$s. Veuillez ouvrir cette page dans Safari ou Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Essayez quand même de vous connecter ici (peut ne pas fonctionner)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "La connexion peut ne pas fonctionner dans ce navigateur intégré"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "La connexion peut ne pas fonctionner dans le navigateur de %1$s. Pour une meilleure expérience, revenez en arrière et ouvrez cette page dans votre navigateur."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Merci d'ouvrir cette page dans le navigateur de votre appareil (Safari ou Chrome) pour continuer."
     },
@@ -9903,6 +9907,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Composition enregistrée"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Aucun"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10077,7 +10086,7 @@
     "seo_penalty_shootout_miss": {
       "comment": "Used in notifications to indicate that a team missed a penalty during a penalty shootout event, such as \"Arsenal miss! (penalty shootout).\"",
       "english": "%@ miss!",
-      "value": "%@ rate ! (tirs au but)"
+      "value": "%@ manque ! (tirs au but)"
     },
     "seo_penalty_shootout_v2": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -10463,7 +10472,7 @@
     "seo_since_x": {
       "comment": "Subtitle used in membership page to indicate since which *year* they became a lifetime supporter. Like \"Since 2023\".",
       "english": "Since %@",
-      "value": "`Depuis %@ `"
+      "value": "Depuis %@"
     },
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
@@ -10543,7 +10552,7 @@
     "seo_site_description_match_finished": {
       "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ contre %2$@ le %3$@ a pris fin %4$@. Vérifiez les résultats en direct, H2H, statistiques de match, composition d'équipe, évaluation des joueurs, analyses, formes d'équipe, carte des tirs et moment forts."
+      "value": "%1$@ contre %2$@ le %3$@ a pris fin %4$@. Vérifiez les résultats en direct, H2H, statistiques de match, composition d'équipe, évaluation des joueurs, analyses, formes d'équipe, carte des tirs et moments forts."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -10568,7 +10577,7 @@
     "seo_site_description_team_news": {
       "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
       "english": "Get the latest %1$@ news and transfer rumours",
-      "value": "Obtenez les dernières informations sur les transferts et les rumeurs de %1$@"
+      "value": "Obtenez les dernières actualités et rumeurs de transferts de %1$@"
     },
     "seo_site_description_team_overview": {
       "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10583,7 +10592,7 @@
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - Classement de l'équipe, buts par match, tirs cadrés et autres statistiques"
+      "value": "%1$@ - note de l’équipe, buts par match, tirs cadrés et autres statistiques"
     },
     "seo_site_description_team_table": {
       "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
@@ -10692,7 +10701,7 @@
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "%1$@ - transfers, contracts and market values",
-      "value": "%1$@ - transferts, frais de joueurs, contrats et valeurs marchandes"
+      "value": "%1$@ - transferts, contrats et valeurs marchandes"
     },
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
@@ -10752,7 +10761,7 @@
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - classement de l'équipe, buts par match, tirs cadrés et autres statistiques"
+      "value": "%1$@ - note de l’équipe, buts par match, tirs cadrés et autres statistiques"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
@@ -10813,6 +10822,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "Soumettre"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Rem"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10966,7 +10980,7 @@
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "3rd leg",
-      "value": "3e rencontre"
+      "value": "3e manche"
     },
     "seo_this_tournament": {
       "comment": "Button text for button that toggles only showing matches from the current tournament.",
@@ -11006,6 +11020,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Sortie"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Déclaration de la loi sur la transparence"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11213,7 +11232,7 @@
       },
       "plurals": {
         "one": "1 match",
-        "other": "%d matches"
+        "other": "%d matchs"
       }
     },
     "seo_xg_table_explanation": {
@@ -11254,7 +11273,7 @@
     "seo_xpts_explanation_red_numbers": {
       "comment": "Explanation of the red numbers in the xG table. Underlying numbers refer to xG.",
       "english": "Red numbers indicate worse underlying numbers than a team's actual results.",
-      "value": "Les nombres en vert indiquent une sous-performance par rapport aux résultats réels d'une équipe."
+      "value": "Les nombres en rouge indiquent des chiffres sous-jacents moins bons que les résultats réels d’une équipe."
     },
     "seo_xpts_short": {
       "comment": "Short for expected points. Used in table column header so should not be longer than 4 characters.",

@@ -9,12 +9,12 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "禁区内传球成功"
+      "value": "传中成功"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "单场精准传球"
+      "value": "单场精准传中"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -124,7 +124,7 @@
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
       "english": "Assists per 90",
-      "value": "场均助攻"
+      "value": "每90分钟助攻"
     },
     "accessibility_attackers": {
       "english": "Forwards",
@@ -133,12 +133,12 @@
     "accessibility_attacking_threat": {
       "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
       "english": "Momentum",
-      "value": "进攻威胁"
+      "value": "比赛势头"
     },
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
       "english": "Attempt saved",
-      "value": "尝试救球"
+      "value": "射门被扑出"
     },
     "accessibility_by_date": {
       "comment": "Text shown on toggle that shows matches in a league sorted by date.",
@@ -345,7 +345,7 @@
     "accessibility_expected_goals_non_penalty": {
       "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
       "english": "Non-penalty xG",
-      "value": "非点球预期进球"
+      "value": "非点球xG"
     },
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
@@ -510,7 +510,7 @@
     "accessibility_goals_per_90_title": {
       "comment": "Label used in stats for goals per 90 min",
       "english": "Goals per 90",
-      "value": "场均进球"
+      "value": "每90分钟进球"
     },
     "accessibility_goals_prevented": {
       "comment": "Label used in stats for goals prevented for keepers.",
@@ -595,7 +595,7 @@
     "accessibility_insights_average_possession": {
       "comment": "Displayed next to an icon of the team. Although the variable is percentage, do not format this. We localize the formatting of the percentage value automatically. Correct example for Liverpool: [image of Liverpool logo] Have an average possession of [44 %]. Wrong example for Liverpool: [image of Liverpool logo] Have an average possession of [44] %. Where everything inside the brackets are variables.",
       "english": "Have an average possession of %1$@",
-      "value": "平均控球时间为%1$@"
+      "value": "平均控球率为%1$@"
     },
     "accessibility_insights_average_stat": {
       "comment": "The team averages a value for a particular stat. Example (image of Barcelona to the left of this text): \"Average [shots on target per match]: [7.8]\" where text inside brackets ([xxx]) are variables",
@@ -625,7 +625,7 @@
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
       "english": "Have kept the most clean sheets in the competition (%1$@)",
-      "value": "在比赛%1$@中最多不失球记录"
+      "value": "在该赛事中零封场次最多（%1$@）"
     },
     "accessibility_insights_goalless_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 4 away matches",
@@ -730,7 +730,7 @@
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
       "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)",
-      "value": "%1$@在%2$@中单场射门最多的(%3$@)"
+      "value": "%1$@为%2$@场均射正次数最多（%3$@）"
     },
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
@@ -745,7 +745,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "%1$@在比赛(%3$@)中的扑救排名%2$@"
+      "value": "%1$@在赛事中的场均扑救排名第%2$@（%3$@）"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -755,7 +755,7 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@效力%3$@的近%4$@场比赛中进球数是%2$@"
+      "value": "%1$@在%3$@近%4$@场比赛中的%2$@场都有进球"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -765,7 +765,7 @@
     "accessibility_insights_shots_on_target_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
       "english": "Ranked %1$@ in shots on target per match (%2$@ shots)",
-      "value": "单场比赛（%2$@次射门）的射正排名%1$@"
+      "value": "场均射正（%2$@次）排名第%1$@"
     },
     "accessibility_insights_team_ranking": {
       "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -800,7 +800,7 @@
     "accessibility_interception_title": {
       "comment": "Label used in stats for interceptions per 90",
       "english": "Interceptions per 90",
-      "value": "场均拦截"
+      "value": "每90分钟拦截"
     },
     "accessibility_international_clubs": {
       "comment": "Header listing a list of tournaments where clubs from different countries participate. Like Champions League.",
@@ -997,7 +997,7 @@
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
       "english": "Lost possession",
-      "value": "非控球时间"
+      "value": "丢失球权"
     },
     "accessibility_match_insights": {
       "comment": "Used as a header for betting insights",
@@ -1113,7 +1113,7 @@
     "accessibility_myleaguespage_desc1": {
       "comment": "explanation on nature of the leagues the user create",
       "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide.",
-      "value": "您创建的联赛是个人的，其他人智能通过唯一的ID或由您提供的链接才能加入。"
+      "value": "您创建的联赛是私密的，只有拥有您提供的唯一 ID 或链接的人才能加入。"
     },
     "accessibility_myleaguespage_desc1_v2": {
       "comment": "Create a league to compete against others.",
@@ -1136,7 +1136,7 @@
     "accessibility_myleaguespage_desc2_v4": {
       "comment": "explanation on private leagues and how people can join them",
       "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide.",
-      "value": "您创建的联赛是个人的，其他人智能通过唯一的ID或由您提供的链接才能加入。"
+      "value": "您创建的联赛是私密的，只有拥有您提供的唯一 ID 或链接的人才能加入。"
     },
     "accessibility_myleaguespage_join_a_league": {
       "comment": "Label on button to join a league",
@@ -1281,7 +1281,7 @@
     "accessibility_on_target": {
       "comment": "Shorthand for shots on target.",
       "english": "On target",
-      "value": "对准目标"
+      "value": "射正"
     },
     "accessibility_on_tv": {
       "comment": "Text on button that shows matches that are shown on TV.",
@@ -1356,7 +1356,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "关注球队可以在应用中提升其优先顺序。"
+      "value": "关注球队后，当他们比赛或进球时你会收到通知。"
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1396,7 +1396,7 @@
     "accessibility_outfielder_block_title": {
       "comment": "Label used in stats for outfielder blocks per 90",
       "english": "Blocks per 90",
-      "value": "场均阻挡"
+      "value": "每90分钟阻挡"
     },
     "accessibility_overall_table": {
       "comment": "String indicating that we will show a complete standings table with including both Home & Away matches. User can filter to only include Home or only Away. Can be translated as \"All\" as well.",
@@ -1414,12 +1414,12 @@
     },
     "accessibility_overviewheader_headertext": {
       "english": "Euro 2020 Predictor",
-      "value": "欧洲杯2020预赛"
+      "value": "欧洲杯2020预测"
     },
     "accessibility_overviewheader_headertext_v2": {
       "comment": "Heading for the tournament predictor. Eg. \"EURO 2020 Predictor\" or \"Copa America 2021 Predictor\"",
       "english": "%1$@ Predictor",
-      "value": "%1$@预赛"
+      "value": "%1$@预测"
     },
     "accessibility_overviewheader_my_leagues": {
       "english": "My leagues",
@@ -1528,7 +1528,7 @@
     "accessibility_points_per_match": {
       "comment": "Average number of points earned per game played.",
       "english": "Points per game",
-      "value": "单场得分"
+      "value": "场均积分"
     },
     "accessibility_pointspopup_10pts": {
       "english": "10 pts for the winner of the final",
@@ -1572,7 +1572,7 @@
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
       "english": "Possession won midfield per 90",
-      "value": "场均在中场获得球权"
+      "value": "每90分钟在中场夺回球权"
     },
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
@@ -1812,7 +1812,7 @@
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
       "english": "Shots faced",
-      "value": "扑救射门"
+      "value": "面对射门"
     },
     "accessibility_shots_on_target_per_90": {
       "comment": "Label used in stats for shots on target per 90 min",
@@ -1893,7 +1893,7 @@
     },
     "accessibility_startpage_predictor_competition": {
       "english": "Predictor competition",
-      "value": "预测比赛"
+      "value": "预测竞赛"
     },
     "accessibility_startpage_start_now": {
       "comment": "label on actionable button for the user to start making his or her preditions",
@@ -1903,7 +1903,7 @@
     "accessibility_startpage_subtitle": {
       "comment": "2nd headline",
       "english": "Live It. For Real.",
-      "value": "活下去。活出真我。"
+      "value": "真实地去体验。"
     },
     "accessibility_startpage_title": {
       "comment": "Main title of Euro 2020 predictor game",
@@ -1947,7 +1947,7 @@
     "accessibility_stepsheader_step1_hinttext_table": {
       "comment": "Explanation of how to arrage the teams in the table. With emphasis on the on the action to take.",
       "english": "<b>Drag</b> the teams to predict the final table.",
-      "value": "<b>拖拽</b> 队伍可以预测决赛对阵。"
+      "value": "<b>拖拽</b>球队来预测最终积分榜。"
     },
     "accessibility_stepsheader_step1_hinttext_v2": {
       "comment": "Explanation of how to arrage teams.",
@@ -1967,7 +1967,7 @@
     "accessibility_stepsheader_step2_hinttext_v2": {
       "comment": "Description on which teams will advance from the group stage.",
       "english": "The four third-placed teams with the most points will advance.",
-      "value": "排名第三和第四位的队伍根据积分多少排名先后"
+      "value": "积分最高的四支小组第三名球队将晋级。"
     },
     "accessibility_stepsheader_step2_hinttext_v3": {
       "comment": "Explanation of what to do.",
@@ -2125,7 +2125,7 @@
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
       "english": "Tackles per 90",
-      "value": "场均抢断"
+      "value": "每90分钟抢断"
     },
     "accessibility_tackles_succeeded_percent": {
       "english": "Tackles won %",
@@ -2594,27 +2594,27 @@
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@ %@-%@ %@\\n%@射门无效 犯规在先（视频助理裁判）"
+      "value": "%@ %@-%@ %@\\n%@进球无效（犯规在先，VAR）"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
       "english": "%@ %@-%@ %@\\n%@Score correction (Goal line technology)",
-      "value": "%@ %@-%@ %@\\n%@比分更正（禁区边线裁判技术）"
+      "value": "%@ %@-%@ %@\\n%@比分更正（门线技术）"
     },
     "common_alert_goal_disallowed_offside_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to an offside (football term)",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - offside (VAR)",
-      "value": "%@ %@-%@ %@\\n%@射门无效 - 越位（视频助理裁判）"
+      "value": "%@ %@-%@ %@\\n%@进球无效 - 越位（VAR）"
     },
     "common_alert_goal_disallowed_out_of_field_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due the ball had been out of the pitch before the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - ball out of field (VAR)",
-      "value": "%@ %@-%@ %@\\n%@射门无效 - 出界（视频助理裁判）"
+      "value": "%@ %@-%@ %@\\n%@进球无效 - 出界（视频助理裁判）"
     },
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@ %@-%@ %@\\n%@射门无效（视频助理裁判）"
+      "value": "%@ %@-%@ %@\\n%@进球无效（视频助理裁判）"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
@@ -2629,7 +2629,7 @@
     "common_all_events": {
       "comment": "Option in Notification Settings to enable/disable all events at once for player/team/match/etc.",
       "english": "All events",
-      "value": "所有赛事"
+      "value": "所有事件"
     },
     "common_all_matches": {
       "english": "All matches",
@@ -2722,7 +2722,7 @@
     "common_away": {
       "comment": "Label indicating we are showing the away matches of the team",
       "english": "Away",
-      "value": "客场排名"
+      "value": "客场"
     },
     "common_away_abbreviation": {
       "english": "A",
@@ -2799,7 +2799,7 @@
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
       "english": "Cache cleared",
-      "value": "以清除缓存"
+      "value": "缓存已清除"
     },
     "common_canada": {
       "english": "Canada",
@@ -2952,7 +2952,7 @@
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "english": "Cleared off the line",
-      "value": "破坏出底线"
+      "value": "门线解围"
     },
     "common_close": {
       "english": "Close",
@@ -3352,20 +3352,25 @@
       "english": "Errors led to goal",
       "value": "乌龙"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "估计转会价值 (ETV) 是我们对球员当前出售价值的最佳估算。\\n\\n它通过真实的转会数据计算，并考虑以下因素：\\n\\n• 球员表现\\n• 年龄和未来潜力\\n• 在其位置上的出场频率和水平\\n• 球队和联赛的实力\\n• 合同剩余期限\\n• 最近的发展和类似因素\\n\\n我们专注于球员本身，而非传闻或可能购买他们的俱乐部。\\n\\n该价值会定期更新，以反映转会市场随时间的变化。"
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "球员估值"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "估计转会价值"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "当前出售可能的价值"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "估计转会价值 (ETV) 是我们对球员当前出售价值的最佳估算。\\n\\n它通过历史转会数据计算，并考虑以下因素：\\n\\n• 球员表现和发展\\n• 年龄和未来潜力\\n• 出场频率和水平\\n• 位置\\n• 球队和联赛的实力\\n• 合同剩余期限\\n\\nETV 专注于球员本身，而非传闻或可能购买他们的俱乐部。\\n\\n该价值会定期更新，以反映随时间的变化。"
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "估计价值"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3380,7 +3385,7 @@
     "common_euro2016_setup_national_team": {
       "comment": "Onboarding: asking the user to setup their favorite national team",
       "english": "Set up your national team",
-      "value": "是否加入国家队"
+      "value": "设置你的国家队"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3397,7 +3402,7 @@
     },
     "common_euroqual_playoff": {
       "english": "Europa League qualification playoff",
-      "value": "欧冠季后赛"
+      "value": "欧联杯资格赛附加赛"
     },
     "common_exit": {
       "english": "Exit",
@@ -3431,17 +3436,17 @@
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "预期失球"
+      "value": "xG失球"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
       "english": "xG first extra half",
-      "value": "加时赛上半场预期进球"
+      "value": "xG 加时赛上半场"
     },
     "common_expected_goals_extra_second_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <second extra half translated>\"",
       "english": "xG second extra half",
-      "value": "加时赛下半场预期进球"
+      "value": "xG 加时赛下半场"
     },
     "common_expected_goals_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first half translated>\"",
@@ -3451,17 +3456,17 @@
     "common_expected_goals_on_target": {
       "comment": "Keep xG in the translation and translate it as \"xG <on target>\". On target means the a goal attempt that hits the goal.",
       "english": "xG on target (xGOT)",
-      "value": "射正预期进球"
+      "value": "射正xG（xGOT）"
     },
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "正中目标的预期目标 (xGOT)"
+      "value": "射正预期进球 (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
       "english": "xG open play",
-      "value": "运动战预期进球"
+      "value": "xG 运动战"
     },
     "common_expected_goals_penalty": {
       "comment": "Keep xG in the translation and translate it as \"xG <penalty>\". Penalties have a high xG so we have them separate.",
@@ -3660,162 +3665,6 @@
       "english": "FT",
       "value": "全场"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "因%1$@犯规，%2$@得到一次罚球机会。"
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@是本场比赛中被罚次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@是全场犯规次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@是全场对抗失败次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@是全场对抗失败次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@是全场丢球次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@是全场丢球次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@是非门将球员中在比赛90分钟内触球（%2$@）最少的球员。"
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@是非门将球员中触球（%2$@）最少的球员。"
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@失误，致使%2$@进球。"
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@犯了一个错误，导致%2$@进球。",
-        "other": "%1$@犯了%3$d个错误，导致%2$@进球。"
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@是全场完成盘带次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@是全场完成盘带次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@是全场创造机会（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@是全场创造机会（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@是全场传球次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@是全场传球次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@是全场抢断次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@是全场抢断次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@荣获本场最佳球员，获得%2$@分的评分。"
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@获得本场比赛最高评分：%2$@分。"
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@是在对方禁区内触球次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@是在对方禁区内触球次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@是上场45分钟以上的球员中传球最精准（%2$@）的。"
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@是全场比赛传球最精准（%2$@次）的球员。"
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@乌龙进球。"
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@是全场抢断成功次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@是全场抢断成功次数（%2$@次）最多的球员。"
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@在%3$@次射门中有%2$@次打中门框。"
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@在%3$@次射门中有%2$@次打中门框。"
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "通用"
@@ -3910,7 +3759,7 @@
     },
     "common_goals_total_last_3_both": {
       "english": "%1$@ have scored %4$@ goals in their last %3$@ matches, while %2$@ have scored %5$@.",
-      "value": "%1$@在近%4$@场比赛中共进%3$@球，%2$@则进%5$@球。"
+      "value": "%1$@在近%3$@场比赛中共进%4$@球，%2$@则进%5$@球。"
     },
     "common_goalstreak_team": {
       "english": "%1$@ have scored in their last %2$@ matches.",
@@ -3933,6 +3782,7 @@
       "value": "黄金会员"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "黄球"
     },
@@ -4010,6 +3860,11 @@
       "english": "Hide %@ news",
       "value": "隐藏%@的新闻"
     },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "最高"
+    },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
       "english": "Highlight",
@@ -4023,7 +3878,7 @@
     "common_home": {
       "comment": "Label indicating we are showing the home matches of the team",
       "english": "Home",
-      "value": "主场排名"
+      "value": "主场"
     },
     "common_home_abbreviation": {
       "english": "H",
@@ -4060,7 +3915,7 @@
     "common_imperial_system": {
       "comment": "A setting to toggle the measurement system to imperial (feet/inches) instead of metric (cm/kg)",
       "english": "Imperial (ft)",
-      "value": "英制(cm)"
+      "value": "英制（英尺）"
     },
     "common_in_app_purchase": {
       "english": "Remove ads (one time payment)",
@@ -4069,7 +3924,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "加入FotMob支持者俱乐部就可移除广告，更加专注流程使用FotMob。您的支持将让我们能够继续改善FotMob，感谢您的支持！"
+      "value": "加入 FotMob 支持者俱乐部即可移除我们可控制的广告，让 FotMob 更快速、少干扰。您的支持将帮助我们持续改进 FotMob。请注意：如果您点击第三方的新闻文章，我们无法控制他们在网站上显示的广告。感谢您的支持！"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4084,7 +3939,7 @@
     "common_include_text_tweets": {
       "comment": "Switch label for indicating if we should include tweets that only contains text or only display media tweets",
       "english": "Include text tweets",
-      "value": "仅显示文字推文"
+      "value": "包含文字推文"
     },
     "common_indonesia": {
       "english": "Indonesia",
@@ -4142,7 +3997,7 @@
     "common_keeper_diving_save": {
       "comment": "Keeper dives to save the ball",
       "english": "Diving save",
-      "value": "扑救成功"
+      "value": "飞身扑救"
     },
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
@@ -4336,7 +4191,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "视频来自外部其他网站。您将要观看的内容并非FotMob所拥有。\\n\\nFotMob对于所有来自第三方网站的内容不承担任何法律责任。"
+      "value": "此视频托管于外部网站。FotMob 并非您即将观看内容的所有者。\\n\\nFotMob 不对第三方网站托管的任何内容负责，亦不承担任何由此产生的法律责任。\\n\\n如有任何法律投诉，请联系媒体文件所有者或视频/音频托管服务提供商。"
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4456,7 +4311,7 @@
     "common_member_since": {
       "comment": "Indicates when they joined. Like \"Member since 2014\".",
       "english": "Member since %@",
-      "value": "%@年会员"
+      "value": "自%@起成为会员"
     },
     "common_members_only": {
       "comment": "Writter in parenthesis after \"App icons\" to indicate that this is a premium feature exclusive to our paying users.",
@@ -4548,7 +4403,7 @@
     },
     "common_move_to_bottom": {
       "english": "Move to bottom",
-      "value": "返回底部"
+      "value": "移到底部"
     },
     "common_move_to_top": {
       "english": "Move to top",
@@ -4581,7 +4436,7 @@
     },
     "common_new_leagues": {
       "english": "New leagues available",
-      "value": "加入新联赛"
+      "value": "有新联赛可用"
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
@@ -4601,7 +4456,7 @@
     },
     "common_next_poll": {
       "english": "Next poll at",
-      "value": "下一轮比赛查询"
+      "value": "下次刷新时间"
     },
     "common_nicaragua": {
       "english": "Nicaragua",
@@ -4625,7 +4480,7 @@
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
-      "value": "暂无活动"
+      "value": "暂无赛程"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
@@ -4647,12 +4502,12 @@
     "common_no_squad": {
       "comment": "Empty placeholder if there's no squad-info for the team",
       "english": "Squad not available",
-      "value": "无该队伍"
+      "value": "阵容不可用"
     },
     "common_no_suggestions": {
       "comment": "Empty placeholder if there's no quick-suggestions found",
       "english": "No suggestions but hit search for results",
-      "value": "无建议搜索信息"
+      "value": "暂无建议，点击搜索查看结果"
     },
     "common_no_table": {
       "english": "No table available",
@@ -4728,7 +4583,7 @@
     },
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
-      "value": "喜爱的进球"
+      "value": "进球提示音收藏"
     },
     "common_notification_types": {
       "comment": "Header for the list of all possible push notifications to send to user",
@@ -4826,7 +4681,7 @@
     "common_onboarding_settings": {
       "comment": "Showing a hint to the user where to find the part of the app where he can customize the notifications and the filtering of leagues.",
       "english": "Pro tip: You can customize alerts and filter leagues in Settings.",
-      "value": "专业建议：你可以在设置中自定义提醒，并过滤联队。"
+      "value": "专业建议：你可以在“设置”中自定义提醒，并筛选联赛。"
     },
     "common_onboarding_team_help_infromation": {
       "comment": "Help text to explain onboarding for users",
@@ -4920,6 +4775,7 @@
       "value": "巴拉圭"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "暂停"
     },
@@ -4934,7 +4790,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "扑救点球"
+      "value": "面对点球"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -4957,6 +4813,7 @@
       "value": "总场次"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "被罚点球"
     },
@@ -5110,12 +4967,12 @@
     },
     "common_possession_percentage_title": {
       "english": "Average possession",
-      "value": "平均控球时间"
+      "value": "平均控球率"
     },
     "common_possible_qualification_next_stage": {
       "comment": "This table position may give a qualification to the next stage depending upon the rules of the tournament",
       "english": "Possible qualification next stage",
-      "value": "可能进入下阶段资格赛"
+      "value": "可能晋级下一阶段"
     },
     "common_post_to_facebook": {
       "english": "Post to Facebook",
@@ -5199,7 +5056,7 @@
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
       "english": "Qualification next stage",
-      "value": "下一资格赛阶段"
+      "value": "晋级下一阶段"
     },
     "common_rate": {
       "english": "Rate",
@@ -5574,7 +5431,7 @@
     "common_sign_in_ios": {
       "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
       "english": "Click here to sign in",
-      "value": "点击此处注册"
+      "value": "点击此处登录"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -5594,10 +5451,12 @@
       "value": "白银会员"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "银球"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "银球"
     },
@@ -5608,7 +5467,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "您可拖拽比赛项目在直播窗口对其进行排序；或选中比赛项目，通过按钮创建您喜欢的分类。"
+      "value": "拖动以更改“比赛”标签页中联赛的顺序。或者点按联赛，然后使用底部按钮进行移动。"
     },
     "common_sort_favorite_leagues_v2": {
       "comment": "A body for the hint (onboarding) for the new News, where we explain how to change order of the news-sections",
@@ -5643,7 +5502,7 @@
     },
     "common_star_league": {
       "english": "Add to favorites",
-      "value": "添加至您喜爱的球队"
+      "value": "添加到收藏"
     },
     "common_started": {
       "english": "Started",
@@ -5724,7 +5583,7 @@
     "common_supporter_club_pitch_3": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
       "english": "• Remove app ads (we cannot control ads displayed on third party news sites you visit).",
-      "value": "• 去除应用中的广告（我们可以控制您访问的第三方新闻站点上的广告是否显示）。"
+      "value": "• 去除应用内广告（我们无法控制您访问的第三方新闻网站上显示的广告）。"
     },
     "common_surface": {
       "comment": "Type of grass that the football field has. Can be translated as \"Pitch type\" or \"Surface type\" as well. Options can be grass or artificial.",
@@ -5809,7 +5668,7 @@
     "common_team_form": {
       "comment": "Label for the list of the last matches for the team in the Team Profile",
       "english": "Team form",
-      "value": "球队赛事"
+      "value": "球队状态"
     },
     "common_team_form_both": {
       "comment": "W is Win, D is Draw and L is loss",
@@ -6025,7 +5884,7 @@
     "common_transfer_alert_message": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid for $500.000.000 from Barcelona\"",
       "english": "%1$@ is joining %2$@ for %3$@ from %4$@",
-      "value": "%1$@以%3$@的价格加盟%4$@的%2$@"
+      "value": "%1$@以%3$@的价格从%4$@转会至%2$@"
     },
     "common_transfer_alert_message_from_free_agent": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid\"",
@@ -6035,7 +5894,7 @@
     "common_transfer_alert_message_no_amount": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid from Barcelona\"",
       "english": "%1$@ is joining %2$@ from %3$@",
-      "value": "%1$@加盟%3$@的%2$@"
+      "value": "%1$@将从%3$@转会至%2$@"
     },
     "common_transfer_alert_message_to_free_agent": {
       "comment": "This is for a transfer like: \"Ronaldo leaving Juventus and is now a free agent\". Free agent means he has no club.",
@@ -6087,9 +5946,9 @@
       "value": "金额"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "身价"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "转会价值"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6149,7 +6008,7 @@
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",
-      "value": "两回合比赛平局"
+      "value": "两回合淘汰赛"
     },
     "common_undefeated_both_equal": {
       "english": "%1$@ and %2$@ haven't lost their %3$@ last games.",
@@ -6178,11 +6037,11 @@
     },
     "common_unstar": {
       "english": "Unfollow %@",
-      "value": "删除 %@"
+      "value": "取消关注 %@"
     },
     "common_unstar_league": {
       "english": "Remove from favorites",
-      "value": "从您喜爱的球队中删除"
+      "value": "从收藏中移除"
     },
     "common_until_date": {
       "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
@@ -6379,7 +6238,7 @@
     "common_world_cup_countdown": {
       "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
       "english": "Starts in %1$@",
-      "value": "开始于%1$@"
+      "value": "%1$@后开始"
     },
     "common_world_cup_popup_description": {
       "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
@@ -6557,7 +6416,7 @@
     },
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "为您喜欢的球队添加星标以供快速浏览，点击联赛名称即可更改现行联赛"
+      "value": "为您喜欢的联赛添加星标以便快速访问。点击联赛名称即可更改当前联赛"
     },
     "ios_draws": {
       "english": "Draws",
@@ -6815,7 +6674,7 @@
     "new_how_to_remove_news_notifications": {
       "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
       "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "点击球队页面的铃铛标志即可查看新闻提醒"
+      "value": "在球队页面点击铃铛图标即可开启/关闭新闻通知"
     },
     "new_intro_text": {
       "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
@@ -6825,7 +6684,7 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "一定要试一下FotMob，随时关注英超信息全靠它！"
+      "value": "我在用这款应用查看足球实时比分，快来试试吧！"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
@@ -7011,7 +6870,7 @@
     },
     "new_search_hint_global_desc": {
       "english": "No results so far!",
-      "value": "暂无比分！"
+      "value": "暂无结果！"
     },
     "new_semifinal": {
       "english": "Semi-final",
@@ -7355,11 +7214,11 @@
     },
     "notifications_alert_subst_in": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
-      "value": "%@%@-%@%@\\n%@%@替补入场"
+      "value": "%@ %@-%@ %@\\n%@%@替补入场"
     },
     "notifications_alert_subst_out": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed off",
-      "value": "%@%@-%@%@\\n%@%@替补下场"
+      "value": "%@ %@-%@ %@\\n%@%@替补下场"
     },
     "notifications_alert_yellow_card": {
       "english": "%@ %@-%@ %@\\n%@%@ got a yellow card",
@@ -7615,7 +7474,7 @@
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
-      "value": "- \"免打扰已开启"
+      "value": "- \"免打扰\"已开启"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
@@ -7682,7 +7541,7 @@
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
-      "value": "失误导致失球"
+      "value": "失误导致对方射门"
     },
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
@@ -7742,17 +7601,17 @@
       "value": "不确定"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "%1$@上旬"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "%1$@下旬"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "%1$@中旬"
     },
@@ -8169,11 +8028,11 @@
     },
     "notifications_injury_41": {
       "english": "Sprained foot",
-      "value": "脚步扭伤"
+      "value": "脚扭伤"
     },
     "notifications_injury_42": {
       "english": "Hamstring injury",
-      "value": "奈绳肌损伤"
+      "value": "腘绳肌损伤"
     },
     "notifications_injury_43": {
       "english": "Pulled muscle",
@@ -8377,7 +8236,7 @@
     "notifications_last_won": {
       "comment": "When a league was last won",
       "english": "Last won %@",
-      "value": "最终胜利%@"
+      "value": "上次夺冠 %@"
     },
     "notifications_latvia": {
       "english": "Latvia",
@@ -8390,11 +8249,11 @@
     },
     "notifications_legal_leaving_app": {
       "english": "You are now leaving FotMob",
-      "value": "你正在疏远FotMob"
+      "value": "你即将离开 FotMob"
     },
     "notifications_limited_lineup_coverage": {
       "english": "This match has limited lineup coverage",
-      "value": "该比赛的新闻报道比较有限"
+      "value": "本场比赛的阵容信息覆盖有限"
     },
     "notifications_lithuania": {
       "english": "Lithuania",
@@ -8793,7 +8652,7 @@
     "notifications_rating_team_title": {
       "comment": "We give each team a performance rating based on how the player performs. This is a title where we rank all the teams based on their performance.",
       "english": "FotMob rating",
-      "value": "球员评分"
+      "value": "FotMob评分"
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
@@ -9268,7 +9127,7 @@
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
-      "value": "罚球机会"
+      "value": "被犯规"
     },
     "notifications_watch_match_bet365": {
       "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
@@ -9324,7 +9183,7 @@
     },
     "notifications_your_content_has_never_been_synced": {
       "english": "Your content has not been synced yet. Please sign out and in again if the problem persists.",
-      "value": "联系人信息未同步，如问题仍未解决，请重新登入"
+      "value": "您的内容尚未同步。如问题仍然存在，请退出登录并重新登录。"
     },
     "notifications_youth_career": {
       "english": "Youth career",
@@ -9364,6 +9223,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "请分享有关广告的详细信息，例如广告商、在哪个屏幕上、视频或图片，以及您发现的问题。"
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "广告合作"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9594,9 +9458,9 @@
       "value": "用备用的应用图标定制你的主屏幕。"
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "场上xG失球"
+      "value": "在场时 xG 失球期望值"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9759,7 +9623,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "场上失球数"
+      "value": "在场时失球数"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9780,6 +9644,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "球队之间当前的头对头记录是 %1$@ 有 %2$@ 次获胜， %3$@ 有 %4$@ 次获胜，以及 %5$@ 次平局。"
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "热图"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "查看球员在球场上的影响位置。点击阵容屏幕中的球员以查看详情。"
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "热图已上线"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9821,13 +9700,138 @@
       "english": "I need help",
       "value": "我需要帮助"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "复制链接"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "复制链接并粘贴到Safari或Chrome中"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "点按右下角的三个点（•••），然后选择“在浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "点按右上角的三个点（•••），然后选择“在浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "点按菜单 (≡)，然后选择“在其他浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "点击底部的分享图标，然后选择你的浏览器"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "点按三个点（•••），然后选择“在浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "点按右上角的三个点（•••），然后选择“在外部浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "点按三点（•••），然后选择“在浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "点按三个点（•••），然后选择“在浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "点按分享图标，然后选择“在 Safari 中打开”或“复制链接”"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "点按三点（•••），然后点“在…中打开”，选择 Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "复制链接并粘贴到Safari或Chrome中"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "点按分享图标，然后选择“在 Safari 中打开”"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "找到菜单 (••• 或共享图标) 并选择“在浏览器中打开”"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "点按三点（•••），然后选择“在 Safari 中打开”"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "返回"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "在浏览器中打开"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "在浏览器中打开以登录"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "在Chrome中打开"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "在Safari中打开"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "或手动："
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "在 %1$s 的浏览器中，登录无法稳定使用。请在 Safari 或 Chrome 中打开此页面。"
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "仍然尝试在此登录（可能无法使用）"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "在此应用内浏览器中登录可能无法正常工作"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "在 %1$s 的浏览器中，登录可能无法正常使用。为获得最佳体验，请返回并在你的浏览器中打开此页面。"
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "请在您设备的浏览器 (Safari 或 Chrome) 中打开此页面以继续。"
     },
@@ -9905,6 +9909,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "阵容已保存"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "无"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10019,7 +10028,7 @@
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
       "english": "The bookmakers predict a close match between %1$@ and %2$@.",
-      "value": "玩家预测%1$@和%2$@之间的比赛会激烈。"
+      "value": "博彩公司预测%1$@和%2$@之间的比赛会很接近。"
     },
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
@@ -10029,12 +10038,12 @@
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
       "english": "%1$@ have odds of %2$@ to win, %3$@ for a draw, and %4$@ for %5$@ to win.",
-      "value": "%1$@ 有 %2$@ 的胜利几率，%3$@ 和 %4$@ 赢 %5$@ 的几率。"
+      "value": "%1$@ 的获胜赔率为 %2$@，平局赔率为 %3$@，%5$@ 的获胜赔率为 %4$@。"
     },
     "seo_odds_x": {
       "comment": "Used for the betting slip to show the odds of your current selected bets.",
       "english": "Odds %1$@",
-      "value": "胜率%1$@"
+      "value": "赔率%1$@"
     },
     "seo_offerings_prematch": {
       "comment": "Explaining what features will be availalbe on the fotmob site, and when.",
@@ -10179,7 +10188,7 @@
     "seo_playing_home": {
       "comment": "Text explaining that the first team is playing at home against the visiting team at a given time.",
       "english": "%1$@ is playing home against %2$@ on %3$@.",
-      "value": "%1$@ 将在主场对阵 %2$@ 在 %3$@。"
+      "value": "%1$@ 将于 %3$@ 在主场迎战 %2$@。"
     },
     "seo_playing_home_at_stadium": {
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
@@ -10325,7 +10334,7 @@
       },
       "plurals": {
         "one": "明天续订",
-        "other": "%d 天后续订"
+        "other": "%d天后续订"
       }
     },
     "seo_renews_today": {
@@ -10465,7 +10474,7 @@
     "seo_since_x": {
       "comment": "Subtitle used in membership page to indicate since which *year* they became a lifetime supporter. Like \"Since 2023\".",
       "english": "Since %@",
-      "value": "%@年会员"
+      "value": "自 %@ 年起"
     },
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
@@ -10505,7 +10514,7 @@
     "seo_site_description_league_overview": {
       "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
       "english": "%1$@ table %2$@, results, fixtures, top scorers and more",
-      "value": "%1$@ 排名 %2$@，比分，赛程，最佳射手等等"
+      "value": "%1$@ 积分榜 %2$@，赛果，赛程，最佳射手等"
     },
     "seo_site_description_league_playoff": {
       "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
@@ -10515,7 +10524,7 @@
     "seo_site_description_league_stats": {
       "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
       "english": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more",
-      "value": "包括%1$@的球员%2$@在内的统计数据，其中包括顶级射手、助攻、球员评级等等"
+      "value": "%1$@ %2$@数据统计，包括顶级射手、助攻、球员评分等"
     },
     "seo_site_description_league_table": {
       "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
@@ -10580,7 +10589,7 @@
     "seo_site_description_team_squad": {
       "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "Current %1$@ squad",
-      "value": "当前%1$@球队"
+      "value": "当前%1$@阵容"
     },
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
@@ -10659,7 +10668,7 @@
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
       "english": "%1$@ matches, tables and news %2$@",
-      "value": "%1$@ 比赛，表格和新闻 %2$@"
+      "value": "%1$@ 比赛、积分榜和新闻 %2$@"
     },
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
@@ -10669,7 +10678,7 @@
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
       "english": "%1$@ %2$@ top rated players, goals, assists and other stats",
-      "value": "%1$@ %2$@顶级评价球员，进球，主攻和其他统计"
+      "value": "%1$@ %2$@评分最高球员、进球、助攻及其他统计数据"
     },
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
@@ -10684,7 +10693,7 @@
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
       "english": "%1$@ table %2$@, form and next opponent",
-      "value": "%1$@ 排行榜 %2$@，表格和下一个对手"
+      "value": "%1$@ 积分榜 %2$@，近期战绩和下一场对手"
     },
     "seo_site_title_league_table_xg": {
       "comment": "Headline for the league's xG table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League xG table 2021/2022\"",
@@ -10744,7 +10753,7 @@
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "%1$@ - 球队，教练，伤病和位置"
+      "value": "%1$@ - 阵容、教练、伤病和位置"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
@@ -10759,12 +10768,12 @@
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
       "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ 表、表格和下一个对手"
+      "value": "%1$@ 积分榜、状态和下一场对手"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
       "english": "%1$@ - transfer history, players in and players out",
-      "value": "%1$@ - 转会历史，进球球员和卖球员"
+      "value": "%1$@ - 转会历史，转入球员和转出球员"
     },
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
@@ -10815,6 +10824,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "提交"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -11009,6 +11023,11 @@
       "english": "Out",
       "value": "出"
     },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "《透明度法》声明"
+    },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
       "english": "Then %1$@ / year (%2$@ / month)",
@@ -11164,7 +11183,7 @@
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",
       "english": "Week",
-      "value": "第%1$d周"
+      "value": "周"
     },
     "seo_weekly_predictor_notification_body": {
       "comment": "Notification body mentioning that new Fotmob Predictor matches are now open.",
@@ -11230,7 +11249,7 @@
     "seo_xga_short": {
       "comment": "Short for expected goals against. Used in table column header so should not be longer than 4 characters.",
       "english": "xGA",
-      "value": "预期失球"
+      "value": "xGA"
     },
     "seo_xmas_week": {
       "comment": "Title of the week that includes christmas day and boxing day",

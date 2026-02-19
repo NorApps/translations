@@ -9,12 +9,12 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "Ufanisi wa Kulinganisha"
+      "value": "Ufanisi wa Krosi"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "Salamu sahihi kwa mechi"
+      "value": "Krosi sahihi kwa mechi"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -84,7 +84,7 @@
     "accessibility_all_competitions": {
       "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
       "english": "All competitions",
-      "value": "Mashindano zote"
+      "value": "Mashindano yote"
     },
     "accessibility_all_leagues": {
       "comment": "Header indication you can set alerts that applies to all your favorite leagues",
@@ -366,7 +366,7 @@
     "accessibility_fast_break": {
       "comment": "A shot setup description. Goal was scored as part of a counter attack.",
       "english": "Fast break",
-      "value": "Mapumziko ya haraka"
+      "value": "Shambulizi la kushtukiza"
     },
     "accessibility_favorites_widget_display_body": {
       "comment": "Used as the display body for the favorites widget in the widget selection menu. Body of a widget that shows the matches you are following.",
@@ -486,7 +486,7 @@
     "accessibility_goalkeeping": {
       "comment": "This is a header for goalkeeper stats like saves, goals conceded and more. May be translated as \"Keeper stats\" or \"Goalkeeper stats\" if there isn't a good translation for this.",
       "english": "Goalkeeping",
-      "value": "Ulinzi wa Kwanja"
+      "value": "Uchezaji wa Golikipa"
     },
     "accessibility_goals_and_assists": {
       "comment": "Label used in stats for the sum of goals and assists",
@@ -566,7 +566,7 @@
     "accessibility_historical_table_positions_header": {
       "comment": "Header text over graph that shows a team's historical table positions.",
       "english": "Historical table positions",
-      "value": "Jedwali ya historia ya seheme ya Timu"
+      "value": "Nafasi za timu kwenye jedwali kwa historia"
     },
     "accessibility_history": {
       "comment": "Tab header for page with historical team data.",
@@ -631,7 +631,7 @@
     "accessibility_insights_goalless_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 4 away matches",
       "english": "Haven't scored in %1$@ away matches",
-      "value": "Hajapata goli katika %1$@ mechi za Uhamiaji"
+      "value": "Hajafunga mabao katika mechi %1$@ za ugenini"
     },
     "accessibility_insights_goalless_home": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 3 home matches",
@@ -686,7 +686,7 @@
     "accessibility_insights_not_won_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won an away game in their last (number greater than 2) matches",
       "english": "Haven't won an away game in their last %1$@ matches",
-      "value": "Hajashinda mechi ya uhamiaji katika mechi zao %1$@ zilizopo"
+      "value": "Hawajashinda mechi ya ugenini katika mechi zao %1$@ zilizopita"
     },
     "accessibility_insights_not_won_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won a match in 4 attempts",
@@ -706,7 +706,7 @@
     "accessibility_insights_player_average_minutes_per_goal": {
       "comment": "A player averages some value (typically 60-120) minutes per goal. Example: \"[Mohammed Salah] averages [67] minutes per goal\"",
       "english": "%1$@ averages %2$@ minutes per goal",
-      "value": "%1$@ anafunga %2$@ kila dakika"
+      "value": "%1$@ ana wastani wa dakika %2$@ kwa kila bao"
     },
     "accessibility_insights_player_average_stat": {
       "comment": "A player averages some number for a stat. Example: \"[Lionel Messi] averages [7.2] [shots on target]\" %2$@ signifies the stat while %3$@ is the value, so feel free to swap these if that is appropriate for the language.",
@@ -816,7 +816,7 @@
     "accessibility_interrupted_short": {
       "comment": "Char limit is 2! A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
       "english": "IR",
-      "value": "Imesimama"
+      "value": "IR"
     },
     "accessibility_invalid_code": {
       "comment": "Error message indicating the code entered is invalid",
@@ -944,7 +944,7 @@
     "accessibility_live_activity_visit_team_page": {
       "comment": "Hint indicating the user has to go to the team page to turn on Live Activities for all the team's matches",
       "english": "Turn on for all matches via the bell on the team page",
-      "value": "Washa kwa mechi zote kupitia kelele kwenye ukurasa wa timu"
+      "value": "Washa kwa mechi zote kupitia ikoni ya kengele kwenye ukurasa wa timu"
     },
     "accessibility_live_activity_will_be_added": {
       "comment": "Used in toast when activating a live activity ahead of time.",
@@ -1085,7 +1085,7 @@
     "accessibility_misc_winner_of_group": {
       "comment": "Indicating the winner of a group. Eg \"Winner Group B\"",
       "english": "Winner Group %1$@",
-      "value": "Kikundi cha ushindi%1$@"
+      "value": "Mshindi wa Kundi %1$@"
     },
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
@@ -1193,7 +1193,7 @@
     "accessibility_no_bots_allowed": {
       "comment": "Text shown in the footer to emphasize that web scraping is not permitted.",
       "english": "The use of automatic services (robots, crawler, indexing etc.) as well as other methods for systematic or regular use is not permitted.",
-      "value": "Matumizi ya huduma za kiotomatiki (roboti, crawler, indexing n.k.) pamoja na njia nyingine za matumizi ya kisheria au ya kawaida hayaruhusiwi."
+      "value": "Matumizi ya huduma za kiotomatiki (roboti, crawler, indexing n.k.) pamoja na mbinu nyingine za matumizi ya kimfumo au ya mara kwa mara hayaruhusiwi."
     },
     "accessibility_no_next_match": {
       "comment": "Text shown when there are no new matches scheduled for the team or league.",
@@ -1343,7 +1343,7 @@
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>Ukurasa mpye wa takwimu.</b> Chunguza takwimu kwa undani ikiwa pamoja na ramani za Kapiyo za msimu na grafu za kulinganisha."
+      "value": "<b>Ukurasa mpya wa takwimu.</b> Chunguza takwimu kwa undani, ikiwemo ramani za mashuti za msimu na grafu za kulinganisha."
     },
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1388,7 +1388,7 @@
     "accessibility_other_body_parts": {
       "comment": "A shot type variant. A goal was scored with a part of the body that isn't foot or head.",
       "english": "Other body parts",
-      "value": "Sehemu nyingine ya maili"
+      "value": "Sehemu nyingine za mwili"
     },
     "accessibility_outfielder_block_subtitle": {
       "comment": "Label used in stats for total outfielder blocks",
@@ -1408,7 +1408,7 @@
     "accessibility_overhead_kick": {
       "comment": "Overhead kick of bicycle kick. Description is here https://en.wikipedia.org/wiki/Bicycle_kick.  is an acrobatic strike where a player kicks an airborne ball rearward in midair. It is achieved by throwing the body backward up into the air and, before descending to the ground, making a shearing movement with the lower limbs to get the ball-striking leg in front of the other. In most languages, the manoeuvre is named after either the cycling motion or the scissor motion that it resembles.",
       "english": "Overhead kick",
-      "value": "Mapigo ya juu"
+      "value": "Mkasi (baiskeli)"
     },
     "accessibility_overviewheader_details": {
       "english": "Details",
@@ -1585,7 +1585,7 @@
     "accessibility_post": {
       "comment": "A shot result description (hit the post)",
       "english": "Post",
-      "value": "Chapisho"
+      "value": "Nguzo"
     },
     "accessibility_predictor_make_predictions": {
       "comment": "Button indicating you can enter our competition where you predict who will win the tournament",
@@ -1733,7 +1733,7 @@
     "accessibility_share_lineup": {
       "comment": "Button label for sharing the starting lineup of a football match. Once clicked the user will share an image of the 11 players starting the match.",
       "english": "Share lineup",
-      "value": "Washirika wanaoanza"
+      "value": "Shiriki kikosi cha kuanza"
     },
     "accessibility_share_lineup_graphics": {
       "comment": "Onboarding that explains to the users that we have a new feature for sharing an image of the lineup",
@@ -1850,7 +1850,7 @@
     "accessibility_singleleaguepage_invite_friends": {
       "comment": "Text on button that enables the user to invite freinds to compete",
       "english": "Invite friends",
-      "value": "Alike marafiki"
+      "value": "Alika marafiki"
     },
     "accessibility_singleleaguepage_leave_league": {
       "english": "Leave league",
@@ -1921,7 +1921,7 @@
     "accessibility_stats_comparison_center_backs": {
       "comment": "A description highlighting that a player's stat is benchmarked against other center-backs.",
       "english": "Stats compared to other center-backs",
-      "value": "Takwimu ikilinganishwa na mbavu wa kati wengine"
+      "value": "Takwimu ikilinganishwa na mabeki wa kati wengine"
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
@@ -1930,7 +1930,7 @@
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
       "english": "Stats compared to other forwards",
-      "value": "Takwimu ikilinganishwa na mabao wengine"
+      "value": "Takwimu ikilinganishwa na washambuliaji wengine"
     },
     "accessibility_stats_comparison_fullbacks": {
       "comment": "A description highlighting that a player's stat is benchmarked against other fullbacks. Fullback is a term for players taking on any variation of left or right back roles.",
@@ -1970,7 +1970,7 @@
     "accessibility_stepsheader_step2_hinttext_v2": {
       "comment": "Description on which teams will advance from the group stage.",
       "english": "The four third-placed teams with the most points will advance.",
-      "value": "4 ya timu zilizopo tatu wenye pointi nyingi zitapita"
+      "value": "Timu nne zilizomaliza nafasi ya tatu zenye pointi nyingi zaidi zitafuzu."
     },
     "accessibility_stepsheader_step2_hinttext_v3": {
       "comment": "Explanation of what to do.",
@@ -2098,7 +2098,7 @@
     "accessibility_sync_calendar_button_text": {
       "comment": "Text shown on a button that lets the user add a teams matches to their calendar.",
       "english": "Sync to calendar",
-      "value": "Unganisha kwenye kalends"
+      "value": "Sawazisha kwenye kalenda"
     },
     "accessibility_sync_calendar_cta": {
       "comment": "Option to sync a teams fixtures to your calendar. This is the call to action button.",
@@ -2132,7 +2132,7 @@
     },
     "accessibility_tackles_succeeded_percent": {
       "english": "Tackles won %",
-      "value": "Kukabiliana kulikoshindwa %"
+      "value": "Kukabiliana kulikoshinda %"
     },
     "accessibility_tap_to_make_changes": {
       "comment": "Used for subtitle on toast when settings alerts on match in matchfacts.",
@@ -2147,7 +2147,7 @@
     "accessibility_team_score": {
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
       "english": "%@ scores!",
-      "value": "%@ amepiga ishara!"
+      "value": "%@ amefunga!"
     },
     "accessibility_template_10096": {
       "comment": "Tournament between women club teams",
@@ -2157,7 +2157,7 @@
     "accessibility_template_114": {
       "comment": "Tournament between national teams",
       "english": "Friendlies",
-      "value": "Marafiki"
+      "value": "Mechi za kirafiki"
     },
     "accessibility_template_287": {
       "comment": "EURO U19 tournament. https://www.uefa.com/under19/",
@@ -2202,7 +2202,7 @@
     "accessibility_template_65": {
       "comment": "Summer olympics for women",
       "english": "Summer Olympics Women",
-      "value": "Olimpiada ya majara ya joto- Wanawake"
+      "value": "Michezo ya Olimpiki ya Majira ya Joto (Wanawake)"
     },
     "accessibility_template_66": {
       "comment": "Summer olympics tournament",
@@ -2257,17 +2257,17 @@
     "accessibility_template_word_group_stage": {
       "comment": "A group stage in a tournament. Like Champions League - Group Stage",
       "english": "Group Stage",
-      "value": "Awamu ya KikundI"
+      "value": "Awamu ya Kundi"
     },
     "accessibility_template_word_qualification": {
       "comment": "A qualification stage in a tournament. Like Champions League - Qualification",
       "english": "Qualification",
-      "value": "Kufudhu"
+      "value": "Kufuzu"
     },
     "accessibility_template_world_cup_qualification": {
       "comment": "Qualification for the World Cup in Football, https://en.wikipedia.org/wiki/FIFA_World_Cup.",
       "english": "FIFA World Cup Qualification",
-      "value": "Vijio vya Kombe la Dunia la FIFA"
+      "value": "Kufuzu kwa Kombe la Dunia la FIFA"
     },
     "accessibility_terms_of_use": {
       "comment": "Text shown for the link to the terms of use document.",
@@ -2277,7 +2277,7 @@
     "accessibility_throw_in_set_piece": {
       "comment": "A shot setup description. Goal was scored as part of a throw in.",
       "english": "Throw in set piece",
-      "value": "Seti ya kipigwa kwa mbwembwe"
+      "value": "Mpira wa kutupwa"
     },
     "accessibility_ticker": {
       "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
@@ -2292,7 +2292,7 @@
     "accessibility_top_leagues": {
       "comment": "Text shown as the header for a list of the top leagues.",
       "english": "Top leagues",
-      "value": "Ligas Bora"
+      "value": "Ligi bora"
     },
     "accessibility_top_transfer_description": {
       "comment": "You can toggle on getting alerts for all the most important transfers. This is regardless of which team or league the transfer is from.",
@@ -2307,12 +2307,12 @@
     "accessibility_total_interception": {
       "comment": "Label used in stats for total interceptions",
       "english": "Total interceptions",
-      "value": "Mipigo Jumla"
+      "value": "Jumla ya kukatiza"
     },
     "accessibility_total_passes": {
       "comment": "Total amount of passes. Includes both accurate and missed passes.",
       "english": "Total passes",
-      "value": "Jumla ya pası"
+      "value": "Jumla ya pasi"
     },
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
@@ -2322,7 +2322,7 @@
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
       "english": "AFC Champions League Two",
-      "value": "Ligi ya Mabingwa ya AFC MbilI"
+      "value": "Ligi ya Mabingwa ya AFC Mbili"
     },
     "accessibility_tr_afcchampionsleague": {
       "comment": "Name of tournament",
@@ -2332,22 +2332,22 @@
     "accessibility_tr_afcchampionsleaguequal": {
       "comment": "Name of tournament",
       "english": "AFC Champions League Elite Qualification",
-      "value": "Ugombeaji Bora wa Ligi Kuu ya Kangazi ya AFC"
+      "value": "Mchujo wa AFC Champions League Elite"
     },
     "accessibility_tr_cafchampionsleaguequal": {
       "comment": "Name of tournament",
       "english": "CAF Champions League Qualification",
-      "value": "kufundhu kwa Ligi ya CAF"
+      "value": "Kufuzu kwa Ligi ya Mabingwa ya CAF"
     },
     "accessibility_tr_cafconfederationcupqual": {
       "comment": "Name of tournament",
       "english": "CAF Confederation Cup Qualification",
-      "value": "Kufudhu kwa Kombe la Umoja wa CAF"
+      "value": "Kufuzu kwa Kombe la Shirikisho la CAF"
     },
     "accessibility_tr_qualeuropaleaguefinalstage": {
       "comment": "This is in indication that this team will qualify directly to the UEFA Europa League playoff stage. This is the 3rd place in the Champions League that gets this playoff place.",
       "english": "Europa League playoff stage",
-      "value": "Hatua ya uchaguzi wa Ligi ya Ulaya"
+      "value": "Hatua ya mchujo ya Ligi ya Europa"
     },
     "accessibility_trending_news": {
       "comment": "Header text for slider with the top 5 trending news stories.",
@@ -2421,7 +2421,7 @@
     "accessibility_won_contest_per_90": {
       "comment": "Label used in stats for successful dribbles per 90",
       "english": "Successful dribbles per 90",
-      "value": "Change zenye mafanikio kwa 90"
+      "value": "Chenga zilizofanikiwa kwa 90"
     },
     "accessibility_won_tackle_per_90": {
       "comment": "Label used in stats for successful tackles per 90",
@@ -2460,7 +2460,7 @@
     },
     "common_Attendance": {
       "english": "Attendance",
-      "value": "Idadi ya Wawaaji"
+      "value": "Idadi ya Watazamaji"
     },
     "common_BallPossesion": {
       "english": "Ball possession",
@@ -2779,7 +2779,7 @@
     "common_both": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Both",
-      "value": "Chini na Kulia"
+      "value": "Zote mbili"
     },
     "common_both_score": {
       "english": "Will both teams score?",
@@ -2854,7 +2854,7 @@
     "common_centerdefensivemidfielder": {
       "comment": "Player position - player plays as an defensive midfielder",
       "english": "Defensive Midfielder",
-      "value": "Mzuiaji wa katikati"
+      "value": "Kiungo wa ulinzi"
     },
     "common_centerdefensivemidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
@@ -2919,7 +2919,7 @@
     },
     "common_choose_rss": {
       "english": "Select which news feed to display for the currently chosen league",
-      "value": "Chagua  habari aa kuonyesha kwa ligi iliyochaguliwa kwa sasa"
+      "value": "Chagua ni mtiririko upi wa habari uonyeshwe kwa ligi iliyochaguliwa kwa sasa"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3141,7 +3141,7 @@
     },
     "common_deselect_all": {
       "english": "Deselect all",
-      "value": "Ondoa uteuzi zote"
+      "value": "Ondoa uteuzi wote"
     },
     "common_deselect_favorite": {
       "english": "Deselect favorite?",
@@ -3206,7 +3206,7 @@
     },
     "common_drawn_long": {
       "english": "Drawn",
-      "value": "Inayotelewa"
+      "value": "Sare"
     },
     "common_duels_won_lost": {
       "comment": "Header of a graphic showing how many duels (header + tackles) the player has won or lost",
@@ -3248,7 +3248,7 @@
     },
     "common_effective_clearance_title": {
       "english": "Clearances per match",
-      "value": "Vibali kwa mechi"
+      "value": "Kuondoa mpira kwa mechi"
     },
     "common_elSalvador": {
       "english": "El Salvador",
@@ -3297,7 +3297,7 @@
     "common_empty_placeholder_no_transfers": {
       "comment": "Empty placeholder for when tranfers (for team or for league) are not available, but we expected there to be data.",
       "english": "Transfers not available",
-      "value": "Maingizo hayapatikani"
+      "value": "Uhamisho haupatikani"
     },
     "common_empty_placeholder_no_transfers_2": {
       "comment": "Empty state placeholder for the case of when we know there are no transfers. Typical usecase is that we have e.g. outgoing transfers for a club, but no incoming.",
@@ -3355,20 +3355,25 @@
       "english": "Errors led to goal",
       "value": "Makosa Yaliopelekea goli"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Thamani ya Uhamisho Inayokadiriwa (ETV) ni makadirio yetu bora ya thamani ya mchezaji ikiwa atauzwa sasa hivi.\\n\\nInahesabiwa kwa kutumia data halisi za uhamisho na inazingatia:\\n\\n• utendaji wa mchezaji\\n• umri wake na uwezo wa baadaye\\n• mara ngapi na katika kiwango gani anacheza nafasi yake\\n• nguvu ya timu na ligi yake\\n• muda uliobaki wa mkataba wake\\n• maendeleo ya hivi karibuni na mambo yanayofanana\\n\\nTunazingatia mchezaji mwenyewe, si uvumi au klabu gani inaweza kumnunua.\\n\\nThamani inasasishwa mara kwa mara ili kuakisi mabadiliko katika soko la uhamisho kwa muda."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Thamani ya mchezaji inayokadiriwa"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Thamani ya uhamisho inayokadiriwa"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Thamani inayokadiriwa ikiwa itauzwa sasa"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Thamani ya Uhamisho Inayokadiriwa (ETV) ni makadirio yetu bora ya thamani ya mchezaji ikiwa atauzwa sasa hivi.\\n\\nInahesabiwa kwa kutumia data za uhamisho za kihistoria na inazingatia:\\n\\n• utendaji wa mchezaji na maendeleo\\n• umri na uwezo wa baadaye\\n• mara ngapi na katika kiwango gani anacheza\\n• nafasi\\n• nguvu ya timu na ligi\\n• muda uliobaki wa mkataba\\n\\nETV inazingatia mchezaji mwenyewe, si uvumi au klabu gani inaweza kumnunua.\\n\\nThamani inasasishwa mara kwa mara ili kuakisi mabadiliko kwa muda."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Thamani inayokadiriwa"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3424,7 +3429,7 @@
     "common_expected_assists_per_90": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "xA per 90",
-      "value": "Matarajio ya Kusaidia kwa 90"
+      "value": "xA kwa 90"
     },
     "common_expected_goals": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
@@ -3638,7 +3643,7 @@
     "common_foul": {
       "comment": "Player was fouled in the build up to the goal. We use this to inform why the goal was ruled out due to VAR",
       "english": "foul",
-      "value": "Mchezo Mbaya"
+      "value": "Faulo"
     },
     "common_fouls": {
       "english": "Fouls committed",
@@ -3663,162 +3668,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ alifanya dosari na kusababisha %2$@ kupata adhimisho."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ alikuwa mchezaji aliyefukuzwa zaidi katika mechi (%2$@ mara)."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ ndiye mchezaji aliye na faulo zaidi katika mechi hii (%2$@ mara)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ alipoteza mapambano mengi (%2$@) mechi."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ amepoteza mapigano zaidi (%2$@) kwenye mechi."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ alipoteza umiliki mara nyingi zaidi (%2$@) katika mechi."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ ameupoteza umiliki mara nyingi zaidi katika mechi (%2$@)."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ alikuwa na miguso kidogo (%2$@) kati ya mchezaji wa uwanja wowote kucheza dakika 90."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ ana miguso kidogo zaidi (%2$@) kuliko mchezaji yeyote wa uwanja."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ alikosea na kusababisha goli kwa %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ alikosea na kusababisha goli kwa %2$@.",
-        "other": "%1$@ alifanya makosa %3$d yaliyosababisha magoli kwa %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ alikamilisha chenga nyingi zaidi (%2$@) kwenye mechi."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ amefanya change nyingi zaidi (%2$@) katika mechi."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ alitengeneza nafasi zaidi (%2$@) katika mechi."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ ameunda fursa nyingi zaidi (%2$@) kwenye mechi."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ alikamilisha passi nyingi zaidi (%2$@) kwenye mechi."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ amekamilisha pasi nyingi zaidi (%2$@) katika mechi."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ alikuwa na mikabiliano mingi (%2$@) katika mechi."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ ana mikabiliano mingi zaidi (%2$@) kwenye mechi."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ alikuwa mchezaji bora wa mchezo na alama ya %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ kwa sasa ana alama ya mechi ya juu zaidi na %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ alikuwa na miguso nyingi zaidi (%2$@) katika kisanduku cha adui."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ ana mguso mwingi (%2$@) katika banja ya adui."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ alikuwa mpiga pasi bora zaidi (%2$@) katika kucheza kwa dakika 45 au zaidi."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ ndiye mpiga pasi wa usahihi zaidi (%2$@) kwenye mechi."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ alivunja goli lao"
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ alishinda mapinzano mengi zaidi (%2$@) katika mechi."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ ameshinda zaidi ya mapambano (%2$@) katika mechi."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ amegonga nguzo mara %2$@ katika mapigo yote %3$@."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ amepiga nguzo %2$@ mara katika mapigo %3$@ yote."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "Jumla"
@@ -3826,7 +3675,7 @@
     "common_go_to_the_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predict at fotmob.com",
-      "value": "Tabiria kwenye fotmob.com"
+      "value": "Tabiri kwenye fotmob.com"
     },
     "common_goal": {
       "english": "Goal!",
@@ -3936,6 +3785,7 @@
       "value": "Mshabiki wa Dhahabu"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "Gol ya Dhahabu"
     },
@@ -3963,7 +3813,7 @@
     },
     "common_h2h_all_drawn": {
       "english": "%1$@ and %2$@ have drawn their last %3$@ matches.",
-      "value": "%1$@ na %2$@ wamecheza kombe katika mechi zao %3$@ za mwisho."
+      "value": "%1$@ na %2$@ wametoka sare katika mechi zao %3$@ za mwisho."
     },
     "common_h2h_draw_streak": {
       "english": "%1$@ and %2$@ have drawn their last %3$@ matches against each other",
@@ -4006,12 +3856,17 @@
     "common_headed_clearance": {
       "comment": "Successful defensive clearance via a header – where player under pressure heads the ball clear of the defensive zone or/and out of play",
       "english": "Headed clearance",
-      "value": "Safisho linaloongoza"
+      "value": "Uondoaji wa mpira kwa kichwa"
     },
     "common_hide_news": {
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Ficha habari za %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Juu"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4120,7 +3975,7 @@
     "common_interceptions": {
       "comment": "Player managed to intercept a pass from opponent and got control over the ball",
       "english": "Interceptions",
-      "value": "Kukatiza Mapigo"
+      "value": "Kuzuia pasi"
     },
     "common_international": {
       "comment": "Label for international tournaments’ headers in Live Matches",
@@ -4150,7 +4005,7 @@
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
       "english": "High claim",
-      "value": "Madai ya Juu"
+      "value": "Kukamata mpira wa juu"
     },
     "common_keeper_long": {
       "english": "Keeper",
@@ -4304,7 +4159,7 @@
     "common_leftback": {
       "comment": "Player position - player plays on the left side of the pitch in the defensive half",
       "english": "Left-back",
-      "value": "Mdokezo wa kushoto"
+      "value": "Beki wa kushoto"
     },
     "common_leftback_short": {
       "comment": "Player position - a SHORT abbrevation of the Left Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
@@ -4388,7 +4243,7 @@
     },
     "common_ltc": {
       "english": "Live ticker",
-      "value": "Msimamizi hai"
+      "value": "Matukio ya moja kwa moja"
     },
     "common_ltc_not_found": {
       "comment": "Empty placeholder if there's no live-comments available",
@@ -4874,7 +4729,7 @@
     "common_open_play": {
       "comment": "Type of goal (the most common)",
       "english": "Open play",
-      "value": "Lengo la Mchezo Wazi"
+      "value": "Mchezo wa wazi"
     },
     "common_opened": {
       "comment": "Label indicating what year the stadium was built",
@@ -4918,6 +4773,7 @@
       "value": "Paragwai"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Pozi"
     },
@@ -4940,7 +4796,7 @@
     },
     "common_penaltiesarehappening": {
       "english": "Penalty-shootout",
-      "value": "Punguzo la Penalti"
+      "value": "Mikwaju ya penalti"
     },
     "common_penalty": {
       "english": "Penalty",
@@ -4955,13 +4811,14 @@
       "value": "Jumla ya mechi"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Penali zilioruhusiwa"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
       "english": "Penalties conceded",
-      "value": "Adhabu zilizokubaliwa"
+      "value": "Penalti zilizofanywa"
     },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
@@ -4973,7 +4830,7 @@
     },
     "common_penalty_won_team_title": {
       "english": "Penalties awarded",
-      "value": "Penalityi imepewa"
+      "value": "Penalti zilizotolewa"
     },
     "common_penalty_won_title": {
       "comment": "Team/Player has received a penalty because of a foul",
@@ -5000,7 +4857,7 @@
     },
     "common_played": {
       "english": "Pl",
-      "value": "Liga Kuu"
+      "value": "Pl"
     },
     "common_player": {
       "comment": "Phrase \"Select player\", this is the second part of it",
@@ -5023,7 +4880,7 @@
     },
     "common_player_profile": {
       "english": "Player profile",
-      "value": "Wasifu ya Mchezaji"
+      "value": "Wasifu wa Mchezaji"
     },
     "common_player_vs_player": {
       "comment": "Page title for the player's comparison page",
@@ -5095,7 +4952,7 @@
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Umiliki umeshinda Mwishoni mara ya Tatu"
+      "value": "Umiliki wa mpira uliopatikana katika theluthi ya mwisho"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
@@ -5193,7 +5050,7 @@
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
       "english": "Qualification next stage",
-      "value": "Kufanikiwa hatua inayofuata"
+      "value": "Kufuzu hatua inayofuata"
     },
     "common_rate": {
       "english": "Rate",
@@ -5254,7 +5111,7 @@
     },
     "common_relegationqual": {
       "english": "Relegation qualification",
-      "value": "Kufudhu daraja"
+      "value": "Kufuzu kushuka daraja"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",
@@ -5347,12 +5204,12 @@
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
       "english": "Saved penalties",
-      "value": "Penalii zilizotunzwa"
+      "value": "Penalti zilizookolewa"
     },
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
       "english": "Saves inside box",
-      "value": "Kupigia uwokozi ndani ya boksi"
+      "value": "Uokozi ndani ya boksi"
     },
     "common_saves_subtitle": {
       "english": "Total saves",
@@ -5414,7 +5271,7 @@
     },
     "common_secondhalf": {
       "english": "Second half",
-      "value": "Robo ya Pili"
+      "value": "Kipindi cha pili"
     },
     "common_see_all": {
       "comment": "See all (transfers)",
@@ -5505,7 +5362,7 @@
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
       "english": "Set piece",
-      "value": "Kuweka kipande"
+      "value": "Mpira wa kusimama"
     },
     "common_set_up_now": {
       "comment": "A label on the button to start league-onboarding (add teams, players to follow)",
@@ -5588,10 +5445,12 @@
       "value": "Mshiriki wa fedha"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Goli la Fedha"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Goli ya Fedha"
     },
@@ -5646,7 +5505,7 @@
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",
       "english": "Starting lineup",
-      "value": "Msimamo wa Kwanza"
+      "value": "Kikosi cha kuanza"
     },
     "common_stats": {
       "english": "Stats",
@@ -5698,7 +5557,7 @@
     },
     "common_subs_stats": {
       "english": "Substitutes",
-      "value": "Wachama"
+      "value": "Wachezaji wa akiba"
     },
     "common_suggested": {
       "comment": "Onboarding: header for the top players list",
@@ -5975,7 +5834,7 @@
     "common_top_scorer": {
       "comment": "Label for the top scorer player in the Team Profile",
       "english": "Top scorer",
-      "value": "Mfugaji bora"
+      "value": "Mfungaji bora"
     },
     "common_top_scorers": {
       "english": "Top scorers",
@@ -6058,7 +5917,7 @@
     "common_transfer_loan_message": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid on loan from Manchester United\"",
       "english": "%1$@ is joining %2$@ on loan from %3$@",
-      "value": "%1$@ ana kujiunga na %2$@ kwa taarifa kutoka %3$@"
+      "value": "%1$@ anaijiunga na %2$@ kwa mkopo kutoka %3$@"
     },
     "common_transfer_loan_return": {
       "comment": "This is for a transfer like: \"Ronaldo is returning from loan to Real Madrid from Barcelona\"",
@@ -6081,9 +5940,9 @@
       "value": "Jumla"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Thamani ya Soko"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Thamani ya Uhamisho"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6218,12 +6077,12 @@
     "common_var_penalty_goal_retake": {
       "comment": "Penalty goal had to be retaken due to Video Assistant referee. Note that the player scored on the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty goal cancelled\" with no reference to Video Assistant referee.",
       "english": "Penalty goal - to be retaken",
-      "value": "Goli la Penaltii Iimesitishwa"
+      "value": "Goli la penalti - lirudiwe"
     },
     "common_var_penalty_miss_retake": {
       "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
       "english": "Missed penalty - to be retaken",
-      "value": "Kupotea Penali kimeachwa"
+      "value": "Penali iliyokosa - irudiwe"
     },
     "common_var_pending": {
       "comment": "Information that the Video Assistant Referee is checking something",
@@ -6256,11 +6115,11 @@
     },
     "common_venue": {
       "english": "Stadium",
-      "value": "Siti"
+      "value": "Uwanja"
     },
     "common_vibrate_caption": {
       "english": "Vibrate on scorealert",
-      "value": "Tetera kwenye aria ya alama"
+      "value": "Mtikisiko kwenye arifa ya mabao"
     },
     "common_video_autoplay": {
       "comment": "Checkbox if the user wants the videos to autoplay in the newsfeed",
@@ -6315,7 +6174,7 @@
     "common_widget_empty_text": {
       "comment": "Widget strings",
       "english": "No starred matches or matches with alerts today",
-      "value": "Hakuna mechi zilizopendwa au zenye arifa lea"
+      "value": "Hakuna mechi zilizopendwa au zenye arifa leo"
     },
     "common_widget_title": {
       "english": "FotMob",
@@ -6339,7 +6198,7 @@
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
-      "value": "Change zenye mafanikio kwa mechi"
+      "value": "Driboli zilizofanikiwa kwa mechi"
     },
     "common_won_long": {
       "english": "Won",
@@ -6468,7 +6327,7 @@
     },
     "ios_Matches_and_Topscorer": {
       "english": "Matches & Topscorer",
-      "value": "Mechi na alama ya juu"
+      "value": "Mechi na Mfungaji Bora"
     },
     "ios_NOR": {
       "english": "Norwegian",
@@ -6484,7 +6343,7 @@
     },
     "ios_POR": {
       "english": "Portuguese",
-      "value": "Kareno"
+      "value": "Kireno"
     },
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
@@ -6643,7 +6502,7 @@
     },
     "ios_wins": {
       "english": "Wins",
-      "value": "Mafanikio"
+      "value": "Ushindi"
     },
     "new_END_NOTIFICATION": {
       "english": "%@ vs %@ finished %@-%@",
@@ -6655,7 +6514,7 @@
     },
     "new_POSTPONED_NOTIFICATION": {
       "english": "%@ vs %@ is postponed",
-      "value": "%@ dhidi ya %@ imearishwa"
+      "value": "%@ dhidi ya %@ umeahirishwa"
     },
     "new_START_NOTIFICATION": {
       "english": "%@ vs %@ has started",
@@ -6699,7 +6558,7 @@
     "new_choose_favorite_team_national": {
       "comment": "Header in screen where user can choose a local team",
       "english": "Local Teams",
-      "value": "Timu za Heko"
+      "value": "Timu za karibu"
     },
     "new_city_guides": {
       "comment": "Videos from the World Cup citys",
@@ -6829,7 +6688,7 @@
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
-      "value": "Mchanga imethibitishwa"
+      "value": "Kikosi kimethibitishwa"
     },
     "new_login_with": {
       "comment": "Header asking the users to log in with Facebook or Google+",
@@ -6863,7 +6722,7 @@
     "new_news_vibrate": {
       "comment": "User can decide if his phone should vibrate when getting a news alert",
       "english": "Vibrate on news alerts",
-      "value": "Mtetemo wa aria mpya"
+      "value": "Tetema kwenye arifa za habari"
     },
     "new_no_favorites_added": {
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
@@ -6943,7 +6802,7 @@
     },
     "new_player_scores": {
       "english": "%@ scores!",
-      "value": "%@ matokeo!"
+      "value": "%@ amefunga!"
     },
     "new_player_sent_off": {
       "comment": "Information message that a player has received a red card",
@@ -6956,7 +6815,7 @@
     },
     "new_quarterfinal": {
       "english": "Quarter-final",
-      "value": "Robo fanaili"
+      "value": "Robo fainali"
     },
     "new_quick_start": {
       "comment": "Short button caption at splash screen.",
@@ -7112,7 +6971,7 @@
     },
     "new_waiting_for_penalties": {
       "english": "Waiting for penalties",
-      "value": "Inasubiri bao la penalti"
+      "value": "Inasubiri mikwaju ya penalti"
     },
     "new_wc_qual": {
       "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
@@ -7230,7 +7089,7 @@
     },
     "notifications_alert_PenaltiesAreHappening": {
       "english": "%@ %@-%@ %@\\nPenalty shootout underway!",
-      "value": "%@ %@-%@ %@\\nMchezo wa penalti yapo!"
+      "value": "%@ %@-%@ %@\\nMikwaju ya penalti inaendelea!"
     },
     "notifications_alert_Postponed": {
       "english": "%@ %@-%@ %@\\nMatch is postponed",
@@ -7293,7 +7152,7 @@
     "notifications_alert_goal_scorer": {
       "comment": "No need to translate this",
       "english": "%@ %@-%@ %@\\n%@%@",
-      "value": "`%@ %@-%@ %@\\n%@%@ `"
+      "value": "%@ %@-%@ %@\\n%@%@"
     },
     "notifications_alert_goal_scorer_owngoal": {
       "english": "%@ %@-%@ %@\\n%@%@ (own goal)",
@@ -7345,7 +7204,7 @@
     },
     "notifications_alert_subst_in": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
-      "value": "%@ %@-%@ %@  \\n%@%@ amepunguzwa"
+      "value": "%@ %@-%@ %@\\n%@%@ ameingia kama mchezaji wa akiba"
     },
     "notifications_alert_subst_out": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed off",
@@ -7353,7 +7212,7 @@
     },
     "notifications_alert_yellow_card": {
       "english": "%@ %@-%@ %@\\n%@%@ got a yellow card",
-      "value": "%@ %@-%@ %@\\n\\n%@%@ alipata kadi njano"
+      "value": "%@ %@-%@ %@\\n%@%@ alipata kadi njano"
     },
     "notifications_alert_yellow_card_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get a yellow card",
@@ -7394,7 +7253,7 @@
     },
     "notifications_attack": {
       "english": "Attack",
-      "value": "Shambulia"
+      "value": "Mashambulizi"
     },
     "notifications_australia": {
       "english": "Australia",
@@ -7516,7 +7375,7 @@
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
       "english": "Clearances",
-      "value": "Vibali"
+      "value": "Uondoaji wa mpira"
     },
     "notifications_compare_stats": {
       "english": "Compare stats",
@@ -7534,7 +7393,7 @@
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
       "english": "Crosses",
-      "value": "Mapando"
+      "value": "Krosi"
     },
     "notifications_customize": {
       "comment": "Button label indicating that the user want to customize the alerts for the transfers",
@@ -7605,7 +7464,7 @@
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
-      "value": "\"Usisumbuliwe\" imewezesha"
+      "value": "- \"Usinisumbue\" imewezeshwa"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
@@ -7672,7 +7531,7 @@
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
-      "value": "Hitilafu ilisababisha upiga"
+      "value": "Hitilafu ilisababisha shuti"
     },
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
@@ -7686,7 +7545,7 @@
     "notifications_error_unable_to_open_search_hit": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible click a search result like league/team/player/article",
       "english": "Unable to open search hit. Please try again later.",
-      "value": "Hatuwezi kufungua matokeo ya tafuta. Tafadhali jaribu tena baadaye,"
+      "value": "Hatuwezi kufungua matokeo ya utafutaji. Tafadhali jaribu tena baadaye."
     },
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
@@ -7732,17 +7591,17 @@
       "value": "Shaka"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "Mapema %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "Kuchelewa %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "Katikati %1$@"
     },
@@ -7822,7 +7681,7 @@
     "notifications_goals_headedGoals": {
       "comment": "Goals scored via head",
       "english": "Goals via header",
-      "value": "Goli kwa Kilele"
+      "value": "Mabao kwa kichwa"
     },
     "notifications_goals_inside_box": {
       "comment": "Goals scored inside the penalty area",
@@ -7889,7 +7748,7 @@
     "notifications_increase_volume_to_hear_notifications": {
       "comment": "Shown when the user has muted the notifications",
       "english": "Please increase the alert volume to hear notification sounds.",
-      "value": "Tafadhali ongea sauti ya tahadhari ili usikie sauti za taarifa."
+      "value": "Tafadhali ongeza sauti ya tahadhari ili usikie sauti za arifa."
     },
     "notifications_increase_volume_to_preview_sound": {
       "comment": "Shown when user has muted the media",
@@ -7975,7 +7834,7 @@
     },
     "notifications_injury_112": {
       "english": "Dislocated elbow",
-      "value": "Kifundo kilichotengwa"
+      "value": "Kiwiko kilichoteguka"
     },
     "notifications_injury_113": {
       "english": "Dislocated kneecap",
@@ -8035,7 +7894,7 @@
     },
     "notifications_injury_126": {
       "english": "Bruised ankle",
-      "value": "kifundo cha mguu uliovunjika"
+      "value": "kifundo cha mguu kilichopigwa"
     },
     "notifications_injury_127": {
       "english": "Tumor",
@@ -8155,7 +8014,7 @@
     },
     "notifications_injury_40": {
       "english": "Sprained toe",
-      "value": "Kiddie cha mguu kilichoteguka"
+      "value": "Kidole cha mguu kilichoteguka"
     },
     "notifications_injury_41": {
       "english": "Sprained foot",
@@ -8167,7 +8026,7 @@
     },
     "notifications_injury_43": {
       "english": "Pulled muscle",
-      "value": "Vunja Msuli"
+      "value": "Msuli kuvutika"
     },
     "notifications_injury_44": {
       "english": "Tooth ache",
@@ -8367,7 +8226,7 @@
     "notifications_last_won": {
       "comment": "When a league was last won",
       "english": "Last won %@",
-      "value": "Hatimaye kushinda %@"
+      "value": "Mara ya mwisho kushinda %@"
     },
     "notifications_latvia": {
       "english": "Latvia",
@@ -8638,7 +8497,7 @@
     },
     "notifications_pass_percentage": {
       "english": "Pass success",
-      "value": "Vipigo Vimefanikiwa"
+      "value": "Mafanikio ya pasi"
     },
     "notifications_pass_percentage_short": {
       "comment": "Short header for pass percentage",
@@ -8666,7 +8525,7 @@
     "notifications_player_assist": {
       "comment": "Messi got an assist.",
       "english": "%@ got an assist",
-      "value": "%@ amepunguzwa"
+      "value": "%@ alipata assist"
     },
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
@@ -8686,7 +8545,7 @@
     "notifications_player_rating_motm": {
       "comment": "An alert message saying \"Messi got a rating of 9.8 and was Player of the Match!\"",
       "english": "%@ got a rating of %@ and was Player of the Match!",
-      "value": "%@ alipata alikadiriwa alama ya %@ na alikuwa Mchezaji Bora wa Mchezo!"
+      "value": "%@ alipata alama ya %@ na alikuwa Mchezaji Bora wa Mechi!"
     },
     "notifications_player_starts_on_the_bench": {
       "comment": "A user can get an alert if the player is on the bench at the start of the match. \"Wayne Rooney is starting as a substitute. Manchester United - Liverpool",
@@ -8787,7 +8646,7 @@
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
-      "value": "Pokea tariff za uhamasho zilizothibitishwa kwa timu zako zote unazopenda"
+      "value": "Pokea arifa za uhamisho zilizothibitishwa kwa timu zako zote unazozipenda"
     },
     "notifications_red_card_v2": {
       "english": "Red card",
@@ -9140,7 +8999,7 @@
     },
     "notifications_total_shots": {
       "english": "Total shots",
-      "value": "Mikabaliano yote"
+      "value": "Jumla ya mashuti"
     },
     "notifications_touches": {
       "comment": "How many times the player touched the ball during the match",
@@ -9258,7 +9117,7 @@
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
-      "value": "Alikosewa"
+      "value": "Alifanyiwa faulo"
     },
     "notifications_watch_match_bet365": {
       "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
@@ -9350,6 +9209,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Tafadhali shiriki maelezo kuhusu tangazo, kama vile mtangazaji, kwenye skrini gani, video au picha, na kile ulichokiona kuwa tatizo."
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Tangaza nasi"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9580,7 +9444,7 @@
       "value": "Panga skrini yako ya nyumbani na alama mbadala za app"
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "xG dhidi ukiwa uwanjani"
     },
@@ -9660,7 +9524,7 @@
     "seo_first_leg": {
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "1st leg",
-      "value": "Sehemu ya Kwanza"
+      "value": "Mchuano wa Kwanza"
     },
     "seo_fixture_difficulty": {
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
@@ -9762,6 +9626,21 @@
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Rekodi ya sasa kati ya timu ni %1$@ ushindi %2$@, %3$@ ushindi %4$@, na %5$@ sare."
     },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Heatmap"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Angalia wachezaji wanavyofanya athari kwenye uwanja. Gusa mchezaji kutoka skrini ya kikosi ili uangalie."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Heatmap zipo"
+    },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
       "english": "Help",
@@ -9802,13 +9681,138 @@
       "english": "I need help",
       "value": "Nahitaji msaada"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Nakili kiungo"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Nakili kiungo na ukibandike kwenye Safari au Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Gusa nukta tatu (•••) chini kulia, kisha \"Fungua kwenye kivinjari\""
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Gusa vitone vitatu (•••) juu kulia, kisha chagua \"Fungua kwenye kivinjari\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Gusa menyu (≡), kisha uchague \"Fungua kwenye kivinjari kingine\""
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Gusa aikoni ya kushiriki iliyo chini, kisha chagua kivinjari chako"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Gusa vitone vitatu (•••), kisha \"Fungua kwenye kivinjari\""
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Gusa vitone vitatu (•••) juu kulia, kisha \"Fungua kwenye kivinjari cha nje\""
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Gusa nukta tatu (•••), kisha chagua \"Fungua kwenye kivinjari\""
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Gusa nukta tatu (•••), kisha \"Fungua kwenye kivinjari\""
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Gusa aikoni ya kushiriki, kisha chagua \"Fungua kwenye Safari\" au \"Nakili Kiungo\""
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Gusa vitone vitatu (•••), kisha “Fungua kwenye…” na uchague Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Nakili kiungo na ukibandike kwenye Safari au Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Gusa aikoni ya kushiriki, kisha \"Fungua kwenye Safari\""
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Tafuta menyu (••• au ikoni ya kushiriki) na uchague 'Fungua kwenye kivinjari'"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Gusa vitone vitatu (•••), kisha \"Fungua kwenye Safari\""
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Rudi"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Fungua kwenye kivinjari"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Fungua kwenye kivinjari chako ili uingie"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Fungua kwenye Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Fungua kwenye Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Au kwa njia ya mikono:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "Kuingia hakufanyi kazi kwa uhakika kwenye kivinjari cha %1$s. Tafadhali fungua ukurasa huu kwenye Safari au Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Jaribu kuingia hapa hata hivyo (huenda isifanye kazi)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Kuingia hakutafanya kazi katika kivinjari hiki cha ndani ya programu"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "Kuingia huenda kusifanye kazi kwenye kivinjari cha %1$s. Kwa matumizi bora, rudi nyuma na ufungue ukurasa huu kwenye kivinjari chako."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Tafadhali fungua ukurasa huu kwenye kivinjari cha kifaa chako (Safari au Chrome) ili uendelee."
     },
@@ -9886,6 +9890,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Kikosi kimehifadhiwa"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Hakuna"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10065,7 +10074,7 @@
     "seo_penalty_shootout_v2": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
       "english": "penalty shootout",
-      "value": "Kupigwa nje kwa penalti"
+      "value": "Mikwaju ya penalti"
     },
     "seo_physical_metrics": {
       "comment": "A header representing the phyical metrics section of a match",
@@ -10481,7 +10490,7 @@
     "seo_site_description_league_overview": {
       "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
       "english": "%1$@ table %2$@, results, fixtures, top scorers and more",
-      "value": "Jedwali la %1$@ %2$@, matokeo, ratiba, mabingwa na zaidi"
+      "value": "Jedwali la %1$@ %2$@, matokeo, ratiba, wafungaji bora na zaidi"
     },
     "seo_site_description_league_playoff": {
       "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
@@ -10496,7 +10505,7 @@
     "seo_site_description_league_table": {
       "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
       "english": "%1$@ table %2$@, standings, form guide, and more.",
-      "value": "Jedwali la %1$@ %2$@, makosa, mwongozo wa fomu, na zaidi."
+      "value": "Jedwali la %1$@ %2$@, msimamo, mwongozo wa fomu, na zaidi."
     },
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
@@ -10526,7 +10535,7 @@
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
       "english": "%1$@ %2$@ stats including top scorers, assists, player ratings, and more",
-      "value": "%1$@ %2$@ takwimu zikiwemo wapiganaji bora, misaada, viwango vya wachezaji, na zaidi"
+      "value": "%1$@ %2$@ takwimu zikiwemo wafungaji bora, asisti, viwango vya wachezaji, na zaidi"
     },
     "seo_site_description_stats_team": {
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
@@ -10556,7 +10565,7 @@
     "seo_site_description_team_squad": {
       "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "Current %1$@ squad",
-      "value": "Kikosi cha sasa ya %1$@"
+      "value": "Kikosi cha sasa cha %1$@"
     },
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
@@ -10571,7 +10580,7 @@
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
       "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "Mbadala ya hivi karibuni ya %1$@ ndani, nje na upanuzi wa mikataba"
+      "value": "Uhamisho wa hivi karibuni wa %1$@ wa wanaoingia, wanaoondoka na nyongeza za mikataba"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10650,7 +10659,7 @@
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "%1$@ %2$@ timu zilizopewa juu, malengo kwa mechi, mikondo kwenye shaba na takwimu nyingine"
+      "value": "%1$@ %2$@ timu zilizo na ukadiriaji wa juu, mabao kwa mechi, mashuti yaliyolenga lango na takwimu nyingine"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
@@ -10765,7 +10774,7 @@
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
       "english": "Source",
-      "value": "Sure, please provide the source text you'd like translated into Swahili."
+      "value": "Chanzo"
     },
     "seo_sprints_per_90": {
       "comment": "A label indicating how many sprints a player has taken per 90 minutes.",
@@ -10791,6 +10800,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "Tuma"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10984,6 +10998,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Toka"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Taarifa ya Sheria ya Uwazi"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",

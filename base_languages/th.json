@@ -133,7 +133,7 @@
     "accessibility_attacking_threat": {
       "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
       "english": "Momentum",
-      "value": "รุกคุกคาม"
+      "value": "โมเมนตัม"
     },
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
@@ -218,7 +218,7 @@
     },
     "accessibility_createleaguepopup_enter_name": {
       "english": "Enter a league name",
-      "value": "เพิ่มชื่อลีก"
+      "value": "กรอกชื่อลีก"
     },
     "accessibility_createleaguepopup_type_the_name": {
       "english": "Type the name of the league below",
@@ -286,7 +286,7 @@
     "accessibility_detailed_goal_data": {
       "comment": "Used for expandable button on goal types in player profile.",
       "english": "Shot details",
-      "value": "รายละเอียดสั้น ๆ"
+      "value": "รายละเอียดการยิง"
     },
     "accessibility_detailspage_group_stage": {
       "comment": "Heading over readonly view of the users preditions on the group stage",
@@ -335,7 +335,7 @@
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
       "english": "Events",
-      "value": "กิจกรรม"
+      "value": "เหตุการณ์"
     },
     "accessibility_expand": {
       "comment": "To expand a league",
@@ -355,7 +355,7 @@
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
       "english": "xGOT faced per 90",
-      "value": "xGOT ต่อ 90"
+      "value": "xGOT ที่เจอต่อ 90"
     },
     "accessibility_facts": {
       "comment": "The main tab for the match facts. Needs to be kept short.",
@@ -405,7 +405,7 @@
     "accessibility_follow_in_the_app_description": {
       "comment": "Describes the app so the user will want to download it.",
       "english": "Access your predictions, points and leagues straight from your Android/iOS FotMob app.",
-      "value": "เข้าถึงการคาดการณ์ คะแนน และลีก ได้โดยตรงจากแอป FotMob Andriod/iOS"
+      "value": "เข้าถึงการคาดการณ์ คะแนน และลีกของคุณได้โดยตรงจากแอป FotMob บน Android/iOS"
     },
     "accessibility_follow_leagues": {
       "comment": "Header in the onboarding where you can choose your favorite leagues",
@@ -445,7 +445,7 @@
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
       "english": "Fouls won",
-      "value": "ได้รับโทษที่ตีได้"
+      "value": "ฟาวล์ที่ได้รับ"
     },
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
@@ -480,7 +480,7 @@
     "accessibility_goal_type": {
       "comment": "Used for goal types in player profile",
       "english": "Goal type",
-      "value": "ชนิดประตู"
+      "value": "ประเภทประตู"
     },
     "accessibility_goalkeeping": {
       "comment": "This is a header for goalkeeper stats like saves, goals conceded and more. May be translated as \"Keeper stats\" or \"Goalkeeper stats\" if there isn't a good translation for this.",
@@ -580,7 +580,7 @@
     "accessibility_info_points_give": {
       "comment": "button to open information about how points are given in a tournament",
       "english": "show information about how points are given",
-      "value": "แสดงข้อมูลเกี่ยวกับารให้คะแนน"
+      "value": "แสดงข้อมูลเกี่ยวกับการให้คะแนน"
     },
     "accessibility_insights": {
       "comment": "Used as a header for a section which displays insights about each of the teams before a match.",
@@ -625,7 +625,7 @@
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
       "english": "Have kept the most clean sheets in the competition (%1$@)",
-      "value": "เสียประตูน้อยที่สุดในการแข่งขัน (%1$@)"
+      "value": "เก็บคลีนชีตได้มากที่สุดในรายการแข่งขัน (%1$@)"
     },
     "accessibility_insights_goalless_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 4 away matches",
@@ -645,12 +645,12 @@
     "accessibility_insights_goals_conceded_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [2nd] in goals conceded per match ([0.7] goals)",
       "english": "Ranked %1$@ in goals conceded per match (%2$@ goals)",
-      "value": "ติดอันดับ %1$@ ในคะแนนจากเสียประตูต่อแมตช์ (%2$@ ประตู)"
+      "value": "ติดอันดับ %1$@ ในการเสียประตูต่อแมตช์ (%2$@ ประตู)"
     },
     "accessibility_insights_goals_scored_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [1st] in goals scored per match ([2.1] goals)",
       "english": "Ranked %1$@ in goals scored per match (%2$@ goals)",
-      "value": "ติดอันดับ %1$@ ในคะแนนจากการทำประตูต่อแมตช์ (%2$@ ประตู)"
+      "value": "ติดอันดับ %1$@ ในการทำประตูต่อแมตช์ (%2$@ ประตู)"
     },
     "accessibility_insights_goals_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
@@ -720,7 +720,7 @@
     "accessibility_insights_player_goals_scored": {
       "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
       "english": "%1$@ is the competition's top scorer (%2$@)",
-      "value": "%1$@ คือผู้ทำคะแนนมากสุดในการแข่งขัน (%2$@)"
+      "value": "%1$@ คือดาวซัลโวของการแข่งขัน (%2$@)"
     },
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
@@ -735,12 +735,12 @@
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has the most %2$@ for %3$@ (%4$@)",
-      "value": "%1$@ ได้%2$@ให้ %3$@ มากที่สุด (%4$@)"
+      "value": "%1$@ มี%2$@มากที่สุดใน%3$@ (%4$@)"
     },
     "accessibility_insights_player_rank_in_competition": {
       "comment": "A player is ranked some number in a stat this season. Example: \"[Lionel Messi] is ranked [2nd] in [goals] in the competition (21)\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ is ranked %2$@ in %3$@ in the competition (%4$@)",
-      "value": "%1$@ ได้%3$@อันดับ %2$@ ในการแข่งขัน (%4$@)"
+      "value": "%1$@ อยู่ในอันดับ %2$@ ของ %3$@ ในการแข่งขัน (%4$@)"
     },
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
@@ -755,12 +755,12 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@ ทำ %2$@ คะแนนจาก %4$@ แมตช์หลังสุดของ %3$@"
+      "value": "%1$@ ทำประตูได้ใน %2$@ จาก %4$@ นัดหลังสุดของ %3$@"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
       "english": "Ranked %1$@ in %2$@ in the competition (%3$@)",
-      "value": "ได้%2$@อันดับ %1$@ ในการแข่งขัน (%3$@)"
+      "value": "ได้อันดับ %1$@ ใน%2$@ ในการแข่งขัน (%3$@)"
     },
     "accessibility_insights_shots_on_target_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
@@ -770,7 +770,7 @@
     "accessibility_insights_team_ranking": {
       "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
       "english": "Are ranked %1$@ in %2$@ (%3$@)",
-      "value": "ได้%2$@อันดับ %1$@ (%3$@)"
+      "value": "ได้อันดับ %1$@ ใน %2$@ (%3$@)"
     },
     "accessibility_insights_unbeaten_at_home": {
       "comment": "The team has not lost in a particular number of consecutive home matches. Example: \"Are unbeaten in 15 home games\"",
@@ -943,7 +943,7 @@
     "accessibility_live_activity_visit_team_page": {
       "comment": "Hint indicating the user has to go to the team page to turn on Live Activities for all the team's matches",
       "english": "Turn on for all matches via the bell on the team page",
-      "value": "เปิดกับทุกแมตช์ทางกระดิ่งในหน้าทีม"
+      "value": "เปิดใช้งานสำหรับทุกแมตช์ได้ผ่านไอคอนกระดิ่งบนหน้าทีม"
     },
     "accessibility_live_activity_will_be_added": {
       "comment": "Used in toast when activating a live activity ahead of time.",
@@ -1083,7 +1083,7 @@
     "accessibility_misc_winner_of_group": {
       "comment": "Indicating the winner of a group. Eg \"Winner Group B\"",
       "english": "Winner Group %1$@",
-      "value": "กลุ่มผู้ชนะ %1$@"
+      "value": "ผู้ชนะกลุ่ม %1$@"
     },
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
@@ -1122,16 +1122,16 @@
     },
     "accessibility_myleaguespage_desc2": {
       "english": "You will automatically be added to the Global League once the World Cup kicks off, where you can see your standing versus all players in the competition.",
-      "value": "คุณจะถูกเพิ่มเข้าไปในลีกระดับโลกโดยอัตโนมัติเมื่อเวิร์ลคัพเริ่มต้นขึ้น ซึ่งคุณจะเห็นว่าคุณนั้นต้องปะทะกับผู้เล่นในการแข่งขัน"
+      "value": "คุณจะถูกเพิ่มเข้าไปในลีกระดับโลกโดยอัตโนมัติเมื่อเวิลด์คัพเริ่มต้นขึ้น ซึ่งคุณสามารถดูอันดับของคุณเมื่อเทียบกับผู้เล่นทั้งหมดในรายการแข่งขันได้"
     },
     "accessibility_myleaguespage_desc2_v2": {
       "english": "You will automatically be added to the Global League once the tournament kicks off, where you can see your standing versus all players in the competition.",
-      "value": "คุณจะถูกเพิ่มเข้าไปในลีกระดับโลกโดยอัตโนมัติเมื่อทัวร์นาเมนต์เริ่มต้นขึ้น ซึ่งคุณจะเห็นว่าคุณนั้นต้องปะทะกับผู้เล่นในการแข่งขัน"
+      "value": "คุณจะถูกเพิ่มเข้าไปในลีกระดับโลกโดยอัตโนมัติเมื่อทัวร์นาเมนต์เริ่มต้นขึ้น โดยคุณสามารถดูอันดับของคุณเทียบกับผู้เล่นทั้งหมดในการแข่งขันได้"
     },
     "accessibility_myleaguespage_desc2_v3": {
       "comment": "User gets the option to invite friends to a league by sharing the unique league ID-code or invite link.",
       "english": "You can invite friends to a league by sharing the unique league ID-code or invite link.",
-      "value": "คุณสามารถเชิญเพื่อนเข้าสู่ลีกด้วยการแบ่งปันรหัส ID ลีกที่ไม่ซ้ำใครหรือลืงค์เชิญ"
+      "value": "คุณสามารถเชิญเพื่อนเข้าร่วมลีกได้โดยการแชร์รหัส ID ของลีกที่ไม่ซ้ำกันหรือลิงก์เชิญ"
     },
     "accessibility_myleaguespage_desc2_v4": {
       "comment": "explanation on private leagues and how people can join them",
@@ -1281,7 +1281,7 @@
     "accessibility_on_target": {
       "comment": "Shorthand for shots on target.",
       "english": "On target",
-      "value": "เล็งเป้า"
+      "value": "เข้ากรอบ"
     },
     "accessibility_on_tv": {
       "comment": "Text on button that shows matches that are shown on TV.",
@@ -1316,7 +1316,7 @@
     "accessibility_onboarding_leagues": {
       "comment": "An explanation during onboarding that when you click a button to follow a league, it will appear at the top of the live matches list showing the football matches",
       "english": "Leagues you follow appear at the top of your match list.",
-      "value": "ลีกที่คุณติดตามจะปรากฏที่ด้านบนสุดของรางชื่อแมตช์"
+      "value": "ลีกที่คุณติดตามจะแสดงอยู่ด้านบนสุดของรายการแมตช์ของคุณ"
     },
     "accessibility_onboarding_leagues_search_placeholder": {
       "comment": "Placeholder text for search field in leagues onboarding screen.",
@@ -1331,7 +1331,7 @@
     "accessibility_onboarding_newplayerprofile_header": {
       "comment": "Keep this short. Feel free to translate it as \"New player profiles\".",
       "english": "Brand new player profiles",
-      "value": "โปรไฟล์โปรไฟล์ผู้เล่นใหม่ล่าสุด"
+      "value": "โปรไฟล์ผู้เล่นใหม่ล่าสุด"
     },
     "accessibility_onboarding_newplayerprofile_section1": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1458,7 +1458,7 @@
     "accessibility_penalty_conversion_rate": {
       "comment": "Label used in stats for penalty conversion rate (penalty goals/total penalties)",
       "english": "Conversion rate",
-      "value": "อัตราการแปลงผัน"
+      "value": "อัตราการเปลี่ยนเป็นประตู"
     },
     "accessibility_penalty_goals_conceded": {
       "comment": "Label used in stats for penalty goals conceded",
@@ -1513,12 +1513,12 @@
     "accessibility_playing_today_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
       "english": "%@ other competitions play today",
-      "value": "วันนี้มีการแข่งขันอื่น ๆ %@ นัด"
+      "value": "วันนี้มีการแข่งขันอื่น ๆ %@ รายการ"
     },
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
       "english": "%1$@ and %2$@ other competitions play today",
-      "value": "วันนี้มีการแข่งขัน %1$@ และอื่น ๆ อีก %2$@ นัด"
+      "value": "วันนี้มีการแข่งขัน %1$@ และการแข่งขันอื่น ๆ อีก %2$@ รายการ"
     },
     "accessibility_playing_today_single": {
       "comment": "Placeholder is a league. So like \"Premier League is playing\"",
@@ -1582,7 +1582,7 @@
     "accessibility_post": {
       "comment": "A shot result description (hit the post)",
       "english": "Post",
-      "value": "ชนเสา"
+      "value": "เสา"
     },
     "accessibility_predictor_make_predictions": {
       "comment": "Button indicating you can enter our competition where you predict who will win the tournament",
@@ -1690,7 +1690,7 @@
     "accessibility_season_so_far": {
       "comment": "Header of a section describing stats for how a season has gone so far (number of goals, wins, etc)",
       "english": "Season so far",
-      "value": "ฤดูดาลจนถึงขณะนี้"
+      "value": "ฤดูกาลจนถึงขณะนี้"
     },
     "accessibility_season_stats": {
       "comment": "Used as a title of a button where the user can toggle to show seasonal stats for a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -1782,7 +1782,7 @@
     "accessibility_shot_attempts": {
       "comment": "A stat name indicating the number of shot attempts made by a player.",
       "english": "Shot attempts",
-      "value": "ความพยายามในการเตะ"
+      "value": "ความพยายามในการยิงประตู"
     },
     "accessibility_shot_blocked": {
       "comment": "A shot was blocked by a defender. An attacker shot the ball at goal but a defender blocked it.",
@@ -1807,7 +1807,7 @@
     "accessibility_shot_type": {
       "comment": "A label for the shot description under the shotmap (in shotmap details, left/right foot, head, etc.)",
       "english": "Shot type",
-      "value": "ประเภทการเตะ"
+      "value": "ประเภทการยิง"
     },
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
@@ -1932,7 +1932,7 @@
     "accessibility_stats_comparison_fullbacks": {
       "comment": "A description highlighting that a player's stat is benchmarked against other fullbacks. Fullback is a term for players taking on any variation of left or right back roles.",
       "english": "Stats compared to other fullbacks",
-      "value": "สถิติเทียบกับกองหลังทีมอื่นๆ"
+      "value": "สถิติเทียบกับฟูลแบ็กคนอื่นๆ"
     },
     "accessibility_stats_comparison_keepers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other keepers.",
@@ -1972,7 +1972,7 @@
     "accessibility_stepsheader_step2_hinttext_v3": {
       "comment": "Explanation of what to do.",
       "english": "Select Lucky Losers you think will advance to the Round of 16.",
-      "value": "เลือกผู้ที่น่าจะแพ้ที่คุณคิดว่าจะผ่านเข้ารอบ 16 ทีม"
+      "value": "เลือก “Lucky Losers” ที่คุณคิดว่าจะผ่านเข้ารอบ 16 ทีมสุดท้าย"
     },
     "accessibility_stepsheader_step2_hinttext_v4": {
       "comment": "Explanation of what to do.",
@@ -2047,7 +2047,7 @@
     "accessibility_stepsheader_step7_title": {
       "comment": "Title of page telling the user his/her perdition is ready",
       "english": "All set!",
-      "value": "เลือกสำเร็จ!"
+      "value": "เรียบร้อยแล้ว!"
     },
     "accessibility_stepsheader_submit": {
       "english": "Submit",
@@ -2120,7 +2120,7 @@
     "accessibility_table_position": {
       "comment": "The league/table position of a team (like 1st, 22nd, etc).",
       "english": "Table position",
-      "value": "ตำแหน่งบนโต๊ะ"
+      "value": "อันดับในตารางคะแนน"
     },
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
@@ -2393,7 +2393,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "ฟาวล์ต่อ 90"
+      "value": "ถูกทำฟาวล์ต่อ 90 นาที"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -2428,7 +2428,7 @@
     "accessibility_xG_onboarding_description": {
       "comment": "A short description of the xG system and how it works.",
       "english": "Expected goals is a measurement of the quality of a shot.\\n\\nA team’s xG number for a match is an indication of how many goals they could have been expected to score, given the chances they created.",
-      "value": "ประตูที่คาดการณ์คือการวัดคุณภาพของจำนวนประตูที่ยิงได้\\n\\nเลข xG ของทีมในแมตช์คือสิ่งที่คาดการณ์ว่าทีมนั้น ๆ จะทำประตูได้เท่าไรตามโอกาสทำประตูที่เกิดขึ้น"
+      "value": "ประตูที่คาดหวัง (xG) คือการวัดคุณภาพของการยิงประตู\\n\\nค่า xG ของทีมในหนึ่งแมตช์บ่งชี้ว่าทีมนั้น ๆ ควรจะทำประตูได้กี่ประตู โดยพิจารณาจากโอกาสที่พวกเขาสร้างขึ้น"
     },
     "accessibility_xG_onboarding_header": {
       "comment": "A header for xG-onboarding",
@@ -2527,7 +2527,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "<b>เพิ่มข่าว</b>\\nทีมโปรด"
+      "value": "<b>รับข่าวสาร</b>\\nสำหรับทีมโปรดของคุณ"
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2648,7 +2648,7 @@
     "common_allow_tracking_body": {
       "comment": "The description for the popup asking for user's permission to track data",
       "english": "This lets us show you personalized ads, which keeps FotMob free for you.",
-      "value": "มันจะช่วยให้เราแสดงโฆษณาที่เหมาะกับคุณ ซี่งช่วยให้ FotMob ใช้ได้ฟรีต่อไปด้วย"
+      "value": "มันจะช่วยให้เราแสดงโฆษณาที่เหมาะกับคุณ ซึ่งช่วยให้ FotMob ใช้ได้ฟรีต่อไปด้วย"
     },
     "common_allow_tracking_confirmation_body": {
       "comment": "Extra description in the system-dialogue for usage-tracking",
@@ -2794,7 +2794,7 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "ทวิตเตอร์ใช้ไม่ได้"
+      "value": "ไม่มี Buzz ให้ใช้งาน"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
@@ -2871,12 +2871,12 @@
     "common_champion": {
       "comment": "Label below the cup's winner",
       "english": "champion",
-      "value": "แชมเปียนส์"
+      "value": "แชมป์"
     },
     "common_championship_playoff": {
       "comment": "Label indicating that the teams get a place in the playoffs. Like in MLS the top 6 teams gets into the championsship playoff.",
       "english": "Championship playoff",
-      "value": "ชิงชนะเลิศ"
+      "value": "เพลย์ออฟชิงแชมป์"
     },
     "common_championsleague": {
       "english": "Champions League",
@@ -3110,12 +3110,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>ข้อมูลทั้งหมดถูกคำนวณโดยอ้างอิงจากสถิติของ Opta</p><p>การจัดอันดับนักเตะของ FotMob ถูกคำนวณโดยอ้างอิงจากสถิติที่ต่างกันมากกว่า 100 รายการต่อนักเตะต่อแมตช์</p><p>แมตช์ในการจัดอันดับนี้คือทุกแมตช์ที่นักเตะได้ลงแข่ง แม้จะเป็นเพียงตัวสำรองที่ลงเล่นในช่วงไม่กี่นาทีสุดท้ายก็ตาม</p><p>นักเตะจะต้องลงเล่นอย่างน้อย 50% ของแมตช์ทั้งหมด จึงจะได้รับการจัดอันดับ</p>"
+      "value": "<p>ข้อมูลทั้งหมดถูกคำนวณโดยอ้างอิงจากสถิติของ Opta</p><p>การจัดอันดับนักเตะของ FotMob ถูกคำนวณโดยอ้างอิงจากสถิติที่ต่างกันมากกว่า 100 รายการต่อนักเตะต่อแมตช์</p><p>แมตช์ในการจัดอันดับนี้คือทุกแมตช์ที่นักเตะได้ลงแข่ง แม้จะเป็นเพียงตัวสำรองที่ลงเล่นในช่วงไม่กี่นาทีสุดท้ายก็ตาม</p><p>นักเตะต้องลงเล่นอย่างน้อย 50% ของแมตช์ทั้งหมด และลงเล่นอย่างน้อย 90 นาที (สำหรับสถิติต่อ 90 นาที) จึงจะถูกรวมอยู่ในการจัดอันดับ</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>ข้อมูลทั้งหมดถูกคำนวณโดยอ้างอิงจากสถิติของ Opta</p><p>การจัดอันดับนักเตะของ FotMob ถูกคำนวณโดยอ้างอิงจากสถิติที่ต่างกันมากกว่า 100 รายการต่อนักเตะต่อแมตช์</p><p>แมตช์ในการจัดอันดับนี้คือทุกแมตช์ที่นักเตะได้ลงแข่ง แม้จะเป็นเพียงตัวสำรองที่ลงเล่นในช่วงไม่กี่นาทีสุดท้ายก็ตาม</p><p>นักเตะจะต้องลงเล่นอย่างน้อย 50%% ของแมตช์ทั้งหมด จึงจะได้รับการจัดอันดับ</p>"
+      "value": "<p>ข้อมูลทั้งหมดถูกคำนวณโดยอ้างอิงจากสถิติของ Opta</p><p>การจัดอันดับนักเตะของ FotMob ถูกคำนวณโดยอ้างอิงจากสถิติที่ต่างกันมากกว่า 100 รายการต่อนักเตะต่อแมตช์</p><p>แมตช์ในการจัดอันดับนี้คือทุกแมตช์ที่นักเตะได้ลงแข่ง แม้จะเป็นเพียงตัวสำรองที่ลงเล่นในช่วงไม่กี่นาทีสุดท้ายก็ตาม</p><p>นักเตะจะต้องลงเล่นอย่างน้อย 50%% ของแมตช์ทั้งหมด และอย่างน้อย 90 นาที (สำหรับสถิติต่อ 90 นาที) จึงจะถูกรวมอยู่ในการจัดอันดับ</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3161,7 +3161,7 @@
     },
     "common_disclaimer_bet365": {
       "english": "Odds promotions are 18+.\\nRead more on BeGambleAware.org.",
-      "value": "โปรโมชันเพิ่มโอกาสเป็น 18+\\nอ่านเพิ่มเติมที่ BeGambleAware.org"
+      "value": "โปรโมชันอัตราต่อรองสำหรับผู้ที่มีอายุ 18 ปีขึ้นไป\\nอ่านเพิ่มเติมที่ BeGambleAware.org."
     },
     "common_double_chance": {
       "comment": "Odds type that indicates that you can bet on two outcomes. So you can bet one home and draw in one bet. https://www.online-betting.me.uk/betting-glossary/double-chance.php",
@@ -3263,7 +3263,7 @@
     "common_empty_placeholder_no_matches": {
       "comment": "Empty placeholder for live matches, if there're no matches matching filtered by user leagues",
       "english": "No matches scheduled",
-      "value": "ไม่มีรายการแมตช์ที่แข่งอยู่"
+      "value": "ไม่มีแมตช์ที่กำหนดไว้"
     },
     "common_empty_placeholder_no_my_matches": {
       "comment": "Empty placeholder for live matches, if there're no my matches (favorited, alerted, etc.)",
@@ -3351,20 +3351,25 @@
       "english": "Errors led to goal",
       "value": "ความผิดพลาดที่ส่งผลให้เสียประตู"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "มูลค่าการย้ายทีมโดยประมาณ (ETV) คือการคาดการณ์ที่ดีที่สุดของเราว่าผู้เล่นจะมีมูลค่าเท่าไรหากถูกขายในตอนนี้\\n\\nคำนวณจากข้อมูลการย้ายทีมจริงและพิจารณา:\\n\\n• ผลงานของผู้เล่น\\n• อายุและศักยภาพในอนาคต\\n• ความถี่และระดับที่เล่นในตำแหน่งของตน\\n• ความแข็งแกร่งของทีมและลีก\\n• ระยะเวลาที่เหลือของสัญญา\\n• การพัฒนาเมื่อเร็วๆ นี้และปัจจัยที่คล้ายกัน\\n\\nเรามุ่งเน้นที่ตัวผู้เล่นเอง ไม่ใช่ข่าวลือหรือสโมสรที่อาจซื้อเขา\\n\\nมูลค่าจะถูกอัปเดตเป็นประจำเพื่อสะท้อนการเปลี่ยนแปลงในตลาดการย้ายทีมตามเวลา"
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "มูลค่าประเมินของผู้เล่น"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
-      "value": "มูลค่าการย้ายทีมที่ประเมิน"
+      "value": "มูลค่าการย้ายทีมโดยประมาณ"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "มูลค่าที่เป็นไปได้หากขายตอนนี้"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "มูลค่าการย้ายทีมโดยประมาณ (ETV) คือการคาดการณ์ที่ดีที่สุดของเราว่าผู้เล่นจะมีมูลค่าเท่าไรหากถูกขายในตอนนี้\\n\\nคำนวณจากข้อมูลการย้ายทีมในอดีตและพิจารณาปัจจัยต่างๆ ด้านผลงานและบริบท รวมถึง:\\n\\n• ผลงานและการพัฒนาของผู้เล่น\\n• อายุและศักยภาพในอนาคต\\n• ความถี่และระดับที่เล่น\\n• ตำแหน่ง\\n• ความแข็งแกร่งของทีมและลีก\\n• ระยะเวลาที่เหลือของสัญญา\\n\\nETV มุ่งเน้นที่ตัวผู้เล่นเอง ไม่ใช่ข่าวลือหรือสโมสรที่อาจซื้อเขา\\n\\nมูลค่าจะถูกอัปเดตเป็นประจำเพื่อสะท้อนการเปลี่ยนแปลงตามเวลา"
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "มูลค่าประเมิน"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3455,7 +3460,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "ประตูที่หวังไว้ (xGOT)"
+      "value": "ค่า xG ที่ตรงกรอบ (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3659,162 +3664,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ ทำฟาล์ว ทำให้ %2$@ ได้จุดโทษ"
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ เป็นนักเตะที่ทำผิดกฎมากที่สุดในแมตช์ (%2$@ ครั้ง)"
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ เป็นนักเตะที่ทำผิดกฎมากที่สุดในแมตช์ (%2$@ ครั้ง)"
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ แพ้ดวลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ แพ้ดวลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ เสียบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ เสียบอลมากที่สุดในแมตช์ (%2$@)"
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ สัมผัสบอลน้อยที่สุด (%2$@) ในนักเตะนอกสนามที่เล่น 90 นาที"
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ สัมผัสบอลน้อยที่สุด (%2$@) ในนักเตะนอกสนาม"
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ ทำพลาดทำให้ %2$@ ได้ประตู"
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ ทำพลาดทำให้ %2$@ ได้ประตู",
-        "other": "%1$@ ทำพลาด %3$d ครั้งทำให้ %2$@ ได้ประตู"
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ เลี้ยงบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ เลี้ยงบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ มีโอกาสที่สร้างมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ สร้างโอกาสมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ จ่ายบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ จ่ายบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ เข้าแย่งบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ เข้าแย่งบอลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ เป็นแมนออฟเดอะแมตช์ด้วยคะแนน %2$@"
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ เป็นแมนออฟเดอะแมตช์ด้วยคะแนน %2$@"
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ สัมผัสบอลมากที่สุด (%2$@) ในกล่องของฝ่ายตรงข้าม"
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ สัมผัสบอลมากที่สุด (%2$@) ในกล่องของฝ่ายตรงข้าม"
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ เป็นผู้จ่ายบอลที่แม่นยำที่สุด (%2$@) ที่เล่นเกิน 45 นาที"
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ เป็นผู้จ่ายบอลที่แม่นยำที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ ทำคะแนนจากประตูของตัวเอง"
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ ชนะดวลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ ชนะดวลมากที่สุด (%2$@) ในแมตช์"
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ เตะชนคาน %2$@ ครั้งจากทั้งหมด %3$@ ครั้ง"
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ เตะชนคาน %2$@ ครั้งจากทั้งหมด %3$@ ครั้ง"
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "ทั่วไป"
@@ -3875,7 +3724,7 @@
     "common_goals_from_bench": {
       "comment": "It is goals a player has scored when he began the match as a substitute",
       "english": "Goals from bench",
-      "value": "ประตูจากม้านั่ง"
+      "value": "ประตูในฐานะตัวสำรอง"
     },
     "common_goals_pen": {
       "english": "Goals (Penalties)",
@@ -3928,6 +3777,7 @@
       "value": "ผู้สนับสนุนระดับโกลด์"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "กฎประตูทอง"
     },
@@ -4003,7 +3853,12 @@
     "common_hide_news": {
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
-      "value": "ช่อนข่าว %@"
+      "value": "ซ่อนข่าว %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "สูงสุด"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4064,7 +3919,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "เข้าร่วม FotMob Supporters Club เพื่อลบโฆษณาที่เราควบคุมเพื่อให้ FotMob เร็วขึ้นและปราศจากสิ่งรบกวน การสนับสนุนของคุณช่วยเราทำให้ FotMob ดียิ่งขึ้นต่อไป ขอบคุณสำหรับการสนับสนุน!"
+      "value": "เข้าร่วม FotMob Supporters Club เพื่อลบโฆษณาที่เราควบคุมได้ เพื่อให้ FotMob เร็วขึ้นและปราศจากสิ่งรบกวน การสนับสนุนของคุณช่วยให้เราพัฒนา FotMob ให้ดียิ่งขึ้นต่อไป โปรดทราบว่า หากคุณคลิกบทความข่าวจากบุคคลที่สาม เราไม่สามารถควบคุมโฆษณาที่พวกเขาแสดงบนเว็บไซต์ของตนได้ ขอบคุณสำหรับการสนับสนุน!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4202,7 +4057,7 @@
     "common_last_home_matches": {
       "comment": "Header for form table for home matches of the team",
       "english": "Last home matches",
-      "value": "5 แมตช์เจ้าถิ่นล่าสุด"
+      "value": "แมตช์เหย้าล่าสุด"
     },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
@@ -4262,7 +4117,7 @@
     },
     "common_league_has_notifications": {
       "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "มีลีกหนึ่งถูกเปิดใช้งานการแจ้งเตือน คุณต้องปิดการแจ้งเตือนผ่านทางตัวกรองเมนูในหน้าถ่ายทอดสด"
+      "value": "ลีกนี้ได้เปิดใช้งานการแจ้งเตือนแล้ว คุณต้องปิดการแจ้งเตือนผ่านเมนูตัวกรองในแท็บการแข่งขัน"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4567,7 +4422,7 @@
     },
     "common_never": {
       "english": "Never",
-      "value": "ไม่ต้อง"
+      "value": "ไม่เคย"
     },
     "common_never_miss_a_headline": {
       "comment": "Title in onboarding for team news alert",
@@ -4678,7 +4533,7 @@
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
-      "value": "คุณไม่ได้"
+      "value": "คุณยังไม่ได้เปิดใช้งานการแจ้งเตือนสำหรับ FotMob โปรดไปที่การตั้งค่าเพื่อเปิดใช้งานเพื่อรับการแจ้งเตือน"
     },
     "common_not_favorites": {
       "english": "Not favorites",
@@ -4777,7 +4632,7 @@
     "common_on_loan_transfers": {
       "comment": "Transfer status: player moved on loan",
       "english": "On loan",
-      "value": "กำลังกู้"
+      "value": "ยืมตัว"
     },
     "common_onboarding_fantasy_scores": {
       "english": "Tap this to see official fantasy points! (Only available in certain leagues)",
@@ -4915,12 +4770,13 @@
       "value": "ปารากวัย"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "พัก"
     },
     "common_pause_match": {
       "english": "Half time",
-      "value": "ครึ่งแรก"
+      "value": "พักครึ่ง"
     },
     "common_pauseextratime": {
       "english": "Pause extra time",
@@ -4929,7 +4785,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "จำนวนลูกโทษทั้งหมด"
+      "value": "จำนวนครั้งที่เจอลูกโทษ"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -4952,6 +4808,7 @@
       "value": "จำนวนแมตช์ทั้งหมด"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "จุดโทษที่เสีย"
     },
@@ -5060,7 +4917,7 @@
     "common_please_restart_the_app": {
       "comment": "If user changes the device language from RTL language to LTR (or vise versa) - we kindly ask user to restart the app",
       "english": "Please restart the app to complete the language change",
-      "value": "โปรดเริ่มต้นแอปใหม่เพื่อดำเนินการการเปลี่ยนแปลงในลีกให้เสร็จสิ้น"
+      "value": "โปรดเริ่มต้นแอปใหม่เพื่อดำเนินการเปลี่ยนภาษาให้เสร็จสิ้น"
     },
     "common_points": {
       "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
@@ -5097,7 +4954,7 @@
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "แย่งบอลสำเร็จในแดนฝั่งตรงข้าม"
+      "value": "แย่งบอลสำเร็จในพื้นที่สุดท้าย 1/3 ต่อแมตช์"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5127,7 +4984,7 @@
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
-      "value": "เกมทายผลบอลโลก"
+      "value": "เกมทายผล"
     },
     "common_predictor_text": {
       "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
@@ -5255,7 +5112,7 @@
     },
     "common_relegationqual": {
       "english": "Relegation qualification",
-      "value": "ตกชั้น"
+      "value": "รอบคัดเลือกตกชั้น"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",
@@ -5353,7 +5210,7 @@
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
       "english": "Saves inside box",
-      "value": "เซฟในกรอบ"
+      "value": "เซฟในเขตโทษ"
     },
     "common_saves_subtitle": {
       "english": "Total saves",
@@ -5538,7 +5395,7 @@
     "common_shots_on_off_target": {
       "comment": "Header to indicate how many shots was on target and how many was off target",
       "english": "Shots On / Off target",
-      "value": "ยิงประตูเข้า / ไม่เข้า"
+      "value": "ยิงเข้ากรอบ / นอกกรอบ"
     },
     "common_show_all_matches": {
       "english": "Show all matches",
@@ -5589,10 +5446,12 @@
       "value": "ผู้สนับสนุนระดับซิลเวอร์"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "ประตูเงิน"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "กฎประตูเงิน"
     },
@@ -5603,7 +5462,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "ลากรายการแข่งขันตามลำดับที่ต้องการในหน้าถ่ายทอดสด หรือเลือกแล้วใช้ปุ่มเพื่อสร้างลำดับที่คุณชอบ"
+      "value": "ลากเพื่อเปลี่ยนลำดับของลีกในแท็บการแข่งขัน หรือแตะเลือกลีกแล้วใช้ปุ่มด้านล่างเพื่อย้าย"
     },
     "common_sort_favorite_leagues_v2": {
       "comment": "A body for the hint (onboarding) for the new News, where we explain how to change order of the news-sections",
@@ -5890,7 +5749,7 @@
     "common_theme_light": {
       "comment": "Option to choose a Light theme for the app with bright colors",
       "english": "Light",
-      "value": "อ่อน"
+      "value": "สว่าง"
     },
     "common_third_place": {
       "comment": "Small-label below the bronze-match. Keep it short!",
@@ -5913,7 +5772,7 @@
     "common_tip_filter_and_sort": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
       "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "แตะที่นี่ %1$@ เพื่อ <b>กรองและแยก</b>ลีก"
+      "value": "แตะที่นี่ %1$@ เพื่อ <b>กรองและจัดเรียง</b> ลีก"
     },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
@@ -6064,7 +5923,7 @@
     "common_transfer_loan_return": {
       "comment": "This is for a transfer like: \"Ronaldo is returning from loan to Real Madrid from Barcelona\"",
       "english": "%1$@ is returning from loan to %2$@ from %3$@",
-      "value": "%1$@ กำลังกลับ %2$@ หลังจากจบการยืมตัวไปเล่นกับทีม %3$@"
+      "value": "%1$@ กำลังกลับจากการยืมตัวไปยัง %2$@ จาก %3$@"
     },
     "common_transfer_period": {
       "comment": "A header indicating the time period you want to search for. This will be followed by the [last_x_years] string and [last_x_months]",
@@ -6082,9 +5941,9 @@
       "value": "ยอด"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "ราคาตลาด"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "มูลค่าการย้ายทีม"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6144,7 +6003,7 @@
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",
-      "value": "เสมอทั้งเหย้า-เยือน"
+      "value": "การแข่งขันเหย้า-เยือนสองนัด"
     },
     "common_undefeated_both_equal": {
       "english": "%1$@ and %2$@ haven't lost their %3$@ last games.",
@@ -6382,7 +6241,7 @@
     },
     "common_world_cup_popup_header": {
       "english": "Try our new\\nWorld Cup mode!",
-      "value": "ลองโหมดใหม่! โหมดฟุตบอลโลก!"
+      "value": "ลองโหมดฟุตบอลโลกใหม่ของเรา\\nเลย!"
     },
     "common_worldnews": {
       "english": "World news",
@@ -6448,7 +6307,7 @@
     },
     "ios_Error_reporting": {
       "english": "Error reporting",
-      "value": "ผิดพลาดในการรายงาน"
+      "value": "การรายงานข้อผิดพลาด"
     },
     "ios_GER": {
       "english": "German",
@@ -6825,7 +6684,7 @@
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
       "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "เพื่อน ๆ ของคุณอาจพลาดเกมนัดสำคัญ แชร์ Fotmob กับพวกเขาเลยไหม?"
+      "value": "เพื่อน ๆ ของคุณอาจพลาดสิ่งดี ๆ อยู่ แชร์ FotMob ให้พวกเขาเลยไหม?"
     },
     "new_invite_title": {
       "english": "Invite your friends to try FotMob",
@@ -6904,7 +6763,7 @@
     "new_notification_sound_fav_opponent": {
       "comment": "it is in the notification settings where you can choose a sound for the goal of an opponent to your favorite team",
       "english": "Favorite opponent goal",
-      "value": "เสียงประตูของคู่แข่ง"
+      "value": "เสียงเมื่อคู่แข่งของทีมโปรดยิงประตู"
     },
     "new_notification_sound_sys_default": {
       "comment": "In custom notification sounds settings, option for choosing the system default sound for notifications",
@@ -7259,11 +7118,11 @@
     },
     "notifications_alert_assist": {
       "english": "%@ %@-%@ %@\\n%@%@ got an assist",
-      "value": "%@%@-%@%@\\n%@%@ได้แอสซิสต์จากการทำประตู"
+      "value": "%@ %@-%@ %@\\n%@%@ ได้แอสซิสต์"
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
-      "value": "%@%@-%@%@\\nการแก้ไข: %@%@ไม่ได้รับแอสซิสต์"
+      "value": "%@ %@-%@ %@\\nการแก้ไข: %@%@ไม่ได้รับแอสซิสต์"
     },
     "notifications_alert_card_removed": {
       "english": "Correction: %@%@ did not receive a red card\\n%@",
@@ -7323,11 +7182,11 @@
     },
     "notifications_alert_rating": {
       "english": "%@ %@-%@ %@\\n%@%@ got a rating of %@",
-      "value": "%@%@-%@%@\\n%@%@ได้รับคะแนน%@"
+      "value": "%@ %@-%@ %@\\n%@%@ ได้รับคะแนน %@"
     },
     "notifications_alert_rating_man_of_the_match": {
       "english": "%@ %@-%@ %@\\n🔥 %@%@ got a rating of %@ and was Player of the Match!",
-      "value": "%@ %@-%@%@\\n🔥 %@%@ได้รับคะแนน%@และเป็นแมนออฟเดอะแมตช์!"
+      "value": "%@ %@-%@ %@\\n🔥 %@%@ ได้รับคะแนน %@ และเป็นแมนออฟเดอะแมตช์!"
     },
     "notifications_alert_rating_short": {
       "comment": "Text indicating the player rating of the player. Like \"Mes",
@@ -7420,7 +7279,7 @@
     },
     "notifications_azerbaijan": {
       "english": "Azerbaijan",
-      "value": "อาร์เซอร์ไบจาน"
+      "value": "อาเซอร์ไบจาน"
     },
     "notifications_belarus": {
       "english": "Belarus",
@@ -7561,7 +7420,7 @@
     },
     "notifications_date_picker": {
       "english": "Date picker",
-      "value": "เครื่องมือเลีอกวันที่"
+      "value": "เครื่องมือเลือกวันที่"
     },
     "notifications_date_picker_onboarding": {
       "english": "Tap the calendar at any time to view additional dates.",
@@ -7704,7 +7563,7 @@
     },
     "notifications_exit_world_cup_mode": {
       "english": "Exit Tournament mode",
-      "value": "ออกจากโหมดฟุตบอลโลก"
+      "value": "ออกจากโหมดทัวร์นาเมนต์"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -7737,17 +7596,17 @@
       "value": "ยังต้องรอดู"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "ช่วงต้น%1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "ช่วงปลาย%1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "ช่วงกลาง%1$@"
     },
@@ -7776,7 +7635,7 @@
     },
     "notifications_filter_tournaments_help_text": {
       "english": "Select which leagues to display in Matches tab",
-      "value": "เลือกทัวร์นาเมนต์ที่ต้องการให้แสดงในหน้าจอถ่ายทอดสด"
+      "value": "เลือกลีกที่ต้องการให้แสดงในแท็บการแข่งขัน"
     },
     "notifications_finland": {
       "english": "Finland",
@@ -7866,7 +7725,7 @@
     "notifications_hello_how_can_we_help_you": {
       "comment": "support screen headline (\\n for line break)",
       "english": "Hello,\\nhow can we help you?",
-      "value": "สวัสดี\\nให้เราช่วยคุณอะไรคุณได้บ้าง"
+      "value": "สวัสดี\\nเราจะช่วยคุณได้อย่างไร?"
     },
     "notifications_how_about_rating": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -7928,7 +7787,7 @@
     },
     "notifications_injury_100": {
       "english": "Mononucleosis",
-      "value": "เม็ดเลือดขาวชนิดโมโนนิวเคลียร์สูง"
+      "value": "โรคโมโนนิวคลีโอซิส"
     },
     "notifications_injury_101": {
       "english": "Calf injury",
@@ -7948,7 +7807,7 @@
     },
     "notifications_injury_105": {
       "english": "Buttocks injury",
-      "value": "บาดเจ็บบริเวณสะโพก"
+      "value": "บาดเจ็บบริเวณก้น"
     },
     "notifications_injury_106": {
       "english": "Broken knee cap",
@@ -8200,7 +8059,7 @@
     },
     "notifications_injury_53": {
       "english": "Sprained hand",
-      "value": "มือซ้น"
+      "value": "มือแพลง"
     },
     "notifications_injury_6": {
       "english": "Injured",
@@ -8276,7 +8135,7 @@
     },
     "notifications_injury_84": {
       "english": "Sprained arm",
-      "value": "แขนซ้น"
+      "value": "แขนเคล็ด"
     },
     "notifications_injury_85": {
       "english": "Head injury",
@@ -8523,7 +8382,7 @@
     },
     "notifications_network_troubleshooting_help_text_error": {
       "english": "Please provide a detailed description of your issue in the log e-mail.",
-      "value": "โปรดแสดงคำอธิบายอย่างละเอียดถึงปัญหาของคุณในรายงานการรับส่งอีเมล"
+      "value": "โปรดระบุรายละเอียดของปัญหาที่คุณพบในอีเมลบันทึก (log)"
     },
     "notifications_network_troubleshooting_help_text_error_2": {
       "comment": "Help text for text area used for describing problem before generating email with text + network log",
@@ -8532,7 +8391,7 @@
     },
     "notifications_network_troubleshooting_help_text_ok": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue in the log e-mail.",
-      "value": "ทุกอย่างดูเรียบร้อยดี!\\n\\nยังมีปัญหาอยู่หรือไม่ โปรดแสดงคำอธิบายอย่างละเอียดถึงปัญหาของคุณในรายงานการรับส่งอีเมล\\n\\nโปรดแสดงคำอธิบายอย่างละเอียดถึงปัญหาของคุณในรายงานการรับส่งอีเมล"
+      "value": "ทุกอย่างดูเรียบร้อยดี!\\n\\nยังมีปัญหาอยู่หรือไม่? โปรดอธิบายปัญหาของคุณโดยละเอียดในอีเมลบันทึก (log)"
     },
     "notifications_network_troubleshooting_help_text_ok_2": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue.",
@@ -8671,7 +8530,7 @@
     "notifications_player_assist": {
       "comment": "Messi got an assist.",
       "english": "%@ got an assist",
-      "value": "%@ได้แอสซิสต์จากการทำประตู"
+      "value": "%@ ได้แอสซิสต์"
     },
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
@@ -8681,7 +8540,7 @@
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
       "english": "In starting lineup\\n%@ - %@",
-      "value": "เปลี่ยนนักเตะตัวจริง\\n%@ - %@"
+      "value": "เป็นตัวจริง\\n%@ - %@"
     },
     "notifications_player_rating_alert": {
       "comment": "An alert message saying \"Messi got a rating of 5.8.\"",
@@ -8792,7 +8651,7 @@
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
-      "value": "รับการแจ้งเตือนเมื่อมีการย้ายทีมสำหรับทุกทีมโปรดของคุณ"
+      "value": "รับการแจ้งเตือนการย้ายทีมที่ยืนยันแล้วสำหรับทุกทีมโปรดของคุณ"
     },
     "notifications_red_card_v2": {
       "english": "Red card",
@@ -8883,7 +8742,7 @@
     "notifications_search_result_header_tournaments": {
       "comment": "Heading for search results",
       "english": "Leagues (%1$@)",
-      "value": "ทัวร์นาเมนต์ (%1$@)"
+      "value": "ลีก (%1$@)"
     },
     "notifications_seconds_short": {
       "comment": "Abbrevation of seconds (ideally short as \"s\" instead of \"sec\" if possible)",
@@ -8946,12 +8805,12 @@
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
       "english": "Shots inside box",
-      "value": "ยิงในกรอบ"
+      "value": "ยิงในกรอบเขตโทษ"
     },
     "notifications_shots_outside_box": {
       "comment": "Stat for shots taken outside the penalty area",
       "english": "Shots outside box",
-      "value": "ยิงนอกกรอบ"
+      "value": "ยิงนอกเขตโทษ"
     },
     "notifications_shots_woodwork": {
       "comment": "Stat for shots hitting the woodwork on the goal (post or bar)",
@@ -8975,7 +8834,7 @@
     "notifications_sign_in_dialog": {
       "comment": "Dialog \"selling\" profile login",
       "english": "We can keep your favorites and settings safe. <b>Sign in now?</b>",
-      "value": "เราสามารถเก็บความชอบและการตั้งค่าของคุณไว้ <b>เข้าสู่ระบบ?</b>"
+      "value": "เราสามารถเก็บรายการโปรดและการตั้งค่าของคุณให้ปลอดภัยได้ <b>เข้าสู่ระบบตอนนี้ไหม?</b>"
     },
     "notifications_sign_in_with_apple": {
       "english": "Sign in with Apple",
@@ -9136,7 +8995,7 @@
     "notifications_timezone_and_time_warning_message": {
       "comment": "The first argument is the name of the timezone, the last two is the time of day.",
       "english": "The timezone is set to %1$@. Either the time zone should be changed or the time should probably be set to %2$@ and not %3$@.",
-      "value": "เขตเวลาถูกตั้งค่าเป็น %1$@ เวลาจะถูกตั้งค่าเป็น %2$@ ไม่ใช่ %3$@"
+      "value": "เขตเวลาถูกตั้งค่าเป็น %1$@ ควรเปลี่ยนเขตเวลา หรือควรตั้งเวลาเป็น %2$@ แทนที่จะเป็น %3$@"
     },
     "notifications_top_stats": {
       "comment": "Header for the most important stats in the game",
@@ -9276,7 +9135,7 @@
     },
     "notifications_we_can_keep_your_settings_safe": {
       "english": "Sign in to sync settings across devices or retrieve them when you set up a new device.",
-      "value": "เราสามารถเก็บการตั้งค่าของคุณไว้ คุณจึงสามารถซิงค์การตั้งค่าข้ามอุปกรณ์ หรือเรียกคืนค่าเมื่อคุณมีอุปกรณ์ใหม่"
+      "value": "ลงชื่อเข้าใช้เพื่อซิงค์การตั้งค่าระหว่างอุปกรณ์ หรือกู้คืนการตั้งค่าเมื่อคุณตั้งค่าอุปกรณ์ใหม่"
     },
     "notifications_winner": {
       "comment": "Header indicating that the team won the league",
@@ -9296,7 +9155,7 @@
     "notifications_x_of_y": {
       "comment": "Used to express showing \"1 of 30\" elements",
       "english": "%1$@ of %2$@",
-      "value": "%1$@ จาก %2$@ องค์ประกอบ"
+      "value": "%1$@ จาก %2$@"
     },
     "notifications_yellow_card": {
       "english": "Yellow card",
@@ -9359,6 +9218,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "โปรดแชร์รายละเอียดเกี่ยวกับโฆษณา เช่น ผู้ลงโฆษณา หน้าจอที่แสดง วิดีโอหรือภาพ และสิ่งที่คุณพบว่ามีปัญหา"
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "โฆษณากับเรา"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9456,7 +9320,7 @@
     "seo_clear_lineup": {
       "comment": "Headline to clear the lineup created in the lineup builder for football team.",
       "english": "Clear lineup",
-      "value": "ลบรายชื่อผู้เล่น"
+      "value": "ล้างรายชื่อผู้เล่น"
     },
     "seo_code_copied_to_clipboard": {
       "comment": "Toast message shown when user has copied the league code to clipboard",
@@ -9589,9 +9453,9 @@
       "value": "ปรับแต่งหน้าจอโฮมของคุณด้วยไอคอนแอปแบบอื่น"
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "xG เสียขณะอยู่ในสนาม"
+      "value": "xG เสีย (ขณะอยู่ในสนาม)"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9755,7 +9619,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "จำนวนประตูที่เสียขณะอยู่ในสนาม"
+      "value": "จำนวนประตูที่เสีย (ขณะอยู่ในสนาม)"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9776,6 +9640,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "ผลประวัติการพบกันล่าสุดของทีมคือ %2$@ ชนะของทีม %1$@, %4$@ ชนะของทีม %3$@ และ %5$@ การเสมอกัน"
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "ฮีตแมป"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "ดูว่าผู้เล่นมีผลกระทบที่ไหนในสนาม แตะที่ผู้เล่นจากหน้าจอรายชื่อเพื่อดูรายละเอียด"
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "ฮีตแมปพร้อมแล้ว"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9817,13 +9696,138 @@
       "english": "I need help",
       "value": "ฉันต้องการความช่วยเหลือ"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "คัดลอกลิงก์"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "คัดลอกลิงก์แล้ววางใน Safari หรือ Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "แตะจุดสามจุด (•••) ที่มุมขวาล่าง แล้วเลือก \"เปิดในเบราว์เซอร์\""
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "แตะจุดสามจุด (•••) มุมขวาบน แล้วเลือก \"เปิดในเบราว์เซอร์\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "แตะเมนู (≡) แล้วเลือก \"เปิดในเบราว์เซอร์อื่น\""
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "แตะไอคอนแชร์ด้านล่าง แล้วเลือกเบราว์เซอร์ของคุณ"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "แตะจุดสามจุด (•••) แล้วเลือก \"เปิดในเบราว์เซอร์\""
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "แตะจุดสามจุด (•••) ที่มุมขวาบน แล้วเลือก \"เปิดในเบราว์เซอร์ภายนอก\""
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "แตะจุดสามจุด (•••) แล้วเลือก \"เปิดในเบราว์เซอร์\""
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "แตะจุดสามจุด (•••) แล้วเลือก \"เปิดในเบราว์เซอร์\""
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "แตะไอคอนแชร์ แล้วเลือก \"เปิดใน Safari\" หรือ \"คัดลอกลิงก์\""
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "แตะจุดสามจุด (•••) จากนั้นแตะ “เปิดใน…” แล้วเลือก Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "คัดลอกลิงก์แล้ววางใน Safari หรือ Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "แตะไอคอนแชร์ แล้วเลือก \"เปิดใน Safari\""
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "มองหาเมนู (••• หรือไอคอนแชร์) และเลือก \"เปิดในเบราว์เซอร์\""
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "แตะจุดสามจุด (•••) จากนั้นเลือก \"เปิดใน Safari\""
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "ย้อนกลับ"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "เปิดในเบราว์เซอร์"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "เปิดในเบราว์เซอร์เพื่อเข้าสู่ระบบ"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "เปิดใน Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "เปิดใน Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "หรือทำด้วยตนเอง:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "การลงชื่อเข้าใช้ทำงานได้ไม่เสถียรในเบราว์เซอร์ของ %1$s โปรดเปิดหน้านี้ใน Safari หรือ Chrome"
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "ลองลงชื่อเข้าใช้ที่นี่ต่อไป (อาจใช้งานไม่ได้)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "การเข้าสู่ระบบอาจไม่ทำงานในเบราว์เซอร์ในแอปนี้"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "การลงชื่อเข้าใช้อาจใช้งานไม่ได้ในเบราว์เซอร์ของ %1$s หากต้องการประสบการณ์ที่ดีที่สุด ให้ย้อนกลับแล้วเปิดหน้านี้ในเบราว์เซอร์ของคุณ"
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "กรุณาเปิดหน้านี้ในเบราว์เซอร์ของอุปกรณ์คุณ (Safari หรือ Chrome) เพื่อดำเนินการต่อ"
     },
@@ -9901,6 +9905,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "บันทึกผู้เล่นตัวจริงแล้ว"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "ไม่มี"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10015,12 +10024,12 @@
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
       "english": "The bookmakers predict a close match between %1$@ and %2$@.",
-      "value": "บริษัทเล่นการพนันทำนายการแข่งขันที่ใกล้เคียงกันระหว่าง %1$@ และ %2$@ ให้กับ."
+      "value": "บรรดาบ่อนรับพนันคาดการณ์ว่าจะเป็นการแข่งขันที่สูสีระหว่าง %1$@ และ %2$@."
     },
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
       "english": "%1$@ are the favorites to win the match, according to the bookmakers.",
-      "value": "%1$@ เป็นทีมที่ได้รับความนิยมในการชนะการแข่งขันตามที่ผู้เสียเดิมพันบอก"
+      "value": "%1$@ เป็นทีมเต็งที่จะชนะการแข่งขัน ตามที่เจ้ามือรับพนันระบุ"
     },
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
@@ -10145,7 +10154,7 @@
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
       "english": "The play-off matchups are determined by a draw. In each grouping, the two teams on the left are drawn against the two teams on the right to create two play-off matchups. The play-offs are played over two legs, with the winner going to the round of 16.\\n\\nThere is a separate draw for the round of 16 using the same process.",
-      "value": "การแข่งขันรอบชิงชนะเลิศ จะถูกกำหนดโดยการจับสลาก ในแต่ละกลุ่ม ทีมสองทีมด้านซ้ายจะถูกจับเพื่อเอาไปประจำกับทีมสองทีมด้านขวาเพื่อจัดการแข่ง 2 คู่ การแข่งชิงชนะเลิศจะแข่งขันกัน 2 ครั้ง โดยผู้ชนะจะเข้าสู่รอบ 16 ทีม\\n\\nจะมีการจับสลากแยกสำหรับรอบ 16 ด้วยกระบวนการเดียวกัน"
+      "value": "การประกบคู่รอบเพลย์ออฟถูกกำหนดโดยการจับสลาก ในแต่ละกลุ่ม ทีมสองทีมทางซ้ายจะถูกจับสลากพบกับทีมสองทีมทางขวาเพื่อสร้างการประกบคู่รอบเพลย์ออฟ 2 คู่ รอบเพลย์ออฟจะแข่งขันแบบเหย้า-เยือน 2 นัด โดยผู้ชนะจะผ่านเข้าสู่รอบ 16 ทีมสุดท้าย\\n\\nจะมีการจับสลากแยกสำหรับรอบ 16 ทีมสุดท้ายโดยใช้กระบวนการเดียวกัน"
     },
     "seo_play_offs_format": {
       "comment": "Label leading to an explanation of the new Champions league play-off format",
@@ -10527,7 +10536,7 @@
     "seo_site_description_league_transfers": {
       "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "See all %1$@ transfers.",
-      "value": "ดูการโอนย้ายทั้งหมด %1$@"
+      "value": "ดูการโอนย้ายทั้งหมดของ %1$@"
     },
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
@@ -10537,17 +10546,17 @@
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ ปะทะ %2$@ ใน %3$@. ตรวจสอบผลลัพธ์สด ยูเอชทูเอช สถิติการแข่งขัน ดูข้อมูลผู้เล่น วิเคราะห์ รูปแบบทีม แผนที่การยิง และไฮไลต์"
+      "value": "%1$@ vs %2$@ ในวันที่ %3$@ ตรวจสอบผลสด H2H, สถิติการแข่งขัน, รายชื่อผู้เล่น, เรตติ้งผู้เล่น, ข้อมูลเชิงลึก, ฟอร์มทีม, แผนที่การยิง และไฮไลต์"
     },
     "seo_site_description_match_finished": {
       "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ ปะทะกับ %2$@ ใน %3$@ จบ %4$@ แล้วค่ะ ตรวจสอบผลสด H2H สถิติการแข่งขัน ตัวจัดวางทีม การประเมินผลของผู้เล่น ความคิดเห็นของวิธีทำงานทีม แผนผังการยิงและไฮไลท์ค่ะ"
+      "value": "%1$@ vs %2$@ ในวันที่ %3$@ จบลงด้วยผล %4$@ ตรวจสอบผลบอลสด, สถิติการพบกัน (H2H), สถิติการแข่งขัน, รายชื่อผู้เล่น, คะแนนนักเตะ, เกร็ดข้อมูล, ฟอร์มทีม, แผนผังการยิง และไฮไลท์"
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
       "english": "%1$@ %2$@ stats including top scorers, assists, player ratings, and more",
-      "value": "%1$@ %2$@สถิติรวมถึงผู้ทำประตูสูงสุด ผู้ช่วยในการทำประตู ผลการตัดสินในการเล่นและอื่นๆอีกมากมาย"
+      "value": "%1$@ %2$@ สถิติรวมถึงผู้ทำประตูสูงสุด แอสซิสต์ คะแนนนักเตะ และอื่นๆ อีกมากมาย"
     },
     "seo_site_description_stats_team": {
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
@@ -10567,7 +10576,7 @@
     "seo_site_description_team_news": {
       "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
       "english": "Get the latest %1$@ news and transfer rumours",
-      "value": "รับข่าวล่าสุดและข่าวลือการโอนย้าย %1$@"
+      "value": "รับข่าวสารล่าสุดและข่าวลือการย้ายทีมของ %1$@"
     },
     "seo_site_description_team_overview": {
       "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10582,22 +10591,22 @@
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - เรตติ้งทีม ประตูต่อแมตช์ ติงตรงเป้า และสถิติอื่น ๆ"
+      "value": "%1$@ - เรตติ้งทีม ประตูต่อแมตช์ ยิงตรงกรอบ และสถิติอื่น ๆ"
     },
     "seo_site_description_team_table": {
       "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
       "english": "%1$@ - league and cup standings and form guide",
-      "value": "%1$@ - ตารางลีกและตารางการแข่งขันและการนำทางรูปแบบ"
+      "value": "%1$@ - ตารางคะแนนลีกและบอลถ้วย พร้อมฟอร์มการเล่น"
     },
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
       "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "การโอนย้ายล่าสุดของ %1$@ นำเข้า, นำออก และต่อสัญญา"
+      "value": "การย้ายทีมล่าสุดของ %1$@ ทั้งขาเข้า ขาออก และการต่อสัญญา"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "ค้นหาการโอนย้ายล่าสุดทั้งหมดและการสมัครราคาแพงที่สุด ศูนย์การโอนย้าย FotMob - กรองตามลีกและทีม อัปเดตตลอดชีพในวันกำหนดสำหรับการโอนย้ายทั้งหมดที่เสร็จสมบูรณ์!"
+      "value": "ค้นหาดีลย้ายทีมที่ยืนยันแล้วล่าสุดทั้งหมดและการเซ็นสัญญาที่แพงที่สุด ศูนย์ซื้อขายนักเตะ FotMob - กรองตามลีกและทีม ติดตามข่าวย้ายทีมแบบเรียลไทม์ในวันปิดตลาด พร้อมดีลที่เสร็จสิ้นทั้งหมด!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
@@ -10661,7 +10670,7 @@
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "english": "%1$@ knockout fixtures, bracket and champion %2$@",
-      "value": "%1$@ การแข่งขันเกมชนะเลิศโดยตกคร่อม, สกีนแปลกและผู้ชนะ %2$@"
+      "value": "โปรแกรมการแข่งขันรอบน็อกเอาต์, สายการแข่งขัน และแชมป์ %2$@ ของ %1$@"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
@@ -10671,12 +10680,12 @@
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "%1$@ %2$@ ทีมที่อันดับ 1, ประตูต่อเกม, การยิงเข้าเป้าและสถิติอื่น ๆ"
+      "value": "%1$@ %2$@ ทีมที่มีคะแนนสูงสุด, ประตูต่อเกม, การยิงเข้าเป้าและสถิติอื่น ๆ"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
       "english": "%1$@ winners and runner-ups",
-      "value": "%1$@ ผู้ชนะและรองชนะเลิศ %1$@"
+      "value": "%1$@ ผู้ชนะและรองชนะเลิศ"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
@@ -10691,17 +10700,17 @@
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "%1$@ - transfers, contracts and market values",
-      "value": "%1$@ - การโอนย้าย, ค่าธรรมเนียมของผู้เล่น, สัญญาและมูลค่าตลาด"
+      "value": "%1$@ - การโอนย้าย สัญญา และมูลค่าตลาด"
     },
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
       "english": "%1$@ vs %2$@ - live score, predicted lineups and H2H stats",
-      "value": "%1$@ ปะทะ %2$@ - คะแนนสด, ตัวจับแข้งที่คาดการณ์และสถิติ H2H"
+      "value": "%1$@ ปะทะ %2$@ - คะแนนสด, รายชื่อผู้เล่นที่คาดการณ์และสถิติ H2H"
     },
     "seo_site_title_player": {
       "comment": "Title for the page for a player. With name as input. Eg \"Frank Lampard - stats, career and market value\"",
       "english": "%1$@ - stats, career and market value",
-      "value": "%1$@ - สถิติ, ตำแหน่งอาชีพและมูลค่าตลาด"
+      "value": "%1$@ - สถิติ, อาชีพ และมูลค่าตลาด"
     },
     "seo_site_title_stats": {
       "comment": "Meta title for stats page with list of stats for players",
@@ -10721,7 +10730,7 @@
     "seo_site_title_team_fixtures": {
       "comment": "Meta title tag value for the team fixtures page, with both future and past matches and results.",
       "english": "%1$@ - latest matches, scores and upcoming fixtures",
-      "value": "%1$@ - ตัวอย่างล่าสุด , คะแนน และการแข่งขันที่จะมาถึง"
+      "value": "%1$@ - แมตช์ล่าสุด, ผลการแข่งขัน และโปรแกรมการแข่งขันที่กำลังจะมาถึง"
     },
     "seo_site_title_team_history": {
       "comment": "Title for the page showing a teams historical table positions and trophies won.",
@@ -10736,27 +10745,27 @@
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
       "english": "%1$@ - fixtures, team info and top players",
-      "value": "%1$@ - พรีเมียร์ลีก"
+      "value": "%1$@ - โปรแกรมแข่งขัน, ข้อมูลทีม และนักเตะเด่น"
     },
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "%1$@ - %1$@ - ทีม, โค้ช, อาการเจ็บ และตำแหน่ง"
+      "value": "%1$@ - ทีม, โค้ช, อาการเจ็บ และตำแหน่ง"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
       "english": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value",
-      "value": "%1$@ - ผู้เล่นอันดับต้น ๆ คือ %1$@ และสถิติอื่น ๆ - สถิติ การเลี้ยงชีพ และมูลค่าตลาด"
+      "value": "%1$@ - ผู้เล่นที่ได้คะแนนสูงสุด, ประตู, แอสซิสต์ และสถิติอื่นๆ - สถิติ, อาชีพ และมูลค่าตลาด"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - คะแนนทีม - จำนวนประตูต่อการแข่งขัน - จำนวนการยิงเข้ากล่อง และสถิติอื่นๆ"
+      "value": "%1$@ - คะแนนทีม, จำนวนประตูต่อการแข่งขัน, จำนวนการยิงเข้ากรอบ และสถิติอื่นๆ"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
       "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ ตาราง、ฟอร์ม และคู่แข่งถัดไป"
+      "value": "%1$@ ตาราง ฟอร์ม และคู่แข่งถัดไป"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
@@ -10766,7 +10775,7 @@
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
       "english": "Transfer Center - Latest & Top Transfers - FotMob",
-      "value": "ศูนย์การโอนย้าย - ย้ายการโอนยอดนิยมล่าสุด - FotMob"
+      "value": "ศูนย์ซื้อขายนักเตะ - การย้ายทีมล่าสุดและดีลเด่น - FotMob"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
@@ -10812,6 +10821,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "ส่ง"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10965,7 +10979,7 @@
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "3rd leg",
-      "value": "ขาที่สาม"
+      "value": "เลกที่ 3"
     },
     "seo_this_tournament": {
       "comment": "Button text for button that toggles only showing matches from the current tournament.",
@@ -11005,6 +11019,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "ออก"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "คำชี้แจงตามกฎหมายความโปร่งใส"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11156,7 +11175,7 @@
     "seo_weather_forecast": {
       "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
       "english": "Weather forecast",
-      "value": "อากาศ"
+      "value": "พยากรณ์อากาศ"
     },
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",

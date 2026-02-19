@@ -210,7 +210,7 @@
     },
     "accessibility_createleaguepopup_create_a_league": {
       "english": "Create a league",
-      "value": "Crează o ligă"
+      "value": "Creează o ligă"
     },
     "accessibility_createleaguepopup_create_league": {
       "english": "Create league",
@@ -682,7 +682,7 @@
     "accessibility_insights_not_won_at_home": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won at home in their last (number greater than 2) matches",
       "english": "Haven't won at home in their last %1$@ matches",
-      "value": "nu au câștigat în ultimele %1$@ meciuri."
+      "value": "Nu au câștigat acasă în ultimele %1$@ meciuri"
     },
     "accessibility_insights_not_won_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won an away game in their last (number greater than 2) matches",
@@ -757,7 +757,7 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@ a marcat în %2$@ din %3$@ din ultimele %4$@ meciuri"
+      "value": "%1$@ a marcat în %2$@ din ultimele %4$@ meciuri ale %3$@"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -846,11 +846,11 @@
     },
     "accessibility_joinleaguepopup_join_league": {
       "english": "Join league",
-      "value": "Alăturăte ligii"
+      "value": "Alătură-te ligii"
     },
     "accessibility_joinleaguepopup_type_league_code": {
       "english": "Type or paste the unique League ID-code in the text field below:",
-      "value": "Tasteazăi sau lipește codul unic de identificare a ligii în câmpul de text de mai jos:"
+      "value": "Tastează sau lipește codul unic de identificare al ligii în câmpul de text de mai jos:"
     },
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
@@ -1119,7 +1119,7 @@
     "accessibility_myleaguespage_desc1": {
       "comment": "explanation on nature of the leagues the user create",
       "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide.",
-      "value": "Ligile pe care le creezi sunt private și se pot alăturae doar persoanele care au ID-ul unic sau linkul pe care îl furnizezi."
+      "value": "Ligile pe care le creezi sunt private și pot fi accesate doar de persoanele care au ID-ul unic sau linkul pe care îl furnizezi."
     },
     "accessibility_myleaguespage_desc1_v2": {
       "comment": "Create a league to compete against others.",
@@ -1147,7 +1147,7 @@
     "accessibility_myleaguespage_join_a_league": {
       "comment": "Label on button to join a league",
       "english": "Join a league",
-      "value": "Alăturăte ligii"
+      "value": "Alătură-te unei ligi"
     },
     "accessibility_myleaguespage_join_league": {
       "comment": "User gets the option to join a existing league by entering a league ID-code.",
@@ -1434,7 +1434,7 @@
     "accessibility_overviewpage_join_create": {
       "comment": "Label on actionalbe to join or create a league",
       "english": "Join/Create",
-      "value": "Alăturăte/Crează"
+      "value": "Alătură-te/Creează"
     },
     "accessibility_overviewpage_leagues": {
       "comment": "Tab header for listing of the private leagues the usere is in",
@@ -1521,7 +1521,7 @@
     "accessibility_playing_today_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
       "english": "%@ other competitions play today",
-      "value": "Alte %@ au loc azi"
+      "value": "%@ alte competiții au loc azi"
     },
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
@@ -1565,7 +1565,7 @@
     "accessibility_pointspopup_about_the_competition": {
       "comment": "Headline on competition about box",
       "english": "About the competition",
-      "value": "Despre concurență"
+      "value": "Despre competiție"
     },
     "accessibility_pointspopup_points_are_calculated": {
       "comment": "Heading of explanation of how the points are calculated",
@@ -1575,7 +1575,7 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "Posesie câștigată în careul mic per 90"
+      "value": "Posesie câștigată în ultima treime per 90"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
@@ -1766,12 +1766,12 @@
     },
     "accessibility_sharepredictionspopup_copydescription": {
       "english": "Copy this link if you want to share with Messenger, E-mail or SMS.",
-      "value": "Copiază acest link dacă doreștii să distribui pe Messenger, E-mail sau SMS."
+      "value": "Copiază acest link dacă dorești să distribui pe Messenger, E-mail sau SMS."
     },
     "accessibility_sharepredictionspopup_hint": {
       "comment": "Default text to share along with link to prediction on social media",
       "english": "Checkout my predictions!",
-      "value": "Descoperă pronostricurile mele!"
+      "value": "Descoperă pronosticurile mele!"
     },
     "accessibility_sharepredictionspopup_title": {
       "english": "Share your predictions <1/> With your friends!",
@@ -1901,7 +1901,7 @@
     },
     "accessibility_startpage_predictor_competition": {
       "english": "Predictor competition",
-      "value": "Concurența predictorului"
+      "value": "Competiție Predictor"
     },
     "accessibility_startpage_start_now": {
       "comment": "label on actionable button for the user to start making his or her preditions",
@@ -2401,7 +2401,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "Faulturi per 90"
+      "value": "Faulturi suferite per 90"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -2999,7 +2999,7 @@
     },
     "common_commentary_feature_description3": {
       "english": "It might take up to 30 seconds before audio is audible after pressing play.",
-      "value": "Poate să dureze până la 30 de secunde redarea fuluxului audio după pornirea acestuia."
+      "value": "Poate dura până la 30 de secunde până când sunetul devine audibil după ce apeși pe redare."
     },
     "common_commentary_feature_description4": {
       "english": "Feedback on commentaries are very welcome!",
@@ -3190,11 +3190,11 @@
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
-      "value": "%1$@ nu a marcat în ultimele %3$@ meciuri şi %2$@ în ultimele %4$@."
+      "value": "%1$@ nu a făcut egal în ultimele %3$@ meciuri şi %2$@ în ultimele %4$@."
     },
     "common_draw_streak_team": {
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
-      "value": "%1$@ nu a marcat în ultimele %2$@ meciuri."
+      "value": "%1$@ nu a remizat în ultimele %2$@ meciuri."
     },
     "common_drawer_close": {
       "comment": "Closes the left navigation menu",
@@ -3217,7 +3217,7 @@
     "common_duels_won_lost": {
       "comment": "Header of a graphic showing how many duels (header + tackles) the player has won or lost",
       "english": "Duels won / lost",
-      "value": "Mingi pierdute / câștigate"
+      "value": "Dueluri câștigate / pierdute"
     },
     "common_ecuador": {
       "english": "Ecuador",
@@ -3361,20 +3361,25 @@
       "english": "Errors led to goal",
       "value": "Erori care au condus la gol"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Valoarea Estimată de Transfer (ETV) este cea mai bună estimare a noastră despre cât ar valora un jucător dacă ar fi vândut acum.\\n\\nSe calculează folosind date reale de transfer și ia în considerare:\\n\\n• performanța jucătorului\\n• vârsta și potențialul său viitor\\n• frecvența și nivelul la care joacă pe poziția sa\\n• puterea echipei și a ligii sale\\n• durata rămasă a contractului\\n• dezvoltările recente și factori similari\\n\\nNe concentrăm pe jucătorul în sine, nu pe zvonuri sau pe ce club ar putea să-l cumpere.\\n\\nValoarea este actualizată regulat pentru a reflecta schimbările din piața de transferuri în timp."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Valoare estimată a jucătorului"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Valoare estimată de transfer"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Valoare probabilă dacă se vinde acum"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Valoarea Estimată de Transfer (ETV) este o estimare a cât ar valora un jucător dacă ar fi vândut astăzi.\\n\\nSe calculează folosind date istorice de transfer și o serie de factori de performanță și context, inclusiv:\\n\\n• performanța și dezvoltarea jucătorului\\n• vârsta și potențialul viitor\\n• frecvența și nivelul la care joacă\\n• poziția\\n• puterea echipei și a ligii\\n• durata rămasă a contractului\\n\\nETV se concentrează pe jucătorul în sine, nu pe zvonuri sau pe ce club ar putea să-l cumpere.\\n\\nValoarea este actualizată regulat pentru a reflecta schimbările în timp."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Valoare estimată"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3440,7 +3445,7 @@
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "Goluri estimate admise"
+      "value": "xG admise"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
@@ -3669,162 +3674,6 @@
       "english": "FT",
       "value": "FF"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ a comis un fault care a condus la un penalty pentru %2$@."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ a fost jucătorul cel mai faultat în timpul meciului (%2$@ ori)."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ este jucătorul cel mai faultat în timpul meciului (%2$@ ori)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ a pierdut cele mai multe dueluri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ a pierdut cele mai multe dueluri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ a pierdut posesia mingii de cele mai multe ori (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ a pierdut posesia mingii de cele mai multe ori în timpul meciului (%2$@)."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ a avut cele mai puține atingeri de balon (%2$@) dintre toți jucătorii de pe teren care au jucat 90 de minute."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ are cele mai puține atingeri de balon (%2$@) dintre toți jucătorii de pe teren."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ a făcut o greșeală care a condus la un gol pentru %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ a făcut o greșeală care a condus la un gol pentru %2$@.",
-        "other": "%1$@ a făcut %3$d greșeli care au condus la goluri pentru %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ a finalizat cele mai multe driblinguri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ a finalizat cele mai multe driblinguri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ a avut cele mai multe ocazii create (%2$@) din meci"
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ a creat cele mai multe ocazii (%2$@) din meci"
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ a finalizat cele mai multe pase (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ a finalizat cele mai multe pase (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ a avut cele mai multe tackling-uri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ are cele mai multe tackling-uri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ a fost jucatorul meciului cu un rating de %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ are cel mai bun rating per meci cu %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ a avut cele mai multe atingeri de balon (%2$@) în careul advers."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ are cele mai multe atingeri de balon (%2$@) în careul advers."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ a fost cel mai bun pasator (%2$@) care a jucat 45 de minute sau mai mult."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ este cel mai bun pasator (%2$@) al meciului."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ a marcat un autogol."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ a câștigat cele mai multe dueluri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ a câștigat cele mai multe dueluri (%2$@) în timpul meciului."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ a șutat în bară de %2$@ ori din %3$@ șuturi în total."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ a șutat în bară de %2$@ ori din %3$@ șuturi în total."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "General"
@@ -3942,6 +3791,7 @@
       "value": "Suporter de aur"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "Golul de aur"
     },
@@ -3969,11 +3819,11 @@
     },
     "common_h2h_all_drawn": {
       "english": "%1$@ and %2$@ have drawn their last %3$@ matches.",
-      "value": "%1$@ și %2$@ au marcat în ultimele %3$@ meciuri."
+      "value": "%1$@ și %2$@ au remizat în ultimele %3$@ meciuri."
     },
     "common_h2h_draw_streak": {
       "english": "%1$@ and %2$@ have drawn their last %3$@ matches against each other",
-      "value": "%1$@ și %2$@ au marcat în ultimele %3$@ meciuri, unul împotriva celuilalt."
+      "value": "%1$@ și %2$@ au remizat în ultimele %3$@ meciuri directe"
     },
     "common_h2h_draw_streak_v2": {
       "comment": "Example: Manchester United and Chelsea have drawn their last 5 matches against each other.",
@@ -3982,7 +3832,7 @@
     },
     "common_h2h_no_draws": {
       "english": "%1$@ and %2$@ have not drawn any of their last %3$@ matches",
-      "value": "%1$@ și %2$@ nu au marcat în niciunul din ultimele %3$@ meciuri."
+      "value": "%1$@ și %2$@ nu au remizat în niciunul dintre ultimele %3$@ meciuri."
     },
     "common_h2h_no_draws_v2": {
       "comment": "Example: Manchester United and Chelsea have not drawn any of their last 5 matches against each other.",
@@ -3995,7 +3845,7 @@
     },
     "common_h2h_not_won_home_not_lost_away": {
       "english": "%1$@ haven't won at home their last %3$@ matches (%5$@D, %6$@L). %2$@ haven't lost an away match in %4$@ matches (%7$@W, %8$@D).",
-      "value": "%1$@ nu a câștigat acasă în ultimele %3$@ meciuri (%5$@E, %6$@P). %2$@ nu a pierdut niciun meci în deolasare în %4$@ meciuri (%7$@V, %8$@E)."
+      "value": "%1$@ nu a câștigat acasă în ultimele %3$@ meciuri (%5$@E, %6$@P). %2$@ nu a pierdut niciun meci în deplasare în %4$@ meciuri (%7$@V, %8$@E)."
     },
     "common_h2h_undefeated": {
       "english": "%1$@ haven't lost to %2$@ in their last %3$@ meetings (%4$@W, %5$@D).",
@@ -4018,6 +3868,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Ascunde știrile pentru %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Cel mai mare"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4176,7 +4031,7 @@
     "common_knockout_stage": {
       "comment": "Used as header for vertical bracket view",
       "english": "Knockout Stage",
-      "value": "Calificări"
+      "value": "Faza eliminatorie"
     },
     "common_label_1": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
@@ -4232,7 +4087,7 @@
     "common_last_home_matches": {
       "comment": "Header for form table for home matches of the team",
       "english": "Last home matches",
-      "value": "`Ultimele meciuri acasă `"
+      "value": "Ultimele meciuri acasă"
     },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
@@ -4361,7 +4216,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "Acest videoclip este găzduit pe un site extern. FotMob nu este proprietarul conținutului pe care urmează să îl urmăriți.\\nFotomob nu este răspunzător și nu poate fi tras la răspundere pentru niciunul din conținuturile găzduite pe un site terț."
+      "value": "Acest videoclip este găzduit pe un site extern. FotMob nu este proprietarul conținutului pe care urmează să îl urmăriți.\\n\\nFotMob nu este responsabil și nu poate fi tras la răspundere sau considerat răspunzător pentru niciunul dintre conținuturile găzduite pe site-ul terț.\\n\\nPentru orice plângeri legale, vă rugăm să contactați proprietarul fișierului media sau furnizorul de găzduire video/audio."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4709,7 +4564,7 @@
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
-      "value": "Nu ai notificările activate pentru FotMob. Modificăle în Setări pentru a primii notificărilr."
+      "value": "Nu ai notificările activate pentru FotMob. Te rugăm să modifici acest lucru în Setări pentru a primi notificări."
     },
     "common_not_favorites": {
       "english": "Not favorites",
@@ -4790,7 +4645,7 @@
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "Primești notificări pentru evidențierea oficială a meciurilor care au activate alertele cu normă întreagă."
+      "value": "Primești notificări pentru rezumatele video oficiale ale meciurilor pentru care ai activate alertele de final de meci."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -4946,6 +4801,7 @@
       "value": "Paraguay"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Pauză"
     },
@@ -4983,6 +4839,7 @@
       "value": "Total meciuri"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Penalty-uri împotriva echipei"
     },
@@ -5047,7 +4904,7 @@
     },
     "common_player_fact": {
       "english": "Player fact",
-      "value": "Acțiunile jucătorului"
+      "value": "Informații despre jucător"
     },
     "common_player_profile": {
       "english": "Player profile",
@@ -5123,12 +4980,12 @@
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Posesie câștigată în careul mic"
+      "value": "Posesie câștigată în ultima treime"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Posesie câștigată în careul mic"
+      "value": "Posesie câștigată în ultima treime pe meci"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5507,7 +5364,7 @@
     "common_select_players_to_follow": {
       "comment": "Description label to explain the concept of following over the WC2018",
       "english": "Select the Players you want to keep an eye on.",
-      "value": "Selectează Jucătorii pe care dorești să ți cont."
+      "value": "Selectează jucătorii pe care vrei să-i urmărești."
     },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
@@ -5532,7 +5389,7 @@
     "common_select_your_team": {
       "comment": "Onboarding your favorite team",
       "english": "Start setup",
-      "value": "Echipa de start"
+      "value": "Începe configurarea"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5620,10 +5477,12 @@
       "value": "Suporter de argint"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Golul de argint"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Golul de argint"
     },
@@ -5906,7 +5765,7 @@
     "common_theme_auto": {
       "comment": "Option to choose the Default theme for the app",
       "english": "System default",
-      "value": "Impicit de sistem"
+      "value": "Implicit de sistem"
     },
     "common_theme_classic": {
       "comment": "Name of good ol' classic green FotMob theme",
@@ -5935,7 +5794,7 @@
     },
     "common_ticket": {
       "english": "Premium features",
-      "value": "Cracteristici Premium"
+      "value": "Caracteristici Premium"
     },
     "common_timezone_caption": {
       "english": "Choose timezone",
@@ -6113,9 +5972,9 @@
       "value": "Sumă"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Valoare pe piață"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Valoare de transfer"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6379,7 +6238,7 @@
     },
     "common_won_tackle_subtitle": {
       "english": "Tackle success",
-      "value": "Atacuri reușite"
+      "value": "Reușita tacklingurilor"
     },
     "common_won_tackle_team_subtitle": {
       "english": "Tackle success",
@@ -6387,7 +6246,7 @@
     },
     "common_won_tackle_team_title": {
       "english": "Successful tackles per match",
-      "value": "Atacuri reușite per meci"
+      "value": "Tackluri reușite pe meci"
     },
     "common_won_tackle_title": {
       "english": "Successful tackles per match",
@@ -6409,7 +6268,7 @@
     },
     "common_world_cup_popup_description": {
       "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Pentru a-ți oferii cea mai mare parte din Cupa Mondială, am muncit din greu pentru a crea o experiență unică la Cupa Mondială  – încearco!"
+      "value": "Pentru a-ți oferi cât mai mult din Cupa Mondială, am muncit din greu pentru a crea o experiență unică a Cupei Mondiale – încearcă!"
     },
     "common_world_cup_popup_header": {
       "english": "Try our new\\nWorld Cup mode!",
@@ -6683,7 +6542,7 @@
     },
     "new_END_NOTIFICATION": {
       "english": "%@ vs %@ finished %@-%@",
-      "value": "%@ cu %@ sa terminat %@-%@"
+      "value": "%@ vs %@ s-a terminat %@-%@"
     },
     "new_GOAL_SCORED": {
       "english": "%@ vs %@ %@-%@",
@@ -6695,7 +6554,7 @@
     },
     "new_START_NOTIFICATION": {
       "english": "%@ vs %@ has started",
-      "value": "%@ cu %@ a îceput"
+      "value": "%@ vs %@ a început"
     },
     "new_account": {
       "english": "Account",
@@ -6856,7 +6715,7 @@
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
       "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "`Poate prietenilor tăi le lipsește, partajezi FotMob cu ei? `"
+      "value": "Prietenii tăi ar putea rata ceva. Distribui FotMob cu ei acum?"
     },
     "new_invite_title": {
       "english": "Invite your friends to try FotMob",
@@ -6940,7 +6799,7 @@
     "new_notification_sound_sys_default": {
       "comment": "In custom notification sounds settings, option for choosing the system default sound for notifications",
       "english": "System default",
-      "value": "Impicit de sistem"
+      "value": "Implicit de sistem"
     },
     "new_odds_format": {
       "english": "Odds format",
@@ -7299,7 +7158,7 @@
     },
     "notifications_alert_card_removed": {
       "english": "Correction: %@%@ did not receive a red card\\n%@",
-      "value": "Corecție: %@%@ nu aprimit cartonaș roșu\\n%@"
+      "value": "Corecție: %@%@ nu a primit cartonaș roșu\\n%@"
     },
     "notifications_alert_goal": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
@@ -7495,7 +7354,7 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Șansă uriașă ratată"
+      "value": "Șanse uriașe ratate"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
@@ -7521,7 +7380,7 @@
     "notifications_by_team": {
       "comment": "Button indicating you can group the stats by team. Clicking on it will group the stats by hometeam and away team. If hard to translate then translate it to \"Teams\"",
       "english": "By team",
-      "value": "Pe  echipe"
+      "value": "Pe echipe"
     },
     "notifications_calendar": {
       "english": "Calendar",
@@ -7664,7 +7523,7 @@
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
       "english": "Duels lost",
-      "value": "Mingi pierdute"
+      "value": "Dueluri pierdute"
     },
     "notifications_duel_won": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
@@ -7709,7 +7568,7 @@
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
-      "value": "Eroare la lovitură"
+      "value": "Eroare care a dus la un șut"
     },
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
@@ -7769,17 +7628,17 @@
       "value": "Incert"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "La începutul lunii %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "La sfârșitul lunii %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "La mijlocul %1$@"
     },
@@ -7972,7 +7831,7 @@
     },
     "notifications_injury_103": {
       "english": "Away on International duty",
-      "value": "Depășește datoria internațională"
+      "value": "Absent la echipa națională"
     },
     "notifications_injury_104": {
       "english": "Abdominal injury",
@@ -8060,7 +7919,7 @@
     },
     "notifications_injury_123": {
       "english": "Shin splints injury",
-      "value": "Afectarea leziunilor piciorului"
+      "value": "Periostită tibială"
     },
     "notifications_injury_124": {
       "english": "Sprained knee injury",
@@ -8072,7 +7931,7 @@
     },
     "notifications_injury_126": {
       "english": "Bruised ankle",
-      "value": "Genunchi luxat"
+      "value": "Gleznă contuzionată"
     },
     "notifications_injury_127": {
       "english": "Tumor",
@@ -8088,7 +7947,7 @@
     },
     "notifications_injury_13": {
       "english": "Broken arm",
-      "value": "Umăr rupt"
+      "value": "Braț rupt"
     },
     "notifications_injury_130": {
       "english": "Knock",
@@ -8136,7 +7995,7 @@
     },
     "notifications_injury_22": {
       "english": "Broken rib",
-      "value": "Spatele rupt"
+      "value": "Coastă ruptă"
     },
     "notifications_injury_23": {
       "english": "Broken ankle",
@@ -8144,7 +8003,7 @@
     },
     "notifications_injury_25": {
       "english": "Broken toe",
-      "value": "Piciorul rupt"
+      "value": "Deget de la picior rupt"
     },
     "notifications_injury_29": {
       "english": "Toe injury",
@@ -8192,7 +8051,7 @@
     },
     "notifications_injury_40": {
       "english": "Sprained toe",
-      "value": "Piciorul răvășit"
+      "value": "Deget de la picior luxat"
     },
     "notifications_injury_41": {
       "english": "Sprained foot",
@@ -8264,7 +8123,7 @@
     },
     "notifications_injury_74": {
       "english": "Leg injury",
-      "value": "Leziune la genunchi"
+      "value": "Leziune la picior"
     },
     "notifications_injury_75": {
       "english": "Sprained leg",
@@ -8316,7 +8175,7 @@
     },
     "notifications_injury_86": {
       "english": "Broken cheekbone",
-      "value": "Gura spartă"
+      "value": "Pomeți fracturați"
     },
     "notifications_injury_87": {
       "english": "Muscle injury",
@@ -8430,12 +8289,12 @@
     "notifications_live": {
       "comment": "Describing TV listings sending a match live",
       "english": "Live",
-      "value": "`Direct `"
+      "value": "În direct"
     },
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
       "english": "You have been logged out. Please log in again so that we can continue keeping your favorites and settings safe.",
-      "value": "Ai fost deconectat. Te rugăm să te conectați din nou, astfel încât să putem păstra în siguranță preferințele și setările tale."
+      "value": "Ai fost deconectat. Te rugăm să te conectezi din nou, astfel încât să putem păstra în siguranță preferințele și setările tale."
     },
     "notifications_long_balls": {
       "comment": "Stat for long balls during the match",
@@ -8551,7 +8410,7 @@
     },
     "notifications_network_troubleshooting_help_text": {
       "english": "Please hold on while doing some automatic network testing. You can submit the log file to us once it's done.",
-      "value": "Păstrează-ți timpul în timp ce faci niște teste automate de rețea. Poți să ne trimiți fișierul de jurnal după ce ai terminat."
+      "value": "Te rugăm să aștepți în timp ce efectuăm automat câteva teste de rețea. Ne poți trimite fișierul jurnal după ce se termină."
     },
     "notifications_network_troubleshooting_help_text_error": {
       "english": "Please provide a detailed description of your issue in the log e-mail.",
@@ -8598,7 +8457,7 @@
     "notifications_no_data_available": {
       "comment": "Shown when no data is available",
       "english": "No data available",
-      "value": "Nu există date diponibile"
+      "value": "Nu există date disponibile"
     },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
@@ -8708,7 +8567,7 @@
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@ este în formația de start. %@ - %@"
+      "value": "%@ este în formația de start\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -8768,7 +8627,7 @@
     "notifications_player_throws": {
       "comment": "Goalkeeper throws or throw-ins from the side. We use the same translation for both.",
       "english": "Throws",
-      "value": "Degajări"
+      "value": "Aruncări"
     },
     "notifications_player_yellow_card": {
       "comment": "Messi got a yellow card.",
@@ -8778,7 +8637,7 @@
     "notifications_playoff": {
       "comment": "tab-title for brackets view in League overview",
       "english": "Knockout",
-      "value": "Calificări"
+      "value": "Eliminatorii"
     },
     "notifications_please_select_match": {
       "comment": "Prompt to ask user to click a match so they can view details for the match on an iPad",
@@ -9046,7 +8905,7 @@
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
       "english": "By time",
-      "value": "`După oră `"
+      "value": "După oră"
     },
     "notifications_sorted_by_time": {
       "comment": "Header indication that the list below is sorted by time",
@@ -9392,6 +9251,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Vă rugăm să împărtășiți detalii despre reclamă, cum ar fi advertiserul, pe ce ecran, videoclipul sau imaginea, și ce ați găsit problematic."
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Fă publicitate cu noi"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9621,7 +9485,7 @@
       "value": "Personalizați ecranul de pornire cu pictograme alternative pentru aplicații."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "xG împotriva pe teren"
     },
@@ -9786,7 +9650,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "Goluri încasate pe teren"
+      "value": "Goluri încasate (pe teren)"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9807,6 +9671,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Recordul actual in meciuri directe este %1$@ %2$@ victorii, %3$@ %4$@ victorii, și %5$@ egaluri."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Heatmap"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Vezi unde jucătorii își lasă amprenta pe teren. Atinge un jucător din ecranul de echipă pentru a verifica."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Heatmap-urile sunt aici"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9848,13 +9727,138 @@
       "english": "I need help",
       "value": "Am nevoie de ajutor"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Copiază linkul"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Copiază linkul și lipește-l în Safari sau Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Atinge cele trei puncte (•••) din dreapta jos, apoi „Deschide în browser”"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Atinge cele trei puncte (•••) din dreapta sus, apoi „Deschide în browser”"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Atinge meniul (≡), apoi „Deschide în alt browser”"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Atinge pictograma de partajare de jos, apoi alege browserul tău"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Atinge cele trei puncte (•••), apoi „Deschide în browser”"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Atinge cele trei puncte (•••) din dreapta sus, apoi „Deschide în browser extern”"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Atinge cele trei puncte (•••), apoi „Deschide în browser”"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Atinge cele trei puncte (•••), apoi „Deschide în browser”"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Atinge pictograma de partajare, apoi „Deschide în Safari” sau „Copiază linkul”"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Atinge cele trei puncte (•••), apoi „Deschide în…” și alege Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Copiază linkul și lipește-l în Safari sau Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Atinge pictograma de partajare, apoi „Deschide în Safari”"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Caută un meniu (••• sau pictogramă de partajare) și selectează 'Deschide în browser'"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Atinge cele trei puncte (•••), apoi „Deschide în Safari”"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Înapoi"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Deschide în browser"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Deschide în browser pentru a te conecta"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Deschide în Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Deschide în Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Sau manual:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "Autentificarea nu funcționează în mod fiabil în browserul %1$s. Deschide această pagină în Safari sau Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Încearcă totuși să te autentifici aici (s-ar putea să nu funcționeze)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Conectarea poate să nu funcționeze în acest browser încorporat al aplicației"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "Este posibil ca autentificarea să nu funcționeze în browserul %1$s. Pentru cea mai bună experiență, întoarce-te și deschide această pagină în browserul tău."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Te rog să deschizi această pagină în browserul dispozitivului tău (Safari sau Chrome) pentru a continua."
     },
@@ -9932,6 +9936,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Echipa salvată"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Niciunul"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10166,12 +10175,12 @@
     "seo_play_offs": {
       "comment": "Button title as a header for the Champions League playoffs. This is matches that decide who will progress to the Round of 16.",
       "english": "Play-offs",
-      "value": "Calificări"
+      "value": "Play-off"
     },
     "seo_play_offs_draw": {
       "comment": "Label as a header for the matches that will be part of a random draw which will decide which teams meet each other in the play off matches.",
       "english": "Play-offs draw",
-      "value": "Tragerea la sorți pentru Calificări"
+      "value": "Tragerea la sorți pentru play-off"
     },
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
@@ -10696,12 +10705,12 @@
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
       "english": "%1$@ %2$@ top rated players, goals, assists and other stats",
-      "value": "%1$@%2$@ jucători de top, goluri, asisturi și alte statistici"
+      "value": "%1$@ %2$@ cei mai bine notați jucători, goluri, pase decisive și alte statistici"
     },
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "%1$@%2$@ cele mai bune echipe, goluri pe meci, șuturi pe poartă și alte statistici"
+      "value": "%1$@ %2$@ cele mai bune echipe, goluri pe meci, șuturi pe poartă și alte statistici"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
@@ -10842,6 +10851,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "Trimiteți"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Înl"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -11035,6 +11049,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Ieș."
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Declarație privind Legea transparenței"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",

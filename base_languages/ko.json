@@ -133,7 +133,7 @@
     "accessibility_attacking_threat": {
       "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
       "english": "Momentum",
-      "value": "공격 위협"
+      "value": "모멘텀"
     },
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
@@ -266,7 +266,7 @@
     "accessibility_defensive_actions_explained": {
       "comment": "Explains what defensive contributions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
       "english": "Defensive contributions is the sum of attempted tackles, blocks, clearances, and interceptions.",
-      "value": "수비적 행동에는 모든 태클 시도, 블록, 클리어, 가로채기 등이 포함됩니다."
+      "value": "수비 기여도는 태클 시도, 블록, 클리어, 가로채기의 합입니다."
     },
     "accessibility_delete_account": {
       "comment": "Button that the user can click to delete his FotMob account so all his data is removed from our servers.",
@@ -350,12 +350,12 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "xGOT 상황"
+      "value": "상대 xGOT"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
       "english": "xGOT faced per 90",
-      "value": "90분당 xGOT 상황"
+      "value": "90분당 상대 xGOT 허용"
     },
     "accessibility_facts": {
       "comment": "The main tab for the match facts. Needs to be kept short.",
@@ -455,7 +455,7 @@
     "accessibility_full_table": {
       "comment": "String indicating that we will show a complete standings table with all the columns. See translation for short_table",
       "english": "Full",
-      "value": "가득 참"
+      "value": "전체"
     },
     "accessibility_fullscreen": {
       "comment": "Button text - click on it to open play-by-play in fullscreen.",
@@ -575,7 +575,7 @@
     "accessibility_individual_play": {
       "comment": "A shot setup description. Goal was scored due to a solo effort. One player did it all himself.",
       "english": "Individual play",
-      "value": "Индивидуальная игра"
+      "value": "개인기"
     },
     "accessibility_info_points_give": {
       "comment": "button to open information about how points are given in a tournament",
@@ -665,7 +665,7 @@
     "accessibility_insights_good_form_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Have won their last 7 matches.",
       "english": "Have won their last %1$@ matches",
-      "value": "최근 %1$@경기에서 승리"
+      "value": "최근 %1$@경기 연속 승리"
     },
     "accessibility_insights_lost_last_matches": {
       "comment": "The team has lost a particular number of consecutive matches. Example: \"Have lost their 5 last matches\"",
@@ -730,7 +730,7 @@
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
       "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)",
-      "value": "%1$@, %2$@에서 최다 경기당 유효 슈팅 (%3$@)"
+      "value": "%1$@이(가) %2$@에서 경기당 유효 슈팅이 가장 많음 (%3$@)"
     },
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
@@ -740,7 +740,7 @@
     "accessibility_insights_player_rank_in_competition": {
       "comment": "A player is ranked some number in a stat this season. Example: \"[Lionel Messi] is ranked [2nd] in [goals] in the competition (21)\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ is ranked %2$@ in %3$@ in the competition (%4$@)",
-      "value": "%1$@, 대회 %3$@에서 %2$@ 기록 (%4$@)"
+      "value": "%1$@은(는) 대회 %3$@에서 %2$@위(%4$@)입니다"
     },
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
@@ -750,12 +750,12 @@
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ consecutive matches",
-      "value": "%1$@, %2$@번의 경기에서 연속 득점"
+      "value": "%1$@가 %2$@경기 연속으로 득점했습니다"
     },
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@, 최근 %4$@경기에서 %3$@의 %2$@골 득점"
+      "value": "%1$@, %3$@의 최근 %4$@경기 중 %2$@경기에서 득점"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -825,7 +825,7 @@
     "accessibility_is_favorite": {
       "comment": "Meant for VoiceOver. A match/league/player etc. is part of your favorites",
       "english": "Is favorite",
-      "value": "즐겨찾습니다"
+      "value": "즐겨찾기됨"
     },
     "accessibility_is_not_favorite": {
       "comment": "Meant for VoiceOver. A match/league/player etc. is not a favorite",
@@ -1236,7 +1236,7 @@
     "accessibility_notifications_all_leagues_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite leagues.",
       "english": "Set notifications for all the leagues you follow",
-      "value": "모든 다음 리그에 대한 알림 설정"
+      "value": "팔로우하는 모든 리그의 알림을 설정하세요"
     },
     "accessibility_notifications_all_players_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite players.",
@@ -1246,7 +1246,7 @@
     "accessibility_notifications_all_teams_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite teams.",
       "english": "Set notifications for all the teams you follow",
-      "value": "모든 다음 팀에 대한 알림 설정"
+      "value": "팔로우하는 모든 팀에 대한 알림 설정"
     },
     "accessibility_notifications_enabled": {
       "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
@@ -1281,7 +1281,7 @@
     "accessibility_on_target": {
       "comment": "Shorthand for shots on target.",
       "english": "On target",
-      "value": "목표물 위"
+      "value": "유효"
     },
     "accessibility_on_tv": {
       "comment": "Text on button that shows matches that are shown on TV.",
@@ -1356,7 +1356,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "팀을 팔로우하여 앱 전체에서 우선순위를 정하세요."
+      "value": "팀을 팔로우하면 경기할 때와 골을 넣을 때 알림을 받을 수 있어요."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1414,7 +1414,7 @@
     },
     "accessibility_overviewheader_headertext": {
       "english": "Euro 2020 Predictor",
-      "value": "Euro 2020 Predictor"
+      "value": "유로 2020 예측기"
     },
     "accessibility_overviewheader_headertext_v2": {
       "comment": "Heading for the tournament predictor. Eg. \"EURO 2020 Predictor\" or \"Copa America 2021 Predictor\"",
@@ -1513,12 +1513,12 @@
     "accessibility_playing_today_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
       "english": "%@ other competitions play today",
-      "value": "오늘 %@개의 다른 경쟁 경기"
+      "value": "오늘 %@개의 다른 대회가 진행됩니다"
     },
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
       "english": "%1$@ and %2$@ other competitions play today",
-      "value": "오늘 %1$@ 외 %2$@개의 다른 경쟁 경기"
+      "value": "오늘 %1$@ 및 기타 %2$@개 대회가 열립니다"
     },
     "accessibility_playing_today_single": {
       "comment": "Placeholder is a league. So like \"Premier League is playing\"",
@@ -1690,7 +1690,7 @@
     "accessibility_season_so_far": {
       "comment": "Header of a section describing stats for how a season has gone so far (number of goals, wins, etc)",
       "english": "Season so far",
-      "value": "지금까지 시즌"
+      "value": "이번 시즌 현재까지"
     },
     "accessibility_season_stats": {
       "comment": "Used as a title of a button where the user can toggle to show seasonal stats for a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -1922,7 +1922,7 @@
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
-      "value": "선수 특성 차트는 비슷한 선수와 비교하여 선수의 통계적 강점과 약점을 강조 표시합니다.\\n\\n각 통계는 90일 단위로 조정되며 지난 365일 동안의 경기를 포함합니다.\\n\\n그런 다음 선수를 비슷한 리그의 포지션 동료와 비교하여 백분위수 순위를 매깁니다. 예를 들어, 기회 창출 백분위수 순위가 90%인 선수는 비슷한 리그에서 같은 포지션에 있는 선수의 90%보다 더 많은 기회를 창출한다는 의미입니다.\\n\\n비교에 대한 자세한 내용은 자주 묻는 질문에서 확인할 수 있습니다."
+      "value": "선수 특성 차트는 비슷한 선수와 비교하여 선수의 통계적 강점과 약점을 강조 표시합니다.\\n\\n각 통계는 90분당 기준으로 조정되며 지난 365일 동안의 경기를 포함합니다.\\n\\n그런 다음 선수를 비슷한 리그의 포지션 동료와 비교하여 백분위수 순위를 매깁니다. 예를 들어, 기회 창출 백분위수 순위가 90%인 선수는 비슷한 리그에서 같은 포지션에 있는 선수의 90%보다 더 많은 기회를 창출한다는 의미입니다.\\n\\n비교에 대한 자세한 내용은 자주 묻는 질문에서 확인할 수 있습니다."
     },
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
@@ -1967,7 +1967,7 @@
     "accessibility_stepsheader_step2_hinttext_v2": {
       "comment": "Description on which teams will advance from the group stage.",
       "english": "The four third-placed teams with the most points will advance.",
-      "value": "최가 포인트를 얻은 3위 팀 4개가 진출합니다."
+      "value": "승점이 가장 높은 3위 팀 4팀이 진출합니다."
     },
     "accessibility_stepsheader_step2_hinttext_v3": {
       "comment": "Explanation of what to do.",
@@ -2085,7 +2085,7 @@
     "accessibility_suspension_80": {
       "comment": "A reason for player's suspension in player-profile",
       "english": "Disciplinary points",
-      "value": "징계 원인"
+      "value": "징계 포인트"
     },
     "accessibility_sync_calendar_button_team": {
       "comment": "Option to sync a teams fixtures to your calendar. The placeholder is the team name like \"Sync Barcelona fixtures to your calendar\".",
@@ -2393,7 +2393,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "90분당 파울"
+      "value": "90분당 당한 파울"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -2489,7 +2489,7 @@
     },
     "common_access_calendar_needed": {
       "english": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar",
-      "value": "FotMob이 캘린더에 매치를 추가할 수 있는 권한을 부여해야 합니다"
+      "value": "캘린더에 경기를 추가하려면 FotMob에 캘린더 접근 권한을 허용해야 합니다"
     },
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
@@ -2527,7 +2527,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "좋아하는 팀에 관한 \\n<b>뉴스를 추가</b>하세요."
+      "value": "좋아하는 팀에 관한\\n<b>뉴스를 추가</b>하세요."
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2553,7 +2553,7 @@
     },
     "common_adfree_button_ok": {
       "english": "Go Gold",
-      "value": "광고 무료로 이동"
+      "value": "골드로 이동"
     },
     "common_adfree_later": {
       "english": "Not now",
@@ -2581,7 +2581,7 @@
     },
     "common_against": {
       "english": "against",
-      "value": "지난 경기"
+      "value": "상대"
     },
     "common_aggregate": {
       "english": "Aggregate",
@@ -2614,7 +2614,7 @@
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@ %@-%@ %@\\n%@골 허용됨 (VAR)"
+      "value": "%@ %@-%@ %@\\n%@골 취소됨 (VAR)"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
@@ -2704,7 +2704,7 @@
     },
     "common_autoplay_always": {
       "english": "Mobile data & Wi-Fi",
-      "value": "모바일 데이터 또는 Wi-Fi에서"
+      "value": "모바일 데이터 및 Wi‑Fi"
     },
     "common_autoplay_wifi": {
       "english": "Wi-FI only",
@@ -2712,7 +2712,7 @@
     },
     "common_average_goals_last3_both": {
       "english": "%1$@ have an average of %3$@ goals in their last three matches and %2$@ have an average of %4$@.",
-      "value": "%1$@은(는) 최슨 3경기에서 평균 %3$@골을 넣었고 %2$@은(는) 평균 %4$@골을 넣었습니다."
+      "value": "%1$@은(는) 최근 3경기에서 평균 %3$@골을 넣었고 %2$@은(는) 평균 %4$@골을 넣었습니다."
     },
     "common_awarded_win": {
       "comment": "Match status. The match is over and one of the teams has been awarded the win, for example due to the opposing team not showing up.",
@@ -2794,7 +2794,7 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "트윗이 없습니다"
+      "value": "Buzz를 사용할 수 없습니다"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
@@ -2952,7 +2952,7 @@
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "english": "Cleared off the line",
-      "value": "선 밖으로 클리어"
+      "value": "골라인에서 걷어냄"
     },
     "common_close": {
       "english": "Close",
@@ -3110,12 +3110,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>모든 데이터는 Opta가 제공하는 통계를 기반으로 계산됩니다.</p><p>FotMob 선수 평점은 100개 이상의 개별적인 경기당 선수의 통계를 기반으로 계산됩니다.</p><p>경기당 평점에서 경기는 단 몇 분의 교체 출전인 경우일지라도 참여하는 모든 경기를 의미합니다.</p><p>랭킹에 포함되려면 선수가 전체 경기의 50% 이상을 뛰어야 합니다.</p>"
+      "value": "<p>모든 데이터는 Opta가 제공하는 통계를 기반으로 계산됩니다.</p><p>FotMob 선수 평점은 경기당 선수별 100개 이상의 개별 통계를 기반으로 계산됩니다.</p><p>경기당 평점에서 ‘경기’는 선수가 참여한 모든 경기를 의미하며, 경기 막판 몇 분만 교체로 출전한 경우도 포함됩니다.</p><p>랭킹에 포함되려면 선수가 전체 경기의 최소 50%에 출전했고, (90분당 통계의 경우) 최소 90분을 뛰어야 합니다.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>모든 데이터는 Opta가 제공하는 통계를 기반으로 계산됩니다.</p><p>FotMob 선수 평점은 100개 이상의 개별적인 경기당 선수의 통계를 기반으로 계산됩니다.</p><p>경기당 평점에서 경기는 단 몇 분의 교체 출전인 경우일지라도 참여하는 모든 경기를 의미합니다.</p><p>랭킹에 포함되려면 선수가 전체 경기의 50%% 이상을 뛰어야 합니다.</p>"
+      "value": "<p>모든 데이터는 Opta가 제공하는 통계를 기반으로 계산됩니다.</p><p>FotMob 선수 평점은 경기당 선수별 100개 이상의 개별 통계를 기반으로 계산됩니다.</p><p>경기당 평점에서 ‘경기’는 경기 막판에 교체로 몇 분만 뛰었더라도 해당 선수가 참여한 모든 경기를 의미합니다.</p><p>랭킹에 포함되려면 선수가 전체 경기의 50%% 이상에 출전해야 하며(경기당 90분 통계의 경우) 최소 90분을 뛰어야 합니다.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3161,7 +3161,7 @@
     },
     "common_disclaimer_bet365": {
       "english": "Odds promotions are 18+.\\nRead more on BeGambleAware.org.",
-      "value": "Odds promotions는 18+입니다.\\n자세한 사항은 BeGambleAware.org를 참조하세요."
+      "value": "배당률 프로모션은 만 18세 이상만 이용할 수 있습니다.\\n자세한 내용은 BeGambleAware.org에서 확인하세요."
     },
     "common_double_chance": {
       "comment": "Odds type that indicates that you can bet on two outcomes. So you can bet one home and draw in one bet. https://www.online-betting.me.uk/betting-glossary/double-chance.php",
@@ -3202,7 +3202,7 @@
     },
     "common_drawn_long": {
       "english": "Drawn",
-      "value": "무승부였던"
+      "value": "무승부"
     },
     "common_duels_won_lost": {
       "comment": "Header of a graphic showing how many duels (header + tackles) the player has won or lost",
@@ -3340,31 +3340,36 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "FotMob의 알림이 비활성화 될 경우,  이 문제를 해결하기 위해 http://fotmob.com/faq.html를 방문하십시오."
+      "value": "알림 센터에서 FotMob의 알림이 비활성화되어 있습니다. 이 문제를 해결하려면 http://fotmob.com/faq.html 을(를) 방문하세요."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
-      "value": "로딩페이지로 인한 에러"
+      "value": "페이지를 불러오는 중 오류가 발생했습니다"
     },
     "common_errors_led_to_goal": {
       "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",
       "english": "Errors led to goal",
       "value": "골로 이어진 실수"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "추정 이적 가치 (ETV)는 현재 선수가 판매된다면 얼마나 가치가 있을지를 추정한 것입니다.\\n\\n실제 이적 데이터를 사용하여 계산되며 다음을 고려합니다:\\n\\n• 선수의 성과\\n• 나이와 미래 잠재력\\n• 포지션에서 얼마나 자주, 어떤 수준으로 플레이하는지\\n• 팀과 리그의 강도\\n• 계약이 얼마나 남았는지\\n• 최근 발전 및 유사한 요인들\\n\\n우리는 소문이나 어떤 클럽이 선수를 살지에 대해 집중하지 않고, 선수 자체에 집중합니다.\\n\\n이 가치는 시간이 지남에 따라 이적 시장의 변화를 반영하기 위해 정기적으로 업데이트됩니다."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "추정 선수 가치"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "추정 이적 가치"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "현재 판매 시 예상 가치"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "추정 이적 가치 (ETV)는 현재 선수가 판매된다면 얼마나 가치가 있을지를 추정한 것입니다.\\n\\n실제 이적 데이터를 사용하여 계산되며 다음을 고려합니다:\\n\\n• 선수의 성과 및 발전\\n• 나이와 미래 잠재력\\n• 얼마나 자주, 어떤 수준으로 플레이하는지\\n• 포지션\\n• 팀과 리그의 강도\\n• 남은 계약 기간\\n\\nETV는 소문이나 어떤 클럽이 선수를 살지에 대해 집중하지 않고, 선수 자체에 집중합니다.\\n\\n이 가치는 시간이 지남에 따라 변화를 반영하기 위해 정기적으로 업데이트됩니다."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "추정 가치"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3455,7 +3460,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "예상 유효 슈팅 (xGOT)"
+      "value": "유효 슈팅 기대 득점 (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3522,7 +3527,7 @@
     },
     "common_favorites": {
       "english": "Favorites",
-      "value": "응원하는 팀"
+      "value": "즐겨찾기"
     },
     "common_favorites_news": {
       "comment": "A header for the hint (onboarding) for the new News, where we explain how to change order of the news-sections(leagues, teams) inside the tab",
@@ -3577,7 +3582,7 @@
     },
     "common_firstextrahalf": {
       "english": "First extra half",
-      "value": "전반전 추가시간"
+      "value": "연장 전반"
     },
     "common_firsthalf": {
       "english": "First half",
@@ -3619,12 +3624,12 @@
     "common_for_you": {
       "comment": "Section in News with either your favorites' news or the news we've picked for the user ourselves",
       "english": "For you",
-      "value": "추천 뉴스"
+      "value": "회원님을 위한"
     },
     "common_forward_backward_passes": {
       "comment": "Header of a graphic showing how many passes ended in the forward zone / opposition half and how many passes ended in own half. So can be translated as \"Opposition half / own half\"",
       "english": "Opposition half / own half",
-      "value": "반대 절반 / 자신 절반"
+      "value": "상대 진영 / 자기 진영"
     },
     "common_fotmob_supporters_club": {
       "comment": "Name of the supporters club for FotMob where you can join to support FotMob development.",
@@ -3658,162 +3663,6 @@
     "common_fulltime_short": {
       "english": "FT",
       "value": "FT"
-    },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@이(가) 파울을 해서 %2$@이(가) 페널티를 얻었습니다."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@은(는) 시합에서 파울(%2$@번)을 가장 많이 기록한 선수이었습니다."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@은(는) 시합에서 파울(%2$@번)을 가장 많이 기록한 선수입니다."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많이 볼 경합(%2$@)에서 패배했습니다."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많이 볼 경합(%2$@)에서 패배했습니다."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많이 볼 점유(%2$@)를 잃었습니다."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@은(는) 시합에서 가장 많이 볼 점유(%2$@)를 잃었습니다."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@은(는) 90분간 뛴 아웃필드 선수 중 볼터치(%2$@)가 가장 적었습니다."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@은(는) 아웃필드 선수 중 볼터치(%2$@)가 가장 적습니다."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@은(는) %2$@의 골로 연결되는 실수를 했습니다."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@은(는) %2$@의 골로 연결되는 실수를 했습니다.",
-        "other": "%1$@은(는) %2$@의 골로 연결되는 %3$d개의 실수를 했습니다."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 드리블(%2$@)을 기록했습니다."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 드리블(%2$@)을 기록했습니다."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 기회(%2$@)를 창출했습니다."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 기회(%2$@)를 만들었습니다."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 패스(%2$@)를 성공했습니다."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 패스(%2$@)를 성공했습니다."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 태클(%2$@)을 기록했습니다."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많은 태클(%2$@)을 기록하고 있습니다."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@은(는) 평점 %2$@(으)로 최우수 선수로 선정되었습니다."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@은(는) 현재 가장 높은 시합 평점인 %2$@을(를) 기록하고 있습니다."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@은(는) 상대 팀 구역에서 가장 많은 볼 터치(%2$@)를 기록했습니다."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@은(는) 상대 팀 구역에서 가장 많은 볼 터치(%2$@)를 기록하고 있습니다."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@은(는) 45분 이상 뛴 선수 중 정확한 패스(%2$@)가 가장 많았습니다."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 정확한 패스(%2$@)가 가장 많습니다."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@은(는) 자책골을 기록했습니다."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많이 볼 경합(%2$@)에서 승리했습니다."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@은(는) 시합에서 가장 많이 볼 경합(%2$@)에서 승리했습니다."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@은(는) 총 %3$@번의 슈팅 중 %2$@번 골대를 맞혔습니다."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@은(는) 총 %3$@번의 슈팅 중 %2$@번 골대를 맞혔습니다."
     },
     "common_generalUpper": {
       "english": "GENERAL",
@@ -3932,6 +3781,7 @@
       "value": "골드 서포터"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "결승골"
     },
@@ -4009,6 +3859,11 @@
       "english": "Hide %@ news",
       "value": "%@ 뉴스 숨기기"
     },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "최고"
+    },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
       "english": "Highlight",
@@ -4068,7 +3923,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "FotMob 서포터 클럽에 가입해서 광고를 제거하고 아무런 방해 없이 FotMob을 더 빠르게 즐기세요. 당신의 지운은 FotMob을 더 쾌적하게 만들기 위해 큰 도움이 됩니다. 지원해 주셔서 감사합니다!"
+      "value": "FotMob 서포터 클럽에 가입해 저희가 관리하는 광고를 제거하고 더 빠르고 방해 없는 FotMob을 즐겨보세요. 여러분의 지원은 FotMob을 더 나은 서비스로 만들기 위한 큰 도움이 됩니다. 단, 제3자 뉴스 기사를 클릭하면 해당 웹사이트에 표시되는 광고는 저희가 제어할 수 없습니다. 지원해 주셔서 감사합니다!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4096,7 +3951,7 @@
     "common_injury_134": {
       "comment": "The club has decided the player can't play as a disciplinary action",
       "english": "Disciplinary action by club",
-      "value": "클럽의 징계 작업"
+      "value": "구단 징계 조치"
     },
     "common_injury_135": {
       "comment": "COVID-19 virus. Doesn't need to be translated if it is spelled the same.",
@@ -4126,12 +3981,12 @@
     "common_international_national_teams": {
       "comment": "Header indication for a list of tournaments where national teams play each other. So country vs country like England vs Brazil as opposed to club competitions where Barcelona play Manchester United.",
       "english": "International - national teams",
-      "value": "해외 - 국가대표 팀"
+      "value": "국제 - 국가대표팀"
     },
     "common_invite_informal_prompt2": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
       "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "친구가 잊었을 수 있습니다.<br/><b>지금 FotMob을 공유할까요?</b>"
+      "value": "친구들이 놓치고 있을지도 몰라요.<br/><b>지금 FotMob을 공유할까요?</b>"
     },
     "common_keeper": {
       "comment": "MAX 2 chars!",
@@ -4211,7 +4066,7 @@
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
-      "value": "최종 태클"
+      "value": "최후방 수비 태클"
     },
     "common_last_poll_failed": {
       "english": "Last poll failed. Retrying at",
@@ -4266,7 +4121,7 @@
     },
     "common_league_has_notifications": {
       "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "리그 활성화 한 알람을 당신은 라이브 창에서 필터 메뉴를 통해 알림을 해제해야합니다"
+      "value": "리그에서 알림을 활성화했습니다. 경기 탭의 필터 메뉴에서 알림을 꺼야 합니다."
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4335,7 +4190,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "이 동영상은 외부 사이트에서 호스트되었습니다. FotMob은 시청하려는 콘텐츠의 소유자가 아닙니다.\\n\\nFotMob은 제3자 사이트에서 호스트된 모든 콘텐츠에 대한 법률적 책임 또는 책임을 지지 않습니다."
+      "value": "이 동영상은 외부 사이트에서 호스팅됩니다. FotMob은 귀하가 시청하려는 콘텐츠의 소유자가 아닙니다.\\n\\nFotMob은 제3자 사이트에 호스팅된 콘텐츠에 대해 책임을 지지 않으며, 그로 인해 발생하는 어떠한 법적 책임도 부담하지 않습니다.\\n\\n법적 불만 사항이 있는 경우 미디어 파일 소유자 또는 동영상/오디오 호스팅 제공업체에 문의해 주세요."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4358,7 +4213,7 @@
     "common_local": {
       "comment": "A tab-switcher to switch between \"Local\" teams (from your region) and \"Suggested\" ones (from across the globe)",
       "english": "Local",
-      "value": "지역 팀"
+      "value": "지역"
     },
     "common_locked_alerts": {
       "comment": "Placeholder is a leaguename or team name. This is an information message saying user cannot change the alerts on this match because he has league or team alerts set",
@@ -4380,7 +4235,7 @@
     },
     "common_lost_long": {
       "english": "Lost",
-      "value": "패배했던"
+      "value": "패배"
     },
     "common_ltc": {
       "english": "Live ticker",
@@ -4423,7 +4278,7 @@
     },
     "common_matches_sub_out": {
       "english": "Matches substituted out",
-      "value": "교체 아웃"
+      "value": "교체 아웃 경기 수"
     },
     "common_matches_uppercase": {
       "english": "Matches",
@@ -4455,7 +4310,7 @@
     "common_member_since": {
       "comment": "Indicates when they joined. Like \"Member since 2014\".",
       "english": "Member since %@",
-      "value": "%@에 가입"
+      "value": "%@부터 회원"
     },
     "common_members_only": {
       "comment": "Writter in parenthesis after \"App icons\" to indicate that this is a premium feature exclusive to our paying users.",
@@ -4477,7 +4332,7 @@
     },
     "common_message_sent": {
       "english": "Tip: Long press a goal or other event to share it.",
-      "value": "팁 : 길게 누르면 달성하거나 공유 할 수있는 다른 이벤트."
+      "value": "팁: 골이나 다른 이벤트를 길게 누르면 공유할 수 있습니다."
     },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
@@ -4504,7 +4359,7 @@
     },
     "common_minimize_all": {
       "english": "Minimize all",
-      "value": "리그 모아두기"
+      "value": "모두 최소화"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4571,7 +4426,7 @@
     },
     "common_never": {
       "english": "Never",
-      "value": "다시 표시하지 않음"
+      "value": "절대"
     },
     "common_never_miss_a_headline": {
       "comment": "Title in onboarding for team news alert",
@@ -4580,7 +4435,7 @@
     },
     "common_new_leagues": {
       "english": "New leagues available",
-      "value": "새로운 리그 활성화"
+      "value": "새 리그 이용 가능"
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
@@ -4624,15 +4479,15 @@
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
-      "value": "전적 없음"
+      "value": "경기 일정 없음"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
-      "value": "시합 사실의 가능성 없음"
+      "value": "경기 정보가 없습니다"
     },
     "common_no_matches_today": {
       "english": "No matches in selected leagues",
-      "value": "오늘 선택된 리그의 시합없음"
+      "value": "선택한 리그에 경기 없음"
     },
     "common_no_results_for_query": {
       "comment": "Onboarding: not players found for the query",
@@ -4715,7 +4570,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "알림을 표시할 경우 점수 알림의 볼륨을 조절하고 변경합니다. 시간대를 변경합니다."
+      "value": "득점 알림의 볼륨을 조절하고 알림을 표시할 시점을 변경합니다. 시간대를 변경합니다."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -4820,7 +4675,7 @@
     "common_onboarding_settings": {
       "comment": "Showing a hint to the user where to find the part of the app where he can customize the notifications and the filtering of leagues.",
       "english": "Pro tip: You can customize alerts and filter leagues in Settings.",
-      "value": "프로 팁: 설정에서 알림 및 필터 리그를 사용자 정의할 수 있습니다."
+      "value": "프로 팁: 설정에서 알림을 맞춤 설정하고 리그를 필터링할 수 있습니다."
     },
     "common_onboarding_team_help_infromation": {
       "comment": "Help text to explain onboarding for users",
@@ -4914,6 +4769,7 @@
       "value": "파라과이"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "멈춤"
     },
@@ -4951,6 +4807,7 @@
       "value": "총 경기"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "페널티킥 허용"
     },
@@ -5109,7 +4966,7 @@
     "common_possible_qualification_next_stage": {
       "comment": "This table position may give a qualification to the next stage depending upon the rules of the tournament",
       "english": "Possible qualification next stage",
-      "value": "가능한 예선 다음 단계"
+      "value": "다음 단계 진출 가능"
     },
     "common_post_to_facebook": {
       "english": "Post to Facebook",
@@ -5364,7 +5221,7 @@
     },
     "common_score_poll_interval": {
       "english": "Score polling interval",
-      "value": "점수 설문조사 간격"
+      "value": "점수 업데이트 조회 간격"
     },
     "common_score_volume": {
       "english": "Score alert volume",
@@ -5410,7 +5267,7 @@
     },
     "common_secondextrahalf": {
       "english": "Second extra half",
-      "value": "후반전 추가시간"
+      "value": "연장 후반"
     },
     "common_secondhalf": {
       "english": "Second half",
@@ -5490,7 +5347,7 @@
     "common_select_team_picker_description": {
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
-      "value": "선택한 팀에서 정보 보기"
+      "value": "선택한 팀의 정보를 확인하세요"
     },
     "common_select_teams_to_follow": {
       "comment": "Description label to explain the concept of following over the WC2018",
@@ -5545,7 +5402,7 @@
     },
     "common_show_hide_matches_mnu": {
       "english": "Filter matches",
-      "value": "리그 필터"
+      "value": "경기 필터"
     },
     "common_show_result_count": {
       "comment": "A label indicating how many transfers we found matching the search result that the user has inputted.",
@@ -5554,7 +5411,7 @@
     },
     "common_show_table": {
       "english": "Show table",
-      "value": "팀 순위"
+      "value": "순위표 보기"
     },
     "common_show_team_logos_in_table": {
       "english": "Show team logos in table",
@@ -5588,10 +5445,12 @@
       "value": "실버 서포터"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "실버골"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "실버골"
     },
@@ -5602,7 +5461,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "라이브 창에서 원하는 순서대로 대회를 드래그하거나 선택하고 원하는 정렬을 만들기 위해 버튼을 사용"
+      "value": "경기 탭에서 리그 순서를 바꾸려면 드래그하세요. 또는 리그를 탭한 뒤 하단 버튼을 사용해 이동하세요."
     },
     "common_sort_favorite_leagues_v2": {
       "comment": "A body for the hint (onboarding) for the new News, where we explain how to change order of the news-sections",
@@ -5625,7 +5484,7 @@
     },
     "common_staff_picks": {
       "english": "Staff picks",
-      "value": "리그 선택하기"
+      "value": "스태프 추천"
     },
     "common_star": {
       "english": "Add %@",
@@ -5676,7 +5535,7 @@
     },
     "common_stream_playback_initializing": {
       "english": "Initializing audio playback…",
-      "value": "오디오 재생 설치중.."
+      "value": "오디오 재생을 초기화하는 중…"
     },
     "common_stream_playback_playing": {
       "english": "Playing audio stream",
@@ -5698,7 +5557,7 @@
     },
     "common_subs_stats": {
       "english": "Substitutes",
-      "value": "교체 횟수"
+      "value": "교체 선수"
     },
     "common_suggested": {
       "comment": "Onboarding: header for the top players list",
@@ -5817,12 +5676,12 @@
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "팀 중 하나에 활성화 한 알림을 당신은 팀 페이지를 통해 알림을 해제해야합니다"
+      "value": "팀 중 하나에서 알림이 활성화되어 있습니다. 팀 페이지에서 알림을 꺼야 합니다."
     },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
       "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "‘${team}’?을(를) 원하신 것이 확실하세요?"
+      "value": "확인차 여쭤볼게요. ‘${team}’을(를) 원하신 게 맞나요?"
     },
     "common_team_selection_intent_match": {
       "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
@@ -5903,7 +5762,7 @@
     },
     "common_ticket": {
       "english": "Premium features",
-      "value": "광고 해제하기"
+      "value": "프리미엄 기능"
     },
     "common_timezone_caption": {
       "english": "Choose timezone",
@@ -5912,7 +5771,7 @@
     "common_tip_filter_and_sort": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
       "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "이 %1$@을(를) 탭해서 리그 <b>필터링 및 정렬</b>"
+      "value": "여기를 탭하면 %1$@에서 리그를 <b>필터링 및 정렬</b>할 수 있습니다"
     },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
@@ -5951,7 +5810,7 @@
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
-      "value": "토글 알림"
+      "value": "알림 켜기/끄기"
     },
     "common_tomorrow": {
       "english": "Tomorrow",
@@ -5970,7 +5829,7 @@
     "common_top_rated": {
       "comment": "Label for the top rated player in the Team Profile",
       "english": "Top rated",
-      "value": "최고 선수"
+      "value": "최고 평점"
     },
     "common_top_scorer": {
       "comment": "Label for the top scorer player in the Team Profile",
@@ -6048,7 +5907,7 @@
     },
     "common_transfer_enable_all": {
       "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "좋아하는 팀과 리그에 대한 맞춤형 이전 알림을 받으시겠습니까?"
+      "value": "좋아하는 팀과 리그에 대한 맞춤형 이적 알림을 받으시겠습니까?"
     },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
@@ -6081,9 +5940,9 @@
       "value": "금액"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "시장 가치"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "이적 가치"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6110,7 +5969,7 @@
     "common_tv_schedules_change_stations": {
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
-      "value": "여기를 클릭해서 자신이 보는 TV 채널 변경"
+      "value": "여기를 클릭하여 표시할 TV 채널을 변경하세요"
     },
     "common_tv_selected_denmark": {
       "english": "TV schedules - Denmark",
@@ -6130,7 +5989,7 @@
     },
     "common_tv_selected_sweden": {
       "english": "TV schedules - Sweden",
-      "value": "TV schedules - 스웨덴"
+      "value": "TV 일정 - 스웨덴"
     },
     "common_tv_selected_uk": {
       "english": "TV schedules - UK",
@@ -6218,12 +6077,12 @@
     "common_var_penalty_goal_retake": {
       "comment": "Penalty goal had to be retaken due to Video Assistant referee. Note that the player scored on the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty goal cancelled\" with no reference to Video Assistant referee.",
       "english": "Penalty goal - to be retaken",
-      "value": "페널티 득점 - 다시 찍힘"
+      "value": "페널티 득점 - 재실시"
     },
     "common_var_penalty_miss_retake": {
       "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
       "english": "Missed penalty - to be retaken",
-      "value": "페널티 실축 - 다시 찍힘"
+      "value": "페널티 실축 - 재실시"
     },
     "common_var_pending": {
       "comment": "Information that the Video Assistant Referee is checking something",
@@ -6274,7 +6133,7 @@
     },
     "common_view_favorites": {
       "english": "View favorites",
-      "value": "응원하는팀 보기"
+      "value": "즐겨찾기 보기"
     },
     "common_view_fixtures": {
       "english": "View fixtures",
@@ -6310,7 +6169,7 @@
     },
     "common_widget_configure_title": {
       "english": "Configure widget",
-      "value": "위젯 형성"
+      "value": "위젯 설정"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",
@@ -6410,7 +6269,7 @@
     },
     "common_you_are_a": {
       "english": "You are a %@!",
-      "value": "You are a %@!"
+      "value": "너는 %@야!"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
@@ -6419,7 +6278,7 @@
     },
     "ios_BUL": {
       "english": "Bulgarian",
-      "value": "불가리아인"
+      "value": "불가리아어"
     },
     "ios_CZE": {
       "english": "Czech",
@@ -6427,11 +6286,11 @@
     },
     "ios_Changing_notification": {
       "english": "Changing notification...",
-      "value": "알림을 변경..."
+      "value": "알림을 변경하는 중..."
     },
     "ios_DEN": {
       "english": "Danish",
-      "value": "덴마크인"
+      "value": "덴마크어"
     },
     "ios_Done": {
       "english": "Done",
@@ -6443,7 +6302,7 @@
     },
     "ios_ESP": {
       "english": "Spanish",
-      "value": "스페인인"
+      "value": "스페인어"
     },
     "ios_Error_reporting": {
       "english": "Error reporting",
@@ -6455,15 +6314,15 @@
     },
     "ios_GRE": {
       "english": "Greek",
-      "value": "그리스인"
+      "value": "그리스"
     },
     "ios_HUN": {
       "english": "Hungarian",
-      "value": "헝가리인"
+      "value": "헝가리어"
     },
     "ios_ITA": {
       "english": "Italian",
-      "value": "이탈리아인"
+      "value": "이탈리아어"
     },
     "ios_Matches_and_News": {
       "comment": "Header for a team where matches is the matches the team has played and news is the team news",
@@ -6476,7 +6335,7 @@
     },
     "ios_NOR": {
       "english": "Norwegian",
-      "value": "노르웨이인"
+      "value": "노르웨이어"
     },
     "ios_No_info_available": {
       "english": "No info available",
@@ -6484,11 +6343,11 @@
     },
     "ios_POL": {
       "english": "Polish",
-      "value": "폴란드인"
+      "value": "폴란드어"
     },
     "ios_POR": {
       "english": "Portuguese",
-      "value": "포르투갈인"
+      "value": "포르투갈어"
     },
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
@@ -6504,7 +6363,7 @@
     },
     "ios_ROU": {
       "english": "Romanian",
-      "value": "루마니아인"
+      "value": "루마니아"
     },
     "ios_Rank": {
       "comment": "Do not use more than 5 characters! There is little room in the GUI for this string",
@@ -6513,15 +6372,15 @@
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
-      "value": "이전의 구매항목을 복원"
+      "value": "구매 항목을 복원할까요?"
     },
     "ios_SVK": {
       "english": "Slovak",
-      "value": "슬로바키아인"
+      "value": "슬로바키아어"
     },
     "ios_SWE": {
       "english": "Swedish",
-      "value": "스웨인인"
+      "value": "스웨덴어"
     },
     "ios_Sorting": {
       "comment": "Menuchoice to change the sortorder of the leagues",
@@ -6538,7 +6397,7 @@
     },
     "ios_Tweet_the_applink": {
       "english": "Tweet the link of FotMob",
-      "value": "Tweet the link of FotMob"
+      "value": "FotMob 링크를 트윗하기"
     },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
@@ -6578,7 +6437,7 @@
     },
     "ios_location_reason": {
       "english": "We only use your location to enable features available to some countries",
-      "value": "일부 국가에서 사용할 수있는 기능을 사용하려면 사용자의 위치를 ​​활성화해야 합니다"
+      "value": "일부 국가에서만 제공되는 기능을 활성화하기 위해서만 사용자의 위치 정보를 사용합니다"
     },
     "ios_losses": {
       "english": "Losses",
@@ -6634,7 +6493,7 @@
     },
     "ios_top_goalscorer": {
       "english": "Top goal scorer",
-      "value": "팀내 최다 득점자"
+      "value": "최다 득점자"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -6643,7 +6502,7 @@
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
-      "value": "경기가 없습니다! 알림을 설정하려면 경기에 별을 추가 해주십시오,"
+      "value": "이런, 경기가 없습니다! 여기에서 보이게 하려면 알림을 추가하거나 경기에 별표를 해주세요."
     },
     "ios_wins": {
       "english": "Wins",
@@ -6685,7 +6544,7 @@
     "new_bracket": {
       "comment": "This is the World Cup bracket. Like this http://cdn.bleacherreport.net/images_root/article/media_slots/photos/001/240/770/KnockoutRoundBracket_original.jpg?1386355815",
       "english": "Bracket",
-      "value": "Bracket"
+      "value": "대진표"
     },
     "new_bronzeFinal": {
       "english": "Bronze-final",
@@ -6708,7 +6567,7 @@
     "new_city_guides": {
       "comment": "Videos from the World Cup citys",
       "english": "City guides",
-      "value": "City guides"
+      "value": "도시 가이드"
     },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
@@ -6763,7 +6622,7 @@
     "new_explanation": {
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
-      "value": "우리는 아래의 팀을 위해 손수 뉴스 알림을 보낼 수 있습니다. 뉴스 알림를 활성화하고 최신 상황을 유지하기 위해 확인을 클릭합니다."
+      "value": "아래 팀에 대해 엄선한 뉴스 알림을 보내드립니다. 뉴스 알림을 활성화하고 최신 소식을 받아보려면 확인을 누르세요."
     },
     "new_favorite_summary": {
       "comment": "Summary info text",
@@ -6790,7 +6649,7 @@
     "new_goals_start_and_finish": {
       "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
       "english": "Goals, start and finish",
-      "value": "Goals, start and finish"
+      "value": "골, 시작 및 종료"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -6809,7 +6668,7 @@
     "new_how_to_remove_news_notifications": {
       "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
       "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "벨을 클릭하여 팀 페이지에 토글 뉴스 알림"
+      "value": "팀 페이지에서 벨 아이콘을 눌러 뉴스 알림을 켜거나 끌 수 있습니다."
     },
     "new_intro_text": {
       "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
@@ -6819,12 +6678,12 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "이 앱을 사용해 보세요. 프리미어 리그가 손 안에서 펼쳐집니다."
+      "value": "실시간 축구 스코어를 보려고 이 앱을 사용 중이에요. 확인해 보세요!"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
       "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "친구가 잊었을 수 있습니다. FotMob을 지금 공유할까요?"
+      "value": "친구들이 놓치고 있을지도 몰라요. 지금 FotMob을 공유할까요?"
     },
     "new_invite_title": {
       "english": "Invite your friends to try FotMob",
@@ -6886,15 +6745,15 @@
     "new_no_more_goals": {
       "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
       "english": "No more goals",
-      "value": "더 이상의 목표없음"
+      "value": "더 이상 득점 없음"
     },
     "new_no_odds": {
       "english": "No odds",
-      "value": "배당 표시 해제"
+      "value": "배당률 없음"
     },
     "new_no_player_data": {
       "english": "Nothing here yet, check back later",
-      "value": "아직 여기에 활성화되지 않았습니다. 나중에 다시 체크해주세요"
+      "value": "아직 여기에 아무것도 없어요. 나중에 다시 확인해 주세요"
     },
     "new_no_thanks": {
       "english": "No thanks",
@@ -6903,7 +6762,7 @@
     "new_notification_sound_fav_opponent": {
       "comment": "it is in the notification settings where you can choose a sound for the goal of an opponent to your favorite team",
       "english": "Favorite opponent goal",
-      "value": "좋아하는 상대 득점"
+      "value": "즐겨찾는 팀 상대 득점"
     },
     "new_notification_sound_sys_default": {
       "comment": "In custom notification sounds settings, option for choosing the system default sound for notifications",
@@ -6943,7 +6802,7 @@
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
       "english": "%@ is not sent off",
-      "value": "%@은(는) 나가지 않음"
+      "value": "%@은(는) 퇴장하지 않았습니다"
     },
     "new_player_scores": {
       "english": "%@ scores!",
@@ -6952,7 +6811,7 @@
     "new_player_sent_off": {
       "comment": "Information message that a player has received a red card",
       "english": "%@ is sent off!",
-      "value": "%@이(가) 나갑니다!"
+      "value": "%@이(가) 퇴장당했습니다!"
     },
     "new_profile_picture": {
       "english": "Profile picture",
@@ -7087,7 +6946,7 @@
     "new_to_win": {
       "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
       "english": "To win",
-      "value": "To win"
+      "value": "우승"
     },
     "new_top_players": {
       "english": "Top players",
@@ -7095,7 +6954,7 @@
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
-      "value": "인기 이적 소식을 당신에게만 보냅니다."
+      "value": "최고의 이적 소식에 대해서만 알림을 보내드릴게요."
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7178,7 +7037,7 @@
       },
       "plurals": {
         "one": "+%d분 추가됨",
-        "other": "+%d분 추가됨 minutes added"
+        "other": "+%d분 추가됨"
       },
       "value": "+%@분 추가됨"
     },
@@ -7198,7 +7057,7 @@
     },
     "notifications_alert_Aborted": {
       "english": "%@ %@-%@ %@\\nAborted",
-      "value": "%@ %@-%@ %@\\n무시됨"
+      "value": "%@ %@-%@ %@\\n중단됨"
     },
     "notifications_alert_AfterExtraTime": {
       "english": "%@ %@-%@ %@\\nFinished after extra time",
@@ -7258,7 +7117,7 @@
     },
     "notifications_alert_assist": {
       "english": "%@ %@-%@ %@\\n%@%@ got an assist",
-      "value": "%@ %@-%@ %@\\n%@%@이(가) 득점을 어시스트했습니다"
+      "value": "%@ %@-%@ %@\\n%@%@이(가) 어시스트를 기록했습니다"
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
@@ -7475,7 +7334,7 @@
     },
     "notifications_bosnia": {
       "english": "Bosnia and Herzegovina",
-      "value": "보스니사 헤르체고비나"
+      "value": "보스니아 및 헤르체고비나"
     },
     "notifications_brazil": {
       "english": "Brazil",
@@ -7590,7 +7449,7 @@
     },
     "notifications_disable_push": {
       "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "계속하시겠습니까? 알림에 문제가 있을 때만 할 수 있습니다."
+      "value": "계속하시겠습니까? 알림에 문제가 있을 때만 이 작업을 수행하는 것이 좋습니다."
     },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
@@ -7609,7 +7468,7 @@
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
-      "value": "- \"방해금지 설정이 켜져 있습니다"
+      "value": "- \"방해 금지\"가 활성화되어 있습니다"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
@@ -7681,7 +7540,7 @@
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
       "english": "No component for speech recognition was found.",
-      "value": "음성 인식 상대가 발견되지 않았습니다."
+      "value": "음성 인식을 위한 구성 요소를 찾을 수 없습니다."
     },
     "notifications_error_signing_in_with": {
       "english": "There was a problem signing in with %@. Please try again.",
@@ -7736,17 +7595,17 @@
       "value": "의심스러움"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "%1$@ 초반"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "%1$@ 후반"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "%1$@ 중반"
     },
@@ -7767,15 +7626,15 @@
     },
     "notifications_filter_and_sort_tournaments": {
       "english": "Filter and sort leagues",
-      "value": "토너먼트 필터 및 정렬"
+      "value": "리그 필터 및 정렬"
     },
     "notifications_filter_tournaments": {
       "english": "Filter leagues",
-      "value": "필터 토너먼트"
+      "value": "리그 필터"
     },
     "notifications_filter_tournaments_help_text": {
       "english": "Select which leagues to display in Matches tab",
-      "value": "라이브 스크린에 표시할 토너먼트를 선택해 주세요"
+      "value": "경기 탭에 표시할 리그를 선택해 주세요"
     },
     "notifications_finland": {
       "english": "Finland",
@@ -7826,7 +7685,7 @@
     "notifications_goals_headedGoals": {
       "comment": "Goals scored via head",
       "english": "Goals via header",
-      "value": "헤더 득점"
+      "value": "헤딩 득점"
     },
     "notifications_goals_inside_box": {
       "comment": "Goals scored inside the penalty area",
@@ -7939,7 +7798,7 @@
     },
     "notifications_injury_103": {
       "english": "Away on International duty",
-      "value": "국제 경기 이동"
+      "value": "국가대표 차출로 결장"
     },
     "notifications_injury_104": {
       "english": "Abdominal injury",
@@ -7983,7 +7842,7 @@
     },
     "notifications_injury_113": {
       "english": "Dislocated kneecap",
-      "value": "슬개골 팔꿈치"
+      "value": "슬개골 탈구"
     },
     "notifications_injury_114": {
       "english": "Gastrointestinal discomfort",
@@ -7991,7 +7850,7 @@
     },
     "notifications_injury_115": {
       "english": "Strain injury",
-      "value": "염좌 부상"
+      "value": "근육 염좌"
     },
     "notifications_injury_116": {
       "english": "Heel injury",
@@ -8019,7 +7878,7 @@
     },
     "notifications_injury_121": {
       "english": "Physical discomfort",
-      "value": "체력 불편"
+      "value": "신체적 불편감"
     },
     "notifications_injury_122": {
       "english": "Shin injury",
@@ -8027,7 +7886,7 @@
     },
     "notifications_injury_123": {
       "english": "Shin splints injury",
-      "value": "정강이 관골류 부상"
+      "value": "정강이 통증(신스플린트) 부상"
     },
     "notifications_injury_124": {
       "english": "Sprained knee injury",
@@ -8251,7 +8110,7 @@
     },
     "notifications_injury_79": {
       "english": "Dislocated shoulder",
-      "value": "어개 탈구"
+      "value": "어깨 탈구"
     },
     "notifications_injury_8": {
       "english": "Broken foot",
@@ -8283,7 +8142,7 @@
     },
     "notifications_injury_86": {
       "english": "Broken cheekbone",
-      "value": "턱뼈 골절"
+      "value": "광대뼈 골절"
     },
     "notifications_injury_87": {
       "english": "Muscle injury",
@@ -8579,7 +8438,7 @@
     "notifications_no_variant_2": {
       "comment": "Used for rating dialog, button label so keep it short",
       "english": "Nah, I have some ideas",
-      "value": "아뇨, 기대 이하네요"
+      "value": "아뇨, 생각이 좀 있어요"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -8616,7 +8475,7 @@
     "notifications_notifications_count": {
       "comment": "Status string indication how many favorites you got and how many with notifications",
       "english": "%@ favorites, %@ with notifications",
-      "value": "%@ 즐겨찾기, %@ 알림"
+      "value": "%@ 즐겨찾기, %@ 알림 설정됨"
     },
     "notifications_notifications_may_not_be_heard": {
       "english": "Notifications may currently not be heard and/or seen because:",
@@ -8675,7 +8534,7 @@
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@이(가) 선발명단에 올랐습니다. %@ - %@"
+      "value": "%@이(가) 선발명단에 올랐습니다.\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -8700,7 +8559,7 @@
     "notifications_player_starts_on_the_bench_short": {
       "comment": "A user can get an alert if the player is on the bench at the start of the match. \"Is starting as a substitute. Manchester United - Liverpool",
       "english": "Is a substitute\\n%@ - %@",
-      "value": "교체입니다\\n%@ - %@"
+      "value": "교체 선수로 시작합니다\\n%@ - %@"
     },
     "notifications_player_sub_in": {
       "comment": "Messi has been subbed on.",
@@ -8715,7 +8574,7 @@
     "notifications_player_sub_out": {
       "comment": "Messi has been subbed off.",
       "english": "%@ has been subbed off.",
-      "value": "%@이(가) 교체로 나왔습니다."
+      "value": "%@이(가) 교체로 나갔습니다."
     },
     "notifications_player_sub_out_injury_short": {
       "comment": "When a player has to be subbed off due to an injury.",
@@ -8882,7 +8741,7 @@
     "notifications_search_result_header_tournaments": {
       "comment": "Heading for search results",
       "english": "Leagues (%1$@)",
-      "value": "토너먼트 (%1$@)"
+      "value": "리그 (%1$@)"
     },
     "notifications_seconds_short": {
       "comment": "Abbrevation of seconds (ideally short as \"s\" instead of \"sec\" if possible)",
@@ -8891,7 +8750,7 @@
     },
     "notifications_senior_career": {
       "english": "Senior career",
-      "value": "고위급 경력"
+      "value": "1군 경력"
     },
     "notifications_serbia": {
       "english": "Serbia",
@@ -9322,7 +9181,7 @@
     },
     "notifications_youth_career": {
       "english": "Youth career",
-      "value": "청년 경력"
+      "value": "유소년 경력"
     },
     "seo_TOTW": {
       "comment": "Team of the Week.",
@@ -9358,6 +9217,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "광고에 대한 세부 정보를 공유해 주세요. 광고주, 어떤 화면에서, 비디오나 이미지, 문제를 발견한 점 등을 포함해 주세요."
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "우리와 함께 광고하세요"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9588,9 +9452,9 @@
       "value": "대체 앱 아이콘으로 홈 화면을 사용자 지정하세요."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "경기 중 xG 대비"
+      "value": "출전 중 xG 실점"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9753,7 +9617,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "경기 중 실점"
+      "value": "출전 시 실점"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9774,6 +9638,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "두 팀 간 현재의 상대전적은 %1$@의 %2$@ 승, %3$@의 %4$@ 승, 그리고 %5$@ 무승부입니다."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "히트맵"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "선수들이 경기장에서 어떤 영향을 미치는지 확인하세요. 라인업 화면에서 선수를 탭하여 확인할 수 있습니다."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "히트맵이 도착했습니다"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9815,13 +9694,138 @@
       "english": "I need help",
       "value": "도움이 필요해요"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "링크 복사"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "링크를 복사해 Safari 또는 Chrome에 붙여넣으세요"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "오른쪽 아래의 점 3개(•••)를 탭한 다음 '브라우저에서 열기'"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "오른쪽 상단의 점 세 개(•••)를 누른 다음 \"브라우저에서 열기\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "메뉴(≡)를 탭한 다음 '다른 브라우저로 열기'를 선택하세요"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "하단의 공유 아이콘을 탭한 다음 브라우저를 선택하세요"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "점 세 개(•••)를 탭한 다음 \"브라우저에서 열기\"를 선택하세요"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "오른쪽 상단의 점 세 개(•••)를 탭한 다음 \"외부 브라우저에서 열기\"를 선택하세요"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "점 세 개(•••)를 탭한 다음 \"브라우저에서 열기\"를 선택하세요"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "점 세 개(•••)를 탭한 다음 \"브라우저에서 열기\"를 선택하세요"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "공유 아이콘을 탭한 다음 \"Safari에서 열기\" 또는 \"링크 복사\"를 선택하세요"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "점 세 개(•••)를 탭한 다음 “다음에서 열기…”를 누르고 Safari를 선택하세요"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "링크를 복사한 다음 Safari 또는 Chrome에 붙여넣으세요"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "공유 아이콘을 탭한 다음 \"Safari에서 열기\"를 선택하세요"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "메뉴 (••• 또는 공유 아이콘)을 찾아 '브라우저에서 열기'를 선택하세요"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "점 세 개(•••)를 탭한 다음 \"Safari에서 열기\""
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "뒤로"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "브라우저에서 열기"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "브라우저에서 열어 로그인"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Chrome에서 열기"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Safari에서 열기"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "또는 수동으로:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "%1$s의 브라우저에서는 로그인 기능이 안정적으로 작동하지 않습니다. Safari 또는 Chrome에서 이 페이지를 열어 주세요."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "그래도 여기에서 로그인해 보기 (작동하지 않을 수 있음)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "이 앱 내 브라우저에서는 로그인이 작동하지 않을 수 있습니다"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "%1$s의 브라우저에서는 로그인되지 않을 수 있습니다. 최상의 이용을 위해 뒤로 돌아가 이 페이지를 브라우저에서 열어 주세요."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "계속하려면 기기 브라우저(Safari 또는 Chrome)에서 이 페이지를 열어 주세요."
     },
@@ -9899,6 +9903,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "라인업 저장됨"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "없음"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10018,7 +10027,7 @@
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
       "english": "%1$@ are the favorites to win the match, according to the bookmakers.",
-      "value": "%1$@ 팀은 북메이커들에 따르면 경기에서 이기기 위한 챔스입니다."
+      "value": "북메이커들에 따르면 %1$@ 팀이 이 경기에서 승리할 가장 유력한 팀입니다."
     },
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
@@ -10470,7 +10479,7 @@
     "seo_site_description_aboutus_careers": {
       "comment": "Meta description for the fotmob website about careers, where open postitions are listed",
       "english": "We are looking for developers, check out our open positions! FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "개발자를 찾고 있습니다. 저희 담당 포지션을 확인해보세요! FotMob은 경기 날짜별로 꼭 필요한 앱입니다. 전 세계 500개 이상의 축구 리그에서 실시간 스코어, 일정, 순위, 경기 통계 및 맞춤 뉴스를 받아보세요."
+      "value": "개발자를 찾고 있습니다. 채용 공고를 확인해보세요! FotMob은 경기일에 꼭 필요한 앱입니다. 전 세계 500개 이상의 축구 리그에서 실시간 스코어, 일정, 순위, 경기 통계 및 맞춤 뉴스를 받아보세요."
     },
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
@@ -10530,12 +10539,12 @@
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
       "english": "%1$@ historic seasons with winners and runners-up.",
-      "value": "%1$@ 역사적인 시즌, 우승팀과 준우승팀."
+      "value": "우승팀과 준우승팀이 포함된 %1$@의 역사적인 시즌."
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%3$@의 %1$@ 대 %2$@. 실시간 결과, 상대 전적, 경기 통계, 선발 라인업, 선수 평가, 이해도, 팀 형태, 슛맵, 하이라이트를 확인하세요."
+      "value": "%3$@의 %1$@ 대 %2$@. 실시간 결과, 상대 전적, 경기 통계, 선발 라인업, 선수 평가, 인사이트, 팀 폼, 슛맵, 하이라이트를 확인하세요."
     },
     "seo_site_description_match_finished": {
       "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
@@ -10580,7 +10589,7 @@
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - 틍 평점, 경기당 득점, 유효 슈팅 외 기타 통계"
+      "value": "%1$@ - 팀 평점, 경기당 득점, 유효 슈팅 외 기타 통계"
     },
     "seo_site_description_team_table": {
       "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
@@ -10590,7 +10599,7 @@
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
       "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "최신 %1$@ 이적, 이적 종료 및 계약 연장"
+      "value": "최신 %1$@ 영입, 방출 및 계약 연장"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10600,7 +10609,7 @@
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "%1$@ 최신 확인된 이적 및 가장 비싼 서명. FotMob 이적 센터 - 리그 및 팀별로 필터링하세요. 완료된 거래를 모두 포함하는 마감일에 실시간 업데이트로 이적 내용을 최신 상태로 유지하세요!"
+      "value": "%1$@ 최신 확인된 이적 및 최고 이적료 영입. FotMob 이적 센터 - 리그 및 팀별로 필터링하세요. 마감일에도 완료된 모든 거래를 포함한 실시간 업데이트로 이적 소식을 놓치지 마세요!"
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -10669,7 +10678,7 @@
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "%1$@ %2$@ 최고 평가된 팀, 경기당 득점, 유효 슈팅 또는 타 기록"
+      "value": "%1$@ %2$@ 최고 평점 팀, 경기당 득점, 유효 슈팅 및 기타 통계"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
@@ -10679,7 +10688,7 @@
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
       "english": "%1$@ table %2$@, form and next opponent",
-      "value": "%1$@ 테이블 %2$@, 폼 및 다음 상대"
+      "value": "%1$@ 순위표 %2$@, 최근 성적 및 다음 상대"
     },
     "seo_site_title_league_table_xg": {
       "comment": "Headline for the league's xG table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League xG table 2021/2022\"",
@@ -10689,7 +10698,7 @@
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "%1$@ - transfers, contracts and market values",
-      "value": "%1$@ - 이적료, 선수 보상금, 계약 및 시장 가치"
+      "value": "%1$@ - 이적, 계약 및 시장 가치"
     },
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
@@ -10739,7 +10748,7 @@
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "%1$@ - 팀, 감독, 부상, 포지션"
+      "value": "%1$@ - 스쿼드, 감독, 부상, 포지션"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
@@ -10749,7 +10758,7 @@
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - %1$@ - 팀 레이팅, 경기당 득점, 골 프레임 샷 및 기타 통계"
+      "value": "%1$@ - 팀 레이팅, 경기당 득점, 유효 슈팅 및 기타 통계"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
@@ -10810,6 +10819,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "제출"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10983,7 +10997,7 @@
     "seo_tips_tap_to_view_career_history": {
       "comment": "Hint to a user that he can click a button to view a players career",
       "english": "Tap to view career history",
-      "value": "상단에서 커리어 기록 보기"
+      "value": "탭하여 커리어 기록 보기"
     },
     "seo_toppicks_predictor_cta": {
       "comment": "Call to action for getting users to play the FotMob's Top Picks predictor game with every week features a selection of matches from the top leagues.",
@@ -11003,6 +11017,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "이적"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "투명성법 성명서"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11270,7 +11289,7 @@
     "seo_zero_points": {
       "comment": "Title for \"0 points medal\". User gets \"0 points\" when they predict wrong.",
       "english": "0 points",
-      "value": "0점 메달"
+      "value": "0점"
     }
   }
 }

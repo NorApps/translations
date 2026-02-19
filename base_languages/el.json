@@ -153,7 +153,7 @@
     "accessibility_calendar_hint": {
       "comment": "Meant for VoiceOver. Hint for a calendar button where the user can change which the date for the matches they want to see",
       "english": "See matches in other date",
-      "value": "Προβολή αγώνων σε αυτή την ημερομηνία"
+      "value": "Προβολή αγώνων σε άλλη ημερομηνία"
     },
     "accessibility_career_stats": {
       "comment": "Text shown on tab header for tab that shows the career stats for a player.",
@@ -227,12 +227,12 @@
     "accessibility_crosses_succeeeded": {
       "comment": "Number of successful crosses for a player in a match",
       "english": "Successful crosses",
-      "value": "Επιτυχημένοι διασταυρώσεις"
+      "value": "Επιτυχημένες σέντρες"
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
       "english": "Successful crosses %",
-      "value": "Επιτυχημένοι διασταυρώσεις %"
+      "value": "Επιτυχημένες σέντρες %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -311,7 +311,7 @@
     "accessibility_dribbled_past": {
       "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
       "english": "Dribbled past",
-      "value": "Πετυχημένες ντρίμπλες"
+      "value": "Ντριμπλαρίστηκε"
     },
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
@@ -701,7 +701,7 @@
     "accessibility_insights_penalties_conceded": {
       "comment": "The team has the record for conceding penalties in a season. Example: \"Have conceded the most penalties this season (13)\"",
       "english": "Have conceded the most penalties this season (%1$@)",
-      "value": "Έχουν σκοράρει τα περισσότερα πέναλτι αυτήν την περίοδο (%1$@)"
+      "value": "Έχουν παραχωρήσει τα περισσότερα πέναλτι αυτήν την περίοδο (%1$@)"
     },
     "accessibility_insights_player_average_minutes_per_goal": {
       "comment": "A player averages some value (typically 60-120) minutes per goal. Example: \"[Mohammed Salah] averages [67] minutes per goal\"",
@@ -874,7 +874,7 @@
     "accessibility_league_widget_body": {
       "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
       "english": "View today's matches with live updates",
-      "value": "Δείτε τους σημερινές αγώνες με ζωντανές ενημερώσεις"
+      "value": "Δείτε τους σημερινούς αγώνες με ζωντανές ενημερώσεις"
     },
     "accessibility_league_widget_header": {
       "comment": "Header for a widget where you get an overview of a league's matches",
@@ -1085,7 +1085,7 @@
     "accessibility_misc_winner_of_group": {
       "comment": "Indicating the winner of a group. Eg \"Winner Group B\"",
       "english": "Winner Group %1$@",
-      "value": "Όμιλος %1$@ νικητών"
+      "value": "Νικητής ομίλου %1$@"
     },
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
@@ -1358,7 +1358,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Ακολουθήστε ομάδες για να τις θέσετε σε προτεραιότητα στην εφαρμογή."
+      "value": "Ακολουθήστε ομάδες για να λαμβάνετε ειδοποιήσεις όταν παίζουν και όταν σκοράρουν γκολ."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1445,7 +1445,7 @@
     "accessibility_passes_into_final_third": {
       "comment": "This is a pass from outside the final third of the pitch into the final third. So it's an attacking pass.",
       "english": "Passes into final third",
-      "value": "Πάσες στην μικρή περιοχή"
+      "value": "Πάσες στο τελευταίο τρίτο"
     },
     "accessibility_passing": {
       "comment": "A section header for passing stats for a football player. Below are things like Passes, pass accuracy",
@@ -1815,7 +1815,7 @@
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
       "english": "Shots faced",
-      "value": "Αποκρούσεις σουτ"
+      "value": "Σουτ που αντιμετώπισε"
     },
     "accessibility_shots_on_target_per_90": {
       "comment": "Label used in stats for shots on target per 90 min",
@@ -2059,16 +2059,16 @@
     "accessibility_successful_dribbles": {
       "comment": "Number of successful dribbles for a player in a season",
       "english": "Successful dribbles",
-      "value": "Επιτυχημένα ντρίμπλες"
+      "value": "Επιτυχημένες ντρίμπλες"
     },
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
       "english": "Successful passes",
-      "value": "Επιτυχημένοι πάσες"
+      "value": "Επιτυχημένες πάσες"
     },
     "accessibility_successful_passes_accuracy": {
       "english": "Successful passes %",
-      "value": "Επιτυχημένοι πάσες %"
+      "value": "Επιτυχημένες πάσες %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -2530,7 +2530,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "<b>Πρόσθεσε νέα</b> για τις αγαπημένες σου ομάδες."
+      "value": "<b>Λάβε νέα</b> για τις \\nαγαπημένες σου ομάδες."
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2703,11 +2703,11 @@
     "common_autoplay": {
       "comment": "Indicates that the videos will autoplay (play automatically when viewing them)",
       "english": "Autoplay",
-      "value": "Αυτόματο παιχνίδι"
+      "value": "Αυτόματη αναπαραγωγή"
     },
     "common_autoplay_always": {
       "english": "Mobile data & Wi-Fi",
-      "value": "Σε δοδομένα κινητής ή Wi-Fi"
+      "value": "Δεδομένα κινητής & Wi‑Fi"
     },
     "common_autoplay_wifi": {
       "english": "Wi-FI only",
@@ -3025,7 +3025,7 @@
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
       "english": "CONCACAF Champions League",
-      "value": "Πλέι οφ πρωταθλήματος CONCACAF"
+      "value": "CONCACAF Champions League"
     },
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
@@ -3114,12 +3114,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Όλα τα δεδομένα υπολογίζονται βάσει δεδομένων που παρέχονται από την Opta.</p><p>Η αξιολόγηση παικτών από το FotMob υπολογίζεται βάσει περισσότερων από 100 μεμονωμένων στατιστικών ανά παίκτη ανά αγώνα.</p><p>Ένας αγώνας στις ανά αγώνα αξιολογήσεις είναι οποιοσδήποτε αγώνας στον οποίο έλαβε μέρος ο συμμετέχων, ακόμη και ως αναπληρωματικός που έπαιξε στα τελευταία λεπτά του αγώνα.</p><p>Ένας παίκτης πρέπει να έχει παίξει τουλάχιστον στο 50% όλων των αγώνων για να είναι μέρος των αξιολογήσεων.</p>"
+      "value": "<p>Όλα τα δεδομένα υπολογίζονται βάσει δεδομένων που παρέχονται από την Opta.</p><p>Η αξιολόγηση παικτών από το FotMob υπολογίζεται βάσει περισσότερων από 100 μεμονωμένων στατιστικών ανά παίκτη ανά αγώνα.</p><p>Ένας αγώνας στις ανά αγώνα αξιολογήσεις είναι οποιοσδήποτε αγώνας στον οποίο έλαβε μέρος ο συμμετέχων, ακόμη και ως αναπληρωματικός που έπαιξε στα τελευταία λεπτά του αγώνα.</p><p>Ένας παίκτης πρέπει να έχει παίξει τουλάχιστον στο 50% όλων των αγώνων και τουλάχιστον 90 λεπτά (για τα στατιστικά ανά 90) για να συμπεριληφθεί στις κατατάξεις.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Όλα τα δεδομένα υπολογίζονται βάσει δεδομένων που παρέχονται από την Opta.</p><p>Η αξιολόγηση παικτών από το FotMob υπολογίζεται βάσει περισσότερων από 100 μεμονωμένων στατιστικών ανά παίκτη ανά αγώνα.</p><p>Ένας αγώνας στις ανά αγώνα αξιολογήσεις είναι οποιοσδήποτε αγώνας στον οποίο έλαβε μέρος ο συμμετέχων, ακόμη και ως αναπληρωματικός που έπαιξε στα τελευταία λεπτά του αγώνα.</p><p>Ένας παίκτης πρέπει να έχει παίξει τουλάχιστον στο 50%% όλων των αγώνων για να είναι μέρος των αξιολογήσεων.</p>"
+      "value": "<p>Όλα τα δεδομένα υπολογίζονται βάσει δεδομένων που παρέχονται από την Opta.</p><p>Η αξιολόγηση παικτών από το FotMob υπολογίζεται βάσει περισσότερων από 100 μεμονωμένων στατιστικών ανά παίκτη ανά αγώνα.</p><p>Ένας αγώνας στις ανά αγώνα αξιολογήσεις είναι οποιοσδήποτε αγώνας στον οποίο έλαβε μέρος ο συμμετέχων, ακόμη και ως αναπληρωματικός που έπαιξε στα τελευταία λεπτά του αγώνα.</p><p>Ένας παίκτης πρέπει να έχει παίξει τουλάχιστον στο 50%% όλων των αγώνων και τουλάχιστον 90 λεπτά (για τα στατιστικά ανά 90) για να συμπεριληφθεί στις κατατάξεις.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3175,7 +3175,7 @@
     "common_draw": {
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
       "english": "Draw",
-      "value": "Ισοπαλίες"
+      "value": "Ισοπαλία"
     },
     "common_draw_pot_or": {
       "comment": "Used between a draw pot of two teams in bracket view. Defaults to English (or) if longer than 3 characters",
@@ -3193,7 +3193,7 @@
     "common_drawer_close": {
       "comment": "Closes the left navigation menu",
       "english": "Close navigation drawer",
-      "value": "Κλείσμο παραθύρου πλοήγησης"
+      "value": "Κλείσιμο παραθύρου πλοήγησης"
     },
     "common_drawer_open": {
       "comment": "Opens the left navigation menu",
@@ -3355,20 +3355,25 @@
       "english": "Errors led to goal",
       "value": "Λάθη που οδήγησαν σε γκολ"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Η Εκτιμώμενη Αξία Μεταγραφής (ETV) είναι η καλύτερη εκτίμησή μας για το πόσο θα άξιζε ένας παίκτης αν πωλούνταν τώρα.\\n\\nΥπολογίζεται χρησιμοποιώντας πραγματικά δεδομένα μεταγραφών και λαμβάνει υπόψη:\\n\\n• την απόδοση του παίκτη\\n• την ηλικία και το μελλοντικό του δυναμικό\\n• πόσο συχνά και σε ποιο επίπεδο παίζει στη θέση του\\n• τη δύναμη της ομάδας και του πρωταθλήματος του\\n• τη διάρκεια του συμβολαίου του\\n• πρόσφατες εξελίξεις και παρόμοιους παράγοντες\\n\\nΕστιάζουμε στον ίδιο τον παίκτη, όχι σε φήμες ή ποιος σύλλογος μπορεί να τον αγοράσει.\\n\\nΗ αξία ενημερώνεται τακτικά για να αντικατοπτρίζει τις αλλαγές στην αγορά μεταγραφών με την πάροδο του χρόνου."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Εκτιμώμενη αξία παίκτη"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Εκτιμώμενη αξία μεταγραφής"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Πιθανή αξία αν πωληθεί τώρα"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Η Εκτιμώμενη Αξία Μεταγραφής (ETV) είναι η καλύτερη εκτίμησή μας για το πόσο θα άξιζε ένας παίκτης αν πωλούνταν τώρα.\\n\\nΥπολογίζεται χρησιμοποιώντας ιστορικά δεδομένα μεταγραφών και λαμβάνει υπόψη μια σειρά παραγόντων απόδοσης και πλαισίου, συμπεριλαμβανομένων:\\n\\n• την απόδοση του παίκτη και την ανάπτυξή του\\n• την ηλικία και το μελλοντικό του δυναμικό\\n• πόσο συχνά και σε ποιο επίπεδο παίζει\\n• τη θέση\\n• τη δύναμη της ομάδας και του πρωταθλήματος\\n• τη διάρκεια του συμβολαίου που απομένει\\n\\nΗ ETV εστιάζει στον ίδιο τον παίκτη, όχι σε φήμες ή ποιος σύλλογος μπορεί να τον αγοράσει.\\n\\nΗ αξία ενημερώνεται τακτικά για να αντικατοπτρίζει τις αλλαγές με την πάροδο του χρόνου."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Εκτιμώμενη αξία"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3459,7 +3464,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "Επιτυχημένες προσπάθειες (xGOT)"
+      "value": "Αναμενόμενα γκολ εντός εστίας (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3663,162 +3668,6 @@
       "english": "FT",
       "value": "ΛΚΔ"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "Ο %1$@ έκανε φάουλ που οδήγησε σε πέναλτι για %2$@."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "Ο %1$@ δέχθηκε τα περισσότερα φάουλ στον αγώνα (%2$@ φορές)."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "Ο %1$@ δέχθηκε τα περισσότερα φάουλ στον αγώνα (%2$@ φορές)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "Ο %1$@ έχασε τις περισσότερες μονομαχίες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "Ο %1$@ έχει χάσει τις περισσότερες μονομαχίες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "Ο %1$@ έχασε την κατοχή περισσότερες φορές (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "Ο %1$@ έχασε την κατοχή τις περισσότερες φορές στον αγώνα (%2$@)."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "Ο %1$@ είχε τις λιγότερες επαφές (%2$@) από όλους τους παίκτες (εκτός τερματοφυλάκων) που έπαιξαν 90 λεπτά."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "Ο %1$@ έχει τις λιγότερες επαφές (%2$@) από όλους τους παίκτες (εκτός τερματοφυλάκων)."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "Ο %1$@ έκανε λάθος που οδήγησε σε γκολ για %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "Ο %1$@ έκανε ένα λάθος που οδήγησε σε γκολ για %2$@.",
-        "other": "Ο %1$@ έκανε %3$d λάθη που οδήγησαν σε γκολ για %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "Ο %1$@ ολοκλήρωσε τις περισσότερες τρίπλες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "Ο %1$@ ολοκλήρωσε τις περισσότερες τρίπλες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "Ο %1$@ είχε τις περισσότερες δημιουργημένες ευκαιρίες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "Ο %1$@ δημιούργησε τις περισσότερες ευκαιρίες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "Ο %1$@ ολοκλήρωσε τις περισσότερες πάσες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "Ο %1$@ ολοκλήρωσε τις περισσότερες πάσες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "Ο %1$@ έχει τα περισσότερα τάκλιν (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "Ο %1$@ έχει τα περισσότερα τάκλιν (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "Ο %1$@ ήταν ο καλύτερος παίκτης του αγώνα με αξιολόγηση %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "Ο %1$@ έχει προς το παρόν την υψηλότερη αξιολόγηση αγώνα με %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "Ο %1$@ είχες τις περισσότερες επαφές (%2$@) στην αντίπαλη περιοχή."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "Ο %1$@ έχει τις περισσότερες επαφές (%2$@) στην αντίπαλη περιοχή."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "Ο %1$@ ήταν ο πασέρ με τη μεγαλύτερη ακρίβεια (%2$@) που έπαιξε 45 λεπτά ή περισσότερα."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "Ο %1$@ είναι ο πασέρ με τη μεγαλύτερη ακρίβεια (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "Ο %1$@ έβαλε αυτογκόλ."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "Ο %1$@ κέρδισε τις περισσότερες μονομαχίες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "Ο %1$@ έχει κερδίσει τις περισσότερες μονομαχίες (%2$@) στον αγώνα."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "Ο %1$@ σημάδεψε δοκάρι %2$@ φορές σε %3$@ συνολικά σουτ."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "Ο %1$@ σημάδεψε δοκάρι %2$@ φορές σε %3$@ συνολικά σουτ."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "ΓΕΝΙΚΑ"
@@ -3936,6 +3785,7 @@
       "value": "Χρυσός υποστηρικτής"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "Χρυσό γκολ"
     },
@@ -3976,7 +3826,7 @@
     },
     "common_h2h_no_draws": {
       "english": "%1$@ and %2$@ have not drawn any of their last %3$@ matches",
-      "value": "%1$@ και %2$@ δεν έχουν έχουν έρθει ισόπαλοι σε κανέναν από τους τελευταίους %3$@ αγώνες."
+      "value": "%1$@ και %2$@ δεν έχουν έρθει ισόπαλοι σε κανέναν από τους τελευταίους %3$@ αγώνες."
     },
     "common_h2h_no_draws_v2": {
       "comment": "Example: Manchester United and Chelsea have not drawn any of their last 5 matches against each other.",
@@ -4012,6 +3862,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Απόκρυψη νέων %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Υψηλότερη"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4095,7 +3950,7 @@
     },
     "common_injuries": {
       "english": "Injuries",
-      "value": "Τραυματίας"
+      "value": "Τραυματισμοί"
     },
     "common_injury_134": {
       "comment": "The club has decided the player can't play as a disciplinary action",
@@ -4354,7 +4209,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "Αυτό το βίντεο φιλοκενείται σε εξωτερικό ιστότοπο. Το FotMob δεν είναι κάτοχος του περιεχομένου που θα παρακολουθήσεις.\\nΤο FotMob δεν είναι υπεύθυνο ούτε θα φέρει ευθύνη για οποιοδήποτε περιεχόμενο φιλοξενείται σε ιστότοπο τρίτου μέρους.\\n\\nΓια τυχόν παράπονα νομικής φύσης, επικοινώνησε με τον κάτοχο του αρχείου πολυμέσων ή με τον πάροχο υπηρεσιών φιλοξενίας του αρχείου βίντεο/ήχου."
+      "value": "Αυτό το βίντεο φιλοξενείται σε εξωτερικό ιστότοπο. Το FotMob δεν είναι ο κάτοχος του περιεχομένου που πρόκειται να παρακολουθήσεις.\\n\\nΤο FotMob δεν φέρει ευθύνη και δεν μπορεί να θεωρηθεί υπεύθυνο ή υπόλογο για οποιοδήποτε περιεχόμενο φιλοξενείται στον ιστότοπο τρίτου μέρους.\\n\\nΓια τυχόν νομικές καταγγελίες, επικοινώνησε με τον κάτοχο του αρχείου πολυμέσων ή με τον πάροχο φιλοξενίας βίντεο/ήχου."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4408,7 +4263,7 @@
     "common_ltc_not_found": {
       "comment": "Empty placeholder if there's no live-comments available",
       "english": "Live commentary not available",
-      "value": "Δεν υπάρχει διαθέσιμος ζωντανός σχεδιασμός"
+      "value": "Ο ζωντανός σχολιασμός δεν είναι διαθέσιμος"
     },
     "common_man_of_the_match": {
       "comment": "A title indicating that this player was the best player.",
@@ -4656,7 +4511,7 @@
     "common_no_results_for_query": {
       "comment": "Onboarding: not players found for the query",
       "english": "No results found for %@",
-      "value": "%@: Δεν βρέθηκαν αποτελέσματα"
+      "value": "Δεν βρέθηκαν αποτελέσματα για %@"
     },
     "common_no_results_found": {
       "english": "No results",
@@ -4782,7 +4637,7 @@
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "Λάμβανε ειδοποιήσεις για επίσημα στιγμιότυπα αγώνες που έχουν ενεργοποιημένες ειδοποιήσεις κανονικής διάρκειας."
+      "value": "Λάμβανε ειδοποιήσεις για επίσημα στιγμιότυπα από αγώνες που έχουν ενεργοποιημένες ειδοποιήσεις κανονικής διάρκειας."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -4834,7 +4689,7 @@
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
-      "value": "Επίλεξε του αγαπημένους σου παίκτες και λάμβανε ειδοποιήσεις για γκολ, κόκκινες κάρτες, χαμένα πέναλτι και άλλα"
+      "value": "Επίλεξε τους αγαπημένους σου παίκτες και λάμβανε ειδοποιήσεις για γκολ, κόκκινες κάρτες, χαμένα πέναλτι και άλλα"
     },
     "common_onboarding_players_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for players",
@@ -4938,6 +4793,7 @@
       "value": "Παραγουάη"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Παύση"
     },
@@ -4975,6 +4831,7 @@
       "value": "Συνολικοί αγώνες"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Πέναλτι κατά"
     },
@@ -5458,7 +5315,7 @@
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
-      "value": "Δες περισσότρα στιγμιότυπα"
+      "value": "Δες περισσότερα στιγμιότυπα"
     },
     "common_see_more": {
       "comment": "The footer in the news's section to show all stories about the topic",
@@ -5612,10 +5469,12 @@
       "value": "Ασημένιος υποστηρικτής"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Ασημένιο γκολ"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Ασημένιο γκολ"
     },
@@ -5941,7 +5800,7 @@
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
-      "value": "Πάτησε εδώ %1$@ για <b>Φιλτράρισμα & Ταξινόμηση</b> πρωτθλημάτων"
+      "value": "Πάτησε εδώ %1$@ για <b>Φιλτράρισμα & Ταξινόμηση</b> πρωταθλημάτων"
     },
     "common_title_activity_sort": {
       "english": "Sort",
@@ -6058,7 +5917,7 @@
     "common_transfer_alert_message_to_free_agent": {
       "comment": "This is for a transfer like: \"Ronaldo leaving Juventus and is now a free agent\". Free agent means he has no club.",
       "english": "%1$@ is leaving %2$@ and is now a free agent",
-      "value": "Ο %1$@ αποχωρεί %2$@ και πλέον είναι ελεύθερος"
+      "value": "Ο %1$@ αποχωρεί από την %2$@ και πλέον είναι ελεύθερος"
     },
     "common_transfer_center": {
       "comment": "The Transfer Center is a place where we list all the player transfers between teams.",
@@ -6105,9 +5964,9 @@
       "value": "Ποσό"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Αξία πώλησης"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Αξία μεταγραφής"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6196,7 +6055,7 @@
     },
     "common_unstar": {
       "english": "Unfollow %@",
-      "value": "Ακολούθηση %@"
+      "value": "Κατάργηση ακολούθησης %@"
     },
     "common_unstar_league": {
       "english": "Remove from favorites",
@@ -6658,7 +6517,7 @@
     },
     "ios_top_goalscorer": {
       "english": "Top goal scorer",
-      "value": "Κορυφαίοι σκόρερ"
+      "value": "Κορυφαίος σκόρερ"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7007,7 +6866,7 @@
     },
     "new_reminder": {
       "english": "Match starts in %@ minutes",
-      "value": "Ο αγώνας αρχίζει σε %@ λετπά"
+      "value": "Ο αγώνας αρχίζει σε %@ λεπτά"
     },
     "new_remove_ads": {
       "english": "Remove ads",
@@ -7056,7 +6915,7 @@
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
       "english": "Sign up",
-      "value": "Είσοδος"
+      "value": "Εγγραφή"
     },
     "new_skip": {
       "comment": "Button caption for skipping to the next screen",
@@ -7145,7 +7004,7 @@
     "new_wc_qual": {
       "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
       "english": "WC qualification",
-      "value": "Μπαράζ Παγκοσμίου Κυπέλλου"
+      "value": "Προκριματικά Παγκοσμίου Κυπέλλου"
     },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
@@ -7282,7 +7141,7 @@
     },
     "notifications_alert_assist": {
       "english": "%@ %@-%@ %@\\n%@%@ got an assist",
-      "value": "%@ %@-%@ %@\\nΟ %@%@ δέχθηκε ασίστ για γκολ"
+      "value": "%@ %@-%@ %@\\nΟ %@%@ έδωσε ασίστ"
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
@@ -7471,7 +7330,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Δημιουργήθηκε μεγάλη ευκαιρία"
+      "value": "Μεγάλες ευκαιρίες που δημιουργήθηκαν"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -7760,17 +7619,17 @@
       "value": "Αμφίβολο"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "Αρχές %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "Τέλη %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "Μέσα %1$@"
     },
@@ -7971,7 +7830,7 @@
     },
     "notifications_injury_105": {
       "english": "Buttocks injury",
-      "value": "Τραυματισμός στα μαλακά μόρια"
+      "value": "Τραυματισμός στους γλουτούς"
     },
     "notifications_injury_106": {
       "english": "Broken knee cap",
@@ -8373,7 +8232,7 @@
     "notifications_is_in_lineup": {
       "comment": "A user can get an alert if the player is in the lineup that will start the match. Can be either sub or as the starting 11.",
       "english": "Is in lineup",
-      "value": "είναι στην αποστολή"
+      "value": "είναι στην ενδεκάδα"
     },
     "notifications_israel": {
       "english": "Israel",
@@ -8694,7 +8553,7 @@
     "notifications_player_assist": {
       "comment": "Messi got an assist.",
       "english": "%@ got an assist",
-      "value": "Ο %@ δέχθηκε ασίστ για γκολ."
+      "value": "Ο %@ έδωσε ασίστ."
     },
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
@@ -9383,6 +9242,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Παρακαλώ μοιραστείτε λεπτομέρειες για τη διαφήμιση, όπως ο διαφημιστής, το βίντεο ή η εικόνα, και τι σας προβλημάτισε."
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Διαφημιστείτε μαζί μας"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9612,7 +9476,7 @@
       "value": "Προσάρμοσε την αρχική σου οθόνη με εναλλακτικά εικονίδια εφαρμογών."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "xG κατά ενώ στον αγωνιστικό χώρο"
     },
@@ -9799,6 +9663,21 @@
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Ο συνολικός αριθμός των αναμετρήσεων ανάμεσα στις ομάδες είναι %2$@ νίκες της %1$@, %4$@ νίκες της %3$@ και %5$@ ισοπαλίες."
     },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Heatmap"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Δείτε πού οι παίκτες κάνουν τη διαφορά στο γήπεδο. Πατήστε σε έναν παίκτη από την οθόνη σύνθεσης για να το ελέγξετε."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Οι θερμικοί χάρτες είναι εδώ"
+    },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
       "english": "Help",
@@ -9839,13 +9718,138 @@
       "english": "I need help",
       "value": "Χρειάζομαι βοήθεια"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Αντιγραφή συνδέσμου"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Αντιγράψτε τον σύνδεσμο και επικολλήστε τον στο Safari ή στο Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Πατήστε τις τρεις τελείες (•••) κάτω δεξιά και μετά «Άνοιγμα στο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Πατήστε τις τρεις τελείες (•••) επάνω δεξιά και μετά «Άνοιγμα στο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Πατήστε το μενού (≡) και μετά «Άνοιγμα σε άλλο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Πατήστε το εικονίδιο κοινής χρήσης στο κάτω μέρος και μετά επιλέξτε το πρόγραμμα περιήγησής σας"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Πατήστε τις τρεις τελείες (•••) και μετά «Άνοιγμα στο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Πατήστε τις τρεις τελείες (•••) επάνω δεξιά και μετά «Άνοιγμα σε εξωτερικό πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Πατήστε τις τρεις τελείες (•••) και μετά «Άνοιγμα στο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Πατήστε τις τρεις τελείες (•••) και μετά «Άνοιγμα στο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Πατήστε το εικονίδιο κοινής χρήσης και μετά «Άνοιγμα στο Safari» ή «Αντιγραφή συνδέσμου»"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Πατήστε τις τρεις τελείες (•••), μετά «Άνοιγμα σε…» και επιλέξτε Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Αντιγράψτε τον σύνδεσμο και επικολλήστε τον στο Safari ή στο Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Πατήστε το εικονίδιο κοινής χρήσης και μετά «Άνοιγμα στο Safari»"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Αναζητήστε ένα μενού (••• ή εικονίδιο κοινής χρήσης) και επιλέξτε «Άνοιγμα στο πρόγραμμα περιήγησης»"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Πατήστε τις τρεις τελείες (•••) και μετά «Άνοιγμα στο Safari»"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Πίσω"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Άνοιγμα στο πρόγραμμα περιήγησης"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Άνοιγμα στο πρόγραμμα περιήγησής σας για σύνδεση"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Άνοιγμα στο Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Άνοιγμα στο Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Ή χειροκίνητα:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "Η σύνδεση δεν λειτουργεί αξιόπιστα στο πρόγραμμα περιήγησης του %1$s. Ανοίξτε αυτή τη σελίδα στο Safari ή στο Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Δοκιμάστε να συνδεθείτε εδώ παρ’ όλα αυτά (ενδέχεται να μη λειτουργήσει)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Η σύνδεση μπορεί να μην λειτουργεί σε αυτόν τον ενσωματωμένο περιηγητή"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "Η σύνδεση ενδέχεται να μη λειτουργεί στο πρόγραμμα περιήγησης του %1$s. Για την καλύτερη εμπειρία, γυρίστε πίσω και ανοίξτε αυτήν τη σελίδα στο πρόγραμμα περιήγησής σας."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Παρακαλώ ανοίξτε αυτή τη σελίδα στον περιηγητή της συσκευής σας (Safari ή Chrome) για να συνεχίσετε."
     },
@@ -9923,6 +9927,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Η ενδεκάδα αποθηκεύτηκε"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Κανένα"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10037,12 +10046,12 @@
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
       "english": "The bookmakers predict a close match between %1$@ and %2$@.",
-      "value": "Οι οι σπορ υπολογιστές προβλέπουν έναν ισόπαλο αγώνα ανάμεσα στην %1$@ και την %2$@."
+      "value": "Οι bookmakers προβλέπουν έναν αμφίρροπο αγώνα ανάμεσα στη %1$@ και τη %2$@."
     },
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
       "english": "%1$@ are the favorites to win the match, according to the bookmakers.",
-      "value": "Οι %1$@ είναι οι αγαπημένοι για τη νίκη στον αγώνα, σύμφωνα με τους βιβλιοπώλες"
+      "value": "Οι %1$@ είναι το φαβορί για να κερδίσουν τον αγώνα, σύμφωνα με τους στοιχηματζήδες."
     },
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
@@ -10157,12 +10166,12 @@
     "seo_play_offs": {
       "comment": "Button title as a header for the Champions League playoffs. This is matches that decide who will progress to the Round of 16.",
       "english": "Play-offs",
-      "value": "Προκριματικά"
+      "value": "Play-offs"
     },
     "seo_play_offs_draw": {
       "comment": "Label as a header for the matches that will be part of a random draw which will decide which teams meet each other in the play off matches.",
       "english": "Play-offs draw",
-      "value": "Κλήρωση Προκριματικών"
+      "value": "Κλήρωση Play-offs"
     },
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
@@ -10202,7 +10211,7 @@
     "seo_playing_home_at_stadium": {
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
       "english": "%1$@ is playing home against %2$@ at %3$@ on %4$@.",
-      "value": "Ο %1$@ παίζει στο σπίτι εναντίον της %2$@ στο %3$@ στις %4$@."
+      "value": "Η %1$@ παίζει εντός έδρας με τη %2$@ στο %3$@ στις %4$@."
     },
     "seo_poll_closed": {
       "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",
@@ -10743,7 +10752,7 @@
     "seo_site_title_team_fixtures": {
       "comment": "Meta title tag value for the team fixtures page, with both future and past matches and results.",
       "english": "%1$@ - latest matches, scores and upcoming fixtures",
-      "value": "%1$@ - Τελευταία αγώνισματα, σκορ και επερχόμενα παιχνίδια"
+      "value": "%1$@ - Τελευταίοι αγώνες, σκορ και επερχόμενα παιχνίδια"
     },
     "seo_site_title_team_history": {
       "comment": "Title for the page showing a teams historical table positions and trophies won.",
@@ -10773,7 +10782,7 @@
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - βαθμολογία ομάδας, γκολ ανά αγώνα, ευθύνες στόχου και άλλα στατιστικά"
+      "value": "%1$@ - βαθμολογία ομάδας, γκολ ανά αγώνα, σουτ στον στόχο και άλλα στατιστικά"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
@@ -10972,7 +10981,7 @@
     "seo_template_word_division": {
       "comment": "A part of a league. Like \"1. division\" or \"2. division\".",
       "english": "Division",
-      "value": "Όμιλος"
+      "value": "Κατηγορία"
     },
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
@@ -11027,6 +11036,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Έξω"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Δήλωση Νόμου Διαφάνειας"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",

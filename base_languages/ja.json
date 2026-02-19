@@ -99,7 +99,7 @@
     "accessibility_all_set_text": {
       "comment": "The user is done guessing who the winners will be and gets the option to sign in to save their predictions.",
       "english": "All set! Sign in to save your predictions.",
-      "value": "準備完了！サインインして予想を保存します。"
+      "value": "準備完了！予想を保存するにはサインインしてください。"
     },
     "accessibility_all_stats": {
       "comment": "Text shown on a link that lets the user see all the stats.",
@@ -267,7 +267,7 @@
     "accessibility_defensive_actions_explained": {
       "comment": "Explains what defensive contributions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
       "english": "Defensive contributions is the sum of attempted tackles, blocks, clearances, and interceptions.",
-      "value": "守備的アクションには、試みられたすべてのタックル、ブロック、クリア、インターセプトが含まれます。"
+      "value": "守備的貢献は、タックルの試行数、ブロック数、クリア数、インターセプト数の合計です。"
     },
     "accessibility_delete_account": {
       "comment": "Button that the user can click to delete his FotMob account so all his data is removed from our servers.",
@@ -351,7 +351,7 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "xGOT直面"
+      "value": "被xGOT"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
@@ -626,7 +626,7 @@
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
       "english": "Have kept the most clean sheets in the competition (%1$@)",
-      "value": "今大会の無失点試合数（%1$@）"
+      "value": "今大会で最も多く無失点試合を記録している（%1$@）"
     },
     "accessibility_insights_goalless_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 4 away matches",
@@ -1634,7 +1634,7 @@
     "accessibility_reorder_favorite_leagues_disclaimer": {
       "comment": "A hint-message from the header of the \"Leagues\" page in the editing mode",
       "english": "Drag to change the order of your leagues in the %1$@ tab.",
-      "value": "ドラッグして、%1$@のリーグの順序を変更します。"
+      "value": "ドラッグして、%1$@タブ内のリーグの順序を変更します。"
     },
     "accessibility_resetpopup_are_you_sure": {
       "english": "Are you sure you want to reset predictions?",
@@ -2529,7 +2529,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "お気に入りのチームの\\n<b>ニュースを追加</b>しましょう。"
+      "value": "<b>ニュースを入手</b>して\\nお気に入りのチームをチェック。"
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2537,7 +2537,7 @@
     },
     "common_add_remove_leagues": {
       "english": "Add/Remove leagues",
-      "value": "言語を追加／削除"
+      "value": "リーグを追加／削除"
     },
     "common_add_to_calendar": {
       "english": "Add to calendar",
@@ -2741,7 +2741,7 @@
     },
     "common_bad_form_both": {
       "english": "%1$@ have lost their last %3$@ matches and %2$@ their last %4$@ matches.",
-      "value": "%1$@は前%3$@試合全敗、前%4$@試合%2$@。"
+      "value": "%1$@は直近%3$@試合をすべて落とし、%2$@も直近%4$@試合をすべて落としている。"
     },
     "common_bad_form_team": {
       "english": "%1$@ have lost their last %2$@ matches.",
@@ -2787,7 +2787,7 @@
     "common_bracket_draw_info_legend": {
       "comment": "Bracket draw explanation",
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
-      "value": "ブラケットの配置はライブ結果に基づいており、現在のステージが完了するまで確定しません。「or」で区切られたチームは一緒に抽選に入り、そのラウンドで対戦することはできません。"
+      "value": "ブラケットの配置はライブ結果に基づいており、現在のステージが完了するまで確定しません。\\n\\n「or」で区切られたチームは一緒に抽選に入り、そのラウンドで対戦することはできません。"
     },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
@@ -2796,7 +2796,7 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "ツイートはありません"
+      "value": "Buzzは利用できません"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
@@ -2833,7 +2833,7 @@
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
       "english": "Attacking Midfielder",
-      "value": "セントラル攻撃的ミッドフィールダー"
+      "value": "攻撃的ミッドフィールダー"
     },
     "common_centerattackingmidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
@@ -2853,7 +2853,7 @@
     "common_centerdefensivemidfielder": {
       "comment": "Player position - player plays as an defensive midfielder",
       "english": "Defensive Midfielder",
-      "value": "セントラル守備的ミッドフィールダー"
+      "value": "守備的ミッドフィールダー"
     },
     "common_centerdefensivemidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
@@ -2954,7 +2954,7 @@
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "english": "Cleared off the line",
-      "value": "ライン外にクリア"
+      "value": "ゴールライン上でクリア"
     },
     "common_close": {
       "english": "Close",
@@ -3112,12 +3112,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>データはすべてOptaが提供するスタッツをもとに計算されます。</p><p>FotMobの選手採点は、試合ごとに100を超える個別スタッツをもとに各選手の得点を計算します。</p><p>最後の数分に交代で出場した試合を含むすべての参加試合が試合ごと評価の対象となります。</p><p>全試合の50％以上に出場した選手のみがランキングに含まれます。</p>"
+      "value": "<p>データはすべてOptaが提供するスタッツをもとに計算されます。</p><p>FotMobの選手採点は、試合ごとに100を超える個別スタッツをもとに各選手の得点を計算します。</p><p>最後の数分に交代で出場した場合でも、参加した試合はすべて試合ごと評価の対象となります。</p><p>ランキングに含まれるには、全試合の50％以上に出場し、（90分あたりのスタッツについては）少なくとも90分間プレーしている必要があります。</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>データはすべてOptaが提供するスタッツをもとに計算されます。</p><p>FotMobの選手採点は、試合ごとに100を超える個別スタッツをもとに各選手の得点を計算します。</p><p>最後の数分に交代で出場した試合を含むすべての参加試合が試合ごと評価の対象となります。</p><p>全試合の50％%以上に出場した選手のみがランキングに含まれます。</p>"
+      "value": "<p>データはすべてOptaが提供するスタッツをもとに計算されます。</p><p>FotMobの選手採点は、試合ごとに100を超える個別スタッツをもとに算出されます。</p><p>試合ごとの評価における「試合」とは、最後の数分に交代出場した場合も含め、参加したすべての試合を指します。</p><p>ランキングに含まれるには、全試合の50%%以上に出場し、（90分あたりのスタッツについては）少なくとも90分プレーしている必要があります。</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3182,7 +3182,7 @@
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
-      "value": "%1$@は前%3$@試合引分けなし、前%4$@で%2$@。"
+      "value": "%1$@は直近%3$@試合で引き分けがなく、%2$@も直近%4$@試合で引き分けがありません。"
     },
     "common_draw_streak_team": {
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
@@ -3353,20 +3353,25 @@
       "english": "Errors led to goal",
       "value": "得点につながるミス"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "推定移籍価値 (ETV) は、選手が今売却された場合の価値についての私たちの最良の推測です。\\n\\nこれは実際の移籍データを使用して計算され、以下を考慮に入れます：\\n\\n• 選手のパフォーマンス\\n• 年齢と将来の可能性\\n• ポジションでの出場頻度とレベル\\n• チームとリーグの強さ\\n• 契約の残存期間\\n• 最近の動向や類似の要因\\n\\n私たちは選手自身に焦点を当て、噂やどのクラブが買うかには注目しません。\\n\\nこの価値は、移籍市場の変化を反映するために定期的に更新されます。"
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "推定選手価値"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "推定移籍価値"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "現在売却した場合の推定価値"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "推定移籍価値 (ETV) は、選手が今売却された場合の価値についての私たちの最良の推測です。\\n\\nこれは実際の移籍データを使用して計算され、以下を考慮に入れます：\\n\\n• 選手のパフォーマンスと成長\\n• 年齢と将来の可能性\\n• 出場頻度とレベル\\n• ポジション\\n• チームとリーグの強さ\\n• 契約の残存期間\\n\\nETVは選手自身に焦点を当て、噂やどのクラブが買うかには注目しません。\\n\\nこの価値は、時間の経過に伴う変化を反映するために定期的に更新されます。"
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "推定市場価値"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3407,7 +3412,7 @@
     "common_expand_all_leagues": {
       "comment": "Menu item to show all matches in all leagues by expanding the leagues with matches. Reverse operation of collapse_all_leagues.",
       "english": "Expand all leagues",
-      "value": "全リーグの試合を表示"
+      "value": "全リーグを展開"
     },
     "common_expand_hint": {
       "comment": "This is part of an onboarding tutorial where we tell the user where to click to open or close the league. If he clicks the icon, we show all the matches in the league he clicked.",
@@ -3432,7 +3437,7 @@
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "xG 被ゴール数"
+      "value": "被xG"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
@@ -3656,162 +3661,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@が%2$@のペナルティにつながるファウルを犯しました。"
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "この試合のファウル数最多（%2$@回）は%1$@でした。"
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "この試合のファウル数最多（%2$@回）は%1$@です。"
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "この試合のデュエル敗北数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "この試合これまでデュエル敗北数が最多（%2$@）なのは%1$@。"
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "この試合でボールを奪われた回数が最多（%2$@）だったのは%1$@。"
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "この試合これまでボールを奪われた回数が最多（%2$@）なのは%1$@。"
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "90分間のプレーで、全フィールドプレーヤー中最もタッチ数が少なかった（%2$@）のは%1$@。"
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "全フィールドプレーヤー中、最もタッチ数が少ない（%2$@）のは%1$@。"
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@のミスが%2$@のゴールを誘発。"
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@のミスが%2$@のゴールを誘発。",
-        "other": "%1$@の%3$d回のミスが%2$@のゴールを誘発。"
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "この試合のドリブル成功数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "この試合のこれまでのドリブル成功数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "この試合のチャンスメイク数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "この試合のチャンスメイク数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "この試合のパス成功数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "この試合のこれまでのパス成功数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "この試合のタックル数最多（%2$@）は%1$@でした。"
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "この試合のタックル数最多（%2$@）は%1$@です。"
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@が%2$@点を獲得して最優秀選手に選ばれました。"
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "現在、%1$@が最高の試合評価点%2$@を獲得。"
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "相手のボックス内で最もタッチ数が多かった（%2$@）のは%1$@。"
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "相手のボックス内で最もタッチ数が多い（%2$@）のは%1$@。"
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "45分間以上のプレーで最もパスが正確（%2$@）だったのは%1$@。"
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "この試合で最もパスが正確（%2$@）なのは%1$@。"
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@がオウンゴールを記録。"
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "この試合のデュエル勝利数最多（%2$@）は%1$@。"
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "この試合これまでデュエル勝利数が最多（%2$@）なのは%1$@。"
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@は総シュート数%3$@回中%2$@回ゴール枠に当てました。"
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@は総シュート数%3$@回中%2$@回ゴール枠に当てています。"
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "全般"
@@ -3910,7 +3759,7 @@
     },
     "common_goalstreak_team": {
       "english": "%1$@ have scored in their last %2$@ matches.",
-      "value": "%1$@は前%2$@試合無得点。"
+      "value": "%1$@は直近%2$@試合連続で得点しています。"
     },
     "common_goalstreak_team_away": {
       "english": "%1$@ have scored in their last %2$@ away matches.",
@@ -3918,7 +3767,7 @@
     },
     "common_goalstreak_team_both": {
       "english": "%1$@ have scored in their last %2$@ matches and %3$@ have scored in their last %4$@ matches.",
-      "value": "%1$@は前%2$@試合無得点、%3$@は前%4$@試合無得点。"
+      "value": "%1$@は直近%2$@試合で得点しており、%3$@も直近%4$@試合で得点しています。"
     },
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
@@ -3929,12 +3778,13 @@
       "value": "ゴールドサポーター"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "ゴールデンゴール"
     },
     "common_good_form_both": {
       "english": "%1$@ have won their last %3$@ matches and %2$@ their last %4$@ matches.",
-      "value": "%1$@は前%3$@試合全勝、前%4$@試合%2$@"
+      "value": "%1$@は直近%3$@試合に全勝し、%2$@も直近%4$@試合に全勝しています。"
     },
     "common_good_form_team": {
       "english": "%1$@ have won their last %2$@ matches.",
@@ -3990,7 +3840,7 @@
     },
     "common_h2h_winstreak": {
       "english": "%1$@ have won the previous %3$@ matches against %2$@.",
-      "value": "%1$@は前%3$@試合で%2$@に全て勝利。"
+      "value": "%1$@は%2$@との直近%3$@試合に勝利しています。"
     },
     "common_halftime_short": {
       "english": "HT",
@@ -4005,6 +3855,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "%@のニュースを非表示にする"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "最高"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4065,7 +3920,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "FotMobサポータークラブに参加しよう。邪魔な広告を削除して、FotMobを快適にお楽しみください。皆さまのサポートは、継続的なFotMobの改善に役立ちます。ぜひご協力ください！"
+      "value": "FotMobサポータークラブに参加して、FotMob側で管理できる広告を削除し、より速く、集中してFotMobをお楽しみください。皆さまのサポートは、FotMobをさらに良くし続けるための力になります。なお、外部の第三者によるニュース記事を開いた場合、そのサイトに表示される広告については当社では管理できません。ご支援ありがとうございます！"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4212,7 +4067,7 @@
     },
     "common_last_poll_failed": {
       "english": "Last poll failed. Retrying at",
-      "value": "前回の投票は失敗しました。再試行まで"
+      "value": "前回のポーリングに失敗しました。再試行予定時刻:"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4327,7 +4182,7 @@
     "common_legacy_gold_member": {
       "comment": "This is in a info message for people that already bought FotMob but we offer them to also do a subscription.",
       "english": "You have a lifetime membership with FotMob, but if you want you can now sign up for a subscription. Your support helps us continue to make FotMob better. Thanks for your support!",
-      "value": "` FotMobの生涯メンバーシップをお持ちですが、ご希望に応じてサブスクリプションにも登録できます。皆さまのサポートは、継続的なFotMobの改善に役立ちます。ぜひご協力ください！`"
+      "value": "FotMobの生涯メンバーシップをお持ちですが、ご希望に応じてサブスクリプションにも登録できます。皆さまのサポートは、継続的なFotMobの改善に役立ちます。ご支援ありがとうございます！"
     },
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
@@ -4531,7 +4386,7 @@
     "common_minutes_until_second_half": {
       "comment": "countdown to the second half of the match",
       "english": "%@ until second half",
-      "value": "後半戦開始まで%@"
+      "value": "後半開始まで%@"
     },
     "common_missed_penalty": {
       "english": "Missed penalty",
@@ -4597,7 +4452,7 @@
     },
     "common_next_poll": {
       "english": "Next poll at",
-      "value": "次の投票まで"
+      "value": "次の投票は"
     },
     "common_nicaragua": {
       "english": "Nicaragua",
@@ -4621,7 +4476,7 @@
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
-      "value": "試合日はありません"
+      "value": "試合日程はありません"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
@@ -4683,7 +4538,7 @@
     },
     "common_not_favorites": {
       "english": "Not favorites",
-      "value": "お気に入り以外を解除"
+      "value": "お気に入りではない"
     },
     "common_not_native_language": {
       "comment": "A message saying we don't have the live ticker in the users language. Like we may have the ticker in German while the user only speaks English.",
@@ -4704,7 +4559,7 @@
     },
     "common_not_won_both": {
       "english": "%1$@ haven't won a match in their last %3$@ attempts, and %2$@ in their last %4$@.",
-      "value": "%1$@は過去%3$@回のトライで勝ちなし、前%4$@で%2$@。"
+      "value": "%1$@は直近%3$@試合で未勝利で、%2$@も直近%4$@試合で未勝利。"
     },
     "common_not_won_team": {
       "english": "%1$@ haven't won a match in %2$@ attempts.",
@@ -4792,7 +4647,7 @@
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
       "english": "Follow %@ and get updates from your favorite teams and players.",
-      "value": "%@のお気に入りチームと選手をフォローして、情報をもらさずキャッチ。"
+      "value": "%@ をフォローして、お気に入りのチームや選手の最新情報を受け取ろう。"
     },
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
@@ -4812,7 +4667,7 @@
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
-      "value": "お気に入りの選手を選択すると、得点数、レッドカード数、ペナルティを外した数などの通知を受け取れます"
+      "value": "お気に入りの選手を選択すると、ゴール、レッドカード、PK失敗などを通知で受け取れます"
     },
     "common_onboarding_players_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for players",
@@ -4891,7 +4746,7 @@
     },
     "common_over_under": {
       "english": "Will there be more than 2.5 goals?",
-      "value": "2.5点以上ゴールしますか？"
+      "value": "合計2.5ゴールを超えますか？"
     },
     "common_own_goal_short": {
       "comment": "Shorthand for Own Goal. If no possible way to translate this then use OG. This is used to write things like \"Messi 92'(OG)\". Indicating Messi scored an Own Goal in 92' minute.",
@@ -4916,6 +4771,7 @@
       "value": "パラグアイ"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "一時中断"
     },
@@ -4930,7 +4786,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "ペナルティ数"
+      "value": "被ペナルティ数"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -4953,6 +4809,7 @@
       "value": "総試合数"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "ペナルティを与えた回数"
     },
@@ -4971,12 +4828,12 @@
     },
     "common_penalty_won_team_title": {
       "english": "Penalties awarded",
-      "value": "ペナルティを課された回数"
+      "value": "ペナルティが与えられた回数"
     },
     "common_penalty_won_title": {
       "comment": "Team/Player has received a penalty because of a foul",
       "english": "Penalties awarded",
-      "value": "ペナルティを課された回数"
+      "value": "与えられたPK"
     },
     "common_peru": {
       "english": "Peru",
@@ -5085,15 +4942,15 @@
     },
     "common_poss_won_att_3rd_subtitle": {
       "english": "Possession won midfield",
-      "value": "中盤でボールを支配"
+      "value": "中盤でボールを奪取"
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "中盤でボールを支配"
+      "value": "中盤でボール奪取"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "ラスト3分の1でボールを支配"
+      "value": "ファイナルサードでのボール奪取"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
@@ -5181,7 +5038,7 @@
     },
     "common_promotionqual": {
       "english": "Promotion qualification",
-      "value": "昇格決定戦"
+      "value": "昇格資格"
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
@@ -5321,7 +5178,7 @@
     "common_rightwinger": {
       "comment": "Player position - player plays as a right wing",
       "english": "Right Winger",
-      "value": "ウィング"
+      "value": "右ウィンガー"
     },
     "common_rightwinger_short": {
       "comment": "Player position - a SHORT abbrevation of the Right Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
@@ -5361,7 +5218,7 @@
     },
     "common_score_poll_interval": {
       "english": "Score polling interval",
-      "value": "得点投票の間隔"
+      "value": "スコアのポーリング間隔"
     },
     "common_score_volume": {
       "english": "Score alert volume",
@@ -5585,10 +5442,12 @@
       "value": "シルバーサポーター"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "シルバーゴール"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "シルバーゴール"
     },
@@ -5599,7 +5458,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "ライブウィンドウで競技会を表示したい順にドラッグするか、競技会を選択してボタンを使用し、好みの表示順を作成します"
+      "value": "「試合」タブでリーグの順番を変えるには、ドラッグして並べ替えてください。 または、リーグをタップして選択し、下部のボタンで移動します。"
     },
     "common_sort_favorite_leagues_v2": {
       "comment": "A body for the hint (onboarding) for the new News, where we explain how to change order of the news-sections",
@@ -6065,7 +5924,7 @@
     "common_transfer_period": {
       "comment": "A header indicating the time period you want to search for. This will be followed by the [last_x_years] string and [last_x_months]",
       "english": "Include transfers from",
-      "value": "次の移籍をを含む："
+      "value": "次の期間以降の移籍を含む："
     },
     "common_transfer_reported_fee": {
       "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
@@ -6078,9 +5937,9 @@
       "value": "金額"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "市場価格"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "移籍金額"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6144,7 +6003,7 @@
     },
     "common_undefeated_both_unequal": {
       "english": "%1$@ haven't lost in their last %3$@ matches, and %2$@ in their last %4$@.",
-      "value": "%1$@は前%3$@試合無敗、前%4$@で%2$@。"
+      "value": "%1$@は直近%3$@試合で無敗、%2$@は直近%4$@試合で無敗。"
     },
     "common_undefeated_team": {
       "english": "%1$@ haven't lost in %2$@ matches.",
@@ -6165,7 +6024,7 @@
     },
     "common_unstar": {
       "english": "Unfollow %@",
-      "value": "%@を削除"
+      "value": "%@のフォローを解除"
     },
     "common_unstar_league": {
       "english": "Remove from favorites",
@@ -6440,7 +6299,7 @@
     },
     "ios_Error_reporting": {
       "english": "Error reporting",
-      "value": "レポートのエラー"
+      "value": "エラー報告"
     },
     "ios_GER": {
       "english": "German",
@@ -6502,7 +6361,7 @@
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
-      "value": "以前の購入を復元"
+      "value": "購入を復元しますか？"
     },
     "ios_SVK": {
       "english": "Slovak",
@@ -6779,7 +6638,7 @@
     "new_goals_start_and_finish": {
       "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
       "english": "Goals, start and finish",
-      "value": "ゴール数、開始、終了"
+      "value": "ゴール、試合開始、試合終了"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7206,7 +7065,7 @@
     },
     "notifications_alert_FirstHalf": {
       "english": "%@ - %@\\nStarted",
-      "value": "%@ - %@\\n試合中"
+      "value": "%@ - %@\\n開始"
     },
     "notifications_alert_Pause": {
       "english": "%@ %@-%@ %@\\nHalf time",
@@ -7306,7 +7165,7 @@
     },
     "notifications_alert_rating": {
       "english": "%@ %@-%@ %@\\n%@%@ got a rating of %@",
-      "value": "%@ %@-%@ %@\\n%@%@が%@点を獲得"
+      "value": "%@ %@-%@ %@\\n%@%@の評価は%@でした"
     },
     "notifications_alert_rating_man_of_the_match": {
       "english": "%@ %@-%@ %@\\n🔥 %@%@ got a rating of %@ and was Player of the Match!",
@@ -7333,11 +7192,11 @@
     },
     "notifications_alert_subst_in": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
-      "value": "%@ %@-%@ %@\\n%@%@ 交代（IN）"
+      "value": "%@ %@-%@ %@\\n%@%@ が途中出場しました"
     },
     "notifications_alert_subst_out": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed off",
-      "value": "%@ %@-%@ %@\\n%@%@ 交代（OUT）"
+      "value": "%@ %@-%@ %@\\n%@%@ が交代で退きました"
     },
     "notifications_alert_yellow_card": {
       "english": "%@ %@-%@ %@\\n%@%@ got a yellow card",
@@ -7570,7 +7429,7 @@
     "notifications_disable_dnd_to_hear_notifications": {
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
-      "value": "「サイレント」モードをオフすると、通知音が鳴ります。"
+      "value": "通知音を聞くには、「おやすみモード」をオフにしてください。"
     },
     "notifications_disable_push": {
       "english": "Are you sure? You should only do this if you experience problems with the notifications.",
@@ -7606,7 +7465,7 @@
     },
     "notifications_dribbles_attempted": {
       "english": "Dribbles attempted",
-      "value": "ドリブル失敗"
+      "value": "ドリブル試行"
     },
     "notifications_dribbles_succeeded": {
       "english": "Successful dribbles",
@@ -7720,17 +7579,17 @@
       "value": "未定"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "%1$@上旬"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "%1$@下旬"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "%1$@中旬"
     },
@@ -7751,15 +7610,15 @@
     },
     "notifications_filter_and_sort_tournaments": {
       "english": "Filter and sort leagues",
-      "value": "トーナメントの絞り込みと並べ替え"
+      "value": "リーグの絞り込みと並べ替え"
     },
     "notifications_filter_tournaments": {
       "english": "Filter leagues",
-      "value": "トーナメントの絞り込み"
+      "value": "リーグの絞り込み"
     },
     "notifications_filter_tournaments_help_text": {
       "english": "Select which leagues to display in Matches tab",
-      "value": "「試合」タブに表示するトーナメントを選択します"
+      "value": "「試合」タブに表示するリーグを選択します"
     },
     "notifications_finland": {
       "english": "Finland",
@@ -7935,7 +7794,7 @@
     },
     "notifications_injury_106": {
       "english": "Broken knee cap",
-      "value": "膝関節の骨折"
+      "value": "膝蓋骨骨折"
     },
     "notifications_injury_107": {
       "english": "Bruised foot",
@@ -8558,7 +8417,7 @@
     "notifications_no_variant_1": {
       "comment": "Used for rating dialog",
       "english": "Not really",
-      "value": "あまり満足していない"
+      "value": "あまりそう思わない"
     },
     "notifications_no_variant_2": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -8639,7 +8498,7 @@
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
-      "value": "ペナルティ勝ち"
+      "value": "獲得したPK"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -8866,7 +8725,7 @@
     "notifications_search_result_header_tournaments": {
       "comment": "Heading for search results",
       "english": "Leagues (%1$@)",
-      "value": "トーナメント（%1$@）"
+      "value": "リーグ（%1$@）"
     },
     "notifications_seconds_short": {
       "comment": "Abbrevation of seconds (ideally short as \"s\" instead of \"sec\" if possible)",
@@ -9058,7 +8917,7 @@
     },
     "notifications_tackles_attempted": {
       "english": "Tackles attempted",
-      "value": "タックル失敗"
+      "value": "タックル試行"
     },
     "notifications_tackles_succeeded": {
       "english": "Tackles won",
@@ -9070,7 +8929,7 @@
     },
     "notifications_team_vs_team": {
       "english": "Team vs team",
-      "value": "これまでの試合結果"
+      "value": "チーム対チーム"
     },
     "notifications_teams_coached_for": {
       "comment": "A list of teams the player has coached",
@@ -9192,7 +9051,7 @@
     "notifications_turn_them_on": {
       "comment": "Button label asking the user to turn on the transfer alerts",
       "english": "Turn them on!",
-      "value": "受け取る！"
+      "value": "オンにする！"
     },
     "notifications_tv_schedule_tab": {
       "comment": "This is the title for the TV Schedule tab. We already have an icon displaying TV, so we want a shortened word for this. For example in England it would make sense to just write Schedule as we already display the TV",
@@ -9283,7 +9142,7 @@
     },
     "notifications_yellow_card": {
       "english": "Yellow card",
-      "value": "イエローカード数"
+      "value": "イエローカード"
     },
     "notifications_yes_variant_1": {
       "comment": "Used for rating dialog",
@@ -9343,6 +9202,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "広告の詳細を教えてください（広告主、どの画面か、ビデオまたは画像、問題点など）。"
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "広告掲載はこちら"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9390,7 +9254,7 @@
     "seo_available_in": {
       "comment": "Header string for when the next prediction will be available (countdown in days, hours and minutes)",
       "english": "Available in",
-      "value": "利用可能までの時間"
+      "value": "利用可能まで"
     },
     "seo_average_age": {
       "comment": "Average age in lineup.",
@@ -9572,9 +9436,9 @@
       "value": "ホーム画面を別のアプリアイコンでカスタマイズ"
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "ピッチ上でのxG失点"
+      "value": "ピッチ上での被xG"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9743,7 +9607,7 @@
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
       "english": "Gold",
-      "value": "金メダル"
+      "value": "ゴールド"
     },
     "seo_group_generic": {
       "comment": "Used in league fixtures filter",
@@ -9759,6 +9623,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "チーム間のこれまでのヘッドヘッド記録は、 %1$@ の %2$@ 勝、 %3$@ の %4$@ 勝、そして %5$@ 引き分けです。"
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "ヒートマップ"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "選手がピッチでどこに影響を与えるかを確認しましょう。ラインナップ画面から選手をタップしてチェックしてください。"
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "ヒートマップが登場"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9800,13 +9679,138 @@
       "english": "I need help",
       "value": "助けが必要です"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "リンクをコピー"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "リンクをコピーしてSafariまたはChromeに貼り付けてください"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "右下の三点（•••）をタップしてから、「ブラウザで開く」"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "右上の3点（•••）をタップしてから、「ブラウザで開く」"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "メニュー（≡）をタップして、「他のブラウザで開く」を選択"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "下部の共有アイコンをタップして、次に使用するブラウザを選択してください"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "3つの点（•••）をタップして、「ブラウザで開く」を選択"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "右上の3つの点（•••）をタップしてから、「外部ブラウザで開く」を選択"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "（•••）をタップしてから、「ブラウザで開く」を選択"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "三点リーダー（•••）をタップして、「ブラウザで開く」を選択"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "共有アイコンをタップして、「Safariで開く」または「リンクをコピー」を選択"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "3つの点（•••）をタップし、次に「“他のアプリで開く…”」を選んでSafariを選択"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "リンクをコピーして、SafariまたはChromeに貼り付けてください"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "共有アイコンをタップしてから、「Safariで開く」を選択"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "メニュー (••• または共有アイコン) を探して「ブラウザで開く」を選択"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "3つの点（•••）をタップして、「Safariで開く」"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "戻る"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "ブラウザで開く"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "ブラウザで開いてログイン"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Chromeで開く"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Safariで開く"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "または手動で:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "%1$sのブラウザではサインインが安定して動作しません。Safari または Chrome でこのページを開いてください。"
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "それでもここでサインインを試す（動作しない場合があります）"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "このアプリ内ブラウザではログインが機能しないかもしれません"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "%1$s のブラウザではサインインできない場合があります。より快適に利用するには、戻ってこのページをブラウザで開いてください。"
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "続行するには、デバイスのブラウザ (Safari または Chrome) でこのページを開いてください。"
     },
@@ -9884,6 +9888,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "フォーメーションを保存しました"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "なし"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10460,7 +10469,7 @@
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
       "english": "Have a question about FotMob, app settings or stats definitions? Check out FotMob's Frequently Asked Questions page for answers and other pro tips!",
-      "value": "FotMobについての質問や、アプリの設定、統計データの定義についてご不明な点はありますか？FotMobのFrequently Asked Questionsページをチェックして、回答やその他のプロのヒントをご覧ください！"
+      "value": "FotMobについての質問や、アプリの設定、統計データの定義についてご不明な点はありますか？FotMobのよくある質問ページをチェックして、回答やその他のプロのヒントをご覧ください！"
     },
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
@@ -10575,12 +10584,12 @@
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
       "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "最新の%1$@移籍、入団、契約延長"
+      "value": "最新の%1$@の加入・退団・契約延長"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "最新の確認済みの移籍と最も高価なサインを見つけてください。 FotMob Transfer Center - リーグとチーム別にフィルタリングします。 締め切り日のライブアップデートで完了した全ての契約を把握しましょう！"
+      "value": "最新の確認済み移籍や、史上最高額の獲得選手をすべてチェック。FotMob移籍センターでリーグやチーム別に絞り込み。締め切り日（デッドラインデー）もライブ更新で、成立した全取引を見逃さない！"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
@@ -10796,6 +10805,11 @@
       "english": "Submit",
       "value": "送信する"
     },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
+    },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
       "english": "Subscribe",
@@ -10989,6 +11003,11 @@
       "english": "Out",
       "value": "放出"
     },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "透明性法に関する声明"
+    },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
       "english": "Then %1$@ / year (%2$@ / month)",
@@ -11144,7 +11163,7 @@
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",
       "english": "Week",
-      "value": "第%1$d週"
+      "value": "週"
     },
     "seo_weekly_predictor_notification_body": {
       "comment": "Notification body mentioning that new Fotmob Predictor matches are now open.",

@@ -698,7 +698,7 @@
     "accessibility_insights_penalties_awarded": {
       "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
       "english": "Have been awarded the most penalties this season (%1$@)",
-      "value": "Заработано больше всего пенальти в этом сезоне ()%1$@)"
+      "value": "Получили больше всего пенальти в этом сезоне (%1$@)"
     },
     "accessibility_insights_penalties_conceded": {
       "comment": "The team has the record for conceding penalties in a season. Example: \"Have conceded the most penalties this season (13)\"",
@@ -876,7 +876,7 @@
     "accessibility_league_widget_body": {
       "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
       "english": "View today's matches with live updates",
-      "value": "Смотрите актуальные матчи обновлением данных в реальном времени"
+      "value": "Смотрите сегодняшние матчи с обновлениями в реальном времени"
     },
     "accessibility_league_widget_header": {
       "comment": "Header for a widget where you get an overview of a league's matches",
@@ -906,7 +906,7 @@
     "accessibility_live_activities_onboarding_pin_teams": {
       "comment": "Description string used when onboarding users to auto live activities.",
       "english": "Automatically pin matches from teams you follow to your lock screen",
-      "value": "Автоматическое закрепление матче команд, за которыми вы следите, на экране блокировки"
+      "value": "Автоматически закреплять матчи команд, за которыми вы следите, на экране блокировки"
     },
     "accessibility_live_activity_added": {
       "comment": "Used in toast when activating a live activity",
@@ -926,7 +926,7 @@
     "accessibility_live_activity_max_exceeded": {
       "comment": "Toggle label which explains you have exceeed the number of teams we allow to have their matches pinned to the lock screen as Live Activities. Translate pinned as \"shown\" if pinned sounds strange.",
       "english": "You've reached the maximum number of teams that can be pinned to the lock screen",
-      "value": "Вы достигли максимального числа, команд, которые можно закрепить на экране блокировки"
+      "value": "Вы достигли максимального числа команд, которые можно закрепить на экране блокировки"
     },
     "accessibility_live_activity_pin_to_lockscreen": {
       "comment": "Toggle label which appears when clicking the bell on a team page. It will then create a Live Activity for all matches for this specific team on your lock screen. Translate pinned as \"shown\" if pinned sounds strange.",
@@ -1578,12 +1578,12 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "Выигранные единоборства у чужих ворот за 90"
+      "value": "Возвраты владения в финальной трети за 90"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
       "english": "Possession won midfield per 90",
-      "value": "Выигранные единоборства в центре поля за 90"
+      "value": "Возвраты владения в центре поля за 90"
     },
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
@@ -2295,7 +2295,7 @@
     "accessibility_tips_and_support": {
       "comment": "Support menu item title.",
       "english": "Tips and support",
-      "value": "Советы и поддеркжа"
+      "value": "Советы и поддержка"
     },
     "accessibility_top_leagues": {
       "comment": "Text shown as the header for a list of the top leagues.",
@@ -2305,7 +2305,7 @@
     "accessibility_top_transfer_description": {
       "comment": "You can toggle on getting alerts for all the most important transfers. This is regardless of which team or league the transfer is from.",
       "english": "Get notifications for all the top transfers across all leagues",
-      "value": "Получайте уведомления обо всех главных транфесрах во всех лигах"
+      "value": "Получайте уведомления обо всех главных трансферах во всех лигах"
     },
     "accessibility_total": {
       "comment": "Table header text for the column that shows total Fifa rank points.",
@@ -2484,7 +2484,7 @@
     },
     "common_ShotsOffTarget": {
       "english": "Shots off target",
-      "value": "Удары по воротам"
+      "value": "Удары мимо ворот"
     },
     "common_ShotsOnTarget": {
       "english": "Shots on target",
@@ -2625,7 +2625,7 @@
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@ %@-%@ %@\\n%@Гол не засчитан (система видеопомощи арбитам)"
+      "value": "%@ %@-%@ %@\\n%@Гол не засчитан (VAR)"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
@@ -3126,12 +3126,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Все данные рассчитаны на основе статистики от Opta.</p><p>Рейтинг игроков FotMob рассчитывается по более чем 100 индивидуальным статистическим показателям игрока за игру.</p><p>Одна игра в рейтинге по матчам – это любая игра, в которой принимал участие игрок, даже если он вышел на замену на последних минутах.</p><p>Чтобы войти в рейтинг, игрок должен отыграть не менее чем в 50% матчей.</p>"
+      "value": "<p>Все данные рассчитаны на основе статистики от Opta.</p><p>Рейтинг игроков FotMob рассчитывается по более чем 100 индивидуальным статистическим показателям игрока за игру.</p><p>Одна игра в рейтинге по матчам – это любая игра, в которой принимал участие игрок, даже если он вышел на замену на последних минутах.</p><p>Чтобы войти в рейтинг, игрок должен отыграть не менее чем в 50% матчей и провести на поле не менее 90 минут (для статистики «за 90 минут»).</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Все данные рассчитаны на основе статистики от Opta.</p><p>Рейтинг игроков FotMob рассчитывается по более чем 100 индивидуальным статистическим показателям игрока за игру.</p><p>Одна игра в рейтинге по матчам – это любая игра, в которой принимал участие игрок, даже если он вышел на замену на последних минутах.</p><p>Чтобы войти в рейтинг, игрок должен отыграть не менее чем в 50%% матчей.</p>"
+      "value": "<p>Все данные рассчитаны на основе статистики от Opta.</p><p>Рейтинг игроков FotMob рассчитывается по более чем 100 индивидуальным статистическим показателям игрока за матч.</p><p>Один матч в рейтинге «за матч» — это любой матч, в котором участвовал игрок, даже если он вышел на замену на последних минутах.</p><p>Чтобы попасть в рейтинг, игрок должен сыграть как минимум в 50%% всех матчей и провести на поле не менее 90 минут (для статистики «за 90 минут»).</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3367,20 +3367,25 @@
       "english": "Errors led to goal",
       "value": "Ошибки приводят к голу"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Оценочная трансферная стоимость (ETV) — это наша лучшая оценка того, сколько игрок может стоить, если его продать прямо сейчас.\\n\\nОна рассчитывается на основе реальных данных о трансферах и учитывает:\\n\\n• выступления игрока\\n• его возраст и будущий потенциал\\n• как часто и на каком уровне он играет на своей позиции\\n• силу его команды и лиги\\n• срок действия его контракта\\n• недавние изменения и аналогичные факторы\\n\\nМы сосредотачиваемся на самом игроке, а не на слухах или на том, какой клуб может его купить.\\n\\nСтоимость регулярно обновляется, чтобы отражать изменения на трансферном рынке с течением времени."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Оценочная стоимость игрока"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Оценочная стоимость трансфера"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Вероятная стоимость при продаже сейчас"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Оценочная трансферная стоимость (ETV) — это наша лучшая оценка того, сколько игрок может стоить, если его продать прямо сейчас.\\n\\nОна рассчитывается на основе исторических данных о трансферах и учитывает ряд факторов, включая:\\n\\n• выступления и развитие игрока\\n• возраст и будущий потенциал\\n• частоту и уровень его игр\\n• позицию\\n• силу команды и лиги\\n• оставшийся срок контракта\\n\\nETV сосредоточена на самом игроке, а не на слухах или на том, какой клуб может его купить.\\n\\nСтоимость регулярно обновляется, чтобы отражать изменения со временем."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Оценочная стоимость"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3471,7 +3476,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "Прогноз ударов по воротам (xGOT)"
+      "value": "Ожидаемые голы по ударам в створ (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3602,7 +3607,7 @@
     "common_firstrun_select_teams_to_follow": {
       "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
       "english": "Select your favorite clubs and national teams to follow",
-      "value": "Выберите свои любимые клубы и национальные сборную"
+      "value": "Выберите свои любимые клубы и национальные сборные, чтобы следить за ними"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -3674,164 +3679,6 @@
     "common_fulltime_short": {
       "english": "FT",
       "value": "FT"
-    },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "Игрок %1$@ совершил нарушение, и команде %2$@ был назначен пенальти."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ заработал больше всех нарушений на себе (%2$@) в матче."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ заработал больше всех нарушений на себе (%2$@)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ проиграл больше всех единоборств (%2$@) в матче."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ проиграл больше всех единоборств (%2$@)."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ терял мяч чаще всех (%2$@) в матче."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ теряет мяч чаще всех (%2$@)."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ совершил меньше всех касаний мяча (%2$@) среди полевых игроков отыгравших 90 минут."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ совершил меньше всех касаний мяча (%2$@) среди полевых игроков."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ совершил результативную ошибку приведшую к голу %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "few": "%1$@ совершил %3$d ошибки, приведшие к голам %2$@.",
-        "many": "%1$@ совершил %3$d ошибок, приведших к голам %2$@.",
-        "one": "%1$@ совершил ошибку, приведшую к голу %2$@.",
-        "other": "%1$@ совершил %3$d ошибки, приведшие к голам %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ совершил больше всех обводок (%2$@) за матч."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ совершил больше всех обводок (%2$@)."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ создал больше всех голевых моментов (%2$@) за матч."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ создал больше всех голевых моментов (%2$@) за матч."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ отдал больше всех передач (%2$@) за матч."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ отдал больше всех передач (%2$@)."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ совершил больше всех отборов (%2$@) за матч."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ совершил больше всех отборов (%2$@)."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ стал игроком матча с рейтингом %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ имеет самый высокий рейтинг %2$@ на текущий момент."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ совершил больше всех касаний (%2$@) в чужой штрафной в матче."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ совершил больше всех касаний (%2$@) в чужой штрафной."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ отдал больше всех точных передач (%2$@) среди игроков отыгравших более 45 минут."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ отдал больше всех точных передач (%2$@) в матче."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ забил автогол."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ выиграл больше всех единоборств (%2$@) в матче."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ выиграл больше всех единоборств (%2$@)."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ нанес %3$@ удара по воротам %2$@ раза попав в каркас ворот за матч."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ нанес %3$@ удара по воротам %2$@ раза попав в каркас ворот."
     },
     "common_generalUpper": {
       "english": "GENERAL",
@@ -3950,6 +3797,7 @@
       "value": "Gold пользователь"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "Золотой гол"
     },
@@ -4026,6 +3874,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Скрыть новости: %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Самый высокий"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4259,7 +4112,7 @@
     "common_last_x_months": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 2 months\"",
       "english": "%@ months ago",
-      "value": "последние %@ мес."
+      "value": "%@ мес. назад"
     },
     "common_last_x_years": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 3 years\"",
@@ -4370,7 +4223,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "Это видео размещено на внешнем веб-сайте. FotMob не является владельцем контента, который вы собираетесь просмотреть.\\n\\nFotMob не несет ответственности (и не может быть привлечен к ответственности) за какой-либо контент, размещенный на стороннем веб-сайте."
+      "value": "Это видео размещено на внешнем веб-сайте. FotMob не является владельцем контента, который вы собираетесь просмотреть.\\n\\nFotMob не несет ответственности и не может быть привлечен к ответственности за какой-либо контент, размещенный на стороннем веб-сайте.\\n\\nПо любым юридическим жалобам, пожалуйста, свяжитесь с владельцем медиафайла или поставщиком услуг хостинга видео/аудио."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4917,7 +4770,7 @@
     "common_opened": {
       "comment": "Label indicating what year the stadium was built",
       "english": "Opened",
-      "value": "Построен"
+      "value": "Открыт"
     },
     "common_opposition_half_passes": {
       "comment": "Label for number of passes inside the other teams half",
@@ -4956,6 +4809,7 @@
       "value": "Парагвай"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Pause"
     },
@@ -4993,6 +4847,7 @@
       "value": "Всего игр"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Фолы приведшие к пенальти"
     },
@@ -5048,7 +4903,7 @@
     "common_player_assist_removed": {
       "comment": "We have earlier sent a notification that the player got an assist, but this was wrong. So we then send a correction alert saying we were wrong and the player didn't get an assist.",
       "english": "Correction: %@ asi",
-      "value": "Поправка: %@%@ не делал голевой передачи"
+      "value": "Поправка: %@ не делал голевой передачи"
     },
     "common_player_assist_removed_short": {
       "comment": "We have earlier sent a notification that the player got an assist, but this was wrong. So we then send a correction alert saying we were wrong and the player didn't get an assist.",
@@ -5129,16 +4984,16 @@
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "Выигранные единоборства в центре поля"
+      "value": "Возвраты владения в центре поля"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Выигранные единоборства у чужих ворот"
+      "value": "Возвраты владения в финальной трети"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Выигранные единоборства у чужих ворот"
+      "value": "Возвраты владения в финальной трети за матч"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5222,11 +5077,11 @@
     },
     "common_promotion": {
       "english": "Promotion",
-      "value": "Проход"
+      "value": "Повышение"
     },
     "common_promotionqual": {
       "english": "Promotion qualification",
-      "value": "Стыковые матчи на проход"
+      "value": "Квалификация на повышение"
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
@@ -5630,10 +5485,12 @@
       "value": "Silver пользователь"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Серебряный гол"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Серебряный гол"
     },
@@ -5750,7 +5607,7 @@
     "common_supporter_club_pitch_1": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
       "english": "• Love FotMob? Your support helps us make the app better every day!",
-      "value": "• Нравится FotMob? Ваша поддержка помогает вам ежедневно улучшать приложение!"
+      "value": "• Нравится FotMob? Ваша поддержка помогает нам каждый день делать приложение лучше!"
     },
     "common_supporter_club_pitch_2": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
@@ -5963,7 +5820,7 @@
     },
     "common_title_activity_sort": {
       "english": "Sort",
-      "value": "Подборка"
+      "value": "Сортировка"
     },
     "common_title_activity_squad_member": {
       "english": "Squad member",
@@ -5989,7 +5846,7 @@
     },
     "common_toggle_favorite": {
       "english": "Set or unset as favorite",
-      "value": "Добавить или исключить в списке извбранного"
+      "value": "Добавить в избранное или убрать из избранного"
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
@@ -6123,9 +5980,9 @@
       "value": "Сумма"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Рыночная стоимость"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Трансферная стоимость"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6160,7 +6017,7 @@
     },
     "common_tv_selected_germany": {
       "english": "TV schedules - Germany",
-      "value": "ТВ программа - Germany"
+      "value": "ТВ программа - Германия"
     },
     "common_tv_selected_norway": {
       "english": "TV schedules - Norway",
@@ -6357,7 +6214,7 @@
     "common_widget_empty_text": {
       "comment": "Widget strings",
       "english": "No starred matches or matches with alerts today",
-      "value": "Сегодня нет начавшихся матчей или матчей с оповещениями"
+      "value": "Сегодня нет избранных матчей или матчей с оповещениями"
     },
     "common_widget_title": {
       "english": "FotMob",
@@ -6461,11 +6318,11 @@
     },
     "ios_BUL": {
       "english": "Bulgarian",
-      "value": "Болгарском"
+      "value": "Болгарский"
     },
     "ios_CZE": {
       "english": "Czech",
-      "value": "Чешском"
+      "value": "Чешский"
     },
     "ios_Changing_notification": {
       "english": "Changing notification...",
@@ -6473,7 +6330,7 @@
     },
     "ios_DEN": {
       "english": "Danish",
-      "value": "Датском"
+      "value": "Датский"
     },
     "ios_Done": {
       "english": "Done",
@@ -6481,11 +6338,11 @@
     },
     "ios_ENG": {
       "english": "English",
-      "value": "Английском"
+      "value": "Английский"
     },
     "ios_ESP": {
       "english": "Spanish",
-      "value": "Испанском"
+      "value": "Испанский"
     },
     "ios_Error_reporting": {
       "english": "Error reporting",
@@ -6493,19 +6350,19 @@
     },
     "ios_GER": {
       "english": "German",
-      "value": "Немецком"
+      "value": "Немецкий"
     },
     "ios_GRE": {
       "english": "Greek",
-      "value": "Греческом"
+      "value": "Греческий"
     },
     "ios_HUN": {
       "english": "Hungarian",
-      "value": "Венгерском"
+      "value": "Венгерский"
     },
     "ios_ITA": {
       "english": "Italian",
-      "value": "Итальянском"
+      "value": "Итальянский"
     },
     "ios_Matches_and_News": {
       "comment": "Header for a team where matches is the matches the team has played and news is the team news",
@@ -6518,7 +6375,7 @@
     },
     "ios_NOR": {
       "english": "Norwegian",
-      "value": "Норвежском"
+      "value": "Норвежский"
     },
     "ios_No_info_available": {
       "english": "No info available",
@@ -6526,11 +6383,11 @@
     },
     "ios_POL": {
       "english": "Polish",
-      "value": "Польском"
+      "value": "Польский"
     },
     "ios_POR": {
       "english": "Portuguese",
-      "value": "Португальском"
+      "value": "Португальский"
     },
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
@@ -6546,7 +6403,7 @@
     },
     "ios_ROU": {
       "english": "Romanian",
-      "value": "Румынском"
+      "value": "Румынский"
     },
     "ios_Rank": {
       "comment": "Do not use more than 5 characters! There is little room in the GUI for this string",
@@ -6559,11 +6416,11 @@
     },
     "ios_SVK": {
       "english": "Slovak",
-      "value": "Словацком"
+      "value": "Словацкий"
     },
     "ios_SWE": {
       "english": "Swedish",
-      "value": "Шведском"
+      "value": "Шведский"
     },
     "ios_Sorting": {
       "comment": "Menuchoice to change the sortorder of the leagues",
@@ -6805,7 +6662,7 @@
     "new_explanation": {
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
-      "value": "Мы подбираем и отправляем новостные уведомления для команд, которые указаны ниже. Активируйте новостные уведомления, что-бы быть в курсе последних событий."
+      "value": "Мы отправляем отобранные вручную новостные уведомления для команд ниже. Нажмите «ОК», чтобы включить уведомления и быть в курсе последних событий."
     },
     "new_favorite_summary": {
       "comment": "Summary info text",
@@ -6875,7 +6732,7 @@
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
-      "value": "Состав на матч"
+      "value": "Состав подтверждён"
     },
     "new_login_with": {
       "comment": "Header asking the users to log in with Facebook or Google+",
@@ -6914,7 +6771,7 @@
     "new_no_favorites_added": {
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
-      "value": "Вы ничего не добавили в избанное.\\n\\n\\nВернитесь назад чтобы добавить или завершите, добавив позже."
+      "value": "Вы не добавили избранное.\\n\\nНажмите «Назад», чтобы добавить сейчас, или нажмите «Готово» и добавьте позже."
     },
     "new_no_internet_connection": {
       "english": "No internet connection",
@@ -6963,7 +6820,7 @@
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
-      "value": "Дополнительно"
+      "value": "Необязательно"
     },
     "new_password": {
       "english": "Password",
@@ -7093,7 +6950,7 @@
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
       "english": "Standings",
-      "value": "Сводки"
+      "value": "Таблица"
     },
     "new_start_and_finish": {
       "comment": "Indicates that the user wants alerts for the start and end of the match",
@@ -7229,12 +7086,12 @@
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
       "english": "Aerial duels lost",
-      "value": "Проигран «второй этаж»"
+      "value": "Проигранные верховые единоборства"
     },
     "notifications_aerials_won": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won",
-      "value": "Выигран «второй этаж»"
+      "value": "Выигранные верховые единоборства"
     },
     "notifications_albania": {
       "english": "Albania",
@@ -7270,7 +7127,7 @@
     },
     "notifications_alert_Pause": {
       "english": "%@ %@-%@ %@\\nHalf time",
-      "value": "%@ %@-%@ %@\\nВторой тайм"
+      "value": "%@ %@-%@ %@\\nПерерыв"
     },
     "notifications_alert_PauseExtraTime": {
       "english": "%@ %@-%@ %@\\nPause in extra time",
@@ -7649,7 +7506,7 @@
     "notifications_distribution": {
       "comment": "Header for stats regarding passes, long balls, crosses and chances created in the match",
       "english": "Distribution",
-      "value": "Контроль"
+      "value": "Распределение"
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
@@ -7734,7 +7591,7 @@
     "notifications_error_unable_to_open_search_hit": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible click a search result like league/team/player/article",
       "english": "Unable to open search hit. Please try again later.",
-      "value": "Не удалось открыть поиск. Пожалуйста, повторите попытку позже."
+      "value": "Не удалось открыть результат поиска. Пожалуйста, повторите попытку позже."
     },
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
@@ -7780,17 +7637,17 @@
       "value": "Под сомнением"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "Начало %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "Конец %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "Середина %1$@"
     },
@@ -8019,7 +7876,7 @@
     },
     "notifications_injury_111": {
       "english": "Contusion",
-      "value": "Сотрясение мозга"
+      "value": "Ушиб"
     },
     "notifications_injury_112": {
       "english": "Dislocated elbow",
@@ -8031,7 +7888,7 @@
     },
     "notifications_injury_114": {
       "english": "Gastrointestinal discomfort",
-      "value": "Желудочно-кишечное расстройств"
+      "value": "Желудочно-кишечное расстройство"
     },
     "notifications_injury_115": {
       "english": "Strain injury",
@@ -8047,7 +7904,7 @@
     },
     "notifications_injury_118": {
       "english": "Medial Collateral Ligament injury",
-      "value": "Травма медиальной крестообразной связки"
+      "value": "Травма медиальной коллатеральной связки"
     },
     "notifications_injury_119": {
       "english": "Mouth injury",
@@ -8287,7 +8144,7 @@
     },
     "notifications_injury_77": {
       "english": "Rib injury",
-      "value": "Травма бедра"
+      "value": "Травма ребра"
     },
     "notifications_injury_78": {
       "english": "Collarbone injury",
@@ -8432,7 +8289,7 @@
     },
     "notifications_limited_lineup_coverage": {
       "english": "This match has limited lineup coverage",
-      "value": "У этот матча ограничен доступ к составам"
+      "value": "У этого матча ограничено освещение составов"
     },
     "notifications_lithuania": {
       "english": "Lithuania",
@@ -8487,7 +8344,7 @@
     },
     "notifications_matchstats.headers.defenders": {
       "english": "Defenders",
-      "value": "Обороняющиеся"
+      "value": "Защитники"
     },
     "notifications_matchstats.headers.dribbles": {
       "english": "Dribbles",
@@ -8587,7 +8444,7 @@
     },
     "notifications_network_troublshooting_test2": {
       "english": "Fetching system info",
-      "value": "Доставка системной информации"
+      "value": "Получение системной информации"
     },
     "notifications_network_troublshooting_test3": {
       "english": "Checking connectivity",
@@ -8719,7 +8576,7 @@
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@ в стартовом составе. %@ - %@"
+      "value": "%@ в стартовом составе\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -9403,6 +9260,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Пожалуйста, укажите детали рекламы, такие как рекламодатель, на каком экране, видео или изображение, и что именно вызвало у вас проблемы."
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Рекламируйтесь у нас"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9632,7 +9494,7 @@
       "value": "Настраивайте свой главный экран, используя меняющиеся значки приложений."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "xG против на поле"
     },
@@ -9799,7 +9661,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "Пропущенные голы на поле"
+      "value": "Пропущенные голы (на поле)"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9820,6 +9682,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Текущая статистика личных встреч команд: %2$@ побед(ы) %1$@, %4$@ побед(ы) %3$@ и %5$@ ничьих."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Тепловая карта"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Узнайте, где игроки оказывают влияние на поле. Нажмите на игрока на экране состава, чтобы увидеть это."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Тепловые карты доступны"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9861,13 +9738,138 @@
       "english": "I need help",
       "value": "Мне нужна помощь"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Копировать ссылку"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Скопируйте ссылку и вставьте её в Safari или Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Нажмите на три точки (•••) внизу справа, затем «Открыть в браузере»"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Нажмите на три точки (•••) в правом верхнем углу, затем «Открыть в браузере»"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Нажмите меню (≡), затем «Открыть в другом браузере»"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Нажмите значок «Поделиться» внизу, затем выберите свой браузер"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Нажмите на три точки (•••), затем «Открыть в браузере»"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Нажмите на три точки (•••) в правом верхнем углу, затем «Открыть во внешнем браузере»"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Нажмите на три точки (•••), затем выберите «Открыть в браузере»"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Нажмите на три точки (•••), затем «Открыть в браузере»"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Нажмите значок «Поделиться», затем «Открыть в Safari» или «Копировать ссылку»"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Нажмите на три точки (•••), затем «Открыть в…» и выберите Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Скопируйте ссылку и вставьте её в Safari или Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Нажмите значок «Поделиться», затем выберите «Открыть в Safari»"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Найдите меню (••• или значок «Поделиться») и выберите «Открыть в браузере»"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Нажмите на три точки (•••), затем «Открыть в Safari»"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Назад"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Открыть в браузере"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Откройте в браузере, чтобы войти"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Открыть в Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Открыть в Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Или вручную:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "В браузере %1$s вход не всегда работает стабильно. Откройте эту страницу в Safari или Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Всё равно попробуйте войти здесь (может не сработать)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Вход может не работать в этом встроенном браузере приложения"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "В браузере %1$s вход может не работать. Для лучшего опыта вернитесь назад и откройте эту страницу в своём браузере."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Пожалуйста, откройте эту страницу в браузере вашего устройства (Safari или Chrome), чтобы продолжить."
     },
@@ -9945,6 +9947,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Состав сохранён"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Нет выбранного"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10184,7 +10191,7 @@
     "seo_play_offs_draw": {
       "comment": "Label as a header for the matches that will be part of a random draw which will decide which teams meet each other in the play off matches.",
       "english": "Play-offs draw",
-      "value": "Жеребьёвка Квалификации"
+      "value": "Жеребьёвка плей-офф"
     },
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
@@ -10542,7 +10549,7 @@
     "seo_site_description_league_news": {
       "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
       "english": "Get the latest %1$@ news and transfer rumours.",
-      "value": "Получите последние новости %1$@ и слухи об обмене игроками."
+      "value": "Получите последние новости %1$@ и трансферные слухи."
     },
     "seo_site_description_league_overview": {
       "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
@@ -10661,7 +10668,7 @@
     },
     "seo_site_title_aboutus_advertise": {
       "english": "FotMob - Advertise",
-      "value": "FotMob -Реклама"
+      "value": "FotMob - Реклама"
     },
     "seo_site_title_aboutus_careers": {
       "comment": "Meta title for the fotmob website about careers, where open postitions are listed",
@@ -10701,7 +10708,7 @@
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
       "english": "%1$@ matches, tables and news %2$@",
-      "value": "%1$@ матчи, таблички и новости %2$@"
+      "value": "%1$@ матчи, таблицы и новости %2$@"
     },
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
@@ -10857,6 +10864,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "Отправить"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Зам"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -11050,6 +11062,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "Вне"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Заявление по Закону о прозрачности"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11265,7 +11282,7 @@
     "seo_xg_table_explanation": {
       "comment": "Text for explaining what the xG table is. The text has newline seperators in it.",
       "english": "The xG table ranks teams based on their expected goals (xG) stats.\\n\\n• Green numbers mean a team is doing better than expected.\\n• Red numbers mean a team is doing worse than expected.\\n• The small number next to the xG value shows the difference between expected and actual performance.\\n\\nFor more details on how it’s calculated, check the FAQ.",
-      "value": "Таблица ожидаемых голов ранжирует команды по соответствующей статистике ожидаемых голов (xG)\\n\\n• Зеленые цифры показывают, что показатели команды превышают ожидаемые.\\n• Красные цифры означаю, что показатели команды хуже ожидаемых.\\n• Мелкое число рядом со значением xG показывает разницу между ожидаемой и фактической и ожидаемой эффективностью.\\n\\nДополнительные сведения о методике расчета показателя ожидаемых голов см. в «Вопросах и ответах»."
+      "value": "Таблица ожидаемых голов ранжирует команды по статистике ожидаемых голов (xG).\\n\\n• Зеленые цифры означают, что команда выступает лучше ожидаемого.\\n• Красные цифры означают, что команда выступает хуже ожидаемого.\\n• Мелкое число рядом со значением xG показывает разницу между ожидаемой и фактической результативностью.\\n\\nПодробнее о том, как рассчитывается показатель, см. в разделе «Вопросы и ответы»."
     },
     "seo_xg_table_header": {
       "comment": "A label for choosing the xG table (also called Justice table) that shows the table based on expected points.",

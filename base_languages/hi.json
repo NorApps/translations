@@ -124,7 +124,7 @@
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
       "english": "Assists per 90",
-      "value": "प्रति 90 सहायता करता है"
+      "value": "प्रति 90 मिनट असिस्ट"
     },
     "accessibility_attackers": {
       "english": "Forwards",
@@ -536,7 +536,7 @@
     "accessibility_headed_clearances_per_90": {
       "comment": "Clearances via head per 90",
       "english": "Headed clearances per 90",
-      "value": "प्रति 90 प्रमुख मंजूरी"
+      "value": "प्रति 90 हेडेड क्लीयरेंस"
     },
     "accessibility_header": {
       "comment": "A shot type variant. Goal was scored via a header.",
@@ -791,7 +791,7 @@
     "accessibility_insights_undefeated_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Haven't lost in 12 matches",
       "english": "Haven't lost in %1$@ matches",
-      "value": "अपने आखिरी %1$@ मैच हारे हैं"
+      "value": "पिछले %1$@ मैचों में नहीं हारे"
     },
     "accessibility_interception_team_title": {
       "comment": "Label used in stats for interceptions per match",
@@ -854,7 +854,7 @@
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
       "english": "Keeper saves",
-      "value": "કીપર બચાવે છે"
+      "value": "कीपर सेव"
     },
     "accessibility_keeper_sweeper_actions": {
       "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
@@ -1124,7 +1124,7 @@
     },
     "accessibility_myleaguespage_desc2": {
       "english": "You will automatically be added to the Global League once the World Cup kicks off, where you can see your standing versus all players in the competition.",
-      "value": "विश्व कप शुरू होने आपको स्वचलित रूप से वैश्विक लीग से जोड़ दिया जाएगा जहाँ आप स्पर्धा में आपकी और अन्य सभी खिलाड़ियों की स्थिति देख सकोगे."
+      "value": "विश्व कप शुरू होने के बाद आपको स्वचालित रूप से वैश्विक लीग में जोड़ दिया जाएगा, जहाँ आप प्रतियोगिता में सभी खिलाड़ियों के मुकाबले अपनी रैंकिंग देख सकते हैं।"
     },
     "accessibility_myleaguespage_desc2_v2": {
       "english": "You will automatically be added to the Global League once the tournament kicks off, where you can see your standing versus all players in the competition.",
@@ -1333,12 +1333,12 @@
     "accessibility_onboarding_newplayerprofile_header": {
       "comment": "Keep this short. Feel free to translate it as \"New player profiles\".",
       "english": "Brand new player profiles",
-      "value": "बिल्कुल नए खिलाड़ी प्रोफ़ाइल का प्रोफ़ाइल"
+      "value": "बिल्कुल नए खिलाड़ी प्रोफ़ाइल"
     },
     "accessibility_onboarding_newplayerprofile_section1": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Player traits.</b> Get an overview of a players strengths, weaknesses and playing style.",
-      "value": "<b>खिलाड़ी के टैट्स।</b> खिलाड़ी की ताकत, कमजोरियों और खेल शैली का अवलोकन करें।"
+      "value": "<b>खिलाड़ी की विशेषताएँ।</b> खिलाड़ी की ताकत, कमजोरियों और खेल शैली का अवलोकन करें।"
     },
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1570,7 +1570,7 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "कब्जा अंतिम 3 प्रति 90 जीता"
+      "value": "प्रति 90 मिनट अंतिम तिहाई में जीता गया कब्ज़ा"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
@@ -1668,12 +1668,12 @@
     "accessibility_save_percentage": {
       "comment": "Label used in stats for save percentage for keepers",
       "english": "Save percentage",
-      "value": "प्रतिशत बचाएं"
+      "value": "सेव प्रतिशत"
     },
     "accessibility_saves_per_90": {
       "comment": "Label used in stats for saves per 90 min for keepers",
       "english": "Saves per 90",
-      "value": "प्रति 90 बचाएं हुए"
+      "value": "प्रति 90 मिनट सेव"
     },
     "accessibility_search_result_header": {
       "comment": "Text shown on top of the search results page. Input is the search text.",
@@ -1713,7 +1713,7 @@
     "accessibility_select_winner_for_each_match": {
       "comment": "error message shown if one or more preditions are missing",
       "english": "Please select a winner for each match ;)",
-      "value": "कृपया र मैच के लिए एक विजेता चुनो ;)"
+      "value": "कृपया प्रत्येक मैच के लिए एक विजेता चुनें ;)"
     },
     "accessibility_selected": {
       "comment": "Meant for VoiceOver. If a button is selected.",
@@ -1795,7 +1795,7 @@
     "accessibility_shot_blocks": {
       "comment": "NUmber of times a defender has blocked a shot by standing in it's path when the other team has a shot at goal.",
       "english": "Blocks",
-      "value": "खंड"
+      "value": "ब्लॉक"
     },
     "accessibility_shot_conversion_rate": {
       "comment": "Label used in stats for shot conversion rate (goals/total scoring attempts)",
@@ -2312,7 +2312,7 @@
     "accessibility_total_passes": {
       "comment": "Total amount of passes. Includes both accurate and missed passes.",
       "english": "Total passes",
-      "value": "કુલ પાસ"
+      "value": "कुल पास"
     },
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
@@ -2597,7 +2597,7 @@
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@ %@-%@ %@\\n%@फ़ाउल हुआ, गोल नामंजूर"
+      "value": "%@ %@-%@ %@\\n%@फ़ाउल के कारण गोल नामंजूर (VAR)"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
@@ -3045,7 +3045,7 @@
     "common_contract": {
       "comment": "Label for player's contract expiration date with club",
       "english": "Contract",
-      "value": "आखिरी तारीख"
+      "value": "अनुबंध"
     },
     "common_contract_extension": {
       "comment": "Transfer status: player extended his contract with club",
@@ -3355,20 +3355,25 @@
       "english": "Errors led to goal",
       "value": "गलतियाँ जिनके कारण गोल हुआ"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "अनुमानित ट्रांसफर मूल्य (ETV) हमारा सबसे अच्छा अनुमान है कि अगर किसी खिलाड़ी को अभी बेचा जाए तो उसकी कीमत क्या होगी।\\n\\nयह वास्तविक ट्रांसफर डेटा का उपयोग करके गणना की जाती है और इसमें निम्नलिखित को ध्यान में रखा जाता है:\\n\\n• खिलाड़ी का प्रदर्शन\\n• उनकी उम्र और भविष्य की संभावनाएं\\n• वे कितनी बार और किस स्तर पर अपनी स्थिति में खेलते हैं\\n• उनकी टीम और लीग की ताकत\\n• उनके अनुबंध की शेष अवधि\\n• हालिया विकास और समान कारक\\n\\nहम खिलाड़ी पर ध्यान केंद्रित करते हैं, न कि अफवाहों पर या कौन सा क्लब उन्हें खरीद सकता है।\\n\\nमूल्य को नियमित रूप से अपडेट किया जाता है ताकि समय के साथ ट्रांसफर बाजार में होने वाले परिवर्तनों को दर्शाया जा सके।"
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "अनुमानित खिलाड़ी मूल्य"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "अनुमानित स्थानांतरण मूल्य"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "वर्तमान बिक्री पर संभावित मूल्य"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "अनुमानित ट्रांसफर मूल्य (ETV) हमारा सबसे अच्छा अनुमान है कि अगर किसी खिलाड़ी को आज बेचा जाए तो उसकी कीमत क्या होगी।\\n\\nयह ऐतिहासिक ट्रांसफर डेटा और प्रदर्शन व संदर्भ कारकों की एक श्रृंखला का उपयोग करके गणना की जाती है, जिसमें शामिल हैं:\\n\\n• खिलाड़ी का प्रदर्शन और विकास\\n• उम्र और भविष्य की संभावनाएं\\n• वे कितनी बार और किस स्तर पर खेलते हैं\\n• स्थिति\\n• टीम और लीग की ताकत\\n• शेष अनुबंध की अवधि\\n\\nETV खिलाड़ी पर ध्यान केंद्रित करता है, न कि अफवाहों पर या कौन सा क्लब उन्हें खरीद सकता है।\\n\\nमूल्य को नियमित रूप से अपडेट किया जाता है ताकि समय के साथ होने वाले परिवर्तनों को दर्शाया जा सके।"
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "अनुमानित मूल्य"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3663,162 +3668,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ ने फाउल किया जिससे %2$@ को पेनल्टी मिल गई."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ पर मैच में सबसे ज़्यादा फाउल (%2$@) हुए."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ पर मैच में सबसे ज़्यादा फाउल (%2$@) हुए हैं."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ मैच में सबसे अधिक (%2$@) भिड़ंत हारे."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ मैच में सबसे अधिक (%2$@) भिड़ंत हारे हैं."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सबसे अधिक (%2$@) बार पज़ेशन खोया."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ ने मैच में सबसे अधिक (%2$@) बार पज़ेशन खोया है."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "90 मिनट खेलने वाले आउटफील्ड खिलाड़ियों में %1$@ के सबसे कम टच (%2$@) रहे."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "आउटफील्ड खिलाड़ियों में %1$@ के सबसे कम टच (%2$@) रहे."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ ने गलती की जिससे %2$@ ने गोल कर दिया"
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ ने एक गलती की जिससे %2$@ के लिए एक गोल हो गया।",
-        "other": "%1$@ ने %3$d गलतियाँ कीं जिससे %2$@ के लिए गोल हो गए।"
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सर्वाधिक ड्रिबल (%2$@) पूरे किए."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सर्वाधिक ड्रिबल (%2$@) पूरे किए हैं."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "मैच में %1$@ ने सर्वाधिक मौके बनाए (%2$@)।"
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सबसे अधिक मौके (%2$@) बनाए हैं।"
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सर्वाधिक पास (%2$@) पूरे किए."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सर्वाधिक पास (%2$@) पूरे किए हैं."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सर्वाधिक टैकल (%2$@) किए."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ ने मैच में सर्वाधिक टैकल (%2$@) किए हैं."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ %2$@ रेटिंग के साथ प्लेयर ऑफ़ द मैच रहे."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ की मैच रेटिंग %2$@ वर्तमान में सर्वाधिक है."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ के विरोधी बॉक्स में सबसे ज़्यादा टच (%2$@) रहे."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ ने विरोधी बॉक्स में सबसे ज़्यादा टच (%2$@) किए हैं."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "45 मिनट या अधिक खेलने वालों में %1$@ सबसे अचूक पासर (%2$@) थे."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ मैच के सबसे अचूक पासर (%2$@) हैं."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ ने ओन गोल किया."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ मैच में सबसे अधिक (%2$@) भिड़ंत जीते."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ मैच में सबसे अधिक (%2$@) भिड़ंत जीते हैं."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ ने कुल %3$@ शॉट्स में से %2$@ गोलपोस्ट पर मारे."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ ने कुल %3$@ शॉट्स में से %2$@ गोलपोस्ट पर मारे हैं."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "सामान्य"
@@ -3936,6 +3785,7 @@
       "value": "गोल्ड सपोर्टर"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "गोल्डन गोल"
     },
@@ -4012,6 +3862,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "%@ खबरें छिपाओ"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "उच्चतम"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4234,7 +4089,7 @@
     },
     "common_last_poll_failed": {
       "english": "Last poll failed. Retrying at",
-      "value": "`अंतिम मतसंग्रह विफल पुनः प्रयास - `"
+      "value": "अंतिम पोल विफल रहा। पुनः प्रयास किया जाएगा:"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4864,7 +4719,7 @@
     "common_onboarding_world_cup_card_description": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
       "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "新機能のFotMobワールドカップモードを使って お気に入りのチームや選手のアラートを設定しよう。"
+      "value": "हमारे नए FotMob वर्ल्ड कप मोड के साथ अपनी पसंदीदा टीमों और खिलाड़ियों के लिए अलर्ट सेट करें।"
     },
     "common_onboarding_world_cup_card_header": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
@@ -4938,6 +4793,7 @@
       "value": "पराग्वे"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "पॉज़"
     },
@@ -4975,6 +4831,7 @@
       "value": "कुल मैच"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "पेनल्टी दी"
     },
@@ -5612,10 +5469,12 @@
       "value": "सिल्वर सपोर्टर"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "सिल्वर गोल"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "सिल्वर गोल"
     },
@@ -6105,9 +5964,9 @@
       "value": "राशि"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "बाजार मूल्य"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "स्थानांतरण मूल्य"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6401,7 +6260,7 @@
     },
     "common_world_cup_popup_description": {
       "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "ワールドカップを最大限に楽しめるように、独創的なワールドカップ体験の提供に取り組んできました - ぜひお試しください！"
+      "value": "आपको विश्व कप का अधिकतम आनंद दिलाने के लिए हम एक अनोखा विश्व कप अनुभव बनाने में जुटे रहे हैं – इसे आज़माकर देखें!"
     },
     "common_world_cup_popup_header": {
       "english": "Try our new\\nWorld Cup mode!",
@@ -6516,7 +6375,7 @@
     },
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
-      "value": "`कमेंट्री इसमें प्ले करो - `"
+      "value": "कमेंट्री इस भाषा में चलाएँ"
     },
     "ios_Playing_commentaries": {
       "english": "Playing commentaries",
@@ -6524,7 +6383,7 @@
     },
     "ios_Playing_commentaries_in": {
       "english": "Playing commentaries in",
-      "value": "`कमेंट्री इसमें प्ले कर रहे - `"
+      "value": "कमेंट्री चला रहे हैं:"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6663,7 +6522,7 @@
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
-      "value": "FotMob - फुटबॉल/सॉकर के लिए सर्त्तम लाइवस्कोर ऐप"
+      "value": "FotMob - फुटबॉल/सॉकर के लिए सबसे बेहतरीन लाइवस्कोर ऐप"
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
@@ -6862,7 +6721,7 @@
     "new_login_with": {
       "comment": "Header asking the users to log in with Facebook or Google+",
       "english": "Login with",
-      "value": "`इसके साथ लॉगिन - `"
+      "value": "इसके साथ लॉगिन करें"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
@@ -7191,7 +7050,7 @@
     "notifications_add_widget": {
       "comment": "Call to action button for user adding widget to home screen.",
       "english": "Add widget",
-      "value": "एक विजेट जोड़ें78"
+      "value": "एक विजेट जोड़ें"
     },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
@@ -7204,7 +7063,7 @@
         "one": "+%d मिनट जोड़ा",
         "other": "+%d मिनट जोड़े"
       },
-      "value": "'+%d मिनट जोड़े"
+      "value": "+%d मिनट जोड़े गए"
     },
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
@@ -7760,17 +7619,17 @@
       "value": "संदिग्ध"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "%1$@ महीने के शरू में"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "%1$@ महीने के अंत में"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "%1$@ महीने के बीच में"
     },
@@ -8704,7 +8563,7 @@
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
       "english": "In starting lineup\\n%@ - %@",
-      "value": "शुरुआत लाइनअप शुरू करने में %@ - %@"
+      "value": "शुरुआती लाइनअप में\\n%@ - %@"
     },
     "notifications_player_rating_alert": {
       "comment": "An alert message saying \"Messi got a rating of 5.8.\"",
@@ -9383,6 +9242,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "कृपया विज्ञापन के बारे में विवरण साझा करें, जैसे विज्ञापनदाता, किस स्क्रीन पर, वीडियो या छवि, और आपको क्या समस्या लगी।"
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "हमारे साथ विज्ञापन करें"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9612,7 +9476,7 @@
       "value": "वैकल्पिक ऐप आइकन से अपने होमस्क्रीन को कस्टमाइज़ करें।"
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "पिच पर रहते हुए xG के खिलाफ"
     },
@@ -9737,7 +9601,7 @@
     "seo_friendly_match": {
       "comment": "Text explaining that the the current match is a friendly match that does not count towards any trophies or prices.",
       "english": "This is a friendly match.",
-      "value": "यह एक मित्रवats खेल है"
+      "value": "यह एक मैत्रीपूर्ण मैच है।"
     },
     "seo_fun_fact_highest_top_speed": {
       "comment": "Fun fact for the player that has reached the highest top speed in a match.",
@@ -9799,6 +9663,21 @@
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "दोनों टीमों के बीच वर्तमान में कुल %2$@ %1$@ की जीतें, %4$@ %3$@ की जीतें और %5$@ ड्रॉ हुए हैं।"
     },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "हीटमैप"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "देखें कि खिलाड़ी मैदान पर कहाँ प्रभाव डालते हैं। इसे देखने के लिए लाइनअप स्क्रीन से किसी खिलाड़ी पर टैप करें।"
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "हीटमैप उपलब्ध हैं"
+    },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
       "english": "Help",
@@ -9839,13 +9718,138 @@
       "english": "I need help",
       "value": "मुझे मदद की आवश्यकता है"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "लिंक कॉपी करें"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "लिंक कॉपी करें और उसे Safari या Chrome में पेस्ट करें"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "नीचे दाईं ओर तीन बिंदु (•••) पर टैप करें, फिर \"ब्राउज़र में खोलें\""
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "ऊपर दाईं ओर तीन डॉट्स (•••) पर टैप करें, फिर \"ब्राउज़र में खोलें\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "मेन्यू (≡) पर टैप करें, फिर \"अन्य ब्राउज़र में खोलें\" चुनें"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "नीचे शेयर आइकन पर टैप करें, फिर अपना ब्राउज़र चुनें"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "तीन डॉट्स (•••) पर टैप करें, फिर \"ब्राउज़र में खोलें\""
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "ऊपर दाईं ओर तीन बिंदुओं (•••) पर टैप करें, फिर \"बाहरी ब्राउज़र में खोलें\""
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "तीन बिंदुओं (•••) पर टैप करें, फिर \"ब्राउज़र में खोलें\" चुनें"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "तीन बिंदुओं (•••) पर टैप करें, फिर \"ब्राउज़र में खोलें\""
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "शेयर आइकॉन पर टैप करें, फिर \"Safari में खोलें\" या \"लिंक कॉपी करें\" चुनें"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "तीन बिंदुओं (•••) पर टैप करें, फिर “Open in…” और Safari चुनें"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "लिंक कॉपी करें और उसे Safari या Chrome में पेस्ट करें"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "शेयर आइकॉन पर टैप करें, फिर \"Safari में खोलें\""
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "मेनू (••• या साझा आइकन) ढूंढें और 'ब्राउज़र में खोलें' चुनें"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "तीन बिंदुओं (•••) पर टैप करें, फिर \"Safari में खोलें\""
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "वापस जाएँ"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "ब्राउज़र में खोलें"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "साइन इन करने के लिए अपने ब्राउज़र में खोलें"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Chrome में खोलें"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Safari में खोलें"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "या मैन्युअल रूप से:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "%1$s के ब्राउज़र में साइन-इन भरोसेमंद तरीके से काम नहीं करता। कृपया यह पेज Safari या Chrome में खोलें।"
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "फिर भी यहाँ साइन इन करने की कोशिश करें (शायद काम न करे)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "इस इन-ऐप ब्राउज़र में लॉगिन काम नहीं कर सकता"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "%1$s के ब्राउज़र में साइन-इन काम नहीं कर सकता। बेहतर अनुभव के लिए वापस जाएँ और इस पेज को अपने ब्राउज़र में खोलें।"
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "कृपया जारी रखने के लिए इस पृष्ठ को अपने डिवाइस के ब्राउज़र (सफारी या क्रोम) में खोलें।"
     },
@@ -9923,6 +9927,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "लाइनअप सहेजा गया"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "कोई नहीं"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10057,7 +10066,7 @@
     "seo_offerings_prematch": {
       "comment": "Explaining what features will be availalbe on the fotmob site, and when.",
       "english": "Predicted lineups are available for the match a few days in advance while the actual lineup will be available about an hour ahead of the match.",
-      "value": "खेल के आगे कुछ दिनों के लिए प्रारंभता से पहले या वास्तविक रूप में छःगोल प्रभावी उपकरण में उपलब्ध उपकरणों की सटीकता पर ध्यान देने के लिए तैनाती प्रदान किया जाएगा: \"यह विशेषज्ञ 90 मिनट के दौरान प्रतिस्पर्धा और परिवर्तनात्मकता, 'अपेक्षित गोल', 'प्रति मैदान में गोल' आदि के साथ प्राइवेट डेटा को प्राप्त करके हमें एक यकीनीकरण देता है कि\";"
+      "value": "मैच से कुछ दिन पहले ही संभावित लाइनअप उपलब्ध होते हैं, जबकि वास्तविक लाइनअप मैच शुरू होने से लगभग एक घंटे पहले उपलब्ध होगा।"
     },
     "seo_onboarding_physical_metrics": {
       "comment": "Header for the onboarding of the new physical performance state",
@@ -10533,7 +10542,7 @@
     "seo_site_description_league_stats": {
       "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
       "english": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@ आंकड़े %2$@ में शीर्ष गोलकीर्ता, सहायक, खिलाड़ी रेटिंग और और अधिक शामिल हैं"
+      "value": "%1$@ के %2$@ आँकड़े, जिनमें शीर्ष गोलकीर्ता, असिस्ट, खिलाड़ी रेटिंग और भी बहुत कुछ शामिल है"
     },
     "seo_site_description_league_table": {
       "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
@@ -10568,7 +10577,7 @@
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
       "english": "%1$@ %2$@ stats including top scorers, assists, player ratings, and more",
-      "value": "%1$@ %2$@ आंकड़े जो ऊपरी गोलकीपर, सहायक, खिलाड़ी रेटिंग और अधिक सहित हैं"
+      "value": "%1$@ %2$@ के आंकड़े, जिनमें शीर्ष स्कोरर, असिस्ट, खिलाड़ी रेटिंग और बहुत कुछ शामिल है"
     },
     "seo_site_description_stats_team": {
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
@@ -10613,7 +10622,7 @@
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
       "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "ताज़ा %1$@ की सबसे हाल की स्थानांतरण, ईन-आउट और कॉन्ट्रैक्ट एक्सटेंशन्स"
+      "value": "%1$@ के नवीनतम ट्रांसफर (इन/आउट) और कॉन्ट्रैक्ट एक्सटेंशन"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10623,7 +10632,7 @@
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "%1$@ सर्वाधिक पुष्टि किए गए स्थानांतरण र महँगी हस्ताक्षरहरू। फोटमोब स्थानांतरण केन्द्र - लिग र टोलकहरू द्वारा फिल्टर गर्नुहोस्। अब छलफलहरूको जीवन्त नविकरणहरूबाट हुदैजनुहोस् दिनांक मिति दिनमा प्राप्त सबै पूर्ण गरिएका सम्पूर्ण सम्पर्कहरूसहितका संग!"
+      "value": "%1$@ के नवीनतम पुष्टि किए गए ट्रांसफर और सबसे महंगे साइनिंग्स। FotMob ट्रांसफर सेंटर - लीग और टीमों के अनुसार फ़िल्टर करें। डेडलाइन डे पर लाइव अपडेट्स के साथ सभी पूरे हुए सौदों सहित ट्रांसफर की हर अपडेट पाते रहें!"
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -10642,7 +10651,7 @@
     "seo_site_title_aboutus_careers": {
       "comment": "Meta title for the fotmob website about careers, where open postitions are listed",
       "english": "FotMob - We are hiring!",
-      "value": "फोटमॉब – हम नियोक्ता चाहते हैं!"
+      "value": "फोटमॉब - हम भर्ती कर रहे हैं!"
     },
     "seo_site_title_coach": {
       "comment": "Title for the page for a coach. With name as input. Eg \"Frank Lampard - stats and career\"",
@@ -10682,7 +10691,7 @@
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "english": "%1$@ knockout fixtures, bracket and champion %2$@",
-      "value": "%1$@ निकालने वाली मुकाबले, ब्रैकेट और चैंपियन %2$@"
+      "value": "%1$@ नॉकआउट मुकाबले, ब्रैकेट और चैंपियन %2$@"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
@@ -10722,7 +10731,7 @@
     "seo_site_title_player": {
       "comment": "Title for the page for a player. With name as input. Eg \"Frank Lampard - stats, career and market value\"",
       "english": "%1$@ - stats, career and market value",
-      "value": "%1$@ - आंकड़े, करियर और बाज़ारी इनकम"
+      "value": "%1$@ - आंकड़े, करियर और बाज़ार मूल्य"
     },
     "seo_site_title_stats": {
       "comment": "Meta title for stats page with list of stats for players",
@@ -10757,7 +10766,7 @@
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
       "english": "%1$@ - fixtures, team info and top players",
-      "value": "%1$@ - %1$@ - फिक्स्चर, टीम की जानकारी और शीर्ष खिलाड़ियों"
+      "value": "%1$@ - फिक्स्चर, टीम की जानकारी और शीर्ष खिलाड़ी"
     },
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
@@ -10767,12 +10776,12 @@
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
       "english": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value",
-      "value": "%1$@ - चर्चा के सबसे अच्छे खिलाड़ी, गोल, असिस्ट और अन्य आँकड़े - आँकड़ों, करियर और मार्केट मूल्य"
+      "value": "%1$@ - शीर्ष रेटेड खिलाड़ी, गोल, असिस्ट और अन्य आँकड़े - आँकड़े, करियर और मार्केट वैल्यू"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - %1$@ - टीम रेटिंग, मैच प्रति गोल, गोल करने वाले शॉट्स और अन्य सांख्यिकी"
+      "value": "%1$@ - टीम रेटिंग, मैच प्रति गोल, लक्ष्य पर शॉट्स और अन्य आँकड़े"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
@@ -10782,7 +10791,7 @@
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
       "english": "%1$@ - transfer history, players in and players out",
-      "value": "%1$@ - %1$@ - ट्रांसफर इतिहास, आनेवाले और जानेवाले खिलाड़ी"
+      "value": "%1$@ - ट्रांसफर इतिहास, आनेवाले और जानेवाले खिलाड़ी"
     },
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
@@ -10833,6 +10842,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "जमा करें"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10986,7 +11000,7 @@
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "3rd leg",
-      "value": "`तीसरा चरण `"
+      "value": "तीसरा चरण"
     },
     "seo_this_tournament": {
       "comment": "Button text for button that toggles only showing matches from the current tournament.",
@@ -11026,6 +11040,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "बाहर"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "पारदर्शिता अधिनियम विवरण"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11082,7 +11101,7 @@
     "seo_update_available": {
       "comment": "Used inside parentheses behind version number - should use \"mid-sentence case\".",
       "english": "update available",
-      "value": "`अपडेट उपलब्ध हैं `"
+      "value": "अपडेट उपलब्ध है"
     },
     "seo_view_all_plans": {
       "comment": "Call to action for viewing all available subscription plans.",
@@ -11177,7 +11196,7 @@
     "seo_weather_forecast": {
       "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
       "english": "Weather forecast",
-      "value": "मौसम"
+      "value": "मौसम पूर्वानुमान"
     },
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",

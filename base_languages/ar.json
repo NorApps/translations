@@ -49,7 +49,7 @@
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won %",
-      "value": "ربح الكرات العالية"
+      "value": "نسبة الفوز بالالتحامات الهوائية %"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
@@ -84,7 +84,7 @@
     "accessibility_all_competitions": {
       "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
       "english": "All competitions",
-      "value": "جميع المتنافسين"
+      "value": "جميع المسابقات"
     },
     "accessibility_all_leagues": {
       "comment": "Header indication you can set alerts that applies to all your favorite leagues",
@@ -133,7 +133,7 @@
     "accessibility_attacking_threat": {
       "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
       "english": "Momentum",
-      "value": "الخطر الهجومي"
+      "value": "الزخم"
     },
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
@@ -153,12 +153,12 @@
     "accessibility_calendar_hint": {
       "comment": "Meant for VoiceOver. Hint for a calendar button where the user can change which the date for the matches they want to see",
       "english": "See matches in other date",
-      "value": "شاهد مباريات في نفس التاريخ"
+      "value": "شاهد مباريات في تاريخ آخر"
     },
     "accessibility_career_stats": {
       "comment": "Text shown on tab header for tab that shows the career stats for a player.",
       "english": "Career stats",
-      "value": "إحصائيات الانتقالات"
+      "value": "إحصائيات المسيرة"
     },
     "accessibility_careers": {
       "comment": "Text on button or link that redirects to the About us page with information about career opportunities.",
@@ -218,7 +218,7 @@
     },
     "accessibility_createleaguepopup_enter_name": {
       "english": "Enter a league name",
-      "value": "أدخل اسم بطولة"
+      "value": "أدخل اسم الدوري"
     },
     "accessibility_createleaguepopup_type_the_name": {
       "english": "Type the name of the league below",
@@ -232,7 +232,7 @@
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
       "english": "Successful crosses %",
-      "value": "تمريرات عرضية ناجحة"
+      "value": "نسبة التمريرات العرضية الناجحة %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -266,12 +266,12 @@
     "accessibility_defensive_actions": {
       "comment": "Football (soccer) stat to describe how many defensive contributions a player has made. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action.",
       "english": "Defensive contributions",
-      "value": "حركات دفاعية"
+      "value": "مساهمات دفاعية"
     },
     "accessibility_defensive_actions_explained": {
       "comment": "Explains what defensive contributions are. Use the same terminology as in the \"defensive_actions\" and the other relevant stat names.",
       "english": "Defensive contributions is the sum of attempted tackles, blocks, clearances, and interceptions.",
-      "value": "تتضمن الحركات الدفاعية كل افتكاكات الكرة، الصدّات، إبعاد الكرات، الاعتراضات."
+      "value": "المساهمات الدفاعية هي مجموع محاولات الافتكاك والصدّات وإبعاد الكرات والاعتراضات."
     },
     "accessibility_delete_account": {
       "comment": "Button that the user can click to delete his FotMob account so all his data is removed from our servers.",
@@ -315,7 +315,7 @@
     "accessibility_dribbled_past": {
       "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
       "english": "Dribbled past",
-      "value": "مراوغة التسديد"
+      "value": "تمت مراوغته"
     },
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
@@ -325,7 +325,7 @@
     "accessibility_effective_clearance_per_90": {
       "comment": "Label used in stats for clearances per 90",
       "english": "Clearances per 90",
-      "value": "منع الكرة لكل 90 دقيقة"
+      "value": "إبعاد الكرة لكل 90 دقيقة"
     },
     "accessibility_enable_push_description_live_activity": {
       "comment": "Description for push reminder for live activities",
@@ -355,12 +355,12 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "xGOT التي تمت مواجهتها (الأهداف المتوقع تسجيلها)"
+      "value": "xGOT التي واجهها حارس المرمى (الأهداف المتوقعة على المرمى)"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
       "english": "xGOT faced per 90",
-      "value": "الأهداف المتوقع أن يتم منعها"
+      "value": "xGOT المُستقبَلة لكل 90 دقيقة"
     },
     "accessibility_facts": {
       "comment": "The main tab for the match facts. Needs to be kept short.",
@@ -495,7 +495,7 @@
     "accessibility_goals_and_assists": {
       "comment": "Label used in stats for the sum of goals and assists",
       "english": "Goals + Assists",
-      "value": "الأهداف + التمريرات"
+      "value": "الأهداف + التمريرات الحاسمة"
     },
     "accessibility_goals_and_assists_per_90": {
       "comment": "Label used in stats for the sum of goals and assists per 90 min",
@@ -505,7 +505,7 @@
     "accessibility_goals_conceded_per_90": {
       "comment": "Label used in stats for goals conceded per 90 for keepers.",
       "english": "Goals conceded per 90",
-      "value": "عدد الأهداف المسجلة لكل 90 دقيقة"
+      "value": "عدد الأهداف المستقبلة لكل 90 دقيقة"
     },
     "accessibility_goals_per_90_subtitle": {
       "comment": "Label used in stats for expected goals per 90 min",
@@ -540,7 +540,7 @@
     "accessibility_headed_clearances_per_90": {
       "comment": "Clearances via head per 90",
       "english": "Headed clearances per 90",
-      "value": "منع تصريف الكرة بالرأس لكل 90 دقيقة"
+      "value": "إبعاد الكرة بالرأس لكل 90 دقيقة"
     },
     "accessibility_header": {
       "comment": "A shot type variant. Goal was scored via a header.",
@@ -580,7 +580,7 @@
     "accessibility_individual_play": {
       "comment": "A shot setup description. Goal was scored due to a solo effort. One player did it all himself.",
       "english": "Individual play",
-      "value": "Индивидуальная игра"
+      "value": "لعب فردي"
     },
     "accessibility_info_points_give": {
       "comment": "button to open information about how points are given in a tournament",
@@ -590,7 +590,7 @@
     "accessibility_insights": {
       "comment": "Used as a header for a section which displays insights about each of the teams before a match.",
       "english": "Insights",
-      "value": "آراء"
+      "value": "تحليلات"
     },
     "accessibility_insights_average_goals_per_match": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Average [2.3] goals per match",
@@ -620,7 +620,7 @@
     "accessibility_insights_best_home": {
       "comment": "The team is ranked some number for home games this season. Example: \"Ranked 1st at home this season\"",
       "english": "Ranked %1$@ at home this season",
-      "value": "ترتيبه محلياً %1$@ في هذا الموسم"
+      "value": "مصنّف %1$@ على أرضه هذا الموسم"
     },
     "accessibility_insights_chances_created_rank_in_competition": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
@@ -635,12 +635,12 @@
     "accessibility_insights_goalless_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 4 away matches",
       "english": "Haven't scored in %1$@ away matches",
-      "value": "لم يسجل أهداف في %1$@ مباريات ذهاب"
+      "value": "لم يسجل أي هدف في %1$@ مباريات خارج الأرض"
     },
     "accessibility_insights_goalless_home": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in 3 home matches",
       "english": "Haven't scored in %1$@ home matches",
-      "value": "لم يسجل أهداف في %1$@ مباريات إياب"
+      "value": "لم يسجل أهدافًا في %1$@ مباريات على أرضه"
     },
     "accessibility_insights_goalless_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in their last 4 matches",
@@ -650,7 +650,7 @@
     "accessibility_insights_goals_conceded_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [2nd] in goals conceded per match ([0.7] goals)",
       "english": "Ranked %1$@ in goals conceded per match (%2$@ goals)",
-      "value": "ترتيبه %1$@ في الأهداف التي حققها الخصم في كل مباراة (%2$@ من الأهداف)"
+      "value": "مصنَّف %1$@ من حيث الأهداف المستقبَلة في كل مباراة (%2$@ هدف)"
     },
     "accessibility_insights_goals_scored_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [1st] in goals scored per match ([2.1] goals)",
@@ -670,7 +670,7 @@
     "accessibility_insights_good_form_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Have won their last 7 matches.",
       "english": "Have won their last %1$@ matches",
-      "value": "قد فاز آخر %1$@ مبارايات"
+      "value": "فازوا في آخر %1$@ مباريات"
     },
     "accessibility_insights_lost_last_matches": {
       "comment": "The team has lost a particular number of consecutive matches. Example: \"Have lost their 5 last matches\"",
@@ -680,17 +680,17 @@
     "accessibility_insights_not_clean_sheet": {
       "comment": "The team has not kept a clean sheet (conceded at least one goal) for a particular number of matches. Example: \"Haven't kept a clean sheet in 7 matches\"",
       "english": "Haven't kept a clean sheet in %1$@ matches",
-      "value": "قد احتفظ بالشبكة نظيفة في %1$@ مباريات"
+      "value": "لم يحافظ على شباكه نظيفة في %1$@ مباريات"
     },
     "accessibility_insights_not_won_at_home": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won at home in their last (number greater than 2) matches",
       "english": "Haven't won at home in their last %1$@ matches",
-      "value": "لم يفز بمبارة إياب في آخر %1$@ مباريات"
+      "value": "لم يفز على أرضه في آخر %1$@ مباريات"
     },
     "accessibility_insights_not_won_away": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won an away game in their last (number greater than 2) matches",
       "english": "Haven't won an away game in their last %1$@ matches",
-      "value": "لم يفز بمبارة ذهاب في آخر %1$@ مباريات"
+      "value": "لم يفز الفريق خارج أرضه في آخر %1$@ مباريات"
     },
     "accessibility_insights_not_won_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won a match in 4 attempts",
@@ -700,12 +700,12 @@
     "accessibility_insights_penalties_awarded": {
       "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
       "english": "Have been awarded the most penalties this season (%1$@)",
-      "value": "قد تلقى معظم العقوبات هذا الموسم (%1$@)"
+      "value": "حصل على أكبر عدد من ركلات الجزاء هذا الموسم (%1$@)"
     },
     "accessibility_insights_penalties_conceded": {
       "comment": "The team has the record for conceding penalties in a season. Example: \"Have conceded the most penalties this season (13)\"",
       "english": "Have conceded the most penalties this season (%1$@)",
-      "value": "قد حصد معظم العقوبات هذا الموسم (%1$@)"
+      "value": "قد تسبّب في أكبر عدد من ركلات الجزاء هذا الموسم (%1$@)"
     },
     "accessibility_insights_player_average_minutes_per_goal": {
       "comment": "A player averages some value (typically 60-120) minutes per goal. Example: \"[Mohammed Salah] averages [67] minutes per goal\"",
@@ -730,12 +730,12 @@
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
       "english": "%1$@ has created the most big chances for %2$@ (%3$@)",
-      "value": "%1$@ قد صنع أفضل الفرص لصالح %2$@ (%3$@)"
+      "value": "%1$@ صنع أكبر عدد من الفرص المحققة لصالح %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
       "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)",
-      "value": "%1$@ لديه أفضل التسديدات نحو الهدف لصالح %2$@ (%3$@)"
+      "value": "%1$@ لديه أكبر عدد من التسديدات على المرمى في كل مباراة لصالح %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
@@ -750,7 +750,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "%1$@ ترتيبه %2$@ في الاحتفاظ كل مباراة في المنافسة (%3$@)"
+      "value": "%1$@ يحتل المركز %2$@ في عدد التصديات لكل مباراة في المنافسة (%3$@)"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -780,7 +780,7 @@
     "accessibility_insights_unbeaten_at_home": {
       "comment": "The team has not lost in a particular number of consecutive home matches. Example: \"Are unbeaten in 15 home games\"",
       "english": "Unbeaten in %1$@ home games",
-      "value": "لم يُهزم في %1$@ مباريات محلية"
+      "value": "لم يُهزم في %1$@ مباريات على أرضه"
     },
     "accessibility_insights_unbeaten_away": {
       "comment": "The team has not lost in a particular number of consecutive away matches. Example: \"Are unbeaten in 15 away games\"",
@@ -849,7 +849,7 @@
     },
     "accessibility_joinleaguepopup_join_league": {
       "english": "Join league",
-      "value": "الانضمام إلى البطولة"
+      "value": "الانضمام إلى الدوري"
     },
     "accessibility_joinleaguepopup_type_league_code": {
       "english": "Type or paste the unique League ID-code in the text field below:",
@@ -863,7 +863,7 @@
     "accessibility_keeper_sweeper_actions": {
       "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
       "english": "Sweeper",
-      "value": "ظهير"
+      "value": "حارس ليبيرو"
     },
     "accessibility_keepers": {
       "comment": "A header for the list of goalkeepers",
@@ -873,7 +873,7 @@
     "accessibility_last_starting_xi": {
       "comment": "Header indicating that we are showing the last starting 11 players on the pitch.",
       "english": "Last starting XI",
-      "value": "التشكيلة السابقة"
+      "value": "آخر تشكيلة أساسية (11 لاعبًا)"
     },
     "accessibility_league_widget_body": {
       "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
@@ -903,7 +903,7 @@
     "accessibility_live_activities_onboarding_bell_info": {
       "comment": "Used to inform the user that live activities can be changed in the team profile.",
       "english": "Make changes by clicking the bell on the team profile",
-      "value": "أدخل تغييرات بالنقر على الجرس على صفحة الفرق"
+      "value": "أجرِ التغييرات بالنقر على الجرس في ملف الفريق"
     },
     "accessibility_live_activities_onboarding_pin_teams": {
       "comment": "Description string used when onboarding users to auto live activities.",
@@ -938,7 +938,7 @@
     "accessibility_live_activity_removed": {
       "comment": "Used in toast when removing a live activity",
       "english": "Live match removed from lock screen",
-      "value": "تمت إزالة مباراة مباشرة لشاشة القفل الخاص بك"
+      "value": "تمت إزالة المباراة المباشرة من شاشة القفل"
     },
     "accessibility_live_activity_tooltip": {
       "comment": "Used in onboarding of live activities on tooltip",
@@ -973,12 +973,12 @@
     "accessibility_login_disclaimer": {
       "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
       "english": "By signing in you accept the Terms of use and Privacy Policy.",
-      "value": "بتسجيل الدخول، يمكنك قبول شروط الاستخدام وسياسة الخصوصية."
+      "value": "بتسجيل الدخول، فإنك تقبل شروط الاستخدام وسياسة الخصوصية."
     },
     "accessibility_logincomponent_desc1": {
       "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
       "english": "To save your data you just have to sign in to enter the FotMob",
-      "value": "لحفظ البيانات عليك التسجل الدخول لتدخل FotMob"
+      "value": "لحفظ بياناتك، عليك فقط تسجيل الدخول للدخول إلى FotMob"
     },
     "accessibility_logincomponent_desc1_v2": {
       "comment": "explanation that the user needs to login to enter the competion.",
@@ -1140,7 +1140,7 @@
     },
     "accessibility_myleaguespage_desc2_v2": {
       "english": "You will automatically be added to the Global League once the tournament kicks off, where you can see your standing versus all players in the competition.",
-      "value": "ستُضاف تلقائيًا إلى البطولة العالمية بمجرد أن تبدأ البطولة، حيث سترى نفسك في مواجهة جميع اللاعبين الذين في المنافسة."
+      "value": "ستُضاف تلقائيًا إلى الدوري العالمي بمجرد انطلاق البطولة، حيث يمكنك رؤية ترتيبك مقارنةً بجميع اللاعبين في المنافسة."
     },
     "accessibility_myleaguespage_desc2_v3": {
       "comment": "User gets the option to invite friends to a league by sharing the unique league ID-code or invite link.",
@@ -1155,17 +1155,17 @@
     "accessibility_myleaguespage_join_a_league": {
       "comment": "Label on button to join a league",
       "english": "Join a league",
-      "value": "الانضمام إلى بطولة"
+      "value": "الانضمام إلى دوري"
     },
     "accessibility_myleaguespage_join_league": {
       "comment": "User gets the option to join a existing league by entering a league ID-code.",
       "english": "Join a existing league by entering a league ID-code.",
-      "value": "انضم إلى الدوري الحالي عن طريق إدخال رمز معرف الدوري."
+      "value": "انضم إلى دوري موجود عن طريق إدخال رمز معرّف الدوري."
     },
     "accessibility_myleaguespage_join_league_v2": {
       "comment": "explanation that the user will automatically added to the global league",
       "english": "You will automatically be added to the Global League once the tournament kick off, where you can see your standing versus all players in the competition.",
-      "value": "ستُضاف تلقائيًا إلى البطولة العالمية بمجرد أن تبدأ البطولة، حيث سترى نفسك في مواجهة جميع اللاعبين الذين في المنافسة."
+      "value": "ستُضاف تلقائيًا إلى الدوري العالمي بمجرد انطلاق البطولة، حيث يمكنك رؤية ترتيبك مقارنةً بجميع اللاعبين في المنافسة."
     },
     "accessibility_myleaguespage_points_calculation": {
       "comment": "Label on button to bring up dialog with explanation of how the points are caluclated",
@@ -1185,12 +1185,12 @@
     "accessibility_new_match_experience_body": {
       "comment": "The body-text for the new-match-facts onboarding.",
       "english": "It is now easier to navigate, and we’ve put key info into the main tab.",
-      "value": "الآن أصبح التنقل أسهل، وقد وضعنا المزيد من المعلومات في علامة التبويب الرئيسية."
+      "value": "الآن أصبح التنقل أسهل، وقد وضعنا المعلومات الأساسية في علامة التبويب الرئيسية."
     },
     "accessibility_new_match_experience_header": {
       "comment": "The header for the new match-facts onboarding.",
       "english": "New match experience",
-      "value": "بيانات المباراة الجديدة"
+      "value": "تجربة المباراة الجديدة"
     },
     "accessibility_new_match_experience_subtitle": {
       "comment": "The subtitle for the new-match-facts onboarding.",
@@ -1250,17 +1250,17 @@
     "accessibility_notifications_all_leagues_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite leagues.",
       "english": "Set notifications for all the leagues you follow",
-      "value": "حدّد الإشعارات لجميع الدوريات القادمة"
+      "value": "حدّد الإشعارات لجميع الدوريات التي تتابعها"
     },
     "accessibility_notifications_all_players_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite players.",
       "english": "Set notifications for all the players you follow",
-      "value": "حدّد الإشعارات لجميع اللاعبين التاليين"
+      "value": "اضبط الإشعارات لجميع اللاعبين الذين تتابعهم"
     },
     "accessibility_notifications_all_teams_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite teams.",
       "english": "Set notifications for all the teams you follow",
-      "value": "حدّد الإشعارات لجميع الفرق التالية"
+      "value": "حدّد الإشعارات لجميع الفرق التي تتابعها"
     },
     "accessibility_notifications_enabled": {
       "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
@@ -1285,7 +1285,7 @@
     "accessibility_odds": {
       "comment": "Used for the Odds tab title",
       "english": "Odds",
-      "value": "التوقعات"
+      "value": "الاحتمالات"
     },
     "accessibility_off_target": {
       "comment": "Shorthand for shots off target.",
@@ -1355,12 +1355,12 @@
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>صفحة إحصائيات جديدة.</b> تعمق في الإحصائيات بما في ذلك خرائط الركلات الموسمية وبيانات المقارنة."
+      "value": "<b>صفحة إحصائيات جديدة.</b> تعمّق في الإحصائيات بما في ذلك خرائط التسديدات الموسمية ومخططات المقارنة."
     },
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Redesigned career page.</b> View a players career path by club or across seasons.",
-      "value": "<b>صفحة معاد تصميمها للمسار المهني.</b> شاهد درب المسارات المهنية للاعبين بالأندية أو عبر المواسم."
+      "value": "<b>صفحة المسيرة المهنية بتصميم جديد.</b> شاهد مسار مسيرة اللاعب حسب النادي أو عبر المواسم."
     },
     "accessibility_onboarding_players": {
       "comment": "An explanation during onboarding that when you click a button to follow a player, you will get notifications about the player",
@@ -1370,7 +1370,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "متابعة الفرق لتحديد أولوياتها في جميع أنحاء التطبيق."
+      "value": "تابع الفرق لتلقي إشعارات عندما تلعب وتسجل أهدافًا."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1385,7 +1385,7 @@
     "accessibility_open_match_for_more_details": {
       "comment": "Meant for VoiceOver. Lets the user know that clicking on a match will bring up a detailed explanation of the match",
       "english": "Open the match for more details",
-      "value": "التنبيهات مفعلة"
+      "value": "افتح المباراة لمزيد من التفاصيل"
     },
     "accessibility_open_settings": {
       "comment": "Label indicating you need to open the Settings page on iPhone",
@@ -1437,7 +1437,7 @@
     },
     "accessibility_overviewheader_my_leagues": {
       "english": "My leagues",
-      "value": "بطولات الدوري"
+      "value": "دورياتي"
     },
     "accessibility_overviewpage_join_create": {
       "comment": "Label on actionalbe to join or create a league",
@@ -1477,7 +1477,7 @@
     "accessibility_penalty_goals_conceded": {
       "comment": "Label used in stats for penalty goals conceded",
       "english": "Penalty goals conceded",
-      "value": "ضربات الجزاء المحسوبة"
+      "value": "أهداف من ركلات جزاء استقبلها"
     },
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
@@ -1527,22 +1527,22 @@
     "accessibility_playing_today": {
       "comment": "First placeholder is a list of leagues and second placeholder is a single league. So like \"Premier League, La Liga and Serie A are playing\"",
       "english": "%1$@ and %2$@ are playing",
-      "value": "جاري لعب %1$@ و%2$@"
+      "value": "%1$@ و%2$@ يلعبان"
     },
     "accessibility_playing_today_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
       "english": "%@ other competitions play today",
-      "value": "%@ من المنافسين الآخرين يلعبون اليوم"
+      "value": "%@ منافسات أخرى تُلعب اليوم"
     },
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
       "english": "%1$@ and %2$@ other competitions play today",
-      "value": "%1$@ و %2$@ من المنافسين الآخرين يلعبون اليوم"
+      "value": "%1$@ و %2$@ من المنافسات الأخرى تلعب اليوم"
     },
     "accessibility_playing_today_single": {
       "comment": "Placeholder is a league. So like \"Premier League is playing\"",
       "english": "%1$@ is playing",
-      "value": "جاري لعب %1$@"
+      "value": "%1$@ يلعب"
     },
     "accessibility_points_per_match": {
       "comment": "Average number of points earned per game played.",
@@ -1551,7 +1551,7 @@
     },
     "accessibility_pointspopup_10pts": {
       "english": "10 pts for the winner of the final",
-      "value": "10 نقاط للفائز النهائي"
+      "value": "10 نقاط للفائز في النهائي"
     },
     "accessibility_pointspopup_1pts": {
       "english": "1 pt per correctly placed team in the group stage",
@@ -1586,7 +1586,7 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "السيطرة في الثلث النهائي في 90 دقيقة"
+      "value": "الاستحواذ المُستعاد في الثلث الأخير لكل 90 دقيقة"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
@@ -1801,7 +1801,7 @@
     "accessibility_shot_attempts": {
       "comment": "A stat name indicating the number of shot attempts made by a player.",
       "english": "Shot attempts",
-      "value": "محاولات الركل"
+      "value": "محاولات التسديد"
     },
     "accessibility_shot_blocked": {
       "comment": "A shot was blocked by a defender. An attacker shot the ball at goal but a defender blocked it.",
@@ -1811,7 +1811,7 @@
     "accessibility_shot_blocks": {
       "comment": "NUmber of times a defender has blocked a shot by standing in it's path when the other team has a shot at goal.",
       "english": "Blocks",
-      "value": "صد الركلات"
+      "value": "الصدّ"
     },
     "accessibility_shot_conversion_rate": {
       "comment": "Label used in stats for shot conversion rate (goals/total scoring attempts)",
@@ -1821,12 +1821,12 @@
     "accessibility_shot_map": {
       "comment": "A label in the player details stats showing a graphic representation of all the shots on goal in the match.",
       "english": "Shot map",
-      "value": "خريطة الركلات"
+      "value": "خريطة التسديدات"
     },
     "accessibility_shot_type": {
       "comment": "A label for the shot description under the shotmap (in shotmap details, left/right foot, head, etc.)",
       "english": "Shot type",
-      "value": "نوع الركلة"
+      "value": "نوع التسديدة"
     },
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
@@ -1903,16 +1903,16 @@
     "accessibility_startpage_predict_the_outcome": {
       "comment": "Explaintaion of what you can do in the app",
       "english": "Predict the outcome of the Euros and challenge your friends in private leagues!",
-      "value": "توقع نتيجة بطولة المم الأوروبية وتحدي أصدقائك في بطولات الدوري الخاصة!"
+      "value": "توقع نتيجة بطولة أمم أوروبا وتحدَّ أصدقاءك في دوريات خاصة!"
     },
     "accessibility_startpage_predict_the_outcome_v2": {
       "comment": "Explaintaion of what you can do in the app",
       "english": "Predict the outcome of the tournament and challenge your friends in private leagues!",
-      "value": "خمّن نتيجة بطولة الأمم الأوروبية وتحدى أصدقائك في بطولات الدوري الخاصة!"
+      "value": "توقّع نتيجة البطولة وتحدَّ أصدقاءك في دوريات خاصة!"
     },
     "accessibility_startpage_predictor_competition": {
       "english": "Predictor competition",
-      "value": "متوقع المنافسة"
+      "value": "مسابقة المُتوقِّع"
     },
     "accessibility_startpage_start_now": {
       "comment": "label on actionable button for the user to start making his or her preditions",
@@ -1941,12 +1941,12 @@
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
-      "value": "يبرز مخطط صفات اللاعب القوى ونقاط الضعف الإحصائية للاعب، مقارنة بلاعبين آخرين.\\n\\nكل إحصائية هي معدّلة عن كل 90 أساس وتحتوي على مباريات من 365 يوما الماضي.\\n\\nثم يقارن اللاعبون بنظرائهم في الوضعية من بطولات مماثلة، ويوضعون في ترتيب ذي نسبة مئوية. كمثال، لاعب ما ذو 90% في الترتيب عن الفرصة المكونة تعني بأنها تخلق مزيدا من الفرص لأكثر من 90% من اللاعبين في وضعياتهم في بطولات مماثلة.\\n\\nتفاصيل كاملة عن المقارنات يمكن مطالعتها في قسم الأسئلة الشائعة الخاصة بنا."
+      "value": "يُبرز مخطط سمات اللاعب نقاط القوة والضعف الإحصائية للاعب، مقارنةً بلاعبين مشابهين.\\n\\nتُعدَّل كل إحصائية على أساس كل 90 دقيقة وتشمل مباريات الأيام الـ365 الماضية.\\n\\nبعد ذلك تتم مقارنة اللاعبين بأقرانهم في نفس المركز من دوريات مشابهة، ويتم وضعهم ضمن ترتيب مئوي (Percentile). على سبيل المثال، حصول لاعب على تصنيف مئوي 90% في «صناعة الفرص» يعني أنه يصنع فرصًا أكثر من 90% من اللاعبين في مركزه ضمن دوريات مشابهة.\\n\\nيمكن قراءة التفاصيل الكاملة حول المقارنات في قسم الأسئلة الشائعة لدينا."
     },
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
       "english": "Stats compared to other forwards",
-      "value": "الإحصائيات مقارنة بغيرها من الآن فصاعدا"
+      "value": "إحصائيات مقارنة بمهاجمين آخرين"
     },
     "accessibility_stats_comparison_fullbacks": {
       "comment": "A description highlighting that a player's stat is benchmarked against other fullbacks. Fullback is a term for players taking on any variation of left or right back roles.",
@@ -1971,12 +1971,12 @@
     "accessibility_stepsheader_step1_hinttext_v2": {
       "comment": "Explanation of how to arrage teams.",
       "english": "Drag and arrange the teams to how you think the group stage results will be.",
-      "value": "اسحب ونظم الفرق فيما تعتقده في نتائج دور المجموعات."
+      "value": "اسحب الفرق ورتّبها حسب ما تعتقد أن نتائج دور المجموعات ستكون عليه."
     },
     "accessibility_stepsheader_step1_hinttext_v3": {
       "comment": "Explanation of how to arrage teams. With emphasis on the on the action to take.",
       "english": "<b>Drag and arrange</b> the teams to how you think the group stage results will be.",
-      "value": "<b>اسحب ونظّم</b>الفرق كيفما تعتقد مآل نتيجة مرحلة الفرق."
+      "value": "<b>اسحب ونظّم</b> الفرق حسبما تعتقد أن نتائج دور المجموعات ستكون."
     },
     "accessibility_stepsheader_step1_title": {
       "comment": "Heading when predicting the outcome of the group stage",
@@ -2084,7 +2084,7 @@
     },
     "accessibility_successful_passes_accuracy": {
       "english": "Successful passes %",
-      "value": "تمريرات ناجحة"
+      "value": "٪ التمريرات الناجحة"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -2168,12 +2168,12 @@
     "accessibility_template_10096": {
       "comment": "Tournament between women club teams",
       "english": "Women club friendlies",
-      "value": "البطولات الوطنية للأندية النسوية"
+      "value": "مباريات ودية للأندية النسوية"
     },
     "accessibility_template_114": {
       "comment": "Tournament between national teams",
       "english": "Friendlies",
-      "value": "البطولات الوطنية"
+      "value": "المباريات الودية"
     },
     "accessibility_template_287": {
       "comment": "EURO U19 tournament. https://www.uefa.com/under19/",
@@ -2193,7 +2193,7 @@
     "accessibility_template_293": {
       "comment": "Friendlies between women national teams",
       "english": "Women's friendlies",
-      "value": "البطولات الوطنية النسوية"
+      "value": "مباريات ودية للسيدات"
     },
     "accessibility_template_296": {
       "comment": "World Cup U20. https://en.wikipedia.org/wiki/FIFA_U-20_World_Cup",
@@ -2208,12 +2208,12 @@
     "accessibility_template_344": {
       "comment": "Friendlies between U21 teams",
       "english": "Friendlies U21",
-      "value": "البطولات الوطنية لأقل من 21 سنة"
+      "value": "مباريات ودية تحت 21 سنة"
     },
     "accessibility_template_489": {
       "comment": "Friendlies between club teams",
       "english": "Club friendlies",
-      "value": "البطولات الوطنية للأندية"
+      "value": "المباريات الودية للأندية"
     },
     "accessibility_template_65": {
       "comment": "Summer olympics for women",
@@ -2293,7 +2293,7 @@
     "accessibility_throw_in_set_piece": {
       "comment": "A shot setup description. Goal was scored as part of a throw in.",
       "english": "Throw in set piece",
-      "value": "رمية ركنية"
+      "value": "رمية تماس (كرة ثابتة)"
     },
     "accessibility_ticker": {
       "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
@@ -2412,7 +2412,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "الأخطاء لكل 90 دقيقة"
+      "value": "التعرض للأخطاء لكل 90 دقيقة"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -2546,7 +2546,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "<b>أضف أخباراً</b> لفِرقك المفضلة."
+      "value": "<b>احصل على الأخبار</b> لفرقك \\nالمفضلة."
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2580,7 +2580,7 @@
     },
     "common_adfree_title": {
       "english": "Go Premium!",
-      "value": "النسخة الكاملة ؟"
+      "value": "اشترك في بريميوم!"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2638,7 +2638,7 @@
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
       "english": "%@ %@-%@ %@\\nOfficial highlights",
-      "value": "%@ %@-%@ %@\\nالأحداث الرسمية"
+      "value": "%@ %@-%@ %@\\nالملخص الرسمي"
     },
     "common_all": {
       "comment": "Onboarding: header for all non-top players list",
@@ -2652,12 +2652,12 @@
     },
     "common_all_matches": {
       "english": "All matches",
-      "value": "جميع المسابقات"
+      "value": "جميع المباريات"
     },
     "common_all_transfers": {
       "comment": "A label indicating that you want to search all the transfers and not only the most important ones.",
       "english": "All transfers",
-      "value": "جميع التحويلات"
+      "value": "جميع الانتقالات"
     },
     "common_allow": {
       "comment": "A call to action button to allow FotMob track user's data",
@@ -2741,7 +2741,7 @@
     "common_away": {
       "comment": "Label indicating we are showing the away matches of the team",
       "english": "Away",
-      "value": "الإياب"
+      "value": "خارج الأرض"
     },
     "common_away_abbreviation": {
       "english": "A",
@@ -2750,7 +2750,7 @@
     "common_away_attendance": {
       "comment": "The amount of away fans at the stadium. See also translation of \"attendance\" as it is related to that. Attendance is the total. Away attendance is only the away fans.",
       "english": "Away fans",
-      "value": "المشجعين البعيدين"
+      "value": "جماهير الفريق الضيف"
     },
     "common_back": {
       "english": "Back",
@@ -2771,7 +2771,7 @@
     },
     "common_betting": {
       "english": "Odds",
-      "value": "فردي"
+      "value": "الاحتمالات"
     },
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
@@ -2799,7 +2799,7 @@
     },
     "common_both_score": {
       "english": "Will both teams score?",
-      "value": "هل يسجل الفريقان نتائج؟"
+      "value": "هل سيسجل الفريقان أهدافًا؟"
     },
     "common_bracket_draw_info_legend": {
       "comment": "Bracket draw explanation",
@@ -2813,12 +2813,12 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "تويتر غير متوفر"
+      "value": "النشاط غير متاح"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
       "english": "Cache cleared",
-      "value": "تم مسح الملفات المخفية"
+      "value": "تم مسح ذاكرة التخزين المؤقت"
     },
     "common_canada": {
       "english": "Canada",
@@ -2850,7 +2850,7 @@
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
       "english": "Attacking Midfielder",
-      "value": "وسط الهجوم"
+      "value": "لاعب وسط مهاجم"
     },
     "common_centerattackingmidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
@@ -2870,7 +2870,7 @@
     "common_centerdefensivemidfielder": {
       "comment": "Player position - player plays as an defensive midfielder",
       "english": "Defensive Midfielder",
-      "value": "دفاع الوسط"
+      "value": "لاعب وسط دفاعي"
     },
     "common_centerdefensivemidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
@@ -2895,7 +2895,7 @@
     "common_championship_playoff": {
       "comment": "Label indicating that the teams get a place in the playoffs. Like in MLS the top 6 teams gets into the championsship playoff.",
       "english": "Championship playoff",
-      "value": "مباراة البطولة الختامية"
+      "value": "الأدوار الإقصائية للبطولة"
     },
     "common_championsleague": {
       "english": "Champions League",
@@ -2914,11 +2914,11 @@
     "common_change_currency_in": {
       "comment": "Directs the user to a page where they change change their currency settings",
       "english": "Change currency in %@",
-      "value": "تغيير العملة إلى %@"
+      "value": "غيّر العملة في %@"
     },
     "common_change_rss": {
       "english": "Change news feed",
-      "value": "تغيير مجموعة الأخبار"
+      "value": "تغيير موجز الأخبار"
     },
     "common_change_sort": {
       "english": "Change sorting",
@@ -2966,7 +2966,7 @@
     "common_clear_cache": {
       "comment": "Option in settings to clear cache and local files",
       "english": "Clear cache",
-      "value": "مسح الملفات المخفية"
+      "value": "مسح ذاكرة التخزين المؤقت"
     },
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
@@ -3134,12 +3134,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>جميع البيانات يتم حسابها باستخدام الاحصائيات المقدمة من أوبتا.</p><p>تقييم اللاعبين على FotMob يتم حسابه بناءً على أكثر من 100 احصائية منفردة لكل لاعب في كل مباراة.</p><p>المباراة في هذه الاحصائيات هي أية مباراة يشارك فيها اللاعب حتى وإن شارك فيها كبديل في آخر الدقائق.</p><p>اللاعب يجب أن يكون قد شارك في 50% من المباريات كحد أدنى ليكون جزءًا من التقييم.</p>"
+      "value": "<p>جميع البيانات يتم حسابها باستخدام الإحصائيات المقدمة من أوبتا.</p><p>يتم احتساب تقييم اللاعب في FotMob بناءً على أكثر من 100 إحصائية فردية لكل لاعب في كل مباراة.</p><p>تُحتسب أي مباراة ضمن تقييمات «لكل مباراة» إذا كان اللاعب قد شارك فيها، حتى وإن دخل بديلاً في الدقائق الأخيرة.</p><p>يجب أن يكون اللاعب قد شارك في ما لا يقل عن 50% من جميع المباريات وأن يكون قد لعب ما لا يقل عن 90 دقيقة (لإحصائيات «لكل 90 دقيقة») ليتم إدراجه في التصنيفات.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>جميع البيانات يتم حسابها باستخدام الاحصائيات المقدمة من أوبتا.</p><p>تقييم اللاعبين على FotMob يتم حسابه بناءً على أكثر من 100 احصائية منفردة لكل لاعب في كل مباراة.</p><p>المباراة في هذه الاحصائيات هي أية مباراة يشارك فيها اللاعب حتى وإن شارك فيها كبديل في آخر الدقائق.</p><p>اللاعب يجب أن يكون قد شارك في 50%% من المباريات كحد أدنى ليكون جزءًا من التقييم.</p>"
+      "value": "<p>جميع البيانات يتم حسابها باستخدام الإحصائيات المقدمة من أوبتا.</p><p>تقييم اللاعبين على FotMob يتم حسابه بناءً على أكثر من 100 إحصائية منفردة لكل لاعب في كل مباراة.</p><p>المباراة في تقييمات كل مباراة هي أي مباراة شارك فيها اللاعب حتى وإن شارك كبديل في الدقائق الأخيرة.</p><p>يجب أن يكون اللاعب قد لعب ما لا يقل عن 50%% من جميع المباريات وما لا يقل عن 90 دقيقة (لإحصائيات كل 90 دقيقة) ليتم إدراجه في التصنيفات.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3173,7 +3173,7 @@
     },
     "common_deselect_favorites": {
       "english": "Deselect favorites?",
-      "value": "إلغاء تحديد المفضلة"
+      "value": "إلغاء تحديد المفضلة؟"
     },
     "common_deselect_favorites_message": {
       "english": "Do you want to deselect your favorite leagues?",
@@ -3185,7 +3185,7 @@
     },
     "common_disclaimer_bet365": {
       "english": "Odds promotions are 18+.\\nRead more on BeGambleAware.org.",
-      "value": "ترقيات الصعاب هي 18+.\\nاقرأ المزيد على BeGambleAware.org."
+      "value": "عروض الاحتمالات مخصصة لمن هم بعمر 18 عامًا فأكثر.\\nاقرأ المزيد على BeGambleAware.org."
     },
     "common_double_chance": {
       "comment": "Odds type that indicates that you can bet on two outcomes. So you can bet one home and draw in one bet. https://www.online-betting.me.uk/betting-glossary/double-chance.php",
@@ -3250,7 +3250,7 @@
     "common_edit_match_alerts": {
       "comment": "Button caption for changing alerts for all teams. Please keep this short as possible",
       "english": "Edit alerts",
-      "value": "اضافة / الغاء اشعارات المباراة"
+      "value": "تعديل التنبيهات"
     },
     "common_effective_clearance_subtitle": {
       "english": "Total clearances",
@@ -3292,12 +3292,12 @@
     "common_empty_placeholder_no_my_matches": {
       "comment": "Empty placeholder for live matches, if there're no my matches (favorited, alerted, etc.)",
       "english": "No favorites playing today",
-      "value": "لا مباريات مفضلة تلعب الآن"
+      "value": "لا توجد مباريات للمفضّلة اليوم"
     },
     "common_empty_placeholder_no_ongoing_matches": {
       "comment": "Empty placeholder for live matches, if there're no ongoing matches",
       "english": "No ongoing matches",
-      "value": "لا مباريات قيد العب"
+      "value": "لا توجد مباريات جارية"
     },
     "common_empty_placeholder_no_ongoing_matches_and_my_matches": {
       "comment": "Empty placeholder for live matches, if there're no ongoing my matches",
@@ -3330,7 +3330,7 @@
     },
     "common_enable_push": {
       "english": "Enable push notifications",
-      "value": "تفعيل الإشعارات الترويجية"
+      "value": "تفعيل إشعارات الدفع"
     },
     "common_enable_push_description": {
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
@@ -3339,7 +3339,7 @@
     },
     "common_enable_push_question": {
       "english": "Do you want to enable push notifications?",
-      "value": "أتريد تفعيل الإشعارات الترويجية؟"
+      "value": "هل تريد تفعيل الإشعارات الفورية؟"
     },
     "common_enable_tv_schedules": {
       "comment": "Settings item to enable/disable TV Guide",
@@ -3360,7 +3360,7 @@
     },
     "common_error_push": {
       "english": "Error registering push notification, please try again",
-      "value": "خطأ في تسجيل إشعار ترويجي. الرجاء إعادة المحاولة"
+      "value": "خطأ في تسجيل إشعار الدفع، يرجى المحاولة مرة أخرى"
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
@@ -3375,25 +3375,30 @@
       "english": "Errors led to goal",
       "value": "أخطاء أدت لأهداف"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "قيمة الانتقال التقديرية (ETV) هي أفضل تقدير لدينا لما قد يكون اللاعب يستحقه إذا تم بيعه الآن.\\n\\nيتم حسابها باستخدام بيانات الانتقالات الحقيقية وتأخذ في الاعتبار:\\n\\n• أداء اللاعب\\n• عمره وإمكاناته المستقبلية\\n• مدى تكرار ومستوى اللعب في مركزه\\n• قوة فريقه والدوري الذي يلعب فيه\\n• مدة عقده المتبقية\\n• التطورات الأخيرة وعوامل مشابهة\\n\\nنركز على اللاعب نفسه، وليس الشائعات أو النادي الذي قد يشتريه.\\n\\nيتم تحديث القيمة بانتظام لتعكس التغيرات في سوق الانتقالات مع مرور الوقت."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "القيمة التقديرية للاعب"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "القيمة التقديرية للانتقال"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "القيمة المحتملة إذا تم البيع الآن"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "قيمة الانتقال التقديرية (ETV) هي أفضل تقدير لدينا لما قد يكون اللاعب يستحقه إذا تم بيعه الآن.\\n\\nيتم حسابها باستخدام بيانات الانتقالات التاريخية ومجموعة من عوامل الأداء والسياق، بما في ذلك:\\n\\n• أداء اللاعب وتطوره\\n• العمر والإمكانات المستقبلية\\n• مدى تكرار ومستوى اللعب\\n• المركز\\n• قوة الفريق والدوري\\n• مدة العقد المتبقية\\n\\nتركز ETV على اللاعب نفسه، وليس الشائعات أو النادي الذي قد يشتريه.\\n\\nيتم تحديث القيمة بانتظام لتعكس التغيرات مع مرور الوقت."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "القيمة التقديرية"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
       "english": "Ready for Euro 2016?",
-      "value": "أمستعد لبطولة أوربا 2016؟"
+      "value": "هل أنت مستعد لبطولة أوروبا 2016؟"
     },
     "common_euro2016_onboarding_desc_line2": {
       "comment": "Onboarding: second line in adv.-alert",
@@ -3474,12 +3479,12 @@
     "common_expected_goals_on_target": {
       "comment": "Keep xG in the translation and translate it as \"xG <on target>\". On target means the a goal attempt that hits the goal.",
       "english": "xG on target (xGOT)",
-      "value": "xG تصويب نحو هدف"
+      "value": "xG على المرمى (xGOT)"
     },
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "التصويبات المتوقعة نحو الهدف"
+      "value": "الأهداف المتوقعة للتسديدات على المرمى (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3523,12 +3528,12 @@
     "common_fantasy": {
       "comment": "Button label indicating you can click to toggle on showing of fantasy score",
       "english": "Fantasy",
-      "value": "افتراضي"
+      "value": "فانتازي"
     },
     "common_fantasy_points": {
       "comment": "This indicates how many Fantasy Premier League points the player got. Don't translate Fantasy directly if that makes a different meaning in your language! Then just keep it as \"Fantasy <translation for point>\" See https://fantasy.premierleague.com/",
       "english": "Fantasy points",
-      "value": "نقاط افتراضية"
+      "value": "نقاط فانتازي"
     },
     "common_fast_push_alerts": {
       "comment": "Option in settings to enable faster notification",
@@ -3683,164 +3688,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ ارتكب خطأ يؤدي إلى ركلة جزاء لصالح %2$@."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ كان اللاعب الأكثر عرقلة في المباراة (%2$@ مرات)."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ هو اللاعب الأكثر عرقلة في المباراة (%2$@ مرات)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ خسر معظم النزاعات (%2$@) في المباراة."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ يخسر معظم النزاعات (%2$@) في المباراة."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ فقد الحيازة معظم الوقت (%2$@) في المباراة."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ يفقد الحيازة معظم الوقت (%2$@) في المباراة."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ كان لديه أقل لمسات (%2$@) من أي لاعب خارج الملعب للعب 90 دقيقة."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ لديه أقل لمسات (%2$@) من أي لاعب خارج الملعب للعب 90 دقيقة."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ ارتكب خطأ قد أدى لتسجيل هدف لـ %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "few": "%1$@ ارتكب %3$d أخطاء أدت إلى أهداف لصالح %2$@.",
-        "one": "%1$@ ارتكب خطأ أدى إلى هدف لصالح %2$@.",
-        "other": "%1$@ ارتكب %3$d خطأً أدت إلى أهداف لصالح %2$@.",
-        "two": "%1$@ ارتكب خطأين أديا إلى أهداف لصالح %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ قد قام بمعظم المراوغات (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ يقوم بمعظم المراوغات (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ صنع معظم الفرص (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ يصنع معظم الفرص (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ قد قام بمعظم التمريرات (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ يقوم بمعظم التمريرات (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ كان لديه معظم الاعتراضات (%2$@) في المباراة."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ لديه معظم الاعتراضات (%2$@) في المباراة."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ كان رجل المباراة حيث حقق %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ لديه حالياُ أعلى تصنيف في المباراة حيث حقق %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ كان لديه أكثر لمسات (%2$@) في مربع الفريق الآخر."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ لديه أكثر لمسات (%2$@) في مربع الفريق الآخر."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ كان الممرر الأكثر دقة (%2$@) للعب 45 دقيقة أو أكثر."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ هو الممرر الأكثر دقة (%2$@) في المباراة."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ سجّل هدفاً في مرماه."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ ربح معظم النزاعات (%2$@) في المباراة."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ يربح معظم النزاعات (%2$@) في المباراة."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ صدم القائم %2$@ مرات في %3$@ تسديدة إجمالاً."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ يصدم القائم %2$@ مرات في %3$@ تسديدة إجمالاً."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "عام"
@@ -3857,7 +3704,7 @@
     "common_goal_assist_subtitle": {
       "comment": "Set piece is corner kick, free-kick or throw in",
       "english": "Assists via set piece",
-      "value": "صناعة عن طريق ركنية"
+      "value": "تمريرات حاسمة من كرات ثابتة"
     },
     "common_goal_assist_title": {
       "english": "Assists",
@@ -3869,11 +3716,11 @@
     },
     "common_goalless_away": {
       "english": "%1$@ haven't scored in %2$@ away matches.",
-      "value": "لم يسجل %1$@ في %2$@ مقابلات ذهاب."
+      "value": "لم يسجل %1$@ في %2$@ مباراة خارج الديار."
     },
     "common_goalless_home": {
       "english": "%1$@ haven't scored in %2$@ home matches.",
-      "value": "لم يسجل %1$@ في %2$@ مقابلات أياب."
+      "value": "لم يسجل %1$@ في %2$@ مباريات على أرضه."
     },
     "common_goalless_team": {
       "english": "%1$@ haven't scored in their last %2$@ matches.",
@@ -3909,7 +3756,7 @@
     },
     "common_goals_scored": {
       "english": "Goals scored",
-      "value": "اهداف سجلت"
+      "value": "الأهداف المسجلة"
     },
     "common_goals_subtitle": {
       "english": "Penalty goals",
@@ -3931,11 +3778,11 @@
     },
     "common_goals_title": {
       "english": "Top scorer",
-      "value": "أهداف"
+      "value": "الهداف"
     },
     "common_goals_total_last_3_both": {
       "english": "%1$@ have scored %4$@ goals in their last %3$@ matches, while %2$@ have scored %5$@.",
-      "value": "لم يسجل %1$@ %4$@ أهداف في آخر %3$@ مقابلات، في حين سجل  %2$@ %5$@."
+      "value": "سجّل %1$@ %4$@ أهدافًا في آخر %3$@ مباريات، بينما سجّل %2$@ %5$@."
     },
     "common_goalstreak_team": {
       "english": "%1$@ have scored in their last %2$@ matches.",
@@ -3943,7 +3790,7 @@
     },
     "common_goalstreak_team_away": {
       "english": "%1$@ have scored in their last %2$@ away matches.",
-      "value": "سجل %1$@ في آخر %2$@ مقابلات الذهاب."
+      "value": "سجل %1$@ في آخر %2$@ مباريات خارج أرضه."
     },
     "common_goalstreak_team_both": {
       "english": "%1$@ have scored in their last %2$@ matches and %3$@ have scored in their last %4$@ matches.",
@@ -3951,13 +3798,14 @@
     },
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
-      "value": "سجل %1$@ في آخر %2$@ مقابلات الأياب."
+      "value": "سجل %1$@ في آخر %2$@ مباريات على أرضه."
     },
     "common_gold_supporter": {
       "english": "Gold supporter",
       "value": "مشجع ذهبي"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
       "value": "هدف ذهبي"
     },
@@ -4007,11 +3855,11 @@
     },
     "common_h2h_not_lost_home_not_won_away": {
       "english": "%1$@ haven't lost at home their last %3$@ matches (%5$@W, %6$@D). %2$@ haven't won an away match in %4$@ matches (%7$@D, %8$@L).",
-      "value": "لم يخسر %1$@  في ديارهم في أخر %3$@ مباريات لهما(%5$@ فوز، %6$@ تعادل). لم يفز %2$@ مباريات ذهاب في %4$@ مباراة (%7$@ تعادل، %8$@ خسارة)"
+      "value": "لم يخسر %1$@ على أرضه في آخر %3$@ مباريات (%5$@ فوز، %6$@ تعادل). لم يفز %2$@ خارج أرضه في %4$@ مباريات (%7$@ تعادل، %8$@ خسارة)."
     },
     "common_h2h_not_won_home_not_lost_away": {
       "english": "%1$@ haven't won at home their last %3$@ matches (%5$@D, %6$@L). %2$@ haven't lost an away match in %4$@ matches (%7$@W, %8$@D).",
-      "value": "لم يفز %1$@  في ديارهم في أخر %3$@مباريات (%5$@ تعادل، %6$@ خسارة). لم يخسر %2$@ مباريات ذهاب في %4$@ مباراة (%7$@ فوز، %8$@ تعادل)"
+      "value": "لم يفز %1$@ على أرضه في آخر %3$@ مباريات (%5$@ تعادل، %6$@ خسارة). لم يخسر %2$@ أي مباراة خارج أرضه في %4$@ مباريات (%7$@ فوز، %8$@ تعادل)."
     },
     "common_h2h_undefeated": {
       "english": "%1$@ haven't lost to %2$@ in their last %3$@ meetings (%4$@W, %5$@D).",
@@ -4034,6 +3882,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "اخف أخبار %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "الأعلى"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4098,7 +3951,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "انضم إلى نادي داعمي FotMob لحذف الإعلانات التي نتحكم بها لتستخدم FotMob بسرعة وبدون أي تشتيت. دعمك يساعدنا على أن يصبح FotMob أفضل. شكراً على دعمك!"
+      "value": "انضم إلى نادي داعمي FotMob لإزالة الإعلانات التي نتحكم بها، لتجربة FotMob أسرع وبدون تشتيت. دعمك يساعدنا على مواصلة تحسين FotMob. لاحظ أنه إذا نقرت على مقال إخباري من جهة خارجية، فلا يمكننا التحكم في الإعلانات التي يعرضونها على موقعهم الإلكتروني. شكراً على دعمك!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4121,7 +3974,7 @@
     },
     "common_injuries": {
       "english": "Injuries",
-      "value": "مصاب"
+      "value": "الإصابات"
     },
     "common_injury_134": {
       "comment": "The club has decided the player can't play as a disciplinary action",
@@ -4161,7 +4014,7 @@
     "common_invite_informal_prompt2": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
       "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "اصدقاؤك لا يعلمون شيئا عما يجري<br/><b>هل تشارك تطبيق عالم الكرةمعهم؟</b>"
+      "value": "قد يفوت أصدقاءك الكثير.<br/><b>هل تشارك FotMob معهم الآن؟</b>"
     },
     "common_keeper": {
       "comment": "MAX 2 chars!",
@@ -4176,7 +4029,7 @@
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
       "english": "High claim",
-      "value": "تصدي عالٍ"
+      "value": "التقاط كرة عالية"
     },
     "common_keeper_long": {
       "english": "Keeper",
@@ -4251,7 +4104,7 @@
     "common_last_home_matches": {
       "comment": "Header for form table for home matches of the team",
       "english": "Last home matches",
-      "value": "آخر مبارايات محلية"
+      "value": "آخر مباريات على أرضه"
     },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
@@ -4284,7 +4137,7 @@
     "common_latest_news_content_description": {
       "comment": "Text used as contentDescription for a Siri suggestion",
       "english": "Get up to date on the latest news, transfers and rumors!",
-      "value": "احصل على أحدث الأخبار، والنقل، والشائعات!"
+      "value": "احصل على آخر الأخبار والانتقالات والشائعات!"
     },
     "common_latest_news_suggested_invocation": {
       "comment": "This is what we suggest the user to use as a voice command to summon latest news for a specific team.",
@@ -4311,7 +4164,7 @@
     },
     "common_league_has_notifications": {
       "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "لقد مكّن الدوري الإشعارات ، يجب إيقاف التنبيهات عبر قائمة التصفية في النافذة المباشرة"
+      "value": "لقد فعّل الدوري الإشعارات، يجب إيقاف التنبيهات عبر قائمة التصفية في تبويب المباريات"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4380,7 +4233,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "هذا الفيديو مستضاف في موقع خارجي. FotMob لا يملك المحتوى الذي أنت على وشك مشاهدته.\\n\\nFotMob غير مسؤول و لا يمكنه تحمل المسؤولية أو مسؤول عن أي محتوى مستضاف في موقع لطرف ثالث.\\n\\nلأية شكاوي قانونية، يرجى التواصل مع موقع الوسائط المستضيف للفيديوهات."
+      "value": "هذا الفيديو مستضاف على موقع خارجي. FotMob ليس مالكًا للمحتوى الذي أنت على وشك مشاهدته.\\n\\nFotMob غير مسؤول ولا يمكن اعتباره مسؤولًا أو مساءلًا عن أي محتوى مستضاف على موقع تابع لطرف ثالث.\\n\\nلأي شكاوى قانونية، يُرجى التواصل مع مالك ملف الوسائط أو مزوّد خدمة استضافة الفيديو/الصوت."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4398,7 +4251,7 @@
     "common_loan_return": {
       "comment": "Transfer status: player returned from loan",
       "english": "Loan return",
-      "value": "رد القرض"
+      "value": "العودة من الإعارة"
     },
     "common_local": {
       "comment": "A tab-switcher to switch between \"Local\" teams (from your region) and \"Suggested\" ones (from across the globe)",
@@ -4452,11 +4305,11 @@
     "common_matches_not_determined": {
       "comment": "Placeholder for brackets rounds, which have not been drawen yet",
       "english": "Next round matches are yet to be determined",
-      "value": "سيفصل في أدوار المباريات التالية."
+      "value": "لم يتم تحديد مباريات الجولة القادمة بعد"
     },
     "common_matches_on_bench": {
       "english": "Matches on bench",
-      "value": "مباريات بدون مشاركة"
+      "value": "مباريات على دكة البدلاء"
     },
     "common_matches_played": {
       "english": "Matches played",
@@ -4464,11 +4317,11 @@
     },
     "common_matches_sub_in": {
       "english": "Matches substituted in",
-      "value": "`بدل في `"
+      "value": "المباريات التي شارك فيها كبديل"
     },
     "common_matches_sub_out": {
       "english": "Matches substituted out",
-      "value": "تم تبديله في"
+      "value": "مباريات تم استبداله فيها"
     },
     "common_matches_uppercase": {
       "english": "Matches",
@@ -4485,7 +4338,7 @@
     },
     "common_maximize_all": {
       "english": "Maximize all",
-      "value": "فتح الكل"
+      "value": "تكبير الكل"
     },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
@@ -4514,7 +4367,7 @@
     },
     "common_menu_settings": {
       "english": "Settings",
-      "value": "الإعدادت"
+      "value": "الإعدادات"
     },
     "common_menu_share_others": {
       "english": "Google+, Twitter and more...",
@@ -4522,7 +4375,7 @@
     },
     "common_message_sent": {
       "english": "Tip: Long press a goal or other event to share it.",
-      "value": "معلومة : اضغط لثانيتين على هدف لمشاركته"
+      "value": "نصيحة: اضغط مطولًا على هدف أو حدث آخر لمشاركته."
     },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
@@ -4673,7 +4526,7 @@
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
-      "value": "تثبيت المباريات غير متوفر"
+      "value": "لا توجد مباريات متاحة"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
@@ -4681,7 +4534,7 @@
     },
     "common_no_matches_today": {
       "english": "No matches in selected leagues",
-      "value": "لا مباريات في الدوري الذي اخترته"
+      "value": "لا توجد مباريات في الدوريات المحددة"
     },
     "common_no_results_for_query": {
       "comment": "Onboarding: not players found for the query",
@@ -4708,12 +4561,12 @@
     },
     "common_no_team_info": {
       "english": "Sorry, we do not have any info on this team",
-      "value": "عذرا ليس لدينا اي اخبار عن هذا الفريق"
+      "value": "عذرًا، ليست لدينا أي معلومات عن هذا الفريق"
     },
     "common_no_top_assists": {
       "comment": "Empty placeholder for the case of empty top-assists",
       "english": "No top assists available",
-      "value": "ليس هناك أفضل المساعدين"
+      "value": "لا توجد تمريرات حاسمة متاحة"
     },
     "common_no_top_scorers": {
       "comment": "Empty placeholder for the case of empty top-scorers",
@@ -4723,7 +4576,7 @@
     "common_no_tv_guid": {
       "comment": "Empty placeholder if there's no matches available on TV",
       "english": "No matches on air",
-      "value": "لا مباريات على التلفاز اليوم"
+      "value": "لا توجد مباريات على الهواء"
     },
     "common_no_tv_selected": {
       "english": "No TV schedules",
@@ -4748,11 +4601,11 @@
     },
     "common_not_won_at_home": {
       "english": "%1$@ haven't won at home in their last %2$@ matches.",
-      "value": "لم يفز %1$@ في الأياب في آخر %2$@ مقابلات."
+      "value": "لم يفز %1$@ على أرضه في آخر %2$@ مباريات."
     },
     "common_not_won_away": {
       "english": "%1$@ haven't won an away game in their last %2$@ matches.",
-      "value": "لم يفز %1$@ في الذهاب في آخر %2$@ مقابلات."
+      "value": "لم يحقق %1$@ الفوز خارج ملعبه في آخر %2$@ مباريات."
     },
     "common_not_won_both": {
       "english": "%1$@ haven't won a match in their last %3$@ attempts, and %2$@ in their last %4$@.",
@@ -4807,7 +4660,7 @@
     "common_official_highlights": {
       "comment": "A label indicating that the YouTube clip contains official highlights from the football match",
       "english": "Official highlights",
-      "value": "تمييزات رسمية"
+      "value": "ملخص رسمي"
     },
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
@@ -4859,7 +4712,7 @@
     "common_onboarding_news_title": {
       "comment": "A title in the onboarding popup, which explains that we've just released a new news page",
       "english": "News has been redesigned!",
-      "value": "أُعيد تصمم الأخبار!"
+      "value": "تمت إعادة تصميم الأخبار!"
     },
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
@@ -4894,7 +4747,7 @@
     "common_onboarding_world_cup_card_description": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
       "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "اضبط التنيهات للفرق واللاعبين المفضلين على وضع كأس العالم FotMob."
+      "value": "اضبط التنبيهات لفرقك ولاعبيك المفضلين باستخدام وضع كأس العالم الجديد كليًا من FotMob."
     },
     "common_onboarding_world_cup_card_header": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
@@ -4968,6 +4821,7 @@
       "value": "الباراغواي"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "استراحة"
     },
@@ -4982,7 +4836,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "ضربات الجزاء التي تم ردها"
+      "value": "ضربات الجزاء التي واجهها"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -4990,7 +4844,7 @@
     },
     "common_penaltiesarehappening": {
       "english": "Penalty-shootout",
-      "value": "ضربة جزاء"
+      "value": "ركلات الترجيح"
     },
     "common_penalty": {
       "english": "Penalty",
@@ -5005,6 +4859,7 @@
       "value": "مجموع المقابلات"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "التسبب بضربات الجزاء"
     },
@@ -5046,7 +4901,7 @@
     },
     "common_play": {
       "english": "Play",
-      "value": "بدأت"
+      "value": "تشغيل"
     },
     "common_played": {
       "english": "Pl",
@@ -5065,7 +4920,7 @@
     "common_player_assist_removed_short": {
       "comment": "We have earlier sent a notification that the player got an assist, but this was wrong. So we then send a correction alert saying we were wrong and the player didn't get an assist.",
       "english": "Correction: Didn't get an assist",
-      "value": "تصحيح: لم يحصل على تمريرة"
+      "value": "تصحيح: لم يحصل على تمريرة حاسمة"
     },
     "common_player_fact": {
       "english": "Player fact",
@@ -5238,7 +5093,7 @@
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
-      "value": "تم تسجيل الإشعارات الترويجية بنجاح"
+      "value": "تم تسجيل إشعارات الدفع بنجاح"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5247,7 +5102,7 @@
     },
     "common_rate": {
       "english": "Rate",
-      "value": "قم باعطاء رأيك"
+      "value": "قيّم"
     },
     "common_rate_fotmob_desc": {
       "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
@@ -5264,7 +5119,7 @@
     },
     "common_rating_title": {
       "english": "FotMob rating",
-      "value": "تقييم اللاعب"
+      "value": "تقييم FotMob"
     },
     "common_recent": {
       "comment": "Recent search queries made by user' list header (uses in Search page)",
@@ -5279,7 +5134,7 @@
     "common_recoveries": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries",
       "english": "Recoveries",
-      "value": "الاستردادات"
+      "value": "استعادة الكرة"
     },
     "common_recoveries_per_90": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries. See recoveries. Also make sure to reference the other per 90 stats like chances_created_per_90 to we write them the same way.",
@@ -5414,7 +5269,7 @@
     },
     "common_score_poll_interval": {
       "english": "Score polling interval",
-      "value": "مجال التصويت للنتائج"
+      "value": "الفاصل الزمني لاستطلاع النتيجة"
     },
     "common_score_volume": {
       "english": "Score alert volume",
@@ -5427,7 +5282,7 @@
     "common_search_players": {
       "comment": "Onboarding your favorite players",
       "english": "Select players",
-      "value": "حدد لاعبيك"
+      "value": "حدد اللاعبين"
     },
     "common_season": {
       "english": "Season",
@@ -5535,7 +5390,7 @@
     "common_select_team": {
       "comment": "Button label for comparing two players to each other",
       "english": "Select team",
-      "value": "حدد عنصراً"
+      "value": "حدد الفريق"
     },
     "common_select_team_picker_description": {
       "comment": "A sub-header for the picker for the widget's team to follow",
@@ -5555,7 +5410,7 @@
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
       "english": "Set piece",
-      "value": "ركنية"
+      "value": "كرة ثابتة"
     },
     "common_set_up_now": {
       "comment": "A label on the button to start league-onboarding (add teams, players to follow)",
@@ -5608,7 +5463,7 @@
     },
     "common_show_team_logos_in_table": {
       "english": "Show team logos in table",
-      "value": "اضف شعارات الفرق الى جدول الترتيب"
+      "value": "إظهار شعارات الفرق في الجدول"
     },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
@@ -5638,10 +5493,12 @@
       "value": "مشجع فضي"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "هدف فضي"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "هدف فضي"
     },
@@ -5652,7 +5509,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "اسحب المسابقات بالترتيب الذي تريده في النافذة المباشرة أو حددها واستخدم الأزرار لإنشاء التصنيف المفضل لديك"
+      "value": "اسحب لتغيير ترتيب الدوريات في علامة تبويب المباريات. أو اضغط على الدوريات واستخدم الأزرار في الأسفل لنقلها."
     },
     "common_sort_favorite_leagues_v2": {
       "comment": "A body for the hint (onboarding) for the new News, where we explain how to change order of the news-sections",
@@ -5763,7 +5620,7 @@
     "common_supporter_club_pitch_2": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
       "english": "• Exclusive Supporters Club app icons.",
-      "value": "• أيقونات حصرية لتطبيق نادي الداعمين الحصري."
+      "value": "• أيقونات تطبيق حصرية لنادي الداعمين."
     },
     "common_supporter_club_pitch_3": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
@@ -5834,7 +5691,7 @@
     "common_tap_to_compare": {
       "comment": "Onboarding user to the player's stats in the match facts. The placeholder is the name of the button.",
       "english": "Tap %@ \\nto compare player stats",
-      "value": "اضغط %@ \\nلمقارنة حالة اللاعب"
+      "value": "اضغط %@ \\nلمقارنة إحصائيات اللاعب"
     },
     "common_team": {
       "english": "Team",
@@ -5853,7 +5710,7 @@
     "common_team_form": {
       "comment": "Label for the list of the last matches for the team in the Team Profile",
       "english": "Team form",
-      "value": "تشكيلة الفريق"
+      "value": "مستوى الفريق"
     },
     "common_team_form_both": {
       "comment": "W is Win, D is Draw and L is loss",
@@ -5863,7 +5720,7 @@
     "common_team_form_table": {
       "comment": "Teams form. We use this when showing the last 5 matches of the teams in table. Try to keep the translation short.",
       "english": "Form",
-      "value": "تشكيل"
+      "value": "النتائج"
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
@@ -5949,7 +5806,7 @@
     "common_three_match_series": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Three-match series",
-      "value": "سلسلة الثلاث مقابلات"
+      "value": "سلسلة من ثلاث مباريات"
     },
     "common_ticket": {
       "english": "Premium features",
@@ -6001,7 +5858,7 @@
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
-      "value": "تحكم بالاشعارات"
+      "value": "تفعيل/تعطيل الإشعارات"
     },
     "common_tomorrow": {
       "english": "Tomorrow",
@@ -6020,7 +5877,7 @@
     "common_top_rated": {
       "comment": "Label for the top rated player in the Team Profile",
       "english": "Top rated",
-      "value": "أفضل اللاعبين"
+      "value": "الأعلى تقييماً"
     },
     "common_top_scorer": {
       "comment": "Label for the top scorer player in the Team Profile",
@@ -6131,9 +5988,9 @@
       "value": "المبلغ"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "القيمة السوقية"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "قيمة الانتقال"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6193,7 +6050,7 @@
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",
-      "value": "مبارايات ثنائية فاصلة"
+      "value": "مواجهة من مباراتين"
     },
     "common_undefeated_both_equal": {
       "english": "%1$@ and %2$@ haven't lost their %3$@ last games.",
@@ -6210,7 +6067,7 @@
     "common_undisclosed": {
       "comment": "Transfer price is unknown (undisclosed by clubs)",
       "english": "Undisclosed",
-      "value": "غير مكشوف"
+      "value": "غير مُعلَن"
     },
     "common_unlock_premium": {
       "english": "Unlock premium",
@@ -6218,7 +6075,7 @@
     },
     "common_unregistered_push": {
       "english": "Successfully unregistered for push notifications",
-      "value": "تم إلغاء تسجيل الإشعارات الترويجية بنجاح"
+      "value": "تم إلغاء تسجيلك في إشعارات الدفع بنجاح"
     },
     "common_unstar": {
       "english": "Unfollow %@",
@@ -6240,7 +6097,7 @@
     "common_upcoming_transfer": {
       "comment": "A player transfer that is confirmed, but in the future",
       "english": "Upcoming transfer",
-      "value": "النقل المقبل"
+      "value": "الانتقال القادم"
     },
     "common_updating": {
       "english": "Updating...",
@@ -6273,17 +6130,17 @@
     "common_var_penalty_miss_retake": {
       "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
       "english": "Missed penalty - to be retaken",
-      "value": "جزاء لم يُحتسب - يجب إعادته"
+      "value": "ركلة جزاء مُهدرة - يجب إعادتها"
     },
     "common_var_pending": {
       "comment": "Information that the Video Assistant Referee is checking something",
       "english": "Pending VAR check",
-      "value": "في انتظار اطلاع VAR"
+      "value": "مراجعة تقنية الفيديو (VAR) قيد الانتظار"
     },
     "common_var_pending_goal": {
       "comment": "Information that the Video Assistant Referee is checking a goal",
       "english": "Pending VAR - goal",
-      "value": "في انتظار VAR - جزاء - هدف"
+      "value": "في انتظار تقنية VAR - هدف"
     },
     "common_var_pending_penalty": {
       "comment": "Information that the Video Assistant Referee is checking a penaly",
@@ -6328,7 +6185,7 @@
     },
     "common_view_fixtures": {
       "english": "View fixtures",
-      "value": "مشاهدة توزيع اللاعبين"
+      "value": "عرض المباريات"
     },
     "common_view_tv_schedule": {
       "comment": "\"Item in Settings to open TV-guide\"",
@@ -6360,12 +6217,12 @@
     },
     "common_widget_configure_title": {
       "english": "Configure widget",
-      "value": "نافذة الاشعارات"
+      "value": "إعداد الأداة"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",
       "english": "No starred matches or matches with alerts today",
-      "value": "لا مباريات معها اشعارات اليوم"
+      "value": "لا توجد مباريات مميزة بنجمة أو مباريات مع تنبيهات اليوم"
     },
     "common_widget_title": {
       "english": "FotMob",
@@ -6385,7 +6242,7 @@
     },
     "common_won_contest_subtitle": {
       "english": "Successful dribbles %",
-      "value": "مراوغات ناجحه"
+      "value": "٪ المراوغات الناجحة"
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
@@ -6401,7 +6258,7 @@
     },
     "common_won_tackle_team_subtitle": {
       "english": "Tackle success",
-      "value": "اعتراض ناجح"
+      "value": "نجاح الافتكاك"
     },
     "common_won_tackle_team_title": {
       "english": "Successful tackles per match",
@@ -6409,7 +6266,7 @@
     },
     "common_won_tackle_title": {
       "english": "Successful tackles per match",
-      "value": "اعتراض ناجح لكل مباراة"
+      "value": "الافتكاكات الناجحة لكل مباراة"
     },
     "common_world_cup": {
       "english": "FIFA World Cup",
@@ -6427,7 +6284,7 @@
     },
     "common_world_cup_popup_description": {
       "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "لإعطائك كل ما في كأس العالم عملنا بجد لإنشاء تجربة كأس عالم الفريدة - جربها!"
+      "value": "لمنحك أقصى استفادة من كأس العالم، عملنا بجد لإنشاء تجربة فريدة لكأس العالم — جرّبها!"
     },
     "common_world_cup_popup_header": {
       "english": "Try our new\\nWorld Cup mode!",
@@ -6460,7 +6317,7 @@
     },
     "common_you_are_a": {
       "english": "You are a %@!",
-      "value": "انت في %@!"
+      "value": "أنت %@!"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
@@ -6489,7 +6346,7 @@
     },
     "ios_ENG": {
       "english": "English",
-      "value": "لغة أنجليزية"
+      "value": "الإنجليزية"
     },
     "ios_ESP": {
       "english": "Spanish",
@@ -6550,7 +6407,7 @@
     },
     "ios_Playing_commentaries_in": {
       "english": "Playing commentaries in",
-      "value": "يتم تشغيل التعليق ب"
+      "value": "تشغيل التعليقات باللغة"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6588,11 +6445,11 @@
     },
     "ios_Tweet_the_applink": {
       "english": "Tweet the link of FotMob",
-      "value": "رابط تغريدة لـ FotMob"
+      "value": "غرّد برابط FotMob"
     },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
-      "value": "يجب عليك أولا شراء نسخة/ إصدار مميز// أولا"
+      "value": "يجب عليك شراء النسخة المميزة أولاً"
     },
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
@@ -6601,7 +6458,7 @@
     },
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "با علامت دار کردن ستاره لیگ را به موردعلاقه های خود اضافه کنید. برای تغییر روی لیگ کلیک کنید."
+      "value": "أضف نجمة إلى دورياتك المفضلة لسهولة الوصول. اضغط على اسم الدوري لتغيير الدوري الحالي"
     },
     "ios_draws": {
       "english": "Draws",
@@ -6680,7 +6537,7 @@
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
-      "value": "افضل صانعين الاهداف"
+      "value": "أكثر اللاعبين صناعةً للأهداف"
     },
     "ios_top_goalscorer": {
       "english": "Top goal scorer",
@@ -6689,7 +6546,7 @@
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
-      "value": "فوتموب - أفصل تطبيق للنتائج المباشرة لكرة القدم"
+      "value": "فوتموب - أفضل تطبيق للنتائج المباشرة لكرة القدم"
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
@@ -6701,7 +6558,7 @@
     },
     "new_END_NOTIFICATION": {
       "english": "%@ vs %@ finished %@-%@",
-      "value": "لقد انتهت مباراة %@ ضد %@%@%@"
+      "value": "انتهت مباراة %@ ضد %@ بنتيجة %@-%@"
     },
     "new_GOAL_SCORED": {
       "english": "%@ vs %@ %@-%@",
@@ -6735,7 +6592,7 @@
     "new_bracket": {
       "comment": "This is the World Cup bracket. Like this http://cdn.bleacherreport.net/images_root/article/media_slots/photos/001/240/770/KnockoutRoundBracket_original.jpg?1386355815",
       "english": "Bracket",
-      "value": "عارضة"
+      "value": "القوس"
     },
     "new_bronzeFinal": {
       "english": "Bronze-final",
@@ -6768,7 +6625,7 @@
     "new_country": {
       "comment": "nationality of player, all uppercase!",
       "english": "COUNTRY",
-      "value": "الجنسية"
+      "value": "البلد"
     },
     "new_country_sentencecase": {
       "english": "Country",
@@ -6776,7 +6633,7 @@
     },
     "new_custom": {
       "english": "Custom...",
-      "value": "اختياري"
+      "value": "مخصص..."
     },
     "new_default_sound": {
       "comment": "Indicates that the user has the default sound set",
@@ -6831,7 +6688,7 @@
     "new_full_time_result": {
       "comment": "Indicates that the user wants an alert when the match is at full time",
       "english": "Full time result",
-      "value": "نتبيجة المباراة كاملة"
+      "value": "نتيجة نهاية المباراة"
     },
     "new_goals": {
       "english": "Goals",
@@ -6859,7 +6716,7 @@
     "new_how_to_remove_news_notifications": {
       "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
       "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "قم بتبديل إشعارات الأخبار بالنقر على الجرس على صفحة الفرق"
+      "value": "قم بتبديل إشعارات الأخبار بالنقر على الجرس في صفحة الفريق"
     },
     "new_intro_text": {
       "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
@@ -6869,7 +6726,7 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "يجب عليك ان تقوم بتجربة هذا التطبيق, ممتاز لمتابعة الدوري الانجليزي الممتاز ++."
+      "value": "أستخدم هذا التطبيق لمعرفة نتائج كرة القدم مباشرة. جرّبه!"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
@@ -6912,7 +6769,7 @@
     "new_mute_alerts": {
       "comment": "Short button caption for turning off alerts for a specific match. Please keep this as short as possible",
       "english": "Mute this match",
-      "value": "تعطيل التنبيهات"
+      "value": "كتم هذه المباراة"
     },
     "new_news_vibrate": {
       "comment": "User can decide if his phone should vibrate when getting a news alert",
@@ -6940,7 +6797,7 @@
     },
     "new_no_odds": {
       "english": "No odds",
-      "value": "لا فرص"
+      "value": "لا توجد احتمالات"
     },
     "new_no_player_data": {
       "english": "Nothing here yet, check back later",
@@ -7145,7 +7002,7 @@
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
-      "value": "سنرسل لك اشعارات لافضل اخبار الانتقالات"
+      "value": "سنرسل لك تنبيهات فقط لأهم أخبار الانتقالات"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7188,12 +7045,12 @@
     },
     "new_widget_providers_list_title": {
       "english": "Configure",
-      "value": "تشكيل"
+      "value": "إعداد"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
       "english": "Accurate back zone pass",
-      "value": "تمريرة خلفية دقيقة إلى منطقة الهجوم"
+      "value": "تمريرة دقيقة إلى المنطقة الخلفية"
     },
     "notifications_accurate_forward_zone_pass": {
       "comment": "An accurate pass that ends in the attacking half of the pitch",
@@ -7256,7 +7113,7 @@
     },
     "notifications_alert_AfterExtraTime": {
       "english": "%@ %@-%@ %@\\nFinished after extra time",
-      "value": "%@%@-%@%@\\nنهاية الأشواط الاضافية"
+      "value": "%@ %@-%@ %@\\nانتهت بعد الوقت الإضافي"
     },
     "notifications_alert_AfterPenalties": {
       "english": "%@ %@-%@ %@\\nFinished after penalties",
@@ -7272,15 +7129,15 @@
     },
     "notifications_alert_FirstExtraHalf": {
       "english": "%@ %@-%@ %@\\nFirst extra half underway",
-      "value": "`%@%@%@%@\\nالتحضير للشوط الأضافي الأول `"
+      "value": "%@ %@-%@ %@\\nبدء الشوط الإضافي الأول"
     },
     "notifications_alert_FirstHalf": {
       "english": "%@ - %@\\nStarted",
-      "value": "%@%@\\nبدأت"
+      "value": "%@ - %@\\nبدأت"
     },
     "notifications_alert_Pause": {
       "english": "%@ %@-%@ %@\\nHalf time",
-      "value": "%@%@-%@%@\\nالشوط الاول"
+      "value": "%@ %@-%@ %@\\nالشوط الاول"
     },
     "notifications_alert_PauseExtraTime": {
       "english": "%@ %@-%@ %@\\nPause in extra time",
@@ -7288,7 +7145,7 @@
     },
     "notifications_alert_PenaltiesAreHappening": {
       "english": "%@ %@-%@ %@\\nPenalty shootout underway!",
-      "value": "%@ %@-%@ %@\\nتحضير لركلات الجزاء!"
+      "value": "%@ %@-%@ %@\\nركلات الترجيح جارية الآن!"
     },
     "notifications_alert_Postponed": {
       "english": "%@ %@-%@ %@\\nMatch is postponed",
@@ -7316,11 +7173,11 @@
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
-      "value": "%@ %@-%@ %@\\nتصحيح: %@%@ لم يحصل على تمريرة"
+      "value": "%@ %@-%@ %@\\nتصحيح: %@%@ لم يحصل على تمريرة حاسمة"
     },
     "notifications_alert_card_removed": {
       "english": "Correction: %@%@ did not receive a red card\\n%@",
-      "value": "تصحيح: %@%@ لم يحصل على بطاقة حمراء\\n%@\\n"
+      "value": "تصحيح: %@%@ لم يحصل على بطاقة حمراء\\n%@"
     },
     "notifications_alert_goal": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
@@ -7338,7 +7195,7 @@
     },
     "notifications_alert_goal_penalty": {
       "english": "%@ %@-%@ %@\\n%@ Goal! (penalty)",
-      "value": "%@ %@- %@ %@\\n%@ هدف من (ركلة جزاء)"
+      "value": "%@ %@-%@ %@\\n%@ هدف! (ركلة جزاء)"
     },
     "notifications_alert_goal_removed": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
@@ -7403,7 +7260,7 @@
     },
     "notifications_alert_subst_in": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
-      "value": "%@%@%@%@\\n%@%@ قد عوض"
+      "value": "%@ %@-%@ %@\\n%@%@ تم إشراكه كبديل"
     },
     "notifications_alert_subst_out": {
       "english": "%@ %@-%@ %@\\n%@%@ has been subbed off",
@@ -7501,7 +7358,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "فرصة كبيرة نفذت"
+      "value": "فرص كبيرة صُنِعَت"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -7555,7 +7412,7 @@
     "notifications_career": {
       "comment": "A tab label indicating that in it we will show which clubs the player has played for before in his career. Also uses the same header for Coaches indicating which clubs he has coached in his career.",
       "english": "Career",
-      "value": "انتقالات"
+      "value": "المسيرة"
     },
     "notifications_categories": {
       "english": "Categories",
@@ -7663,7 +7520,7 @@
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
-      "value": "- تمكين وضع عدم الإزعاج"
+      "value": "- وضع عدم الإزعاج مُفعّل"
     },
     "notifications_do_not_disturb": {
       "comment": "Button with shortcut to system settings",
@@ -7685,12 +7542,12 @@
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
       "english": "Duels lost",
-      "value": "الخسارة في ثنائيات"
+      "value": "الثنائيات الخاسرة"
     },
     "notifications_duel_won": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
       "english": "Duels won",
-      "value": "الفوز في ثنائيات"
+      "value": "الثنائيات التي فاز بها"
     },
     "notifications_duels": {
       "comment": "Stat for the number of duels that the player has been involved in during the match",
@@ -7710,7 +7567,7 @@
     "notifications_enable_http_cache": {
       "comment": "Enables the app to work with no network connection showing cached information.",
       "english": "Enable offline cache",
-      "value": "تفعيل الملفات المخفية خارج الشبكة (بيتا)"
+      "value": "تفعيل ذاكرة التخزين المؤقت للاستخدام دون اتصال"
     },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
@@ -7730,7 +7587,7 @@
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
-      "value": "خطأ أدى إلى ركلة"
+      "value": "خطأ أدى إلى تسديدة"
     },
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
@@ -7757,7 +7614,7 @@
     },
     "notifications_exit_world_cup_mode": {
       "english": "Exit Tournament mode",
-      "value": "الخروج من نظام الدوري"
+      "value": "الخروج من وضع البطولة"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -7787,27 +7644,27 @@
     "notifications_expected_return_date_doubtful": {
       "comment": "Expected return for a player after injury or similar",
       "english": "Doubtful",
-      "value": "ربما"
+      "value": "مشكوك في مشاركته"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "مطلع %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "آخر %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "وسط %1$@"
     },
     "notifications_expected_return_date_out_for_season": {
       "comment": "Expected return for a player after injury or similar",
       "english": "Out for season",
-      "value": "خارج الموسم"
+      "value": "سيغيب حتى نهاية الموسم"
     },
     "notifications_expected_return_date_unknown": {
       "comment": "Expected return for a player after injury or similar",
@@ -7829,7 +7686,7 @@
     },
     "notifications_filter_tournaments_help_text": {
       "english": "Select which leagues to display in Matches tab",
-      "value": "حدّد البطولة لعرضها على الشاشة مباشرة"
+      "value": "اختر الدوريات التي تريد عرضها في علامة تبويب المباريات"
     },
     "notifications_finland": {
       "english": "Finland",
@@ -7905,7 +7762,7 @@
     "notifications_goals_penalties": {
       "comment": "Goals scored via a penalty",
       "english": "Goals scored on penalty",
-      "value": "الأهداف المسجلة بركلات الترجيح"
+      "value": "الأهداف المسجلة من ركلات الجزاء"
     },
     "notifications_goals_rightFootedGoals": {
       "comment": "Goals scored with right foot",
@@ -7969,7 +7826,7 @@
     },
     "notifications_injured_and_suspended_players": {
       "english": "Injured and suspended players",
-      "value": "اللاعبون المصابون و المطرودون"
+      "value": "اللاعبون المصابون والموقوفون"
     },
     "notifications_injury_1": {
       "english": "Heart problems",
@@ -7981,7 +7838,7 @@
     },
     "notifications_injury_100": {
       "english": "Mononucleosis",
-      "value": "كريات الدم البيضاء"
+      "value": "داء الوحيدات"
     },
     "notifications_injury_101": {
       "english": "Calf injury",
@@ -8001,7 +7858,7 @@
     },
     "notifications_injury_105": {
       "english": "Buttocks injury",
-      "value": "جرح الردفين"
+      "value": "إصابة في الردفين"
     },
     "notifications_injury_106": {
       "english": "Broken knee cap",
@@ -8113,7 +7970,7 @@
     },
     "notifications_injury_130": {
       "english": "Knock",
-      "value": "إصابة المفصل"
+      "value": "كدمة"
     },
     "notifications_injury_131": {
       "english": "Jaw injury",
@@ -8137,15 +7994,15 @@
     },
     "notifications_injury_16": {
       "english": "Broken finger",
-      "value": "أصبع مكسور"
+      "value": "إصبع مكسور"
     },
     "notifications_injury_17": {
       "english": "Broken wrist",
-      "value": "خصر مكسور"
+      "value": "رسغ مكسور"
     },
     "notifications_injury_2": {
       "english": "Broken leg",
-      "value": "رجل مكسورة"
+      "value": "ساق مكسورة"
     },
     "notifications_injury_20": {
       "english": "Broken collarbone",
@@ -8193,7 +8050,7 @@
     },
     "notifications_injury_35": {
       "english": "Hand injury",
-      "value": "أصابة اليد"
+      "value": "إصابة اليد"
     },
     "notifications_injury_36": {
       "english": "Finger injury",
@@ -8241,7 +8098,7 @@
     },
     "notifications_injury_5": {
       "english": "Flu",
-      "value": "الزكام"
+      "value": "الإنفلونزا"
     },
     "notifications_injury_51": {
       "english": "Hernia",
@@ -8289,7 +8146,7 @@
     },
     "notifications_injury_75": {
       "english": "Sprained leg",
-      "value": "رجل ملتوية"
+      "value": "التواء في الساق"
     },
     "notifications_injury_76": {
       "english": "Cruciate ligament injury",
@@ -8434,7 +8291,7 @@
     "notifications_league_wide_transfers": {
       "comment": "League-wide transfers as oppososed to team or player transfers. Indicates a user can enable transfers for an entire league",
       "english": "League-wide transfers",
-      "value": "انتقالات بطولة شاملة"
+      "value": "انتقالات على مستوى الدوري"
     },
     "notifications_legal_leaving_app": {
       "english": "You are now leaving FotMob",
@@ -8442,7 +8299,7 @@
     },
     "notifications_limited_lineup_coverage": {
       "english": "This match has limited lineup coverage",
-      "value": "هذه المباراة لديها تشكيلة إحتياط محدودة"
+      "value": "هذه المباراة لديها تغطية محدودة للتشكيلة"
     },
     "notifications_lithuania": {
       "english": "Lithuania",
@@ -8456,7 +8313,7 @@
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
       "english": "You have been logged out. Please log in again so that we can continue keeping your favorites and settings safe.",
-      "value": "لقد سجلت الخروج. يرجى تسجيل الدخول مرة أخرى حتى نتمكن من الاستمرار في الحفاظ على أمان الإعدادات المفضلة لديك."
+      "value": "لقد تم تسجيل خروجك. يرجى تسجيل الدخول مرة أخرى حتى نتمكن من الاستمرار في الحفاظ على المفضلة والإعدادات الخاصة بك بأمان."
     },
     "notifications_long_balls": {
       "comment": "Stat for long balls during the match",
@@ -8513,7 +8370,7 @@
     },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
-      "value": "إصطدامات"
+      "value": "افتكاكات"
     },
     "notifications_media": {
       "comment": "Title of tab that contains both video and news items",
@@ -8538,7 +8395,7 @@
     "notifications_my_leagues": {
       "comment": "Profile page list header",
       "english": "My leagues",
-      "value": "بطولات الدوري"
+      "value": "دورياتي"
     },
     "notifications_my_players": {
       "comment": "Profile page list header",
@@ -8593,7 +8450,7 @@
     },
     "notifications_network_troublshooting_test1": {
       "english": "Waiting for push message",
-      "value": "في انتظار رسالة النظام"
+      "value": "في انتظار رسالة الدفع"
     },
     "notifications_network_troublshooting_test2": {
       "english": "Fetching system info",
@@ -8623,7 +8480,7 @@
     },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
-      "value": "لا تفضيلات تمت إضافتها"
+      "value": "لم تتم إضافة أي مفضلات بعد"
     },
     "notifications_no_variant_1": {
       "comment": "Used for rating dialog",
@@ -8647,7 +8504,7 @@
     },
     "notifications_notifications_are_blocked": {
       "english": "- Notifications for this app have been disabled",
-      "value": "- تعطيل إشعارات هذا التطبيق"
+      "value": "- تم تعطيل إشعارات هذا التطبيق"
     },
     "notifications_notifications_are_blocked_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are blocked",
@@ -8687,7 +8544,7 @@
     },
     "notifications_on": {
       "english": "On",
-      "value": "مشغل"
+      "value": "تشغيل"
     },
     "notifications_open_on_watch": {
       "comment": "Action/button on notification on watch (Android Wear OS) used to open match on the watch",
@@ -8749,7 +8606,7 @@
     "notifications_player_starts_on_the_bench": {
       "comment": "A user can get an alert if the player is on the bench at the start of the match. \"Wayne Rooney is starting as a substitute. Manchester United - Liverpool",
       "english": "%@ is a substitute. %@ - %@",
-      "value": "%@ يبدأ كلاعب بديل ل %@ - %@"
+      "value": "%@ لاعب بديل. %@ - %@"
     },
     "notifications_player_starts_on_the_bench_short": {
       "comment": "A user can get an alert if the player is on the bench at the start of the match. \"Is starting as a substitute. Manchester United - Liverpool",
@@ -8759,7 +8616,7 @@
     "notifications_player_sub_in": {
       "comment": "Messi has been subbed on.",
       "english": "%@ has been subbed on.",
-      "value": "%@ قد عوض"
+      "value": "%@ دخل بديلاً."
     },
     "notifications_player_sub_in_short": {
       "comment": "Label indicating the player was substituted in. Header: Messi Content: Subbed on",
@@ -8779,7 +8636,7 @@
     "notifications_player_sub_out_short": {
       "comment": "Label indicating the player was substituted out. Header: Messi Content: Subbed off",
       "english": "Subbed off",
-      "value": "تم الاستبدال بخروجه"
+      "value": "تم استبداله"
     },
     "notifications_player_substitution": {
       "comment": "User can enable alerts when a player is substituted (in our out or the pitch). This is the label on the checkbox that the user can toggle to enable those alerts.",
@@ -8841,7 +8698,7 @@
     "notifications_rating_team_title": {
       "comment": "We give each team a performance rating based on how the player performs. This is a title where we rank all the teams based on their performance.",
       "english": "FotMob rating",
-      "value": "تقييم اللاعب"
+      "value": "تقييم فوت موب"
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
@@ -8906,7 +8763,7 @@
     },
     "notifications_search_box_hint": {
       "english": "Search for teams, matches, players, news, leagues",
-      "value": "البحث عن الفرق، المقابلات، اللاعبين، الأخبار، البطولات"
+      "value": "ابحث عن الفرق، المباريات، اللاعبين، الأخبار، الدوريات"
     },
     "notifications_search_failed": {
       "comment": "Some error while trying to search",
@@ -8916,7 +8773,7 @@
     "notifications_search_result_header_matches": {
       "comment": "Heading for search results",
       "english": "Matches (%1$@)",
-      "value": "المقابلات (%1$@)"
+      "value": "المباريات (%1$@)"
     },
     "notifications_search_result_header_news": {
       "comment": "Heading for search results",
@@ -8999,7 +8856,7 @@
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
       "english": "Shots inside box",
-      "value": "تسدیدات ذاخل منطقة الجزاء"
+      "value": "تسديدات داخل منطقة الجزاء"
     },
     "notifications_shots_outside_box": {
       "comment": "Stat for shots taken outside the penalty area",
@@ -9028,7 +8885,7 @@
     "notifications_sign_in_dialog": {
       "comment": "Dialog \"selling\" profile login",
       "english": "We can keep your favorites and settings safe. <b>Sign in now?</b>",
-      "value": "استبدال إعداداتك عبر جميع أجهزتك<b> اتريد الدخول الآن؟</b>"
+      "value": "يمكننا الحفاظ على المفضلة والإعدادات بأمان. <b>هل تريد تسجيل الدخول الآن؟</b>"
     },
     "notifications_sign_in_with_apple": {
       "english": "Sign in with Apple",
@@ -9090,7 +8947,7 @@
     },
     "notifications_standard_alerts_description": {
       "english": "Set the standard notifications for any new league, match or team alerts that are set. This does not affect existing alerts.",
-      "value": "تعيين الأشعارات الحديثه لأي دوري ، مباراة أو فريق على تنبيهات تم ضبطها  . هذا لا يؤثر على تنبيهات موجودة مسبقاً."
+      "value": "تعيين الإشعارات الافتراضية لأي تنبيهات جديدة للدوري أو المباراة أو الفريق تم ضبطها. لا يؤثر ذلك على التنبيهات الحالية."
     },
     "notifications_status_live": {
       "comment": "Status indicator for match highlights. Says the match is ongoing.",
@@ -9132,7 +8989,7 @@
     },
     "notifications_tackles_succeeded": {
       "english": "Tackles won",
-      "value": "افتكاك كرة ناجح"
+      "value": "الافتكاكات الناجحة"
     },
     "notifications_team_play": {
       "english": "Team play",
@@ -9262,7 +9119,7 @@
     "notifications_turn_them_on": {
       "comment": "Button label asking the user to turn on the transfer alerts",
       "english": "Turn them on!",
-      "value": "فعلها!"
+      "value": "فعّلها!"
     },
     "notifications_tv_schedule_tab": {
       "comment": "This is the title for the TV Schedule tab. We already have an icon displaying TV, so we want a shortened word for this. For example in England it would make sense to just write Schedule as we already display the TV",
@@ -9316,7 +9173,7 @@
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
-      "value": "تمت مراوغته"
+      "value": "تعرض لخطأ"
     },
     "notifications_watch_match_bet365": {
       "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
@@ -9376,7 +9233,7 @@
     },
     "notifications_youth_career": {
       "english": "Youth career",
-      "value": "مهنة شباب"
+      "value": "مسيرة الشباب"
     },
     "seo_TOTW": {
       "comment": "Team of the Week.",
@@ -9412,6 +9269,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "يرجى مشاركة تفاصيل الإعلان، مثل المعلن، الشاشة التي ظهر عليها، الفيديو أو الصورة، وما وجدته مشكلاً."
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "أعلن معنا"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9509,7 +9371,7 @@
     "seo_clear_lineup": {
       "comment": "Headline to clear the lineup created in the lineup builder for football team.",
       "english": "Clear lineup",
-      "value": "إفراغ التشكيلة"
+      "value": "مسح التشكيلة"
     },
     "seo_code_copied_to_clipboard": {
       "comment": "Toast message shown when user has copied the league code to clipboard",
@@ -9642,9 +9504,9 @@
       "value": "خصص شاشتك الرئيسية بأيقونات تطبيقات بديلة"
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "xG ضد أثناء التواجد على الملعب"
+      "value": "xG ضد أثناء التواجد في الملعب"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9770,7 +9632,7 @@
     "seo_friendly_match": {
       "comment": "Text explaining that the the current match is a friendly match that does not count towards any trophies or prices.",
       "english": "This is a friendly match.",
-      "value": "هذا مباراة ودية"
+      "value": "هذه مباراة ودية."
     },
     "seo_fun_fact_highest_top_speed": {
       "comment": "Fun fact for the player that has reached the highest top speed in a match.",
@@ -9785,12 +9647,12 @@
     "seo_fun_fact_least_distance_covered": {
       "comment": "Fun fact for the player that has covered the least distance in a match.",
       "english": "%1$@ covered the least distance (%2$@) in the match of any outfield player to play 90 minutes.",
-      "value": "%1$@ قطع أقل مسافة (%2$@) في المباراة من أي لاعب خارج الملعب لعب 90 دقيقة."
+      "value": "%1$@ قطع أقل مسافة (%2$@) في المباراة مقارنةً بأي لاعب من لاعبي الميدان لعب 90 دقيقة."
     },
     "seo_fun_fact_least_distance_covered_live": {
       "comment": "Fun fact for the player that has covered the least distance in an ongoing match.",
       "english": "%1$@ has covered the least distance (%2$@) in the match of any outfield player.",
-      "value": "%1$@ قطع أقل مسافة (%2$@) في المباراة من بين جميع اللاعبين خارج الملعب."
+      "value": "%1$@ قطع أقل مسافة (%2$@) في المباراة من بين جميع لاعبي الملعب."
     },
     "seo_fun_fact_most_distance_covered": {
       "comment": "Fun fact for the player that has covered the most distance in a match.",
@@ -9810,7 +9672,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "الأهداف المتلقاة أثناء التواجد على الملعب"
+      "value": "الأهداف المتلقاة أثناء التواجد في الملعب"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9831,6 +9693,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "السجل الحالي وجهاً لوجه للفرق هو %1$@ %2$@ فوز(أو انتصار)، %3$@ %4$@ فوز(أو انتصار) و %5$@ تعادل(تعادلات)."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "خريطة الحرارة"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "شاهد أين يترك اللاعبون بصمتهم على الملعب. اضغط على لاعب من شاشة التشكيلة للاطلاع عليها."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "خرائط الحرارة متوفرة الآن"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9872,13 +9749,138 @@
       "english": "I need help",
       "value": "أحتاج مساعدة"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "نسخ الرابط"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "انسخ الرابط والصقه في Safari أو Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "اضغط على النقاط الثلاث (•••) أسفل اليمين، ثم «فتح في المتصفح»"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "اضغط على النقاط الثلاث (•••) أعلى اليمين، ثم اختر «فتح في المتصفح»"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "اضغط على القائمة (≡)، ثم اختر «فتح في متصفح آخر»"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "اضغط على أيقونة المشاركة في الأسفل، ثم اختر متصفحك"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "اضغط على النقاط الثلاث (•••)، ثم على «فتح في المتصفح»"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "اضغط على النقاط الثلاث (•••) في أعلى اليمين، ثم «فتح في المتصفح الخارجي»"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "اضغط على النقاط الثلاث (•••)، ثم اختر «فتح في المتصفح»"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "اضغط على النقاط الثلاث (•••)، ثم «فتح في المتصفح»"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "اضغط على أيقونة المشاركة، ثم اختر «فتح في Safari» أو «نسخ الرابط»"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "اضغط على النقاط الثلاث (•••)، ثم «فتح في…» واختر Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "انسخ الرابط والصقه في Safari أو Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "اضغط على أيقونة المشاركة، ثم اختر «فتح في Safari»"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "ابحث عن القائمة (••• أو رمز المشاركة) واختر «فتح في المتصفح»"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "اضغط على النقاط الثلاث (•••)، ثم «فتح في Safari»"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "رجوع"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "افتح في المتصفح"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "افتحها في متصفحك لتسجيل الدخول"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "افتح في Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "افتح في Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "أو يدويًا:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "تسجيل الدخول لا يعمل بشكل موثوق في متصفح %1$s. يُرجى فتح هذه الصفحة في Safari أو Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "جرّب تسجيل الدخول من هنا على أي حال (قد لا يعمل)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "قد لا يعمل تسجيل الدخول في هذا المتصفح داخل التطبيق"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "قد لا يعمل تسجيل الدخول في متصفح %1$s. للحصول على أفضل تجربة، ارجع وافتح هذه الصفحة في متصفحك."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "من فضلك افتح هذه الصفحة في متصفح جهازك (Safari أو Chrome) للمتابعة."
     },
@@ -9956,6 +9958,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "تم حفظ التشكيلة"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "لا شيء"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10080,7 +10087,7 @@
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
       "english": "%1$@ have odds of %2$@ to win, %3$@ for a draw, and %4$@ for %5$@ to win.",
-      "value": "%1$@ لديه فرصة بنسبة %2$@ للفوز، %3$@ للتعادل، و %4$@ لـ %5$@ الفوز."
+      "value": "%1$@ لديه احتمالات %2$@ للفوز، و%3$@ للتعادل، و%4$@ لفوز %5$@."
     },
     "seo_odds_x": {
       "comment": "Used for the betting slip to show the odds of your current selected bets.",
@@ -10125,7 +10132,7 @@
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
       "english": "(penalty shootout)",
-      "value": "(تسديدة"
+      "value": "(ركلات الترجيح)"
     },
     "seo_penalty_shootout_miss": {
       "comment": "Used in notifications to indicate that a team missed a penalty during a penalty shootout event, such as \"Arsenal miss! (penalty shootout).\"",
@@ -10135,7 +10142,7 @@
     "seo_penalty_shootout_v2": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
       "english": "penalty shootout",
-      "value": "تسديدة"
+      "value": "ركلات الترجيح"
     },
     "seo_physical_metrics": {
       "comment": "A header representing the phyical metrics section of a match",
@@ -10200,7 +10207,7 @@
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
       "english": "The play-off matchups are determined by a draw. In each grouping, the two teams on the left are drawn against the two teams on the right to create two play-off matchups. The play-offs are played over two legs, with the winner going to the round of 16.\\n\\nThere is a separate draw for the round of 16 using the same process.",
-      "value": "تحدد مباريات الملحق بواسطة قرعة. في كل تجمع، يتم سحب الفريقين إلى اليسار ضد الفريقين إلى اليمين لإنشاء مباراتي ملحق. تلعب مباريات الملحق على مباراتين، ويتأهل الفائز إلى دور الـ8.\\n\\nهناك قرعة منفصلة لدور الـ8 باستخدام نفس العملية."
+      "value": "تُحدَّد مواجهات الملحق عبر قرعة. في كل مجموعة، يُسحَب الفريقان على اليسار لمواجهة الفريقين على اليمين لتكوين مواجهتَي ملحق. تُلعَب مباريات الملحق بنظام الذهاب والإياب، ويتأهل الفائز إلى دور الـ16.\\n\\nتُجرى قرعة منفصلة لدور الـ16 باستخدام العملية نفسها."
     },
     "seo_play_offs_format": {
       "comment": "Label leading to an explanation of the new Champions league play-off format",
@@ -10275,7 +10282,7 @@
     "seo_pre_fill_with_popular_teams": {
       "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder with popular football teams.",
       "english": "Pre-fill with popular teams",
-      "value": "ملء بالفرق الشعبية"
+      "value": "الملء المسبق بالفرق الشائعة"
     },
     "seo_predict_copy_code": {
       "comment": "Button label for copying your league code to clipboard so you can share it with others to join your mini-league. See predict_league_code",
@@ -10431,7 +10438,7 @@
     "seo_round_of_16_draw": {
       "comment": "A header indicating matches that have been drawn as part of the Round of 16 draw",
       "english": "Round of 16 draw",
-      "value": "سحب دور الـ 16"
+      "value": "قرعة دور الـ16"
     },
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
@@ -10445,7 +10452,7 @@
     "seo_save": {
       "comment": "Outcome after a shot that indicates that the keeper made a save",
       "english": "Save",
-      "value": "إنقاذ"
+      "value": "تصدي"
     },
     "seo_save_lineup": {
       "comment": "Text in a button indicating to save the completed lineup builder.",
@@ -10530,7 +10537,7 @@
     "seo_site_description_aboutus_careers": {
       "comment": "Meta description for the fotmob website about careers, where open postitions are listed",
       "english": "We are looking for developers, check out our open positions! FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "نبحث عن مطورين، تفقد مواقعنا الشاغرة! فوت موب هو التطبيق الأساسي ليوم المباراة. احصل على النتائج المباشرة، والمباريات المقررة، والجداول، وإحصائيات المباراة، والأخبار المخصصة من أكثر من ٥٠٠ دوري كرة قدم حول العالم."
+      "value": "نبحث عن مطورين، اطّلع على الوظائف الشاغرة لدينا! فوت موب هو التطبيق الأساسي ليوم المباراة. احصل على النتائج المباشرة، والمباريات المقررة، والجداول، وإحصائيات المباراة، والأخبار المخصصة من أكثر من ٥٠٠ دوري كرة قدم حول العالم."
     },
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
@@ -10580,12 +10587,12 @@
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "english": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob.",
-      "value": "%1$@%2$@ مُرتب بحسب النقاط المتوقعة (xPts). أنظر جدول xG %1$@ أو جدول المساواة من أجل %2$@ ومواسم أخرى على FotMob."
+      "value": "%1$@ %2$@ مُرتب بحسب النقاط المتوقعة (xPts). انظر جدول xG %1$@ أو جدول العدالة لـ %2$@ ومواسم أخرى على FotMob."
     },
     "seo_site_description_league_transfers": {
       "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "See all %1$@ transfers.",
-      "value": "انظر جميع التحويلات %1$@"
+      "value": "اطّلع على جميع انتقالات %1$@."
     },
     "seo_site_description_league_trophies": {
       "comment": "metadata description for league trophies tab.",
@@ -10600,7 +10607,7 @@
     "seo_site_description_match_finished": {
       "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ مقابل %2$@ في %3$@ انتهت %4$@. تحقق من نتائج مباشرة، مواجهة المبارات، إحصائيات المباراة، تشكيل الفرق، تقييم لاعبي المباراة، نصائح، أشكال الفريق، خريطة القذائف، وأبرز الأحداث."
+      "value": "%1$@ مقابل %2$@ في %3$@ انتهت %4$@. تحقق من النتائج المباشرة، المواجهات المباشرة، إحصائيات المباراة، التشكيلات، تقييمات اللاعبين، التحليلات، مستويات الفرق، خريطة التسديدات، وأبرز اللقطات."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -10610,7 +10617,7 @@
     "seo_site_description_stats_team": {
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
       "english": "%1$@ stats for %2$@ %3$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@إحصائيات %2$@ %3$@ بما في ذلك أفضل الهدافين والتمريرات الحاسمة وتقييم اللاعبين والمزيد"
+      "value": "%1$@ إحصائيات %2$@ %3$@ بما في ذلك أفضل الهدافين والتمريرات الحاسمة وتقييم اللاعبين والمزيد"
     },
     "seo_site_description_team_fixtures": {
       "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
@@ -10640,7 +10647,7 @@
     "seo_site_description_team_stats": {
       "comment": "Title for the page showing stats for a team.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - تقييم الفريق، الأهداف في كل مباراة، الشوط الهداف وأحصائيات أخرى"
+      "value": "%1$@ - تقييم الفريق، الأهداف في كل مباراة، التسديدات على المرمى وإحصائيات أخرى"
     },
     "seo_site_description_team_table": {
       "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
@@ -10650,7 +10657,7 @@
     "seo_site_description_team_transfers": {
       "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
       "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "أحدث تحويلات %1$@ في الداخل والخارج وتمديدات العقود"
+      "value": "أحدث انتقالات %1$@ إلى الداخل والخارج وتمديدات العقود"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10684,7 +10691,7 @@
     "seo_site_title_coach": {
       "comment": "Title for the page for a coach. With name as input. Eg \"Frank Lampard - stats and career\"",
       "english": "%1$@ - stats and career",
-      "value": "%1$@ - إحصائيات ومسيرة اللاعب"
+      "value": "%1$@ - إحصائيات ومسيرة المدرب"
     },
     "seo_site_title_faq": {
       "comment": "Meta title tag value for FAQ page, with questions and anwsers to frequently asked questions.",
@@ -10704,7 +10711,7 @@
     "seo_site_title_league_matches": {
       "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
       "english": "%1$@ matches and results %2$@",
-      "value": "يوجد %1$@ مباريات ونتائج %2$@"
+      "value": "%1$@ مباريات ونتائج %2$@"
     },
     "seo_site_title_league_news": {
       "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
@@ -10719,17 +10726,17 @@
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "english": "%1$@ knockout fixtures, bracket and champion %2$@",
-      "value": "%1$@ جدول المباريات الخروجية، والمخططة والبطل %2$@"
+      "value": "مباريات %1$@ الإقصائية، شجرة البطولة والبطل %2$@"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
       "english": "%1$@ %2$@ top rated players, goals, assists and other stats",
-      "value": "%1$@%2$@ أفضل اللاعبين تصنيفا، الأهداف، التمريرات الحاسمة وإحصائيات أخرى"
+      "value": "%1$@ %2$@ أفضل اللاعبين تصنيفًا، الأهداف، التمريرات الحاسمة وإحصائيات أخرى"
     },
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "الفرق الأعلى تصنيفًا %1$@، المتوسط %2$@ لكل مباراة، الضربات المستهدفة وإحصائيات أخرى"
+      "value": "أفضل الفرق تقييمًا في %1$@ %2$@، الأهداف لكل مباراة، تسديدات على المرمى وإحصائيات أخرى"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
@@ -10749,7 +10756,7 @@
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
       "english": "%1$@ - transfers, contracts and market values",
-      "value": "%1$@ - التحويلات، رسوم اللاعبين، العقود والقيم السوقية"
+      "value": "%1$@ - الانتقالات والعقود والقيم السوقية"
     },
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
@@ -10774,7 +10781,7 @@
     "seo_site_title_stats_team": {
       "comment": "Page title for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
       "english": "%1$@ - %2$@ stats for %3$@ %4$@",
-      "value": "إحصائيات%1$@ - %2$@ ل%3$@ %4$@"
+      "value": "%1$@ - %2$@ إحصائيات %3$@ %4$@"
     },
     "seo_site_title_team_fixtures": {
       "comment": "Meta title tag value for the team fixtures page, with both future and past matches and results.",
@@ -10799,7 +10806,7 @@
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "فريق %1$@ - المدرب، الإصابات، والمواقف"
+      "value": "%1$@ - التشكيلة، المدرب، الإصابات والمراكز"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
@@ -10809,7 +10816,7 @@
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - تقييم الفريق، الأهداف في كل مباراة، الشوط الهداف وأحصائيات أخرى"
+      "value": "%1$@ - تقييم الفريق، الأهداف في كل مباراة، التسديدات على المرمى وإحصائيات أخرى"
     },
     "seo_site_title_team_table": {
       "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
@@ -10824,7 +10831,7 @@
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
       "english": "Transfer Center - Latest & Top Transfers - FotMob",
-      "value": "مركز الانتقال - أحدث وأعلى الانتقالات - فوتموب"
+      "value": "مركز الانتقالات - أحدث وأبرز الانتقالات - فوتموب"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
@@ -10870,6 +10877,11 @@
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
       "value": "تقديم"
+    },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "Sub"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10924,7 +10936,7 @@
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
       "english": "%@ won!",
-      "value": "فوز %@!"
+      "value": "%@ فاز!"
     },
     "seo_template_10195": {
       "comment": "World Cup Qualification for UEFA (Union of European Football Associations)",
@@ -11008,7 +11020,7 @@
     "seo_template_word_division": {
       "comment": "A part of a league. Like \"1. division\" or \"2. division\".",
       "english": "Division",
-      "value": "الدوري"
+      "value": "الدرجة"
     },
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
@@ -11063,6 +11075,11 @@
       "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
       "english": "Out",
       "value": "خارج"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "بيان قانون الشفافية"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -11148,7 +11165,7 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
-      "value": "اشترك في المباراة على %1$@"
+      "value": "تابع كل الأحداث على %1$@."
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",
@@ -11218,7 +11235,7 @@
     "seo_weather_forecast": {
       "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
       "english": "Weather forecast",
-      "value": "الطقس"
+      "value": "توقعات الطقس"
     },
     "seo_week": {
       "comment": "string indicating which week it is e.g. Week 12.",
@@ -11301,7 +11318,7 @@
     "seo_xpts_explanation": {
       "comment": "Explanation of the xG table. The text has newline separators in it.",
       "english": "Expected Points (xPts) reflect the number of points a team was expected to earn from a match, based on the quality of their chances measured by Expected Goals (xG).\\n\\nxPts for a match are calculated by simulating possible outcomes using the quality of shots, expressed as xG. The simulation awards points for wins, draws, or losses based on xG.\\n\\nThe xPts are accumulated over the season to form the 'xG-table', also known as the 'Justice table', which provides an alternative view of team performance beyond actual points earned.",
-      "value": "النقاط المتوقعة (xPts) تعكس عدد النقاط المتوقع من الفريق تحقيقها في مباراة، وفقا لجودة فرصه تم قياسها بالأهداف المتوقعة (xG).\\n\\nيتم حساب xPts لمباراة بمحاكاة النتائج المحتملة باستخدام جودة التسديدات، بالتعبير عنها كـ xG. تكافئ المحاكاة نقاطًا عن الأرباح، التعادلات، أو الخسارات بالاعتماد على xG.\\n\\nيتم تجميع xPts طيلة الموسم من ‘جدول xG‘، يعرف أيضً بـ ‘جدول المساواة‘، والذي يقدم نظرة بديلة عن أداء فريق بشكل أعمق بالمقارنة مع النقاط المحصل عليها."
+      "value": "النقاط المتوقعة (xPts) تعكس عدد النقاط التي كان من المتوقع أن يحققها الفريق من مباراة ما، بناءً على جودة فرصه المقاسة بالأهداف المتوقعة (xG).\\n\\nيتم احتساب xPts للمباراة عبر محاكاة النتائج المحتملة باستخدام جودة التسديدات المعبَّر عنها كقيمة xG. وتمنح المحاكاة نقاطًا للفوز أو التعادل أو الخسارة بناءً على xG.\\n\\nتتراكم قيم xPts على مدار الموسم لتشكّل «جدول xG»، المعروف أيضًا باسم «جدول العدالة»، والذي يقدّم نظرة بديلة على أداء الفريق تتجاوز النقاط الفعلية المحصَّلة."
     },
     "seo_xpts_explanation_green_numbers": {
       "comment": "Explanation of the green numbers in the xG table. Underlying numbers refer to xG.",
@@ -11336,7 +11353,7 @@
     "seo_zero_points": {
       "comment": "Title for \"0 points medal\". User gets \"0 points\" when they predict wrong.",
       "english": "0 points",
-      "value": "0 نقاط or ٠ نقاط"
+      "value": "٠ نقاط"
     }
   }
 }

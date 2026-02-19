@@ -119,7 +119,7 @@
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
       "english": "assist by %@",
-      "value": "assist från %@"
+      "value": "assist av %@"
     },
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
@@ -153,7 +153,7 @@
     "accessibility_calendar_hint": {
       "comment": "Meant for VoiceOver. Hint for a calendar button where the user can change which the date for the matches they want to see",
       "english": "See matches in other date",
-      "value": "Se matchningar för andra datum"
+      "value": "Se matcher på andra datum"
     },
     "accessibility_career_stats": {
       "comment": "Text shown on tab header for tab that shows the career stats for a player.",
@@ -351,12 +351,12 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "xG på mål"
+      "value": "xGOT emot"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
       "english": "xGOT faced per 90",
-      "value": "xGOT per 90"
+      "value": "xGOT emot per 90"
     },
     "accessibility_facts": {
       "comment": "The main tab for the match facts. Needs to be kept short.",
@@ -366,7 +366,7 @@
     "accessibility_fast_break": {
       "comment": "A shot setup description. Goal was scored as part of a counter attack.",
       "english": "Fast break",
-      "value": "Snabb omväxling"
+      "value": "Snabb kontring"
     },
     "accessibility_favorites_widget_display_body": {
       "comment": "Used as the display body for the favorites widget in the widget selection menu. Body of a widget that shows the matches you are following.",
@@ -526,7 +526,7 @@
     "accessibility_ground_duels_won": {
       "comment": "This is a statistic where we list the number of times a football defender won a ground duel as opposed to an aerial duel.",
       "english": "Ground duels won",
-      "value": "Markdueller"
+      "value": "Vunna markdueller"
     },
     "accessibility_h2h_short": {
       "comment": "Shortname of 'Head to head'. This tab shows how two teams have fared against each other in the past. Needs to be kept short. Use 'H2h' if it makes sense in the language",
@@ -561,7 +561,7 @@
     "accessibility_historical_table_positions": {
       "comment": "Header indication a team's previous positions in the table. Example here: https://www.fotmob.com/teams/8650/history/liverpool",
       "english": "Historical table positions",
-      "value": "Historiska tabellplatser"
+      "value": "Historiska tabellplaceringar"
     },
     "accessibility_historical_table_positions_header": {
       "comment": "Header text over graph that shows a team's historical table positions.",
@@ -621,7 +621,7 @@
     "accessibility_insights_chances_created_rank_in_competition": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
       "english": "Ranked %1$@ in big chances created (%2$@ big chances)",
-      "value": "Rankad %1$@ i antal skapade stora chanser mål per match (%2$@ stora chanser)"
+      "value": "Rankad %1$@ i antal skapade stora chanser (%2$@ stora chanser)"
     },
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
@@ -746,7 +746,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "%1$@ är rankad %2$@ i antal räddade mål i turneringen (%3$@)"
+      "value": "%1$@ är rankad %2$@ i antal räddningar per match i turneringen (%3$@)"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -766,7 +766,7 @@
     "accessibility_insights_shots_on_target_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
       "english": "Ranked %1$@ in shots on target per match (%2$@ shots)",
-      "value": "Rankad %1$@ i antal skott på mål per match (%2$@ mål)"
+      "value": "Rankad %1$@ i skott på mål per match (%2$@ skott)"
     },
     "accessibility_insights_team_ranking": {
       "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -909,7 +909,7 @@
     "accessibility_live_activity_added": {
       "comment": "Used in toast when activating a live activity",
       "english": "Live match added to your lock screen",
-      "value": "Direktsänd match har lagts till på låsskärmen"
+      "value": "Live-match har lagts till på din låsskärm"
     },
     "accessibility_live_activity_alert_message": {
       "comment": "Used as message on alert if user has not activated live activities",
@@ -919,7 +919,7 @@
     "accessibility_live_activity_alert_title": {
       "comment": "Used as title on alert if user has not activated live activities",
       "english": "Turn on live activities",
-      "value": "Slå på direktsända aktiviteter"
+      "value": "Slå på liveaktiviteter"
     },
     "accessibility_live_activity_max_exceeded": {
       "comment": "Toggle label which explains you have exceeed the number of teams we allow to have their matches pinned to the lock screen as Live Activities. Translate pinned as \"shown\" if pinned sounds strange.",
@@ -934,7 +934,7 @@
     "accessibility_live_activity_removed": {
       "comment": "Used in toast when removing a live activity",
       "english": "Live match removed from lock screen",
-      "value": "Direktsänd match borttagen från låsskärmen"
+      "value": "Live-matchen har tagits bort från låsskärmen"
     },
     "accessibility_live_activity_tooltip": {
       "comment": "Used in onboarding of live activities on tooltip",
@@ -1158,7 +1158,7 @@
     "accessibility_myleaguespage_points_calculation": {
       "comment": "Label on button to bring up dialog with explanation of how the points are caluclated",
       "english": "Points calculation",
-      "value": "Poänberäkning"
+      "value": "Poängberäkning"
     },
     "accessibility_myleaguespage_position_players": {
       "comment": "Position as in the users rank in a league. Players as in number of players in that league.",
@@ -1173,7 +1173,7 @@
     "accessibility_new_match_experience_body": {
       "comment": "The body-text for the new-match-facts onboarding.",
       "english": "It is now easier to navigate, and we’ve put key info into the main tab.",
-      "value": "Nu är det enklare att navigera och vi har lagt in mer information i huvudfliken."
+      "value": "Nu är det enklare att navigera och vi har lagt in viktig information i huvudfliken."
     },
     "accessibility_new_match_experience_header": {
       "comment": "The header for the new match-facts onboarding.",
@@ -1293,7 +1293,7 @@
     "accessibility_onboarding_follow_leagues_description_line_1": {
       "comment": "Onboarding text for a new user.",
       "english": "We’ve made it easier to see the leagues you want.",
-      "value": "Vi har gjort det enklare för dig att endast se önskade ligor."
+      "value": "Vi har gjort det enklare att se de ligor du vill se."
     },
     "accessibility_onboarding_follow_leagues_description_line_2": {
       "comment": "Onboarding text for a new user. Placeholder is the name of the first tab in the UI. It is called \"Matches\" in English.",
@@ -1358,7 +1358,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Följ lag för att prioritera dem överallt i appen."
+      "value": "Följ lag för att få notiser när de spelar och gör mål."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1460,7 +1460,7 @@
     "accessibility_penalty_conversion_rate": {
       "comment": "Label used in stats for penalty conversion rate (penalty goals/total penalties)",
       "english": "Conversion rate",
-      "value": "Straffmål per straffar"
+      "value": "Konverteringsgrad"
     },
     "accessibility_penalty_goals_conceded": {
       "comment": "Label used in stats for penalty goals conceded",
@@ -1516,7 +1516,7 @@
     "accessibility_playing_today_no_ranked_leagues": {
       "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
       "english": "%@ other competitions play today",
-      "value": "%@ andra ligor pågår idag"
+      "value": "%@ andra tävlingar spelas idag"
     },
     "accessibility_playing_today_ranked_leagues": {
       "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
@@ -1625,7 +1625,7 @@
     "accessibility_redeem_it_here": {
       "comment": "Subheader for redeem code view",
       "english": "Redeem it here",
-      "value": "Lös in den här"
+      "value": "Lös in här"
     },
     "accessibility_regular_play": {
       "comment": "A shot setup description. Goal was scored from a normal play. So it wasn't part of a corner, free kick, counter-attack or throw-in.",
@@ -1703,7 +1703,7 @@
     "accessibility_second_extra_time_half_short": {
       "comment": "Used for second extra time half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
       "english": "2nd ET",
-      "value": "2:a FH"
+      "value": "2:a FV"
     },
     "accessibility_second_half_short": {
       "comment": "Used for second half short name in matchfacts. Must be as short as possible as it's a button title for pretty small toggle buttons",
@@ -1770,7 +1770,7 @@
     },
     "accessibility_sharepredictionspopup_title": {
       "english": "Share your predictions <1/> With your friends!",
-      "value": "Dela dina tips </1> med vänner!"
+      "value": "Dela dina tips <1/> med dina vänner!"
     },
     "accessibility_shooting": {
       "comment": "A section header for shooting stats for a football player. Below are things like Goals, xG, xGOT, Shots.",
@@ -1800,7 +1800,7 @@
     "accessibility_shot_conversion_rate": {
       "comment": "Label used in stats for shot conversion rate (goals/total scoring attempts)",
       "english": "Shot conversion rate",
-      "value": "Skott per mål"
+      "value": "Skottkonverteringsgrad"
     },
     "accessibility_shot_map": {
       "comment": "A label in the player details stats showing a graphic representation of all the shots on goal in the match.",
@@ -1935,7 +1935,7 @@
     "accessibility_stats_comparison_fullbacks": {
       "comment": "A description highlighting that a player's stat is benchmarked against other fullbacks. Fullback is a term for players taking on any variation of left or right back roles.",
       "english": "Stats compared to other fullbacks",
-      "value": "Statistik jämfört med andra försvarsspelare"
+      "value": "Statistik jämfört med andra ytterbackar"
     },
     "accessibility_stats_comparison_keepers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other keepers.",
@@ -2202,7 +2202,7 @@
     "accessibility_template_65": {
       "comment": "Summer olympics for women",
       "english": "Summer Olympics Women",
-      "value": "Olympiska spelen i damfotboll"
+      "value": "Sommar-OS (damer)"
     },
     "accessibility_template_66": {
       "comment": "Summer olympics tournament",
@@ -2472,7 +2472,7 @@
     },
     "common_Offsides": {
       "english": "Offsides",
-      "value": "Offsides"
+      "value": "Offside"
     },
     "common_ShotsOffTarget": {
       "english": "Shots off target",
@@ -2484,7 +2484,7 @@
     },
     "common_aborted": {
       "english": "Abandoned",
-      "value": "Borttagen"
+      "value": "Avbruten"
     },
     "common_aborted_short": {
       "english": "Ab",
@@ -2492,12 +2492,12 @@
     },
     "common_access_calendar_needed": {
       "english": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar",
-      "value": "Du måste ge FotMob tillgång till Kalendern för att kunna matcha med kalendern"
+      "value": "Du måste ge FotMob tillgång till Kalendern för att kunna lägga till matcher i kalendern"
     },
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
       "english": "Accurate crosses",
-      "value": "Precisa crossbollar"
+      "value": "Lyckade inlägg"
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
@@ -2517,11 +2517,11 @@
     },
     "common_action_settings": {
       "english": "Settings",
-      "value": "Settings"
+      "value": "Inställningar"
     },
     "common_add_favorite": {
       "english": "Add favorite",
-      "value": "Välj favorit"
+      "value": "Lägg till favorit"
     },
     "common_add_favorite_desc": {
       "english": "Tap + to add a favorite team",
@@ -2530,7 +2530,7 @@
     "common_add_favorites_news_hint": {
       "comment": "A hint for the user to add more favorites to get more news sources in the News page. Make sure that \"Add news\" part is inside <b>..</b> tags. Also, add linebreak (\\n) roughly in the middle of the comment",
       "english": "<b>Get news</b> for your \\nfavorite teams.",
-      "value": "<b>Lägg till nyheter</b> för dina\\nfavoritlag"
+      "value": "<b>Få nyheter</b> för dina \\nfavoritlag."
     },
     "common_add_leagues": {
       "english": "Add leagues",
@@ -2707,7 +2707,7 @@
     },
     "common_autoplay_always": {
       "english": "Mobile data & Wi-Fi",
-      "value": "Endast med mobildata eller vid anslutning till Wi-Fi-nätverk"
+      "value": "Mobildata och Wi‑Fi"
     },
     "common_autoplay_wifi": {
       "english": "Wi-FI only",
@@ -2755,7 +2755,7 @@
     },
     "common_betting": {
       "english": "Odds",
-      "value": "Betting"
+      "value": "Odds"
     },
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
@@ -2770,7 +2770,7 @@
     "common_biggest_win": {
       "comment": "The biggest match win for a team in a given season.",
       "english": "Biggest win",
-      "value": "Främsta vinst"
+      "value": "Största vinst"
     },
     "common_bolivia": {
       "english": "Bolivia",
@@ -2788,7 +2788,7 @@
     "common_bracket_draw_info_legend": {
       "comment": "Bracket draw explanation",
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
-      "value": "Placeringar i turneringsschemat baseras på live-resultat och är inte slutgiltiga förrän den aktuella omgången är avslutad.\\n\\nLag separerade med “or” kommer att placeras tillsammans i en lottning och kan inte möta varandra i den omgången."
+      "value": "Placeringar i turneringsschemat baseras på live-resultat och är inte slutgiltiga förrän den aktuella omgången är avslutad.\\n\\nLag separerade med “eller” kommer att placeras tillsammans i en lottning och kan inte möta varandra i den omgången."
     },
     "common_bronze_supporter": {
       "english": "Bronze supporter",
@@ -2797,7 +2797,7 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "Twitter är inte tillgängligt"
+      "value": "X är inte tillgängligt"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
@@ -2902,7 +2902,7 @@
     },
     "common_change_rss": {
       "english": "Change news feed",
-      "value": "Ändra feeds"
+      "value": "Ändra nyhetsflöde"
     },
     "common_change_sort": {
       "english": "Change sorting",
@@ -2919,7 +2919,7 @@
     },
     "common_choose_rss": {
       "english": "Select which news feed to display for the currently chosen league",
-      "value": "Välj vilken feed som ska visas för detta land"
+      "value": "Välj vilket nyhetsflöde som ska visas för den valda ligan"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -2977,7 +2977,7 @@
     "common_collapse_all_leagues": {
       "comment": "Menu item to hide all matches in all leagues by collapsing the leagues with matches into just a line with league name",
       "english": "Collapse all leagues",
-      "value": "Göm alla ligor"
+      "value": "Fäll ihop alla ligor"
     },
     "common_collapse_league": {
       "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
@@ -2998,11 +2998,11 @@
     },
     "common_commentary_feature_description4": {
       "english": "Feedback on commentaries are very welcome!",
-      "value": "Den här funktionen är gratis för en kort tid. Kommentarer i fältet uppskattas."
+      "value": "Feedback på kommenteringen uppskattas!"
     },
     "common_commentary_not_started": {
       "english": "The audio commentary starts about 5 minutes before the match. Please try again later.",
-      "value": "Ljuduppspelningen startar 5 innan matchstart. Var vänlig försök senare."
+      "value": "Ljudkommenteringen startar cirka 5 minuter före matchstart. Försök igen senare."
     },
     "common_commentary_window_title": {
       "english": "Live Commentary",
@@ -3020,7 +3020,7 @@
     "common_compare_player_explained": {
       "comment": "Explanation for a button that compares two players",
       "english": "You can click here to compare the current player against another player",
-      "value": "Du kan klicka här för att jämföra den befintliga spelaren med andra spelare"
+      "value": "Du kan klicka här för att jämföra den aktuella spelaren med en annan spelare"
     },
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
@@ -3114,7 +3114,7 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Alla data beräknas på statistik från Opta.</p><p>FotMobs spelarranking beräknas på mer än 100 individuella uppgifter per spelare per match.</p><p>En match i per-match-rankingen är vilken match som helst där deltagaren har varit inblandad även om han kom in på plan som avbytare de sista minuterna.</p><p>En spelare måste ha spelat minst 50 % av alla matcher för att vara med i rankingarna.</p>"
+      "value": "<p>Alla data beräknas på statistik från Opta.</p> <p>FotMobs spelarbetyg beräknas på mer än 100 individuella statistikvärden per spelare per match.</p> <p>En match räknas med i per match-betygen om spelaren har varit involverad, även om han kom in som avbytare de sista minuterna.</p> <p>En spelare måste ha spelat minst 50 % av alla matcher för att inkluderas i rankningarna.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
@@ -3193,12 +3193,12 @@
     "common_drawer_close": {
       "comment": "Closes the left navigation menu",
       "english": "Close navigation drawer",
-      "value": "Close navigation drawer"
+      "value": "Stäng navigeringspanelen"
     },
     "common_drawer_open": {
       "comment": "Opens the left navigation menu",
       "english": "Open navigation drawer",
-      "value": "Open navigation drawer"
+      "value": "Öppna navigeringsmenyn"
     },
     "common_drawn": {
       "english": "D",
@@ -3297,7 +3297,7 @@
     "common_empty_placeholder_no_transfers": {
       "comment": "Empty placeholder for when tranfers (for team or for league) are not available, but we expected there to be data.",
       "english": "Transfers not available",
-      "value": "Transfers inte tilgängliga"
+      "value": "Övergångar är inte tillgängliga"
     },
     "common_empty_placeholder_no_transfers_2": {
       "comment": "Empty state placeholder for the case of when we know there are no transfers. Typical usecase is that we have e.g. outgoing transfers for a club, but no incoming.",
@@ -3353,22 +3353,27 @@
     "common_errors_led_to_goal": {
       "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",
       "english": "Errors led to goal",
-      "value": "Fel ledda till mål"
+      "value": "Misstag som ledde till mål"
     },
-    "common_estimated_transfer_value_description": {
-      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calcualted. Don't translate \"(ETV)\"",
-      "english": "Estimated Transfer Value (ETV) is our best guess of what a player would be worth if they were sold right now.\\n\\nIt’s calculated using real transfer data and takes into consideration:\\n\\n• player performance\\n• their age and future potential\\n• how often and at what level they play their position\\n• the strength of their team and league\\n• how long their contract still runs\\n• recent development and similar factors\\n\\nWe focus on the player themselves, not rumours, or which club might buy them.\\n\\nThe value is updated regularly to reflect changes in the transfer market over time.",
-      "value": "Uppskattat övergångsvärde (ETV) är vår bästa uppskattning av vad en spelare skulle vara värd om de såldes just nu.\\n\\nDet beräknas med hjälp av verkliga övergångsdata och tar hänsyn till:\\n\\n• spelarens prestation\\n• deras ålder och framtida potential\\n• hur ofta och på vilken nivå de spelar sin position\\n• styrkan i deras lag och liga\\n• hur länge deras kontrakt fortfarande löper\\n• senaste utvecklingen och liknande faktorer\\n\\nVi fokuserar på spelaren själv, inte rykten eller vilken klubb som kanske köper dem.\\n\\nVärdet uppdateras regelbundet för att återspegla förändringar på övergångsmarknaden över tid."
+    "common_estimated_player_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
+      "english": "Estimated player value",
+      "value": "Uppskattat spelarvärde"
     },
-    "common_estimated_transfer_value_header": {
-      "comment": "A cell header for a Estimated transfer value graph. Showing the estimated transfer values for a player across his career",
+    "common_estimated_transfer_value": {
+      "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
       "value": "Uppskattat övergångsvärde"
     },
-    "common_estimated_transfer_value_subheader": {
-      "comment": "Subheader for the estimated transfer value cell. Providing a brief description about the meaning of estimated transfer value",
-      "english": "Likely value if sold now",
-      "value": "Trolig värde vid försäljning nu"
+    "common_estimated_transfer_value_description": {
+      "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
+      "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
+      "value": "Uppskattat övergångsvärde (ETV) är vår bästa uppskattning av vad en spelare skulle vara värd om de såldes idag.\\n\\nDet beräknas med hjälp av historiska övergångsdata och en rad prestations- och kontextfaktorer, inklusive:\\n\\n• spelarens prestation och utveckling\\n• ålder och framtida potential\\n• hur ofta och på vilken nivå de spelar\\n• position\\n• styrkan i laget och ligan\\n• återstående kontraktslängd\\n\\nETV fokuserar på spelaren själv, inte rykten eller vilken klubb som kanske köper dem.\\n\\nVärdet uppdateras regelbundet för att återspegla förändringar över tid."
+    },
+    "common_estimated_value": {
+      "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
+      "english": "Estimated value",
+      "value": "Uppskattat värde"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3434,12 +3439,12 @@
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "Insläppta mål"
+      "value": "Insläppta xG"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
       "english": "xG first extra half",
-      "value": "xG första förlängning"
+      "value": "xG första förlängningshalvlek"
     },
     "common_expected_goals_extra_second_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <second extra half translated>\"",
@@ -3459,7 +3464,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "Förväntade mål (xGOT)"
+      "value": "Förväntade mål på skott på mål (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3663,162 +3668,6 @@
       "english": "FT",
       "value": "FT"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "A player made a foul so the opposition team was awarded a penalty. Can also be translated as \"%1$@ was to blame for that %2$@ got a penalty\".",
-      "english": "%1$@ committed a foul leading to a penalty for %2$@.",
-      "value": "%1$@ gjorde att %2$@ fick en straffspark."
-    },
-    "common_fun_fact_fk_foul_won": {
-      "comment": "Ronaldo was the most fouled player in the match (12 times).",
-      "english": "%1$@ was the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ var den spelare som blev fälld mest i matchen (%2$@ gånger)."
-    },
-    "common_fun_fact_fk_foul_won_live": {
-      "comment": "Ronaldo is the most fouled player in the match (2 times).",
-      "english": "%1$@ is the most fouled player in the match (%2$@ times).",
-      "value": "%1$@ är den spelare som blev fälld mest i matchen (%2$@ gånger)."
-    },
-    "common_fun_fact_lost_duels": {
-      "comment": "Ronaldo lost the most duels (5) in the match.",
-      "english": "%1$@ lost the most duels (%2$@) in the match.",
-      "value": "%1$@ förlorade flest närkamper (%2$@) i matchen."
-    },
-    "common_fun_fact_lost_duels_live": {
-      "comment": "Ronaldo has lost the most duels (5) in the match.",
-      "english": "%1$@ has lost the most duels (%2$@) in the match.",
-      "value": "%1$@ förlorade flest närkamper (%2$@) i matchen."
-    },
-    "common_fun_fact_lost_possession": {
-      "comment": "Ronaldo lost possession the most times (7) in the match.",
-      "english": "%1$@ lost possession the most times (%2$@) in the match.",
-      "value": "%1$@ förlorade bollinnehav flest gånger (%2$@) i matchen."
-    },
-    "common_fun_fact_lost_possession_live": {
-      "comment": "Ronaldo has lost possession the most times (7) in the match.",
-      "english": "%1$@ has lost possession the most times in the match (%2$@).",
-      "value": "%1$@ förlorade bollinnehav flest gånger (%2$@) i matchen."
-    },
-    "common_fun_fact_low_touches": {
-      "comment": "Example: Ronaldo had the least touches (12) of any outfield player to play 90 minutes.",
-      "english": "%1$@ had the least touches (%2$@) of any outfield player to play 90 minutes.",
-      "value": "%1$@ had minst bollkontakt (%2$@) av alla utespelare som spelade 90 minuter."
-    },
-    "common_fun_fact_low_touches_live": {
-      "comment": "Example: Ronaldo has the least touches (2) of any outfield player.",
-      "english": "%1$@ has the least touches (%2$@) of any outfield player.",
-      "value": "%1$@ had minst bollkontakt (%2$@) av alla utespelare."
-    },
-    "common_fun_fact_made_mistake_led_to_goal": {
-      "comment": "Ronaldo made an error that led to a goal for Barcelona.",
-      "english": "%1$@ made an error that led to a goal for %2$@.",
-      "value": "%1$@ gjorde ett misstag som ledde till mål för %2$@."
-    },
-    "common_fun_fact_made_mistake_led_to_goal_plurals": {
-      "comment": "Example: Ronaldo made an error that led to a goal for Barcelona. See fun_fact_made_mistake_led_to_goal.",
-      "english_plurals": {
-        "one": "%1$@ made an error that led to a goal for %2$@.",
-        "other": "%1$@ made %3$d errors that led to goals for %2$@."
-      },
-      "plurals": {
-        "one": "%1$@ gjorde ett misstag som ledde till ett mål för %2$@.",
-        "other": "%1$@ gjorde %3$d misstag som ledde till mål för %2$@."
-      }
-    },
-    "common_fun_fact_most_dribbles": {
-      "comment": "Example: Ronaldo completed the most dribbles (2) in the match.",
-      "english": "%1$@ completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ gjorde flest finter (%2$@) i matchen."
-    },
-    "common_fun_fact_most_dribbles_live": {
-      "comment": "Example: Ronaldo has completed the most dribbles (2) in the match.",
-      "english": "%1$@ has completed the most dribbles (%2$@) in the match.",
-      "value": "%1$@ gjorde flest finter (%2$@) i matchen."
-    },
-    "common_fun_fact_most_key_passes_created": {
-      "comment": "Example: Ronaldo had the chances created (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ created the most chances (%2$@) in the match.",
-      "value": "%1$@ skapade flest chanser (%2$@) i matchen."
-    },
-    "common_fun_fact_most_key_passes_created_live": {
-      "comment": "Example: Ronaldo has created the most chances (2) in the match. This is a count of how many chances created a player has played that has created a scoring opportunity for another player.",
-      "english": "%1$@ has created the most chances (%2$@) in the match.",
-      "value": "%1$@ skapade flest chanser (%2$@) i matchen."
-    },
-    "common_fun_fact_most_passes": {
-      "comment": "Example: Ronaldo completed the most passes (123) in the match.",
-      "english": "%1$@ completed the most passes (%2$@) in the match.",
-      "value": "%1$@ gjorde flest passningar (%2$@) i matchen."
-    },
-    "common_fun_fact_most_passes_live": {
-      "comment": "Example: Ronaldo has completed the most passes (123) in the match.",
-      "english": "%1$@ has completed the most passes (%2$@) in the match.",
-      "value": "%1$@ har gjort flest passningar (%2$@) i matchen."
-    },
-    "common_fun_fact_most_tackles": {
-      "comment": "Example: Ronaldo had the most tackles in the match (4).",
-      "english": "%1$@ had the most tackles (%2$@) in the match.",
-      "value": "%1$@ har flest tacklingar (%2$@) i matchen."
-    },
-    "common_fun_fact_most_tackles_live": {
-      "comment": "Example: Ronaldo has the most tackles in the match (4).",
-      "english": "%1$@ has the most tackles (%2$@) in the match.",
-      "value": "%1$@ har flest tacklingar (%2$@) i matchen."
-    },
-    "common_fun_fact_motm": {
-      "comment": "Example: Ronaldo was Player of the Match with a rating of 8.5.",
-      "english": "%1$@ was Player of the Match with a rating of %2$@.",
-      "value": "%1$@ var matchens lirare med ett betyg på %2$@."
-    },
-    "common_fun_fact_motm_live": {
-      "comment": "Example: Ronaldo has the highest match rating with 8.5.",
-      "english": "%1$@ currently has the highest match rating with %2$@.",
-      "value": "%1$@ har just nu den högsta matchrankingen med %2$@."
-    },
-    "common_fun_fact_opp_box_touches": {
-      "comment": "Ronaldo had the most touches (12) in the opposition's box.",
-      "english": "%1$@ had the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ hade mest bollkontakt (%2$@) i motståndarens planhalva."
-    },
-    "common_fun_fact_opp_box_touches_live": {
-      "comment": "Ronaldo has the most touches (43) in the opposition's box.",
-      "english": "%1$@ has the most touches (%2$@) in the opposition's box.",
-      "value": "%1$@ hade mest bollkontakt (%2$@) på motståndarens planhalva."
-    },
-    "common_fun_fact_pass_completion": {
-      "comment": "Ronaldo was the most accurate passer (92%) to play 45 minutes or more.",
-      "english": "%1$@ was the most accurate passer (%2$@) to play 45 minutes or more.",
-      "value": "%1$@ var den spelare som gjorde flest lyckade passningar (%2$@) under minst 45 minuter."
-    },
-    "common_fun_fact_pass_completion_live": {
-      "comment": "Ronaldo is the most accurate passer (94%) in the match.",
-      "english": "%1$@ is the most accurate passer (%2$@) in the match.",
-      "value": "%1$@ är den spelare som gjort flest lyckade passningar (%2$@) i matchen."
-    },
-    "common_fun_fact_scored_own_goal": {
-      "comment": "Ronaldo scored an own goal.",
-      "english": "%1$@ scored an own goal.",
-      "value": "%1$@ gjorde självmål."
-    },
-    "common_fun_fact_won_duels": {
-      "comment": "Ronaldo won the most duels (5) in the match.",
-      "english": "%1$@ won the most duels (%2$@) in the match.",
-      "value": "%1$@ vann flest närkamper (%2$@) i matchen."
-    },
-    "common_fun_fact_won_duels_live": {
-      "comment": "Ronaldo has won the most duels (5) in the match.",
-      "english": "%1$@ has won the most duels (%2$@) in the match.",
-      "value": "%1$@ vann flest närkamper (%2$@) i matchen."
-    },
-    "common_fun_fact_woodwork": {
-      "comment": "Ronaldo hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ träffade ribban eller stolpen %2$@ gånger på %3$@ skott."
-    },
-    "common_fun_fact_woodwork_live": {
-      "comment": "Ronaldo has hit the woodwork 7 times in 12 total shots.",
-      "english": "%1$@ has hit the woodwork %2$@ times in %3$@ total shots.",
-      "value": "%1$@ träffade ribban eller stolpen %2$@ gånger på %3$@ skott."
-    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "GENERAL"
@@ -3936,8 +3785,9 @@
       "value": "Guld supporter"
     },
     "common_goldengoal": {
+      "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
-      "value": "Golden goal"
+      "value": "Golden Goal"
     },
     "common_good_form_both": {
       "english": "%1$@ have won their last %3$@ matches and %2$@ their last %4$@ matches.",
@@ -3985,7 +3835,7 @@
     },
     "common_h2h_not_lost_home_not_won_away": {
       "english": "%1$@ haven't lost at home their last %3$@ matches (%5$@W, %6$@D). %2$@ haven't won an away match in %4$@ matches (%7$@D, %8$@L).",
-      "value": "%1$@ har inte spelat hemma under sina senaste %3$@ matcher (%5$@W, %6$@D). %2$@ har inte vunnit någon bortamatch på %4$@ matcher (%7$@D, %8$@L)."
+      "value": "%1$@ har inte förlorat hemma i sina senaste %3$@ matcher (%5$@W, %6$@D). %2$@ har inte vunnit någon bortamatch på %4$@ matcher (%7$@D, %8$@L)."
     },
     "common_h2h_not_won_home_not_lost_away": {
       "english": "%1$@ haven't won at home their last %3$@ matches (%5$@D, %6$@L). %2$@ haven't lost an away match in %4$@ matches (%7$@W, %8$@D).",
@@ -4012,6 +3862,11 @@
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
       "english": "Hide %@ news",
       "value": "Göm nyheter om %@"
+    },
+    "common_highest": {
+      "comment": "Label about the highest value a player has been sold for - should be very brief just saying highest in the localized language",
+      "english": "Highest",
+      "value": "Högsta"
     },
     "common_highlight": {
       "comment": "An important event in the match. Typically a big chance to score a goal.",
@@ -4058,7 +3913,7 @@
     },
     "common_ignore": {
       "english": "Ignore",
-      "value": "Avböj"
+      "value": "Ignorera"
     },
     "common_imperial_system": {
       "comment": "A setting to toggle the measurement system to imperial (feet/inches) instead of metric (cm/kg)",
@@ -4072,7 +3927,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "Gå med i FotMobs supporterklubb för att slippa reklam. På så sätt får du en snabbare och distraktionsfri FotMob. Ert stöd hjälper oss att kunna fortsätta göra FotMob bättre. Tack för ert stöd!"
+      "value": "Gå med i FotMobs supporterklubb för att ta bort de annonser vi kan kontrollera och få en snabbare och distraktionsfri FotMob. Ditt stöd hjälper oss att fortsätta kunna göra FotMob bättre. Observera att om du klickar på en nyhetsartikel från en tredje part kan vi inte kontrollera vilka annonser som visas på deras webbplats. Tack för ditt stöd!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4095,7 +3950,7 @@
     },
     "common_injuries": {
       "english": "Injuries",
-      "value": "Skadad"
+      "value": "Skador"
     },
     "common_injury_134": {
       "comment": "The club has decided the player can't play as a disciplinary action",
@@ -4150,7 +4005,7 @@
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
       "english": "High claim",
-      "value": "Inläggsräddningar"
+      "value": "Plockade höga bollar"
     },
     "common_keeper_long": {
       "english": "Keeper",
@@ -4215,7 +4070,7 @@
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
-      "value": "Tackling av främsta anfallare"
+      "value": "Sista man-tackling"
     },
     "common_last_poll_failed": {
       "english": "Last poll failed. Retrying at",
@@ -4243,7 +4098,7 @@
     "common_latest_news_content_description": {
       "comment": "Text used as contentDescription for a Siri suggestion",
       "english": "Get up to date on the latest news, transfers and rumors!",
-      "value": "Håll dig uppdaterad om de senaste nyheterna, transfers och ryktena!"
+      "value": "Håll dig uppdaterad om de senaste nyheterna, övergångarna och ryktena!"
     },
     "common_latest_news_suggested_invocation": {
       "comment": "This is what we suggest the user to use as a voice command to summon latest news for a specific team.",
@@ -4258,7 +4113,7 @@
     "common_latest_transfers": {
       "comment": "Header for list of latest transfers",
       "english": "Latest transfers",
-      "value": "Senaste transfers"
+      "value": "Senaste övergångarna"
     },
     "common_latest_worldnews": {
       "english": "Latest",
@@ -4270,7 +4125,7 @@
     },
     "common_league_has_notifications": {
       "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "The league has enabled notifications, you must turn off alerts via the Filter menu in live window"
+      "value": "Ligan har aktiverat notiser. Du måste stänga av notiserna via filtermenyn på fliken Matcher."
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4376,7 +4231,7 @@
     },
     "common_log_me_in": {
       "english": "Log me in",
-      "value": "Logga in mig"
+      "value": "Logga in"
     },
     "common_lost": {
       "english": "L",
@@ -4393,7 +4248,7 @@
     "common_ltc_not_found": {
       "comment": "Empty placeholder if there's no live-comments available",
       "english": "Live commentary not available",
-      "value": "Live-kommentatorer är inte tillgängliga"
+      "value": "Live-kommentarer är inte tillgängliga"
     },
     "common_man_of_the_match": {
       "comment": "A title indicating that this player was the best player.",
@@ -4571,7 +4426,7 @@
     },
     "common_network_connection_issues_notification_ios": {
       "english": "It looks like we have problems fetching new data. %@",
-      "value": "Det verkar som att vi har problem med att hitta nya data. %@"
+      "value": "Det verkar som att vi har problem med att hämta ny data. %@"
     },
     "common_never": {
       "english": "Never",
@@ -4663,12 +4518,12 @@
     },
     "common_no_team_info": {
       "english": "Sorry, we do not have any info on this team",
-      "value": "Sorry, we don't have any info on this team"
+      "value": "Tyvärr har vi ingen information om det här laget"
     },
     "common_no_top_assists": {
       "comment": "Empty placeholder for the case of empty top-assists",
       "english": "No top assists available",
-      "value": "Det finns inga bästa assister"
+      "value": "Inga assistledare finns"
     },
     "common_no_top_scorers": {
       "comment": "Empty placeholder for the case of empty top-scorers",
@@ -4682,11 +4537,11 @@
     },
     "common_no_tv_selected": {
       "english": "No TV schedules",
-      "value": "No TV schedules"
+      "value": "Inga TV-tablåer"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
-      "value": "Du har inte aktiverat aviseringar från FotMob. Ändra detta i inställningarna om du vill ha aviseringar."
+      "value": "Du har inte aktiverat notiser från FotMob. Ändra detta i inställningarna om du vill ha notiser."
     },
     "common_not_favorites": {
       "english": "Not favorites",
@@ -4789,7 +4644,7 @@
     },
     "common_onboarding_fantasy_scores": {
       "english": "Tap this to see official fantasy points! (Only available in certain leagues)",
-      "value": "Klicka detta för att se officiella fantasipoäng! (Finns endast på vissa språk)"
+      "value": "Tryck här för att se officiella fantasipoäng! (Endast tillgängligt i vissa ligor)"
     },
     "common_onboarding_favorites": {
       "comment": "Welcome message that informs users that they can see all their favorite players and teams in this part of the app",
@@ -4799,7 +4654,7 @@
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
       "english": "Follow %@ and get updates from your favorite teams and players.",
-      "value": "Följ dina favoritlag- och spelare i  %@ så att du inte missar någonting."
+      "value": "Följ %@ och få uppdateringar om dina favoritlag och spelare."
     },
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
@@ -4809,7 +4664,7 @@
     "common_onboarding_news_content": {
       "comment": "A full description of the onboarding popup, which explains that we've just released a new news page",
       "english": "A more personalized news feed, official highlights, and more.",
-      "value": "Ett per personligt nyhetsflöde, officiella höjdpunkter och mer."
+      "value": "Ett mer personanpassat nyhetsflöde, officiella höjdpunkter och mer."
     },
     "common_onboarding_news_title": {
       "comment": "A title in the onboarding popup, which explains that we've just released a new news page",
@@ -4839,7 +4694,7 @@
     "common_onboarding_team_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
-      "value": "Söktermer"
+      "value": "Sök lag"
     },
     "common_onboarding_world_cup_card_calltoaction": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
@@ -4923,12 +4778,13 @@
       "value": "Paraguay"
     },
     "common_pause": {
+      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
       "english": "Pause",
       "value": "Halvtid"
     },
     "common_pause_match": {
       "english": "Half time",
-      "value": "Half time"
+      "value": "Halvtid"
     },
     "common_pauseextratime": {
       "english": "Pause extra time",
@@ -4937,7 +4793,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "Räddade straffar"
+      "value": "Straffar emot"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -4960,6 +4816,7 @@
       "value": "Totalt antal matcher"
     },
     "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
       "value": "Orsakade straffar"
     },
@@ -5053,7 +4910,7 @@
     "common_players_out": {
       "comment": "In the Team page, this is a header indicating which players have transferred away from the team",
       "english": "Players out",
-      "value": "Spelare ut"
+      "value": "Spelare som lämnat"
     },
     "common_players_to_follow": {
       "comment": "Favorite players picker in the WC2018 onboarding",
@@ -5100,12 +4957,12 @@
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Bollinnehav på sista tredjedelen av planen"
+      "value": "Vunna bollinnehav på sista tredjedelen"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Innehav på sista tredjedelen av planen"
+      "value": "Bollvinster i offensiv tredjedel per match"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5193,11 +5050,11 @@
     },
     "common_promotionqual": {
       "english": "Promotion qualification",
-      "value": "Kvalmatch"
+      "value": "Uppflyttningskval"
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
-      "value": "Push notifieringar är aktiverat"
+      "value": "Pushnotiser har registrerats"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5289,7 +5146,7 @@
     },
     "common_resync": {
       "english": "Re-sync purchases",
-      "value": "Synkade inköp"
+      "value": "Synkronisera köp igen"
     },
     "common_resync_desc": {
       "english": "If you have previously bought gold or silver, click here",
@@ -5342,7 +5199,7 @@
     },
     "common_round_fmt": {
       "english": "Round %@",
-      "value": "Round %@"
+      "value": "Omgång %@"
     },
     "common_roundof32": {
       "comment": "Label indicating it is the round of 32. 32 teams are left in the tournament. Round of 32 is the same as 16th-finals",
@@ -5597,10 +5454,12 @@
       "value": "Silver supporter"
     },
     "common_silvergoal1": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Silver goal"
     },
     "common_silvergoal2": {
+      "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
       "value": "Silver goal"
     },
@@ -5722,7 +5581,7 @@
     "common_supporter_club_pitch_2": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
       "english": "• Exclusive Supporters Club app icons.",
-      "value": "• Exklusiv supporterklubb och appikoner."
+      "value": "• Exklusiva appikoner för Supporterklubben."
     },
     "common_supporter_club_pitch_3": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
@@ -5758,7 +5617,7 @@
     },
     "common_t30_seconds": {
       "english": "30 seconds",
-      "value": "30 seconds"
+      "value": "30 sekunder"
     },
     "common_t3_minutes": {
       "english": "3 minute",
@@ -5826,7 +5685,7 @@
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "One of the team has enabled alerts, you must turn off alerts via the team page"
+      "value": "Ett av lagen har aktiverat notiser. Du måste stänga av notiserna via lagsidan."
     },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
@@ -5873,7 +5732,7 @@
     "common_thank_you_for_being_a_member": {
       "comment": "A body for the Thank-you-for-supporting-us popup",
       "english": "Thank you from all of us at FotMob for being a member.",
-      "value": "Tack till dig från alla på FotMo för att du är medlem."
+      "value": "Tack från oss alla på FotMob för att du är medlem."
     },
     "common_theme": {
       "comment": "Asks users to choose a Theme for the app. The Theme can either be \"Dark\" or \"Light\"",
@@ -5938,7 +5797,7 @@
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
-      "value": "TV schedules"
+      "value": "TV-tablåer"
     },
     "common_to": {
       "comment": "A label indicating which club the player has transferred to. If Messi joins Manchester United it would read \"To <logo of club> Manchester United\"",
@@ -5956,11 +5815,11 @@
     },
     "common_toggle_favorite": {
       "english": "Set or unset as favorite",
-      "value": "Set or unset as favorite"
+      "value": "Markera eller avmarkera som favorit"
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
-      "value": "Toggle notifications"
+      "value": "Slå av/på notiser"
     },
     "common_tomorrow": {
       "english": "Tomorrow",
@@ -6057,7 +5916,7 @@
     },
     "common_transfer_enable_all": {
       "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Vill du få anpassade transfersmeddelanden om dina favoritlag- och ligor?"
+      "value": "Vill du få anpassade transfernotiser för dina favoritlag och ligor?"
     },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
@@ -6090,9 +5949,9 @@
       "value": "Summa"
     },
     "common_transfer_value": {
-      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum.",
-      "english": "Market value",
-      "value": "Marknadsvärde"
+      "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
+      "english": "Transfer value",
+      "value": "Övergångsvärde"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6105,11 +5964,11 @@
     },
     "common_turn_off_favorite_league_pling": {
       "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Du måste slå av notifieringar för ditt favoritlag (long-press på favoritlagets överdel) för att kunna ändra status på denna match"
+      "value": "Du måste stänga av notiser för favoritlag (håll in rubriken \"Favoritlag\") för att kunna ändra notiser för den här matchen"
     },
     "common_tv_prompt": {
       "english": "TV Listing",
-      "value": "TV Listing"
+      "value": "TV-tablå"
     },
     "common_tv_schedules_change": {
       "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
@@ -6127,7 +5986,7 @@
     },
     "common_tv_selected_germany": {
       "english": "TV schedules - Germany",
-      "value": "TV-tablåer - Germany"
+      "value": "TV-tablåer - Tyskland"
     },
     "common_tv_selected_norway": {
       "english": "TV schedules - Norway",
@@ -6152,7 +6011,7 @@
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",
-      "value": "Tvåbenta matcher"
+      "value": "Dubbelmöte"
     },
     "common_undefeated_both_equal": {
       "english": "%1$@ and %2$@ haven't lost their %3$@ last games.",
@@ -6173,15 +6032,15 @@
     },
     "common_unlock_premium": {
       "english": "Unlock premium",
-      "value": "Unlock premium"
+      "value": "Lås upp Premium"
     },
     "common_unregistered_push": {
       "english": "Successfully unregistered for push notifications",
-      "value": "Push notifieringar är av-aktiverat"
+      "value": "Du har avregistrerats från pushnotiser"
     },
     "common_unstar": {
       "english": "Unfollow %@",
-      "value": "Ta bort %@"
+      "value": "Sluta följa %@"
     },
     "common_unstar_league": {
       "english": "Remove from favorites",
@@ -6212,12 +6071,12 @@
     "common_var_card_changed_to_red": {
       "comment": "Due to Video Assistant Referee, the referee changed the card to a red card from a yellow card (or from no card at all)",
       "english": "Card changed to red",
-      "value": "Kort ska ändras till rött"
+      "value": "Kortet ändrades till rött"
     },
     "common_var_card_changed_to_yellow": {
       "comment": "Due to Video Assistant Referee, the referee changed the card to a yellow card from a red card",
       "english": "Red card changed to yellow",
-      "value": "Rött kort ska ändras till gult"
+      "value": "Rött kort ändrades till gult"
     },
     "common_var_goal_cancelled": {
       "comment": "Goal was cancelled due to Video Assistant referee. We will show a VAR icon besides this label so keep it translated as \"Goal ruled out\" or \"Goal cancelled\".",
@@ -6324,7 +6183,7 @@
     "common_widget_empty_text": {
       "comment": "Widget strings",
       "english": "No starred matches or matches with alerts today",
-      "value": "Inga matcher idag"
+      "value": "Inga stjärnmärkta matcher eller matcher med notiser idag"
     },
     "common_widget_title": {
       "english": "FotMob",
@@ -6360,7 +6219,7 @@
     },
     "common_won_tackle_team_subtitle": {
       "english": "Tackle success",
-      "value": "Tackling lyckad"
+      "value": "Lyckade tacklingar"
     },
     "common_won_tackle_team_title": {
       "english": "Successful tackles per match",
@@ -6394,7 +6253,7 @@
     },
     "common_worldnews": {
       "english": "World news",
-      "value": "World news"
+      "value": "Världsnyheter"
     },
     "common_years": {
       "english": "years",
@@ -6419,7 +6278,7 @@
     },
     "common_you_are_a": {
       "english": "You are a %@!",
-      "value": "You are a %@!"
+      "value": "Du är en %@!"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
@@ -6634,7 +6493,7 @@
     "ios_push_sent": {
       "comment": "Text that appears after the user has requested a test score message",
       "english": "Alert should arrive soon.",
-      "value": "Du kommer att motta ett meddelande snart"
+      "value": "Notisen bör komma snart."
     },
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
@@ -6758,7 +6617,7 @@
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
-      "value": "Ändra"
+      "value": "Ändra notiser"
     },
     "new_enable_custom_sounds": {
       "comment": "In notification sounds settings, toggle button for turning custom notification sounds on and off",
@@ -6772,16 +6631,16 @@
     "new_explanation": {
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
-      "value": "Vi skickar 1-2 notiser per dag för lagen nedan. Aktivera nyhetsnotiser för att hålla dig uppdaterad."
+      "value": "Vi skickar handplockade nyhetsnotiser för lagen nedan. Tryck på OK för att aktivera nyhetsnotiser och hålla dig uppdaterad."
     },
     "new_favorite_summary": {
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
-      "value": "Granska dina favoritlag och välj meddelandetyper"
+      "value": "Granska dina favoritlag och ställ in notiser"
     },
     "new_featured_videos": {
       "english": "Featured videos",
-      "value": "Senaste videor"
+      "value": "Utvalda videor"
     },
     "new_finalTournament": {
       "english": "Final",
@@ -6828,7 +6687,7 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "Du måste prova denna app, den är utmärkt för att följa Premier League ++."
+      "value": "Jag använder appen för att få liveresultat i fotboll. Kolla in den!"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
@@ -6852,7 +6711,7 @@
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
       "english": "Match alerts",
-      "value": "Matcha meddelanden"
+      "value": "Matchnotiser"
     },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
@@ -7023,7 +6882,7 @@
     "new_set_alerts": {
       "comment": "Dialog title indicating that the user can set team alerts in this dialog",
       "english": "Set notifications",
-      "value": "Ange varningsmeddelanden"
+      "value": "Ställ in notiser"
     },
     "new_set_favorite_team": {
       "english": "Set favorite team",
@@ -7060,7 +6919,7 @@
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
       "english": "Standings",
-      "value": "Ställningar"
+      "value": "Tabell"
     },
     "new_start_and_finish": {
       "comment": "Indicates that the user wants alerts for the start and end of the match",
@@ -7108,7 +6967,7 @@
     },
     "new_transfers": {
       "english": "Transfers",
-      "value": "Transfers"
+      "value": "Övergångar"
     },
     "new_username": {
       "english": "Username",
@@ -7171,7 +7030,7 @@
     "notifications_add_favorite_desc_ipad": {
       "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
       "english": "Tap + to add a favorite team or player",
-      "value": "Klicka på + för att lägga till ett favoritlag- eller spelare"
+      "value": "Tryck på + för att lägga till ett favoritlag eller en favoritspelare"
     },
     "notifications_add_widget": {
       "comment": "Call to action button for user adding widget to home screen.",
@@ -7211,7 +7070,7 @@
     },
     "notifications_alert_AfterExtraTime": {
       "english": "%@ %@-%@ %@\\nFinished after extra time",
-      "value": "%@ %@-%@ %@\\nAvgjord efter förlängningstid"
+      "value": "%@ %@-%@ %@\\nSlut efter förlängning"
     },
     "notifications_alert_AfterPenalties": {
       "english": "%@ %@-%@ %@\\nFinished after penalties",
@@ -7267,7 +7126,7 @@
     },
     "notifications_alert_assist": {
       "english": "%@ %@-%@ %@\\n%@%@ got an assist",
-      "value": "%@ %@-%@ %@\\n%@%@ fick en assist för ett mål"
+      "value": "%@ %@-%@ %@\\n%@%@ fick en assist"
     },
     "notifications_alert_assist_removed": {
       "english": "%@ %@-%@ %@\\nCorrection: %@%@ didn't get an assist",
@@ -7331,7 +7190,7 @@
     },
     "notifications_alert_rating": {
       "english": "%@ %@-%@ %@\\n%@%@ got a rating of %@",
-      "value": "%@ %@-%@ %@\\n%@%@ fick %@ i betyg"
+      "value": "%@ %@-%@ %@\\n%@%@ fick betyget %@"
     },
     "notifications_alert_rating_man_of_the_match": {
       "english": "%@ %@-%@ %@\\n🔥 %@%@ got a rating of %@ and was Player of the Match!",
@@ -7379,7 +7238,7 @@
     "notifications_app_update_message": {
       "comment": "Short message telling user that app an be updated",
       "english": "An app update is ready for install.",
-      "value": "Det finns en app redo att installeras."
+      "value": "En appuppdatering är redo att installeras."
     },
     "notifications_app_widget_description": {
       "comment": "A tip telling user that the widget can be resized.",
@@ -7403,7 +7262,7 @@
     "notifications_at_least_one": {
       "comment": "An error message informing user that he has to pick at least one of the alert options (goals, penalties, half time ++)",
       "english": "You must select at least one alert",
-      "value": "Du måste välja minst ett meddelande"
+      "value": "Du måste välja minst en notis"
     },
     "notifications_attack": {
       "english": "Attack",
@@ -7456,7 +7315,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Stor chans skapad"
+      "value": "Stora chanser skapade"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -7471,12 +7330,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Missade en bra chans"
+      "value": "Stora chanser missade"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Missade en bra chans"
+      "value": "Stora målchanser missade"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -7538,7 +7397,7 @@
     "notifications_confirmed_transfer_news": {
       "comment": "Label indicating it applies to confirmed transfers only",
       "english": "Confirmed transfers",
-      "value": "Bekräftade transfernyheter"
+      "value": "Bekräftade övergångar"
     },
     "notifications_croatia": {
       "english": "Croatia",
@@ -7573,7 +7432,7 @@
     },
     "notifications_date_picker_onboarding": {
       "english": "Tap the calendar at any time to view additional dates.",
-      "value": "Du kan när som helst klicka på kalenderikonen för att välja en dag långt in i framtiden eller en som redan är förbi."
+      "value": "Tryck på kalendern när som helst för att se fler datum."
     },
     "notifications_days_until_match_start": {
       "english": "%@ days",
@@ -7614,7 +7473,7 @@
     "notifications_distribution": {
       "comment": "Header for stats regarding passes, long balls, crosses and chances created in the match",
       "english": "Distribution",
-      "value": "Distribution"
+      "value": "Fördelning"
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
@@ -7655,7 +7514,7 @@
     "notifications_enable_breaking_news": {
       "comment": "User can enable breaking news alerts",
       "english": "Enable breaking news",
-      "value": "Aktivera senate nytt"
+      "value": "Aktivera senaste nytt"
     },
     "notifications_enable_breaking_news_desc": {
       "comment": "User can enable breaking news alerts",
@@ -7675,12 +7534,12 @@
     "notifications_enable_transfer_news_desc": {
       "comment": "User can enable transfer news alerts",
       "english": "Get notifications for top transfer news",
-      "value": "Få nyhetsaviseringar om spelare som blivit överförda"
+      "value": "Få notiser om de största transfernyheterna"
     },
     "notifications_error_led_to_goal": {
       "comment": "A label for one single error a player has made that resulted in a goal for the opposition",
       "english": "Error led to goal",
-      "value": "Fel ledda till mål"
+      "value": "Fel ledde till mål"
     },
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
@@ -7704,7 +7563,7 @@
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
       "english": "Unable toggle favorite. Please try again later.",
-      "value": "Kunde inte gå till favorit. Försök igen senare."
+      "value": "Kunde inte ändra favorit. Försök igen senare"
     },
     "notifications_estonia": {
       "english": "Estonia",
@@ -7742,20 +7601,20 @@
     "notifications_expected_return_date_doubtful": {
       "comment": "Expected return for a player after injury or similar",
       "english": "Doubtful",
-      "value": "Okänt"
+      "value": "Tveksam"
     },
     "notifications_expected_return_date_early": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
       "english": "Early %1$@",
       "value": "Tidigt i %1$@"
     },
     "notifications_expected_return_date_late": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Late\" means \"end of\" (a time period), e.g. \"Late January\"",
       "english": "Late %1$@",
       "value": "Sent i %1$@"
     },
     "notifications_expected_return_date_mid": {
-      "comment": "Expected return for a player after injury or similar. Parameter in will be month + year.",
+      "comment": "Expected return for a player after injury. \"Mid\" means \"middle of\" (a time period), e.g. \"Mid January\"",
       "english": "Mid %1$@",
       "value": "Mitten av %1$@"
     },
@@ -7784,7 +7643,7 @@
     },
     "notifications_filter_tournaments_help_text": {
       "english": "Select which leagues to display in Matches tab",
-      "value": "Välj vilka turneringar som ska visas på live-skärmen"
+      "value": "Välj vilka ligor som ska visas på fliken Matcher"
     },
     "notifications_finland": {
       "english": "Finland",
@@ -7840,7 +7699,7 @@
     "notifications_goals_inside_box": {
       "comment": "Goals scored inside the penalty area",
       "english": "Goals inside box",
-      "value": "Mål i straffområdeet"
+      "value": "Mål i straffområdet"
     },
     "notifications_goals_leftFootedGoals": {
       "comment": "Goals scored with left foot",
@@ -7996,7 +7855,7 @@
     },
     "notifications_injury_114": {
       "english": "Gastrointestinal discomfort",
-      "value": "Magsjuka"
+      "value": "Mag- och tarmbesvär"
     },
     "notifications_injury_115": {
       "english": "Strain injury",
@@ -8044,7 +7903,7 @@
     },
     "notifications_injury_125": {
       "english": "Spinal cord injury",
-      "value": "Ryggradsskada"
+      "value": "Ryggmärgsskada"
     },
     "notifications_injury_126": {
       "english": "Bruised ankle",
@@ -8349,7 +8208,7 @@
     "notifications_international_duty": {
       "comment": "Describing a player away from a match because of international duty (aka playing match(es) for the national team)",
       "english": "International duty",
-      "value": "Internationell tjänst"
+      "value": "Landslagsuppdrag"
     },
     "notifications_ireland": {
       "english": "Ireland",
@@ -8564,7 +8423,7 @@
     },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
-      "value": "Fint! Är du klar eller vill du lägga till aviseringar om transfers i hela ligan eller anpassa laginformationen?"
+      "value": "Toppen! Är du klar eller vill du lägga till transfernotiser för hela ligan eller anpassa lagets transfernotiser?"
     },
     "notifications_night_mode": {
       "comment": "Deprecated",
@@ -8611,7 +8470,7 @@
     },
     "notifications_notifications_are_muted": {
       "english": "- Notifications are muted",
-      "value": "- Ljudet på aviseringar är avstängt"
+      "value": "- Notiser är avstängda"
     },
     "notifications_notifications_are_muted_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are muted",
@@ -8620,7 +8479,7 @@
     },
     "notifications_notifications_are_muted_simple": {
       "english": "Notifications are muted",
-      "value": "Aviseringsljudet är avstängt"
+      "value": "Notiser är avstängda"
     },
     "notifications_notifications_count": {
       "comment": "Status string indication how many favorites you got and how many with notifications",
@@ -8664,7 +8523,7 @@
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
-      "value": "Lyckade straffar"
+      "value": "Tilldömda straffar"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -8679,12 +8538,12 @@
     "notifications_player_assist": {
       "comment": "Messi got an assist.",
       "english": "%@ got an assist",
-      "value": "%@ fick en assist för ett mål."
+      "value": "%@ fick en assist"
     },
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@ finns i startlaguppställningen. %@ - %@"
+      "value": "%@ finns i startuppställningen\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -8734,7 +8593,7 @@
     "notifications_player_sub_out_short": {
       "comment": "Label indicating the player was substituted out. Header: Messi Content: Subbed off",
       "english": "Subbed off",
-      "value": "Byttes av"
+      "value": "Byttes ut"
     },
     "notifications_player_substitution": {
       "comment": "User can enable alerts when a player is substituted (in our out or the pitch). This is the label on the checkbox that the user can toggle to enable those alerts.",
@@ -8861,7 +8720,7 @@
     },
     "notifications_search_box_hint": {
       "english": "Search for teams, matches, players, news, leagues",
-      "value": "Sök efter lag, matcher, nyheter, ligor"
+      "value": "Sök efter lag, matcher, spelare, nyheter, ligor"
     },
     "notifications_search_failed": {
       "comment": "Some error while trying to search",
@@ -9115,7 +8974,7 @@
     "notifications_the_team_was_removed": {
       "comment": "Removing element from profile page",
       "english": "The team was removed.",
-      "value": "Ligan togs bort."
+      "value": "Laget togs bort."
     },
     "notifications_this_will_overwrite_everything_leagues": {
       "comment": "Warning that any changes you make to the alerts will be applied to all",
@@ -9271,7 +9130,7 @@
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
-      "value": "Tacklades"
+      "value": "Blev fälld"
     },
     "notifications_watch_match_bet365": {
       "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
@@ -9367,6 +9226,11 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Vänligen dela detaljer om annonsen, som annonsören, på vilken skärm, videon eller bilden, och vad du tyckte var problematiskt."
+    },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "Annonsera hos oss"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -9597,9 +9461,9 @@
       "value": "Anpassa din startskärm med alternativa app-ikoner."
     },
     "seo_expected_goals_against_while_on_pitch": {
-      "comment": "Label for statistic showing expected goals against while being on the pitch. Keep xG as is, don't translate it.",
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "xG mot medan på planen"
+      "value": "xG emot (på planen)"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9677,7 +9541,7 @@
     "seo_first_leg": {
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "1st leg",
-      "value": "1:a omgången"
+      "value": "Första mötet"
     },
     "seo_fixture_difficulty": {
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
@@ -9762,7 +9626,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "Insläppta mål på planen"
+      "value": "Insläppta mål (på planen)"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -9783,6 +9647,21 @@
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
       "value": "Den aktuella inbördes statistiken mellan lagen är %2$@ seger för %1$@, %4$@ seger för %3$@ och %5$@ oavgjort."
+    },
+    "seo_heatmap": {
+      "comment": "Label for a section showing a player heatmap",
+      "english": "Heatmap",
+      "value": "Heatmap"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "Se var spelarna gör skillnad på planen. Tryck på en spelare från startelvan för att se mer."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "Heatmaps är här"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9824,13 +9703,138 @@
       "english": "I need help",
       "value": "Jag behöver hjälp"
     },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "Kopiera länk"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Kopiera länken och klistra in den i Safari eller Chrome"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "Tryck på de tre prickarna (•••) längst ned till höger och välj sedan \"Öppna i webbläsare\""
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "Tryck på de tre punkterna (•••) uppe till höger och välj sedan \"Öppna i webbläsaren\""
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "Tryck på menyn (≡) och välj sedan \"Öppna i annan webbläsare\""
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "Tryck på delningsikonen längst ned och välj sedan din webbläsare"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Tryck på de tre prickarna (•••) och välj sedan \"Öppna i webbläsare\""
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "Tryck på de tre punkterna (•••) uppe till höger och välj sedan \"Öppna i extern webbläsare\""
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Tryck på de tre prickarna (•••) och välj sedan \"Öppna i webbläsare\""
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Tryck på de tre punkterna (•••) och välj sedan ”Öppna i webbläsare”"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "Tryck på delningsikonen och välj sedan ”Öppna i Safari” eller ”Kopiera länk”"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "Tryck på de tre prickarna (•••), sedan ”Öppna i…” och välj Safari"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "Kopiera länken och klistra in den i Safari eller Chrome"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "Tryck på delningsikonen och välj sedan \"Öppna i Safari\""
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "Leta efter en meny (••• eller delningsikon) och välj 'Öppna i webbläsare'"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "Tryck på de tre prickarna (•••) och välj sedan ”Öppna i Safari”"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "Tillbaka"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "Öppna i webbläsaren"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "Öppna i din webbläsare för att logga in"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "Öppna i Chrome"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "Öppna i Safari"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "Eller manuellt:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "Inloggning fungerar inte tillförlitligt i %1$s:s webbläsare. Öppna den här sidan i Safari eller Chrome."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "Försök ändå att logga in här (kanske fungerar det inte)"
+    },
     "seo_in_app_browser_warning_headline": {
-      "comment": "Short headline shown in an embedded in-app browser. It warns users that login may not work correctly in this environment.",
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
       "english": "Login may not work in this in-app browser",
       "value": "Inloggning kanske inte fungerar i denna inbyggda webbläsare"
     },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "Inloggning kanske inte fungerar i %1$s:s webbläsare. För bästa upplevelse, gå tillbaka och öppna den här sidan i din webbläsare."
+    },
     "seo_in_app_browser_warning_subline": {
-      "comment": "Supporting text that instructs users to open the page in their device’s default system browser to complete authentication.",
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Vänligen öppna denna sida i din enhets webbläsare (Safari eller Chrome) för att fortsätta."
     },
@@ -9908,6 +9912,11 @@
       "comment": "toast text after lineup has been saved. see [saved_lineup].",
       "english": "Lineup saved",
       "value": "Startelva sparad"
+    },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "Ingen"
     },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
@@ -10117,12 +10126,12 @@
     "seo_physical_metrics_running": {
       "comment": "A label indicating how much a player has been running. Stats shown together are \"Sprinting\", \"Running\" and \"Walking\"",
       "english": "Running",
-      "value": "Sprungit"
+      "value": "Löpning"
     },
     "seo_physical_metrics_sprinting": {
       "comment": "A label indicating how much a player has been sprinting. Stats shown together are \"Sprinting\", \"Running\" and \"Jogging\"",
       "english": "Sprinting",
-      "value": "Spurtat"
+      "value": "Sprint"
     },
     "seo_physical_metrics_topspeed": {
       "comment": "The top speed of a player during a match",
@@ -10132,7 +10141,7 @@
     "seo_physical_metrics_walking": {
       "comment": "A label indicating how much a player has been walking. Stats shown together are \"Sprinting\", \"Running\" and \"Walking\"",
       "english": "Walking",
-      "value": "Gått"
+      "value": "Gång"
     },
     "seo_play_fotmob_predict": {
       "comment": "Button text for button that opens the \"FotMob Predict\" game. Do not translate FotMob Predict.",
@@ -10152,7 +10161,7 @@
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
       "english": "The play-off matchups are determined by a draw. In each grouping, the two teams on the left are drawn against the two teams on the right to create two play-off matchups. The play-offs are played over two legs, with the winner going to the round of 16.\\n\\nThere is a separate draw for the round of 16 using the same process.",
-      "value": "Slutspelsmatcherna avgöras genom dragning. I varje gruppering dras de två vänsterlagen mot de två högerlagen för att skapa två slutspelsmatcher. Slutspelen spelas över två omgångar, där vinnaren går till åttondelsfinalen.\\n\\nDet finns en separat dragning för åttondelsfinalen med samma process."
+      "value": "Slutspelsmatcherna avgörs genom lottning. I varje gruppering lottas de två lagen till vänster mot de två lagen till höger för att skapa två slutspelsmatcher. Slutspelen spelas över två omgångar, där vinnaren går till åttondelsfinalen.\\n\\nDet finns en separat lottning för åttondelsfinalen med samma process."
     },
     "seo_play_offs_format": {
       "comment": "Label leading to an explanation of the new Champions league play-off format",
@@ -10217,7 +10226,7 @@
     "seo_position_winger": {
       "comment": "A label for a player that plays on the Wing like Saka on the Right wing.",
       "english": "Winger",
-      "value": "Ytter"
+      "value": "Ytterforward"
     },
     "seo_pre_fill_lineup": {
       "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder.",
@@ -10433,7 +10442,7 @@
     "seo_second_leg": {
       "comment": "Used in match facts to indicate that the match is the second of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "2nd leg",
-      "value": "2:a omgången"
+      "value": "Returmöte"
     },
     "seo_seconds_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many Seconds left til the next week tournament starts. Use the plural form in the given language.",
@@ -10528,7 +10537,7 @@
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "english": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob.",
-      "value": "%1$@ %2$@ rangordnad efter förväntade poäng (xPts). Du hittar xG-tabeller för %1$@ för %2$@ och andra säsonger på FotMob."
+      "value": "%1$@ %2$@ rangordnad efter förväntade poäng (xPts). Se %1$@ xG-tabellen eller rättvisetabellen för %2$@ och andra säsonger på FotMob."
     },
     "seo_site_description_league_transfers": {
       "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
@@ -10603,7 +10612,7 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "Hitta alla senaste bekräftade övergångar och dyraste värvningar. FotMob Transfer Center - filtrera efter liga och lag. Håll dig uppdaterad om övergångar med live- uppdateringar på deadline day med alla slutförda affärer!"
+      "value": "Hitta alla senaste bekräftade övergångar och dyraste värvningar. FotMob övergångscenter – filtrera efter liga och lag. Håll dig uppdaterad kring övergångar med liveuppdateringar på deadline day med alla slutförda affärer!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
@@ -10677,7 +10686,7 @@
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "Topprankade lag %1$@, mål per match %2$@, avslut på mål och andra statistik"
+      "value": "%1$@ %2$@ topprankade lag, mål per match, avslut på mål och annan statistik"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
@@ -10747,7 +10756,7 @@
     "seo_site_title_team_squad": {
       "comment": "Title for the page listing the teams squad including the coach. With injuries and position listed.",
       "english": "%1$@ - squad, coach, injuries and positions",
-      "value": "%1$@ - %1$@ - trupp, tränare, skador och positioner"
+      "value": "%1$@ - trupp, tränare, skador och positioner"
     },
     "seo_site_title_team_stats": {
       "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
@@ -10767,7 +10776,7 @@
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
       "english": "%1$@ - transfer history, players in and players out",
-      "value": "%1$@ - %1$@ - Transfershistorik, spelare in och spelare ut"
+      "value": "%1$@ - Transfershistorik, spelare in och spelare ut"
     },
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
@@ -10819,6 +10828,11 @@
       "english": "Submit",
       "value": "Skicka"
     },
+    "seo_subs_single": {
+      "comment": "Position label for substitutions in player match stats panel.",
+      "english": "Sub",
+      "value": "In"
+    },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
       "english": "Subscribe",
@@ -10862,7 +10876,7 @@
     "seo_team_rating": {
       "comment": "Average team rating in lineup.",
       "english": "Team rating",
-      "value": "Lagrankning"
+      "value": "Lagbetyg"
     },
     "seo_team_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
@@ -11012,6 +11026,11 @@
       "english": "Out",
       "value": "Ut"
     },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "Redogörelse enligt transparenslagen"
+    },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
       "english": "Then %1$@ / year (%2$@ / month)",
@@ -11030,12 +11049,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "Bara en snabb påminnelse: din FotMob+-prenumeration går ut om 2 dagar och kommer att förnyas automatiskt."
+      "value": "Bara en snabb påminnelse: din FotMob+-provperiod tar slut om 2 dagar och kommer att förnyas automatiskt."
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "Din FotMob+-prenumeration går ut om 2 dagar."
+      "value": "Din FotMob+-provperiod går ut om 2 dagar."
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",
@@ -11093,7 +11112,7 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
-      "value": "Fånga all action på %1$@"
+      "value": "Missa inget av händelserna på %1$@."
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",
