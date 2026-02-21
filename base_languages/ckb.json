@@ -127,7 +127,7 @@
       "value": "ئەسیست بۆ هەر 90 خولەکێک"
     },
     "accessibility_attackers": {
-      "english": "Forwards",
+    "english": "Forwards",
       "value": "هێرشبەرەکان"
     },
     "accessibility_attacking_threat": {
@@ -186,7 +186,7 @@
       "value": "ڕێژەی % بردنەوەی ڕاهێنەر"
     },
     "accessibility_collapse": {
-      "english": "Collapse",
+    "english": "Collapse",
       "value": "بچووککردنەوە"
     },
     "accessibility_company": {
@@ -200,7 +200,7 @@
       "value": "سیاسەتی کوکی"
     },
     "accessibility_could_not_connect": {
-      "english": "Could not connect to phone",
+    "english": "Could not connect to phone",
       "value": "نەتوانرا بە مۆبایلەوە ببەسترێتەوە"
     },
     "accessibility_coupon": {
@@ -209,19 +209,19 @@
       "value": "کۆبۆن"
     },
     "accessibility_createleaguepopup_create_a_league": {
-      "english": "Create a league",
+    "english": "Create a league",
       "value": "خولێک دروست بکە"
     },
     "accessibility_createleaguepopup_create_league": {
-      "english": "Create league",
+    "english": "Create league",
       "value": "دروستکردنی خول"
     },
     "accessibility_createleaguepopup_enter_name": {
-      "english": "Enter a league name",
+    "english": "Enter a league name",
       "value": "ناوی خولەکە بنووسە"
     },
     "accessibility_createleaguepopup_type_the_name": {
-      "english": "Type the name of the league below",
+    "english": "Type the name of the league below",
       "value": "ناوی خولەکە لە خوارەوە بنووسە"
     },
     "accessibility_crosses_succeeeded": {
@@ -244,13 +244,14 @@
       "english_plurals": {
         "one": "Day",
         "other": "Days"
-      },
+        },
       "plurals": {
-        "one": "ڕۆژ"
+        "one": "ڕۆژ",
+        "other": "ڕۆژ"
       }
     },
     "accessibility_defenders": {
-      "english": "Defenders",
+    "english": "Defenders",
       "value": "بەرگریکارەکان"
     },
     "accessibility_defending": {
@@ -304,7 +305,7 @@
       "value": "لێدانی ڕاستەوخۆ"
     },
     "accessibility_download_fotmob": {
-      "english": "Download FotMob",
+    "english": "Download FotMob",
       "value": "دابەزاندنی فوتمۆب"
     },
     "accessibility_dribbled_past": {
@@ -471,6 +472,11 @@
       "comment": "Used as a title on graphics card for with season stats. Very limited room. Find shortest possible version",
       "english": "Season stats",
       "value": "ئامارەکانی وەرز"
+    },
+    "accessibility_goal_diff_title": {
+      "comment": "Label for goal difference stat (goals scored minus goals conceded).",
+      "english": "Goal difference",
+      "value": "جیاوازی گۆڵ"
     },
     "accessibility_goal_type": {
       "comment": "Used for goal types in player profile",
@@ -804,7 +810,7 @@
     },
     "accessibility_interrupted": {
       "comment": "A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
-      "english": "Interrupted",
+      "english": "Interrupted", 
       "value": "ڕاگیراوە"
     },
     "accessibility_interrupted_short": {
@@ -838,12 +844,12 @@
       "value": "ببورە، هیچ خولێک بەو کۆدە نەدۆزرایەوە"
     },
     "accessibility_joinleaguepopup_join_league": {
-      "english": "Join league",
-      "value": "بەشداری خول بکە"
+    "english": "Join league",
+    "value": "بەشداری خول بکە"
     },
     "accessibility_joinleaguepopup_type_league_code": {
-      "english": "Type or paste the unique League ID-code in the text field below:",
-      "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
+    "english": "Type or paste the unique League ID-code in the text field below:",
+    "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
     },
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
@@ -1005,24 +1011,26 @@
       "value": "ئامارەکانی یاری"
     },
     "accessibility_matches_count": {
-      "english": "%d matches",
+    "english": "%d matches",
       "english_plurals": {
         "one": "1 match",
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 یاری"
+        "one": "1 یاری",
+        "other": "%d یاری"
       },
       "value": "%d یاری"
     },
     "accessibility_matches_left": {
-      "english": "%d matches left",
+    "english": "%d matches left",
       "english_plurals": {
         "one": "1 match left",
         "other": "%d matches left"
       },
       "plurals": {
-        "one": "1 یاری ماوە"
+        "one": "1 یاری ماوە",
+        "other": "%d یاری ماوە"
       },
       "value": "%d یاری ماوە"
     },
@@ -1497,12 +1505,13 @@
         "other": "%d other competitions are playing now"
       },
       "plurals": {
-        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت"
+        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت",
+        "other": "ئێستا %d پاڵەوانێتی تریش بەڕێوە دەچن"
       }
     },
     "accessibility_playing_today": {
       "comment": "First placeholder is a list of leagues and second placeholder is a single league. So like \"Premier League, La Liga and Serie A are playing\"",
-      "english": "%1$@ and %2$@ are playing",
+      "english": "%@ other competitions play today",
       "value": "یاریەکانی %1$@ و %2$@ بەڕێوەدەچن"
     },
     "accessibility_playing_today_no_ranked_leagues": {
@@ -1526,27 +1535,27 @@
       "value": "خاڵ بۆ هەر یاریەک"
     },
     "accessibility_pointspopup_10pts": {
-      "english": "10 pts for the winner of the final",
+    "english": "10 pts for the winner of the final",
       "value": "دە 10 خاڵ بۆ براوەی یاری کۆتایی"
     },
     "accessibility_pointspopup_1pts": {
-      "english": "1 pt per correctly placed team in the group stage",
+    "english": "1 pt per correctly placed team in the group stage",
       "value": "یەک 1 خاڵ بۆ هەر یانەیەک کە بە دروستی لە قۆناغی کۆمەڵەکان ڕیزبەندی دەکەیت"
     },
     "accessibility_pointspopup_2pts": {
-      "english": "2 pts per correct winner in the round of 16",
+    "english": "2 pts per correct winner in the round of 16",
       "value": "دوو 2 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە قۆناغی 16"
     },
     "accessibility_pointspopup_3pts": {
-      "english": "3 pts per correct winner in the quarter finals",
+    "english": "3 pts per correct winner in the quarter finals",
       "value": "سێ 3 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە چارەکی کۆتایی"
     },
     "accessibility_pointspopup_4pts": {
-      "english": "4 pts per correct winner in the semi finals",
+    "english": "4 pts per correct winner in the semi finals",
       "value": "چوار 4 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە پێش کۆتایی"
     },
     "accessibility_pointspopup_5pts": {
-      "english": "5 pts for the winner of the bronze final",
+    "english": "5 pts for the winner of the bronze final",
       "value": "پێنج 5 خاڵ بۆ براوەی یاری پلەی سێیەم"
     },
     "accessibility_pointspopup_about_the_competition": {
@@ -1616,12 +1625,12 @@
     },
     "accessibility_redeem_it_here": {
       "comment": "Subheader for redeem code view",
-      "english": "Redeem it here",
+      "english": "Redeem it here", 
       "value": "لێرە بەکاری بهێنە"
     },
     "accessibility_regular_play": {
       "comment": "A shot setup description. Goal was scored from a normal play. So it wasn't part of a corner, free kick, counter-attack or throw-in.",
-      "english": "Regular play",
+      "english": "Regular play", 
       "value": "یاری ئاسایی"
     },
     "accessibility_reorder_favorite_leagues_disclaimer": {
@@ -2339,7 +2348,7 @@
     "accessibility_tr_qualeuropaleaguefinalstage": {
       "comment": "This is in indication that this team will qualify directly to the UEFA Europa League playoff stage. This is the 3rd place in the Champions League that gets this playoff place.",
       "english": "Europa League playoff stage",
-      "value": "قۆناغی پاشکۆی یۆرۆپا لیگ"
+      "value": "قۆناغی پاشکۆی ئەوروپا لیگ"
     },
     "accessibility_trending_news": {
       "comment": "Header text for slider with the top 5 trending news stories.",
@@ -2439,6 +2448,11 @@
       "comment": "Label used in stats for the sum of expexted goals and expexted assists per 90 min",
       "english": "xG + xA per 90",
       "value": "xG + xA بۆ هەر 90 خولەکێک"
+    },
+    "accessibility_xg_diff_title": {
+      "comment": "Label for expected goals difference stat. Keep xG untranslated.",
+      "english": "xG difference",
+      "value": "جیاوازی xG"
     },
     "accessibility_yellow": {
       "comment": "Used to describe yellow cards in the stats for player profile.",
@@ -3075,12 +3089,13 @@
       "value": "دراو"
     },
     "common_days_ago": {
-      "english_plurals": {
+          "english_plurals": {
         "one": "1 day ago",
         "other": "%d days ago"
       },
       "plurals": {
-        "one": "1 ڕۆژ لەمەوبەر"
+        "one": "1 ڕۆژ لەمەوبەر",
+        "other": "%d ڕۆژ لەمەوبەر"
       }
     },
     "common_days_until_match_start_short": {
@@ -3344,22 +3359,22 @@
     "common_estimated_player_value": {
       "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
       "english": "Estimated player value",
-      "value": "نرخی یاریزان"
+      "value": "نرخی خەمڵێنراوی یاریزان"
     },
     "common_estimated_transfer_value": {
       "comment": "A title for the description of what estimated transfer value is",
       "english": "Estimated transfer value",
-      "value": "نرخی گواستنەوەی خەمڵاندراو"
+      "value": "نرخی خەمڵێنراوی گواستنەوە"
     },
     "common_estimated_transfer_value_description": {
       "comment": "The description for the graph we are displaying about estimated transfer value - This is a full breakdown of how estimated transfer value is calculated. Don't translate \"(ETV)\"",
       "english": "Estimated Transfer Value (ETV) is an estimate of what a player could be worth if they were sold today.\\n\\nIt’s calculated using historical transfer data and a range of performance and context factors, including:\\n\\n• player performance and development\\n• age and future potential\\n• how often and at what level they play\\n• position\\n• team and league strength\\n• remaining contract length\\n\\nETV focuses on the player themselves, not rumours or which club might buy them.\\n\\nThe value is updated regularly to reflect changes over time.",
-      "value": "نرخی گواستنەوەی خەمڵاندراو (ETV) باشترین هەڵسەنگاندنەکەی ئێمەیە بۆ ئەوەی کە یاریزانێک ئەگەر ئێستا بفرۆشرێت، چەند دەبێت نرخەکەی.\\n\\nئەم نرخە بە بەکارهێنانی داتای مێژوویی گواستنەوە و ژمارەیەک فاکتەری پەیوەندیدار بە ئەدا و دۆخ هەژمار دەکرێت، وەک:\\n\\n• ئەدای یاریزان و پەرەسەندنی\\n• تەمەن و توانای داهاتوو\\n• چەند جار و لە چ ئاستێکدا یاری دەکات\\n• شوێنی یاری\\n• هێزی تیم و لیگەکە\\n• ماوەی ماوەی ماوەی ماوەی ماوەی مابەستراوی گرێبەست\\n\\nETV سەرنجی لەسەر خودی یاریزانەکە دەخات، نەک لەسەر قسە و گوێزەکان یان ئەو تیمەی کە ڕەنگە بیهەوێت بیکڕێت.\\n\\nئەم نرخە بە شێوەی بەردەوام نوێ دەکرێتەوە بۆ ئەوەی گۆڕانکارییەکان لەگەڵ کاتدا پیشان بدات."
+      "value": "نرخی خەمڵێنراوی گواستنەوە (ETV) خەمڵاندنێکە بۆ ئەوەی ئەگەر یاریزانێک ئەمڕۆ بفرۆشرێت نرخەکەی چەند دەبێت.\\n\\nئەم نرخە بە بەکارهێنانی داتاکانی پێشووی گواستنەوە و کۆمەڵێک فاکتەری ئاست و بارودۆخ هەژمار دەکرێت، لەوانە:\\n\\n• ئاست و گەشەسەندنی یاریزان\\n• تەمەن و توانای داهاتوو\\n• چەند جار و لە چ ئاستێکدا یاری دەکات\\n• پێگەی یاریکردن\\n• هێزی یانە و خول\\n• ماوەی گرێبەستەکەی\\n\\nبۆیە ETV تیشک دەخاتە سەر خودی یاریزانەکە، نەک دەنگۆکان یان ئەوەی کام یانە دەیەوێت بیکڕێت.\\n\\nنرخەکە بە بەردەوامی نوێ دەکرێتەوە بۆ ڕەنگدانەوەی گۆڕانکارییەکان بە تێپەڕبوونی کات."
     },
     "common_estimated_value": {
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
-      "value": "نرخی خەمڵاندراو"
+      "value": "نرخی خەمڵێنراو"
     },
     "common_euro2016_onboarding_desc_line1": {
       "comment": "Onboarding: first line in adv.-alert",
@@ -3383,15 +3398,15 @@
     },
     "common_europaleague": {
       "english": "Europa League",
-      "value": "یۆرۆپا لیگ"
+      "value": "ئەوروپا لیگ"
     },
     "common_euroqual": {
       "english": "Europa League qualification",
-      "value": "پاڵاوتنەکانی یۆرۆپا لیگ"
+      "value": "پاڵاوتنەکانی ئەوروپا لیگ"
     },
     "common_euroqual_playoff": {
       "english": "Europa League qualification playoff",
-      "value": "پاشکۆی پاڵاوتنەکانی یۆرۆپا لیگ"
+      "value": "پاشکۆی پاڵاوتنەکانی ئەوروپا لیگ"
     },
     "common_exit": {
       "english": "Exit",
@@ -3878,12 +3893,13 @@
       "value": "هیندوراس"
     },
     "common_hours_ago": {
-      "english_plurals": {
+          "english_plurals": {
         "one": "%d hour ago",
         "other": "%d hours ago"
       },
       "plurals": {
-        "one": "%d کاتژمێر لەمەوبەر"
+        "one": "%d کاتژمێر لەمەوبەر",
+        "other": "%d کاتژمێر لەمەوبەر"
       }
     },
     "common_hours_tweet_timestamp": {
@@ -4376,12 +4392,13 @@
       "value": "خولەک بۆ هەر گۆڵێک"
     },
     "common_minutes_ago": {
-      "english_plurals": {
+          "english_plurals": {
         "one": "%d minute ago",
         "other": "%d minutes ago"
       },
       "plurals": {
-        "one": "%d خولەک لەمەوبەر"
+        "one": "%d خولەک لەمەوبەر",
+        "other": "%d خولەک لەمەوبەر"
       }
     },
     "common_minutes_tweet_timestamp": {
@@ -4994,6 +5011,7 @@
       "value": "پێشبینیکەر"
     },
     "common_predictor_text": {
+      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!",
       "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
       "value": "ئێمە پێشبینیەکانی خۆمان بۆ مۆندیال داناوە. تۆش پێشبینیەکانی خۆت لێرە دابنێ <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!"
     },
@@ -5950,7 +5968,7 @@
     "common_transfer_value": {
       "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
       "english": "Transfer value",
-      "value": "بهای گواستنەوە"
+      "value": "نرخی گواستنەوە"
     },
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
@@ -6474,7 +6492,7 @@
     },
     "ios_open_safari": {
       "english": "Open in Safari",
-      "value": "کردنەوە لە Safari سەفاری"
+      "value": "کردنەوە لە Safari"
     },
     "ios_overview": {
       "comment": "Header for team information",
@@ -7038,13 +7056,14 @@
     },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
-      "english": "+%d minutes added",
+            "english": "+%d minutes added",
       "english_plurals": {
         "one": "+%d minute added",
         "other": "+%d minutes added"
       },
       "plurals": {
-        "one": "کاتی زیادکراو +%d خولەک"
+        "one": "کاتی زیادکراو +%d خولەک",
+        "other": "کاتی زیادکراو +%d خولەک"
       },
       "value": "کاتی زیادکراو +%d خولەک"
     },
@@ -9225,6 +9244,11 @@
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "تکایە وردەکاری دەربارەی ڕیکلامەکە بنووسە، وەک ناوی کۆمپانیاکە، لە کام لاپەڕە بوو، ڤیدیۆ بوو یان وێنە، و کێشەکەی چی بوو."
     },
+    "seo_advertise_with_us": {
+      "comment": "Button where user can click to get info about advertising with us.",
+      "english": "Advertise with us",
+      "value": "ڕیکلام بکە لەگەڵمان"
+    },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
       "english": "Play the Africa Cup of Nations Predictor.",
@@ -9323,6 +9347,11 @@
       "english": "Clear lineup",
       "value": "سڕینەوەی پێکهاتە"
     },
+    "seo_code_copied_to_clipboard": {
+      "comment": "Toast message shown when user has copied the league code to clipboard",
+      "english": "Code copied to clipboard",
+      "value": "کۆدەکە کۆپی کرا بۆ کلیپبۆرد"
+    },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
       "english": "Competitions",
@@ -9337,6 +9366,11 @@
       "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
       "english": "Continue in the FotMob app for a faster, better experience - for free!",
       "value": "لە ناو بەرنامەی فوتمۆبدا بەردەوام بە بۆ ئەزموونێکی خێراتر و باشتر - بەخۆڕایی!"
+    },
+    "seo_contract_end": {
+      "comment": "Label for the contract end date/expire date for a football player with his club.",
+      "english": "Contract end",
+      "value": "کۆتایی گرێبەست"
     },
     "seo_copied_link_web": {
       "comment": "Text in a button after completed copying the link of the linup builder team. see [copy_link_web].",
@@ -9443,6 +9477,11 @@
       "english": "Customize your homescreen with alternate app icons.",
       "value": "شاشەی مۆبایلەکەت بڕازێنەرەوە بە ئایکۆنە جیاوازەکانی بەرنامەکە."
     },
+    "seo_expected_goals_against_while_on_pitch": {
+      "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
+      "english": "xG against while on pitch",
+      "value": "xG یانەی بەرامبەر لە کاتی یاریکردندا"
+    },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About 1-2 weeks",
@@ -9463,8 +9502,10 @@
       },
       "plurals": {
         "one": "سبەی بەسەردەچێت",
+        "other": "دوای %d ڕۆژ بەسەردەچێت",
         "zero": "ئەمڕۆ بەسەردەچێت"
       },
+
       "value": "دوای %d ڕۆژ بەسەردەچێت"
     },
     "seo_expires_today": {
@@ -9521,6 +9562,11 @@
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
       "english": "1st leg",
       "value": "یاری چوون"
+    },
+    "seo_fixture_difficulty": {
+      "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
+      "english": "Fixture difficulty",
+      "value": "خشتەی سەختی یاریەکان"
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
@@ -9597,6 +9643,11 @@
       "english": "Get the best mobile experience",
       "value": "باشترین ئەزموونی مۆبایل بەدەست بهێنە"
     },
+    "seo_goals_conceded_while_on_pitch": {
+      "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
+      "english": "Goals conceded while on pitch",
+      "value": "گۆڵ لێکران کاتێک یاریزانەکە لە یاریگادایە"
+    },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
       "english": "Gold",
@@ -9621,6 +9672,16 @@
       "comment": "Label for a section showing a player heatmap",
       "english": "Heatmap",
       "value": "نەخشەی گەرمی"
+    },
+    "seo_heatmaps_onboarding_description": {
+      "comment": "Description for heatmap onboarding",
+      "english": "See where players make their impact on the pitch. Tap on a player from the lineup screen to check it out.",
+      "value": "ببینە یاریزانەکان لە کوێی یاریگادا کاریگەرییان هەیە. کلیک لەسەر یاریزانێک بکە لە شاشەی پێکهاتەکان بۆ بینینی."
+    },
+    "seo_heatmaps_onboarding_title": {
+      "comment": "Title for heatmap onboarding",
+      "english": "Heatmaps are here",
+      "value": "نەخشەی گەرمی بەردەستە"
     },
     "seo_help": {
       "comment": "Used for mail description in troubleshooting mail",
@@ -9661,6 +9722,141 @@
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
       "english": "I need help",
       "value": "پێویستم بە یارمەتیە"
+    },
+    "seo_in_app_browser_copy_link": {
+      "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
+      "english": "Copy Link",
+      "value": "کۆپیکردنی لینک"
+    },
+    "seo_in_app_browser_escape_discord": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Discord's built-in browser. Discord doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "لینکەکە کۆپی بکە و لە Safari یان Chrome پەیستی بکە"
+    },
+    "seo_in_app_browser_escape_facebook": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە خوارەوە لای ڕاست، پاشان 'Open in browser'"
+    },
+    "seo_in_app_browser_escape_instagram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە سەرەوە لای ڕاست، پاشان 'Open in browser'"
+    },
+    "seo_in_app_browser_escape_kakaotalk": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the menu (≡), then 'Open in other browser'",
+      "value": "کلیک لە لیستەکە (≡) بکە، پاشان 'Open in other browser'"
+    },
+    "seo_in_app_browser_escape_line": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LINE's built-in browser. It tells the user to tap the share icon at the bottom and then choose their browser. \"LINE\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon at bottom, then choose your browser",
+      "value": "کلیک لە نیشانەی هاوبەشکردن بکە لە خوارەوە، پاشان وێبگەڕەکەت هەڵبژێرە"
+    },
+    "seo_in_app_browser_escape_linkedin": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+    },
+    "seo_in_app_browser_escape_messenger": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە سەرەوە لای ڕاست، پاشان 'Open in external browser'"
+    },
+    "seo_in_app_browser_escape_pinterest": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+    },
+    "seo_in_app_browser_escape_reddit": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+    },
+    "seo_in_app_browser_escape_snapchat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "value": "کلیک لە نیشانەی هاوبەشکردن بکە، پاشان 'Open in Safari' یان 'Copy Link'"
+    },
+    "seo_in_app_browser_escape_telegram": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in...' و Safari هەڵبژێرە"
+    },
+    "seo_in_app_browser_escape_tiktok": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Copy the link and paste it in Safari or Chrome",
+      "value": "لینکەکە کۆپی بکە و لە Safari یان Chrome پەیستی بکە"
+    },
+    "seo_in_app_browser_escape_twitter": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in Safari'",
+      "value": "کلیک لە نیشانەی هاوبەشکردن بکە، پاشان 'Open in Safari'"
+    },
+    "seo_in_app_browser_escape_unknown": {
+      "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
+      "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
+      "value": "بگەڕێ بۆ لیستێک (••• یان نیشانەی هاوبەشکردن) و 'Open in browser' هەڵبژێرە"
+    },
+    "seo_in_app_browser_escape_wechat": {
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in Safari'"
+    },
+    "seo_in_app_browser_go_back": {
+      "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
+      "english": "go back",
+      "value": "بگەڕێوە"
+    },
+    "seo_in_app_browser_open_in_browser": {
+      "comment": "This is the label on a generic fallback button that opens the current page in the device's default browser (when neither Safari nor Chrome is specifically detected). It appears in the in-app browser escape card. Tone: short button label.",
+      "english": "Open in Browser",
+      "value": "کردنەوە لە وێبگەڕ"
+    },
+    "seo_in_app_browser_open_in_browser_title": {
+      "comment": "This is a bold heading inside a prominent card on the sign-in screen. It appears when the user is in an in-app browser and serves as the title above the action buttons that let the user open the page in a real browser. It's a call to action. Tone: direct, instructional.",
+      "english": "Open in your browser to sign in",
+      "value": "لە وێبگەڕەکەتەوە بیکەرەوە بۆ چوونەژوورەوە"
+    },
+    "seo_in_app_browser_open_in_chrome": {
+      "comment": "This is the label on a button that opens the current page in Google Chrome. It appears in the in-app browser escape card. \"Chrome\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Chrome",
+      "value": "لە Chrome بیکەوە"
+    },
+    "seo_in_app_browser_open_in_safari": {
+      "comment": "This is the label on a button that opens the current page in Apple Safari. It appears in the in-app browser escape card. \"Safari\" is a brand name and should not be translated. Tone: short button label.",
+      "english": "Open in Safari",
+      "value": "لە Safari بیکەوە"
+    },
+    "seo_in_app_browser_or_manually": {
+      "comment": "This is a small label/heading shown as a divider between the automatic \"Open in browser\" buttons and the manual app-specific instructions below. It introduces the manual instructions section with \"Or manually:\" — translate naturally as a transitional phrase introducing an alternative method. Tone: brief, understated.",
+      "english": "Or manually:",
+      "value": "یان بە دەستی:"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "چوونەژوورەوە بە باشی کار ناکات لە وێبگەڕی %1$s. تکایە ئەم لاپەڕەیە لە Safari یان Chrome بکەرەوە."
+    },
+    "seo_in_app_browser_try_anyway": {
+      "comment": "This is the label of a small, de-emphasized text link at the bottom of the in-app browser escape screen. It lets the user bypass the warning and attempt to sign in using OAuth directly within the in-app browser (which may fail). The parenthetical \"(may not work)\" is an important caveat — preserve it. Tone: understated, secondary option, with a warning.",
+      "english": "Try signing in here anyway (may not work)",
+      "value": "هەر لێرە هەوڵی چوونەژوورەوە بدە (ڕەنگە کار نەکات)"
+    },
+    "seo_in_app_browser_warning_headline": {
+      "comment": "This is a bold headline text shown in a warning banner at the top of the sign-in screen when the app detects the user is browsing inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It alerts the user that logging in may not work properly. \"In-app browser\" is a technical term referring to the simplified web browser embedded inside social media apps — use whatever phrasing is natural and understandable in the target language to convey this concept. Tone: informative, slightly urgent but not alarming.",
+      "english": "Login may not work in this in-app browser",
+      "value": "ڕەنگە چوونە ناوەوە لەم وێبگەڕەی ناو بەرنامەدا کار نەکات"
+    },
+    "seo_in_app_browser_warning_may_fail": {
+      "comment": "This is a warning message shown on the sign-in screen of a sports prediction app (FotMob Predict) when a user has chosen to attempt signing in despite being inside a social media app's built-in browser (e.g. Instagram, TikTok, Facebook). It appears as small yellow warning text inside a bordered card, directly above the OAuth sign-in buttons (Google, Facebook, Apple). The %1$s placeholder is replaced with the name of the social media app (e.g. \"Instagram\", \"TikTok\"). Below this text there is a separate clickable \"Go back\" link, so this string itself does not need to contain any link or call to action — it is purely informational, explaining why signing in might not work. The phrase \"go back\" in this string refers to returning to the previous screen where the user can open the page in a real browser instead. Tone: cautionary but helpful, not alarming. \"Browser\" here refers to a full browser like Safari or Chrome, as opposed to the limited in-app browser embedded in social media apps.",
+      "english": "Sign-in may not work in %1$s's browser. For the best experience, go back and open this page in your browser.",
+      "value": "ڕەنگە چوونەژوورەوە لە وێبگەڕی %1$s کار نەکات. بۆ باشترین ئەزموون، بگەڕێوە و ئەم لاپەڕەیە لە وێبگەڕی مۆبایلەکەت بکەرەوە."
+    },
+    "seo_in_app_browser_warning_subline": {
+      "comment": "This is secondary/subtitle text shown directly below the in_app_browser_warning_headline in the same warning banner. It asks the user to open the page in their device's real browser (Safari or Chrome) instead of the in-app browser. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: polite, instructional.",
+      "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
+      "value": "تکایە بۆ بەردەوامبوون، ئەم لاپەڕەیە لە وێبگەڕی ئامێرەکەتدا (Safari یان Chrome) بکەرەوە."
     },
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
@@ -9737,6 +9933,11 @@
       "english": "Lineup saved",
       "value": "پێکهاتەکە پاشەکەوت کرا"
     },
+    "seo_lineupbuilder_badges_none": {
+      "comment": "Selection state in dropdown where you can toggle badges. None meaning no selection state (no badge filter) has been selected in the dropdown.",
+      "english": "None",
+      "value": "هیچ"
+    },
     "seo_lineups_stored_on_this_device": {
       "comment": "subheader text in component containing list of saved lineups for the lineup builder. The lineups are stored on the users device.",
       "english": "Lineups stored on this device",
@@ -9747,10 +9948,25 @@
       "english": "Link copied to clipboard",
       "value": "لینکەکە کۆپی کرا بۆ کلیپبۆرد"
     },
+    "seo_live_update": {
+      "comment": "In-app label shown when user opts in to receive live score updates for a specific match or team",
+      "english": "Live update",
+      "value": "نوێکاریی ڕاستەوخۆ"
+    },
+    "seo_live_update_notifications": {
+      "comment": "Android notification channel name for live score updates for a specific match or team",
+      "english": "Live update notifications",
+      "value": "ئاگادارکردنەوەکانی نوێکاریی ڕاستەوخۆ"
+    },
     "seo_ltc_ai_explanation": {
       "comment": "Disclaimer informing user that is has been automatically translated.",
       "english": "This live commentary has been auto-translated. There may be minor inaccuracies.",
       "value": "ئەم بێژەریە ڕاستەوخۆیە بە شێوەیەکی ئۆتۆماتیکی وەرگێڕدراوە. ڕەنگە هەندێک هەڵەی بچووکی تێدابێت."
+    },
+    "seo_ltc_new_updates": {
+      "comment": "\"Toast\" used in live ticker commentary when user has scrolled down and there are new updates on the top of the page.",
+      "english": "New updates",
+      "value": "زانیاری نوێ"
     },
     "seo_manage": {
       "comment": "Used for manage button on the FotMob+ member page.",
@@ -9782,6 +9998,11 @@
       "english": "Men",
       "value": "پیاوان"
     },
+    "seo_min_value_filter": {
+      "comment": "Label for a filter input where the user can set a value for players shown in a transfers list. Should cover both minimum market value and minimum transfer fee. Keep it short.",
+      "english": "Min value",
+      "value": "کەمترین بەها"
+    },
     "seo_minutes_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many minutes left til the next week tournament use the plural form in the given language.",
       "english": "Minutes",
@@ -9806,6 +10027,11 @@
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "english": "Newsletter",
       "value": "هەواڵ نامە"
+    },
+    "seo_next_five_matches": {
+      "comment": "Label for a section showing the next five matches for a football team. See next_match",
+      "english": "Next five matches",
+      "value": "پێنج یاری داهاتوو"
     },
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
@@ -9877,10 +10103,30 @@
       "english": "<b>Official data.</b> These are the same physical stats trusted by professional teams.",
       "value": "<b>داتا فەڕمیەکان.</b> ئەمانە هەمان ئەو ئامارە جەستەییانەن کە یانە پیشەگەرەکان پشتی پێ دەبەستن."
     },
+    "seo_onboarding_wear_button": {
+      "comment": "Button for opening the Play Store when user sees Wear onboarding",
+      "english": "Get the Wear app",
+      "value": "بەرنامەی Wear بەدەستبهێنە"
+    },
+    "seo_onboarding_wear_subtitle": {
+      "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "english": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch.",
+      "value": "بە ئاسانی ڕووداوەکانی یاری، ئامار و زانیاری ئەو یانانە ببینە کە بەدواداچوونیان بۆ دەکەیت، لە ڕێگەی فۆتمۆب لەسەر کاتژمێرەکەت."
+    },
+    "seo_onboarding_wear_title": {
+      "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "english": "All the action, right from your wrist.",
+      "value": "هەموو ڕوداوەکان ڕاستەوخۆ، لەسەر دەستت ببینە."
+    },
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",
       "english": "Overwrite",
       "value": "جێبەجێکردن"
+    },
+    "seo_participants_count": {
+      "comment": "Label showing how many participants/members are in your mini-league. %1$@ is replaced with the number of participants. Don't support plural differences.",
+      "english": "%1$@ participants",
+      "value": "%1$@ بەشداربوو"
     },
     "seo_penalty_shootout": {
       "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
@@ -10037,10 +10283,20 @@
       "english": "Pre-fill with popular teams",
       "value": "پڕکردنەوە بە تیمە بەناوبانگەکان"
     },
+    "seo_predict_copy_code": {
+      "comment": "Button label for copying your league code to clipboard so you can share it with others to join your mini-league. See predict_league_code",
+      "english": "Copy code",
+      "value": "کۆدەکە کۆپی بکە"
+    },
     "seo_predict_edit_until_kick_off": {
       "comment": "Text for the second step in the predictor game, to explain that you can edit your predictions until the match starts.",
       "english": "You can edit your predictions until the match kicks off.",
       "value": "دەتوانیت پێشبینیەکانت دەستکاری بکەیت تا ئەو کاتەی یاریەکە دەست پێ دەکات."
+    },
+    "seo_predict_league_code": {
+      "comment": "Label for your league's unique code that can be shared with others to join your mini-league. See joinleaguepopup_enter_code",
+      "english": "League code",
+      "value": "کۆدی خول"
     },
     "seo_predict_onboarding_apps": {
       "comment": "Text in onboarding of our predictor game. The placeholder is a league name like \"Women's EURO 2025\" so the complete string in English will be \"Predict Women's EURO 2025 results and compete against friends in leagues!\". If the word \"Predict\" sounds weird in your language, please use \"Guess\" as a replacement.",
@@ -10126,6 +10382,7 @@
       },
       "plurals": {
         "one": "سبەی نوێ دەبێتەوە",
+        "other": "دوای %d ڕۆژ نوێ دەبێتەوە",
         "zero": "ئەمڕۆ نوێ دەبێتەوە"
       }
     },
@@ -10582,6 +10839,11 @@
       "english": "Something went wrong. Please try again.",
       "value": "هەڵەیەک ڕوویدا. تکایە دووبارە هەوڵ بدەرەوە."
     },
+    "seo_sort_by": {
+      "comment": "Label for a dropdown or button that allows the user to sort a list by different criteria. E.g. sort transfers by date, fee, or market value.",
+      "english": "Sort by",
+      "value": "ڕیزکردن بەپێی"
+    },
     "seo_source": {
       "comment": "Used in links within AI generated summaries to let the user go to the content source.",
       "english": "Source",
@@ -10615,7 +10877,7 @@
     "seo_subs_single": {
       "comment": "Position label for substitutions in player match stats panel.",
       "english": "Sub",
-      "value": "Sub"
+      "value": "یەدەگ"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
@@ -10720,7 +10982,7 @@
     "seo_template_10613": {
       "comment": "Europa League Qualification stage. Check how the Europa League string with id=template_42 is translated when translating this one. Translate short. Prefer Europa League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Europa League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
       "english": "Europa League Qualification",
-      "value": "پاڵاوتنەکانی یۆرۆپا لیگ"
+      "value": "پاڵاوتنەکانی ئەوروپا لیگ"
     },
     "seo_template_10615": {
       "comment": "Europa League Qualification stage. https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Translate short. Prefer Conference League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Conference League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
@@ -10740,7 +11002,7 @@
     "seo_template_73": {
       "comment": "Europa League.",
       "english": "Europa League",
-      "value": "یۆرۆپا لیگ"
+      "value": "ئەوروپا لیگ"
     },
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",
@@ -10799,6 +11061,21 @@
     "seo_tots": {
       "english": "Team of the Season",
       "value": "باشترین پێکهاتەی وەرز"
+    },
+    "seo_transfers_in_short": {
+      "comment": "Label for a button to filter transfers in a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_in",
+      "english": "In",
+      "value": "هاتوو"
+    },
+    "seo_transfers_out_short": {
+      "comment": "Label for a button to filter transfers out a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_out",
+      "english": "Out",
+      "value": "ڕۆشتو"
+    },
+    "seo_transparency_act_statement": {
+      "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
+      "english": "Transparency act statement",
+      "value": "بەیاننامەی یاسای شەفافیەت"
     },
     "seo_trial_desc_annual": {
       "comment": "Description explaining the recurring cost of a yearly FotMob+ subscription. i.e. \"Then $39.99 / year ($3.33 / month)\"",
@@ -10874,7 +11151,8 @@
         "other": "%@ votes"
       },
       "plurals": {
-        "one": "%s دەنگ"
+        "one": "%@ دەنگ",
+        "other": "%@ دەنگ"
       }
     },
     "seo_watch_on_tv": {
@@ -10957,6 +11235,26 @@
       "english": "Week",
       "value": "هەفتە"
     },
+    "seo_weekly_predictor_notification_body": {
+      "comment": "Notification body mentioning that new Fotmob Predictor matches are now open.",
+      "english": "New matches are available. Make your predictions before kickoff!",
+      "value": "یاریە نوێیەکان بەردەستن. پێش دەستپێکردن پێشبینییەکانت تۆمار بکە!"
+    },
+    "seo_weekly_predictor_notification_title": {
+      "comment": "Notification title mentioning that new Fotmob Predictor matches are now open.",
+      "english": "Time to predict!",
+      "value": "کاتی پێشبینیکردنە!"
+    },
+    "seo_weekly_predictor_reminders": {
+      "comment": "A toggle to turn on/off weekly predictor reminders. Don't translate \"FotMob Predict\"",
+      "english": "Weekly FotMob Predict reminders",
+      "value": "ئاگادارکردنەوەی هەفتانەی پێشبینیکردنی فوتمۆب"
+    },
+    "seo_weekly_predictor_reminders_desc": {
+      "comment": "A toggle description about getting weekly reminders for new predictor matches available. Don't translate \"FotMob Predict\"",
+      "english": "Receive weekly reminders when new FotMob Predict matches are available",
+      "value": "ئاگادارکردنەوەی هەفتانە بەدەست بهێنە کاتێک یاریە نوێەکانی پێشبینیکردنی فوتمۆب بەردەست دەبن"
+    },
     "seo_weekly_reminders": {
       "comment": "Headline in the popup informing users that they can enable reminders for when the weekly matches are made available",
       "english": "Weekly Reminders",
@@ -10989,7 +11287,8 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 یاری"
+        "one": "1 یاری",
+        "other": "%d یاری"
       }
     },
     "seo_xg_table_explanation": {
