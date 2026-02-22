@@ -127,7 +127,7 @@
       "value": "ئەسیست بۆ هەر 90 خولەکێک"
     },
     "accessibility_attackers": {
-    "english": "Forwards",
+      "english": "Forwards",
       "value": "هێرشبەرەکان"
     },
     "accessibility_attacking_threat": {
@@ -186,7 +186,7 @@
       "value": "ڕێژەی % بردنەوەی ڕاهێنەر"
     },
     "accessibility_collapse": {
-    "english": "Collapse",
+      "english": "Collapse",
       "value": "بچووککردنەوە"
     },
     "accessibility_company": {
@@ -200,7 +200,7 @@
       "value": "سیاسەتی کوکی"
     },
     "accessibility_could_not_connect": {
-    "english": "Could not connect to phone",
+      "english": "Could not connect to phone",
       "value": "نەتوانرا بە مۆبایلەوە ببەسترێتەوە"
     },
     "accessibility_coupon": {
@@ -209,19 +209,19 @@
       "value": "کۆبۆن"
     },
     "accessibility_createleaguepopup_create_a_league": {
-    "english": "Create a league",
+      "english": "Create a league",
       "value": "خولێک دروست بکە"
     },
     "accessibility_createleaguepopup_create_league": {
-    "english": "Create league",
+      "english": "Create league",
       "value": "دروستکردنی خول"
     },
     "accessibility_createleaguepopup_enter_name": {
-    "english": "Enter a league name",
+      "english": "Enter a league name",
       "value": "ناوی خولەکە بنووسە"
     },
     "accessibility_createleaguepopup_type_the_name": {
-    "english": "Type the name of the league below",
+      "english": "Type the name of the league below",
       "value": "ناوی خولەکە لە خوارەوە بنووسە"
     },
     "accessibility_crosses_succeeeded": {
@@ -244,14 +244,14 @@
       "english_plurals": {
         "one": "Day",
         "other": "Days"
-        },
+      },
       "plurals": {
         "one": "ڕۆژ",
         "other": "ڕۆژ"
       }
     },
     "accessibility_defenders": {
-    "english": "Defenders",
+      "english": "Defenders",
       "value": "بەرگریکارەکان"
     },
     "accessibility_defending": {
@@ -305,7 +305,7 @@
       "value": "لێدانی ڕاستەوخۆ"
     },
     "accessibility_download_fotmob": {
-    "english": "Download FotMob",
+      "english": "Download FotMob",
       "value": "دابەزاندنی فوتمۆب"
     },
     "accessibility_dribbled_past": {
@@ -844,12 +844,12 @@
       "value": "ببورە، هیچ خولێک بەو کۆدە نەدۆزرایەوە"
     },
     "accessibility_joinleaguepopup_join_league": {
-    "english": "Join league",
-    "value": "بەشداری خول بکە"
+      "english": "Join league",
+      "value": "بەشداری خول بکە"
     },
     "accessibility_joinleaguepopup_type_league_code": {
-    "english": "Type or paste the unique League ID-code in the text field below:",
-    "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
+      "english": "Type or paste the unique League ID-code in the text field below:",
+      "value": "کۆدی تایبەتی خولەکە لە خانەی خوارەوە بنووسە یان پەیست بکە:"
     },
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
@@ -1011,7 +1011,7 @@
       "value": "ئامارەکانی یاری"
     },
     "accessibility_matches_count": {
-    "english": "%d matches",
+      "english": "%d matches",
       "english_plurals": {
         "one": "1 match",
         "other": "%d matches"
@@ -1023,7 +1023,7 @@
       "value": "%d یاری"
     },
     "accessibility_matches_left": {
-    "english": "%d matches left",
+      "english": "%d matches left",
       "english_plurals": {
         "one": "1 match left",
         "other": "%d matches left"
@@ -1535,27 +1535,27 @@
       "value": "خاڵ بۆ هەر یاریەک"
     },
     "accessibility_pointspopup_10pts": {
-    "english": "10 pts for the winner of the final",
+      "english": "10 pts for the winner of the final",
       "value": "دە 10 خاڵ بۆ براوەی یاری کۆتایی"
     },
     "accessibility_pointspopup_1pts": {
-    "english": "1 pt per correctly placed team in the group stage",
+      "english": "1 pt per correctly placed team in the group stage",
       "value": "یەک 1 خاڵ بۆ هەر یانەیەک کە بە دروستی لە قۆناغی کۆمەڵەکان ڕیزبەندی دەکەیت"
     },
     "accessibility_pointspopup_2pts": {
-    "english": "2 pts per correct winner in the round of 16",
+      "english": "2 pts per correct winner in the round of 16",
       "value": "دوو 2 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە قۆناغی 16"
     },
     "accessibility_pointspopup_3pts": {
-    "english": "3 pts per correct winner in the quarter finals",
+      "english": "3 pts per correct winner in the quarter finals",
       "value": "سێ 3 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە چارەکی کۆتایی"
     },
     "accessibility_pointspopup_4pts": {
-    "english": "4 pts per correct winner in the semi finals",
+      "english": "4 pts per correct winner in the semi finals",
       "value": "چوار 4 خاڵ بۆ هەر پێشبینیەکی دروستی براوە لە پێش کۆتایی"
     },
     "accessibility_pointspopup_5pts": {
-    "english": "5 pts for the winner of the bronze final",
+      "english": "5 pts for the winner of the bronze final",
       "value": "پێنج 5 خاڵ بۆ براوەی یاری پلەی سێیەم"
     },
     "accessibility_pointspopup_about_the_competition": {
