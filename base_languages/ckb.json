@@ -810,7 +810,7 @@
     },
     "accessibility_interrupted": {
       "comment": "A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
-      "english": "Interrupted", 
+      "english": "Interrupted",
       "value": "ڕاگیراوە"
     },
     "accessibility_interrupted_short": {
@@ -1511,7 +1511,7 @@
     },
     "accessibility_playing_today": {
       "comment": "First placeholder is a list of leagues and second placeholder is a single league. So like \"Premier League, La Liga and Serie A are playing\"",
-      "english": "%@ other competitions play today",
+      "english": "%1$@ and %2$@ are playing",
       "value": "یاریەکانی %1$@ و %2$@ بەڕێوەدەچن"
     },
     "accessibility_playing_today_no_ranked_leagues": {
@@ -1625,12 +1625,12 @@
     },
     "accessibility_redeem_it_here": {
       "comment": "Subheader for redeem code view",
-      "english": "Redeem it here", 
+      "english": "Redeem it here",
       "value": "لێرە بەکاری بهێنە"
     },
     "accessibility_regular_play": {
       "comment": "A shot setup description. Goal was scored from a normal play. So it wasn't part of a corner, free kick, counter-attack or throw-in.",
-      "english": "Regular play", 
+      "english": "Regular play",
       "value": "یاری ئاسایی"
     },
     "accessibility_reorder_favorite_leagues_disclaimer": {
@@ -3089,7 +3089,7 @@
       "value": "دراو"
     },
     "common_days_ago": {
-          "english_plurals": {
+      "english_plurals": {
         "one": "1 day ago",
         "other": "%d days ago"
       },
@@ -3893,7 +3893,7 @@
       "value": "هیندوراس"
     },
     "common_hours_ago": {
-          "english_plurals": {
+      "english_plurals": {
         "one": "%d hour ago",
         "other": "%d hours ago"
       },
@@ -4392,7 +4392,7 @@
       "value": "خولەک بۆ هەر گۆڵێک"
     },
     "common_minutes_ago": {
-          "english_plurals": {
+      "english_plurals": {
         "one": "%d minute ago",
         "other": "%d minutes ago"
       },
@@ -5011,7 +5011,6 @@
       "value": "پێشبینیکەر"
     },
     "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!",
       "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
       "value": "ئێمە پێشبینیەکانی خۆمان بۆ مۆندیال داناوە. تۆش پێشبینیەکانی خۆت لێرە دابنێ <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> و ڕکابەری هاوڕێکانت بکە!"
     },
@@ -7056,7 +7055,7 @@
     },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
-            "english": "+%d minutes added",
+      "english": "+%d minutes added",
       "english_plurals": {
         "one": "+%d minute added",
         "other": "+%d minutes added"
@@ -9505,7 +9504,6 @@
         "other": "دوای %d ڕۆژ بەسەردەچێت",
         "zero": "ئەمڕۆ بەسەردەچێت"
       },
-
       "value": "دوای %d ڕۆژ بەسەردەچێت"
     },
     "seo_expires_today": {
