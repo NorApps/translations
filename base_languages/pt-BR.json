@@ -3,7 +3,7 @@
   "translations": {
     "accessibility_about_us": {
       "comment": "Text on button or link that redirects to the About us page.",
-      "english": "About us",
+      "english": "About",
       "value": "Sobre nós"
     },
     "accessibility_accurate_cross_team_subtitle": {
@@ -43,7 +43,7 @@
     },
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
-      "english": "Advertise",
+      "english": "Advertise with us",
       "value": "Anunciar"
     },
     "accessibility_aerials_won_percent": {
@@ -4778,7 +4778,7 @@
       "value": "Paraguai"
     },
     "common_pause": {
-      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
+      "comment": "Half-time in a football match (not a generic pause button).",
       "english": "Pause",
       "value": "Pausar"
     },
@@ -9755,14 +9755,14 @@
       "value": "Toque nos três pontinhos (•••) e depois em \"Abrir no navegador\""
     },
     "seo_in_app_browser_escape_snapchat": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
-      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
-      "value": "Toque no ícone de compartilhamento e selecione \"Abrir no Safari\" ou \"Copiar link\""
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in browser\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in browser' or 'Copy Link'",
+      "value": "Toque no ícone de compartilhamento e selecione \"Abrir no navegador\" ou \"Copiar link\""
     },
     "seo_in_app_browser_escape_telegram": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
-      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
-      "value": "Toque nos três pontos (•••), depois em “Abrir em…” e escolha Safari"
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting their browser. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose your browser",
+      "value": "Toque nos três pontos (•••), depois em “Abrir no…” e escolha seu navegador"
     },
     "seo_in_app_browser_escape_tiktok": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
@@ -9770,9 +9770,9 @@
       "value": "Copie o link e cole no Safari ou no Chrome"
     },
     "seo_in_app_browser_escape_twitter": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
-      "english": "Tap the share icon, then 'Open in Safari'",
-      "value": "Toque no ícone de compartilhamento e depois em \"Abrir no Safari\""
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in browser\". The phrase \"Open in browser\" should match however X/Twitter labels that menu item in the target language's version of the app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in browser'",
+      "value": "Toque no ícone de compartilhamento e depois em “Abrir no navegador”"
     },
     "seo_in_app_browser_escape_unknown": {
       "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
@@ -9780,9 +9780,9 @@
       "value": "Procure um menu (••• ou ícone de compartilhar) e selecione 'Abrir no navegador'"
     },
     "seo_in_app_browser_escape_wechat": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
-      "english": "Tap the three dots (•••), then 'Open in Safari'",
-      "value": "Toque nos três pontos (•••) e depois em \"Abrir no Safari\""
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in browser\". The phrase \"Open in browser\" should match however WeChat labels that menu item in the target language's version of the WeChat app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
+      "value": "Toque nos três pontos (•••) e depois em \"Abrir no navegador\"."
     },
     "seo_in_app_browser_go_back": {
       "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
@@ -10451,6 +10451,11 @@
       "english": "Seconds",
       "value": "Segundos"
     },
+    "seo_seconds_countdown_short": {
+      "comment": "Abbreviation for \"seconds\" used in a countdown timer. Should be concise.",
+      "english": "Secs",
+      "value": "seg."
+    },
     "seo_share_link": {
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
       "english": "Share link",
@@ -10621,6 +10626,16 @@
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
       "value": "As últimas transferências confirmadas e as contratações mais caras do %1$@. Centro de Transferências FotMob - filtre por liga/campeonato e times. Mantenha-se atualizado(a) sobre as transferências com atualizações ao vivo no deadline day e todas as negociações concluídas!"
     },
+    "seo_site_description_tv_guide": {
+      "comment": "SEO description for tv schedule page of football matches. see [site_title_tv_guide]",
+      "english": "Find which football matches are live on TV today. Browse TV schedules by country with channel listings for Premier League, Champions League and more.",
+      "value": "Veja quais partidas de futebol passam ao vivo na TV hoje. Consulte a programação por país com a lista de canais da Premier League, Champions League e mais."
+    },
+    "seo_site_description_tv_guide_channel": {
+      "comment": "SEO description for tv schedule page filtered by channel name. %@ is the channel name. see [site_title_tv_guide_channel]",
+      "english": "See all football matches on %@ today. Full TV schedule with kick-off times and channel listings.",
+      "value": "Veja todos os jogos de futebol na %@ hoje. Grade completa de TV com horários de início e lista de canais."
+    },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
       "english": "FotMob - Football Live Scores",
@@ -10789,6 +10804,16 @@
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
       "english": "Transfer Center - %1$@: Latest & Top Transfers - FotMob",
       "value": "Central de Transferências - %1$@: Últimas e Melhores Transferências - FotMob"
+    },
+    "seo_site_title_tv_guide": {
+      "comment": "SEO title for tv schedule page of football matches",
+      "english": "Football TV Schedules - Watch Live Football on TV | FotMob",
+      "value": "Programação de futebol na TV - Assista futebol ao vivo na TV | FotMob"
+    },
+    "seo_site_title_tv_guide_channel": {
+      "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
+      "english": "Football on %@ - TV Schedule | FotMob",
+      "value": "Futebol na %@ - Programação na TV | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
@@ -11074,6 +11099,11 @@
       "comment": "subheadline for promotion component to try out the lineup builder. See [lineup_builder].",
       "english": "Try our lineup builder",
       "value": "Experimente nosso criador de escalações"
+    },
+    "seo_tv_guide_matches_date_on": {
+      "comment": "Header text for TV guide channel page for football matches. %@ is the date label, could be \"today\", \"tomorrow\" or a specific date. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på.",
+      "english": "Matches %@ on",
+      "value": "Partidas %1$s no %2$s"
     },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",

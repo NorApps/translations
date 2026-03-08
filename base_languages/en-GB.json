@@ -3,13 +3,13 @@
   "translations": {
     "accessibility_about_us": {
       "comment": "Text on button or link that redirects to the About us page.",
-      "english": "About us",
-      "value": "About us"
+      "english": "About",
+      "value": "About"
     },
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
-      "english": "Advertise",
-      "value": "Advertise"
+      "english": "Advertise with us",
+      "value": "Advertise with us"
     },
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
@@ -1325,7 +1325,7 @@
       "value": "Own goal"
     },
     "common_pause": {
-      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
+      "comment": "Half-time in a football match (not a generic pause button).",
       "english": "Pause",
       "value": "Pause"
     },
