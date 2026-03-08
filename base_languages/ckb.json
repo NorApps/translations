@@ -656,7 +656,7 @@
     "accessibility_insights_goals_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
       "english": "Have scored %1$@ goals in their last %2$@ matches",
-      "value": "یانەی %1$@ گۆڵیان تۆمار کردووە لە دواین %2$@ یاریاندا"
+      "value": "یانەکە %1$@ گۆڵیان تۆمار کردووە لە دواین %2$@ یاریاندا"
     },
     "accessibility_insights_gone_without_win": {
       "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
@@ -5687,7 +5687,7 @@
     "common_team_form": {
       "comment": "Label for the list of the last matches for the team in the Team Profile",
       "english": "Team form",
-      "value": "ئاستی یانە"
+      "value": "دواین ئەنجامەکان"
     },
     "common_team_form_both": {
       "comment": "W is Win, D is Draw and L is loss",
@@ -5697,7 +5697,7 @@
     "common_team_form_table": {
       "comment": "Teams form. We use this when showing the last 5 matches of the teams in table. Try to keep the translation short.",
       "english": "Form",
-      "value": "ئاست"
+      "value": "ئەنجام"
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
@@ -8652,7 +8652,7 @@
     "notifications_position": {
       "comment": "Label for a field indication which position the player plays in. Forward/defender/attacker og goalkeeper. Try to keep it short.",
       "english": "Position",
-      "value": "پێگەی یاریکردن"
+      "value": "پێگە"
     },
     "notifications_profile": {
       "comment": "Menu item in navigation drawer.",
