@@ -3,7 +3,7 @@
   "translations": {
     "accessibility_about_us": {
       "comment": "Text on button or link that redirects to the About us page.",
-      "english": "About us",
+      "english": "About",
       "value": "دەربارەی ئێمە"
     },
     "accessibility_accurate_cross_team_subtitle": {
@@ -43,7 +43,7 @@
     },
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
-      "english": "Advertise",
+      "english": "Advertise with us",
       "value": "ڕیکلام"
     },
     "accessibility_aerials_won_percent": {
@@ -246,8 +246,7 @@
         "other": "Days"
       },
       "plurals": {
-        "one": "ڕۆژ",
-        "other": "ڕۆژ"
+        "one": "ڕۆژ"
       }
     },
     "accessibility_defenders": {
@@ -1017,8 +1016,7 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 یاری",
-        "other": "%d یاری"
+        "one": "1 یاری"
       },
       "value": "%d یاری"
     },
@@ -1029,8 +1027,7 @@
         "other": "%d matches left"
       },
       "plurals": {
-        "one": "1 یاری ماوە",
-        "other": "%d یاری ماوە"
+        "one": "1 یاری ماوە"
       },
       "value": "%d یاری ماوە"
     },
@@ -1505,8 +1502,7 @@
         "other": "%d other competitions are playing now"
       },
       "plurals": {
-        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت",
-        "other": "ئێستا %d پاڵەوانێتی تریش بەڕێوە دەچن"
+        "one": "ئێستا لە پاڵەوانێتیەکی تریش بەڕێوە دەچێت"
       }
     },
     "accessibility_playing_today": {
@@ -3094,8 +3090,7 @@
         "other": "%d days ago"
       },
       "plurals": {
-        "one": "1 ڕۆژ لەمەوبەر",
-        "other": "%d ڕۆژ لەمەوبەر"
+        "one": "1 ڕۆژ لەمەوبەر"
       }
     },
     "common_days_until_match_start_short": {
@@ -3898,8 +3893,7 @@
         "other": "%d hours ago"
       },
       "plurals": {
-        "one": "%d کاتژمێر لەمەوبەر",
-        "other": "%d کاتژمێر لەمەوبەر"
+        "one": "%d کاتژمێر لەمەوبەر"
       }
     },
     "common_hours_tweet_timestamp": {
@@ -4397,8 +4391,7 @@
         "other": "%d minutes ago"
       },
       "plurals": {
-        "one": "%d خولەک لەمەوبەر",
-        "other": "%d خولەک لەمەوبەر"
+        "one": "%d خولەک لەمەوبەر"
       }
     },
     "common_minutes_tweet_timestamp": {
@@ -4794,7 +4787,7 @@
       "value": "پاراگوای"
     },
     "common_pause": {
-      "comment": "Half-time in a football match (not a generic pause button). Android AudioService incorrectly uses this key for audio pause — see ticket.",
+      "comment": "Half-time in a football match (not a generic pause button).",
       "english": "Pause",
       "value": "وەستان"
     },
@@ -7061,8 +7054,7 @@
         "other": "+%d minutes added"
       },
       "plurals": {
-        "one": "کاتی زیادکراو +%d خولەک",
-        "other": "کاتی زیادکراو +%d خولەک"
+        "one": "کاتی زیادکراو +%d خولەک"
       },
       "value": "کاتی زیادکراو +%d خولەک"
     },
@@ -9501,7 +9493,6 @@
       },
       "plurals": {
         "one": "سبەی بەسەردەچێت",
-        "other": "دوای %d ڕۆژ بەسەردەچێت",
         "zero": "ئەمڕۆ بەسەردەچێت"
       },
       "value": "دوای %d ڕۆژ بەسەردەچێت"
@@ -9772,13 +9763,13 @@
       "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
     },
     "seo_in_app_browser_escape_snapchat": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in Safari\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
-      "english": "Tap the share icon, then 'Open in Safari' or 'Copy Link'",
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in browser\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in browser' or 'Copy Link'",
       "value": "کلیک لە نیشانەی هاوبەشکردن بکە، پاشان 'Open in Safari' یان 'Copy Link'"
     },
     "seo_in_app_browser_escape_telegram": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting Safari. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
-      "english": "Tap the three dots (•••), then 'Open in...' and choose Safari",
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting their browser. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in...' and choose your browser",
       "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in...' و Safari هەڵبژێرە"
     },
     "seo_in_app_browser_escape_tiktok": {
@@ -9787,8 +9778,8 @@
       "value": "لینکەکە کۆپی بکە و لە Safari یان Chrome پەیستی بکە"
     },
     "seo_in_app_browser_escape_twitter": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in Safari\". The phrase \"Open in Safari\" should match however X/Twitter labels that menu item in the target language's version of the app. \"Safari\" is a brand name and should not be translated. Tone: concise, direct, instructional.",
-      "english": "Tap the share icon, then 'Open in Safari'",
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in browser\". The phrase \"Open in browser\" should match however X/Twitter labels that menu item in the target language's version of the app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
+      "english": "Tap the share icon, then 'Open in browser'",
       "value": "کلیک لە نیشانەی هاوبەشکردن بکە، پاشان 'Open in Safari'"
     },
     "seo_in_app_browser_escape_unknown": {
@@ -9797,8 +9788,8 @@
       "value": "بگەڕێ بۆ لیستێک (••• یان نیشانەی هاوبەشکردن) و 'Open in browser' هەڵبژێرە"
     },
     "seo_in_app_browser_escape_wechat": {
-      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in Safari\". The phrase \"Open in Safari\" should match however WeChat labels that menu item in the target language's version of the WeChat app. \"Safari\" is a brand name and should not be translated. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
-      "english": "Tap the three dots (•••), then 'Open in Safari'",
+      "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in browser\". The phrase \"Open in browser\" should match however WeChat labels that menu item in the target language's version of the WeChat app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
+      "english": "Tap the three dots (•••), then 'Open in browser'",
       "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in Safari'"
     },
     "seo_in_app_browser_go_back": {
@@ -10380,7 +10371,6 @@
       },
       "plurals": {
         "one": "سبەی نوێ دەبێتەوە",
-        "other": "دوای %d ڕۆژ نوێ دەبێتەوە",
         "zero": "ئەمڕۆ نوێ دەبێتەوە"
       }
     },
@@ -11149,8 +11139,7 @@
         "other": "%@ votes"
       },
       "plurals": {
-        "one": "%@ دەنگ",
-        "other": "%@ دەنگ"
+        "one": "%@ دەنگ"
       }
     },
     "seo_watch_on_tv": {
@@ -11285,8 +11274,7 @@
         "other": "%d matches"
       },
       "plurals": {
-        "one": "1 یاری",
-        "other": "%d یاری"
+        "one": "1 یاری"
       }
     },
     "seo_xg_table_explanation": {

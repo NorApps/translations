@@ -2686,7 +2686,7 @@
     "common_assists": {
       "comment": "Header for top lists of the player with mosts assists",
       "english": "Assists",
-      "value": "助攻"
+      "value": "助攻榜"
     },
     "common_attacker": {
       "comment": "MAX 2 chars!",
@@ -5506,7 +5506,7 @@
     },
     "common_started": {
       "english": "Started",
-      "value": "首发"
+      "value": "已开始"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",
@@ -11096,9 +11096,14 @@
       "value": "试用我们的阵容构建器"
     },
     "seo_tv_guide_matches_date_on": {
-      "comment": "Header text for TV guide channel page for football matches. %@ is the date label, could be \"today\", \"tomorrow\" or a specific date. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på.",
-      "english": "Matches %@ on",
-      "value": "%@在%@的比赛"
+      "comment": "Header text for TV guide channel page for football matches. First %@ is the date label (e.g., \"today\", \"tomorrow\", or specific date), second %@ is the channel name. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på %@",
+      "english": "Matches %@ on %@",
+      "value": "%@在%@播出的比赛"
+    },
+    "seo_tv_guide_matches_on_nodate": {
+      "comment": "Header text for TV guide channel page for football matches without date. %@ is the channel name. For example in Norwegian it should be \"Kamper på Viaplay\", so: Kamper på %@",
+      "english": "Matches on %@",
+      "value": "%@上的比赛"
     },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",

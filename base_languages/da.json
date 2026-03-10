@@ -11115,9 +11115,14 @@
       "value": "Prøv vores opstillingsbygger"
     },
     "seo_tv_guide_matches_date_on": {
-      "comment": "Header text for TV guide channel page for football matches. %@ is the date label, could be \"today\", \"tomorrow\" or a specific date. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på.",
-      "english": "Matches %@ on",
-      "value": "Kamper %@ på %@"
+      "comment": "Header text for TV guide channel page for football matches. First %@ is the date label (e.g., \"today\", \"tomorrow\", or specific date), second %@ is the channel name. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på %@",
+      "english": "Matches %@ on %@",
+      "value": "Kampe %@ på %@"
+    },
+    "seo_tv_guide_matches_on_nodate": {
+      "comment": "Header text for TV guide channel page for football matches without date. %@ is the channel name. For example in Norwegian it should be \"Kamper på Viaplay\", so: Kamper på %@",
+      "english": "Matches on %@",
+      "value": "Kampe på %@"
     },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",
