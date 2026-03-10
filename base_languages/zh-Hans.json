@@ -2686,7 +2686,7 @@
     "common_assists": {
       "comment": "Header for top lists of the player with mosts assists",
       "english": "Assists",
-      "value": "助攻榜"
+      "value": "助攻"
     },
     "common_attacker": {
       "comment": "MAX 2 chars!",
@@ -5506,7 +5506,7 @@
     },
     "common_started": {
       "english": "Started",
-      "value": "已开始"
+      "value": "首发"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",
