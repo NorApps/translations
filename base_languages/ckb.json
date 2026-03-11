@@ -9779,7 +9779,7 @@
     "seo_in_app_browser_escape_snapchat": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in browser\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
       "english": "Tap the share icon, then 'Open in browser' or 'Copy Link'"
-      "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'کردنەوە لە وێبگەڕ' یان 'کۆپیکردنی لینک '"
+      "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'کردنەوە لە وێبگەڕ' یان 'کۆپیکردنی لینک'"
     },
     "seo_in_app_browser_escape_telegram": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting their browser. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
