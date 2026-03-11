@@ -2702,7 +2702,7 @@
       "value": "هێرشبەر"
     },
     "common_audio_pause": {
-      "comment": "Generic pause button label for audio playback controls (not match half-time).",
+      "comment": "Generic pause button label for audio playback controls (not the half-time break in a football match).",
       "english": "Pause",
       "value": "وەستاندن"
     },
@@ -9389,12 +9389,12 @@
     "seo_copy_link": {
       "comment": "Text for the button that copies the league invite link to clipboard.",
       "english": "Copy link",
-      "value": "کۆپی کردنی لینک"
+      "value": "کۆپیکردنی لینک"
     },
     "seo_copy_link_web": {
       "comment": "Text in a button which will copy a link of linup builder team.",
       "english": "Copy link",
-      "value": "کۆپی کردنی لینک"
+      "value": "کۆپیکردنی لینک"
     },
     "seo_correct_outcome": {
       "comment": "Title for section explaining how many points you get for a correct outcome in the predictor game.",
@@ -9739,12 +9739,12 @@
     "seo_in_app_browser_escape_facebook": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook's built-in browser. It tells the user how to open the current page in a real browser instead. Note that the three dots (•••) are at the \"bottom right\" in Facebook (unlike Instagram where they are at the top right) — preserve this positional detail accurately. The phrase \"Open in browser\" should match however Facebook labels that menu item in the target language's version of the Facebook app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••) at bottom right, then 'Open in browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە خوارەوە لای ڕاست، پاشان 'Open in browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە خوارەوە لای ڕاست، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_escape_instagram": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Instagram's built-in browser. It tells the user how to open the current page in a real browser (Safari/Chrome) instead. The instruction references Instagram's \"three dots\" menu (•••) — keep the ••• symbol as-is since it's a visual cue. The phrase \"Open in browser\" should match however Instagram labels that menu item in the target language's version of the Instagram app. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional — like a tooltip or helper text.",
       "english": "Tap the three dots (•••) at top right, then 'Open in browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە سەرەوە لای ڕاست، پاشان 'Open in browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە سەرەوە لای ڕاست، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_escape_kakaotalk": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside KakaoTalk's built-in browser. It tells the user to tap the menu (≡ hamburger icon) and choose \"Open in other browser\". The phrase \"Open in other browser\" should match however KakaoTalk labels that menu item in the target language's version of the KakaoTalk app. Keep the ≡ symbol as-is. Tone: concise, direct, instructional.",
@@ -9759,27 +9759,27 @@
     "seo_in_app_browser_escape_linkedin": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside LinkedIn's built-in browser. It tells the user to tap the three dots menu and choose \"Open in browser\". The phrase \"Open in browser\" should match however LinkedIn labels that menu item in the target language's version of the LinkedIn app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••), then 'Open in browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_escape_messenger": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Facebook Messenger's built-in browser. It tells the user how to open the current page in a real browser instead. The phrase \"Open in external browser\" should match however Messenger labels that menu item in the target language's version of the Messenger app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••) at top right, then 'Open in external browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە سەرەوە لای ڕاست، پاشان 'Open in external browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە لە سەرەوە لای ڕاست، پاشان 'کردنەوە لە وێبگەڕی دەرەکی'"
     },
     "seo_in_app_browser_escape_pinterest": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Pinterest's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Pinterest labels that menu item in the target language's version of the Pinterest app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••), then 'Open in browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_escape_reddit": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Reddit's built-in browser. It tells the user to tap the three dots menu (•••) and choose \"Open in browser\". The phrase \"Open in browser\" should match however Reddit labels that menu item in the target language's version of the Reddit app. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••), then 'Open in browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_escape_snapchat": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in browser\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
       "english": "Tap the share icon, then 'Open in browser' or 'Copy Link'",
-      "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'Open in browser' یان 'Copy Link'"
+      "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'کردنەوە لە وێبگەڕ' یان 'کۆپیکردنی لینک '"
     },
     "seo_in_app_browser_escape_telegram": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting their browser. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
@@ -9794,17 +9794,17 @@
     "seo_in_app_browser_escape_twitter": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside X (Twitter)'s built-in browser. It tells the user to tap the share icon and choose \"Open in browser\". The phrase \"Open in browser\" should match however X/Twitter labels that menu item in the target language's version of the app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
       "english": "Tap the share icon, then 'Open in browser'",
-      "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'Open in browser'"
+      "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_escape_unknown": {
       "comment": "This is a generic fallback UI instruction shown on a sign-in screen when the user is browsing inside an unidentified app's built-in browser (we couldn't detect which app it is). It gives a general hint to look for a menu (either ••• dots or a share icon) and select \"Open in browser\". Keep the ••• symbol as-is. The phrase \"Open in browser\" is a generic label — translate it naturally as a general action. Tone: concise, direct, instructional.",
       "english": "Look for a menu (••• or share icon) and select 'Open in browser'",
-      "value": "بگەڕێ بۆ لیستێک (••• یان ئایکۆنی هاوبەشکردن) و 'Open in browser' هەڵبژێرە"
+      "value": "بگەڕێ بۆ لیستێک (••• یان ئایکۆنی هاوبەشکردن) و 'کردنەوە لە وێبگەڕ' هەڵبژێرە"
     },
     "seo_in_app_browser_escape_wechat": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside WeChat's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in browser\". The phrase \"Open in browser\" should match however WeChat labels that menu item in the target language's version of the WeChat app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••), then 'Open in browser'",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in browser'"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'کردنەوە لە وێبگەڕ'"
     },
     "seo_in_app_browser_go_back": {
       "comment": "This is the label of a standalone clickable link/button displayed directly below the in_app_browser_warning_may_fail warning text. Tapping it takes the user back to the previous screen where they can open the page in a real browser (Safari/Chrome) instead of trying to sign in within the in-app browser. Tone: short, actionable — a standard navigation action label.",
