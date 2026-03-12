@@ -4190,7 +4190,7 @@
     "common_leftmidfielder": {
       "comment": "Player position - player plays on the left side of the midfield",
       "english": "Left Midfielder",
-      "value": "ناوەڕاستکاری چەپ"
+      "value": "ناوەڕاستکاری باڵی چەپ"
     },
     "common_leftmidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Left Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
@@ -4801,7 +4801,7 @@
     "common_pause": {
       "comment": "Half-time in a football match (not a generic pause button).",
       "english": "Pause",
-      "value": "وچان"
+      "value": "پشوو"
     },
     "common_pause_match": {
       "english": "Half time",
@@ -5201,7 +5201,7 @@
     "common_rightmidfielder": {
       "comment": "Player position - player plays on the right side of the midfield",
       "english": "Right Midfielder",
-      "value": "ناوەڕاستکاری ڕاست"
+      "value": "ناوەڕاستکاری باڵی ڕاست"
     },
     "common_rightmidfielder_short": {
       "comment": "Player position - a SHORT abbrevation of the Right Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
@@ -9778,13 +9778,13 @@
     },
     "seo_in_app_browser_escape_snapchat": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Snapchat's built-in browser. It tells the user to tap the share icon and then choose \"Open in browser\" or \"Copy Link\". These menu item labels should match however Snapchat labels them in the target language's version of the Snapchat app. The word \"browser\" should be translated to the target language. Tone: concise, direct, instructional.",
-      "english": "Tap the share icon, then 'Open in browser' or 'Copy Link'"
+      "english": "Tap the share icon, then 'Open in browser' or 'Copy Link'",
       "value": "کلیک لە ئایکۆنی هاوبەشکردن بکە، پاشان 'کردنەوە لە وێبگەڕ' یان 'کۆپیکردنی لینک'"
     },
     "seo_in_app_browser_escape_telegram": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside Telegram's built-in browser. It tells the user to tap the three dots menu (•••) and then choose \"Open in...\" followed by selecting their browser. The phrase \"Open in...\" should match however Telegram labels that menu item in the target language's version of the Telegram app. The word \"browser\" should be translated to the target language. Keep the ••• symbol as-is. Tone: concise, direct, instructional.",
       "english": "Tap the three dots (•••), then 'Open in...' and choose your browser",
-      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'Open in...' و وێبگەڕەکەت هەڵبژێرە"
+      "value": "کلیک لە سێ خاڵەکە (•••) بکە، پاشان 'کردنەوە لە...' و وێبگەڕەکەت هەڵبژێرە"
     },
     "seo_in_app_browser_escape_tiktok": {
       "comment": "This is a short UI instruction shown on a sign-in screen when the user is browsing inside TikTok's built-in browser. TikTok doesn't have a convenient \"open in browser\" button, so the instruction tells the user to copy the link and paste it into Safari or Chrome manually. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: concise, direct, instructional.",
