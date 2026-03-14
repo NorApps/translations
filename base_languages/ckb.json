@@ -5530,7 +5530,7 @@
     },
     "common_started": {
       "english": "Started",
-      "value": "دەستی پێکرد"
+      "value": "سەرەکی"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",
@@ -6398,7 +6398,7 @@
     "ios_Rank": {
       "comment": "Do not use more than 5 characters! There is little room in the GUI for this string",
       "english": "Rank",
-      "value": "پلەی"
+      "value": "ئاست"
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
