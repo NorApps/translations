@@ -6185,7 +6185,7 @@
     "common_var_penalty_goal_retake": {
       "comment": "Penalty goal had to be retaken due to Video Assistant referee. Note that the player scored on the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty goal cancelled\" with no reference to Video Assistant referee.",
       "english": "Penalty goal - to be retaken",
-      "value": "ペナルティゴール - やり直し"
+      "value": "PKゴール - やり直し"
     },
     "common_var_penalty_miss_retake": {
       "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
