@@ -4450,7 +4450,7 @@
     },
     "common_missed_penalty": {
       "english": "Missed penalty",
-      "value": "ペナルティを外しました"
+      "value": "PK失敗"
     },
     "common_more": {
       "comment": "Last tab on the main screen, which contains settings, TV guide, etc.",
@@ -5296,7 +5296,7 @@
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
       "english": "Saved penalties",
-      "value": "PKセーブ数"
+      "value": "PKセーブ"
     },
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
@@ -5345,7 +5345,7 @@
     "common_second_yellow_card": {
       "comment": "A label explaining an icon showing a yellow and a red card on top of each other indicating that the player got a red card from two yellow cards. So he got his Second yellow.",
       "english": "Second yellow",
-      "value": "2枚目のイエロー"
+      "value": "イエロー2枚"
     },
     "common_secondary_onboarding_teams_body": {
       "comment": "Explanation to the user why he should add more favorite teams and players. @",
@@ -5650,7 +5650,7 @@
     },
     "common_subs": {
       "english": "Substitutes",
-      "value": "控え"
+      "value": "交代"
     },
     "common_subs_stats": {
       "english": "Substitutes",
@@ -7889,7 +7889,7 @@
     },
     "notifications_injured": {
       "english": "Injured",
-      "value": "負傷中"
+      "value": "負傷"
     },
     "notifications_injured_and_suspended_players": {
       "english": "Injured and suspended players",
@@ -8181,7 +8181,7 @@
     },
     "notifications_injury_6": {
       "english": "Injured",
-      "value": "負傷中"
+      "value": "負傷"
     },
     "notifications_injury_61": {
       "english": "Eye injury",
