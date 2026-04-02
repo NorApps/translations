@@ -6190,7 +6190,7 @@
     "common_var_penalty_miss_retake": {
       "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
       "english": "Missed penalty - to be retaken",
-      "value": "ペナルティを外しました - やり直し"
+      "value": "PK失敗 - やり直し"
     },
     "common_var_pending": {
       "comment": "Information that the Video Assistant Referee is checking something",
@@ -8748,7 +8748,7 @@
     "notifications_player_substitution": {
       "comment": "User can enable alerts when a player is substituted (in our out or the pitch). This is the label on the checkbox that the user can toggle to enable those alerts.",
       "english": "Substitution",
-      "value": "控え"
+      "value": "交代"
     },
     "notifications_player_throws": {
       "comment": "Goalkeeper throws or throw-ins from the side. We use the same translation for both.",
