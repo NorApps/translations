@@ -2544,6 +2544,11 @@
       "english": "Add leagues",
       "value": "Додати чемпіонати"
     },
+    "common_add_player": {
+      "comment": "A search bottom sheet header for adding a player",
+      "english": "Add player",
+      "value": "Додати гравця"
+    },
     "common_add_remove_leagues": {
       "english": "Add/Remove leagues",
       "value": "Додати/Усунути чемпіонати"
@@ -2960,6 +2965,11 @@
       "english": "Clear cache",
       "value": "Очистити сховище"
     },
+    "common_clear_players": {
+      "comment": "A menu action label allowing the user to clear all players in a lineup in lineup builder",
+      "english": "Clear players",
+      "value": "Прибрати гравців"
+    },
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "english": "Cleared off the line",
@@ -3030,6 +3040,11 @@
       "english": "You can click here to compare the current player against another player",
       "value": "Ви можете натиснути тут, щоб порівняти поточного гравця з іншим гравцем"
     },
+    "common_complete_lineup": {
+      "comment": "A toast indicating that the user has to complete the lineup in order to save or share",
+      "english": "Complete lineup",
+      "value": "Заповніть склад"
+    },
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
       "english": "CONCACAF Champions League",
@@ -3084,6 +3099,11 @@
     "common_costa_rica": {
       "english": "Costa Rica",
       "value": "Коста-Ріка"
+    },
+    "common_could_not_delete_saved_lineup": {
+      "comment": "A toast indicating that we were not able to delete the users saved lineup",
+      "english": "Could not delete saved lineup",
+      "value": "Не вдалося видалити збережений склад"
     },
     "common_countries": {
       "comment": "Header in the onboarding for the WC2018 teams (to pick the national teams to follow)",
@@ -3144,6 +3164,16 @@
     "common_defender_long": {
       "english": "Defender",
       "value": "Захисник"
+    },
+    "common_delete_action": {
+      "comment": "A destructive action",
+      "english": "Delete",
+      "value": "Видалити"
+    },
+    "common_delete_saved_lineup": {
+      "comment": "An alert action asking the user if he wants to delete his saved lineup",
+      "english": "Delete saved lineup?",
+      "value": "Видалити збережений склад?"
     },
     "common_deselect": {
       "english": "Deselect",
@@ -3339,6 +3369,11 @@
     "common_end_of_match": {
       "english": "final",
       "value": "фінальний свисток"
+    },
+    "common_enter_name": {
+      "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
+      "english": "Enter a name",
+      "value": "Введіть ім'я"
     },
     "common_error_adding_match_to_calendar": {
       "english": "Error adding match to calendar, this feature works only on Android 4.x",
@@ -3659,6 +3694,11 @@
       "english": "Fouls committed",
       "value": "Порушення правил"
     },
+    "common_free_formation": {
+      "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
+      "english": "Free formation",
+      "value": "Вільна схема"
+    },
     "common_free_kick": {
       "comment": "Type of goal via a free kick",
       "english": "Free kick",
@@ -3681,6 +3721,11 @@
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "ЗАГАЛЬНЕ"
+    },
+    "common_get_started": {
+      "comment": "A button in the lineup builder onboarding allowing the user to start building",
+      "english": "Get started",
+      "value": "Почати"
     },
     "common_go_to_the_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -4079,6 +4124,11 @@
       "english": "Last home matches",
       "value": "Останні домашні матчі"
     },
+    "common_last_lineup_unavailable": {
+      "comment": "A toast message indicating that the last lineup is unavailable for the selected team. Add no placeholder after the \"for\".\"",
+      "english": "Last lineup unavailable for",
+      "value": "Попередній склад недоступний для"
+    },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
@@ -4216,6 +4266,16 @@
     "common_lineup": {
       "english": "Lineup",
       "value": "Склади"
+    },
+    "common_lineup_builder_more_desc": {
+      "comment": "The fotmob lineup builder feature description in the more tab",
+      "english": "Build your own FotMob lineup",
+      "value": "Створіть власний склад FotMob"
+    },
+    "common_lineup_builder_onboarding_desc": {
+      "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
+      "english": "Build your dream XI, pick your team's next lineup, or plan your transfer window.",
+      "value": "Створи свою омріяну 11-ку, обери наступний стартовий склад своєї команди або сплануй трансферне вікно."
     },
     "common_loading": {
       "english": "Loading...",
@@ -4426,6 +4486,11 @@
       "english": "Move to top",
       "value": "Повернутися на початок"
     },
+    "common_my_lineups": {
+      "comment": "A menu action label for the users saved lineups in lineup builder",
+      "english": "My lineups",
+      "value": "Мої склади"
+    },
     "common_my_matches": {
       "english": "My matches",
       "value": "Мої матчі"
@@ -4437,6 +4502,11 @@
     "common_name": {
       "english": "Name",
       "value": "Ім'я"
+    },
+    "common_name_your_lineup": {
+      "comment": "A label indicating that you can name your lineup",
+      "english": "Name your lineup",
+      "value": "Назвіть свій склад"
     },
     "common_network_connection_issues_notification_ios": {
       "english": "It looks like we have problems fetching new data. %@",
@@ -4454,6 +4524,11 @@
     "common_new_leagues": {
       "english": "New leagues available",
       "value": "Доступні нові чемпіонати"
+    },
+    "common_new_lineup": {
+      "comment": "A menu action allowing the user to create a new lineup",
+      "english": "New lineup",
+      "value": "Новий склад"
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
@@ -4498,6 +4573,11 @@
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
       "value": "Розклади матчів недоступні"
+    },
+    "common_no_lineups_saved": {
+      "comment": "A placeholder text indicating the user has no saved lineups",
+      "english": "No lineups saved",
+      "value": "Немає збережених складів"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
@@ -5135,6 +5215,11 @@
       "english": "Remove League",
       "value": "Усунути Лігу"
     },
+    "common_remove_player": {
+      "comment": "A long press menu action allowing the user to remove a player in the lineup",
+      "english": "Remove player",
+      "value": "Прибрати гравця"
+    },
     "common_reset": {
       "english": "Reset",
       "value": "Скидання"
@@ -5214,6 +5299,16 @@
     "common_rss_feeds": {
       "english": "News",
       "value": "Новини"
+    },
+    "common_save_action": {
+      "comment": "A menu action for saving lineups",
+      "english": "Save",
+      "value": "Зберегти"
+    },
+    "common_saved_lineup_deleted": {
+      "comment": "A toast indicating that we successfully deleted the users saved lineup",
+      "english": "Saved lineup deleted",
+      "value": "Збережений склад видалено"
     },
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
@@ -5496,6 +5591,11 @@
       "english": "Squad",
       "value": "Склад"
     },
+    "common_squad_name": {
+      "comment": "Used in the lineup builder for a squad name title placeholder",
+      "english": "Squad name",
+      "value": "Назва команди"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "Рекомендоване"
@@ -5692,6 +5792,11 @@
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
       "value": "Для однієї з команд сповіщення вже увімкнені, необхідно вимкнути сповіщення через сторінку команди"
     },
+    "common_team_pre_fill": {
+      "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
+      "english": "Team pre-fill",
+      "value": "Попередньо заповнити команду"
+    },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
       "english": "Just to confirm, you wanted ‘${team}’?",
@@ -5768,6 +5873,11 @@
       "comment": "Small-label below the bronze-match. Keep it short!",
       "english": "3rd",
       "value": "3-тє"
+    },
+    "common_this_removes": {
+      "comment": "An alert action description indicating that the action removes a lineup. Add no placeholder after the \"removes\"",
+      "english": "This removes",
+      "value": "Це видаляє"
     },
     "common_three_match_series": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6055,6 +6165,11 @@
       "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
       "english": "until %@",
       "value": "до %@"
+    },
+    "common_untitled": {
+      "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
+      "english": "Untitled",
+      "value": "Без назви"
     },
     "common_upcoming_matches": {
       "english": "Upcoming matches",
@@ -7292,6 +7407,11 @@
       "english": "Azerbaijan",
       "value": "Азербайджан"
     },
+    "notifications_bangladesh": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Bangladesh",
+      "value": "Бангладеш"
+    },
     "notifications_belarus": {
       "english": "Belarus",
       "value": "Білорусь"
@@ -7387,6 +7507,11 @@
       "comment": "Heading for notification/alert settings",
       "english": "Manage all your active news, team, player and league notifications",
       "value": "Керуйте всіма активними новинами: сповіщеннями про команди, гравців та чемпіонати"
+    },
+    "notifications_china": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "China",
+      "value": "Китай"
     },
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
@@ -7685,6 +7810,11 @@
       "english": "Germany",
       "value": "Німеччина"
     },
+    "notifications_ghana": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Ghana",
+      "value": "Гана"
+    },
     "notifications_goal_v2": {
       "english": "Goal",
       "value": "Гол"
@@ -7737,6 +7867,11 @@
       "comment": "support screen headline (\\n for line break)",
       "english": "Hello,\\nhow can we help you?",
       "value": "Вітаємо,\\nяк ми можемо Вам допомогти?"
+    },
+    "notifications_hong_kong": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Hong Kong",
+      "value": "Гонконг"
     },
     "notifications_how_about_rating": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -8230,6 +8365,11 @@
       "english": "Italy",
       "value": "Італія"
     },
+    "notifications_japan": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Japan",
+      "value": "Японія"
+    },
     "notifications_kazakhstan": {
       "english": "Kazakhstan",
       "value": "Казахстан"
@@ -8289,6 +8429,16 @@
       "comment": "The republic of North Macedonia.",
       "english": "North Macedonia",
       "value": "Північна Македонія"
+    },
+    "notifications_malaysia": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Malaysia",
+      "value": "Малайзія"
+    },
+    "notifications_malta": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Malta",
+      "value": "Мальта"
     },
     "notifications_match_date": {
       "english": "Match date",
@@ -8351,6 +8501,11 @@
       "comment": "Abbrevation of minutes",
       "english": "Min",
       "value": "Хв"
+    },
+    "notifications_morocco": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Morocco",
+      "value": "Марокко"
     },
     "notifications_my_leagues": {
       "comment": "Profile page list header",
@@ -8424,9 +8579,19 @@
       "english": "Writing results to log file",
       "value": "Запис результатів у файл журналу"
     },
+    "notifications_new_zealand": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "New Zealand",
+      "value": "Нова Зеландія"
+    },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
       "value": "Чудово! У вас все готово, чи ви хочете додати сповіщення про трансфери по всій лізі або налаштувати трансфери команди?"
+    },
+    "notifications_nigeria": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Nigeria",
+      "value": "Нігерія"
     },
     "notifications_night_mode": {
       "comment": "Deprecated",
@@ -8511,6 +8676,11 @@
       "english": "Open on watch",
       "value": "Відкрити на годиннику"
     },
+    "notifications_pakistan": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Pakistan",
+      "value": "Пакистан"
+    },
     "notifications_pass_percentage": {
       "english": "Pass success",
       "value": "Точність передач"
@@ -8527,6 +8697,11 @@
     "notifications_penalties_won": {
       "english": "Penalties won",
       "value": "Виграні пенальті"
+    },
+    "notifications_philippines": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Philippines",
+      "value": "Філіппіни"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -8872,9 +9047,19 @@
       "english": "Signing in…",
       "value": "Вхід в систему..."
     },
+    "notifications_singapore": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Singapore",
+      "value": "Сінгапур"
+    },
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "Словаччина"
+    },
+    "notifications_slovenia": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Slovenia",
+      "value": "Словенія"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -8894,6 +9079,11 @@
     "notifications_south_africa": {
       "english": "South Africa",
       "value": "Південно-Африканська Республіка"
+    },
+    "notifications_south_korea": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "South Korea",
+      "value": "Південна Корея"
     },
     "notifications_spain": {
       "comment": "Used in TV schedules filter",
@@ -8950,6 +9140,11 @@
     "notifications_tackles_succeeded": {
       "english": "Tackles won",
       "value": "Відбір м'яча"
+    },
+    "notifications_tanzania": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Tanzania",
+      "value": "Танзанія"
     },
     "notifications_team_play": {
       "english": "Team play",
@@ -9250,6 +9445,16 @@
       "english": "These summaries are generated by AI, based on recent news articles within FotMob. Each summary links to the article it is based upon.",
       "value": "Ці підсумки створюються ШІ на основі останніх новинних статей на FotMob. Кожен із них містить посилання на відповідну статтю"
     },
+    "seo_allow_notifications": {
+      "comment": "Call to action text to prompt for remote notifications",
+      "english": "Allow notifications",
+      "value": "Дозволити сповіщення"
+    },
+    "seo_allow_notifications_to_get_match_updates": {
+      "comment": "Description for \"prompt for notifications\" step in onboarding to further explain what kind of notifications the user will get if they enable them.",
+      "english": "Allow notifications to get match updates, which can be customized later.",
+      "value": "Дозвольте сповіщення, щоб отримувати оновлення матчів — їх можна налаштувати пізніше."
+    },
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "english": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play.",
@@ -9363,6 +9568,11 @@
       "english": "Days",
       "value": "дні"
     },
+    "seo_defensive_actions_per_90": {
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made per 90 minutes. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action. See defensive_actions.",
+      "english": "Defensive contributions per 90",
+      "value": "Дії в обороні за 90 хвилин"
+    },
     "seo_delayed": {
       "comment": "Displays the text delayed below a matches score",
       "english": "Delayed",
@@ -9422,6 +9632,11 @@
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "xG проти (на полі)"
+    },
+    "seo_expected_goals_set_play_conceded": {
+      "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "xG set play conceded",
+      "value": "xG пропущені зі стандартів"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9505,6 +9720,11 @@
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
       "english": "Fixture difficulty",
       "value": "Складність розкладу матчів"
+    },
+    "seo_follow_players_to_track_performances": {
+      "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
+      "english": "Follow players to track performances and transfers.",
+      "value": "Стежте за гравцями, щоб відстежувати їхню форму та трансфери."
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
@@ -9931,6 +10151,11 @@
       "english": "Unlock additional notification sounds.",
       "value": "Розблокувати додаткові звуки сповіщень."
     },
+    "seo_never_miss_a_goal": {
+      "comment": "Title for \"prompt for notifications\" step in onboarding to explain why users should enable notifications.",
+      "english": "Never miss a goal",
+      "value": "Не пропустіть жодного гола"
+    },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "english": "Newsletter",
@@ -10327,6 +10552,21 @@
       "english": "Search for any team to start with",
       "value": "Знайдіть команду для початку"
     },
+    "seo_search_leagues_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search leagues",
+      "value": "Шукати ліги"
+    },
+    "seo_search_players_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search players",
+      "value": "Пошук гравців"
+    },
+    "seo_search_teams_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search teams",
+      "value": "Пошук команд"
+    },
     "seo_season_total": {
       "comment": "Text in a dropdown showing the season total score of a prediction competition, if the text is longer in the translated language use a shorter natural phrase like \"total\" instead.",
       "english": "Season total",
@@ -10346,6 +10586,16 @@
       "comment": "Abbreviation for \"seconds\" used in a countdown timer. Should be concise.",
       "english": "Secs",
       "value": "сек."
+    },
+    "seo_set_piece_goals": {
+      "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
+      "english": "Set piece goals",
+      "value": "Голи зі стандартів"
+    },
+    "seo_set_piece_goals_conceded": {
+      "comment": "Label for a statistic showing the number of goals conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "Set piece goals conceded",
+      "value": "Пропущені голи зі стандартів"
     },
     "seo_show_club_badge": {
       "comment": "Checkbox option to show club badge next to the player images in the lineupbuilder. see [lineup_builder].",
@@ -10388,34 +10638,34 @@
       "value": "Отримуйте останні новини, заголовки та трансферні чутки з Прем'єр-ліги та світового футболу."
     },
     "seo_site_description_league_matches": {
-      "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ results %2$@ and upcoming fixtures",
-      "value": "%1$@ результати %2$@ та майбутні матчі"
+      "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
+      "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
+      "value": "Усі результати матчів %1$@ та майбутні матчі %2$@. Сортуйте за датою, туром, клубом або групою. Рахунки наживо та результати оновлюються щотуру."
     },
     "seo_site_description_league_news": {
-      "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
-      "english": "Get the latest %1$@ news and transfer rumours.",
-      "value": "Отримайте останні новини %1$@ та трансферні чутки."
+      "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",
+      "english": "Stay up to date with the latest %@ news including transfer rumours, injury updates, match highlights, match previews and managerial changes.",
+      "value": "Будьте в курсі останніх новин про %@: трансферні чутки, оновлення щодо травм, хайлайти матчів, анонси матчів і зміни тренера."
     },
     "seo_site_description_league_overview": {
-      "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "english": "%1$@ table %2$@, results, fixtures, top scorers and more",
-      "value": "Таблиця: %1$@ %2$@, включає результати, розклад матчів, кращих бомбардирів та ін."
+      "comment": "SEO description for league overview page showing table, results, fixtures and top scorers. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ overview for %2$@ with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
+      "value": "Огляд %1$@ за сезон %2$@ з турнірною таблицею, останніми результатами, найближчими матчами, найкращими бомбардирами та останніми новинами ліги."
     },
     "seo_site_description_league_playoff": {
-      "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "english": "%1$@ tournament overview, fixtures, results %2$@",
-      "value": "Огляд турніру %1$@, розклад матчів, результати %2$@"
+      "comment": "SEO description for league playoff/knockout page showing bracket, fixtures and results. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ playoff bracket for %2$@ with knockout fixtures, results, matchups and the road to the final. Follow every round of the tournament live.",
+      "value": "Сітка плей-оф %1$@ для %2$@ з матчами на вибування, результатами, парами та шляхом до фіналу. Стежте наживо за кожним раундом турніру."
     },
     "seo_site_description_league_stats": {
-      "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
-      "english": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@ статистика %2$@ включає кращих бомбардирів, гольові передачі, оцінки гравців та багато іншого"
+      "comment": "SEO description for league stats page showing top scorers, assists, ratings and performance data. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ statistics for %2$@ with top scorers, assist leaders, player ratings, clean sheets and detailed performance data for every team.",
+      "value": "Статистика %1$@ за %2$@ з найкращими бомбардирами, лідерами за асистами, рейтингами гравців, «сухими» матчами та детальними даними виступів для кожної команди."
     },
     "seo_site_description_league_table": {
-      "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
-      "english": "%1$@ table %2$@, standings, form guide, and more.",
-      "value": "Таблиця: %1$@ %2$@, включає турнірне положення, оцінку форми та ін."
+      "comment": "SEO description for league table page showing standings with points, form and upcoming opponents. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ standings for %2$@ with current form, home and away records, goal difference and upcoming opponents for every team.",
+      "value": "Турнірна таблиця %1$@ за сезон %2$@ з поточною формою, статистикою вдома/на виїзді, різницею голів і найближчими суперниками для кожної команди."
     },
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
@@ -10423,24 +10673,24 @@
       "value": "Ліга «%1$@» %2$@ ранжована за очікуваними очками (xPts). Див. таблицю очікуваних голів для ліги «%1$@«» або таблицю для %2$@ та інших сезонів на FotMob."
     },
     "seo_site_description_league_transfers": {
-      "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "english": "See all %1$@ transfers.",
-      "value": "Подивитися всі трансфери %1$@."
+      "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
+      "english": "Complete %@ transfer overview with all incoming and outgoing players, transfer fees, contract details and loan moves across every club.",
+      "value": "Повний огляд трансферів %@: усі вхідні та вихідні гравці, суми трансферів, деталі контрактів і оренди в усіх клубах."
     },
     "seo_site_description_league_trophies": {
-      "comment": "metadata description for league trophies tab.",
-      "english": "%1$@ historic seasons with winners and runners-up.",
-      "value": "%1$@ історичних сезонів з переможцями та фіналістами."
+      "comment": "SEO description for league trophies page showing historical winners, runner-up and title races. %@ is the league name",
+      "english": "Explore the full %@ history with past champions, runners-up, title races and season-by-season results going back through the decades.",
+      "value": "Дізнайтеся повну історію %@: колишні чемпіони, віцечемпіони, чемпіонські перегони та результати сезону за сезоном за десятиліття."
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
       "value": "%1$@ проти %2$@ %3$@. Перевірте результати live, очні зустрічі, статистику матчу, склади команд, рейтинги гравців, аналітику, форму команд, карту ударів та основні моменти."
     },
-    "seo_site_description_match_finished": {
-      "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
-      "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ проти %2$@ %3$@ завершився з рахунком %4$@. Перевірте результати live, очні зустрічі, статистику матчу, склади команд, рейтинги гравців, аналітику, форму команд, карту ударів та основні моменти."
+    "seo_site_description_match_with_alias": {
+      "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
+      "english": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
+      "value": "%4$@: %1$@ проти %2$@ %3$@. Перевірте результати наживо, H2H (очні зустрічі), статистику матчу, склади, рейтинги гравців, аналітику, форму команд, карту ударів і огляд моментів."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -10453,44 +10703,44 @@
       "value": "%1$@ статистика для %2$@ %3$@ включаючи кращих бомбардирів, асисти, оцінки гравців та інше"
     },
     "seo_site_description_team_fixtures": {
-      "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
-      "english": "%1$@ - live scores, fixtures, and results",
-      "value": "%1$@ - рахунки в режимі лайв, розклад та результати"
+      "comment": "SEO description for team fixtures page showing fixture list with live scores and results. %@ is the team name",
+      "english": "Full %@ fixture list with live scores, results and upcoming matches across all competitions including league and cup games.",
+      "value": "Повний список матчів %@ із результатами наживо, підсумками та майбутніми матчами в усіх турнірах, зокрема ліги та кубка."
     },
     "seo_site_description_team_history": {
-      "comment": "Description for the page showing a teams historical table positions and trophies won.",
-      "english": "Historical table positions for %1$@",
-      "value": "Історичні позиції в таблиці для %1$@"
+      "comment": "SEO description for team history page showing past league finishes, results, trophies and coaches. %@ is the team name",
+      "english": "Explore %@ history with past league finishes, season-by-season results, trophy cabinet, coach history and win percentage.",
+      "value": "Досліджуйте історію %@: місця в лізі в минулих сезонах, результати сезон за сезоном, трофеї, історія тренерів і відсоток перемог."
     },
     "seo_site_description_team_news": {
-      "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "Get the latest %1$@ news and transfer rumours",
-      "value": "Отримайте останні новини %1$@ та трансферні плітки"
+      "comment": "SEO description for team news page showing latest news, transfer rumours and match updates. %@ is the team name",
+      "english": "Stay up to date with all the latest %@ news including transfer rumours, injury updates, match previews and post-match analysis.",
+      "value": "Будьте в курсі всіх останніх новин про %@: чутки про трансфери, оновлення щодо травм, прев’ю матчів та післяматчевий аналіз."
     },
     "seo_site_description_team_overview": {
-      "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "english": "%1$@ - results, fixtures, latest news and standings",
-      "value": "%1$@ - результати, матчі, останні новини та турнірна таблиця"
+      "comment": "SEO description for team overview page showing results, fixtures, standings and news. %@ is the team name",
+      "english": "Get the latest %@ results, upcoming fixtures, league standings, top player stats and team news. Updated live throughout the season.",
+      "value": "Переглядайте останні результати %@, найближчі матчі, турнірну таблицю ліги, топ-статистику гравців і новини команди. Оновлюється наживо протягом усього сезону."
     },
     "seo_site_description_team_squad": {
-      "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
-      "english": "Current %1$@ squad",
-      "value": "Поточний склад %1$@"
+      "comment": "SEO description for team squad page showing player details, positions, injuries and coaching staff. %@ is the team name",
+      "english": "View the full %@ squad with player positions, shirt numbers, ages, nationalities, injury updates and most valuable players.",
+      "value": "Перегляньте повний склад %@ із позиціями гравців, номерами на футболках, віком, національністю, оновленнями про травми та гравцями з найбільшою ринковою вартістю."
     },
     "seo_site_description_team_stats": {
-      "comment": "Title for the page showing stats for a team.",
-      "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - рейтинг команд, голи за матч, удари по воротах та інша статистика"
+      "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
+      "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
+      "value": "Детальна статистика гравців і команди %@, включно з оцінками, голами, асистами, «сухими» матчами, ударами в площину воріт і показниками за сезон."
     },
     "seo_site_description_team_table": {
-      "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
-      "english": "%1$@ - league and cup standings and form guide",
-      "value": "%1$@ - турнірна таблиця чемпіонату та кубка, а також довідник з форми"
+      "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
+      "english": "See where %@ stand in the league and cup tables with points, form guide, goal difference and upcoming opponents.",
+      "value": "Дивіться, яке місце посідає %@ у таблицях ліги та кубка — з очками, формою, різницею м’ячів і майбутніми суперниками."
     },
     "seo_site_description_team_transfers": {
-      "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
-      "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "Останні трансфери %1$@ - прихід, відхід та продовження контрактів"
+      "comment": "SEO description for team transfers page showing complete transfer history. %@ is the team name",
+      "english": "Complete %@ transfer history with players in, players out, loan deals, contract extensions, transfer fees and destinations.",
+      "value": "Повна історія трансферів %@: вхідні та вихідні гравці, оренди, продовження контрактів, трансферні суми та клуби призначення."
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10503,14 +10753,14 @@
       "value": "%1$@ останніх підтверджених трансферів та найдорожчих підписань. FotMob Transfer Center - фільтруйте за лігами та командами. Залишайтеся в курсі трансферів з оновленнями в реальному часі в день дедлайну з усіма завершеними угодами!"
     },
     "seo_site_description_tv_guide": {
-      "comment": "SEO description for tv schedule page of football matches. see [site_title_tv_guide]",
-      "english": "Find which football matches are live on TV today. Browse TV schedules by country with channel listings for Premier League, Champions League and more.",
-      "value": "Дізнайтеся, які футбольні матчі сьогодні транслюються наживо по ТВ. Переглядайте ТВ-розклади за країнами зі списком каналів для Прем’єр-ліги, Ліги чемпіонів та інших турнірів."
+      "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
+      "english": "Find football matches live on TV in %@ today and this week. TV schedules with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "Знайдіть футбольні матчі в прямому ефірі на ТБ у %@ сьогодні та цього тижня. Телепрограма з часом початку матчів Прем’єр-ліги, Ліги чемпіонів, Чемпіонату світу та інших турнірів."
     },
     "seo_site_description_tv_guide_channel": {
       "comment": "SEO description for tv schedule page filtered by channel name. %@ is the channel name. see [site_title_tv_guide_channel]",
-      "english": "See all football matches on %@ today. Full TV schedule with kick-off times and channel listings.",
-      "value": "Дивіться всі футбольні матчі на %@ сьогодні. Повний телерозклад із часом початку матчів і переліком каналів."
+      "english": "See all football matches on %@ today and this week. TV schedule with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "Дивіться всі футбольні матчі на %@ сьогодні та цього тижня. Телепрограма з часом початку матчів: Прем'єр-ліга, Ліга чемпіонів, Чемпіонат світу та інше."
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -10552,14 +10802,14 @@
       "value": "Останні новини - Сьогоднішні футбольні новини та трансферні чутки."
     },
     "seo_site_title_league_matches": {
-      "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ matches and results %2$@",
-      "value": "%1$@ матчів та результати %2$@"
+      "comment": "SEO title for league matches page showing fixtures, results and live scores. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ fixtures, results and live scores %2$@",
+      "value": "%1$@ розклад матчів, результати та рахунок онлайн %2$@"
     },
     "seo_site_title_league_news": {
-      "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - останні новини та чутки"
+      "comment": "SEO title for league news page showing latest news and transfer rumours. %@ is the league name",
+      "english": "%@ - latest news, transfer rumours and updates",
+      "value": "%@ - останні новини, трансферні чутки та оновлення"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
@@ -10570,6 +10820,11 @@
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "english": "%1$@ knockout fixtures, bracket and champion %2$@",
       "value": "%1$@ матчі плей-оф, турнірна сітка та чемпіон %2$@"
+    },
+    "seo_site_title_league_stats": {
+      "comment": "SEO title for league stats page showing player and team statistics. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ stats for %2$@ - players and teams",
+      "value": "Статистика %1$@ за %2$@ — гравці та команди"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
@@ -10582,9 +10837,9 @@
       "value": "%1$@ %2$@ топ-команди, голи за матч, удари в площину воріт та інша статистика"
     },
     "seo_site_title_league_stats_trophies": {
-      "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
-      "english": "%1$@ winners and runner-ups",
-      "value": "%1$@ переможці та призери"
+      "comment": "SEO title for league trophies page showing past winners and runner-up. %@ is the league name",
+      "english": "%@ - past winners, runners-up and title history",
+      "value": "%@ — попередні переможці, віцечемпіони та історія титулів"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
@@ -10592,9 +10847,9 @@
       "value": "%1$@ таблиця %2$@, форма та наступний суперник"
     },
     "seo_site_title_league_table_xg": {
-      "comment": "Headline for the league's xG table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League xG table 2021/2022\"",
-      "english": "%1$@ xG table %2$@",
-      "value": "Таблиця очікуваних голів для ліги «%1$@» %2$@"
+      "comment": "SEO title for league xG table page showing expected goals standings. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ xG table %2$@ - expected goals standings",
+      "value": "%1$@ Таблиця xG %2$@ — турнірна таблиця за очікуваними голами"
     },
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
@@ -10632,14 +10887,14 @@
       "value": "%1$@ - останні матчі, голи та майбутні зустрічі"
     },
     "seo_site_title_team_history": {
-      "comment": "Title for the page showing a teams historical table positions and trophies won.",
-      "english": "%1$@ -  historical table positions and trophies",
-      "value": "%1$@ - історичні позиції в таблиці та трофеї"
+      "comment": "SEO title for team history page showing historical table positions and trophies. %@ is the team name",
+      "english": "%@ - historical table positions and trophies",
+      "value": "%@ – історичні позиції в таблиці та трофеї"
     },
     "seo_site_title_team_news": {
-      "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - останні новини та плітки"
+      "comment": "SEO title for team news page showing latest news and transfer rumours. %@ is the team name",
+      "english": "%@ - latest news, transfer rumours and updates",
+      "value": "%@ — останні новини, трансферні чутки та оновлення"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10652,9 +10907,9 @@
       "value": "%1$@ - команда, тренер, травми та позиції"
     },
     "seo_site_title_team_stats": {
-      "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
-      "english": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value",
-      "value": "%1$@ - статистика найкращих гравців, голів, гольових передач та інше - статистика, кар'єра та ринкова вартість"
+      "comment": "SEO title for team stats page showing different football statistics. %@ is the team name",
+      "english": "%@ - top rated players, goals, assists and other stats",
+      "value": "%@ – гравці з найвищими оцінками, голи, асисти та інша статистика"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
@@ -10662,9 +10917,9 @@
       "value": "%1$@ - рейтинг команди, голи за матч, точні удари та інша статистика"
     },
     "seo_site_title_team_table": {
-      "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
-      "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ таблиця, форма та наступний суперник"
+      "comment": "SEO title for team table page showing league standings and form. %@ is the team name",
+      "english": "%@ - league table, form guide and next opponent",
+      "value": "%@ — турнірна таблиця, форма та наступний суперник"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
@@ -10682,9 +10937,9 @@
       "value": "Трансферний Центр - %1$@: Останні та Топ Трансфери - FotMob"
     },
     "seo_site_title_tv_guide": {
-      "comment": "SEO title for tv schedule page of football matches",
-      "english": "Football TV Schedules - Watch Live Football on TV | FotMob",
-      "value": "Розклад футбольних трансляцій на ТБ — дивіться футбол наживо по телевізору | FotMob"
+      "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
+      "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
+      "value": "Розклад футбольних трансляцій у %@ — дивіться наживо на ТБ | FotMob"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
@@ -10971,6 +11226,11 @@
       "english": "Try our lineup builder",
       "value": "Спробуйте наш конструктор складу"
     },
+    "seo_tv_guide_country_heading": {
+      "comment": "Page title for TV guide filtered by country. %@ is the country name (e.g., \"Football TV Schedules in United Kingdom\")",
+      "english": "Football TV Schedules in %@",
+      "value": "Футбольні телепрограми в %@"
+    },
     "seo_tv_guide_matches_date_on": {
       "comment": "Header text for TV guide channel page for football matches. First %@ is the date label (e.g., \"today\", \"tomorrow\", or specific date), second %@ is the channel name. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på %@",
       "english": "Matches %@ on %@",
@@ -11023,6 +11283,11 @@
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
       "value": "Слідкуйте за усіма подіями на %1$@."
+    },
+    "seo_we_have_followed_top_leagues": {
+      "comment": "Disclaimer for follow league step in onboarding.",
+      "english": "We've followed top leagues for you and you can add more below.",
+      "value": "Ми вже стежимо за топ-лігами для вас — нижче ви можете додати ще."
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",

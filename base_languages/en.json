@@ -2010,6 +2010,10 @@
     "common_add_leagues": {
       "value": "Add leagues"
     },
+    "common_add_player": {
+      "comment": "A search bottom sheet header for adding a player",
+      "value": "Add player"
+    },
     "common_add_remove_leagues": {
       "value": "Add/Remove leagues"
     },
@@ -2339,6 +2343,10 @@
       "comment": "Option in settings to clear cache and local files",
       "value": "Clear cache"
     },
+    "common_clear_players": {
+      "comment": "A menu action label allowing the user to clear all players in a lineup in lineup builder",
+      "value": "Clear players"
+    },
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "value": "Cleared off the line"
@@ -2393,6 +2401,10 @@
       "comment": "Explanation for a button that compares two players",
       "value": "You can click here to compare the current player against another player"
     },
+    "common_complete_lineup": {
+      "comment": "A toast indicating that the user has to complete the lineup in order to save or share",
+      "value": "Complete lineup"
+    },
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
       "value": "CONCACAF Champions League"
@@ -2435,6 +2447,10 @@
     },
     "common_costa_rica": {
       "value": "Costa Rica"
+    },
+    "common_could_not_delete_saved_lineup": {
+      "comment": "A toast indicating that we were not able to delete the users saved lineup",
+      "value": "Could not delete saved lineup"
     },
     "common_countries": {
       "comment": "Header in the onboarding for the WC2018 teams (to pick the national teams to follow)",
@@ -2479,6 +2495,14 @@
     },
     "common_defender_long": {
       "value": "Defender"
+    },
+    "common_delete_action": {
+      "comment": "A destructive action",
+      "value": "Delete"
+    },
+    "common_delete_saved_lineup": {
+      "comment": "An alert action asking the user if he wants to delete his saved lineup",
+      "value": "Delete saved lineup?"
     },
     "common_deselect": {
       "value": "Deselect"
@@ -2631,6 +2655,10 @@
     },
     "common_end_of_match": {
       "value": "final"
+    },
+    "common_enter_name": {
+      "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
+      "value": "Enter a name"
     },
     "common_error_adding_match_to_calendar": {
       "value": "Error adding match to calendar, this feature works only on Android 4.x"
@@ -2883,6 +2911,10 @@
     "common_fouls": {
       "value": "Fouls committed"
     },
+    "common_free_formation": {
+      "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
+      "value": "Free formation"
+    },
     "common_free_kick": {
       "comment": "Type of goal via a free kick",
       "value": "Free kick"
@@ -2900,6 +2932,10 @@
     },
     "common_generalUpper": {
       "value": "GENERAL"
+    },
+    "common_get_started": {
+      "comment": "A button in the lineup builder onboarding allowing the user to start building",
+      "value": "Get started"
     },
     "common_go_to_the_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -3219,6 +3255,10 @@
       "comment": "Header for form table for home matches of the team",
       "value": "Last home matches"
     },
+    "common_last_lineup_unavailable": {
+      "comment": "A toast message indicating that the last lineup is unavailable for the selected team. Add no placeholder after the \"for\".\"",
+      "value": "Last lineup unavailable for"
+    },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "value": "Last man tackle"
@@ -3327,6 +3367,14 @@
     },
     "common_lineup": {
       "value": "Lineup"
+    },
+    "common_lineup_builder_more_desc": {
+      "comment": "The fotmob lineup builder feature description in the more tab",
+      "value": "Build your own FotMob lineup"
+    },
+    "common_lineup_builder_onboarding_desc": {
+      "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
+      "value": "Build your dream XI, pick your team's next lineup, or plan your transfer window."
     },
     "common_loading": {
       "value": "Loading..."
@@ -3487,6 +3535,10 @@
     "common_move_to_top": {
       "value": "Move to top"
     },
+    "common_my_lineups": {
+      "comment": "A menu action label for the users saved lineups in lineup builder",
+      "value": "My lineups"
+    },
     "common_my_matches": {
       "value": "My matches"
     },
@@ -3495,6 +3547,10 @@
     },
     "common_name": {
       "value": "Name"
+    },
+    "common_name_your_lineup": {
+      "comment": "A label indicating that you can name your lineup",
+      "value": "Name your lineup"
     },
     "common_network_connection_issues_notification_ios": {
       "value": "It looks like we have problems fetching new data. %@"
@@ -3508,6 +3564,10 @@
     },
     "common_new_leagues": {
       "value": "New leagues available"
+    },
+    "common_new_lineup": {
+      "comment": "A menu action allowing the user to create a new lineup",
+      "value": "New lineup"
     },
     "common_new_to_fotmob": {
       "value": "I'm new to FotMob!"
@@ -3542,6 +3602,10 @@
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "value": "No fixtures available"
+    },
+    "common_no_lineups_saved": {
+      "comment": "A placeholder text indicating the user has no saved lineups",
+      "value": "No lineups saved"
     },
     "common_no_match_facts_available": {
       "value": "No match facts available"
@@ -4044,6 +4108,10 @@
     "common_remove_league": {
       "value": "Remove League"
     },
+    "common_remove_player": {
+      "comment": "A long press menu action allowing the user to remove a player in the lineup",
+      "value": "Remove player"
+    },
     "common_reset": {
       "value": "Reset"
     },
@@ -4106,6 +4174,14 @@
     },
     "common_rss_feeds": {
       "value": "News"
+    },
+    "common_save_action": {
+      "comment": "A menu action for saving lineups",
+      "value": "Save"
+    },
+    "common_saved_lineup_deleted": {
+      "comment": "A toast indicating that we successfully deleted the users saved lineup",
+      "value": "Saved lineup deleted"
     },
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
@@ -4327,6 +4403,10 @@
     "common_squad": {
       "value": "Squad"
     },
+    "common_squad_name": {
+      "comment": "Used in the lineup builder for a squad name title placeholder",
+      "value": "Squad name"
+    },
     "common_staff_picks": {
       "value": "Staff picks"
     },
@@ -4479,6 +4559,10 @@
     "common_team_has_notifications": {
       "value": "One of the team has enabled alerts, you must turn off alerts via the team page"
     },
+    "common_team_pre_fill": {
+      "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
+      "value": "Team pre-fill"
+    },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
       "value": "Just to confirm, you wanted ‘${team}’?"
@@ -4539,6 +4623,10 @@
     "common_third_place": {
       "comment": "Small-label below the bronze-match. Keep it short!",
       "value": "3rd"
+    },
+    "common_this_removes": {
+      "comment": "An alert action description indicating that the action removes a lineup. Add no placeholder after the \"removes\"",
+      "value": "This removes"
     },
     "common_three_match_series": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -4762,6 +4850,10 @@
     "common_until_date": {
       "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
       "value": "until %@"
+    },
+    "common_untitled": {
+      "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
+      "value": "Untitled"
     },
     "common_upcoming_matches": {
       "value": "Upcoming matches"
@@ -5717,6 +5809,10 @@
     "notifications_azerbaijan": {
       "value": "Azerbaijan"
     },
+    "notifications_bangladesh": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Bangladesh"
+    },
     "notifications_belarus": {
       "value": "Belarus"
     },
@@ -5791,6 +5887,10 @@
     "notifications_change_notifications_desc": {
       "comment": "Heading for notification/alert settings",
       "value": "Manage all your active news, team, player and league notifications"
+    },
+    "notifications_china": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "China"
     },
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
@@ -6025,6 +6125,10 @@
       "comment": "Used in TV schedules filter",
       "value": "Germany"
     },
+    "notifications_ghana": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Ghana"
+    },
     "notifications_goal_v2": {
       "value": "Goal"
     },
@@ -6066,6 +6170,10 @@
     "notifications_hello_how_can_we_help_you": {
       "comment": "support screen headline (\\n for line break)",
       "value": "Hello,\\nhow can we help you?"
+    },
+    "notifications_hong_kong": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Hong Kong"
     },
     "notifications_how_about_rating": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -6438,6 +6546,10 @@
     "notifications_italy": {
       "value": "Italy"
     },
+    "notifications_japan": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Japan"
+    },
     "notifications_kazakhstan": {
       "value": "Kazakhstan"
     },
@@ -6484,6 +6596,14 @@
     "notifications_macedonia": {
       "comment": "The republic of North Macedonia.",
       "value": "North Macedonia"
+    },
+    "notifications_malaysia": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Malaysia"
+    },
+    "notifications_malta": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Malta"
     },
     "notifications_match_date": {
       "value": "Match date"
@@ -6532,6 +6652,10 @@
     "notifications_minutes_short": {
       "comment": "Abbrevation of minutes",
       "value": "Min"
+    },
+    "notifications_morocco": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Morocco"
     },
     "notifications_my_leagues": {
       "comment": "Profile page list header",
@@ -6588,8 +6712,16 @@
     "notifications_network_troublshooting_test4": {
       "value": "Writing results to log file"
     },
+    "notifications_new_zealand": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "New Zealand"
+    },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "value": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?"
+    },
+    "notifications_nigeria": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Nigeria"
     },
     "notifications_night_mode": {
       "comment": "Deprecated",
@@ -6656,6 +6788,10 @@
       "comment": "Action/button on notification on watch (Android Wear OS) used to open match on the watch",
       "value": "Open on watch"
     },
+    "notifications_pakistan": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Pakistan"
+    },
     "notifications_pass_percentage": {
       "value": "Pass success"
     },
@@ -6668,6 +6804,10 @@
     },
     "notifications_penalties_won": {
       "value": "Penalties won"
+    },
+    "notifications_philippines": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Philippines"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -6941,8 +7081,16 @@
     "notifications_signing_in": {
       "value": "Signing in…"
     },
+    "notifications_singapore": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Singapore"
+    },
     "notifications_slovakia": {
       "value": "Slovakia"
+    },
+    "notifications_slovenia": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Slovenia"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -6958,6 +7106,10 @@
     },
     "notifications_south_africa": {
       "value": "South Africa"
+    },
+    "notifications_south_korea": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "South Korea"
     },
     "notifications_spain": {
       "comment": "Used in TV schedules filter",
@@ -7002,6 +7154,10 @@
     },
     "notifications_tackles_succeeded": {
       "value": "Tackles won"
+    },
+    "notifications_tanzania": {
+      "comment": "Country name used in tv guide page on web",
+      "value": "Tanzania"
     },
     "notifications_team_play": {
       "value": "Team play"
@@ -7240,6 +7396,14 @@
       "comment": "Used in bottom sheet when clicking AI icon on team news summary to explain that the content is AI generated.",
       "value": "These summaries are generated by AI, based on recent news articles within FotMob. Each summary links to the article it is based upon."
     },
+    "seo_allow_notifications": {
+      "comment": "Call to action text to prompt for remote notifications",
+      "value": "Allow notifications"
+    },
+    "seo_allow_notifications_to_get_match_updates": {
+      "comment": "Description for \"prompt for notifications\" step in onboarding to further explain what kind of notifications the user will get if they enable them.",
+      "value": "Allow notifications to get match updates, which can be customized later."
+    },
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "value": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play."
@@ -7362,6 +7526,10 @@
       "comment": "see [available_in]. A label below a number indicating how many days left til the next week tournament use the plural form in the given language.",
       "value": "Days"
     },
+    "seo_defensive_actions_per_90": {
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made per 90 minutes. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action. See defensive_actions.",
+      "value": "Defensive contributions per 90"
+    },
     "seo_delayed": {
       "comment": "Displays the text delayed below a matches score",
       "value": "Delayed"
@@ -7413,6 +7581,10 @@
     "seo_expected_goals_against_while_on_pitch": {
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "value": "xG against while on pitch"
+    },
+    "seo_expected_goals_set_play_conceded": {
+      "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "value": "xG set play conceded"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -7478,6 +7650,10 @@
     "seo_fixture_difficulty": {
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
       "value": "Fixture difficulty"
+    },
+    "seo_follow_players_to_track_performances": {
+      "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
+      "value": "Follow players to track performances and transfers."
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
@@ -7843,6 +8019,10 @@
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
       "value": "Unlock additional notification sounds."
     },
+    "seo_never_miss_a_goal": {
+      "comment": "Title for \"prompt for notifications\" step in onboarding to explain why users should enable notifications.",
+      "value": "Never miss a goal"
+    },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "value": "Newsletter"
@@ -8206,6 +8386,18 @@
       "comment": "Placeholder string for searchbox in the lineup builder to start with a pre-filled team. The natural translation in norwegian would be: \"søk etter et lag å starte med\" See [pre_fill_lineup]",
       "value": "Search for any team to start with"
     },
+    "seo_search_leagues_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "value": "Search leagues"
+    },
+    "seo_search_players_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "value": "Search players"
+    },
+    "seo_search_teams_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "value": "Search teams"
+    },
     "seo_season_total": {
       "comment": "Text in a dropdown showing the season total score of a prediction competition, if the text is longer in the translated language use a shorter natural phrase like \"total\" instead.",
       "value": "Season total"
@@ -8221,6 +8413,14 @@
     "seo_seconds_countdown_short": {
       "comment": "Abbreviation for \"seconds\" used in a countdown timer. Should be concise.",
       "value": "Secs"
+    },
+    "seo_set_piece_goals": {
+      "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
+      "value": "Set piece goals"
+    },
+    "seo_set_piece_goals_conceded": {
+      "comment": "Label for a statistic showing the number of goals conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "value": "Set piece goals conceded"
     },
     "seo_share_link": {
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
@@ -8267,48 +8467,48 @@
       "value": "Get the latest news, headlines and transfer rumours from the Premier League and world football."
     },
     "seo_site_description_league_matches": {
-      "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
-      "value": "%1$@ results %2$@ and upcoming fixtures"
+      "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
+      "value": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday."
     },
     "seo_site_description_league_news": {
-      "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
-      "value": "Get the latest %1$@ news and transfer rumours."
+      "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",
+      "value": "Stay up to date with the latest %@ news including transfer rumours, injury updates, match highlights, match previews and managerial changes."
     },
     "seo_site_description_league_overview": {
-      "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "value": "%1$@ table %2$@, results, fixtures, top scorers and more"
+      "comment": "SEO description for league overview page showing table, results, fixtures and top scorers. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ overview for %2$@ with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league."
     },
     "seo_site_description_league_playoff": {
-      "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "value": "%1$@ tournament overview, fixtures, results %2$@"
+      "comment": "SEO description for league playoff/knockout page showing bracket, fixtures and results. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ playoff bracket for %2$@ with knockout fixtures, results, matchups and the road to the final. Follow every round of the tournament live."
     },
     "seo_site_description_league_stats": {
-      "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
-      "value": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more"
+      "comment": "SEO description for league stats page showing top scorers, assists, ratings and performance data. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ statistics for %2$@ with top scorers, assist leaders, player ratings, clean sheets and detailed performance data for every team."
     },
     "seo_site_description_league_table": {
-      "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
-      "value": "%1$@ table %2$@, standings, form guide, and more."
+      "comment": "SEO description for league table page showing standings with points, form and upcoming opponents. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ standings for %2$@ with current form, home and away records, goal difference and upcoming opponents for every team."
     },
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "value": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob."
     },
     "seo_site_description_league_transfers": {
-      "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "value": "See all %1$@ transfers."
+      "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
+      "value": "Complete %@ transfer overview with all incoming and outgoing players, transfer fees, contract details and loan moves across every club."
     },
     "seo_site_description_league_trophies": {
-      "comment": "metadata description for league trophies tab.",
-      "value": "%1$@ historic seasons with winners and runners-up."
+      "comment": "SEO description for league trophies page showing historical winners, runner-up and title races. %@ is the league name",
+      "value": "Explore the full %@ history with past champions, runners-up, title races and season-by-season results going back through the decades."
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "value": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
     },
-    "seo_site_description_match_finished": {
-      "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
-      "value": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
+    "seo_site_description_match_with_alias": {
+      "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
+      "value": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -8319,36 +8519,36 @@
       "value": "%1$@ stats for %2$@ %3$@ including top scorers, assists, player ratings, and more"
     },
     "seo_site_description_team_fixtures": {
-      "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
-      "value": "%1$@ - live scores, fixtures, and results"
+      "comment": "SEO description for team fixtures page showing fixture list with live scores and results. %@ is the team name",
+      "value": "Full %@ fixture list with live scores, results and upcoming matches across all competitions including league and cup games."
     },
     "seo_site_description_team_history": {
-      "comment": "Description for the page showing a teams historical table positions and trophies won.",
-      "value": "Historical table positions for %1$@"
+      "comment": "SEO description for team history page showing past league finishes, results, trophies and coaches. %@ is the team name",
+      "value": "Explore %@ history with past league finishes, season-by-season results, trophy cabinet, coach history and win percentage."
     },
     "seo_site_description_team_news": {
-      "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "value": "Get the latest %1$@ news and transfer rumours"
+      "comment": "SEO description for team news page showing latest news, transfer rumours and match updates. %@ is the team name",
+      "value": "Stay up to date with all the latest %@ news including transfer rumours, injury updates, match previews and post-match analysis."
     },
     "seo_site_description_team_overview": {
-      "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "value": "%1$@ - results, fixtures, latest news and standings"
+      "comment": "SEO description for team overview page showing results, fixtures, standings and news. %@ is the team name",
+      "value": "Get the latest %@ results, upcoming fixtures, league standings, top player stats and team news. Updated live throughout the season."
     },
     "seo_site_description_team_squad": {
-      "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
-      "value": "Current %1$@ squad"
+      "comment": "SEO description for team squad page showing player details, positions, injuries and coaching staff. %@ is the team name",
+      "value": "View the full %@ squad with player positions, shirt numbers, ages, nationalities, injury updates and most valuable players."
     },
     "seo_site_description_team_stats": {
-      "comment": "Title for the page showing stats for a team.",
-      "value": "%1$@ - team rating, goals per match, shots on target and other stats"
+      "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
+      "value": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance."
     },
     "seo_site_description_team_table": {
-      "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
-      "value": "%1$@ - league and cup standings and form guide"
+      "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
+      "value": "See where %@ stand in the league and cup tables with points, form guide, goal difference and upcoming opponents."
     },
     "seo_site_description_team_transfers": {
-      "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
-      "value": "Latest %1$@ transfers in, out and contract extensions"
+      "comment": "SEO description for team transfers page showing complete transfer history. %@ is the team name",
+      "value": "Complete %@ transfer history with players in, players out, loan deals, contract extensions, transfer fees and destinations."
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -8359,12 +8559,12 @@
       "value": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
     },
     "seo_site_description_tv_guide": {
-      "comment": "SEO description for tv schedule page of football matches. see [site_title_tv_guide]",
-      "value": "Find which football matches are live on TV today. Browse TV schedules by country with channel listings for Premier League, Champions League and more."
+      "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
+      "value": "Find football matches live on TV in %@ today and this week. TV schedules with kick-off times for Premier League, Champions League, World Cup and more."
     },
     "seo_site_description_tv_guide_channel": {
       "comment": "SEO description for tv schedule page filtered by channel name. %@ is the channel name. see [site_title_tv_guide_channel]",
-      "value": "See all football matches on %@ today. Full TV schedule with kick-off times and channel listings."
+      "value": "See all football matches on %@ today and this week. TV schedule with kick-off times for Premier League, Champions League, World Cup and more."
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -8398,12 +8598,12 @@
       "value": "Latest News - Today's football news and transfer rumours."
     },
     "seo_site_title_league_matches": {
-      "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
-      "value": "%1$@ matches and results %2$@"
+      "comment": "SEO title for league matches page showing fixtures, results and live scores. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ fixtures, results and live scores %2$@"
     },
     "seo_site_title_league_news": {
-      "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
-      "value": "%1$@ - latest news and rumors"
+      "comment": "SEO title for league news page showing latest news and transfer rumours. %@ is the league name",
+      "value": "%@ - latest news, transfer rumours and updates"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
@@ -8412,6 +8612,10 @@
     "seo_site_title_league_playoff": {
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "value": "%1$@ knockout fixtures, bracket and champion %2$@"
+    },
+    "seo_site_title_league_stats": {
+      "comment": "SEO title for league stats page showing player and team statistics. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ stats for %2$@ - players and teams"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
@@ -8422,16 +8626,16 @@
       "value": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats"
     },
     "seo_site_title_league_stats_trophies": {
-      "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
-      "value": "%1$@ winners and runner-ups"
+      "comment": "SEO title for league trophies page showing past winners and runner-up. %@ is the league name",
+      "value": "%@ - past winners, runners-up and title history"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
       "value": "%1$@ table %2$@, form and next opponent"
     },
     "seo_site_title_league_table_xg": {
-      "comment": "Headline for the league's xG table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League xG table 2021/2022\"",
-      "value": "%1$@ xG table %2$@"
+      "comment": "SEO title for league xG table page showing expected goals standings. First %@ is the league name, second %@ is the season",
+      "value": "%1$@ xG table %2$@ - expected goals standings"
     },
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
@@ -8462,12 +8666,12 @@
       "value": "%1$@ - latest matches, scores and upcoming fixtures"
     },
     "seo_site_title_team_history": {
-      "comment": "Title for the page showing a teams historical table positions and trophies won.",
-      "value": "%1$@ -  historical table positions and trophies"
+      "comment": "SEO title for team history page showing historical table positions and trophies. %@ is the team name",
+      "value": "%@ - historical table positions and trophies"
     },
     "seo_site_title_team_news": {
-      "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "value": "%1$@ - latest news and rumors"
+      "comment": "SEO title for team news page showing latest news and transfer rumours. %@ is the team name",
+      "value": "%@ - latest news, transfer rumours and updates"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -8478,16 +8682,16 @@
       "value": "%1$@ - squad, coach, injuries and positions"
     },
     "seo_site_title_team_stats": {
-      "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
-      "value": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value"
+      "comment": "SEO title for team stats page showing different football statistics. %@ is the team name",
+      "value": "%@ - top rated players, goals, assists and other stats"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "value": "%1$@ - team rating, goals per match, shots on target and other stats"
     },
     "seo_site_title_team_table": {
-      "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
-      "value": "%1$@ table, form and next opponent"
+      "comment": "SEO title for team table page showing league standings and form. %@ is the team name",
+      "value": "%@ - league table, form guide and next opponent"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
@@ -8502,8 +8706,8 @@
       "value": "Transfer Center - %1$@: Latest & Top Transfers - FotMob"
     },
     "seo_site_title_tv_guide": {
-      "comment": "SEO title for tv schedule page of football matches",
-      "value": "Football TV Schedules - Watch Live Football on TV | FotMob"
+      "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
+      "value": "Football TV Schedules in %@ - Watch Live on TV | FotMob"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
@@ -8736,6 +8940,10 @@
       "comment": "subheadline for promotion component to try out the lineup builder. See [lineup_builder].",
       "value": "Try our lineup builder"
     },
+    "seo_tv_guide_country_heading": {
+      "comment": "Page title for TV guide filtered by country. %@ is the country name (e.g., \"Football TV Schedules in United Kingdom\")",
+      "value": "Football TV Schedules in %@"
+    },
     "seo_tv_guide_matches_date_on": {
       "comment": "Header text for TV guide channel page for football matches. First %@ is the date label (e.g., \"today\", \"tomorrow\", or specific date), second %@ is the channel name. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på %@",
       "value": "Matches %@ on %@"
@@ -8774,6 +8982,10 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "value": "Catch all the action on %1$@."
+    },
+    "seo_we_have_followed_top_leagues": {
+      "comment": "Disclaimer for follow league step in onboarding.",
+      "value": "We've followed top leagues for you and you can add more below."
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",

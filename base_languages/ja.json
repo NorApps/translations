@@ -2535,6 +2535,11 @@
       "english": "Add leagues",
       "value": "リーグを追加"
     },
+    "common_add_player": {
+      "comment": "A search bottom sheet header for adding a player",
+      "english": "Add player",
+      "value": "選手を追加"
+    },
     "common_add_remove_leagues": {
       "english": "Add/Remove leagues",
       "value": "リーグを追加／削除"
@@ -2951,6 +2956,11 @@
       "english": "Clear cache",
       "value": "キャッシュをクリア"
     },
+    "common_clear_players": {
+      "comment": "A menu action label allowing the user to clear all players in a lineup in lineup builder",
+      "english": "Clear players",
+      "value": "選手をクリア"
+    },
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "english": "Cleared off the line",
@@ -3021,6 +3031,11 @@
       "english": "You can click here to compare the current player against another player",
       "value": "ここをクリックして、プレーヤーを別のプレーヤーと比較できます"
     },
+    "common_complete_lineup": {
+      "comment": "A toast indicating that the user has to complete the lineup in order to save or share",
+      "english": "Complete lineup",
+      "value": "ラインナップを完成させてください"
+    },
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
       "english": "CONCACAF Champions League",
@@ -3075,6 +3090,11 @@
     "common_costa_rica": {
       "english": "Costa Rica",
       "value": "コスタリカ"
+    },
+    "common_could_not_delete_saved_lineup": {
+      "comment": "A toast indicating that we were not able to delete the users saved lineup",
+      "english": "Could not delete saved lineup",
+      "value": "保存済みのスタメンを削除できませんでした"
     },
     "common_countries": {
       "comment": "Header in the onboarding for the WC2018 teams (to pick the national teams to follow)",
@@ -3132,6 +3152,16 @@
     "common_defender_long": {
       "english": "Defender",
       "value": "ディフェンダー"
+    },
+    "common_delete_action": {
+      "comment": "A destructive action",
+      "english": "Delete",
+      "value": "削除"
+    },
+    "common_delete_saved_lineup": {
+      "comment": "An alert action asking the user if he wants to delete his saved lineup",
+      "english": "Delete saved lineup?",
+      "value": "保存したスタメンを削除しますか？"
     },
     "common_deselect": {
       "english": "Deselect",
@@ -3327,6 +3357,11 @@
     "common_end_of_match": {
       "english": "final",
       "value": "ファイナル"
+    },
+    "common_enter_name": {
+      "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
+      "english": "Enter a name",
+      "value": "名前を入力してください"
     },
     "common_error_adding_match_to_calendar": {
       "english": "Error adding match to calendar, this feature works only on Android 4.x",
@@ -3642,6 +3677,11 @@
       "english": "Fouls committed",
       "value": "ファウル"
     },
+    "common_free_formation": {
+      "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
+      "english": "Free formation",
+      "value": "自由フォーメーション"
+    },
     "common_free_kick": {
       "comment": "Type of goal via a free kick",
       "english": "Free kick",
@@ -3664,6 +3704,11 @@
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "全般"
+    },
+    "common_get_started": {
+      "comment": "A button in the lineup builder onboarding allowing the user to start building",
+      "english": "Get started",
+      "value": "始める"
     },
     "common_go_to_the_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -4060,6 +4105,11 @@
       "english": "Last home matches",
       "value": "最近のホーム戦"
     },
+    "common_last_lineup_unavailable": {
+      "comment": "A toast message indicating that the last lineup is unavailable for the selected team. Add no placeholder after the \"for\".\"",
+      "english": "Last lineup unavailable for",
+      "value": "直近のスタメンは利用できません"
+    },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
@@ -4197,6 +4247,16 @@
     "common_lineup": {
       "english": "Lineup",
       "value": "ラインナップ"
+    },
+    "common_lineup_builder_more_desc": {
+      "comment": "The fotmob lineup builder feature description in the more tab",
+      "english": "Build your own FotMob lineup",
+      "value": "FotMobの自分だけのスタメンを作成"
+    },
+    "common_lineup_builder_onboarding_desc": {
+      "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
+      "english": "Build your dream XI, pick your team's next lineup, or plan your transfer window.",
+      "value": "理想のベストイレブンを組み、チームの次のスタメンを選ぶか、移籍ウィンドウを計画しよう。"
     },
     "common_loading": {
       "english": "Loading...",
@@ -4405,6 +4465,11 @@
       "english": "Move to top",
       "value": "一番上に移動"
     },
+    "common_my_lineups": {
+      "comment": "A menu action label for the users saved lineups in lineup builder",
+      "english": "My lineups",
+      "value": "自分のスタメン"
+    },
     "common_my_matches": {
       "english": "My matches",
       "value": "お気に入り試合"
@@ -4416,6 +4481,11 @@
     "common_name": {
       "english": "Name",
       "value": "名前"
+    },
+    "common_name_your_lineup": {
+      "comment": "A label indicating that you can name your lineup",
+      "english": "Name your lineup",
+      "value": "ラインナップに名前を付けてください"
     },
     "common_network_connection_issues_notification_ios": {
       "english": "It looks like we have problems fetching new data. %@",
@@ -4433,6 +4503,11 @@
     "common_new_leagues": {
       "english": "New leagues available",
       "value": "新しいリーグが利用できます"
+    },
+    "common_new_lineup": {
+      "comment": "A menu action allowing the user to create a new lineup",
+      "english": "New lineup",
+      "value": "新しいラインナップ"
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
@@ -4477,6 +4552,11 @@
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
       "value": "試合日程はありません"
+    },
+    "common_no_lineups_saved": {
+      "comment": "A placeholder text indicating the user has no saved lineups",
+      "english": "No lineups saved",
+      "value": "保存したスタメンはありません"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
@@ -5118,6 +5198,11 @@
       "english": "Remove League",
       "value": "リーグを削除"
     },
+    "common_remove_player": {
+      "comment": "A long press menu action allowing the user to remove a player in the lineup",
+      "english": "Remove player",
+      "value": "選手を外す"
+    },
     "common_reset": {
       "english": "Reset",
       "value": "リセット"
@@ -5197,6 +5282,16 @@
     "common_rss_feeds": {
       "english": "News",
       "value": "ニュース"
+    },
+    "common_save_action": {
+      "comment": "A menu action for saving lineups",
+      "english": "Save",
+      "value": "保存"
+    },
+    "common_saved_lineup_deleted": {
+      "comment": "A toast indicating that we successfully deleted the users saved lineup",
+      "english": "Saved lineup deleted",
+      "value": "保存したスタメンを削除しました"
     },
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
@@ -5479,6 +5574,11 @@
       "english": "Squad",
       "value": "スカッド"
     },
+    "common_squad_name": {
+      "comment": "Used in the lineup builder for a squad name title placeholder",
+      "english": "Squad name",
+      "value": "チーム名"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "スタッフの一押し"
@@ -5675,6 +5775,11 @@
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
       "value": "アラートが有効になっているチームがあります。チームページからアラートを無効にしてください"
     },
+    "common_team_pre_fill": {
+      "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
+      "english": "Team pre-fill",
+      "value": "チームを事前入力"
+    },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
       "english": "Just to confirm, you wanted ‘${team}’?",
@@ -5751,6 +5856,11 @@
       "comment": "Small-label below the bronze-match. Keep it short!",
       "english": "3rd",
       "value": "3位"
+    },
+    "common_this_removes": {
+      "comment": "An alert action description indicating that the action removes a lineup. Add no placeholder after the \"removes\"",
+      "english": "This removes",
+      "value": "削除します"
     },
     "common_three_match_series": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6034,6 +6144,11 @@
       "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
       "english": "until %@",
       "value": "%@まで"
+    },
+    "common_untitled": {
+      "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
+      "english": "Untitled",
+      "value": "無題"
     },
     "common_upcoming_matches": {
       "english": "Upcoming matches",
@@ -7264,6 +7379,11 @@
       "english": "Azerbaijan",
       "value": "アゼルバイジャン"
     },
+    "notifications_bangladesh": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Bangladesh",
+      "value": "バングラデシュ"
+    },
     "notifications_belarus": {
       "english": "Belarus",
       "value": "ベラルーシ"
@@ -7359,6 +7479,11 @@
       "comment": "Heading for notification/alert settings",
       "english": "Manage all your active news, team, player and league notifications",
       "value": "すべてのニュース、チーム、選手、リーグの通知を管理します"
+    },
+    "notifications_china": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "China",
+      "value": "中国"
     },
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
@@ -7657,6 +7782,11 @@
       "english": "Germany",
       "value": "ドイツ"
     },
+    "notifications_ghana": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Ghana",
+      "value": "ガーナ"
+    },
     "notifications_goal_v2": {
       "english": "Goal",
       "value": "ゴール"
@@ -7709,6 +7839,11 @@
       "comment": "support screen headline (\\n for line break)",
       "english": "Hello,\\nhow can we help you?",
       "value": "こんにちは\\nサポートが必要ですか？"
+    },
+    "notifications_hong_kong": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Hong Kong",
+      "value": "香港"
     },
     "notifications_how_about_rating": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -8202,6 +8337,11 @@
       "english": "Italy",
       "value": "イタリア"
     },
+    "notifications_japan": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Japan",
+      "value": "日本"
+    },
     "notifications_kazakhstan": {
       "english": "Kazakhstan",
       "value": "カザフスタン"
@@ -8261,6 +8401,16 @@
       "comment": "The republic of North Macedonia.",
       "english": "North Macedonia",
       "value": "北マケドニア"
+    },
+    "notifications_malaysia": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Malaysia",
+      "value": "マレーシア"
+    },
+    "notifications_malta": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Malta",
+      "value": "マルタ"
     },
     "notifications_match_date": {
       "english": "Match date",
@@ -8323,6 +8473,11 @@
       "comment": "Abbrevation of minutes",
       "english": "Min",
       "value": "分"
+    },
+    "notifications_morocco": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Morocco",
+      "value": "モロッコ"
     },
     "notifications_my_leagues": {
       "comment": "Profile page list header",
@@ -8396,9 +8551,19 @@
       "english": "Writing results to log file",
       "value": "ログファイルに結果を書き込み中"
     },
+    "notifications_new_zealand": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "New Zealand",
+      "value": "ニュージーランド"
+    },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
       "value": "ナイス！設定を終了しますか、それともリーグ全体の移籍アラートを追加またはチームの移籍アラートをカスタマイズしますか？"
+    },
+    "notifications_nigeria": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Nigeria",
+      "value": "ナイジェリア"
     },
     "notifications_night_mode": {
       "comment": "Deprecated",
@@ -8483,6 +8648,11 @@
       "english": "Open on watch",
       "value": "ウォッチで開く"
     },
+    "notifications_pakistan": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Pakistan",
+      "value": "パキスタン"
+    },
     "notifications_pass_percentage": {
       "english": "Pass success",
       "value": "パス成功"
@@ -8499,6 +8669,11 @@
     "notifications_penalties_won": {
       "english": "Penalties won",
       "value": "獲得したPK"
+    },
+    "notifications_philippines": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Philippines",
+      "value": "フィリピン"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -8844,9 +9019,19 @@
       "english": "Signing in…",
       "value": "サインイン中…"
     },
+    "notifications_singapore": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Singapore",
+      "value": "シンガポール"
+    },
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "スロバキア"
+    },
+    "notifications_slovenia": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Slovenia",
+      "value": "スロベニア"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -8866,6 +9051,11 @@
     "notifications_south_africa": {
       "english": "South Africa",
       "value": "南アフリカ"
+    },
+    "notifications_south_korea": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "South Korea",
+      "value": "韓国 (大韓民国)"
     },
     "notifications_spain": {
       "comment": "Used in TV schedules filter",
@@ -8922,6 +9112,11 @@
     "notifications_tackles_succeeded": {
       "english": "Tackles won",
       "value": "タックル成功"
+    },
+    "notifications_tanzania": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Tanzania",
+      "value": "タンザニア"
     },
     "notifications_team_play": {
       "english": "Team play",
@@ -9222,6 +9417,16 @@
       "english": "These summaries are generated by AI, based on recent news articles within FotMob. Each summary links to the article it is based upon.",
       "value": "この要約はFotMob内の最新ニュース記事を元にAIが生成したものです。各要約には元記事へのリンクが付いています。"
     },
+    "seo_allow_notifications": {
+      "comment": "Call to action text to prompt for remote notifications",
+      "english": "Allow notifications",
+      "value": "通知を許可する"
+    },
+    "seo_allow_notifications_to_get_match_updates": {
+      "comment": "Description for \"prompt for notifications\" step in onboarding to further explain what kind of notifications the user will get if they enable them.",
+      "english": "Allow notifications to get match updates, which can be customized later.",
+      "value": "通知を許可して試合の最新情報を受け取りましょう。設定は後で変更できます。"
+    },
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "english": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play.",
@@ -9375,6 +9580,11 @@
       "english": "Days",
       "value": "日"
     },
+    "seo_defensive_actions_per_90": {
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made per 90 minutes. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action. See defensive_actions.",
+      "english": "Defensive contributions per 90",
+      "value": "90分あたりの守備貢献"
+    },
     "seo_delayed": {
       "comment": "Displays the text delayed below a matches score",
       "english": "Delayed",
@@ -9439,6 +9649,11 @@
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "ピッチ上での被xG"
+    },
+    "seo_expected_goals_set_play_conceded": {
+      "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "xG set play conceded",
+      "value": "セットプレー被xG"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9523,6 +9738,11 @@
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
       "english": "Fixture difficulty",
       "value": "試合日程の難易度"
+    },
+    "seo_follow_players_to_track_performances": {
+      "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
+      "english": "Follow players to track performances and transfers.",
+      "value": "選手をフォローして、パフォーマンスと移籍情報を追跡しよう。"
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
@@ -9862,7 +10082,7 @@
     "seo_lineup_builder": {
       "comment": "Headline for a lineup builder for football teams. In Norwegian the natural translation would be \"Lagbygger\".",
       "english": "Lineup Builder",
-      "value": "スタメン作成ツール"
+      "value": "スタメンビルダー"
     },
     "seo_lineup_builder_meta_description": {
       "comment": "Meta info description for the lineup builder. see [lineup_builder].",
@@ -9968,6 +10188,11 @@
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
       "english": "Unlock additional notification sounds.",
       "value": "追加の通知音をアンロックできます。"
+    },
+    "seo_never_miss_a_goal": {
+      "comment": "Title for \"prompt for notifications\" step in onboarding to explain why users should enable notifications.",
+      "english": "Never miss a goal",
+      "value": "ゴールを見逃すな"
     },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
@@ -10411,6 +10636,21 @@
       "english": "Search for any team to start with",
       "value": "チームを検索して開始"
     },
+    "seo_search_leagues_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search leagues",
+      "value": "リーグを検索"
+    },
+    "seo_search_players_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search players",
+      "value": "選手を検索"
+    },
+    "seo_search_teams_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search teams",
+      "value": "チームを検索"
+    },
     "seo_season_total": {
       "comment": "Text in a dropdown showing the season total score of a prediction competition, if the text is longer in the translated language use a shorter natural phrase like \"total\" instead.",
       "english": "Season total",
@@ -10430,6 +10670,16 @@
       "comment": "Abbreviation for \"seconds\" used in a countdown timer. Should be concise.",
       "english": "Secs",
       "value": "秒"
+    },
+    "seo_set_piece_goals": {
+      "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
+      "english": "Set piece goals",
+      "value": "セットプレー得点"
+    },
+    "seo_set_piece_goals_conceded": {
+      "comment": "Label for a statistic showing the number of goals conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "Set piece goals conceded",
+      "value": "セットプレー失点"
     },
     "seo_share_link": {
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
@@ -10487,34 +10737,34 @@
       "value": "プレミアリーグと世界のサッカーから最新のニュース、ヘッドライン、移籍の噂を入手してください。"
     },
     "seo_site_description_league_matches": {
-      "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ results %2$@ and upcoming fixtures",
-      "value": "%1$@結果%2$@、および今後の試合"
+      "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
+      "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
+      "value": "%1$sの%2$sシーズンの全試合結果と今後の試合日程。日付、節、クラブ、グループで並べ替え。ライブスコアと結果は毎節更新。"
     },
     "seo_site_description_league_news": {
-      "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
-      "english": "Get the latest %1$@ news and transfer rumours.",
-      "value": "最新の%1$@ニュースと移籍の噂を入手しましょう。"
+      "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",
+      "english": "Stay up to date with the latest %@ news including transfer rumours, injury updates, match highlights, match previews and managerial changes.",
+      "value": "移籍の噂、負傷情報、試合ハイライト、試合プレビュー、監督交代など、%@の最新ニュースをチェック。"
     },
     "seo_site_description_league_overview": {
-      "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "english": "%1$@ table %2$@, results, fixtures, top scorers and more",
-      "value": "%1$@表%2$@、結果、試合、トップ得点者など"
+      "comment": "SEO description for league overview page showing table, results, fixtures and top scorers. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ overview for %2$@ with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
+      "value": "%2$@の%1$@概要：順位表、最新結果、今後の試合、得点ランキング、リーグ最新ニュースを掲載。"
     },
     "seo_site_description_league_playoff": {
-      "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "english": "%1$@ tournament overview, fixtures, results %2$@",
-      "value": "%1$@トーナメントの概要、試合スケジュール、結果 %2$@"
+      "comment": "SEO description for league playoff/knockout page showing bracket, fixtures and results. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ playoff bracket for %2$@ with knockout fixtures, results, matchups and the road to the final. Follow every round of the tournament live.",
+      "value": "%2$@の%1$@プレーオフ（トーナメント表）。ノックアウトの試合日程、結果、対戦カード、決勝までの道のりを掲載。大会の各ラウンドをライブでフォロー。"
     },
     "seo_site_description_league_stats": {
-      "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
-      "english": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@ の統計データ %2$@ には、トップ得点者、アシスト、プレイヤーの評価などが含まれています"
+      "comment": "SEO description for league stats page showing top scorers, assists, ratings and performance data. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ statistics for %2$@ with top scorers, assist leaders, player ratings, clean sheets and detailed performance data for every team.",
+      "value": "%2$@の%1$@の統計：得点ランキング、アシストランキング、選手評価、クリーンシート、全チームの詳細パフォーマンスデータ。"
     },
     "seo_site_description_league_table": {
-      "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
-      "english": "%1$@ table %2$@, standings, form guide, and more.",
-      "value": "%1$@表%2$@、順位表、フォームガイドなど"
+      "comment": "SEO description for league table page showing standings with points, form and upcoming opponents. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ standings for %2$@ with current form, home and away records, goal difference and upcoming opponents for every team.",
+      "value": "%1$@の%2$@順位表：直近の調子、ホーム／アウェイ成績、得失点差、各チームの次の対戦相手を掲載。"
     },
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
@@ -10522,24 +10772,24 @@
       "value": "予想得点数（xPts）によってランク付けされた%1$@（%2$@）。%2$@、およびその他のシーズンの%1$@のゴール期待値表、またはジャスティス表をFotMobでご覧ください。"
     },
     "seo_site_description_league_transfers": {
-      "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "english": "See all %1$@ transfers.",
-      "value": "全ての%1$@移籍を見る。"
+      "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
+      "english": "Complete %@ transfer overview with all incoming and outgoing players, transfer fees, contract details and loan moves across every club.",
+      "value": "%@の移籍総覧：全クラブの加入・退団、移籍金、契約詳細、レンタル移籍を網羅。"
     },
     "seo_site_description_league_trophies": {
-      "comment": "metadata description for league trophies tab.",
-      "english": "%1$@ historic seasons with winners and runners-up.",
-      "value": "%1$@ の歴史的なシーズンの優勝者と準優勝者を紹介します。"
+      "comment": "SEO description for league trophies page showing historical winners, runner-up and title races. %@ is the league name",
+      "english": "Explore the full %@ history with past champions, runners-up, title races and season-by-season results going back through the decades.",
+      "value": "過去の優勝・準優勝、タイトル争い、シーズン別結果など、%@の歴史を数十年にわたって詳しくチェックしよう。"
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
       "value": "%3$@の%1$@対%2$@戦。ライブ結果、H2H、試合統計、ラインナップ、選手評価、インサイト、チームフォーム、シュートマップ、ハイライトをチェックしましょう。"
     },
-    "seo_site_description_match_finished": {
-      "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
-      "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ vs %2$@ の試合は %3$@ に行われ、%4$@ で終了しました。ライブ結果、対戦成績、試合の統計データ、ラインナップ、選手の評価、インサイト、チームの調子、シュートマップ、ハイライトをチェックしてください。"
+    "seo_site_description_match_with_alias": {
+      "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
+      "english": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
+      "value": "%4$@：%3$@の%1$@対%2$@戦。ライブ結果、H2H、試合統計、ラインナップ、選手評価、インサイト、チームフォーム、シュートマップ、ハイライトをチェックしましょう。"
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -10552,44 +10802,44 @@
       "value": "%1$@ の %2$@ %3$@ の統計情報、トップ得点者、アシスト、選手の評価などを含みます"
     },
     "seo_site_description_team_fixtures": {
-      "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
-      "english": "%1$@ - live scores, fixtures, and results",
-      "value": "%1$@ - ライブスコア、日程、結果"
+      "comment": "SEO description for team fixtures page showing fixture list with live scores and results. %@ is the team name",
+      "english": "Full %@ fixture list with live scores, results and upcoming matches across all competitions including league and cup games.",
+      "value": "%@の全試合日程：全大会（リーグ戦・カップ戦）におけるライブスコア、結果、今後の試合を掲載。"
     },
     "seo_site_description_team_history": {
-      "comment": "Description for the page showing a teams historical table positions and trophies won.",
-      "english": "Historical table positions for %1$@",
-      "value": "%1$@ の歴史的な順位表"
+      "comment": "SEO description for team history page showing past league finishes, results, trophies and coaches. %@ is the team name",
+      "english": "Explore %@ history with past league finishes, season-by-season results, trophy cabinet, coach history and win percentage.",
+      "value": "%@の歴史をチェック。過去のリーグ順位、シーズン別結果、獲得タイトル、監督の変遷、勝率を確認できます。"
     },
     "seo_site_description_team_news": {
-      "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "Get the latest %1$@ news and transfer rumours",
-      "value": "最新の%1$@ニュースと移籍の噂をゲット"
+      "comment": "SEO description for team news page showing latest news, transfer rumours and match updates. %@ is the team name",
+      "english": "Stay up to date with all the latest %@ news including transfer rumours, injury updates, match previews and post-match analysis.",
+      "value": "%@の最新ニュースをチェック。移籍の噂、負傷情報、試合プレビュー、試合後分析まで網羅。"
     },
     "seo_site_description_team_overview": {
-      "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "english": "%1$@ - results, fixtures, latest news and standings",
-      "value": "%1$@ - 結果、試合、最新ニュース、順位表"
+      "comment": "SEO description for team overview page showing results, fixtures, standings and news. %@ is the team name",
+      "english": "Get the latest %@ results, upcoming fixtures, league standings, top player stats and team news. Updated live throughout the season.",
+      "value": "%@の最新試合結果、今後の試合日程、リーグ順位表、トップ選手スタッツ、チームニュースをチェック。シーズンを通してライブ更新。"
     },
     "seo_site_description_team_squad": {
-      "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
-      "english": "Current %1$@ squad",
-      "value": "現在の%1$@メンバー"
+      "comment": "SEO description for team squad page showing player details, positions, injuries and coaching staff. %@ is the team name",
+      "english": "View the full %@ squad with player positions, shirt numbers, ages, nationalities, injury updates and most valuable players.",
+      "value": "%@の全選手一覧をチェック。ポジション、背番号、年齢、国籍、負傷情報、最も市場価値の高い選手を確認できます。"
     },
     "seo_site_description_team_stats": {
-      "comment": "Title for the page showing stats for a team.",
-      "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - チーム評価、試合ごとのゴール、正確なシュート数、およびその他の統計情報"
+      "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
+      "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
+      "value": "%@の詳細な選手・チームスタッツ：評価、ゴール、アシスト、クリーンシート、枠内シュート、シーズン成績など。"
     },
     "seo_site_description_team_table": {
-      "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
-      "english": "%1$@ - league and cup standings and form guide",
-      "value": "%1$@ - リーグとカップの順位表およびフォームガイド"
+      "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
+      "english": "See where %@ stand in the league and cup tables with points, form guide, goal difference and upcoming opponents.",
+      "value": "%@のリーグ／カップ順位表での順位を、勝点、直近の成績、得失点差、今後の対戦相手とともにチェック。"
     },
     "seo_site_description_team_transfers": {
-      "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
-      "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "最新の%1$@の加入・退団・契約延長"
+      "comment": "SEO description for team transfers page showing complete transfer history. %@ is the team name",
+      "english": "Complete %@ transfer history with players in, players out, loan deals, contract extensions, transfer fees and destinations.",
+      "value": "%@の移籍履歴を完全網羅：加入・退団、レンタル移籍、契約延長、移籍金、移籍先まで掲載。"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10602,14 +10852,14 @@
       "value": "%1$@ の最新の確認された移籍と最も高価な契約。FotMob Transfer Center - リーグとチーム別にフィルタリング。完了した取引すべてを含む締め切り日のライブアップデートで移籍情報を最新の状態に保ちましょう！"
     },
     "seo_site_description_tv_guide": {
-      "comment": "SEO description for tv schedule page of football matches. see [site_title_tv_guide]",
-      "english": "Find which football matches are live on TV today. Browse TV schedules by country with channel listings for Premier League, Champions League and more.",
-      "value": "今日TVで生中継されるサッカーの試合をチェック。プレミアリーグ、チャンピオンズリーグなどの放送チャンネル一覧付きで、国別のTV放送予定を確認できます。"
+      "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
+      "english": "Find football matches live on TV in %@ today and this week. TV schedules with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "%@の今日・今週のサッカー中継をTVでチェック。プレミアリーグ、チャンピオンズリーグ、ワールドカップなどのキックオフ時間付きTV放送予定を掲載。"
     },
     "seo_site_description_tv_guide_channel": {
       "comment": "SEO description for tv schedule page filtered by channel name. %@ is the channel name. see [site_title_tv_guide_channel]",
-      "english": "See all football matches on %@ today. Full TV schedule with kick-off times and channel listings.",
-      "value": "今日%@で放送される全サッカー試合をチェック。キックオフ時刻とチャンネル一覧付きのTV放送予定表。"
+      "english": "See all football matches on %@ today and this week. TV schedule with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "%@で今日と今週の全サッカー試合をチェック。プレミアリーグ、チャンピオンズリーグ、ワールドカップなどのキックオフ時間付きTV放送予定表。"
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -10651,14 +10901,14 @@
       "value": "最新ニュース - 今日のサッカーニュースと移籍の噂。"
     },
     "seo_site_title_league_matches": {
-      "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ matches and results %2$@",
-      "value": "%1$@のマッチと結果は%2$@"
+      "comment": "SEO title for league matches page showing fixtures, results and live scores. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ fixtures, results and live scores %2$@",
+      "value": "「%1$@ 日程・結果・ライブスコア %2$@」"
     },
     "seo_site_title_league_news": {
-      "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - 最新のニュースと噂"
+      "comment": "SEO title for league news page showing latest news and transfer rumours. %@ is the league name",
+      "english": "%@ - latest news, transfer rumours and updates",
+      "value": "%@ - 最新ニュース、移籍の噂、最新情報"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
@@ -10669,6 +10919,11 @@
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "english": "%1$@ knockout fixtures, bracket and champion %2$@",
       "value": "%1$@ ノックアウト試合、ブラケット、チャンピオン %2$@"
+    },
+    "seo_site_title_league_stats": {
+      "comment": "SEO title for league stats page showing player and team statistics. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ stats for %2$@ - players and teams",
+      "value": "%1$@ %2$@のスタッツ - 選手とチーム"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
@@ -10681,9 +10936,9 @@
       "value": "%1$@ %2$@ トップ評価のチーム、試合あたりのゴール、枠内シュートなど他の統計"
     },
     "seo_site_title_league_stats_trophies": {
-      "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
-      "english": "%1$@ winners and runner-ups",
-      "value": "%1$@ 優勝者および準優勝者"
+      "comment": "SEO title for league trophies page showing past winners and runner-up. %@ is the league name",
+      "english": "%@ - past winners, runners-up and title history",
+      "value": "%@ - 過去の優勝チーム、準優勝チーム、タイトル履歴"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
@@ -10691,9 +10946,9 @@
       "value": "%1$@ テーブル %2$@、フォーム、次の対戦相手"
     },
     "seo_site_title_league_table_xg": {
-      "comment": "Headline for the league's xG table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League xG table 2021/2022\"",
-      "english": "%1$@ xG table %2$@",
-      "value": "%1$@ゴール期待値表 %2$@"
+      "comment": "SEO title for league xG table page showing expected goals standings. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ xG table %2$@ - expected goals standings",
+      "value": "%1$@ xG表 %2$@ - 期待得点順位表"
     },
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
@@ -10731,14 +10986,14 @@
       "value": "%1$@ - 最新の試合、スコア、および今後の試合"
     },
     "seo_site_title_team_history": {
-      "comment": "Title for the page showing a teams historical table positions and trophies won.",
-      "english": "%1$@ -  historical table positions and trophies",
-      "value": "%1$@ - 歴史的なテーブルポジションとトロフィー"
+      "comment": "SEO title for team history page showing historical table positions and trophies. %@ is the team name",
+      "english": "%@ - historical table positions and trophies",
+      "value": "%@ - 歴代順位とタイトル・トロフィー"
     },
     "seo_site_title_team_news": {
-      "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - 最新ニュースとゴシップ"
+      "comment": "SEO title for team news page showing latest news and transfer rumours. %@ is the team name",
+      "english": "%@ - latest news, transfer rumours and updates",
+      "value": "%@ - 最新ニュース、移籍の噂と最新情報"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10751,9 +11006,9 @@
       "value": "%1$@ - チーム、コーチ、怪我、およびポジション"
     },
     "seo_site_title_team_stats": {
-      "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
-      "english": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value",
-      "value": "%1$@ - トップ評価のプレーヤー、得点、アシストなどの統計情報 - 統計、キャリア、市場価値"
+      "comment": "SEO title for team stats page showing different football statistics. %@ is the team name",
+      "english": "%@ - top rated players, goals, assists and other stats",
+      "value": "%@ - 高評価の選手、ゴール、アシスト、その他のスタッツ"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
@@ -10761,9 +11016,9 @@
       "value": "%1$@ - チーム評価、試合ごとのゴール数、枠内シュート数、その他の統計情報"
     },
     "seo_site_title_team_table": {
-      "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
-      "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ 表、フォーム、次の対戦相手"
+      "comment": "SEO title for team table page showing league standings and form. %@ is the team name",
+      "english": "%@ - league table, form guide and next opponent",
+      "value": "%@ - リーグ順位表、直近の成績、次の対戦相手"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
@@ -10781,9 +11036,9 @@
       "value": "移籍センター - %1$@: 最新のトップトランスファー - FotMob"
     },
     "seo_site_title_tv_guide": {
-      "comment": "SEO title for tv schedule page of football matches",
-      "english": "Football TV Schedules - Watch Live Football on TV | FotMob",
-      "value": "サッカーTV放送予定 - テレビでサッカーをライブ視聴 | FotMob"
+      "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
+      "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
+      "value": "%@のサッカーTV放送予定 - テレビでライブ視聴 | FotMob"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
@@ -11075,6 +11330,11 @@
       "english": "Try our lineup builder",
       "value": "ラインアップ作成ツールを試そう"
     },
+    "seo_tv_guide_country_heading": {
+      "comment": "Page title for TV guide filtered by country. %@ is the country name (e.g., \"Football TV Schedules in United Kingdom\")",
+      "english": "Football TV Schedules in %@",
+      "value": "%@のサッカーTV番組表"
+    },
     "seo_tv_guide_matches_date_on": {
       "comment": "Header text for TV guide channel page for football matches. First %@ is the date label (e.g., \"today\", \"tomorrow\", or specific date), second %@ is the channel name. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på %@",
       "english": "Matches %@ on %@",
@@ -11124,6 +11384,11 @@
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
       "value": "%1$@で全てのアクションを楽しもう"
+    },
+    "seo_we_have_followed_top_leagues": {
+      "comment": "Disclaimer for follow league step in onboarding.",
+      "english": "We've followed top leagues for you and you can add more below.",
+      "value": "主要リーグはフォロー済みです。下で追加できます。"
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",

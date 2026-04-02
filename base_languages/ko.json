@@ -2533,6 +2533,11 @@
       "english": "Add leagues",
       "value": "리그 추가"
     },
+    "common_add_player": {
+      "comment": "A search bottom sheet header for adding a player",
+      "english": "Add player",
+      "value": "선수 추가"
+    },
     "common_add_remove_leagues": {
       "english": "Add/Remove leagues",
       "value": "추가/삭제 리그들"
@@ -2949,6 +2954,11 @@
       "english": "Clear cache",
       "value": "캐시 삭제"
     },
+    "common_clear_players": {
+      "comment": "A menu action label allowing the user to clear all players in a lineup in lineup builder",
+      "english": "Clear players",
+      "value": "선수 모두 제거"
+    },
     "common_clearance_off_the_line": {
       "comment": "Clearance off the line",
       "english": "Cleared off the line",
@@ -3019,6 +3029,11 @@
       "english": "You can click here to compare the current player against another player",
       "value": "여기를 클릭해서 현재 선수와 다른 선수를 비교할 수 있습니다"
     },
+    "common_complete_lineup": {
+      "comment": "A toast indicating that the user has to complete the lineup in order to save or share",
+      "english": "Complete lineup",
+      "value": "라인업을 완성해 주세요"
+    },
     "common_concacaf_championsleague": {
       "comment": "Label indicating that the teams get a place in CONCACAF Champions League.",
       "english": "CONCACAF Champions League",
@@ -3073,6 +3088,11 @@
     "common_costa_rica": {
       "english": "Costa Rica",
       "value": "코스타리카"
+    },
+    "common_could_not_delete_saved_lineup": {
+      "comment": "A toast indicating that we were not able to delete the users saved lineup",
+      "english": "Could not delete saved lineup",
+      "value": "저장된 라인업을 삭제할 수 없습니다"
     },
     "common_countries": {
       "comment": "Header in the onboarding for the WC2018 teams (to pick the national teams to follow)",
@@ -3130,6 +3150,16 @@
     "common_defender_long": {
       "english": "Defender",
       "value": "수비수"
+    },
+    "common_delete_action": {
+      "comment": "A destructive action",
+      "english": "Delete",
+      "value": "삭제"
+    },
+    "common_delete_saved_lineup": {
+      "comment": "An alert action asking the user if he wants to delete his saved lineup",
+      "english": "Delete saved lineup?",
+      "value": "저장된 라인업을 삭제할까요?"
     },
     "common_deselect": {
       "english": "Deselect",
@@ -3325,6 +3355,11 @@
     "common_end_of_match": {
       "english": "final",
       "value": "최종"
+    },
+    "common_enter_name": {
+      "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
+      "english": "Enter a name",
+      "value": "이름을 입력하세요"
     },
     "common_error_adding_match_to_calendar": {
       "english": "Error adding match to calendar, this feature works only on Android 4.x",
@@ -3645,6 +3680,11 @@
       "english": "Fouls committed",
       "value": "반칙"
     },
+    "common_free_formation": {
+      "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
+      "english": "Free formation",
+      "value": "자유 포메이션"
+    },
     "common_free_kick": {
       "comment": "Type of goal via a free kick",
       "english": "Free kick",
@@ -3667,6 +3707,11 @@
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "일반"
+    },
+    "common_get_started": {
+      "comment": "A button in the lineup builder onboarding allowing the user to start building",
+      "english": "Get started",
+      "value": "시작하기"
     },
     "common_go_to_the_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -4063,6 +4108,11 @@
       "english": "Last home matches",
       "value": "최근 홈 경기"
     },
+    "common_last_lineup_unavailable": {
+      "comment": "A toast message indicating that the last lineup is unavailable for the selected team. Add no placeholder after the \"for\".\"",
+      "english": "Last lineup unavailable for",
+      "value": "직전 라인업을 확인할 수 없습니다."
+    },
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
@@ -4200,6 +4250,16 @@
     "common_lineup": {
       "english": "Lineup",
       "value": "라인업"
+    },
+    "common_lineup_builder_more_desc": {
+      "comment": "The fotmob lineup builder feature description in the more tab",
+      "english": "Build your own FotMob lineup",
+      "value": "나만의 FotMob 라인업 만들기"
+    },
+    "common_lineup_builder_onboarding_desc": {
+      "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
+      "english": "Build your dream XI, pick your team's next lineup, or plan your transfer window.",
+      "value": "꿈의 베스트 XI를 만들고, 팀의 다음 선발 라인업을 고르거나, 이적시장을 계획하세요."
     },
     "common_loading": {
       "english": "Loading...",
@@ -4408,6 +4468,11 @@
       "english": "Move to top",
       "value": "맨 위로 이동"
     },
+    "common_my_lineups": {
+      "comment": "A menu action label for the users saved lineups in lineup builder",
+      "english": "My lineups",
+      "value": "내 라인업"
+    },
     "common_my_matches": {
       "english": "My matches",
       "value": "나의 경기"
@@ -4419,6 +4484,11 @@
     "common_name": {
       "english": "Name",
       "value": "이름"
+    },
+    "common_name_your_lineup": {
+      "comment": "A label indicating that you can name your lineup",
+      "english": "Name your lineup",
+      "value": "라인업에 이름을 붙이세요"
     },
     "common_network_connection_issues_notification_ios": {
       "english": "It looks like we have problems fetching new data. %@",
@@ -4436,6 +4506,11 @@
     "common_new_leagues": {
       "english": "New leagues available",
       "value": "새 리그 이용 가능"
+    },
+    "common_new_lineup": {
+      "comment": "A menu action allowing the user to create a new lineup",
+      "english": "New lineup",
+      "value": "새 라인업"
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
@@ -4480,6 +4555,11 @@
       "comment": "Empty placeholder for the case of empty match-fixtures",
       "english": "No fixtures available",
       "value": "경기 일정 없음"
+    },
+    "common_no_lineups_saved": {
+      "comment": "A placeholder text indicating the user has no saved lineups",
+      "english": "No lineups saved",
+      "value": "저장된 라인업 없음"
     },
     "common_no_match_facts_available": {
       "english": "No match facts available",
@@ -5121,6 +5201,11 @@
       "english": "Remove League",
       "value": "리그 삭제"
     },
+    "common_remove_player": {
+      "comment": "A long press menu action allowing the user to remove a player in the lineup",
+      "english": "Remove player",
+      "value": "선수 제거"
+    },
     "common_reset": {
       "english": "Reset",
       "value": "리셋"
@@ -5200,6 +5285,16 @@
     "common_rss_feeds": {
       "english": "News",
       "value": "뉴스"
+    },
+    "common_save_action": {
+      "comment": "A menu action for saving lineups",
+      "english": "Save",
+      "value": "저장"
+    },
+    "common_saved_lineup_deleted": {
+      "comment": "A toast indicating that we successfully deleted the users saved lineup",
+      "english": "Saved lineup deleted",
+      "value": "저장된 라인업 삭제됨"
     },
     "common_saved_penalties": {
       "comment": "Label for number of penalties a keeper has saved in a match",
@@ -5482,6 +5577,11 @@
       "english": "Squad",
       "value": "스쿼드"
     },
+    "common_squad_name": {
+      "comment": "Used in the lineup builder for a squad name title placeholder",
+      "english": "Squad name",
+      "value": "스쿼드명"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "스태프 추천"
@@ -5678,6 +5778,11 @@
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
       "value": "팀 중 하나에서 알림이 활성화되어 있습니다. 팀 페이지에서 알림을 꺼야 합니다."
     },
+    "common_team_pre_fill": {
+      "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
+      "english": "Team pre-fill",
+      "value": "팀 미리 채우기"
+    },
     "common_team_selection_intent_confirmation": {
       "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
       "english": "Just to confirm, you wanted ‘${team}’?",
@@ -5754,6 +5859,11 @@
       "comment": "Small-label below the bronze-match. Keep it short!",
       "english": "3rd",
       "value": "3위"
+    },
+    "common_this_removes": {
+      "comment": "An alert action description indicating that the action removes a lineup. Add no placeholder after the \"removes\"",
+      "english": "This removes",
+      "value": "제거합니다"
     },
     "common_three_match_series": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6041,6 +6151,11 @@
       "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
       "english": "until %@",
       "value": "%@까지"
+    },
+    "common_untitled": {
+      "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
+      "english": "Untitled",
+      "value": "제목 없음"
     },
     "common_upcoming_matches": {
       "english": "Upcoming matches",
@@ -7280,6 +7395,11 @@
       "english": "Azerbaijan",
       "value": "아제르바이잔"
     },
+    "notifications_bangladesh": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Bangladesh",
+      "value": "방글라데시"
+    },
     "notifications_belarus": {
       "english": "Belarus",
       "value": "벨라루스"
@@ -7375,6 +7495,11 @@
       "comment": "Heading for notification/alert settings",
       "english": "Manage all your active news, team, player and league notifications",
       "value": "활성 뉴스, 팀 선수 및 리그 알림을 관리합니다"
+    },
+    "notifications_china": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "China",
+      "value": "중국"
     },
     "notifications_clearances": {
       "comment": "A defensive clearance – where a player under pressure kicks the ball clear of the defensive zone or/and out of play",
@@ -7673,6 +7798,11 @@
       "english": "Germany",
       "value": "독일"
     },
+    "notifications_ghana": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Ghana",
+      "value": "가나"
+    },
     "notifications_goal_v2": {
       "english": "Goal",
       "value": "골"
@@ -7725,6 +7855,11 @@
       "comment": "support screen headline (\\n for line break)",
       "english": "Hello,\\nhow can we help you?",
       "value": "안녕하세요,\\n어떻게 도와드릴까요?"
+    },
+    "notifications_hong_kong": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Hong Kong",
+      "value": "홍콩"
     },
     "notifications_how_about_rating": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -8218,6 +8353,11 @@
       "english": "Italy",
       "value": "이탈리아"
     },
+    "notifications_japan": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Japan",
+      "value": "일본"
+    },
     "notifications_kazakhstan": {
       "english": "Kazakhstan",
       "value": "카자흐스탄"
@@ -8277,6 +8417,16 @@
       "comment": "The republic of North Macedonia.",
       "english": "North Macedonia",
       "value": "북마케도니아"
+    },
+    "notifications_malaysia": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Malaysia",
+      "value": "말레이시아"
+    },
+    "notifications_malta": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Malta",
+      "value": "몰타"
     },
     "notifications_match_date": {
       "english": "Match date",
@@ -8339,6 +8489,11 @@
       "comment": "Abbrevation of minutes",
       "english": "Min",
       "value": "분"
+    },
+    "notifications_morocco": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Morocco",
+      "value": "모로코"
     },
     "notifications_my_leagues": {
       "comment": "Profile page list header",
@@ -8412,9 +8567,19 @@
       "english": "Writing results to log file",
       "value": "로그 파일에 결과를 작성하는 중"
     },
+    "notifications_new_zealand": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "New Zealand",
+      "value": "뉴질랜드"
+    },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
       "value": "멋져요! 모두 설정했나요? 아니면 리그 전체 이적 알림을 추가하거나 팀 이적을 사용자 정의하시겠습니까?"
+    },
+    "notifications_nigeria": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Nigeria",
+      "value": "나이지리아"
     },
     "notifications_night_mode": {
       "comment": "Deprecated",
@@ -8499,6 +8664,11 @@
       "english": "Open on watch",
       "value": "워치에서 열기"
     },
+    "notifications_pakistan": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Pakistan",
+      "value": "파키스탄"
+    },
     "notifications_pass_percentage": {
       "english": "Pass success",
       "value": "패스 성공"
@@ -8515,6 +8685,11 @@
     "notifications_penalties_won": {
       "english": "Penalties won",
       "value": "획득한 페널티킥"
+    },
+    "notifications_philippines": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Philippines",
+      "value": "필리핀"
     },
     "notifications_pin_to_homescreen": {
       "comment": "Option for adding a shortcut to the team to the homescreen",
@@ -8860,9 +9035,19 @@
       "english": "Signing in…",
       "value": "로그인 중..."
     },
+    "notifications_singapore": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Singapore",
+      "value": "싱가포르"
+    },
     "notifications_slovakia": {
       "english": "Slovakia",
       "value": "슬로바키아"
+    },
+    "notifications_slovenia": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Slovenia",
+      "value": "슬로베니아"
     },
     "notifications_social_media_updates": {
       "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
@@ -8882,6 +9067,11 @@
     "notifications_south_africa": {
       "english": "South Africa",
       "value": "남아프리카공화국"
+    },
+    "notifications_south_korea": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "South Korea",
+      "value": "남한"
     },
     "notifications_spain": {
       "comment": "Used in TV schedules filter",
@@ -8938,6 +9128,11 @@
     "notifications_tackles_succeeded": {
       "english": "Tackles won",
       "value": "태클 성공"
+    },
+    "notifications_tanzania": {
+      "comment": "Country name used in tv guide page on web",
+      "english": "Tanzania",
+      "value": "탄자니아"
     },
     "notifications_team_play": {
       "english": "Team play",
@@ -9238,6 +9433,16 @@
       "english": "These summaries are generated by AI, based on recent news articles within FotMob. Each summary links to the article it is based upon.",
       "value": "이 요약들은 FotMob 내 최신 뉴스 기사들을 바탕으로 AI가 작성했습니다. 각 요약은 해당 기사로 바로 연결됩니다."
     },
+    "seo_allow_notifications": {
+      "comment": "Call to action text to prompt for remote notifications",
+      "english": "Allow notifications",
+      "value": "알림 허용"
+    },
+    "seo_allow_notifications_to_get_match_updates": {
+      "comment": "Description for \"prompt for notifications\" step in onboarding to further explain what kind of notifications the user will get if they enable them.",
+      "english": "Allow notifications to get match updates, which can be customized later.",
+      "value": "알림을 허용하면 경기 업데이트를 받을 수 있으며, 나중에 맞춤 설정할 수 있습니다."
+    },
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "english": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play.",
@@ -9391,6 +9596,11 @@
       "english": "Days",
       "value": "일"
     },
+    "seo_defensive_actions_per_90": {
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made per 90 minutes. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action. See defensive_actions.",
+      "english": "Defensive contributions per 90",
+      "value": "90분당 수비적 행동"
+    },
     "seo_delayed": {
       "comment": "Displays the text delayed below a matches score",
       "english": "Delayed",
@@ -9455,6 +9665,11 @@
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
       "value": "출전 중 xG 실점"
+    },
+    "seo_expected_goals_set_play_conceded": {
+      "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "xG set play conceded",
+      "value": "세트 플레이에서 허용한 xG"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
@@ -9538,6 +9753,11 @@
       "comment": "Label for a section showing the fixture difficulty for a football team. Indicates how hard the five next league matches are. Use a natural term that fits the local language i.e. match program, fixtures, calendar, or a different term. Doesn't necessarily *need* the term difficulty if it is a hard fit in that language. (Like norwegian it's OK to just use \"Kampprogram\")",
       "english": "Fixture difficulty",
       "value": "경기 일정 난이도"
+    },
+    "seo_follow_players_to_track_performances": {
+      "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
+      "english": "Follow players to track performances and transfers.",
+      "value": "선수를 팔로우해 경기력과 이적 소식을 확인하세요."
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
@@ -9984,6 +10204,11 @@
       "english": "Unlock additional notification sounds.",
       "value": "알림 소리를 추가로 잠금 해제하세요."
     },
+    "seo_never_miss_a_goal": {
+      "comment": "Title for \"prompt for notifications\" step in onboarding to explain why users should enable notifications.",
+      "english": "Never miss a goal",
+      "value": "골을 놓치지 마세요"
+    },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
       "english": "Newsletter",
@@ -10426,6 +10651,21 @@
       "english": "Search for any team to start with",
       "value": "팀을 검색하여 시작하세요"
     },
+    "seo_search_leagues_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search leagues",
+      "value": "리그 검색"
+    },
+    "seo_search_players_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search players",
+      "value": "선수 검색"
+    },
+    "seo_search_teams_placeholder": {
+      "comment": "Placeholder for search text field.",
+      "english": "Search teams",
+      "value": "팀 검색"
+    },
     "seo_season_total": {
       "comment": "Text in a dropdown showing the season total score of a prediction competition, if the text is longer in the translated language use a shorter natural phrase like \"total\" instead.",
       "english": "Season total",
@@ -10445,6 +10685,16 @@
       "comment": "Abbreviation for \"seconds\" used in a countdown timer. Should be concise.",
       "english": "Secs",
       "value": "초"
+    },
+    "seo_set_piece_goals": {
+      "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
+      "english": "Set piece goals",
+      "value": "세트 플레이 득점"
+    },
+    "seo_set_piece_goals_conceded": {
+      "comment": "Label for a statistic showing the number of goals conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "Set piece goals conceded",
+      "value": "세트 플레이 실점"
     },
     "seo_share_link": {
       "comment": "Text for the button that opens the share dialogue for the league invite link.",
@@ -10502,34 +10752,34 @@
       "value": "프리미어 리그 및 세계 축구의 최신 뉴스, 헤드라인 및 이적 소문을 얻으세요."
     },
     "seo_site_description_league_matches": {
-      "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ results %2$@ and upcoming fixtures",
-      "value": "%1$@의 결과 %2$@ 및 예정된 경기"
+      "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
+      "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
+      "value": "%2$@ %1$@의 모든 경기 결과와 예정된 경기 일정. 날짜, 라운드, 클럽 또는 그룹별로 정렬. 라이브 스코어와 결과는 매 경기일마다 업데이트됩니다."
     },
     "seo_site_description_league_news": {
-      "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
-      "english": "Get the latest %1$@ news and transfer rumours.",
-      "value": "최신 %1$@ 뉴스와 이적 소식을 받아보세요."
+      "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",
+      "english": "Stay up to date with the latest %@ news including transfer rumours, injury updates, match highlights, match previews and managerial changes.",
+      "value": "이적설, 부상 소식, 경기 하이라이트, 경기 프리뷰, 감독 교체 등 최신 %@ 뉴스를 확인하세요."
     },
     "seo_site_description_league_overview": {
-      "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "english": "%1$@ table %2$@, results, fixtures, top scorers and more",
-      "value": "%1$@ 테이블 %2$@, 결과, 대진, 최고 득점자 등"
+      "comment": "SEO description for league overview page showing table, results, fixtures and top scorers. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ overview for %2$@ with league table, latest results, upcoming fixtures, top scorers and the latest news from around the league.",
+      "value": "%2$@ %1$@ 개요: 리그 순위표, 최신 결과, 예정 경기, 득점왕, 리그 최신 뉴스 포함."
     },
     "seo_site_description_league_playoff": {
-      "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "english": "%1$@ tournament overview, fixtures, results %2$@",
-      "value": "%1$@ 토너먼트 개요, 일정, 결과 %2$@"
+      "comment": "SEO description for league playoff/knockout page showing bracket, fixtures and results. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ playoff bracket for %2$@ with knockout fixtures, results, matchups and the road to the final. Follow every round of the tournament live.",
+      "value": "%2$@ %1$@ 플레이오프 대진표: 토너먼트(녹아웃) 경기 일정, 결과, 매치업과 결승까지의 여정. 대회 모든 라운드를 실시간으로 확인하세요."
     },
     "seo_site_description_league_stats": {
-      "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
-      "english": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@ 통계 %2$@(을)를 포함하여 최고의 득점자, 어시스트, 선수 평가 등을 제공합니다"
+      "comment": "SEO description for league stats page showing top scorers, assists, ratings and performance data. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ statistics for %2$@ with top scorers, assist leaders, player ratings, clean sheets and detailed performance data for every team.",
+      "value": "%2$@ %1$@ 통계: 득점 순위, 도움 순위, 선수 평점, 클린시트, 각 팀의 상세 경기력 데이터 제공."
     },
     "seo_site_description_league_table": {
-      "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
-      "english": "%1$@ table %2$@, standings, form guide, and more.",
-      "value": "%1$@ 테이블 %2$@, 순위, 폼 가이드 등."
+      "comment": "SEO description for league table page showing standings with points, form and upcoming opponents. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ standings for %2$@ with current form, home and away records, goal difference and upcoming opponents for every team.",
+      "value": "%2$@ %1$@ 순위표: 현재 폼, 홈/원정 성적, 득실차 및 각 팀의 다음 상대 정보 포함."
     },
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
@@ -10537,24 +10787,24 @@
       "value": "%1$@ %2$@ 기대 점수(xPts)로 순위를 매겼습니다. %1$@ xG 테이블 또는 %2$@ 및 기타 시즌에 대한 정의 테이블을 FotMob에서 참조하세요."
     },
     "seo_site_description_league_transfers": {
-      "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "english": "See all %1$@ transfers.",
-      "value": "모든 %1$@ 이적을 보세요."
+      "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
+      "english": "Complete %@ transfer overview with all incoming and outgoing players, transfer fees, contract details and loan moves across every club.",
+      "value": "모든 구단의 영입·방출 선수, 이적료, 계약 상세 정보, 임대 이적까지 포함한 %@ 이적 전체 개요입니다."
     },
     "seo_site_description_league_trophies": {
-      "comment": "metadata description for league trophies tab.",
-      "english": "%1$@ historic seasons with winners and runners-up.",
-      "value": "우승팀과 준우승팀이 포함된 %1$@의 역사적인 시즌."
+      "comment": "SEO description for league trophies page showing historical winners, runner-up and title races. %@ is the league name",
+      "english": "Explore the full %@ history with past champions, runners-up, title races and season-by-season results going back through the decades.",
+      "value": "지난 수십 년간의 시즌별 결과와 함께 역대 우승팀, 준우승팀, 우승 경쟁까지 포함한 %@의 전체 역사를 살펴보세요."
     },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
       "value": "%3$@의 %1$@ 대 %2$@. 실시간 결과, 상대 전적, 경기 통계, 선발 라인업, 선수 평가, 인사이트, 팀 폼, 슛맵, 하이라이트를 확인하세요."
     },
-    "seo_site_description_match_finished": {
-      "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
-      "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ vs %2$@은(는) %3$@에 %4$@로 종료되었습니다. 실시간 결과, H2H, 매치 통계, 라인업, 플레이어 평가, 인사이트, 팀 형태, 샷맵 및 하이라이트를 확인하세요."
+    "seo_site_description_match_with_alias": {
+      "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
+      "english": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
+      "value": "%4$@ - %3$@의 %1$@ 대 %2$@. 실시간 결과, 상대 전적, 경기 통계, 선발 라인업, 선수 평가, 인사이트, 팀 폼, 슛맵, 하이라이트를 확인하세요."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -10567,44 +10817,44 @@
       "value": "%1$@의 %2$@ %3$@ 통계, 최다 골, 어시스트, 선수 평가 등을 포함합니다"
     },
     "seo_site_description_team_fixtures": {
-      "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
-      "english": "%1$@ - live scores, fixtures, and results",
-      "value": "%1$@ - 실시간 스코어, 일정, 결과"
+      "comment": "SEO description for team fixtures page showing fixture list with live scores and results. %@ is the team name",
+      "english": "Full %@ fixture list with live scores, results and upcoming matches across all competitions including league and cup games.",
+      "value": "%@ 경기 일정 전체 목록: 모든 대회(리그·컵) 라이브 스코어, 결과 및 예정 경기 포함."
     },
     "seo_site_description_team_history": {
-      "comment": "Description for the page showing a teams historical table positions and trophies won.",
-      "english": "Historical table positions for %1$@",
-      "value": "%1$@의 역사적인 순위표"
+      "comment": "SEO description for team history page showing past league finishes, results, trophies and coaches. %@ is the team name",
+      "english": "Explore %@ history with past league finishes, season-by-season results, trophy cabinet, coach history and win percentage.",
+      "value": "%@의 역사를 살펴보세요: 역대 리그 최종 순위, 시즌별 결과, 트로피 캐비닛, 감독 역사, 승률."
     },
     "seo_site_description_team_news": {
-      "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "Get the latest %1$@ news and transfer rumours",
-      "value": "최신 %1$@ 뉴스와 이적루머를 받아보세요"
+      "comment": "SEO description for team news page showing latest news, transfer rumours and match updates. %@ is the team name",
+      "english": "Stay up to date with all the latest %@ news including transfer rumours, injury updates, match previews and post-match analysis.",
+      "value": "%@의 최신 소식을 모두 확인하세요. 이적설, 부상 업데이트, 경기 프리뷰, 경기 후 분석까지 포함합니다."
     },
     "seo_site_description_team_overview": {
-      "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "english": "%1$@ - results, fixtures, latest news and standings",
-      "value": "%1$@ - 결과, 일정, 최신 뉴스 및 순위"
+      "comment": "SEO description for team overview page showing results, fixtures, standings and news. %@ is the team name",
+      "english": "Get the latest %@ results, upcoming fixtures, league standings, top player stats and team news. Updated live throughout the season.",
+      "value": "%@의 최신 결과, 예정 경기, 리그 순위표, 주요 선수 스탯과 팀 소식을 확인하세요. 시즌 내내 실시간으로 업데이트됩니다."
     },
     "seo_site_description_team_squad": {
-      "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
-      "english": "Current %1$@ squad",
-      "value": "현재 %1$@ 스쿼드"
+      "comment": "SEO description for team squad page showing player details, positions, injuries and coaching staff. %@ is the team name",
+      "english": "View the full %@ squad with player positions, shirt numbers, ages, nationalities, injury updates and most valuable players.",
+      "value": "선수 포지션, 등번호, 나이, 국적, 부상 업데이트, 최고 가치 선수까지 포함한 %@ 전체 스쿼드를 확인하세요."
     },
     "seo_site_description_team_stats": {
-      "comment": "Title for the page showing stats for a team.",
-      "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - 팀 평점, 경기당 득점, 유효 슈팅 외 기타 통계"
+      "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
+      "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
+      "value": "%@의 평점, 득점, 도움, 클린시트, 유효슈팅, 시즌 성적을 포함한 상세 선수 및 팀 통계."
     },
     "seo_site_description_team_table": {
-      "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
-      "english": "%1$@ - league and cup standings and form guide",
-      "value": "%1$@ - 리그 및 컵 순위 및 폼 가이드"
+      "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
+      "english": "See where %@ stand in the league and cup tables with points, form guide, goal difference and upcoming opponents.",
+      "value": "%@의 리그 및 컵 순위를 확인하세요. 승점, 최근 성적, 득실차, 다음 상대까지 한눈에 볼 수 있습니다."
     },
     "seo_site_description_team_transfers": {
-      "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
-      "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "최신 %1$@ 영입, 방출 및 계약 연장"
+      "comment": "SEO description for team transfers page showing complete transfer history. %@ is the team name",
+      "english": "Complete %@ transfer history with players in, players out, loan deals, contract extensions, transfer fees and destinations.",
+      "value": "%@의 완전한 이적 기록: 영입, 방출, 임대 이적, 계약 연장, 이적료, 행선지까지 모두 확인하세요."
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -10617,14 +10867,14 @@
       "value": "%1$@ 최신 확인된 이적 및 최고 이적료 영입. FotMob 이적 센터 - 리그 및 팀별로 필터링하세요. 마감일에도 완료된 모든 거래를 포함한 실시간 업데이트로 이적 소식을 놓치지 마세요!"
     },
     "seo_site_description_tv_guide": {
-      "comment": "SEO description for tv schedule page of football matches. see [site_title_tv_guide]",
-      "english": "Find which football matches are live on TV today. Browse TV schedules by country with channel listings for Premier League, Champions League and more.",
-      "value": "오늘 TV에서 생중계되는 축구 경기를 확인하세요. 프리미어리그, 챔피언스리그 등 경기의 채널 목록과 함께 국가별 TV 편성표를 찾아보세요."
+      "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
+      "english": "Find football matches live on TV in %@ today and this week. TV schedules with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "오늘과 이번 주 %@에서 TV로 생중계되는 축구 경기를 찾아보세요. 프리미어리그, 챔피언스리그, 월드컵 등 킥오프 시간 포함 TV 편성표."
     },
     "seo_site_description_tv_guide_channel": {
       "comment": "SEO description for tv schedule page filtered by channel name. %@ is the channel name. see [site_title_tv_guide_channel]",
-      "english": "See all football matches on %@ today. Full TV schedule with kick-off times and channel listings.",
-      "value": "오늘 %@에서 모든 축구 경기를 확인하세요. 킥오프 시간과 채널 목록이 포함된 전체 TV 편성표를 제공합니다."
+      "english": "See all football matches on %@ today and this week. TV schedule with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "오늘과 이번 주 %@에서 모든 축구 경기를 확인하세요. 프리미어리그, UEFA 챔피언스리그, 월드컵 등 킥오프 시간이 포함된 TV 편성표입니다."
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -10666,14 +10916,14 @@
       "value": "최신 뉴스 - 오늘의 축구 뉴스 및 이적 소문."
     },
     "seo_site_title_league_matches": {
-      "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ matches and results %2$@",
-      "value": "%1$@경기와 결과 %2$@"
+      "comment": "SEO title for league matches page showing fixtures, results and live scores. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ fixtures, results and live scores %2$@",
+      "value": "%1$@ 경기 일정, 결과 및 실시간 스코어 %2$@"
     },
     "seo_site_title_league_news": {
-      "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - 최신 뉴스와 소문"
+      "comment": "SEO title for league news page showing latest news and transfer rumours. %@ is the league name",
+      "english": "%@ - latest news, transfer rumours and updates",
+      "value": "%@ - 최신 뉴스, 이적설 및 업데이트"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
@@ -10684,6 +10934,11 @@
       "comment": "Title for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
       "english": "%1$@ knockout fixtures, bracket and champion %2$@",
       "value": "%1$@ 탈락전, 토너먼트 그리고 챔피언 %2$@"
+    },
+    "seo_site_title_league_stats": {
+      "comment": "SEO title for league stats page showing player and team statistics. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ stats for %2$@ - players and teams",
+      "value": "%2$@ %1$@ 통계 - 선수 및 팀"
     },
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
@@ -10696,9 +10951,9 @@
       "value": "%1$@ %2$@ 최고 평점 팀, 경기당 득점, 유효 슈팅 및 기타 통계"
     },
     "seo_site_title_league_stats_trophies": {
-      "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
-      "english": "%1$@ winners and runner-ups",
-      "value": "%1$@ 우승자 및 준우승자"
+      "comment": "SEO title for league trophies page showing past winners and runner-up. %@ is the league name",
+      "english": "%@ - past winners, runners-up and title history",
+      "value": "%@ - 역대 우승팀, 준우승팀 및 타이틀 히스토리"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
@@ -10706,9 +10961,9 @@
       "value": "%1$@ 순위표 %2$@, 최근 성적 및 다음 상대"
     },
     "seo_site_title_league_table_xg": {
-      "comment": "Headline for the league's xG table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League xG table 2021/2022\"",
-      "english": "%1$@ xG table %2$@",
-      "value": "%1$@ xG 테이블 %2$@"
+      "comment": "SEO title for league xG table page showing expected goals standings. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ xG table %2$@ - expected goals standings",
+      "value": "%1$@ xG 순위표 %2$@ - 예상 득점 순위"
     },
     "seo_site_title_league_transfers": {
       "comment": "Title for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
@@ -10746,14 +11001,14 @@
       "value": "%1$@ - 최신 매치, 스코어 및 다가오는 경기"
     },
     "seo_site_title_team_history": {
-      "comment": "Title for the page showing a teams historical table positions and trophies won.",
-      "english": "%1$@ -  historical table positions and trophies",
-      "value": "%1$@ - 역대 테이블 순위와 트로피"
+      "comment": "SEO title for team history page showing historical table positions and trophies. %@ is the team name",
+      "english": "%@ - historical table positions and trophies",
+      "value": "%@ - 역대 리그 순위 및 우승 트로피"
     },
     "seo_site_title_team_news": {
-      "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - 최신 뉴스와 소문"
+      "comment": "SEO title for team news page showing latest news and transfer rumours. %@ is the team name",
+      "english": "%@ - latest news, transfer rumours and updates",
+      "value": "%@ - 최신 뉴스, 이적설 및 업데이트"
     },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
@@ -10766,9 +11021,9 @@
       "value": "%1$@ - 스쿼드, 감독, 부상, 포지션"
     },
     "seo_site_title_team_stats": {
-      "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
-      "english": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value",
-      "value": "%1$@ - 최고 평점 선수, 골, 어시스트 및 기타 통계- 통계, 경력 및 시장 가치"
+      "comment": "SEO title for team stats page showing different football statistics. %@ is the team name",
+      "english": "%@ - top rated players, goals, assists and other stats",
+      "value": "%@ - 최고 평점 선수, 득점, 어시스트 및 기타 통계"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
@@ -10776,9 +11031,9 @@
       "value": "%1$@ - 팀 레이팅, 경기당 득점, 유효 슈팅 및 기타 통계"
     },
     "seo_site_title_team_table": {
-      "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
-      "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ 테이블, 폼 및 다음 상대 팀"
+      "comment": "SEO title for team table page showing league standings and form. %@ is the team name",
+      "english": "%@ - league table, form guide and next opponent",
+      "value": "%@ - 리그 순위표, 최근 흐름 및 다음 상대"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
@@ -10796,9 +11051,9 @@
       "value": "이적센터 - %1$@: 최신 및 최고의 이적 - FotMob"
     },
     "seo_site_title_tv_guide": {
-      "comment": "SEO title for tv schedule page of football matches",
-      "english": "Football TV Schedules - Watch Live Football on TV | FotMob",
-      "value": "축구 TV 중계 일정 - TV로 축구 생중계 시청 | FotMob"
+      "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
+      "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
+      "value": "%@ 축구 TV 편성표 - TV로 생중계 시청 | FotMob"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
@@ -11090,6 +11345,11 @@
       "english": "Try our lineup builder",
       "value": "라인업 빌더를 사용해 보세요"
     },
+    "seo_tv_guide_country_heading": {
+      "comment": "Page title for TV guide filtered by country. %@ is the country name (e.g., \"Football TV Schedules in United Kingdom\")",
+      "english": "Football TV Schedules in %@",
+      "value": "%@의 축구 TV 편성표"
+    },
     "seo_tv_guide_matches_date_on": {
       "comment": "Header text for TV guide channel page for football matches. First %@ is the date label (e.g., \"today\", \"tomorrow\", or specific date), second %@ is the channel name. For example in Norwegian it should be \"Kamper i dag på Viaplay\", so: Kamper %@ på %@",
       "english": "Matches %@ on %@",
@@ -11139,6 +11399,11 @@
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
       "value": "모든 액션을 %1$@에서 확인하세요"
+    },
+    "seo_we_have_followed_top_leagues": {
+      "comment": "Disclaimer for follow league step in onboarding.",
+      "english": "We've followed top leagues for you and you can add more below.",
+      "value": "주요 리그는 이미 팔로우해 두었으며, 아래에서 더 추가할 수 있어요."
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",

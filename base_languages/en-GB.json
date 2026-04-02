@@ -3352,6 +3352,11 @@
       "english": "Bug",
       "value": "Bug"
     },
+    "seo_defensive_actions_per_90": {
+      "comment": "Football (soccer) stat to describe how many defensive contributions a player has made per 90 minutes. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action. See defensive_actions.",
+      "english": "Defensive contributions per 90",
+      "value": "Defensive contributions per 90"
+    },
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
       "english": "Describe your issue",
@@ -3552,50 +3557,10 @@
       "english": "Get the latest news, headlines and transfer rumours from the Premier League and world football.",
       "value": "Get the latest news, headlines and transfer rumours from the Premier League and world football."
     },
-    "seo_site_description_league_matches": {
-      "comment": "Description for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ results %2$@ and upcoming fixtures",
-      "value": "%1$@ results %2$@ and upcoming fixtures"
-    },
-    "seo_site_description_league_news": {
-      "comment": "Description for the page with the lates news and rumors around a single league or tournament. With name of said league or tournament as input.",
-      "english": "Get the latest %1$@ news and transfer rumours.",
-      "value": "Get the latest %1$@ news and transfer rumours."
-    },
-    "seo_site_description_league_overview": {
-      "comment": "Description for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
-      "english": "%1$@ table %2$@, results, fixtures, top scorers and more",
-      "value": "%1$@ table %2$@, results, fixtures, top scorers and more"
-    },
-    "seo_site_description_league_playoff": {
-      "comment": "Description for the page showing the playoff tree or bracket for the the given league. With the name, and season as input.",
-      "english": "%1$@ tournament overview, fixtures, results %2$@",
-      "value": "%1$@ tournament overview, fixtures, results %2$@"
-    },
-    "seo_site_description_league_stats": {
-      "comment": "Description for the page listing stats for a league. Eg: \"Premier League stats 2023/2024 including top scorers, assists, player ratings, and more\"",
-      "english": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@ stats %2$@ including top scorers, assists, player ratings, and more"
-    },
-    "seo_site_description_league_table": {
-      "comment": "Description for the page with the table and standings for the the given league. With the name, and season as input.",
-      "english": "%1$@ table %2$@, standings, form guide, and more.",
-      "value": "%1$@ table %2$@, standings, form guide, and more."
-    },
-    "seo_site_description_league_transfers": {
-      "comment": "Description for the page with the lates transfers to and from clubs playing in the given league. With the name of the league as input.",
-      "english": "See all %1$@ transfers.",
-      "value": "See all %1$@ transfers."
-    },
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
       "value": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
-    },
-    "seo_site_description_match_finished": {
-      "comment": "This is overall description on a match page after the match has ended. To be shown in search results on the web etc",
-      "english": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ vs %2$@ on %3$@ ended %4$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights."
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -3606,46 +3571,6 @@
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
       "english": "%1$@ stats for %2$@ %3$@ including top scorers, assists, player ratings, and more",
       "value": "%1$@ stats for %2$@ %3$@ including top scorers, assists, player ratings, and more"
-    },
-    "seo_site_description_team_fixtures": {
-      "comment": "Meta description tag value for the team fixtures page, with both future and past matches and results.",
-      "english": "%1$@ - live scores, fixtures, and results",
-      "value": "%1$@ - live scores, fixtures, and results"
-    },
-    "seo_site_description_team_history": {
-      "comment": "Description for the page showing a teams historical table positions and trophies won.",
-      "english": "Historical table positions for %1$@",
-      "value": "Historical table positions for %1$@"
-    },
-    "seo_site_description_team_news": {
-      "comment": "Description for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "Get the latest %1$@ news and transfer rumours",
-      "value": "Get the latest %1$@ news and transfer rumours"
-    },
-    "seo_site_description_team_overview": {
-      "comment": "Description for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
-      "english": "%1$@ - results, fixtures, latest news and standings",
-      "value": "%1$@ - results, fixtures, latest news and standings"
-    },
-    "seo_site_description_team_squad": {
-      "comment": "Description for the page listing the teams squad including the coach. With injuries and position listed.",
-      "english": "Current %1$@ squad",
-      "value": "Current %1$@ squad"
-    },
-    "seo_site_description_team_stats": {
-      "comment": "Title for the page showing stats for a team.",
-      "english": "%1$@ - team rating, goals per match, shots on target and other stats",
-      "value": "%1$@ - team rating, goals per match, shots on target and other stats"
-    },
-    "seo_site_description_team_table": {
-      "comment": "Description for the page with the table and standings for a team in different leagues and tournaments.",
-      "english": "%1$@ - league and cup standings and form guide",
-      "value": "%1$@ - league and cup standings and form guide"
-    },
-    "seo_site_description_team_transfers": {
-      "comment": "Description for the page for a team or clubs transfer history. Showing players transfered in or out. With the name or the team as input.",
-      "english": "Latest %1$@ transfers in, out and contract extensions",
-      "value": "Latest %1$@ transfers in, out and contract extensions"
     },
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
@@ -3696,16 +3621,6 @@
       "english": "Latest News - Today's football news and transfer rumours.",
       "value": "Latest News - Today's football news and transfer rumours."
     },
-    "seo_site_title_league_matches": {
-      "comment": "Title for the page showing the past and future matches in a league. With the name, and season as input.",
-      "english": "%1$@ matches and results %2$@",
-      "value": "%1$@ matches and results %2$@"
-    },
-    "seo_site_title_league_news": {
-      "comment": "Headline for news about a league and the teams in the league. Include the league name in the title, with %1$@ as placeholder.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - latest news and rumors"
-    },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
       "english": "%1$@ matches, tables and news %2$@",
@@ -3725,11 +3640,6 @@
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
       "value": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats"
-    },
-    "seo_site_title_league_stats_trophies": {
-      "comment": "Title when listing previous winners and runners up in the league. League name as input with %1€@ as placeholder. Eg. \"Premier League winners and runner-ups\"",
-      "english": "%1$@ winners and runner-ups",
-      "value": "%1$@ winners and runner-ups"
     },
     "seo_site_title_league_table": {
       "comment": "Headline for the league table. Include league name as %1$@ and year indicator as %2$@. Eg \"Premier League table 2021/2022, form and next opponent\"",
@@ -3771,16 +3681,6 @@
       "english": "%1$@ - latest matches, scores and upcoming fixtures",
       "value": "%1$@ - latest matches, scores and upcoming fixtures"
     },
-    "seo_site_title_team_history": {
-      "comment": "Title for the page showing a teams historical table positions and trophies won.",
-      "english": "%1$@ -  historical table positions and trophies",
-      "value": "%1$@ -  historical table positions and trophies"
-    },
-    "seo_site_title_team_news": {
-      "comment": "Title for the page with the lates news and rumors conserning the given team or its players and staff.",
-      "english": "%1$@ - latest news and rumors",
-      "value": "%1$@ - latest news and rumors"
-    },
     "seo_site_title_team_overview": {
       "comment": "Title for the page for a team or club. With the teams fixtures, standings, transfers, news, top players etc. With the name as input.",
       "english": "%1$@ - fixtures, team info and top players",
@@ -3791,20 +3691,10 @@
       "english": "%1$@ - squad, coach, injuries and positions",
       "value": "%1$@ - squad, coach, injuries and positions"
     },
-    "seo_site_title_team_stats": {
-      "comment": "Title for the page showing stats for the teams squad. The teams top scorer, assists etc.",
-      "english": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value",
-      "value": "%1$@ - top rated players, goals, assists and other stats- stats, career and market value"
-    },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
       "english": "%1$@ - team rating, goals per match, shots on target and other stats",
       "value": "%1$@ - team rating, goals per match, shots on target and other stats"
-    },
-    "seo_site_title_team_table": {
-      "comment": "Headline for the table showing a teams performance for and next opponent in the league. Team name should be included.",
-      "english": "%1$@ table, form and next opponent",
-      "value": "%1$@ table, form and next opponent"
     },
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
