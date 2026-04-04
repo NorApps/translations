@@ -2593,7 +2593,7 @@
     },
     "common_aggregate": {
       "english": "Aggregate",
-      "value": "au Cumul"
+      "value": "Cumulé"
     },
     "common_aggregate_short": {
       "english": "Agg",
@@ -5370,7 +5370,7 @@
     },
     "common_secondhalf": {
       "english": "Second half",
-      "value": "Deuxième mi-temps"
+      "value": "Début de la seconde période"
     },
     "common_see_all": {
       "comment": "See all (transfers)",
@@ -9028,7 +9028,7 @@
     },
     "notifications_sign_in_with_twitter": {
       "english": "Sign in with Twitter",
-      "value": "Se connecter avec Twitter"
+      "value": "Se connecter avec X"
     },
     "notifications_sign_out": {
       "comment": "Profile page sign out",
@@ -9420,7 +9420,7 @@
     "seo_advertise_with_us": {
       "comment": "Button where user can click to get info about advertising with us.",
       "english": "Advertise with us",
-      "value": "Annoncez avec nous"
+      "value": "Faites de la publicité avec nous"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
