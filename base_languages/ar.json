@@ -2139,7 +2139,7 @@
     "accessibility_table_position": {
       "comment": "The league/table position of a team (like 1st, 22nd, etc).",
       "english": "Table position",
-      "value": "أماكن الجدول"
+      "value": "المركز في جدول الترتيب"
     },
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
@@ -3728,6 +3728,285 @@
       "english": "FT",
       "value": "FT"
     },
+    "common_fun_fact_conceded_penalty": {
+      "comment": "Example: conceded a penalty.",
+      "english": "Conceded a penalty",
+      "value": "تسبّب في ركلة جزاء"
+    },
+    "common_fun_fact_conceded_penalty_plurals": {
+      "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
+      "english_plurals": {
+        "one": "Conceded a penalty",
+        "other": "Conceded %d penalties"
+      },
+      "plurals": {
+        "few": "تسبّب في %d ركلات جزاء",
+        "many": "تسبّب في %d ركلة جزاء",
+        "one": "تسبّب في ركلة جزاء",
+        "other": "تسبّب في %d ركلة جزاء",
+        "two": "تسبّب في ركلتي جزاء"
+      }
+    },
+    "common_fun_fact_joint_highest_top_speed": {
+      "comment": "Example: had the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Had the joint-highest top speed in the match (%1$@)",
+      "value": "تساوى في أعلى سرعة قصوى في المباراة (%1$@)"
+    },
+    "common_fun_fact_joint_highest_top_speed_live": {
+      "comment": "Example: has the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Has the joint-highest top speed in the match (%1$@)",
+      "value": "يتساوى في أعلى سرعة قصوى في المباراة (%1$@)"
+    },
+    "common_fun_fact_joint_most_defensive_contributions": {
+      "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Had the joint-most defensive contributions (%1$@)",
+      "value": "تساوى في أكبر عدد من المساهمات الدفاعية (%1$@)"
+    },
+    "common_fun_fact_joint_most_defensive_contributions_live": {
+      "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Has the joint-most defensive contributions (%1$@)",
+      "value": "يتساوى في أكبر عدد من المساهمات الدفاعية (%1$@)"
+    },
+    "common_fun_fact_joint_most_distance_covered": {
+      "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
+      "english": "Covered the joint-most distance (%1$@) in the match",
+      "value": "تساوى في قطع أكبر مسافة (%1$@) في المباراة"
+    },
+    "common_fun_fact_joint_most_distance_covered_live": {
+      "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
+      "english": "Has covered the joint-most distance (%1$@) in the match",
+      "value": "يتساوى في أكبر مسافة مقطوعة (%1$@) في المباراة"
+    },
+    "common_fun_fact_joint_most_dribbles": {
+      "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
+      "english": "Completed the joint-most dribbles (%1$@)",
+      "value": "تساوى في أكبر عدد من المراوغات الناجحة (%1$@)"
+    },
+    "common_fun_fact_joint_most_dribbles_live": {
+      "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
+      "english": "Has completed the joint-most dribbles (%1$@)",
+      "value": "يتساوى في أكبر عدد من المراوغات الناجحة (%1$@)"
+    },
+    "common_fun_fact_joint_most_key_passes_created": {
+      "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
+      "english": "Created the joint-most chances (%1$@)",
+      "value": "تساوى في صناعة أكبر عدد من الفرص (%1$@)"
+    },
+    "common_fun_fact_joint_most_key_passes_created_live": {
+      "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
+      "english": "Has created the joint-most chances (%1$@)",
+      "value": "يتساوى في صناعة أكبر عدد من الفرص (%1$@)"
+    },
+    "common_fun_fact_joint_most_passes": {
+      "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
+      "english": "Completed the joint-most passes (%1$@)",
+      "value": "تساوى في أكبر عدد من التمريرات الدقيقة (%1$@)"
+    },
+    "common_fun_fact_joint_most_passes_live": {
+      "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
+      "english": "Has completed the joint-most passes (%1$@)",
+      "value": "يتساوى في أكبر عدد من التمريرات الدقيقة (%1$@)"
+    },
+    "common_fun_fact_joint_most_shots": {
+      "comment": "Example: took the joint-most shots (5). Used when multiple players are tied for the most shots.",
+      "english": "Took the joint-most shots (%1$@)",
+      "value": "تساوى في أكبر عدد من التسديدات (%1$@)"
+    },
+    "common_fun_fact_joint_most_shots_live": {
+      "comment": "Example: has taken the joint-most shots (5). Used when multiple players are tied for the most shots.",
+      "english": "Has taken the joint-most shots (%1$@)",
+      "value": "يتساوى في أكبر عدد من التسديدات (%1$@)"
+    },
+    "common_fun_fact_joint_most_touches": {
+      "comment": "Example: had the joint-most touches (95). Used when multiple players are tied for the most touches.",
+      "english": "Had the joint-most touches (%1$@)",
+      "value": "تساوى في أكبر عدد من اللمسات (%1$@)"
+    },
+    "common_fun_fact_joint_most_touches_live": {
+      "comment": "Example: has the joint-most touches (95). Used when multiple players are tied for the most touches.",
+      "english": "Has the joint-most touches (%1$@)",
+      "value": "يتساوى في أكبر عدد من اللمسات (%1$@)"
+    },
+    "common_fun_fact_joint_opp_box_touches": {
+      "comment": "Example: had the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
+      "english": "Had the joint-most touches (%1$@) in the opposition box",
+      "value": "تساوى في أكبر عدد من اللمسات (%1$@) في منطقة المنافس"
+    },
+    "common_fun_fact_joint_opp_box_touches_live": {
+      "comment": "Example: has the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
+      "english": "Has the joint-most touches (%1$@) in the opposition box",
+      "value": "يتساوى في أكبر عدد من اللمسات (%1$@) في منطقة المنافس"
+    },
+    "common_fun_fact_joint_woodwork": {
+      "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
+      "english": "Hit the woodwork the joint-most times (%1$@)",
+      "value": "تساوى في أكبر عدد من التسديدات على القائم/العارضة (%1$@)"
+    },
+    "common_fun_fact_joint_woodwork_live": {
+      "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
+      "english": "Has hit the woodwork the joint-most times (%1$@)",
+      "value": "يتساوى في أكبر عدد من التسديدات على القائم/العارضة (%1$@)"
+    },
+    "common_fun_fact_made_mistake_led_to_goal": {
+      "comment": "Example: committed an error that led to a goal.",
+      "english": "Committed an error that led to a goal",
+      "value": "ارتكب خطأً أدى إلى هدف"
+    },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: 2 errors that led to goals. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "Committed an error that led to a goal",
+        "other": "Committed %d errors that led to goals"
+      },
+      "plurals": {
+        "few": "ارتكب %d أخطاء أدت إلى أهداف",
+        "many": "ارتكب %d خطأً أدى إلى أهداف",
+        "one": "ارتكب خطأً أدى إلى هدف",
+        "other": "ارتكب %d خطأً أدى إلى أهداف",
+        "two": "ارتكب خطأين أديا إلى هدفين"
+      }
+    },
+    "common_fun_fact_most_defensive_contributions": {
+      "comment": "Example: had the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Had the most defensive contributions (%1$@)",
+      "value": "قدّم أكبر عدد من المساهمات الدفاعية (%1$@)"
+    },
+    "common_fun_fact_most_defensive_contributions_live": {
+      "comment": "Example: has the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Has the most defensive contributions (%1$@)",
+      "value": "لديه أكبر عدد من المساهمات الدفاعية (%1$@)"
+    },
+    "common_fun_fact_most_dribbles": {
+      "comment": "Example: completed the most dribbles (2).",
+      "english": "Completed the most dribbles (%1$@)",
+      "value": "أكمل أكبر عدد من المراوغات الناجحة (%1$@)"
+    },
+    "common_fun_fact_most_dribbles_live": {
+      "comment": "Example: completed the most dribbles (2).",
+      "english": "Has completed the most dribbles (%1$@)",
+      "value": "أكمل حتى الآن أكبر عدد من المراوغات الناجحة (%1$@)"
+    },
+    "common_fun_fact_most_key_passes_created": {
+      "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for another player.",
+      "english": "Created the most chances (%1$@)",
+      "value": "صنع أكبر عدد من الفرص (%1$@)"
+    },
+    "common_fun_fact_most_key_passes_created_live": {
+      "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for a teammate.",
+      "english": "Has created the most chances (%1$@)",
+      "value": "صنع حتى الآن أكبر عدد من الفرص (%1$@)"
+    },
+    "common_fun_fact_most_passes": {
+      "comment": "Example: completed the most passes (123).",
+      "english": "Completed the most passes (%1$@)",
+      "value": "أكمل أكبر عدد من التمريرات الدقيقة (%1$@)"
+    },
+    "common_fun_fact_most_passes_live": {
+      "comment": "Example: completed the most passes (123).",
+      "english": "Has completed the most passes (%1$@)",
+      "value": "أكمل حتى الآن أكبر عدد من التمريرات الدقيقة (%1$@)"
+    },
+    "common_fun_fact_most_shots": {
+      "comment": "Example: took the most shots (5).",
+      "english": "Took the most shots (%1$@)",
+      "value": "سدد أكبر عدد من التسديدات (%1$@)"
+    },
+    "common_fun_fact_most_shots_live": {
+      "comment": "Example: has taken the most shots (5).",
+      "english": "Has taken the most shots (%1$@)",
+      "value": "سدد حتى الآن أكبر عدد من التسديدات (%1$@)"
+    },
+    "common_fun_fact_most_touches": {
+      "comment": "Example: had the most touches (95).",
+      "english": "Had the most touches (%1$@)",
+      "value": "كان لديه أكبر عدد من اللمسات (%1$@)"
+    },
+    "common_fun_fact_most_touches_live": {
+      "comment": "Example: has the most touches (95).",
+      "english": "Has the most touches (%1$@)",
+      "value": "لديه أكبر عدد من اللمسات (%1$@)"
+    },
+    "common_fun_fact_opp_box_touches": {
+      "comment": "Ronaldo had the most touches (12) in the opposition box.",
+      "english": "Had the most touches (%1$@) in the opposition box",
+      "value": "كان لديه أكبر عدد من اللمسات (%1$@) في منطقة المنافس"
+    },
+    "common_fun_fact_opp_box_touches_live": {
+      "comment": "Ronaldo has the most touches (43) in the opposition box.",
+      "english": "Has the most touches (%1$@) in the opposition box",
+      "value": "لديه أكبر عدد من اللمسات (%1$@) في منطقة المنافس"
+    },
+    "common_fun_fact_own_goal": {
+      "comment": "Example: scored an own goal.",
+      "english": "Scored an own goal",
+      "value": "سجّل هدفًا في مرماه"
+    },
+    "common_fun_fact_own_goal_plurals": {
+      "comment": "Example: scored 2 own goals. See fun_fact_own_goal.",
+      "english_plurals": {
+        "one": "Scored an own goal",
+        "other": "Scored %d own goals"
+      },
+      "plurals": {
+        "few": "سجّل %d أهدافًا في مرماه",
+        "many": "سجّل %d هدفًا في مرماه",
+        "one": "سجّل هدفًا في مرماه",
+        "other": "سجّل %d هدفًا في مرماه",
+        "two": "سجّل هدفين في مرماه"
+      }
+    },
+    "common_fun_fact_red_card": {
+      "comment": "Example: received a red card.",
+      "english": "Received a red card",
+      "value": "تلقّى بطاقة حمراء"
+    },
+    "common_fun_fact_won_penalty": {
+      "comment": "Example: won a penalty.",
+      "english": "Won a penalty",
+      "value": "تحصّل على ركلة جزاء"
+    },
+    "common_fun_fact_won_penalty_plurals": {
+      "comment": "Example: won 2 penalties. See fun_fact_won_penalty.",
+      "english_plurals": {
+        "one": "Won a penalty",
+        "other": "Won %d penalties"
+      },
+      "plurals": {
+        "few": "تحصّل على %d ركلات جزاء",
+        "many": "تحصّل على %d ركلة جزاء",
+        "one": "تحصّل على ركلة جزاء",
+        "other": "تحصّل على %d ركلة جزاء",
+        "two": "تحصّل على ركلتي جزاء"
+      }
+    },
+    "common_fun_fact_woodwork_live_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Has hit the woodwork once",
+        "other": "Has hit the woodwork %d times"
+      },
+      "plurals": {
+        "few": "اصطدم بالقائم أو العارضة حتى الآن %d مرات",
+        "many": "اصطدم بالقائم أو العارضة حتى الآن %d مرة",
+        "one": "اصطدم بالقائم أو العارضة حتى الآن مرة واحدة",
+        "other": "اصطدم بالقائم أو العارضة حتى الآن %d مرة",
+        "two": "اصطدم بالقائم أو العارضة حتى الآن مرتين"
+      }
+    },
+    "common_fun_fact_woodwork_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Hit the woodwork once",
+        "other": "Hit the woodwork %d times"
+      },
+      "plurals": {
+        "few": "اصطدم بالقائم/العارضة %d مرات",
+        "many": "اصطدم بالقائم/العارضة %d مرة",
+        "one": "اصطدم بالقائم/العارضة مرة واحدة",
+        "other": "اصطدم بالقائم/العارضة %d مرة",
+        "two": "اصطدم بالقائم/العارضة مرتين"
+      }
+    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "عام"
@@ -3946,7 +4225,7 @@
     "common_home": {
       "comment": "Label indicating we are showing the home matches of the team",
       "english": "Home",
-      "value": "الذهاب"
+      "value": "داخل الأرض"
     },
     "common_home_abbreviation": {
       "english": "H",
@@ -4292,7 +4571,7 @@
     },
     "common_lineup": {
       "english": "Lineup",
-      "value": "تشكيلة"
+      "value": "التشكيلة"
     },
     "common_lineup_builder_more_desc": {
       "comment": "The fotmob lineup builder feature description in the more tab",
@@ -4565,7 +4844,7 @@
     },
     "common_news": {
       "english": "News",
-      "value": "أخبار"
+      "value": "الأخبار"
     },
     "common_next": {
       "english": "Next",
@@ -5028,12 +5307,12 @@
     "common_players_in": {
       "comment": "In the Team page, this is a header indicating which players have transferred to the team",
       "english": "Players in",
-      "value": "لاعبون داخلون"
+      "value": "اللاعبون القادمون"
     },
     "common_players_out": {
       "comment": "In the Team page, this is a header indicating which players have transferred away from the team",
       "english": "Players out",
-      "value": "لاعبون خارجون"
+      "value": "اللاعبون المغادرون"
     },
     "common_players_to_follow": {
       "comment": "Favorite players picker in the WC2018 onboarding",
@@ -5165,11 +5444,11 @@
     },
     "common_promotion": {
       "english": "Promotion",
-      "value": "ترقية"
+      "value": "صعود"
     },
     "common_promotionqual": {
       "english": "Promotion qualification",
-      "value": "التأهل للصعود"
+      "value": "ملحق صعود"
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
@@ -5338,6 +5617,11 @@
       "comment": "A menu action for saving lineups",
       "english": "Save",
       "value": "حفظ"
+    },
+    "common_save_as": {
+      "comment": "A menu action for saving a fresh lineup - no placeholder needed.",
+      "english": "Save as",
+      "value": "حفظ باسم"
     },
     "common_saved_lineup_deleted": {
       "comment": "A toast indicating that we successfully deleted the users saved lineup",
@@ -5623,7 +5907,7 @@
     },
     "common_squad": {
       "english": "Squad",
-      "value": "التشكيلة"
+      "value": "قائمة الفريق"
     },
     "common_squad_name": {
       "comment": "Used in the lineup builder for a squad name title placeholder",
@@ -5777,7 +6061,7 @@
     },
     "common_table": {
       "english": "Table",
-      "value": "المراكز"
+      "value": "جدول الترتيب"
     },
     "common_tabs": {
       "english": "Tabs",
@@ -6531,7 +6815,7 @@
     "ios_Rank": {
       "comment": "Do not use more than 5 characters! There is little room in the GUI for this string",
       "english": "Rank",
-      "value": "الرتبة"
+      "value": "الترتيب"
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
@@ -6711,7 +6995,7 @@
     },
     "new_bronzeFinal": {
       "english": "Bronze-final",
-      "value": "نهائي البرونزي"
+      "value": "مباراة تحديد المركز الثالث"
     },
     "new_change_news_sound": {
       "english": "Change sound for news alerts",
@@ -6817,7 +7101,7 @@
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
       "english": "Head-to-Head",
-      "value": "المواجهات السابقة"
+      "value": "المواجهات المباشرة"
     },
     "new_height": {
       "comment": "height of player, all uppercase!",
@@ -7121,7 +7405,7 @@
     },
     "new_transfers": {
       "english": "Transfers",
-      "value": "انتقالات"
+      "value": "الانتقالات"
     },
     "new_username": {
       "english": "Username",
@@ -7824,7 +8108,7 @@
     },
     "notifications_following": {
       "english": "Following",
-      "value": "يتابع"
+      "value": "أتابع"
     },
     "notifications_footnote_goals_and_appearances": {
       "comment": "Footnote explanation for some possibly inaccurate numbers.",
@@ -8831,7 +9115,7 @@
     "notifications_playoff": {
       "comment": "tab-title for brackets view in League overview",
       "english": "Knockout",
-      "value": "خروج المغلوب"
+      "value": "الأدوار الإقصائية"
     },
     "notifications_please_select_match": {
       "comment": "Prompt to ask user to click a match so they can view details for the match on an iPad",
@@ -9246,7 +9530,7 @@
     "notifications_top_stats": {
       "comment": "Header for the most important stats in the game",
       "english": "Top stats",
-      "value": "إحصائيات الصدارة"
+      "value": "أبرز الإحصاءات"
     },
     "notifications_total_shots": {
       "english": "Total shots",
@@ -9295,7 +9579,7 @@
     "notifications_trophies": {
       "comment": "Tab title for trophies (titles) a team has won. It lists things like how many times Manchester United has won the Premier League",
       "english": "Trophies",
-      "value": "الكؤوس"
+      "value": "البطولات"
     },
     "notifications_trophies_coach": {
       "comment": "Card title for trophies (titles) a person has won when he/she as a coach.",
@@ -9855,34 +10139,24 @@
       "value": "هذه مباراة ودية."
     },
     "seo_fun_fact_highest_top_speed": {
-      "comment": "Fun fact for the player that has reached the highest top speed in a match.",
-      "english": "%1$@ reached the highest top speed (%2$@) in the match.",
-      "value": "%1$@ بلغ أعلى سرعة قصوى (%2$@) في المباراة."
+      "comment": "Example: had the highest top speed in the match (35.7 km/h).",
+      "english": "Had the highest top speed in the match (%1$@)",
+      "value": "حقق أعلى سرعة قصوى في المباراة (%1$@)"
     },
     "seo_fun_fact_highest_top_speed_live": {
-      "comment": "Fun fact for the player that has reached the highest top speed in an ongoing match",
-      "english": "%1$@ has reached the highest top speed (%2$@) in the match.",
-      "value": "%1$@ وصل إلى أعلى سرعة قصوى (%2$@) في المباراة."
-    },
-    "seo_fun_fact_least_distance_covered": {
-      "comment": "Fun fact for the player that has covered the least distance in a match.",
-      "english": "%1$@ covered the least distance (%2$@) in the match of any outfield player to play 90 minutes.",
-      "value": "%1$@ قطع أقل مسافة (%2$@) في المباراة مقارنةً بأي لاعب من لاعبي الميدان لعب 90 دقيقة."
-    },
-    "seo_fun_fact_least_distance_covered_live": {
-      "comment": "Fun fact for the player that has covered the least distance in an ongoing match.",
-      "english": "%1$@ has covered the least distance (%2$@) in the match of any outfield player.",
-      "value": "%1$@ قطع أقل مسافة (%2$@) في المباراة من بين جميع لاعبي الملعب."
+      "comment": "Example: has the highest top speed in the match (35.7 km/h).",
+      "english": "Has the highest top speed in the match (%1$@)",
+      "value": "صاحب أعلى سرعة قصوى في المباراة (%1$@)"
     },
     "seo_fun_fact_most_distance_covered": {
       "comment": "Fun fact for the player that has covered the most distance in a match.",
-      "english": "%1$@ covered the most distance (%2$@) in the match.",
-      "value": "%1$@ قطع أكبر مسافة (%2$@) في المباراة."
+      "english": "Covered the most distance (%1$@) in the match",
+      "value": "قطع أكبر مسافة (%1$@) في المباراة"
     },
     "seo_fun_fact_most_distance_covered_live": {
       "comment": "Fun fact for the player that has covered the most distance in an ongoing match.",
-      "english": "%1$@ has covered the most distance (%2$@) in the match.",
-      "value": "%1$@ غطى أكبر مسافة (%2$@) في المباراة."
+      "english": "Has covered the most distance (%1$@) in the match",
+      "value": "قطع حتى الآن أكبر مسافة (%1$@) في المباراة"
     },
     "seo_get_the_best_mobile_experience": {
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
@@ -10468,6 +10742,11 @@
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
       "english": "%1$@ is playing home against %2$@ at %3$@ on %4$@.",
       "value": "يلعب %1$@ كفريق المضيف ضد %2$@ في %3$@ يوم %4$@."
+    },
+    "seo_plus_one_day": {
+      "comment": "Text above a match on front page that is actually on the next day.",
+      "english": "+1 day",
+      "value": "+1 يوم"
     },
     "seo_poll_closed": {
       "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",

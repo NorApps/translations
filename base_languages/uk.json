@@ -3718,6 +3718,279 @@
       "english": "FT",
       "value": "FT"
     },
+    "common_fun_fact_conceded_penalty": {
+      "comment": "Example: conceded a penalty.",
+      "english": "Conceded a penalty",
+      "value": "Привіз пенальті"
+    },
+    "common_fun_fact_conceded_penalty_plurals": {
+      "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
+      "english_plurals": {
+        "one": "Conceded a penalty",
+        "other": "Conceded %d penalties"
+      },
+      "plurals": {
+        "few": "Привіз пенальті %d рази",
+        "many": "Привіз пенальті %d разів",
+        "one": "Заробив пенальті",
+        "other": "Привіз пенальті %d разів"
+      }
+    },
+    "common_fun_fact_joint_highest_top_speed": {
+      "comment": "Example: had the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Had the joint-highest top speed in the match (%1$@)",
+      "value": "Разом з іншими показав найвищу максимальну швидкість у матчі (%1$@)"
+    },
+    "common_fun_fact_joint_highest_top_speed_live": {
+      "comment": "Example: has the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Has the joint-highest top speed in the match (%1$@)",
+      "value": "Має найвищу максимальну швидкість у матчі на рівні з іншими (%1$@)"
+    },
+    "common_fun_fact_joint_most_defensive_contributions": {
+      "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Had the joint-most defensive contributions (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю дій в обороні (%1$@)"
+    },
+    "common_fun_fact_joint_most_defensive_contributions_live": {
+      "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Has the joint-most defensive contributions (%1$@)",
+      "value": "Є нарівні з іншими за кількістю дій в обороні (%1$@)"
+    },
+    "common_fun_fact_joint_most_distance_covered": {
+      "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
+      "english": "Covered the joint-most distance (%1$@) in the match",
+      "value": "Був(-ла) нарівні з іншими за пройденою дистанцією (%1$@) у матчі"
+    },
+    "common_fun_fact_joint_most_distance_covered_live": {
+      "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
+      "english": "Has covered the joint-most distance (%1$@) in the match",
+      "value": "Є нарівні з іншими за пройденою дистанцією (%1$@) у матчі"
+    },
+    "common_fun_fact_joint_most_dribbles": {
+      "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
+      "english": "Completed the joint-most dribbles (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю успішних дриблінгів (%1$@)"
+    },
+    "common_fun_fact_joint_most_dribbles_live": {
+      "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
+      "english": "Has completed the joint-most dribbles (%1$@)",
+      "value": "Є нарівні з іншими за кількістю успішних дриблінгів (%1$@)"
+    },
+    "common_fun_fact_joint_most_key_passes_created": {
+      "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
+      "english": "Created the joint-most chances (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю створених гольових моментів (%1$@)"
+    },
+    "common_fun_fact_joint_most_key_passes_created_live": {
+      "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
+      "english": "Has created the joint-most chances (%1$@)",
+      "value": "Є нарівні з іншими за кількістю створених гольових моментів (%1$@)"
+    },
+    "common_fun_fact_joint_most_passes": {
+      "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
+      "english": "Completed the joint-most passes (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю точних передач (%1$@)"
+    },
+    "common_fun_fact_joint_most_passes_live": {
+      "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
+      "english": "Has completed the joint-most passes (%1$@)",
+      "value": "Є нарівні з іншими за кількістю точних передач (%1$@)"
+    },
+    "common_fun_fact_joint_most_shots": {
+      "comment": "Example: took the joint-most shots (5). Used when multiple players are tied for the most shots.",
+      "english": "Took the joint-most shots (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю ударів (%1$@)"
+    },
+    "common_fun_fact_joint_most_shots_live": {
+      "comment": "Example: has taken the joint-most shots (5). Used when multiple players are tied for the most shots.",
+      "english": "Has taken the joint-most shots (%1$@)",
+      "value": "Є нарівні з іншими за кількістю ударів (%1$@)"
+    },
+    "common_fun_fact_joint_most_touches": {
+      "comment": "Example: had the joint-most touches (95). Used when multiple players are tied for the most touches.",
+      "english": "Had the joint-most touches (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю дотиків (%1$@)"
+    },
+    "common_fun_fact_joint_most_touches_live": {
+      "comment": "Example: has the joint-most touches (95). Used when multiple players are tied for the most touches.",
+      "english": "Has the joint-most touches (%1$@)",
+      "value": "Є нарівні з іншими за кількістю дотиків (%1$@)"
+    },
+    "common_fun_fact_joint_opp_box_touches": {
+      "comment": "Example: had the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
+      "english": "Had the joint-most touches (%1$@) in the opposition box",
+      "value": "Був(-ла) нарівні з іншими за кількістю дотиків (%1$@) в штрафній суперника"
+    },
+    "common_fun_fact_joint_opp_box_touches_live": {
+      "comment": "Example: has the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
+      "english": "Has the joint-most touches (%1$@) in the opposition box",
+      "value": "Є нарівні з іншими за кількістю дотиків (%1$@) в штрафній суперника"
+    },
+    "common_fun_fact_joint_woodwork": {
+      "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
+      "english": "Hit the woodwork the joint-most times (%1$@)",
+      "value": "Був(-ла) нарівні з іншими за кількістю ударів у каркас воріт (%1$@)"
+    },
+    "common_fun_fact_joint_woodwork_live": {
+      "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
+      "english": "Has hit the woodwork the joint-most times (%1$@)",
+      "value": "Є нарівні з іншими за кількістю ударів у каркас воріт (%1$@)"
+    },
+    "common_fun_fact_made_mistake_led_to_goal": {
+      "comment": "Example: committed an error that led to a goal.",
+      "english": "Committed an error that led to a goal",
+      "value": "Припустився помилки, яка призвела до гола"
+    },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: 2 errors that led to goals. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "Committed an error that led to a goal",
+        "other": "Committed %d errors that led to goals"
+      },
+      "plurals": {
+        "few": "Припустився %d помилки, що призвели до голів",
+        "many": "Припустився %d помилок, що призвели до голів",
+        "one": "Припустився помилки, що призвела до гола",
+        "other": "Припустився %d помилок, що призвели до голів"
+      }
+    },
+    "common_fun_fact_most_defensive_contributions": {
+      "comment": "Example: had the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Had the most defensive contributions (%1$@)",
+      "value": "Мав найбільше дій в обороні (%1$@)"
+    },
+    "common_fun_fact_most_defensive_contributions_live": {
+      "comment": "Example: has the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Has the most defensive contributions (%1$@)",
+      "value": "Має найбільше дій в обороні (%1$@)"
+    },
+    "common_fun_fact_most_dribbles": {
+      "comment": "Example: completed the most dribbles (2).",
+      "english": "Completed the most dribbles (%1$@)",
+      "value": "Виконав найбільше успішних дриблінгів (%1$@)"
+    },
+    "common_fun_fact_most_dribbles_live": {
+      "comment": "Example: completed the most dribbles (2).",
+      "english": "Has completed the most dribbles (%1$@)",
+      "value": "Має найбільше успішних дриблінгів (%1$@)"
+    },
+    "common_fun_fact_most_key_passes_created": {
+      "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for another player.",
+      "english": "Created the most chances (%1$@)",
+      "value": "Створив найбільше гольових моментів (%1$@)"
+    },
+    "common_fun_fact_most_key_passes_created_live": {
+      "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for a teammate.",
+      "english": "Has created the most chances (%1$@)",
+      "value": "Має найбільше створених гольових моментів (%1$@)"
+    },
+    "common_fun_fact_most_passes": {
+      "comment": "Example: completed the most passes (123).",
+      "english": "Completed the most passes (%1$@)",
+      "value": "Виконав найбільше точних передач (%1$@)"
+    },
+    "common_fun_fact_most_passes_live": {
+      "comment": "Example: completed the most passes (123).",
+      "english": "Has completed the most passes (%1$@)",
+      "value": "Має найбільше точних передач (%1$@)"
+    },
+    "common_fun_fact_most_shots": {
+      "comment": "Example: took the most shots (5).",
+      "english": "Took the most shots (%1$@)",
+      "value": "Завдав найбільше ударів (%1$@)"
+    },
+    "common_fun_fact_most_shots_live": {
+      "comment": "Example: has taken the most shots (5).",
+      "english": "Has taken the most shots (%1$@)",
+      "value": "Має найбільше ударів (%1$@)"
+    },
+    "common_fun_fact_most_touches": {
+      "comment": "Example: had the most touches (95).",
+      "english": "Had the most touches (%1$@)",
+      "value": "Найбільше дотиків (%1$@)"
+    },
+    "common_fun_fact_most_touches_live": {
+      "comment": "Example: has the most touches (95).",
+      "english": "Has the most touches (%1$@)",
+      "value": "Має найбільше дотиків до м’яча (%1$@)"
+    },
+    "common_fun_fact_opp_box_touches": {
+      "comment": "Ronaldo had the most touches (12) in the opposition box.",
+      "english": "Had the most touches (%1$@) in the opposition box",
+      "value": "Найбільше дотиків (%1$@) в штрафній суперника"
+    },
+    "common_fun_fact_opp_box_touches_live": {
+      "comment": "Ronaldo has the most touches (43) in the opposition box.",
+      "english": "Has the most touches (%1$@) in the opposition box",
+      "value": "Має найбільше дотиків (%1$@) в штрафній суперника"
+    },
+    "common_fun_fact_own_goal": {
+      "comment": "Example: scored an own goal.",
+      "english": "Scored an own goal",
+      "value": "Забив автогол"
+    },
+    "common_fun_fact_own_goal_plurals": {
+      "comment": "Example: scored 2 own goals. See fun_fact_own_goal.",
+      "english_plurals": {
+        "one": "Scored an own goal",
+        "other": "Scored %d own goals"
+      },
+      "plurals": {
+        "few": "Забив %d автоголи",
+        "many": "Забив %d автоголів",
+        "one": "Забив автогол",
+        "other": "Забив %d автоголів"
+      }
+    },
+    "common_fun_fact_red_card": {
+      "comment": "Example: received a red card.",
+      "english": "Received a red card",
+      "value": "Отримав червону картку"
+    },
+    "common_fun_fact_won_penalty": {
+      "comment": "Example: won a penalty.",
+      "english": "Won a penalty",
+      "value": "Заробив пенальті"
+    },
+    "common_fun_fact_won_penalty_plurals": {
+      "comment": "Example: won 2 penalties. See fun_fact_won_penalty.",
+      "english_plurals": {
+        "one": "Won a penalty",
+        "other": "Won %d penalties"
+      },
+      "plurals": {
+        "few": "Заробив пенальті %d рази",
+        "many": "Заробив пенальті %d разів",
+        "one": "Заробив пенальті %d раз",
+        "other": "Заробив пенальті %d разів"
+      }
+    },
+    "common_fun_fact_woodwork_live_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Has hit the woodwork once",
+        "other": "Has hit the woodwork %d times"
+      },
+      "plurals": {
+        "few": "Влучав у каркас воріт %d рази",
+        "many": "Влучав у каркас воріт %d разів",
+        "one": "Влучав у каркас воріт %d раз",
+        "other": "Влучав у каркас воріт %d раза"
+      }
+    },
+    "common_fun_fact_woodwork_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Hit the woodwork once",
+        "other": "Hit the woodwork %d times"
+      },
+      "plurals": {
+        "few": "Влучив у каркас воріт %d рази",
+        "many": "Влучив у каркас воріт %d разів",
+        "one": "Влучив у каркас воріт один раз",
+        "other": "Влучив у каркас воріт %d разу"
+      }
+    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "ЗАГАЛЬНЕ"
@@ -5304,6 +5577,11 @@
       "comment": "A menu action for saving lineups",
       "english": "Save",
       "value": "Зберегти"
+    },
+    "common_save_as": {
+      "comment": "A menu action for saving a fresh lineup - no placeholder needed.",
+      "english": "Save as",
+      "value": "Зберегти як"
     },
     "common_saved_lineup_deleted": {
       "comment": "A toast indicating that we successfully deleted the users saved lineup",
@@ -9767,34 +10045,24 @@
       "value": "Це товариський матч."
     },
     "seo_fun_fact_highest_top_speed": {
-      "comment": "Fun fact for the player that has reached the highest top speed in a match.",
-      "english": "%1$@ reached the highest top speed (%2$@) in the match.",
-      "value": "%1$@ досягнув найвищої максимальної швидкості (%2$@) у матчі."
+      "comment": "Example: had the highest top speed in the match (35.7 km/h).",
+      "english": "Had the highest top speed in the match (%1$@)",
+      "value": "Мав найвищу максимальну швидкість у матчі (%1$@)"
     },
     "seo_fun_fact_highest_top_speed_live": {
-      "comment": "Fun fact for the player that has reached the highest top speed in an ongoing match",
-      "english": "%1$@ has reached the highest top speed (%2$@) in the match.",
-      "value": "%1$@ досягнув найвищої максимальної швидкості (%2$@) у матчі."
-    },
-    "seo_fun_fact_least_distance_covered": {
-      "comment": "Fun fact for the player that has covered the least distance in a match.",
-      "english": "%1$@ covered the least distance (%2$@) in the match of any outfield player to play 90 minutes.",
-      "value": "%1$@ подолав найменшу відстань (%2$@) серед польових гравців, що відіграли 90 хв."
-    },
-    "seo_fun_fact_least_distance_covered_live": {
-      "comment": "Fun fact for the player that has covered the least distance in an ongoing match.",
-      "english": "%1$@ has covered the least distance (%2$@) in the match of any outfield player.",
-      "value": "%1$@ подолав найменшу відстань (%2$@) серед польових гравців у матчі."
+      "comment": "Example: has the highest top speed in the match (35.7 km/h).",
+      "english": "Has the highest top speed in the match (%1$@)",
+      "value": "Має найвищу максимальну швидкість у матчі (%1$@)"
     },
     "seo_fun_fact_most_distance_covered": {
       "comment": "Fun fact for the player that has covered the most distance in a match.",
-      "english": "%1$@ covered the most distance (%2$@) in the match.",
-      "value": "%1$@ подолав найбільшу відстань (%2$@) у матчі."
+      "english": "Covered the most distance (%1$@) in the match",
+      "value": "Подолав найбільшу дистанцію (%1$@) у матчі"
     },
     "seo_fun_fact_most_distance_covered_live": {
       "comment": "Fun fact for the player that has covered the most distance in an ongoing match.",
-      "english": "%1$@ has covered the most distance (%2$@) in the match.",
-      "value": "%1$@ подолав найбільшу відстань (%2$@) у матчі."
+      "english": "Has covered the most distance (%1$@) in the match",
+      "value": "Має найбільшу пройдену дистанцію (%1$@) у матчі"
     },
     "seo_get_the_best_mobile_experience": {
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
@@ -10350,6 +10618,11 @@
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
       "english": "%1$@ is playing home against %2$@ at %3$@ on %4$@.",
       "value": "%1$@ грає вдома проти %2$@ на %3$@ о %4$@."
+    },
+    "seo_plus_one_day": {
+      "comment": "Text above a match on front page that is actually on the next day.",
+      "english": "+1 day",
+      "value": "+1 день"
     },
     "seo_poll_closed": {
       "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",

@@ -3705,6 +3705,261 @@
       "english": "FT",
       "value": "全场"
     },
+    "common_fun_fact_conceded_penalty": {
+      "comment": "Example: conceded a penalty.",
+      "english": "Conceded a penalty",
+      "value": "送出点球"
+    },
+    "common_fun_fact_conceded_penalty_plurals": {
+      "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
+      "english_plurals": {
+        "one": "Conceded a penalty",
+        "other": "Conceded %d penalties"
+      },
+      "plurals": {
+        "other": "送出%d个点球"
+      }
+    },
+    "common_fun_fact_joint_highest_top_speed": {
+      "comment": "Example: had the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Had the joint-highest top speed in the match (%1$@)",
+      "value": "本场比赛最高速度并列第一（%1$@）"
+    },
+    "common_fun_fact_joint_highest_top_speed_live": {
+      "comment": "Example: has the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Has the joint-highest top speed in the match (%1$@)",
+      "value": "本场比赛最高速度并列第一（%1$@）"
+    },
+    "common_fun_fact_joint_most_defensive_contributions": {
+      "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Had the joint-most defensive contributions (%1$@)",
+      "value": "防守动作并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_defensive_contributions_live": {
+      "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Has the joint-most defensive contributions (%1$@)",
+      "value": "防守动作并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_distance_covered": {
+      "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
+      "english": "Covered the joint-most distance (%1$@) in the match",
+      "value": "本场跑动距离并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_distance_covered_live": {
+      "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
+      "english": "Has covered the joint-most distance (%1$@) in the match",
+      "value": "本场跑动距离并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_dribbles": {
+      "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
+      "english": "Completed the joint-most dribbles (%1$@)",
+      "value": "成功带球并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_dribbles_live": {
+      "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
+      "english": "Has completed the joint-most dribbles (%1$@)",
+      "value": "成功带球并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_key_passes_created": {
+      "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
+      "english": "Created the joint-most chances (%1$@)",
+      "value": "创造机会并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_key_passes_created_live": {
+      "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
+      "english": "Has created the joint-most chances (%1$@)",
+      "value": "并列创造机会最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_passes": {
+      "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
+      "english": "Completed the joint-most passes (%1$@)",
+      "value": "精准传球并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_passes_live": {
+      "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
+      "english": "Has completed the joint-most passes (%1$@)",
+      "value": "精准传球并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_shots": {
+      "comment": "Example: took the joint-most shots (5). Used when multiple players are tied for the most shots.",
+      "english": "Took the joint-most shots (%1$@)",
+      "value": "射门次数并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_shots_live": {
+      "comment": "Example: has taken the joint-most shots (5). Used when multiple players are tied for the most shots.",
+      "english": "Has taken the joint-most shots (%1$@)",
+      "value": "并列射门次数最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_touches": {
+      "comment": "Example: had the joint-most touches (95). Used when multiple players are tied for the most touches.",
+      "english": "Had the joint-most touches (%1$@)",
+      "value": "触球次数并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_most_touches_live": {
+      "comment": "Example: has the joint-most touches (95). Used when multiple players are tied for the most touches.",
+      "english": "Has the joint-most touches (%1$@)",
+      "value": "触球次数并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_opp_box_touches": {
+      "comment": "Example: had the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
+      "english": "Had the joint-most touches (%1$@) in the opposition box",
+      "value": "在对方禁区内触球并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_opp_box_touches_live": {
+      "comment": "Example: has the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
+      "english": "Has the joint-most touches (%1$@) in the opposition box",
+      "value": "在对方禁区内触球次数并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_woodwork": {
+      "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
+      "english": "Hit the woodwork the joint-most times (%1$@)",
+      "value": "击中门框次数并列最多（%1$@）"
+    },
+    "common_fun_fact_joint_woodwork_live": {
+      "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
+      "english": "Has hit the woodwork the joint-most times (%1$@)",
+      "value": "击中门框次数并列最多（%1$@）"
+    },
+    "common_fun_fact_made_mistake_led_to_goal": {
+      "comment": "Example: committed an error that led to a goal.",
+      "english": "Committed an error that led to a goal",
+      "value": "失误导致失球"
+    },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: 2 errors that led to goals. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "Committed an error that led to a goal",
+        "other": "Committed %d errors that led to goals"
+      },
+      "plurals": {
+        "other": "犯了%d次错误导致丢球"
+      }
+    },
+    "common_fun_fact_most_defensive_contributions": {
+      "comment": "Example: had the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Had the most defensive contributions (%1$@)",
+      "value": "防守动作最多（%1$@）"
+    },
+    "common_fun_fact_most_defensive_contributions_live": {
+      "comment": "Example: has the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
+      "english": "Has the most defensive contributions (%1$@)",
+      "value": "防守动作最多（%1$@）"
+    },
+    "common_fun_fact_most_dribbles": {
+      "comment": "Example: completed the most dribbles (2).",
+      "english": "Completed the most dribbles (%1$@)",
+      "value": "成功带球最多（%1$@）"
+    },
+    "common_fun_fact_most_dribbles_live": {
+      "comment": "Example: completed the most dribbles (2).",
+      "english": "Has completed the most dribbles (%1$@)",
+      "value": "成功带球最多（%1$@）"
+    },
+    "common_fun_fact_most_key_passes_created": {
+      "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for another player.",
+      "english": "Created the most chances (%1$@)",
+      "value": "创造机会最多（%1$@）"
+    },
+    "common_fun_fact_most_key_passes_created_live": {
+      "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for a teammate.",
+      "english": "Has created the most chances (%1$@)",
+      "value": "创造机会最多（%1$@）"
+    },
+    "common_fun_fact_most_passes": {
+      "comment": "Example: completed the most passes (123).",
+      "english": "Completed the most passes (%1$@)",
+      "value": "精准传球最多（%1$@）"
+    },
+    "common_fun_fact_most_passes_live": {
+      "comment": "Example: completed the most passes (123).",
+      "english": "Has completed the most passes (%1$@)",
+      "value": "精准传球最多（%1$@）"
+    },
+    "common_fun_fact_most_shots": {
+      "comment": "Example: took the most shots (5).",
+      "english": "Took the most shots (%1$@)",
+      "value": "射门次数最多（%1$@）"
+    },
+    "common_fun_fact_most_shots_live": {
+      "comment": "Example: has taken the most shots (5).",
+      "english": "Has taken the most shots (%1$@)",
+      "value": "射门次数最多（%1$@）"
+    },
+    "common_fun_fact_most_touches": {
+      "comment": "Example: had the most touches (95).",
+      "english": "Had the most touches (%1$@)",
+      "value": "触球次数最多（%1$@）"
+    },
+    "common_fun_fact_most_touches_live": {
+      "comment": "Example: has the most touches (95).",
+      "english": "Has the most touches (%1$@)",
+      "value": "触球次数最多（%1$@）"
+    },
+    "common_fun_fact_opp_box_touches": {
+      "comment": "Ronaldo had the most touches (12) in the opposition box.",
+      "english": "Had the most touches (%1$@) in the opposition box",
+      "value": "在对方禁区内触球次数（%1$@）最多"
+    },
+    "common_fun_fact_opp_box_touches_live": {
+      "comment": "Ronaldo has the most touches (43) in the opposition box.",
+      "english": "Has the most touches (%1$@) in the opposition box",
+      "value": "在对方禁区内触球次数最多（%1$@）"
+    },
+    "common_fun_fact_own_goal": {
+      "comment": "Example: scored an own goal.",
+      "english": "Scored an own goal",
+      "value": "打入乌龙球"
+    },
+    "common_fun_fact_own_goal_plurals": {
+      "comment": "Example: scored 2 own goals. See fun_fact_own_goal.",
+      "english_plurals": {
+        "one": "Scored an own goal",
+        "other": "Scored %d own goals"
+      },
+      "plurals": {
+        "other": "打入%d个乌龙球"
+      }
+    },
+    "common_fun_fact_red_card": {
+      "comment": "Example: received a red card.",
+      "english": "Received a red card",
+      "value": "吃到红牌"
+    },
+    "common_fun_fact_won_penalty": {
+      "comment": "Example: won a penalty.",
+      "english": "Won a penalty",
+      "value": "造点球"
+    },
+    "common_fun_fact_won_penalty_plurals": {
+      "comment": "Example: won 2 penalties. See fun_fact_won_penalty.",
+      "english_plurals": {
+        "one": "Won a penalty",
+        "other": "Won %d penalties"
+      },
+      "plurals": {
+        "other": "造%d个点球"
+      }
+    },
+    "common_fun_fact_woodwork_live_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Has hit the woodwork once",
+        "other": "Has hit the woodwork %d times"
+      },
+      "plurals": {
+        "other": "击中门框 %d 次"
+      }
+    },
+    "common_fun_fact_woodwork_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Hit the woodwork once",
+        "other": "Hit the woodwork %d times"
+      },
+      "plurals": {
+        "other": "击中门框 %d 次"
+      }
+    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "通用"
@@ -5296,6 +5551,11 @@
       "comment": "A menu action for saving lineups",
       "english": "Save",
       "value": "保存"
+    },
+    "common_save_as": {
+      "comment": "A menu action for saving a fresh lineup - no placeholder needed.",
+      "english": "Save as",
+      "value": "另存为"
     },
     "common_saved_lineup_deleted": {
       "comment": "A toast indicating that we successfully deleted the users saved lineup",
@@ -9806,34 +10066,24 @@
       "value": "这是一场友谊赛"
     },
     "seo_fun_fact_highest_top_speed": {
-      "comment": "Fun fact for the player that has reached the highest top speed in a match.",
-      "english": "%1$@ reached the highest top speed (%2$@) in the match.",
-      "value": "%1$@ 在比赛中达到最高速度（%2$@）。"
+      "comment": "Example: had the highest top speed in the match (35.7 km/h).",
+      "english": "Had the highest top speed in the match (%1$@)",
+      "value": "本场比赛最高速度（%1$@）"
     },
     "seo_fun_fact_highest_top_speed_live": {
-      "comment": "Fun fact for the player that has reached the highest top speed in an ongoing match",
-      "english": "%1$@ has reached the highest top speed (%2$@) in the match.",
-      "value": "%1$@ 在比赛中达到最高速度（%2$@）。"
-    },
-    "seo_fun_fact_least_distance_covered": {
-      "comment": "Fun fact for the player that has covered the least distance in a match.",
-      "english": "%1$@ covered the least distance (%2$@) in the match of any outfield player to play 90 minutes.",
-      "value": "%1$@ 是在比赛中跑动距离最少（%2$@）的90分钟非门将球员。"
-    },
-    "seo_fun_fact_least_distance_covered_live": {
-      "comment": "Fun fact for the player that has covered the least distance in an ongoing match.",
-      "english": "%1$@ has covered the least distance (%2$@) in the match of any outfield player.",
-      "value": "%1$@ 是比赛中跑动距离最少的非门将球员（%2$@）。"
+      "comment": "Example: has the highest top speed in the match (35.7 km/h).",
+      "english": "Has the highest top speed in the match (%1$@)",
+      "value": "本场比赛中最高速度为（%1$@）"
     },
     "seo_fun_fact_most_distance_covered": {
       "comment": "Fun fact for the player that has covered the most distance in a match.",
-      "english": "%1$@ covered the most distance (%2$@) in the match.",
-      "value": "%1$@ 在比赛中跑动距离最长（%2$@）"
+      "english": "Covered the most distance (%1$@) in the match",
+      "value": "本场比赛跑动距离最多（%1$@）"
     },
     "seo_fun_fact_most_distance_covered_live": {
       "comment": "Fun fact for the player that has covered the most distance in an ongoing match.",
-      "english": "%1$@ has covered the most distance (%2$@) in the match.",
-      "value": "%1$@ 在比赛中跑动距离最长（%2$@）"
+      "english": "Has covered the most distance (%1$@) in the match",
+      "value": "本场跑动距离最长（%1$@）"
     },
     "seo_get_the_best_mobile_experience": {
       "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
@@ -10419,6 +10669,11 @@
       "comment": "Text explaining that the first team is playing at home against the visiting team at the given statium at a given time.",
       "english": "%1$@ is playing home against %2$@ at %3$@ on %4$@.",
       "value": "%1$@ 将在 %4$@ 的 %3$@ 主场迎战 %2$@。"
+    },
+    "seo_plus_one_day": {
+      "comment": "Text above a match on front page that is actually on the next day.",
+      "english": "+1 day",
+      "value": "+1 天"
     },
     "seo_poll_closed": {
       "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",

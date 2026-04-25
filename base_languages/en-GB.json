@@ -916,6 +916,72 @@
       "english": "FT",
       "value": "FT"
     },
+    "common_fun_fact_conceded_penalty_plurals": {
+      "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
+      "english_plurals": {
+        "one": "Conceded a penalty",
+        "other": "Conceded %d penalties"
+      },
+      "plurals": {
+        "one": "Conceded a penalty",
+        "other": "Conceded %d penalties"
+      }
+    },
+    "common_fun_fact_made_mistake_led_to_goal_plurals": {
+      "comment": "Example: 2 errors that led to goals. See fun_fact_made_mistake_led_to_goal.",
+      "english_plurals": {
+        "one": "Committed an error that led to a goal",
+        "other": "Committed %d errors that led to goals"
+      },
+      "plurals": {
+        "one": "Committed an error that led to a goal",
+        "other": "Committed %d errors that led to goals"
+      }
+    },
+    "common_fun_fact_own_goal_plurals": {
+      "comment": "Example: scored 2 own goals. See fun_fact_own_goal.",
+      "english_plurals": {
+        "one": "Scored an own goal",
+        "other": "Scored %d own goals"
+      },
+      "plurals": {
+        "one": "Scored an own goal",
+        "other": "Scored %d own goals"
+      }
+    },
+    "common_fun_fact_won_penalty_plurals": {
+      "comment": "Example: won 2 penalties. See fun_fact_won_penalty.",
+      "english_plurals": {
+        "one": "Won a penalty",
+        "other": "Won %d penalties"
+      },
+      "plurals": {
+        "one": "Won a penalty",
+        "other": "Won %d penalties"
+      }
+    },
+    "common_fun_fact_woodwork_live_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Has hit the woodwork once",
+        "other": "Has hit the woodwork %d times"
+      },
+      "plurals": {
+        "one": "Has hit the woodwork once",
+        "other": "Has hit the woodwork %d times"
+      }
+    },
+    "common_fun_fact_woodwork_plurals": {
+      "comment": "Natural prose (no parens). 'one' form uses language's 'once' expression without %d. Matches non-plural noun.",
+      "english_plurals": {
+        "one": "Hit the woodwork once",
+        "other": "Hit the woodwork %d times"
+      },
+      "plurals": {
+        "one": "Hit the woodwork once",
+        "other": "Hit the woodwork %d times"
+      }
+    },
     "common_generalUpper": {
       "english": "GENERAL",
       "value": "GENERAL"
