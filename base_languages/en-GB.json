@@ -938,6 +938,17 @@
         "other": "Committed %d errors that led to goals"
       }
     },
+    "common_fun_fact_missed_penalty_plurals": {
+      "comment": "Example: missed 2 penalties. See fun_fact_missed_penalty.",
+      "english_plurals": {
+        "one": "Missed a penalty",
+        "other": "Missed %d penalties"
+      },
+      "plurals": {
+        "one": "Missed a penalty",
+        "other": "Missed %d penalties"
+      }
+    },
     "common_fun_fact_own_goal_plurals": {
       "comment": "Example: scored 2 own goals. See fun_fact_own_goal.",
       "english_plurals": {
@@ -947,6 +958,17 @@
       "plurals": {
         "one": "Scored an own goal",
         "other": "Scored %d own goals"
+      }
+    },
+    "common_fun_fact_saved_penalty_plurals": {
+      "comment": "Example: saved 2 penalties. See fun_fact_saved_penalty.",
+      "english_plurals": {
+        "one": "Saved a penalty",
+        "other": "Saved %d penalties"
+      },
+      "plurals": {
+        "one": "Saved a penalty",
+        "other": "Saved %d penalties"
       }
     },
     "common_fun_fact_won_penalty_plurals": {
@@ -1126,6 +1148,11 @@
     },
     "common_man_of_the_match": {
       "comment": "A title indicating that this player was the best player.",
+      "english": "Player of the Match",
+      "value": "Player of the Match"
+    },
+    "common_man_of_the_match_female": {
+      "comment": "Title indicating this player was the best player. Used in matches where the data feed marks the match gender as female, so languages with grammatical gender can use the feminine form (e.g. Spanish \"Jugadora del partido\").",
       "english": "Player of the Match",
       "value": "Player of the Match"
     },
@@ -3477,6 +3504,17 @@
       "english": "Help",
       "value": "Help"
     },
+    "seo_hours_countdown_plural": {
+      "comment": "Hours label, used as a standalone label in a countdown timer (no placeholder needed for number).",
+      "english_plurals": {
+        "one": "Hour",
+        "other": "Hours"
+      },
+      "plurals": {
+        "one": "Hour",
+        "other": "Hours"
+      }
+    },
     "seo_i_need_help": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
       "english": "I need help",
@@ -3491,6 +3529,28 @@
       "comment": "Text explaining that the the current match is a match in the given round or stage in the given league or competition. Eg. \"This is round 12 of the Eliteserien.\"",
       "english": "This is %1$@ of the %2$@.",
       "value": "This is %1$@ of the %2$@."
+    },
+    "seo_matches_past_midnight": {
+      "comment": "String explaining that a football match starts after midnight. Keep short and concise in the target language.",
+      "english_plurals": {
+        "one": "%d match starts after midnight",
+        "other": "%d matches start after midnight"
+      },
+      "plurals": {
+        "one": "%d match starts after midnight",
+        "other": "%d matches start after midnight"
+      }
+    },
+    "seo_minutes_countdown_plural": {
+      "comment": "Minutes label, used as a standalone label in a countdown timer (no placeholder needed for number).",
+      "english_plurals": {
+        "one": "Minute",
+        "other": "Minutes"
+      },
+      "plurals": {
+        "one": "Minute",
+        "other": "Minutes"
+      }
     },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
@@ -3593,10 +3653,31 @@
       "english": "Round of 16 playoff",
       "value": "Round of 16 playoff"
     },
+    "seo_rumour": {
+      "comment": "Label for a transfer rumour. A transfer rumour is an unconfirmed transfer that is reported by the media. See transfer. See rumours.",
+      "english": "Rumor",
+      "value": "Rumour"
+    },
+    "seo_rumours": {
+      "comment": "Title for the rumours section in the transfer centre.",
+      "english": "Rumors",
+      "value": "Rumours"
+    },
     "seo_save": {
       "comment": "Outcome after a shot that indicates that the keeper made a save",
       "english": "Save",
       "value": "Saves"
+    },
+    "seo_seconds_countdown_short_plural": {
+      "comment": "Short abbreviation for \"seconds\" used as a standalone label below a number in a countdown timer. Should be concise.",
+      "english_plurals": {
+        "one": "Sec",
+        "other": "Secs"
+      },
+      "plurals": {
+        "one": "Sec",
+        "other": "Secs"
+      }
     },
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
@@ -3791,6 +3872,11 @@
       "comment": "Position label for substitutions in player match stats panel.",
       "english": "Sub",
       "value": "Sub"
+    },
+    "seo_switch_to_rumours": {
+      "comment": "String on the button that changes from showing transfers to showing rumours. See rumours.",
+      "english": "Switch to rumors",
+      "value": "Switch to rumours"
     },
     "seo_template_42": {
       "comment": "UEFA Champions League",

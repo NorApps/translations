@@ -194,6 +194,11 @@
       "english": "Company",
       "value": "Firma"
     },
+    "accessibility_continue_action": {
+      "comment": "Generic Continue button label used to advance to the next step.",
+      "english": "Continue",
+      "value": "Weiter"
+    },
     "accessibility_cookie_policy": {
       "comment": "Text shown on link that redirects to the page that shows the cookie policy document.",
       "english": "Cookie policy",
@@ -2354,6 +2359,11 @@
       "english": "Trending news",
       "value": "Aktuelle Nachrichten"
     },
+    "accessibility_type_to_redeem_it": {
+      "comment": "Body text on the redeem code entry screen, prompting the user to type their code into the input field below.",
+      "english": "Type to redeem it",
+      "value": "Gib den Code ein, um ihn einzulösen"
+    },
     "accessibility_unfollow_item": {
       "comment": "Action label if you want to unfollow a team or a player. Long pressing on a player you follow will show a button saying Unfollow.",
       "english": "Unfollow",
@@ -2457,6 +2467,11 @@
       "comment": "Used to describe yellow cards in the stats for player profile.",
       "english": "Yellow",
       "value": "Gelb"
+    },
+    "accessibility_your_code": {
+      "comment": "Placeholder shown inside the redeem code input field where the user types their code.",
+      "english": "Your code",
+      "value": "Dein Code"
     },
     "common_Attendance": {
       "english": "Attendance",
@@ -2639,6 +2654,16 @@
       "english": "All events",
       "value": "Alle Ereignisse"
     },
+    "common_all_leagues_collapsed": {
+      "comment": "Snackbar feedback shown after a pinch-in gesture on the Matches tab collapses all leagues. Past tense — the action has already happened. Paired with an Undo button.",
+      "english": "All leagues collapsed",
+      "value": "Alle Ligen reduziert"
+    },
+    "common_all_leagues_expanded": {
+      "comment": "Snackbar feedback shown after a pinch-out gesture on the Matches tab expands all leagues. Past tense — the action has already happened. Paired with an Undo button.",
+      "english": "All leagues expanded",
+      "value": "Alle Ligen erweitert"
+    },
     "common_all_matches": {
       "english": "All matches",
       "value": "Alle Spiele"
@@ -2704,6 +2729,11 @@
     "common_attacker_long": {
       "english": "Attacker",
       "value": "Stürmer"
+    },
+    "common_audio_pause": {
+      "comment": "Generic pause button label for audio playback controls (not match half-time).",
+      "english": "Pause",
+      "value": "Pause"
     },
     "common_autoplay": {
       "comment": "Indicates that the videos will autoplay (play automatically when viewing them)",
@@ -3708,11 +3738,6 @@
       "english": "FT",
       "value": "Erg"
     },
-    "common_fun_fact_conceded_penalty": {
-      "comment": "Example: conceded a penalty.",
-      "english": "Conceded a penalty",
-      "value": "Elfmeter verursacht"
-    },
     "common_fun_fact_conceded_penalty_plurals": {
       "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
       "english_plurals": {
@@ -3840,6 +3865,17 @@
         "other": "Beging %d Fehler, die zu Toren führten"
       }
     },
+    "common_fun_fact_missed_penalty_plurals": {
+      "comment": "Example: missed 2 penalties. See fun_fact_missed_penalty.",
+      "english_plurals": {
+        "one": "Missed a penalty",
+        "other": "Missed %d penalties"
+      },
+      "plurals": {
+        "one": "Verschoss einen Elfmeter",
+        "other": "Verschoss %d Elfmeter"
+      }
+    },
     "common_fun_fact_most_defensive_contributions": {
       "comment": "Example: had the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Had the most defensive contributions (%1$@)",
@@ -3931,10 +3967,16 @@
       "english": "Received a red card",
       "value": "Erhielt eine Rote Karte"
     },
-    "common_fun_fact_won_penalty": {
-      "comment": "Example: won a penalty.",
-      "english": "Won a penalty",
-      "value": "Elfmeter herausgeholt"
+    "common_fun_fact_saved_penalty_plurals": {
+      "comment": "Example: saved 2 penalties. See fun_fact_saved_penalty.",
+      "english_plurals": {
+        "one": "Saved a penalty",
+        "other": "Saved %d penalties"
+      },
+      "plurals": {
+        "one": "Elfmeter gehalten",
+        "other": "%d Elfmeter gehalten"
+      }
     },
     "common_fun_fact_won_penalty_plurals": {
       "comment": "Example: won 2 penalties. See fun_fact_won_penalty.",
@@ -4590,6 +4632,11 @@
       "comment": "A title indicating that this player was the best player.",
       "english": "Player of the Match",
       "value": "Spieler der Begegnung"
+    },
+    "common_man_of_the_match_female": {
+      "comment": "Title indicating this player was the best player. Used in matches where the data feed marks the match gender as female, so languages with grammatical gender can use the feminine form (e.g. Spanish \"Jugadora del partido\").",
+      "english": "Player of the Match",
+      "value": "Spielerin der Begegnung"
     },
     "common_match": {
       "english": "match",
@@ -6821,9 +6868,19 @@
       "english": "Draws",
       "value": "Remis"
     },
+    "ios_enable_live_activities": {
+      "comment": "Live activities onboarding description. Use live_activities translation for \"live activities\".",
+      "english": "Enable live activities and follow every goal without opening the app",
+      "value": "Live-Aktivitäten aktivieren und jedes Tor verfolgen, ohne die App zu öffnen."
+    },
     "ios_extra_time": {
       "english": "Extra Time",
       "value": "Nachspielzeit"
+    },
+    "ios_follow_world_cup_from_lock_screen": {
+      "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
+      "english": "Follow the World Cup from your lock screen",
+      "value": "Verfolge die WM direkt vom Sperrbildschirm aus"
     },
     "ios_last_matches": {
       "comment": "Header for a teams last played matches.",
@@ -6840,6 +6897,11 @@
       "english": "We've updated FotMob for iOS 26 and Apple's new Liquid Glass design.",
       "value": "Wir haben FotMob für iOS 26 und das neue Liquid Glass-Design von Apple aktualisiert."
     },
+    "ios_live_activities_activated": {
+      "comment": "Live activities activated toast message. Includes league name param, e.g. \"Live Activities activated for World Cup\". Use live_activities translation for \"Live Activities\".",
+      "english": "Live Activities activated for %@",
+      "value": "Live-Aktivitäten für %@ aktiviert"
+    },
     "ios_location_reason": {
       "english": "We only use your location to enable features available to some countries",
       "value": "Wir benutzen deinen Standort nur, um länderspezifische Funktionen einzuschalten."
@@ -6851,6 +6913,11 @@
     "ios_match_is_finished": {
       "english": "Match is finished",
       "value": "Spiel ist beendet"
+    },
+    "ios_maybe_later": {
+      "comment": "Maybe later button for dismissing popup",
+      "english": "Maybe later",
+      "value": "Vielleicht später"
     },
     "ios_minutes_long": {
       "english": "minutes",
@@ -9683,6 +9750,16 @@
       "english": "About the match",
       "value": "Über das Spiel"
     },
+    "seo_accepted_formats": {
+      "comment": "Label text for presenting the supported image formats on upload. Eg. Accepted formats: .jpeg, .png",
+      "english": "Accepted formats:",
+      "value": "Akzeptierte Formate:"
+    },
+    "seo_active_until_label": {
+      "comment": "Label text for the active until field. The field controls how long a poll is open for votes.",
+      "english": "Active until",
+      "value": "Aktiv bis"
+    },
     "seo_ad_free_desc": {
       "comment": "A description for the \"Ad-free match experience\" FotMob+ feature.",
       "english": "Remove in-app ads (Note: ads on third-party websites are not controlled by us).",
@@ -9702,6 +9779,46 @@
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
       "value": "Bitte teilen Sie Details zur Anzeige mit, wie den Werbetreibenden, den Bildschirm, das Video oder Bild und was Sie problematisch fanden."
+    },
+    "seo_add_alternative": {
+      "comment": "Button text for a button that adds an alternative field to the form.",
+      "english": "Add alternative",
+      "value": "Alternative hinzufügen"
+    },
+    "seo_add_cta": {
+      "comment": "Text for the Add Call to Action dialog trigger button. Use \"Call to Action\" as a name and just translate the Add part.",
+      "english": "Add Call to Action",
+      "value": "Call to Action hinzufügen"
+    },
+    "seo_add_expert_take": {
+      "comment": "Text for the Add Expert Take dialog trigger button. Use \"Expert Take\" as a name and just translate the Add part.",
+      "english": "Add Expert Take",
+      "value": "Expert Take hinzufügen"
+    },
+    "seo_add_fan_take": {
+      "comment": "Text for the Add Fan Take dialog trigger button. Use \"Fan Take\" as a name and just translate the Add part.",
+      "english": "Add Fan Take",
+      "value": "Fan Take hinzufügen"
+    },
+    "seo_add_image": {
+      "comment": "Text for the dialog trigger button for adding an image from your file system.",
+      "english": "Add Image",
+      "value": "Bild hinzufügen"
+    },
+    "seo_add_imago_image": {
+      "comment": "Header text for the IMAGO image panel.",
+      "english": "Add IMAGO image",
+      "value": "IMAGO-Bild hinzufügen"
+    },
+    "seo_add_item": {
+      "comment": "Text for the Add Item dialog trigger button.",
+      "english": "Add Item",
+      "value": "Element hinzufügen"
+    },
+    "seo_add_poll": {
+      "comment": "Text for the Add Poll dialog trigger button. Use \"Poll\" as a name and just translate the Add part.",
+      "english": "Add Poll",
+      "value": "Poll hinzufügen"
     },
     "seo_advertise_with_us": {
       "comment": "Button where user can click to get info about advertising with us.",
@@ -9733,6 +9850,11 @@
       "english": "Allow notifications to get match updates, which can be customized later.",
       "value": "Benachrichtigungen erlauben, um Spiel-Updates zu erhalten – später anpassbar."
     },
+    "seo_alternative_label": {
+      "comment": "Label text for the alternative field in a form, send in number so if you send in 3 the result will be Alternative 3.",
+      "english": "Alternative %@",
+      "value": "Alternative %@"
+    },
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "english": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play.",
@@ -9751,6 +9873,11 @@
       "comment": "Title for list item which has the app version as a subtitle.",
       "english": "App version",
       "value": "App-Version"
+    },
+    "seo_auto_poll_toast_description": {
+      "comment": "Header on toast that asks if the user wants to open the Add Poll form to create a poll about the event that just happened in the match. The title of the toast is the name of the event, eg. Red card! Add Poll? Use Poll as a name here, and just translate the Add part. See add_poll.",
+      "english": "Add Poll?",
+      "value": "Poll hinzufügen?"
     },
     "seo_auto_save_failed": {
       "comment": "Title for the dialogue that pops up when the auto save of the user's predictions fails.",
@@ -9811,20 +9938,50 @@
       "english": "Choose your display name",
       "value": "Wähle deinen Anzeigenamen"
     },
+    "seo_clear_all": {
+      "comment": "Button label to clear all filters in the transfer section.",
+      "english": "Clear all",
+      "value": "Alle löschen"
+    },
     "seo_clear_lineup": {
       "comment": "Headline to clear the lineup created in the lineup builder for football team.",
       "english": "Clear lineup",
       "value": "Aufstellung löschen"
+    },
+    "seo_close_poll": {
+      "comment": "Button text for the button that closes the poll (this means that it stops the possibility to vote on the poll.)",
+      "english": "Close Poll",
+      "value": "Umfrage schließen"
+    },
+    "seo_close_sidebar": {
+      "comment": "Accessibility label for closing the sidebar on iPad. Used for VoiceOver.",
+      "english": "Close sidebar",
+      "value": "Seitenleiste schließen"
     },
     "seo_code_copied_to_clipboard": {
       "comment": "Toast message shown when user has copied the league code to clipboard",
       "english": "Code copied to clipboard",
       "value": "Code in die Zwischenablage kopiert"
     },
+    "seo_comment_type_description": {
+      "comment": "Field description text for the Comment type field.",
+      "english": "Is it a team specific comment or a neutral comment?",
+      "value": "Ist es ein teamspezifischer Kommentar oder ein neutraler Kommentar?"
+    },
+    "seo_comment_type_label": {
+      "comment": "Label text for the Comment type field.",
+      "english": "Comment type",
+      "value": "Kommentartyp"
+    },
     "seo_competitions": {
       "comment": "Title for section listing competitions in the predictor game.",
       "english": "Competitions",
       "value": "Wettbewerbe"
+    },
+    "seo_confirmed": {
+      "comment": "Title for the list of confirmed transfers in the transfer centre. Keep it one word and short. See confirmed_transfer_news",
+      "english": "Confirmed",
+      "value": "Bestätigt"
     },
     "seo_continue_in_app_popup_btn": {
       "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
@@ -9876,6 +10033,21 @@
       "english": "Winner or draw",
       "value": "Sieg oder Unentschieden"
     },
+    "seo_cta_default_subcontent": {
+      "comment": "Default text for the call to action subcontent field. Example: Send us a note: live@fotmob.com. Input is the e-mail where the users should send their comments or takes on the match. See cta_default_title",
+      "english": "Send us a note: %@",
+      "value": "Schreib uns: %@"
+    },
+    "seo_cta_default_title": {
+      "comment": "Default text for the title text field in the Create Pulse item dialog for creating a Call to Action item. Short and snappy text for asking the viewer what is their take on the football match.",
+      "english": "What's your take?",
+      "value": "Wie siehst du das?"
+    },
+    "seo_current_window": {
+      "comment": "Transfer window that is currently open. Shown in transfer window dropdown, keep it concise as the transfer context is implied. See summer_window.",
+      "english": "Current window",
+      "value": "Aktuelles Fenster"
+    },
     "seo_daily_summary": {
       "comment": "Title of AI generated summary card found in team overview.",
       "english": "Daily summary",
@@ -9896,10 +10068,25 @@
       "english": "Delayed",
       "value": "Verzögert"
     },
+    "seo_delete_item_description": {
+      "comment": "Dialog text for the delete item dialog. Warns the user that the pulse item will be permanently deleted from the ticker feed if the user continues the action.",
+      "english": "This action cannot be undone. This will permanently delete this pulse item from the ticker.",
+      "value": "Diese Aktion kann nicht rückgängig gemacht werden. Dadurch wird dieses Pulse-Element dauerhaft aus dem Ticker gelöscht."
+    },
+    "seo_delete_item_title": {
+      "comment": "Dialog text for the delete item dialog that is shown to make sure the user actually wants to delete the item.",
+      "english": "Are you absolutely sure?",
+      "value": "Bist du dir ganz sicher?"
+    },
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
       "english": "Describe your issue",
       "value": "Beschreiben Sie Ihr Problem"
+    },
+    "seo_description_label": {
+      "comment": "Label text for the image description field in the add image form.",
+      "english": "Description",
+      "value": "Beschreibung"
     },
     "seo_distance_per_90": {
       "comment": "A label indicating how long a player has run per 90 minutes.",
@@ -9931,10 +10118,20 @@
       "english": "Edit name",
       "value": "Namen bearbeiten"
     },
+    "seo_end_of_game": {
+      "comment": "Label text for the \"End of game\" option of the active until field. Choosing this option means that the poll will be active until the end of the game. It should work when you read it together with the field label: \"Active Until: End of game\". See active_until_label.",
+      "english": "End of game",
+      "value": "Spielende"
+    },
     "seo_enter_lineup_name": {
       "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder. Keep the translation as short as possible for languages where the output is a very long string.",
       "english": "Enter lineup name",
       "value": "Aufstellungsname eingeben"
+    },
+    "seo_estimated_fee": {
+      "comment": "Label for estimated transfer fee (transfer sum) in the rumour fee column and above the estimated fee filter. Not an official fee, but estimated for the rumour. Important: keep it very short, used in a transfer context so that is implied. See transfer_reported_fee. See transfer_fee.",
+      "english": "Estimated fee",
+      "value": "Geschätzte Ablöse"
     },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
@@ -9970,6 +10167,21 @@
       "comment": "A text describing for how long a player is out injured or absent.",
       "english": "About a week",
       "value": "Ungefähr eine Woche"
+    },
+    "seo_expert_name_label": {
+      "comment": "Label text for the Expert take author field. Label indicating that input should be the name of the expert that said or wrote the content text.",
+      "english": "Name",
+      "value": "Name"
+    },
+    "seo_expert_title_description": {
+      "comment": "Field description text for the Expert title field. Shows an example of what to use as input to the expert title field.",
+      "english": "(e.g. \"Speaking on Sky Sports\", \"Bundesliga expert\")",
+      "value": "(z. B. „bei Sky Sports“, „Bundesliga-Experte“)"
+    },
+    "seo_expert_title_label": {
+      "comment": "Label text for the Expert title field. Label indicating that input should be a title or explanation of who the expert that said or wrote the content text is. Or which publication the expert works for. Or which role the expert has. Only use one word.",
+      "english": "Title",
+      "value": "Titel"
     },
     "seo_expires_in": {
       "comment": "Used to indicate when the subscription is expiring. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
@@ -10009,10 +10221,40 @@
       "english": "Family Monthly",
       "value": "Monatliches Familienabo"
     },
+    "seo_fan_name_label": {
+      "comment": "Label text for the Fan take author field. Indicate that input should only be the first name of the football fan that said or wrote the content. See fan_type_description.",
+      "english": "Fan first name",
+      "value": "Vorname des Fans"
+    },
+    "seo_fan_take_neutral_source": {
+      "comment": "Text to show below the first name in a user take if the comment is neutral (not supporting one of the teams more than the other). The comment sent to us from a person watching the football match. See cta_default_title. See fan_type_description.",
+      "english": "Viewer opinion",
+      "value": "Zuschauermeinung"
+    },
+    "seo_fan_take_source": {
+      "comment": "Text to show below the first name in a user take if the comment is from a user that supports one of the teams in the football match. Input is the team name, eg. \"Liverpool fan\". See select_fan_type. See fan_type_description.",
+      "english": "%@ fan",
+      "value": "%@-Fan"
+    },
+    "seo_fan_type_description": {
+      "comment": "Field description text for the Fan type field.",
+      "english": "Which type of fan is it? (home, away, or neutral)",
+      "value": "„Welche Art von Fan ist es? (Heim, Auswärts oder Neutral)“"
+    },
+    "seo_fan_type_label": {
+      "comment": "Label text for the Fan type field.",
+      "english": "Fan type",
+      "value": "Fan-Typ"
+    },
     "seo_feedback": {
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue. And as a description for mail.",
       "english": "Feedback",
       "value": "Rückmeldung"
+    },
+    "seo_field_required": {
+      "comment": "Letting the user know a field is required when submitting a form",
+      "english": "Required field",
+      "value": "Pflichtfeld"
     },
     "seo_fifa_rankings": {
       "comment": "Link text for link to a page with the FIFA ranking table.",
@@ -10159,10 +10401,36 @@
       "english": "Help",
       "value": "Hilfe"
     },
+    "seo_high_probability": {
+      "comment": "High probability, as opposed to low or medium probability. The <b>High</b> should be bolded with <b>tag</b>. See low_probability. See high_probability_short. Align with high probability short.",
+      "english": "<b>High</b> probability",
+      "value": "<b>Hohe</b> Wahrscheinlichkeit"
+    },
+    "seo_high_probability_short": {
+      "comment": "Text in filters to select for high probability rumours only. Important: Keep very short so it fits in a segment control. See low_probability_short.",
+      "english": "High",
+      "value": "Hoch"
+    },
+    "seo_highest_fee": {
+      "comment": "Sort by alternative - sort by highest (transfer) fee first. Keep it very short to fit in a segment control. The transfer context is already there, so can be generic. See lowest_fee. Keep it exactly aligned with lowest_fee.",
+      "english": "Highest fee",
+      "value": "Höchste Summe"
+    },
     "seo_hours_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many hours left til the next week tournament use the plural form in the given language.",
       "english": "Hours",
       "value": "Stunden"
+    },
+    "seo_hours_countdown_plural": {
+      "comment": "Hours label, used as a standalone label in a countdown timer (no placeholder needed for number).",
+      "english_plurals": {
+        "one": "Hour",
+        "other": "Hours"
+      },
+      "plurals": {
+        "one": "Stunde",
+        "other": "Stunden"
+      }
     },
     "seo_how_to_play": {
       "comment": "Title for the \"How to play\" section in the predictor game. (Rules).",
@@ -10193,6 +10461,21 @@
       "comment": "Used for radio button in troubleshooting mail for choosing type of issue.",
       "english": "I need help",
       "value": "Ich brauche Hilfe"
+    },
+    "seo_image_label": {
+      "comment": "Label text for the image field in a form.",
+      "english": "Image",
+      "value": "Bild"
+    },
+    "seo_image_preview_help_text": {
+      "comment": "Help text in the Add Image dialogue.",
+      "english": "Add an image file to see the preview",
+      "value": "Füge eine Bilddatei hinzu, um die Vorschau zu sehen"
+    },
+    "seo_imminent_probability": {
+      "comment": "String used to indicate a transfer rumour that is expected to be confirmed soon. The highest probability level. Prefer one word.",
+      "english": "Imminent",
+      "value": "Bevorstehend"
     },
     "seo_in_app_browser_copy_link": {
       "comment": "This is the label on a button that copies the current page URL to the user's clipboard, so they can paste it into a real browser. It appears in the in-app browser escape card alongside the \"Open in Safari\"/\"Open in Chrome\" buttons. Tone: short button label, like a standard UI action.",
@@ -10329,6 +10612,26 @@
       "english": "Please open this page in your device’s browser (Safari or Chrome) to continue.",
       "value": "Bitte öffne diese Seite im Browser deines Geräts (Safari oder Chrome), um fortzufahren."
     },
+    "seo_in_or_out": {
+      "comment": "Title for the transfer direction filter. The options are \"all\", \"in\", and \"out\". Whether a transfer is incoming, outgoing, or both (All). Use or instead of slash if possible. See transfers_in_short. See transfers_out_short.",
+      "english": "In or out",
+      "value": "Zugang oder Abgang"
+    },
+    "seo_include_extensions": {
+      "comment": "Text for a filter that toggles the visibility of contract extensions in the transfer list. IMPORTANT: Keep it short, the transfer context is clear in the UI. See contract_extension. See show_loans.",
+      "english": "Show extensions",
+      "value": "Verlängerungen anzeigen"
+    },
+    "seo_invalid_email": {
+      "comment": "Letting the user know an email is not valid when submitting a form",
+      "english": "Invalid email",
+      "value": "Ungültige E-Mail-Adresse"
+    },
+    "seo_item_published_successfully": {
+      "comment": "Text shown when a pulse item or poll was created.",
+      "english": "Item published successfully",
+      "value": "Beitrag erfolgreich veröffentlicht"
+    },
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "english": "Join FotMob+ for %@ / month",
@@ -10343,6 +10646,11 @@
       "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
       "english": "League added to Following",
       "value": "Liga zu Folgen hinzugefügt"
+    },
+    "seo_league_and_team": {
+      "comment": "Label for the section where you can filter transfers by league and/or teams. See league. See team.",
+      "english": "League and team",
+      "value": "Liga und Mannschaft"
     },
     "seo_league_match": {
       "comment": "Text explaining that the the current match is a match in the given league or competition.",
@@ -10378,6 +10686,16 @@
       "comment": "Headline for a lineup builder for football teams. In Norwegian the natural translation would be \"Lagbygger\".",
       "english": "Lineup Builder",
       "value": "Aufstellungs-Editor"
+    },
+    "seo_lineup_builder_app_promo_subtitle": {
+      "comment": "Promo subtitle text for the lineup builder now available in the app, \"it\" refering to the lineup builder. keep translations short and consise. See [lineup_builder]",
+      "english": "Try it on mobile",
+      "value": "Auf dem Handy ausprobieren"
+    },
+    "seo_lineup_builder_app_promo_title": {
+      "comment": "Promo text for the lineup builder now available in the app, keep translations short and consise. See [lineup_builder]",
+      "english": "Now available in the app",
+      "value": "Jetzt in der App verfügbar"
     },
     "seo_lineup_builder_meta_description": {
       "comment": "Meta info description for the lineup builder. see [lineup_builder].",
@@ -10419,6 +10737,31 @@
       "english": "Link copied to clipboard",
       "value": "Link in die Zwischenablage kopiert"
     },
+    "seo_live_update": {
+      "comment": "In-app label shown when user opts in to receive live score updates for a specific match or team",
+      "english": "Live update",
+      "value": "Live-Updates"
+    },
+    "seo_live_update_notifications": {
+      "comment": "Android notification channel name for live score updates for a specific match or team",
+      "english": "Live update notifications",
+      "value": "Live-Update-Benachrichtigungen"
+    },
+    "seo_low_probability": {
+      "comment": "Low probability, as opposed to medium or high probability. The <b>Low</b> should be bolded with <b>tag</b>. See probability_label. See low_probability_short. Align with low probability short.",
+      "english": "<b>Low</b> probability",
+      "value": "<b>Niedrige</b> Wahrscheinlichkeit"
+    },
+    "seo_low_probability_short": {
+      "comment": "Text in filters to select for low probability rumours only. Important: Keep very short so it fits in a segment control. See probability_label. Align gender with probability_label.",
+      "english": "Low",
+      "value": "Niedrig"
+    },
+    "seo_lowest_fee": {
+      "comment": "Sort by alternative - sort by lowest (transfer) fee or (transfer) value first. Keep it very short to fit in a segment control (the transfer context is already there). See transfer_fee. See sort_by. Keep it exactly aligned with highest_fee, i.e. Laveste sum in Norwegian.",
+      "english": "Lowest fee",
+      "value": "Niedrigste Summe"
+    },
     "seo_ltc_ai_explanation": {
       "comment": "Disclaimer informing user that is has been automatically translated.",
       "english": "This live commentary has been auto-translated. There may be minor inaccuracies.",
@@ -10454,10 +10797,46 @@
       "english": "Match removed from Following",
       "value": "Match aus „Gefolgt“ entfernt"
     },
+    "seo_matches_past_midnight": {
+      "comment": "String explaining that a football match starts after midnight. Keep short and concise in the target language.",
+      "english_plurals": {
+        "one": "%d match starts after midnight",
+        "other": "%d matches start after midnight"
+      },
+      "plurals": {
+        "one": "%d Spiel beginnt nach Mitternacht",
+        "other": "%d Spiele beginnen nach Mitternacht"
+      }
+    },
+    "seo_max_fee": {
+      "comment": "Maximum value in a filter. The %@ will be replaced with the maximum value. E.g. \"Max 100m €\". See min_fee.",
+      "english": "Max %@",
+      "value": "Max. %@"
+    },
+    "seo_max_file_size": {
+      "comment": "Label text for presenting the maximum image size allowed on upload. Eg. Max image size: 5MB.",
+      "english": "Max image size:",
+      "value": "Maximale Bildgröße:"
+    },
+    "seo_medium_probability": {
+      "comment": "Medium probability, as opposed to low or high probability. The <b>Medium</b> should be bolded with <b>tag</b>. See low_probability. See medium_probability_short. Align with medium probability short.",
+      "english": "<b>Medium</b> probability",
+      "value": "<b>Mittlere</b> Wahrscheinlichkeit"
+    },
+    "seo_medium_probability_short": {
+      "comment": "Text in filters to select for medium probability rumours only. Important: Keep very short so it fits in a segment control. See low_probability_short.",
+      "english": "Medium",
+      "value": "Mittel"
+    },
     "seo_men": {
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
       "english": "Men",
       "value": "Männer"
+    },
+    "seo_min_fee": {
+      "comment": "Minimum value in a filter. The %@ will be replaced with the minimum value. E.g. \"Min 100k €\". See max_fee.",
+      "english": "Min %@",
+      "value": "Min. %@"
     },
     "seo_min_value_filter": {
       "comment": "Label for a filter input where the user can set a value for players shown in a transfers list. Should cover both minimum market value and minimum transfer fee. Keep it short.",
@@ -10468,6 +10847,17 @@
       "comment": "see [available_in]. A label below a number indicating how many minutes left til the next week tournament use the plural form in the given language.",
       "english": "Minutes",
       "value": "Minuten"
+    },
+    "seo_minutes_countdown_plural": {
+      "comment": "Minutes label, used as a standalone label in a countdown timer (no placeholder needed for number).",
+      "english_plurals": {
+        "one": "Minute",
+        "other": "Minutes"
+      },
+      "plurals": {
+        "one": "Minute",
+        "other": "Minuten"
+      }
     },
     "seo_monthly": {
       "comment": "Describing the duration for the monthly FotMob+ subscription option.",
@@ -10484,10 +10874,20 @@
       "english": "Unlock additional notification sounds.",
       "value": "Schalten Sie zusätzliche Benachrichtigungsgeräusche frei."
     },
+    "seo_neutral": {
+      "comment": "Text for the fan type neutral option in the dropdown. Neutral means the comment is not made by a home team supporter or an away team supporter.",
+      "english": "Neutral",
+      "value": "Neutral"
+    },
     "seo_never_miss_a_goal": {
       "comment": "Title for \"prompt for notifications\" step in onboarding to explain why users should enable notifications.",
       "english": "Never miss a goal",
       "value": "Kein Tor mehr verpassen"
+    },
+    "seo_new_promo_label": {
+      "comment": "Promo chip label indicating a new feature. So it is \"New\"",
+      "english": "New",
+      "value": "Neu"
     },
     "seo_newsletter": {
       "comment": "A header indicating you can sign up for a newsletter where we send emails to the user about football things.",
@@ -10513,6 +10913,11 @@
       "comment": "Used in toast notification to tell the user that no active FotMob+ subscription where found on their account.",
       "english": "No subscriptions found",
       "value": "Keine Abos gefunden"
+    },
+    "seo_not_active": {
+      "comment": "Label text for the \"Not active\" option of the active until field.",
+      "english": "Not active",
+      "value": "Nicht aktiv"
     },
     "seo_now_make_your_predictions_and_compete": {
       "comment": "Text in the toast dialogue after joining a league through an invite link, encouraging the user to make their predictions.",
@@ -10568,6 +10973,36 @@
       "comment": "Header for the onboarding of the new physical performance state",
       "english": "<b>Official data.</b> These are the same physical stats trusted by professional teams.",
       "value": "<b>Offizielle Daten.</b> Dieselben physischen Statistiken, denen Profiteams vertrauen."
+    },
+    "seo_onboarding_wear_button": {
+      "comment": "Button for opening the Play Store when user sees Wear onboarding",
+      "english": "Get the Wear app",
+      "value": "Wear-App herunterladen"
+    },
+    "seo_onboarding_wear_subtitle": {
+      "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "english": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch.",
+      "value": "Sieh dir mit FotMob auf deiner Uhr ganz einfach Spielereignisse, Statistiken und mehr zu den Teams an, denen du folgst."
+    },
+    "seo_onboarding_wear_title": {
+      "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
+      "english": "All the action, right from your wrist.",
+      "value": "Die ganze Action direkt am Handgelenk."
+    },
+    "seo_only_pulse_items": {
+      "comment": "Text on button that filters the ticker feed so it only shows the Pulse items.",
+      "english": "Only Pulse items",
+      "value": "Nur Pulse-Meldungen"
+    },
+    "seo_open_sidebar": {
+      "comment": "Accessibility label for opening the sidebar on iPad. Used for VoiceOver.",
+      "english": "Open sidebar",
+      "value": "Seitenleiste öffnen"
+    },
+    "seo_open_the_match": {
+      "comment": "Link text in Pulse to open the match page for the match in the ticker.",
+      "english": "Open the match",
+      "value": "Spiel öffnen"
     },
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",
@@ -10674,6 +11109,11 @@
       "english": "Player added to Following",
       "value": "Spieler zu Folgen hinzugefügt"
     },
+    "seo_player_highlights": {
+      "comment": "Title for the section with fun facts/highlighted stats of a player in a match.",
+      "english": "Highlights",
+      "value": "Highlights"
+    },
     "seo_player_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
       "english": "Player removed from Following",
@@ -10703,6 +11143,21 @@
       "comment": "Letting users know the poll is closed. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. Opposite of \"Poll open\". See poll_open.",
       "english": "Poll closed",
       "value": "Umfrage geschlossen"
+    },
+    "seo_poll_default_alternative": {
+      "comment": "Text to use as the default value for the poll alternative for an automatic poll shown when a red card or a penalty happens in the match. The other alternatives are \"Yes\" and \"No\". See poll_default_question_red_card. See poll_default_question_penalty.",
+      "english": "Too close to call!",
+      "value": "Schwer zu entscheiden!"
+    },
+    "seo_poll_default_question_penalty": {
+      "comment": "Text to use as default value on a poll form for a penalty event in a match.",
+      "english": "Was it a penalty?",
+      "value": "War es ein Elfmeter?"
+    },
+    "seo_poll_default_question_red_card": {
+      "comment": "Text to use as default value on a poll form for a red card event in a match.",
+      "english": "Was it a red card?",
+      "value": "War es eine Rote Karte?"
     },
     "seo_poll_open": {
       "comment": "Letting users know the poll is still open. This is a poll that shown like \"Was that a red card?\" and the user can vote within a limited time frame. See poll_closed.",
@@ -10769,6 +11224,28 @@
       "english": "Predict the full-time score for upcoming matches",
       "value": "Sag den Endstand für bevorstehende Spiele voraus"
     },
+    "seo_prediction_stats_correct_outcome_aria": {
+      "comment": "Screen-reader label (aria-label + title tooltip) on the 'correct outcome' stats cluster shown under finished match cards. 'Correct outcome' means the user predicted the right winner OR a draw, but not necessarily the exact score (a weaker condition than 'perfect'). Visible UI shows a frost/blue gem icon + percent and count (e.g. '30% (300)'). %1$s is the localized absolute count of users (e.g. '300', '1,512'); %2$s is the already-localized percent string with its '%' sign baked in — do NOT add another percent sign. Order of placeholders MAY be changed for grammar (e.g. RTL or languages where the percent leads). Provide plural forms appropriate for the target language (CLDR rules apply — e.g. ar uses one/two/few/many/other; ja/ko/zh-Hans/th/vi/id/my use other only). Tone is neutral/informational, not promotional. See also [prediction_stats_perfect_aria] — the two strings should read in matching register, and the wording for 'correct outcome' must be semantically distinct from 'perfect' (which means the exact final score).",
+      "english_plurals": {
+        "one": "%1$s user predicted the correct outcome (%2$s)",
+        "other": "%1$s users predicted the correct outcome (%2$s)"
+      },
+      "plurals": {
+        "one": "%1$s Nutzer tippte das richtige Ergebnis (%2$s)",
+        "other": "%1$s Nutzer tippten das richtige Ergebnis (%2$s)"
+      }
+    },
+    "seo_prediction_stats_perfect_aria": {
+      "comment": "Screen-reader label (aria-label + title tooltip) on the 'perfect predictions' stats cluster shown under finished match cards. A 'perfect' prediction is one where the user predicted the exact final score. The visible UI shows a gold gem icon followed by the percent and count (e.g. '5% (50)') — this string is what assistive tech announces and what hover-tooltip shows, so it should read as a complete natural sentence. %1$s is the localized absolute count of users (e.g. '50', '1,512'). %2$s is the already-localized percent string with its '%' sign baked in (e.g. '5%', '0.007%', '100%') — do NOT add another percent sign. Order of placeholders MAY be changed for grammar (e.g. RTL or languages where the percent leads). 'Users' here means people who placed a prediction on this match; if your locale has a more idiomatic term like 'players' or 'predictors', prefer that. Keep the parenthesis style natural for the locale; if your locale prefers a different separator (em dash, comma) over '( )', adapt freely. Provide plural forms appropriate for the target language (CLDR rules apply — e.g. ar uses one/two/few/many/other; ja/ko/zh-Hans/th/vi/id/my use other only). Tone is neutral/informational, not promotional. See also [prediction_stats_correct_outcome_aria] — the two strings should read in matching register.",
+      "english_plurals": {
+        "one": "%1$s user predicted perfectly (%2$s)",
+        "other": "%1$s users predicted perfectly (%2$s)"
+      },
+      "plurals": {
+        "one": "%1$s Nutzer tippte das exakte Ergebnis (%2$s)",
+        "other": "%1$s Nutzer tippten das exakte Ergebnis (%2$s)"
+      }
+    },
     "seo_predictor_end_of_ordinary_time": {
       "comment": "Title explainer text specifying the predictions are for the result at ordinary time, not extra time or penalties.",
       "english": "Predictions are for the result at the end of ordinary time.",
@@ -10779,15 +11256,115 @@
       "english": "If you anticipate a match going to extra time, predict a draw.",
       "value": "Wenn du erwartest, dass ein Spiel in die Verlängerung geht, tippe auf ein Unentschieden."
     },
+    "seo_predictor_final_week_disclaimer_description": {
+      "comment": "Description text for the final week of the predictor, letting users know that the feature will be back next season, and promoting the World Cup predictor game in the meantime. Keep \"Top Picks\" and \"predictor\" in English, and \"\\n\"-indicators. Use the local translation of world cup, see world_cup",
+      "english": "Thanks for playing! Weekly Top Picks will be back next season. \\n\\nIn the meantime, play the World Cup predictor.",
+      "value": "Danke fürs Mitspielen! Weekly Top Picks sind nächste Saison wieder da. \\n\\nBis dahin: Spiele den Weltmeisterschafts-predictor."
+    },
+    "seo_predictor_final_week_disclaimer_title": {
+      "comment": "Short title disclaimer for the predictor game saying week 41 will be the final week of the game's season.",
+      "english": "Week 41 is the final week",
+      "value": "Woche 41 ist die letzte Woche"
+    },
     "seo_predictor_play_button": {
       "comment": "Button label for starting the predictor game. Must be short and clearly signal the action of predicting match results.",
       "english": "Play",
       "value": "Jetzt tippen!"
     },
+    "seo_preview_alternatives_view": {
+      "comment": "Text for a button that shows a preview of what the poll looks like when it is open for voting. See preview_results_view.",
+      "english": "Show the poll view",
+      "value": "Umfrageansicht anzeigen"
+    },
+    "seo_preview_results_view": {
+      "comment": "Text for a button that shows a preview of what the poll will look like when it is closed.",
+      "english": "Show the results view",
+      "value": "Ergebnisansicht anzeigen"
+    },
     "seo_privacy_title": {
       "comment": "Title for the dialogue where the user can choose their display name in the predictor game, for privacy.",
       "english": "Privacy",
       "value": "Datenschutz"
+    },
+    "seo_prizes_and_contest_rules": {
+      "comment": "Section heading on a collapsible dropdown card in the FotMob Predict World Cup 2026 prizes & contest rules dropdown (Leagues tab). Should be short (≤ ~30 chars rendered) — it sits next to a chevron. The \"&\" is intentional shorthand; localise to whatever your language uses for joining two nouns in a heading (e.g. \"and\", \"und\", \"et\", \"y\"). Title-case if the language conventionally title-cases headings.",
+      "english": "Prizes & Contest Rules",
+      "value": "Preise & Teilnahmebedingungen"
+    },
+    "seo_prizes_summary_contest_period": {
+      "comment": "Bullet stating the official start/end window of the FotMob Predict World Cup 2026 contest. Do NOT translate the dates, times, or \"ET\" (Eastern Time) — these must match the Official Rules verbatim. You may translate \"Contest runs from … to …\" but keep the date/time tokens intact. Example (German): \"Der Wettbewerb läuft vom June 11, 2026, 3:00 PM ET bis July 19, 2026, 6:00 PM ET.\"",
+      "english": "Contest runs from June 11, 2026, 3:00 PM ET to July 19, 2026, 6:00 PM ET.",
+      "value": "Der Wettbewerb läuft vom June 11, 2026, 3:00 PM ET bis July 19, 2026, 6:00 PM ET."
+    },
+    "seo_prizes_summary_free_to_enter": {
+      "comment": "First bullet in the FotMob Predict World Cup 2026 prizes summary. This is sweepstakes boilerplate required by US contest law — every clause must be preserved: (a) entry is free, (b) no purchase needed, (c) US residents only, (d) 18 and older. The \"18+\" notation can be rendered as your locale prefers (\"18 ans et plus\", \"ab 18 Jahren\", etc.). \"US residents\" must remain \"US\" — do not localise to \"American\" or expand to \"United States of America\" unless your language requires it. Do not soften the eligibility language — accuracy here is legally required.",
+      "english": "Free to enter. No purchase necessary. Open to US residents aged 18+.",
+      "value": "Kostenlos teilnehmen. Kein Kauf erforderlich. Teilnahme nur für US-Einwohner ab 18 Jahren."
+    },
+    "seo_prizes_summary_one_account": {
+      "comment": "Final eligibility bullet in the FotMob Predict World Cup 2026 prizes summary. Short. Clear. Don't elaborate (\"Each participant may register only one account\") unless that's how your locale would phrase such a rule.",
+      "english": "One account per person.",
+      "value": "Ein Konto pro Person."
+    },
+    "seo_prizes_summary_ordinary_time": {
+      "comment": "Longest bullet in the FotMob Predict World Cup 2026 prizes summary. Two parts joined by an em-dash: (1) which match phase the prediction refers to — 90 minutes + stoppage time, not extra time, not penalty shootout; (2) practical advice — if you expect knockout extra time, pick a draw. Use the locale's football-specific terms: \"stoppage time\" → injury time / Nachspielzeit / temps additionnel etc.; \"extra time\" → the extra 30 minutes after 90 (NOT stoppage time); \"penalties\" → penalty shootout (not penalty kicks during regular play); \"knockout match\" → elimination/knockout round game. Keep the em-dash structure if your locale uses em-dashes; otherwise use a sentence break.",
+      "english": "All predictions are for the score at the end of 90 minutes (plus stoppage time). Extra time and penalties don't count — if you think a knockout match will go to extra time, predict a draw.",
+      "value": "Alle Tipps beziehen sich auf den Spielstand nach 90 Minuten (inkl. Nachspielzeit). Verlängerung und Elfmeterschießen zählen nicht — wenn du glaubst, dass ein K.-o.-Spiel in die Verlängerung geht, tippe auf ein Unentschieden."
+    },
+    "seo_prizes_summary_predict_each_match": {
+      "comment": "Bullet describing the core gameplay action in the FotMob Predict World Cup 2026 prizes summary. \"Result\" here means the final score outcome (win/draw/loss + score). \"Kickoff\" is the football term for match start — use the locale's football-specific term (\"coup d'envoi\", \"Anpfiff\", etc.), not a generic \"before the match starts\". Preserve \"World Cup\" verbatim.",
+      "english": "Predict the result of each World Cup match before kickoff.",
+      "value": "Tippe das Ergebnis jedes World Cup-Spiels vor dem Anpfiff."
+    },
+    "seo_prizes_summary_prize": {
+      "comment": "Bullet describing the prize in the FotMob Predict World Cup 2026 prizes summary. Two sentences: (1) explains who wins (highest-ranked US user when the tournament ends), what they win (PS5), and the approximate retail value; (2) tiebreaker rule (random draw — not e.g. \"earliest score\" or \"most perfect predictions\"). Keep \"PlayStation 5\" and \"US$499.99\" verbatim. \"approx. value\" is shorthand for \"approximate retail value\" — feel free to write it out if your locale doesn't shorten \"approximate\" the same way.",
+      "english": "Top of the US leaderboard at the end of the tournament wins a PlayStation 5 (approx. value US$499.99). Ties broken by random drawing.",
+      "value": "Der/die Erstplatzierte der US-Bestenliste am Ende des Turniers gewinnt eine PlayStation 5 (ungefährer Verkaufswert: US$499.99). Bei Gleichstand entscheidet das Los."
+    },
+    "seo_prizes_summary_three_points_score": {
+      "comment": "Scoring rule bullet in the FotMob Predict World Cup 2026 prizes summary. Keep \"3 points\" with the numeral. \"Scoreline\" is the football term for the final score (e.g. 2–1). Use your locale's football-specific term — not \"score\" if \"scoreline\" has a distinct meaning in the language. The 3 points is inclusive of the 2-point outcome award (not 5 total) — but that nuance lives in the full Official Rules page, not in this summary.",
+      "english": "3 points for the exact scoreline.",
+      "value": "3 Punkte für den exakten Endstand."
+    },
+    "seo_prizes_summary_two_points_outcome": {
+      "comment": "Scoring rule bullet in the FotMob Predict World Cup 2026 prizes summary. Keep \"2 points\" with the numeral. \"Correct outcome\" means correctly picking who wins or that it's a draw, without needing the exact score. \"Winner or draw\" is the clarifying parenthetical — render the parenthetical as your locale standardly formats parenthetical lists.",
+      "english": "2 points for the correct outcome (winner or draw).",
+      "value": "2 Punkte für den richtigen Ausgang (Sieg oder Unentschieden)."
+    },
+    "seo_prizes_view_official_rules": {
+      "comment": "Link CTA in the FotMob Predict World Cup 2026 prizes dropdown that opens the full legal rules page. Should be short and unambiguous — it's a \"click here to read the legal terms\" call to action. \"Official Rules\" is the formal/legal name of the document; in some languages legal documents are conventionally capitalised — follow that convention.",
+      "english": "View Official Rules",
+      "value": "Offizielle Regeln ansehen"
+    },
+    "seo_probability_label": {
+      "comment": "Title for the probability filter in the transfer centre. Filters for low probability, medium probability and high probability rumours. See low_probability. See medium_probability. See high_probability.",
+      "english": "Probability",
+      "value": "Wahrscheinlichkeit"
+    },
+    "seo_publish": {
+      "comment": "Text for the Publish button. Clicking the button will post the pulse item to the ticker.",
+      "english": "Publish",
+      "value": "Veröffentlichen"
+    },
+    "seo_publish_changes": {
+      "comment": "Text for the Publish changes button. Clicking the button will post the pulse edited item to the ticker.",
+      "english": "Publish changes",
+      "value": "Änderungen veröffentlichen"
+    },
+    "seo_pulse_match_search_placeholder": {
+      "comment": "Placeholder text shown in the dropdown that lets the user search for a football match to open in the Pulse admin tool.",
+      "english": "Search for a match",
+      "value": "Nach einem Spiel suchen"
+    },
+    "seo_pulse_turn_off_description": {
+      "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned on in Pulse Admin.",
+      "english": "Turning off Pulse will turn off reactions and hide the pulse items and polls that have been added to the match commentary.",
+      "value": "Wenn du Pulse deaktivierst, werden Reaktionen deaktiviert und hinzugefügte Pulse-Elemente und Umfragen aus dem Spielkommentar ausgeblendet."
+    },
+    "seo_pulse_turn_on_description": {
+      "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned off in Pulse Admin.",
+      "english": "Turn on Pulse to be able to add and show custom items and polls in the match commentary.",
+      "value": "Pulse aktivieren, um eigene Elemente und Umfragen im Spielkommentar hinzufügen und anzeigen zu können."
     },
     "seo_q1of16finals": {
       "comment": "Indicator in a table who qualifies for the 1/16 Finals (Round of 32). See [roundof32].",
@@ -10798,6 +11375,11 @@
       "comment": "Indicator in a table who qualifies for the 1/8 Finals (Round of 16). See [roundof16].",
       "english": "Qualification to 1/8 Finals",
       "value": "Qualifikation für das Achtelfinale"
+    },
+    "seo_question_label": {
+      "comment": "Label text for the question field in the create/edit poll form.",
+      "english": "Question",
+      "value": "Frage"
     },
     "seo_random_draw": {
       "comment": "A header indicating matches that have been drawn as part of the random draw deciding who will meet in the playoff. Not to be confused with two teams that plays a match that ends in a draw!",
@@ -10823,6 +11405,11 @@
       "comment": "Used to let user know they can remove something",
       "english": "Remove",
       "value": "Entfernen"
+    },
+    "seo_remove_alternative": {
+      "comment": "Button text for a button that removes an alternative field from the form.",
+      "english": "Remove alternative",
+      "value": "Alternative entfernen"
     },
     "seo_remove_user_from_league": {
       "comment": "Title for button that a league admin clicks to remove a user from a league",
@@ -10851,6 +11438,16 @@
       "comment": "Used to indicate when the subscription will renew tomorrow. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "english": "Renews tomorrow",
       "value": "Wird morgen verlängert"
+    },
+    "seo_reopen_poll": {
+      "comment": "Button text for the button that opens the poll and makes it possible to vote on it for 5 more minutes.",
+      "english": "Reopen for 5 minutes",
+      "value": "Für 5 Min. wieder öffnen"
+    },
+    "seo_replace_upload_file_description": {
+      "comment": "Description text for how to replace the image you want to upload. Shown on a drop area that sets the file to upload if it is dropped, and opens the file explorer if the user clicks on the area.",
+      "english": "Drag and drop or click to replace",
+      "value": "Zum Ersetzen ziehen und ablegen oder klicken"
     },
     "seo_restart_now": {
       "comment": "Text for button that will restart the app.",
@@ -10895,6 +11492,16 @@
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
       "value": "Achtelfinale-Playoff"
+    },
+    "seo_rumour": {
+      "comment": "Label for a transfer rumour. A transfer rumour is an unconfirmed transfer that is reported by the media. See transfer. See rumours.",
+      "english": "Rumor",
+      "value": "Gerücht"
+    },
+    "seo_rumours": {
+      "comment": "Title for the rumours section in the transfer centre.",
+      "english": "Rumors",
+      "value": "Gerüchte"
     },
     "seo_running_the_latest_version": {
       "comment": "Used as a short toast to the user to tell the latest version of FotMob is already installed.",
@@ -10971,6 +11578,27 @@
       "english": "Secs",
       "value": "Sek."
     },
+    "seo_seconds_countdown_short_plural": {
+      "comment": "Short abbreviation for \"seconds\" used as a standalone label below a number in a countdown timer. Should be concise.",
+      "english_plurals": {
+        "one": "Sec",
+        "other": "Secs"
+      },
+      "plurals": {
+        "one": "Sek.",
+        "other": "Sek."
+      }
+    },
+    "seo_select_existing_image": {
+      "comment": "Label text for a button that lets the user select an existing image instead of uploading a new one.",
+      "english": "Select existing Pulse image",
+      "value": "Vorhandenes Pulse-Bild auswählen"
+    },
+    "seo_select_fan_type": {
+      "comment": "Placeholder text for a dropdown that lets the user select fan type (home team, away team or neutral).",
+      "english": "Select fan type",
+      "value": "Fan-Typ auswählen"
+    },
     "seo_set_piece_goals": {
       "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
       "english": "Set piece goals",
@@ -10995,6 +11623,11 @@
       "comment": "Checkbox option to show country badge next to the player images in the lineupbuilder. see [lineup_builder].",
       "english": "Show country",
       "value": "Land anzeigen"
+    },
+    "seo_show_loans": {
+      "comment": "Text for a filter that toggles the visibility of loan transfers in the transfer list. See on_loan_transfers",
+      "english": "Show loans",
+      "value": "Leihen anzeigen"
     },
     "seo_sign_in_to_fotmob_predict": {
       "comment": "Title for the sign in dialogue in the predictor game. Don't translate \"FotMob Predict\".",
@@ -11360,6 +11993,11 @@
       "english": "Source",
       "value": "Quelle"
     },
+    "seo_source_label": {
+      "comment": "Label text for the image source field in the add image form. The input should be where we got the image from.",
+      "english": "Source",
+      "value": "Quelle"
+    },
     "seo_sprints_per_90": {
       "comment": "A label indicating how many sprints a player has taken per 90 minutes.",
       "english": "Sprints per 90",
@@ -11379,6 +12017,11 @@
       "comment": "Call to action to view subscription terms and conditions.",
       "english": "Subscription Terms and Conditions",
       "value": "Abonnementbedingungen und Konditionen"
+    },
+    "seo_subcontent_label": {
+      "comment": "Label text for the subcontent field in a form. The subcontent field is the secondary text field in the form.",
+      "english": "Subcontent",
+      "value": "Sekundärtext"
     },
     "seo_submit": {
       "comment": "Used as call to action for submit button in troubleshooting mail.",
@@ -11415,6 +12058,11 @@
       "english": "Suggested players",
       "value": "Vorgeschlagene Spieler"
     },
+    "seo_summer_window": {
+      "comment": "Transfer window during the summer of input year. Shown in transfer window dropdown, keep it concise as the transfer context is implied. E.g. \"2025 summer window\". Keep year first if grammatically doable.",
+      "english": "%d summer window",
+      "value": "%d Sommerfenster"
+    },
     "seo_support_fotmob": {
       "comment": "One of FotMob+ features",
       "english": "Support FotMob",
@@ -11424,6 +12072,16 @@
       "comment": "A description for the \"Support FotMob\" FotMob+ feature.",
       "english": "Help support the ongoing development of FotMob.",
       "value": "Unterstützen Sie die laufende Entwicklung von FotMob."
+    },
+    "seo_switch_to_rumours": {
+      "comment": "String on the button that changes from showing transfers to showing rumours. See rumours.",
+      "english": "Switch to rumors",
+      "value": "Zu Gerüchten wechseln"
+    },
+    "seo_switch_to_transfers": {
+      "comment": "String on the button that changes from showing rumours to showing transfers. See transfer. See switch_to_rumours.",
+      "english": "Switch to transfers",
+      "value": "Zu Transfers wechseln"
     },
     "seo_team_added_to_following": {
       "comment": "Pop up after clicking follow on a team. See translation for \"team,match_added_to_following\"",
@@ -11529,6 +12187,11 @@
       "english": "Division",
       "value": "Liga"
     },
+    "seo_text_label": {
+      "comment": "Label text for the text content field in a form.",
+      "english": "Text",
+      "value": "Text"
+    },
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
       "english": "Thank you for your feedback!",
@@ -11564,6 +12227,16 @@
       "english": "Tap to view career history",
       "value": "Antippen, um Karriereverlauf anzuzeigen."
     },
+    "seo_title_label": {
+      "comment": "Label text for the title field in a form.",
+      "english": "Title",
+      "value": "Titel"
+    },
+    "seo_top_transfers_compact": {
+      "comment": "See top_transfers. This is a shorter version of the same text. Used in a segment control where space is limited. Keep the existing translation, unless it is more than 20 characters.",
+      "english": "Top transfers",
+      "value": "Top-Wechsel"
+    },
     "seo_toppicks_predictor_cta": {
       "comment": "Call to action for getting users to play the FotMob's Top Picks predictor game with every week features a selection of matches from the top leagues.",
       "english": "Every week it features a selection of matches from the top leagues.",
@@ -11572,6 +12245,11 @@
     "seo_tots": {
       "english": "Team of the Season",
       "value": "Mannschaft der Saison"
+    },
+    "seo_transfer_type": {
+      "comment": "Header for filters that select which transfers to show. E.g. all transfers, top transfers, loans, extensions. See transfers.",
+      "english": "Transfer type",
+      "value": "Transfertyp"
     },
     "seo_transfers_in_short": {
       "comment": "Label for a button to filter transfers in a transfers list. Important: Keep it very short or abbreviated, should fit in a tight ui - max 5 characters. See players_in",
@@ -11630,6 +12308,11 @@
       "english": "Try our lineup builder",
       "value": "Probiere unseren Aufstellungsplaner aus"
     },
+    "seo_tv_guide_channel_heading": {
+      "comment": "Page title for TV guide filtered by channel name. %@ is the channel name (e.g., \"BBC\" -> \"Football on BBC\")",
+      "english": "Football on %@",
+      "value": "Fußball auf %@"
+    },
     "seo_tv_guide_country_heading": {
       "comment": "Page title for TV guide filtered by country. %@ is the country name (e.g., \"Football TV Schedules in United Kingdom\")",
       "english": "Football TV Schedules in %@",
@@ -11645,6 +12328,11 @@
       "english": "Matches on %@",
       "value": "Spiele auf %@"
     },
+    "seo_type_label": {
+      "comment": "Label text for the alternative type field.",
+      "english": "Type",
+      "value": "Typ"
+    },
     "seo_type_of_issue": {
       "comment": "Used for title in troubleshooting mail.",
       "english": "Type of issue",
@@ -11659,6 +12347,16 @@
       "comment": "Used inside parentheses behind version number - should use \"mid-sentence case\".",
       "english": "update available",
       "value": "Update verfügbar"
+    },
+    "seo_upload_file": {
+      "comment": "Header text for the image upload button.",
+      "english": "Upload a file",
+      "value": "Datei hochladen"
+    },
+    "seo_upload_file_description": {
+      "comment": "Description text for how to upload an image. shown on a drop area that uploads a file if it is dropped, and opens the file explorer if the user clicks on the area.",
+      "english": "Drag and drop or click to upload",
+      "value": "Ziehen und ablegen oder zum Hochladen klicken"
     },
     "seo_view_all_plans": {
       "comment": "Call to action for viewing all available subscription plans.",
@@ -11771,6 +12469,11 @@
       "english": "New matches are available. Make your predictions before kickoff!",
       "value": "Neue Spiele verfügbar. Gib deine Tipps vor dem Anpfiff ab!"
     },
+    "seo_weekly_predictor_notification_title": {
+      "comment": "Notification title mentioning that new Fotmob Predictor matches are now open.",
+      "english": "Time to predict!",
+      "value": "Zeit zu tippen!"
+    },
     "seo_weekly_predictor_reminders": {
       "comment": "A toggle to turn on/off weekly predictor reminders. Don't translate \"FotMob Predict\"",
       "english": "Weekly FotMob Predict reminders",
@@ -11801,10 +12504,25 @@
       "english": "Winner",
       "value": "Sieger"
     },
+    "seo_winter_window": {
+      "comment": "Transfer window during the winter of input year. Shown in transfer window dropdown, keep it concise as the transfer context is implied. E.g. \"2024 winter window\". See summer_window. Keep year first if grammatically doable.",
+      "english": "%d winter window",
+      "value": "%d Winterfenster"
+    },
     "seo_women": {
       "comment": "Text to show in a toggle to switch between showing FIFA rankings for men and FIFA rankings for women.",
       "english": "Women",
       "value": "Frauen"
+    },
+    "seo_world_cup_widget_onboarding_body": {
+      "comment": "World Cup widget onboarding bottom sheet body text.",
+      "english": "Add the widget to your home screen for real-time scores and updates.",
+      "value": "Füge das Widget zu deinem Startbildschirm hinzu, um Live-Ergebnisse und Updates in Echtzeit zu erhalten."
+    },
+    "seo_world_cup_widget_onboarding_title": {
+      "comment": "World Cup widget onboarding bottom sheet title. The country name is inserted at the placeholder.",
+      "english": "Follow %@ from your home screen",
+      "value": "%@ auf deinem Startbildschirm verfolgen"
     },
     "seo_x_matches": {
       "comment": "Used for the betting slip to show how many matches you have selected.",
@@ -11816,6 +12534,11 @@
         "one": "1 Spiel",
         "other": "%d Spiele"
       }
+    },
+    "seo_x_minutes": {
+      "comment": "Label text for eg the \"5 Minutes\" and \"15 Minutes\" options of the active until field.",
+      "english": "%@ Minutes",
+      "value": "%@ Min."
     },
     "seo_xg_table_explanation": {
       "comment": "Text for explaining what the xG table is. The text has newline seperators in it.",
