@@ -11844,7 +11844,7 @@
     "seo_site_title_league_news": {
       "comment": "SEO title for league news page showing latest news and transfer rumours. %@ is the league name",
       "english": "%@ - latest news, transfer rumours and updates",
-      "value": "خولی ​%@ - نوێترین هەواڵەکان، دەنگۆکانی گواستنەوە و گۆڕانکارییەکان"
+      "value": "خولی %@ - نوێترین هەواڵەکان، دەنگۆکانی گواستنەوە و گۆڕانکارییەکان"
     },
     "seo_site_title_league_overview": {
       "comment": "Title for the page for a single league or tournament. Containing tables, matches, news and stats for the league. With the league name, and season name as input. Eg \"Premier League matches, tables and news 2021/2022\"",
