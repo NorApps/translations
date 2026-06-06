@@ -3763,12 +3763,12 @@
     "common_fun_fact_joint_most_defensive_contributions": {
       "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Had the joint-most defensive contributions (%1$@)",
-      "value": "یەکێک بوو لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەبوو (%1$@) بەشداری بەرگری"
+      "value": "یەکێک بوو لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەبوو (%1$@)"
     },
     "common_fun_fact_joint_most_defensive_contributions_live": {
       "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Has the joint-most defensive contributions (%1$@)",
-      "value": "یەکێکە لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەیە (%1$@) بەشداری بەرگری"
+      "value": "یەکێکە لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەیە (%1$@)"
     },
     "common_fun_fact_joint_most_distance_covered": {
       "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
@@ -4577,7 +4577,7 @@
     "common_lineup_builder_more_desc": {
       "comment": "The fotmob lineup builder feature description in the more tab",
       "english": "Build your own FotMob lineup",
-      "value": "پێکهاتەی تایبەت بە خۆت لە فوتمۆب دروست بکە"
+      "value": "پێکهاتەی تایبەت بە خۆت لە FotMob دروست بکە"
     },
     "common_lineup_builder_onboarding_desc": {
       "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
@@ -6881,7 +6881,7 @@
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
-      "value": "لەسەر قوفڵی شاشەکەت چاودێری جامی جیھانی مۆندیال بکە"
+      "value": "لەسەر قوفڵی شاشەکەت چاودێری جامی جیهانی مۆندیال بکە"
     },
     "ios_last_matches": {
       "comment": "Header for a teams last played matches.",
@@ -10072,7 +10072,7 @@
     "seo_delete_item_description": {
       "comment": "Dialog text for the delete item dialog. Warns the user that the pulse item will be permanently deleted from the ticker feed if the user continues the action.",
       "english": "This action cannot be undone. This will permanently delete this pulse item from the ticker.",
-      "value": "ئەم کردارە ناگەڕێندرێتەوە. ئەمە بەیەکجاری ئەم بابەتە نووسراوە لە شریتی نوێکارییەکان دەسڕێتەوە."
+      "value": "ئەم کردارە ناتوانرێت هەڵبوەشێنرێتەوە. ئەمە ئەم بابەتی «Pulse» بە شێوەی هەمیشەیی لە «Ticker» دەسڕێتەوە."
     },
     "seo_delete_item_title": {
       "comment": "Dialog text for the delete item dialog that is shown to make sure the user actually wants to delete the item.",
@@ -11035,7 +11035,7 @@
     "seo_only_pulse_items": {
       "comment": "Text on button that filters the ticker feed so it only shows the Pulse items.",
       "english": "Only Pulse items",
-      "value": "تەنها بابەتە نووسراوەکان"
+      "value": "تەنها بابەتەکانی Pulse"
     },
     "seo_open_sidebar": {
       "comment": "Accessibility label for opening the sidebar on iPad. Used for VoiceOver.",
@@ -11302,7 +11302,7 @@
     "seo_predictor_final_week_disclaimer_description": {
       "comment": "Description text for the final week of the predictor, letting users know that the feature will be back next season, and promoting the World Cup predictor game in the meantime. Keep \"Top Picks\" and \"predictor\" in English, and \"\\n\"-indicators. Use the local translation of world cup, see world_cup",
       "english": "Thanks for playing! Weekly Top Picks will be back next season. \\n\\nIn the meantime, play the World Cup predictor.",
-      "value": "سوپاس بۆ بەشداریکردنتان! باشترینەکانی هەفتە لە وەرزی داهاتوودا دەگەڕێتەوە. \\n\\nلەم نێوەندەشدا، یاری پێشبینیکردنی جامی جیهانی مۆندیال بکە."
+      "value": "سوپاس بۆ یاریکردن! Weekly Top Picks لە وەرزی داهاتوودا دەگەڕێتەوە. \\n\\nلە نێواندا، predictor ـی مۆندیالی فیفا یاری بکە."
     },
     "seo_predictor_final_week_disclaimer_title": {
       "comment": "Short title disclaimer for the predictor game saying week 41 will be the final week of the game's season.",
@@ -11342,7 +11342,7 @@
     "seo_prizes_summary_free_to_enter": {
       "comment": "First bullet in the FotMob Predict World Cup 2026 prizes summary. This is sweepstakes boilerplate required by US contest law — every clause must be preserved: (a) entry is free, (b) no purchase needed, (c) US residents only, (d) 18 and older. The \"18+\" notation can be rendered as your locale prefers (\"18 ans et plus\", \"ab 18 Jahren\", etc.). \"US residents\" must remain \"US\" — do not localise to \"American\" or expand to \"United States of America\" unless your language requires it. Do not soften the eligibility language — accuracy here is legally required.",
       "english": "Free to enter. No purchase necessary. Open to US residents aged 18+.",
-      "value": "بەشداریکردن بێبەرامبەرە. پێویست بە کڕین ناکات. تەنها بۆ دانیشتووانی ئەمریکا تەمەن +18."
+      "value": "بەخۆڕایی دەتوانیت بەشداری بکەیت. کڕین پێویست نییە. تەنها بۆ نیشتەجێبووانی US بە تەمەنی 18+."
     },
     "seo_prizes_summary_one_account": {
       "comment": "Final eligibility bullet in the FotMob Predict World Cup 2026 prizes summary. Short. Clear. Don't elaborate (\"Each participant may register only one account\") unless that's how your locale would phrase such a rule.",
@@ -11357,12 +11357,12 @@
     "seo_prizes_summary_predict_each_match": {
       "comment": "Bullet describing the core gameplay action in the FotMob Predict World Cup 2026 prizes summary. \"Result\" here means the final score outcome (win/draw/loss + score). \"Kickoff\" is the football term for match start — use the locale's football-specific term (\"coup d'envoi\", \"Anpfiff\", etc.), not a generic \"before the match starts\". Preserve \"World Cup\" verbatim.",
       "english": "Predict the result of each World Cup match before kickoff.",
-      "value": "پێشبینی ئەنجامی هەر یارییەکی جامی جیهانی مۆندیال بکە پێش دەستپێکردنی یاریەکە"
+      "value": "پێشبینی ئەنجامی هەر یارییەکی World Cup بکە پێش سوتی دەستپێک."
     },
     "seo_prizes_summary_prize": {
       "comment": "Bullet describing the prize in the FotMob Predict World Cup 2026 prizes summary. Two sentences: (1) explains who wins (highest-ranked US user when the tournament ends), what they win (PS5), and the approximate retail value; (2) tiebreaker rule (random draw — not e.g. \"earliest score\" or \"most perfect predictions\"). Keep \"PlayStation 5\" and \"US$499.99\" verbatim. \"approx. value\" is shorthand for \"approximate retail value\" — feel free to write it out if your locale doesn't shorten \"approximate\" the same way.",
       "english": "Top of the US leaderboard at the end of the tournament wins a PlayStation 5 (approx. value US$499.99). Ties broken by random drawing.",
-      "value": "پێشەنگی ڕیزبەندی ئەمریکا لە کۆتایی پاڵەوانیەتییەکەدا پلەیستەیشن 5 دەباتەوە (نرخی نزیکەی 499.99$ دۆلاری ئەمریکیە). لەکاتی یەکسانبووندا براوە بە تیروپشک دیاری دەکرێت."
+      "value": "سەرەوەی ڕیزبەندی US لە کۆتایی پاڵەوانێتییەکە PlayStation 5 دەبات (نرخی نزیکەی فرۆشتن: US$499.99). لە کاتی یەکسانبووندا، بە هەڵبژاردنی هەڕەمەکی بە قرعە یەکێک دیاری دەکرێت."
     },
     "seo_prizes_summary_three_points_score": {
       "comment": "Scoring rule bullet in the FotMob Predict World Cup 2026 prizes summary. Keep \"3 points\" with the numeral. \"Scoreline\" is the football term for the final score (e.g. 2–1). Use your locale's football-specific term — not \"score\" if \"scoreline\" has a distinct meaning in the language. The 3 points is inclusive of the 2-point outcome award (not 5 total) — but that nuance lives in the full Official Rules page, not in this summary.",
@@ -11402,12 +11402,12 @@
     "seo_pulse_turn_off_description": {
       "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned on in Pulse Admin.",
       "english": "Turning off Pulse will turn off reactions and hide the pulse items and polls that have been added to the match commentary.",
-      "value": "کوژاندنەوەی نووسراوەکان دەبێتە هۆی ناچالاککردنی کاردانەوەکان و شاردنەوەی بابەتە نووسراوەکان و ئەو ڕاپرسییانەی کە بۆ شرۆڤەی یارییەکە زیادکراون."
+      "value": "خامۆشکردنی Pulse واکنشەکان ناچالاک دەکات و ئەو ئایتم و ڕاپرسییەکانی Pulse ـی کە بۆ کۆمێنتاری یاری زیادکراون دەشارێنەوە."
     },
     "seo_pulse_turn_on_description": {
       "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned off in Pulse Admin.",
       "english": "Turn on Pulse to be able to add and show custom items and polls in the match commentary.",
-      "value": "نووسراوەکان چالاک بکە بۆ ئەوەی بتوانیت بابەتە نووسراوەکان و ڕاپرسیی تایبەت بۆ ناو شرۆڤەی یارییەکە زیاد بکەیت و پیشانیان بدەیت."
+      "value": "Pulse چالاک بکە بۆ ئەوەی بتوانیت بڕگە تایبەتییەکان و ڕاپرسییەکان زیاد بکەیت و لە کۆمێنتاری یارییەکە پیشان بدەیت."
     },
     "seo_q1of16finals": {
       "comment": "Indicator in a table who qualifies for the 1/16 Finals (Round of 32). See [roundof32].",
@@ -11670,12 +11670,12 @@
     "seo_select_existing_image": {
       "comment": "Label text for a button that lets the user select an existing image instead of uploading a new one.",
       "english": "Select existing Pulse image",
-      "value": "هەڵبژاردنی وێنەی بابەتە نووسراوەکانی پێشوو"
+      "value": "وێنەی Pulseی ئامادە هەڵبژێرە"
     },
     "seo_select_fan_type": {
       "comment": "Placeholder text for a dropdown that lets the user select fan type (home team, away team or neutral).",
       "english": "Select fan type",
-      "value": "جۆری هاندەر هەڵبژێره‌"
+      "value": "جۆری هاندەر هەڵبژێرە"
     },
     "seo_set_piece_goals": {
       "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
@@ -11855,7 +11855,7 @@
     "seo_site_description_team_stats": {
       "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
       "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
-      "value": "ئامارە وردەکانی یاریزانان و یانەی %@، لەگەڵ هەڵسەنگاندنەکان، گۆڵەکان،ئەسیستەکان، کلین شیت، لێدانەکانی ناو گۆڵ و ئاستی وەرزەکە."
+      "value": "ئامارە وردەکانی یاریزانان و یانەی %@، لەگەڵ هەڵسەنگاندنەکان، گۆڵەکان، ئەسیستەکان، کلین شیت، لێدانەکانی ناو گۆڵ و ئاستی وەرزەکە."
     },
     "seo_site_description_team_table": {
       "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
@@ -12064,7 +12064,7 @@
     "seo_site_title_tv_guide": {
       "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
       "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
-      "value": "خشتەی یارییەکانی تۆپی پێ لە %@ - بە ڕاستەوخۆ لە تەلەفزیۆن ببینە | فوتمۆب"
+      "value": "خشتەی یارییەکانی تۆپی پێ لە %@ - بە ڕاستەوخۆ لە تەلەفزیۆن ببینە | FotMob"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
