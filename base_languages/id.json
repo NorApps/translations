@@ -10066,6 +10066,41 @@
       "english": "Are you absolutely sure?",
       "value": "Anda benar-benar yakin?"
     },
+    "seo_delete_league": {
+      "comment": "Label for a destructive button that opens a confirmation dialog to permanently delete a private prediction league. Imperative, short — visually styled red. Sentence case.",
+      "english": "Delete league",
+      "value": "Hapus liga"
+    },
+    "seo_delete_league_confirm": {
+      "comment": "Body text of the delete-confirmation dialog. %1$s is the current league name as the user typed it; render it inside the quotation marks. The whole sentence is a question and ends with a question mark. Keep the quotation marks around the placeholder so the name visually stands out.",
+      "english": "Are you sure you want to delete \"%1$s\"?",
+      "value": "Apakah Anda yakin ingin menghapus \"%1$s\"?"
+    },
+    "seo_delete_league_confirm_button": {
+      "comment": "Label on the destructive primary button inside the delete-confirmation dialog. Single word, imperative. Paired with a separate \"Cancel\" button (reuses the existing `cancel` key).",
+      "english": "Delete",
+      "value": "Hapus"
+    },
+    "seo_delete_league_error": {
+      "comment": "Error toast when the delete request fails (network or server error). Two short sentences. First states what failed, second suggests a retry.",
+      "english": "Could not delete league. Please try again.",
+      "value": "Tidak dapat menghapus liga. Silakan coba lagi."
+    },
+    "seo_delete_league_success": {
+      "comment": "Success toast shown briefly after the league is deleted. Short fragment, no trailing period (toast convention). Past tense.",
+      "english": "League deleted",
+      "value": "Liga dihapus"
+    },
+    "seo_delete_league_title": {
+      "comment": "Title of the delete-confirmation dialog. Matches the destructive button that opened it. Sentence case, no trailing punctuation.",
+      "english": "Delete league",
+      "value": "Hapus liga"
+    },
+    "seo_delete_league_warning": {
+      "comment": "Warning shown directly under the confirm question in the delete dialog, visually emphasized in red. Single short sentence, ends with a period. Stresses irreversibility — do not soften.",
+      "english": "This action cannot be undone.",
+      "value": "Tindakan ini tidak dapat dibatalkan."
+    },
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
       "english": "Describe your issue",
@@ -10649,6 +10684,11 @@
       "comment": "Text explaining that the the current match is a match in the given round or stage in the given league or competition. Eg. \"This is round 12 of the Eliteserien.\"",
       "english": "This is %1$@ of the %2$@.",
       "value": "Ini %1$@ dari %2$@."
+    },
+    "seo_league_name": {
+      "comment": "Field label above the league-name text input in the rename dialog. Noun, sentence case.",
+      "english": "League name",
+      "value": "Nama liga"
     },
     "seo_league_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
@@ -11401,6 +11441,41 @@
       "english": "Remove user",
       "value": "Hapus pengguna"
     },
+    "seo_rename_league": {
+      "comment": "Label for a button that opens a dialog to rename a private prediction league. Imperative, short — fits a button in a row of similar actions (Share / Rename / Leave). Sentence case.",
+      "english": "Rename league",
+      "value": "Ganti nama liga"
+    },
+    "seo_rename_league_error": {
+      "comment": "Error toast when the rename request fails (network or server error). Two short sentences. First states what failed, second suggests a retry.",
+      "english": "Could not rename league. Please try again.",
+      "value": "Tidak dapat mengganti nama liga. Silakan coba lagi."
+    },
+    "seo_rename_league_invalid_name": {
+      "comment": "Inline form error when the league name fails a profanity / disallowed-words check. Neutral phrasing — do not specify the reason or list the blocked words. Ends with a period.",
+      "english": "This league name is not allowed.",
+      "value": "Nama liga ini tidak diizinkan."
+    },
+    "seo_rename_league_name_required": {
+      "comment": "Inline form error shown under the input when the user submits an empty / whitespace-only league name. Direct imperative, ends with a period.",
+      "english": "Enter a league name.",
+      "value": "Masukkan nama liga."
+    },
+    "seo_rename_league_name_too_long": {
+      "comment": "Inline form error when the league name exceeds 50 characters. Statement, ends with a period.",
+      "english": "League name is too long.",
+      "value": "Nama liga terlalu panjang."
+    },
+    "seo_rename_league_success": {
+      "comment": "Success toast shown briefly after the league is renamed. Short fragment, no trailing period (toast convention). Past tense.",
+      "english": "League renamed",
+      "value": "Nama liga diubah"
+    },
+    "seo_rename_league_title": {
+      "comment": "Title of the rename dialog. Matches the button label that opened it. Sentence case, no trailing punctuation.",
+      "english": "Rename league",
+      "value": "Ganti nama liga"
+    },
     "seo_renews_in": {
       "comment": "Used to indicate when the subscription will renew. From 0 to many days. Use \"today\" and \"tomorrow\" for 0 and 1 if that makes sense for that language.",
       "english_plurals": {
@@ -11612,6 +11687,21 @@
       "comment": "Text for a filter that toggles the visibility of loan transfers in the transfer list. See on_loan_transfers",
       "english": "Show loans",
       "value": "Tampilkan pinjaman"
+    },
+    "seo_sign_in_error_message": {
+      "comment": "Body paragraph below the title on the same error page. Also used as the toast message shown when a failed sign-in is detected inside a native app webview. Intentionally generic — we do not surface the underlying error code to the user. Tone: matter-of-fact, reassuring, not blaming the user.",
+      "english": "Something went wrong while signing in. Please try again.",
+      "value": "Terjadi kesalahan saat masuk. Silakan coba lagi."
+    },
+    "seo_sign_in_error_title": {
+      "comment": "Heading (h1) shown on a full-screen error page when an OAuth sign-in attempt fails (e.g. user cancelled at Google, blocked third-party cookies, provider misconfiguration). Also used as the browser tab title. Keep it short — it's a heading. Apostrophe is a real curly/straight apostrophe in source; match whatever your locale uses for contractions. Should read as a calm statement, not an alarmist exclamation.",
+      "english": "Couldn't sign in",
+      "value": "Tidak dapat masuk"
+    },
+    "seo_sign_in_error_try_again": {
+      "comment": "Label on the primary action button below the error message. Clicking it reopens the sign-in dialog so the user can pick a provider again. Imperative verb, single short phrase. Avoid translating as a noun.",
+      "english": "Try again",
+      "value": "Coba lagi"
     },
     "seo_sign_in_to_fotmob_predict": {
       "comment": "Title for the sign in dialogue in the predictor game. Don't translate \"FotMob Predict\".",

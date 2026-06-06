@@ -1,0 +1,1183 @@
+{
+  "language": "es-419",
+  "translations": {
+    "accessibility_attempt_saved": {
+      "comment": "A shot result description (attempt saved by keeper)",
+      "english": "Attempt saved",
+      "value": "Tiro atajado"
+    },
+    "accessibility_change_language_explanation": {
+      "comment": "Label indicating you can change the language of the app",
+      "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
+      "value": "Ve a Configuración y toca Idioma para elegir tu idioma preferido para FotMob.\\n\\nSi no hay configuración de idioma disponible, ve a la configuración de idioma de tu dispositivo para establecer un idioma preferido."
+    },
+    "accessibility_detailed_goal_data": {
+      "comment": "Used for expandable button on goal types in player profile.",
+      "english": "Shot details",
+      "value": "Detalles del tiro"
+    },
+    "accessibility_enable_push_description_live_activity": {
+      "comment": "Description for push reminder for live activities",
+      "english": "Enable push notifications to get live match updates on your lock screen",
+      "value": "Activa las notificaciones push para recibir actualizaciones de partidos en vivo en tu pantalla de bloqueo"
+    },
+    "accessibility_expected_goals_non_penalty": {
+      "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
+      "english": "Non-penalty xG",
+      "value": "xG sin penales"
+    },
+    "accessibility_favorites_widget_display_body": {
+      "comment": "Used as the display body for the favorites widget in the widget selection menu. Body of a widget that shows the matches you are following.",
+      "english": "View the matches you follow with live updates",
+      "value": "Ve los partidos que sigues con actualizaciones en vivo"
+    },
+    "accessibility_insights_average_goals_per_match": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Average [2.3] goals per match",
+      "english": "Average %1$@ goals per match",
+      "value": "Promedio de %1$@ goles por partido"
+    },
+    "accessibility_insights_average_stat": {
+      "comment": "The team averages a value for a particular stat. Example (image of Barcelona to the left of this text): \"Average [shots on target per match]: [7.8]\" where text inside brackets ([xxx]) are variables",
+      "english": "Average %1$@: %2$@",
+      "value": "Promedio de %1$@: %2$@"
+    },
+    "accessibility_insights_not_clean_sheet": {
+      "comment": "The team has not kept a clean sheet (conceded at least one goal) for a particular number of matches. Example: \"Haven't kept a clean sheet in 7 matches\"",
+      "english": "Haven't kept a clean sheet in %1$@ matches",
+      "value": "No ha mantenido la portería en cero en %1$@ partidos"
+    },
+    "accessibility_insights_not_won_away": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won an away game in their last (number greater than 2) matches",
+      "english": "Haven't won an away game in their last %1$@ matches",
+      "value": "no ha ganado un partido como visitante en sus %1$@ últimos partidos."
+    },
+    "accessibility_insights_penalties_awarded": {
+      "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
+      "english": "Have been awarded the most penalties this season (%1$@)",
+      "value": "Tiene el mayor número de penales a favor esta temporada (%1$@)"
+    },
+    "accessibility_insights_penalties_conceded": {
+      "comment": "The team has the record for conceding penalties in a season. Example: \"Have conceded the most penalties this season (13)\"",
+      "english": "Have conceded the most penalties this season (%1$@)",
+      "value": "Tiene el mayor número de penales en contra esta temporada (%1$@)"
+    },
+    "accessibility_insights_player_average_stat": {
+      "comment": "A player averages some number for a stat. Example: \"[Lionel Messi] averages [7.2] [shots on target]\" %2$@ signifies the stat while %3$@ is the value, so feel free to swap these if that is appropriate for the language.",
+      "english": "%1$@ averages %2$@ %3$@",
+      "value": "%1$@ tiene un promedio de %3$@ %2$@"
+    },
+    "accessibility_insights_player_goals_scored": {
+      "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
+      "english": "%1$@ is the competition's top scorer (%2$@)",
+      "value": "%1$@ es el máximo goleador de la competencia (%2$@)"
+    },
+    "accessibility_insights_player_most_shots_on_target_for_team": {
+      "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
+      "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)",
+      "value": "%1$@ tiene el mayor número de tiros al arco por partido para %2$@ (%3$@)"
+    },
+    "accessibility_insights_player_saves_per_match_rank_in_competition": {
+      "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
+      "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
+      "value": "%1$@ tiene el puesto %2$@ en atajadas por partido en la liga (%3$@)"
+    },
+    "accessibility_insights_shots_on_target_team_ranking": {
+      "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
+      "english": "Ranked %1$@ in shots on target per match (%2$@ shots)",
+      "value": "Puesto %1$@ en tiros al arco por partido (%2$@ tiros)"
+    },
+    "accessibility_invalid_code": {
+      "comment": "Error message indicating the code entered is invalid",
+      "english": "That didn't work. Please check that you entered the right code.",
+      "value": "Código no válido. Verifica que hayas ingresado el código correcto."
+    },
+    "accessibility_keeper_saves": {
+      "comment": "Stat for the number of keeper saves in the match",
+      "english": "Keeper saves",
+      "value": "Atajadas del portero"
+    },
+    "accessibility_league_widget_body": {
+      "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
+      "english": "View today's matches with live updates",
+      "value": "Ve los partidos de hoy con actualizaciones en vivo"
+    },
+    "accessibility_live_activities": {
+      "comment": "A new feature in iOS 16: See https://www.apple.com/[your-language-code]/ios/ios-16/ for the proper naming scheme",
+      "english": "Live Activities",
+      "value": "Actividades en vivo"
+    },
+    "accessibility_live_activity_added": {
+      "comment": "Used in toast when activating a live activity",
+      "english": "Live match added to your lock screen",
+      "value": "Partido en vivo agregado a la pantalla de bloqueo"
+    },
+    "accessibility_live_activity_alert_message": {
+      "comment": "Used as message on alert if user has not activated live activities",
+      "english": "Looks like you don't have live activities turned on",
+      "value": "Parece que no tienes las actividades en vivo activadas"
+    },
+    "accessibility_live_activity_alert_title": {
+      "comment": "Used as title on alert if user has not activated live activities",
+      "english": "Turn on live activities",
+      "value": "Activa las actividades en vivo"
+    },
+    "accessibility_live_activity_removed": {
+      "comment": "Used in toast when removing a live activity",
+      "english": "Live match removed from lock screen",
+      "value": "Partido en vivo eliminado de la pantalla de bloqueo"
+    },
+    "accessibility_midfielders": {
+      "comment": "A header for the list of midfielders",
+      "english": "Midfielders",
+      "value": "Mediocampistas"
+    },
+    "accessibility_myleaguespage_desc2": {
+      "english": "You will automatically be added to the Global League once the World Cup kicks off, where you can see your standing versus all players in the competition.",
+      "value": "Cuando empiece la Copa del Mundo, se te agregará automáticamente a la liga global, donde podrás ver tu posición en comparación con todos los jugadores de la competencia"
+    },
+    "accessibility_myleaguespage_desc2_v2": {
+      "english": "You will automatically be added to the Global League once the tournament kicks off, where you can see your standing versus all players in the competition.",
+      "value": "Cuando empiece el torneo, se te agregará automáticamente a la liga global, donde podrás ver tu posición en comparación con todos los jugadores de la competencia."
+    },
+    "accessibility_non_penalty_xg": {
+      "comment": "Expected goals for a player where we excluded the xG on penalties",
+      "english": "Non-penalty xG",
+      "value": "xG sin penales"
+    },
+    "accessibility_on_target": {
+      "comment": "Shorthand for shots on target.",
+      "english": "On target",
+      "value": "Al arco"
+    },
+    "accessibility_onboarding_newplayerprofile_section2": {
+      "comment": "Onboarding text of our new player profile page in the app",
+      "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
+      "value": "<b>Nueva página de estadísticas.</b> Profundiza en las estadísticas con, por ejemplo, mapas de tiros por temporada y tablas comparativas."
+    },
+    "accessibility_open_settings": {
+      "comment": "Label indicating you need to open the Settings page on iPhone",
+      "english": "Open settings",
+      "value": "Abrir Configuración"
+    },
+    "accessibility_penalty_goals_conceded": {
+      "comment": "Label used in stats for penalty goals conceded",
+      "english": "Penalty goals conceded",
+      "value": "Goles de penal recibidos"
+    },
+    "accessibility_penalty_saves": {
+      "comment": "Number of times a keeper has saved a penalty",
+      "english": "Penalty saves",
+      "value": "Penales atajados"
+    },
+    "accessibility_save_percentage": {
+      "comment": "Label used in stats for save percentage for keepers",
+      "english": "Save percentage",
+      "value": "Porcentaje de atajadas"
+    },
+    "accessibility_saves_per_90": {
+      "comment": "Label used in stats for saves per 90 min for keepers",
+      "english": "Saves per 90",
+      "value": "Atajadas por 90"
+    },
+    "accessibility_season_shot_map": {
+      "comment": "Used for seasonal shot map in player profile.",
+      "english": "Season shot map",
+      "value": "Mapa de tiros de la temporada"
+    },
+    "accessibility_shareleaguepopup_helper": {
+      "comment": "Help pointing out that they can also click the button to copy the league code",
+      "english": "or click button to copy code",
+      "value": "o toca el botón para copiar el código"
+    },
+    "accessibility_shot_attempts": {
+      "comment": "A stat name indicating the number of shot attempts made by a player.",
+      "english": "Shot attempts",
+      "value": "Tiros intentados"
+    },
+    "accessibility_shot_map": {
+      "comment": "A label in the player details stats showing a graphic representation of all the shots on goal in the match.",
+      "english": "Shot map",
+      "value": "Mapa de tiros"
+    },
+    "accessibility_shot_type": {
+      "comment": "A label for the shot description under the shotmap (in shotmap details, left/right foot, head, etc.)",
+      "english": "Shot type",
+      "value": "Tipo de tiro"
+    },
+    "accessibility_shots_on_target_per_90": {
+      "comment": "Label used in stats for shots on target per 90 min",
+      "english": "Shots on target per 90",
+      "value": "Tiros al arco por 90"
+    },
+    "accessibility_startpage_already_registered": {
+      "english": "Already registered?",
+      "value": "¿Ya te registraste?"
+    },
+    "accessibility_stats_comparison_att_mid_wingers": {
+      "comment": "A description highlighting that a player's stat is benchmarked against other attacking midfielders/wingers.",
+      "english": "Stats compared to other attacking midfielders/wingers",
+      "value": "Estadísticas comparadas con otros mediocampistas ofensivos/extremos"
+    },
+    "accessibility_stats_comparison_midfielders": {
+      "comment": "A description highlighting that a player's stat is benchmarked against other midfield players.",
+      "english": "Stats compared to other midfielders",
+      "value": "Estadísticas comparadas con otros mediocampistas"
+    },
+    "accessibility_team_score": {
+      "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
+      "english": "%@ scores!",
+      "value": "¡%@ marcó!"
+    },
+    "accessibility_template_world_cup_qualification": {
+      "comment": "Qualification for the World Cup in Football, https://en.wikipedia.org/wiki/FIFA_World_Cup.",
+      "english": "FIFA World Cup Qualification",
+      "value": "Eliminatorias del Mundial"
+    },
+    "accessibility_throw_in_set_piece": {
+      "comment": "A shot setup description. Goal was scored as part of a throw in.",
+      "english": "Throw in set piece",
+      "value": "Saque lateral de pelota parada"
+    },
+    "accessibility_ticker": {
+      "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
+      "english": "Commentary",
+      "value": "En vivo"
+    },
+    "accessibility_var_penalty_cancelled": {
+      "comment": "A penalty is first given and then overturned by VAR. We are showing a VAR icon next to this text.",
+      "english": "Penalty cancelled",
+      "value": "Penal cancelado"
+    },
+    "accessibility_xG_onboarding_description": {
+      "comment": "A short description of the xG system and how it works.",
+      "english": "Expected goals is a measurement of the quality of a shot.\\n\\nA team’s xG number for a match is an indication of how many goals they could have been expected to score, given the chances they created.",
+      "value": "Los goles esperados son una medida de la calidad de un tiro.\\n\\nEl número de xG de un equipo en un partido es una indicación de cuántos goles podría haber anotado, teniendo en cuenta las oportunidades creadas."
+    },
+    "common_ShotsOffTarget": {
+      "english": "Shots off target",
+      "value": "Tiros desviados"
+    },
+    "common_ShotsOnTarget": {
+      "english": "Shots on target",
+      "value": "Tiros al arco"
+    },
+    "common_added_new_leagues": {
+      "comment": "Pop-up notifying user about new leagues have been added",
+      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
+      "value": "Agregamos algunas ligas nuevas. Toca ignorar si no quieres agregarlas a la lista de partidos."
+    },
+    "common_afterextra": {
+      "english": "After extra time",
+      "value": "Después del tiempo extra"
+    },
+    "common_afterpenalties": {
+      "english": "After penalties",
+      "value": "Después de penales"
+    },
+    "common_average_goals_last3_both": {
+      "english": "%1$@ have an average of %3$@ goals in their last three matches and %2$@ have an average of %4$@.",
+      "value": "%1$@ tiene un promedio de %3$@ goles en sus últimos tres partidos y %2$@ tiene un promedio de %4$@."
+    },
+    "common_centerattackingmidfielder": {
+      "comment": "Player position - player plays as an offensive midfielder",
+      "english": "Attacking Midfielder",
+      "value": "Mediocampista ofensivo"
+    },
+    "common_centerdefensivemidfielder": {
+      "comment": "Player position - player plays as an defensive midfielder",
+      "english": "Defensive Midfielder",
+      "value": "Mediocampista defensivo"
+    },
+    "common_clean_sheet": {
+      "comment": "Keeper has kept a clean sheet, he has not let in any goals",
+      "english": "Clean sheet",
+      "value": "Portería en cero"
+    },
+    "common_clean_sheet_team_title": {
+      "english": "Clean sheets",
+      "value": "Vallas invictas"
+    },
+    "common_clean_sheet_title": {
+      "english": "Clean sheets",
+      "value": "Portería en cero"
+    },
+    "common_commentary_feature_description3": {
+      "english": "It might take up to 30 seconds before audio is audible after pressing play.",
+      "value": "El audio puede tardar hasta 30 segundos en escucharse después de presionar reproducir."
+    },
+    "common_conceded_penalties": {
+      "comment": "Label for number of penalties a player has caused in the match.",
+      "english": "Conceded penalty",
+      "value": "Penales concedidos"
+    },
+    "common_errors_led_to_goal": {
+      "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",
+      "english": "Errors led to goal",
+      "value": "Errores que ocasionaron un gol"
+    },
+    "common_expand_hint": {
+      "comment": "This is part of an onboarding tutorial where we tell the user where to click to open or close the league. If he clicks the icon, we show all the matches in the league he clicked.",
+      "english": "Click here to expand or collapse the league",
+      "value": "Expandir o contraer la liga"
+    },
+    "common_expected_goals_extra_first_half": {
+      "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
+      "english": "xG first extra half",
+      "value": "xG en 1.er tiempo extra"
+    },
+    "common_expected_goals_extra_second_half": {
+      "comment": "Keep xG in the translation and translate it as \"xG <second extra half translated>\"",
+      "english": "xG second extra half",
+      "value": "xG en 2.º tiempo extra"
+    },
+    "common_expected_goals_first_half": {
+      "comment": "Keep xG in the translation and translate it as \"xG <first half translated>\"",
+      "english": "xG first half",
+      "value": "xG en 1.er tiempo"
+    },
+    "common_expected_goals_on_target": {
+      "comment": "Keep xG in the translation and translate it as \"xG <on target>\". On target means the a goal attempt that hits the goal.",
+      "english": "xG on target (xGOT)",
+      "value": "xG al arco (xGOT)"
+    },
+    "common_expected_goals_on_target_variant": {
+      "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
+      "english": "Expected goals on target (xGOT)",
+      "value": "Goles esperados al arco (xGOT)"
+    },
+    "common_expected_goals_penalty": {
+      "comment": "Keep xG in the translation and translate it as \"xG <penalty>\". Penalties have a high xG so we have them separate.",
+      "english": "xG penalty",
+      "value": "xG en penales"
+    },
+    "common_expected_goals_second_half": {
+      "comment": "Keep xG in the translation and translate it as \"xG <second half translated>\"",
+      "english": "xG second half",
+      "value": "xG en 2.º tiempo"
+    },
+    "common_firstextrahalf": {
+      "english": "First extra half",
+      "value": "Primer tiempo extra"
+    },
+    "common_free_transfer": {
+      "comment": "Label for free transfer in Transfers view",
+      "english": "Free transfer",
+      "value": "Transferencia libre"
+    },
+    "common_fun_fact_conceded_penalty_plurals": {
+      "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
+      "english_plurals": {
+        "one": "Conceded a penalty",
+        "other": "Conceded %d penalties"
+      },
+      "plurals": {
+        "one": "Cometió un penal",
+        "other": "Cometió %d penales"
+      }
+    },
+    "common_fun_fact_joint_highest_top_speed": {
+      "comment": "Example: had the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Had the joint-highest top speed in the match (%1$@)",
+      "value": "Fue uno de los jugadores más rápidos del partido (%1$@) (empatado)"
+    },
+    "common_fun_fact_joint_highest_top_speed_live": {
+      "comment": "Example: has the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
+      "english": "Has the joint-highest top speed in the match (%1$@)",
+      "value": "Es uno de los jugadores más rápidos del partido (%1$@) (empatado)"
+    },
+    "common_fun_fact_missed_penalty_plurals": {
+      "comment": "Example: missed 2 penalties. See fun_fact_missed_penalty.",
+      "english_plurals": {
+        "one": "Missed a penalty",
+        "other": "Missed %d penalties"
+      },
+      "plurals": {
+        "one": "Falló un penal",
+        "other": "Falló %d penales"
+      }
+    },
+    "common_fun_fact_own_goal": {
+      "comment": "Example: scored an own goal.",
+      "english": "Scored an own goal",
+      "value": "Marcó un autogol"
+    },
+    "common_fun_fact_own_goal_plurals": {
+      "comment": "Example: scored 2 own goals. See fun_fact_own_goal.",
+      "english_plurals": {
+        "one": "Scored an own goal",
+        "other": "Scored %d own goals"
+      },
+      "plurals": {
+        "one": "Marcó un autogol",
+        "other": "Marcó %d autogoles"
+      }
+    },
+    "common_fun_fact_saved_penalty_plurals": {
+      "comment": "Example: saved 2 penalties. See fun_fact_saved_penalty.",
+      "english_plurals": {
+        "one": "Saved a penalty",
+        "other": "Saved %d penalties"
+      },
+      "plurals": {
+        "one": "Atajó un penal",
+        "other": "Atajó %d penales"
+      }
+    },
+    "common_fun_fact_won_penalty_plurals": {
+      "comment": "Example: won 2 penalties. See fun_fact_won_penalty.",
+      "english_plurals": {
+        "one": "Won a penalty",
+        "other": "Won %d penalties"
+      },
+      "plurals": {
+        "one": "Provocó un penal",
+        "other": "Provocó %d penales"
+      }
+    },
+    "common_goals_pen": {
+      "english": "Goals (Penalties)",
+      "value": "Goles (Penales)"
+    },
+    "common_goals_subtitle": {
+      "english": "Penalty goals",
+      "value": "Goles de penal"
+    },
+    "common_last_away_matches": {
+      "comment": "Header for form table for away matches of the team",
+      "english": "Last away matches",
+      "value": "Últimos partidos de visitante"
+    },
+    "common_leftmidfielder": {
+      "comment": "Player position - player plays on the left side of the midfield",
+      "english": "Left Midfielder",
+      "value": "Mediocampista izquierdo"
+    },
+    "common_legacy_gold_member": {
+      "comment": "This is in a info message for people that already bought FotMob but we offer them to also do a subscription.",
+      "english": "You have a lifetime membership with FotMob, but if you want you can now sign up for a subscription. Your support helps us continue to make FotMob better. Thanks for your support!",
+      "value": "Tienes una membresía vitalicia de FotMob, pero si quieres, ahora puedes suscribirte. Tu apoyo nos ayuda a seguir mejorando FotMob. ¡Gracias por tu apoyo!"
+    },
+    "common_legal_info": {
+      "comment": "This is a legal disclaimer.",
+      "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
+      "value": "Este video está alojado en un sitio externo. FotMob no es el propietario del contenido que estás a punto de ver.\\n\\nFotMob no se hace responsable ni puede considerarse responsable de ningún contenido alojado en el sitio de terceros.\\n\\nPara cualquier reclamo legal, ponte en contacto con el propietario del archivo multimedia o con el proveedor de alojamiento de video/audio."
+    },
+    "common_loan_return": {
+      "comment": "Transfer status: player returned from loan",
+      "english": "Loan return",
+      "value": "Retorno de préstamo"
+    },
+    "common_ltc_not_found": {
+      "comment": "Empty placeholder if there's no live-comments available",
+      "english": "Live commentary not available",
+      "value": "Comentarios en vivo no disponibles"
+    },
+    "common_menu_settings": {
+      "english": "Settings",
+      "value": "Configuración"
+    },
+    "common_message_sent": {
+      "english": "Tip: Long press a goal or other event to share it.",
+      "value": "Consejo: Mantén presionado un gol u otro evento para compartirlo."
+    },
+    "common_middle_east": {
+      "comment": "The name of the Middle East region",
+      "english": "Middle East",
+      "value": "Medio Oriente"
+    },
+    "common_midfielder_long": {
+      "english": "Midfielder",
+      "value": "Mediocampista"
+    },
+    "common_minutes_until_second_half": {
+      "comment": "countdown to the second half of the match",
+      "english": "%@ until second half",
+      "value": "%@ hasta el segundo tiempo"
+    },
+    "common_missed_penalty": {
+      "english": "Missed penalty",
+      "value": "Penal fallado"
+    },
+    "common_no_table": {
+      "english": "No table available",
+      "value": "Tabla no disponible"
+    },
+    "common_no_tv_guid": {
+      "comment": "Empty placeholder if there's no matches available on TV",
+      "english": "No matches on air",
+      "value": "No hay partidos en vivo"
+    },
+    "common_not_enabled_alerts": {
+      "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
+      "value": "No tienes activadas las notificaciones para FotMob. Cámbialo en Configuración para recibir notificaciones."
+    },
+    "common_not_won_away": {
+      "english": "%1$@ haven't won an away game in their last %2$@ matches.",
+      "value": "%1$@ no ha ganado como visitante en sus %2$@ últimos partidos."
+    },
+    "common_notifications": {
+      "english": "Settings",
+      "value": "Configuración"
+    },
+    "common_onboarding_players_help_infromation": {
+      "comment": "Help text to explain why they should follow a favorite player",
+      "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
+      "value": "Selecciona tus jugadores favoritos y recibe notificaciones de goles, tarjetas rojas, penales fallados y más."
+    },
+    "common_onboarding_settings": {
+      "comment": "Showing a hint to the user where to find the part of the app where he can customize the notifications and the filtering of leagues.",
+      "english": "Pro tip: You can customize alerts and filter leagues in Settings.",
+      "value": "Consejo pro: Puedes personalizar alertas y filtrar ligas en Configuración."
+    },
+    "common_ontarget_scoring_att_subtitle": {
+      "english": "Total shots on target",
+      "value": "Total de tiros al arco"
+    },
+    "common_ontarget_scoring_att_team_title": {
+      "english": "Shots on target per match",
+      "value": "Tiros al arco por partido"
+    },
+    "common_ontarget_scoring_att_title": {
+      "english": "Shots on target per match",
+      "value": "Tiros al arco por partido"
+    },
+    "common_pauseextratime": {
+      "english": "Pause extra time",
+      "value": "Descanso del tiempo extra"
+    },
+    "common_penalties_faced": {
+      "comment": "Label for number of penalties a keeper has encountered/faced in season",
+      "english": "Penalties faced",
+      "value": "Penales enfrentados"
+    },
+    "common_penaltiesarehappening": {
+      "english": "Penalty-shootout",
+      "value": "Penales"
+    },
+    "common_penalty": {
+      "english": "Penalty",
+      "value": "Penal"
+    },
+    "common_penalty_conceded_team_title": {
+      "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
+      "english": "Penalties conceded",
+      "value": "Penales en contra"
+    },
+    "common_penalty_conceded_title": {
+      "comment": "Team/Player has caused a penalty to be given against his team",
+      "english": "Penalties conceded",
+      "value": "Penales en contra"
+    },
+    "common_penalty_won_team_title": {
+      "english": "Penalties awarded",
+      "value": "Penales a favor"
+    },
+    "common_penalty_won_title": {
+      "comment": "Team/Player has received a penalty because of a foul",
+      "english": "Penalties awarded",
+      "value": "Penales a favor"
+    },
+    "common_poss_won_att_3rd_subtitle": {
+      "english": "Possession won midfield",
+      "value": "Posesión ganada en el mediocampo"
+    },
+    "common_poss_won_att_3rd_team_subtitle": {
+      "english": "Possession won midfield",
+      "value": "Posesión ganada en el mediocampo"
+    },
+    "common_possession_percentage_title": {
+      "english": "Average possession",
+      "value": "Posesión promedio"
+    },
+    "common_rate_fotmob_desc": {
+      "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
+      "value": "¿Te gusta FotMob? ¡Significaría mucho para nosotros si te tomaras un minuto para calificarla!"
+    },
+    "common_resync_desc": {
+      "english": "If you have previously bought gold or silver, click here",
+      "value": "Si FotMob no reconoce tu compra correctamente (después de reinstalar o actualizar la versión de Android), presiona el botón para resincronizar tus compras"
+    },
+    "common_rightmidfielder": {
+      "comment": "Player position - player plays on the right side of the midfield",
+      "english": "Right Midfielder",
+      "value": "Mediocampista derecho"
+    },
+    "common_saved_penalties": {
+      "comment": "Label for number of penalties a keeper has saved in a match",
+      "english": "Saved penalties",
+      "value": "Penales atajados"
+    },
+    "common_saves_inside_box": {
+      "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
+      "english": "Saves inside box",
+      "value": "Atajadas en el área"
+    },
+    "common_saves_subtitle": {
+      "english": "Total saves",
+      "value": "Total de atajadas"
+    },
+    "common_saves_title": {
+      "english": "Saves per match",
+      "value": "Atajadas por partido"
+    },
+    "common_second_half_starts_soon": {
+      "comment": "when countdown reached 00:00, but the match hasn't started yet - we're showing this label",
+      "english": "Second half about to start",
+      "value": "El segundo tiempo está a punto de iniciar"
+    },
+    "common_secondextrahalf": {
+      "english": "Second extra half",
+      "value": "Segundo tiempo extra"
+    },
+    "common_secondhalf": {
+      "english": "Second half",
+      "value": "Segundo tiempo"
+    },
+    "common_settings": {
+      "english": "Settings",
+      "value": "Configuración"
+    },
+    "common_shot_accuracy": {
+      "comment": "How many percentage of shots hit the goal. Like if Messi shoots 10 times at goal and hits the goal once. We say he hit had a shot accuracy of 10%",
+      "english": "Shot accuracy",
+      "value": "Precisión de tiros"
+    },
+    "common_shots_on_off_target": {
+      "comment": "Header to indicate how many shots was on target and how many was off target",
+      "english": "Shots On / Off target",
+      "value": "Tiros al arco / desviados"
+    },
+    "common_show_table": {
+      "english": "Show table",
+      "value": "Mostrar tabla"
+    },
+    "common_sign_in_header": {
+      "comment": "Header for sign-in page",
+      "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
+      "value": "Podemos guardar tu configuración para que puedas sincronizarla con otros dispositivos o recuperarla con un nuevo dispositivo."
+    },
+    "common_sign_in_ios": {
+      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
+      "english": "Click here to sign in",
+      "value": "Iniciar sesión"
+    },
+    "common_silver_desc": {
+      "english": "Remove ads for a year. Click for details",
+      "value": "Suscríbete a FotMob y elimina los anuncios por un año. Ver más detalles"
+    },
+    "common_table": {
+      "english": "Table",
+      "value": "Tabla"
+    },
+    "common_title_activity_squad_member": {
+      "english": "Squad member",
+      "value": "Jugador del equipo"
+    },
+    "common_transfer_loan_message": {
+      "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid on loan from Manchester United\"",
+      "english": "%1$@ is joining %2$@ on loan from %3$@",
+      "value": "%1$@ se va a préstamo al %2$@ desde el %3$@"
+    },
+    "common_transfer_loan_return": {
+      "comment": "This is for a transfer like: \"Ronaldo is returning from loan to Real Madrid from Barcelona\"",
+      "english": "%1$@ is returning from loan to %2$@ from %3$@",
+      "value": "%1$@ vuelve de préstamo al %2$@ desde el %3$@"
+    },
+    "common_turn_off_favorite_league_pling": {
+      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
+      "value": "Tienes que desactivar las notificaciones de los equipos favoritos (mantén presionado el encabezado &quot;Equipos favoritos&quot;) para cambiar el estado de notificación de este partido"
+    },
+    "common_tv_schedules_change": {
+      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
+      "english": "Click here to change or add countries",
+      "value": "Cambiar o agregar países"
+    },
+    "common_tv_schedules_change_stations": {
+      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
+      "english": "Click here to change which TV channels you see",
+      "value": "Cambiar los canales de TV que ves"
+    },
+    "common_var_penalty_goal_retake": {
+      "comment": "Penalty goal had to be retaken due to Video Assistant referee. Note that the player scored on the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty goal cancelled\" with no reference to Video Assistant referee.",
+      "english": "Penalty goal - to be retaken",
+      "value": "Gol de penal - Se debe repetir"
+    },
+    "common_var_penalty_miss_retake": {
+      "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
+      "english": "Missed penalty - to be retaken",
+      "value": "Penal fallado - Se debe repetir"
+    },
+    "common_var_pending_penalty": {
+      "comment": "Information that the Video Assistant Referee is checking a penaly",
+      "english": "Pending VAR - penalty",
+      "value": "Pendiente del VAR - Penal"
+    },
+    "common_video_autoplay": {
+      "comment": "Checkbox if the user wants the videos to autoplay in the newsfeed",
+      "english": "Autoplay videos",
+      "value": "Reproducir videos automáticamente"
+    },
+    "common_world_cup_popup_description": {
+      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
+      "value": "Para sacarle el máximo provecho a la Copa del Mundo, hemos estado trabajando duro en la creación de una experiencia única. ¡Pruébala!"
+    },
+    "ios_Tables_and_News": {
+      "english": "Tables & News",
+      "value": "Posiciones y noticias"
+    },
+    "ios_choose_league_desc": {
+      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
+      "value": "Para un acceso más rápido, toca la estrella para agregar tus ligas favoritas. Toca en el nombre de la liga para cambiar la liga actual"
+    },
+    "ios_enable_live_activities": {
+      "comment": "Live activities onboarding description. Use live_activities translation for \"live activities\".",
+      "english": "Enable live activities and follow every goal without opening the app",
+      "value": "Activa las Actividades en vivo y sigue todos los goles sin abrir la app"
+    },
+    "ios_live_activities_activated": {
+      "comment": "Live activities activated toast message. Includes league name param, e.g. \"Live Activities activated for World Cup\". Use live_activities translation for \"Live Activities\".",
+      "english": "Live Activities activated for %@",
+      "value": "Actividades en vivo activadas para %@"
+    },
+    "ios_location_reason": {
+      "english": "We only use your location to enable features available to some countries",
+      "value": "Solo utilizamos tu ubicación para activar las funciones disponibles para algunos países"
+    },
+    "ios_tweet_text": {
+      "comment": "A text to send to twitter for sharing the app",
+      "english": "FotMob - the best livescores app for football/soccer",
+      "value": "FotMob - la mejor aplicación para resultados de fútbol en vivo"
+    },
+    "new_featured_videos": {
+      "english": "Featured videos",
+      "value": "Videos destacados"
+    },
+    "new_invitation_message": {
+      "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
+      "english": "I am using this app to get live football scores. Check it out!",
+      "value": "Uso esta app para ver marcadores de fútbol en vivo. ¡Échale un vistazo!"
+    },
+    "new_no_favorites_added": {
+      "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
+      "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
+      "value": "No has agregado ningún favorito.\\n\\nPresiona atrás para agregarlo ahora o presiona terminar para agregarlo después."
+    },
+    "new_player_scores": {
+      "english": "%@ scores!",
+      "value": "¡%@ marcó!"
+    },
+    "new_standings": {
+      "comment": "Tables. topscorers and assist is behind this menu choice.",
+      "english": "Standings",
+      "value": "Posiciones"
+    },
+    "new_title_activity_widget_settings": {
+      "english": "Settings",
+      "value": "Configuración"
+    },
+    "notifications_added_injury_time": {
+      "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
+      "english": "+%d minutes added",
+      "english_plurals": {
+        "one": "+%d minute added",
+        "other": "+%d minutes added"
+      },
+      "plurals": {
+        "one": "+%d minuto añadido",
+        "other": "+%d minutos añadidos"
+      }
+    },
+    "notifications_alert_AfterExtraTime": {
+      "english": "%@ %@-%@ %@\\nFinished after extra time",
+      "value": "%@ %@-%@ %@\\nFinalizado tras el tiempo extra"
+    },
+    "notifications_alert_AfterPenalties": {
+      "english": "%@ %@-%@ %@\\nFinished after penalties",
+      "value": "%@ %@-%@ %@\\nTerminado después de los penales"
+    },
+    "notifications_alert_FirstExtraHalf": {
+      "english": "%@ %@-%@ %@\\nFirst extra half underway",
+      "value": "%@ %@-%@ %@\\nComienza el primer tiempo extra"
+    },
+    "notifications_alert_PauseExtraTime": {
+      "english": "%@ %@-%@ %@\\nPause in extra time",
+      "value": "%@ %@-%@ %@\\nPausa en el tiempo extra"
+    },
+    "notifications_alert_PenaltiesAreHappening": {
+      "english": "%@ %@-%@ %@\\nPenalty shootout underway!",
+      "value": "%@ %@-%@ %@\\n¡Penales en progreso!"
+    },
+    "notifications_alert_SecondExtraHalf": {
+      "english": "%@ %@-%@ %@\\nSecond extra half begins",
+      "value": "%@ %@-%@ %@\\nComienza el segundo tiempo extra"
+    },
+    "notifications_alert_SecondHalf": {
+      "english": "%@ %@-%@ %@\\nSecond half begins",
+      "value": "%@ %@-%@ %@\\nComienza el segundo tiempo"
+    },
+    "notifications_alert_WaitingForExtratime": {
+      "english": "%@ %@-%@ %@\\nWaiting for extra time",
+      "value": "%@ %@-%@ %@\\nEsperando el tiempo extra"
+    },
+    "notifications_alert_goal_penalty": {
+      "english": "%@ %@-%@ %@\\n%@ Goal! (penalty)",
+      "value": "%@ %@-%@ %@\\n%@ ¡Gol! (penal)"
+    },
+    "notifications_alert_goal_scorer_penalty": {
+      "comment": "Goal was scored on a penalty",
+      "english": "%@ %@-%@ %@\\n%@%@ (penalty)",
+      "value": "%@ %@-%@ %@\\n%@%@ (penal)"
+    },
+    "notifications_alert_missed_penalty": {
+      "english": "%@%@ missed a penalty\\n%@",
+      "value": "%@%@ falló un penal\\n%@"
+    },
+    "notifications_alert_rating_man_of_the_match": {
+      "english": "%@ %@-%@ %@\\n🔥 %@%@ got a rating of %@ and was Player of the Match!",
+      "value": "%@ %@-%@ %@\\n🔥 %@%@ tiene una calificación de %@ y fue el jugador del partido"
+    },
+    "notifications_alert_subst_in": {
+      "english": "%@ %@-%@ %@\\n%@%@ has been subbed on",
+      "value": "%@ %@-%@ %@\\n%@%@ entra a la cancha"
+    },
+    "notifications_alert_subst_out": {
+      "english": "%@ %@-%@ %@\\n%@%@ has been subbed off",
+      "value": "%@ %@-%@ %@\\n%@%@ es sustituido"
+    },
+    "notifications_bench": {
+      "comment": "The substitutes + coach",
+      "english": "Bench",
+      "value": "Banca"
+    },
+    "notifications_confirmed_transfer_news": {
+      "comment": "Label indicating it applies to confirmed transfers only",
+      "english": "Confirmed transfers",
+      "value": "Noticias de transferencias confirmadas"
+    },
+    "notifications_enable_transfer_news": {
+      "comment": "User can enable transfer news alerts",
+      "english": "Enable transfer news",
+      "value": "Permitir noticias de transferencias."
+    },
+    "notifications_enable_transfer_news_desc": {
+      "comment": "User can enable transfer news alerts",
+      "english": "Get notifications for top transfer news",
+      "value": "Recibe notificaciones de noticias y transferencias."
+    },
+    "notifications_error_led_to_shot": {
+      "comment": "Mistake which leads to an opposition shot",
+      "english": "Error led to shot",
+      "value": "El error provocó un tiro"
+    },
+    "notifications_filter_tournaments_help_text": {
+      "english": "Select which leagues to display in Matches tab",
+      "value": "Selecciona qué torneos mostrar en la pantalla en vivo"
+    },
+    "notifications_goals_freekick": {
+      "comment": "Goals scored via a freekick",
+      "english": "Goals scored via freekick",
+      "value": "Goles anotados de tiro libre"
+    },
+    "notifications_goals_penalties": {
+      "comment": "Goals scored via a penalty",
+      "english": "Goals scored on penalty",
+      "value": "Goles marcados de penal"
+    },
+    "notifications_how_about_rating": {
+      "comment": "Used for rating dialog, button label so keep it short",
+      "english": "How about rating us on the Play Store?",
+      "value": "¿Te gustaría calificarnos en la Play Store?"
+    },
+    "notifications_how_about_rating_iOS": {
+      "comment": "Used for rating dialog, button label so keep it short",
+      "english": "How about rating us on the App Store?",
+      "value": "¿Te gustaría calificarnos en la App Store?"
+    },
+    "notifications_injury_101": {
+      "english": "Calf injury",
+      "value": "Lesión de pantorrilla"
+    },
+    "notifications_injury_37": {
+      "english": "Broken jaw",
+      "value": "Fractura de mandíbula"
+    },
+    "notifications_live": {
+      "comment": "Describing TV listings sending a match live",
+      "english": "Live",
+      "value": "En vivo"
+    },
+    "notifications_logged_out_warning": {
+      "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
+      "english": "You have been logged out. Please log in again so that we can continue keeping your favorites and settings safe.",
+      "value": "Se cerró tu sesión. Vuelve a iniciar sesión para mostrar tus favoritos y preferencias."
+    },
+    "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
+      "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
+      "value": "¡Excelente! ¿Ya terminaste o quieres agregar alertas de transferencias de toda la liga o personalizar las transferencias de tu equipo?"
+    },
+    "notifications_penalties_won": {
+      "english": "Penalties won",
+      "value": "Penales ganados"
+    },
+    "notifications_player_sub_in": {
+      "comment": "Messi has been subbed on.",
+      "english": "%@ has been subbed on.",
+      "value": "%@ ingresa a la cancha."
+    },
+    "notifications_player_sub_out": {
+      "comment": "Messi has been subbed off.",
+      "english": "%@ has been subbed off.",
+      "value": "%@ es sustituido."
+    },
+    "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
+      "english": "Receive confirmed transfer alerts for all of your favorite teams",
+      "value": "Recibe alertas de transferencias confirmadas de tus equipos favoritos."
+    },
+    "notifications_saves": {
+      "comment": "Stat for the number of keeper saves in the match",
+      "english": "Saves",
+      "value": "Atajadas"
+    },
+    "notifications_show_video": {
+      "english": "Show video",
+      "value": "Mostrar video"
+    },
+    "notifications_sign_in_dialog": {
+      "comment": "Dialog \"selling\" profile login",
+      "english": "We can keep your favorites and settings safe. <b>Sign in now?</b>",
+      "value": "Guardamos tus favoritos y preferencias. <b>¿Iniciar sesión ahora?</b>"
+    },
+    "notifications_time_settings": {
+      "comment": "Button that open time and date settings on the device",
+      "english": "Time settings",
+      "value": "Configuración de fecha y hora"
+    },
+    "notifications_transfer_type_back_from_loan": {
+      "comment": "Used in parenthesis after club name to indicate type of transfer",
+      "english": "back from loan",
+      "value": "fin de préstamo"
+    },
+    "notifications_transfer_type_free_transfer": {
+      "comment": "Used in parenthesis after club name to indicate type of transfer",
+      "english": "free transfer",
+      "value": "Transferencia libre"
+    },
+    "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
+      "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
+      "value": "¡Hemos agregado alertas de transferencias confirmadas! ¿Quieres activarlas para tus equipos favoritos?"
+    },
+    "notifications_we_can_keep_your_settings_safe": {
+      "english": "Sign in to sync settings across devices or retrieve them when you set up a new device.",
+      "value": "Podemos guardar tu configuración para que puedas sincronizarla con otros dispositivos o recuperarla con un nuevo dispositivo."
+    },
+    "seo_average_age": {
+      "comment": "Average age in lineup.",
+      "english": "Average age",
+      "value": "Edad promedio"
+    },
+    "seo_blocked_or_muted_notifications": {
+      "english": "Some notifications are blocked or muted. Go to Settings to enable them.",
+      "value": "Algunas notificaciones están bloqueadas o silenciadas. Ve a Configuración para activarlas."
+    },
+    "seo_expected_goals_set_play_conceded": {
+      "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "xG set play conceded",
+      "value": "xG recibido a pelota parada"
+    },
+    "seo_follow_players_to_track_performances": {
+      "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
+      "english": "Follow players to track performances and transfers.",
+      "value": "Sigue a jugadores para estar al día de su rendimiento y sus transferencias."
+    },
+    "seo_fun_fact_highest_top_speed": {
+      "comment": "Example: had the highest top speed in the match (35.7 km/h).",
+      "english": "Had the highest top speed in the match (%1$@)",
+      "value": "Tuvo la velocidad máxima del partido (%1$@)"
+    },
+    "seo_fun_fact_highest_top_speed_live": {
+      "comment": "Example: has the highest top speed in the match (35.7 km/h).",
+      "english": "Has the highest top speed in the match (%1$@)",
+      "value": "Tiene la velocidad máxima del partido (%1$@)"
+    },
+    "seo_get_the_best_mobile_experience": {
+      "comment": "Title component in a popup for the fotmob website, stating that the best experience for people on a mobile phone is the app version.",
+      "english": "Get the best mobile experience",
+      "value": "Obtén la mejor experiencia en tu celular"
+    },
+    "seo_in_app_browser_sign_in_not_reliable": {
+      "comment": "This is explanatory body text shown below the in_app_browser_open_in_browser_title heading inside the same card. It explains why the user needs to switch browsers. The %1$s placeholder is replaced at runtime with the name of the social media app the user is in (e.g. \"Instagram\", \"TikTok\", \"Facebook\") — the resulting text reads like \"Sign-in doesn't work reliably in Instagram's browser.\" Keep the %1$s placeholder exactly as-is; do not translate or modify it. \"Safari\" and \"Chrome\" are brand names and should not be translated. Tone: informative, helpful.",
+      "english": "Sign-in doesn't work reliably in %1$s's browser. Please open this page in Safari or Chrome.",
+      "value": "El inicio de sesión no funciona de forma confiable en el navegador de %1$s. Abre esta página en Safari o Chrome."
+    },
+    "seo_lineup_builder_app_promo_subtitle": {
+      "comment": "Promo subtitle text for the lineup builder now available in the app, \"it\" refering to the lineup builder. keep translations short and consise. See [lineup_builder]",
+      "english": "Try it on mobile",
+      "value": "Pruébalo en el celular"
+    },
+    "seo_odds_close_match": {
+      "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
+      "english": "The bookmakers predict a close match between %1$@ and %2$@.",
+      "value": "Las casas de apuestas predicen un partido parejo entre %1$@ y %2$@."
+    },
+    "seo_odds_favorites": {
+      "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
+      "english": "%1$@ are the favorites to win the match, according to the bookmakers.",
+      "value": "%1$@ son los favoritos para ganar el partido, según las casas de apuestas."
+    },
+    "seo_onboarding_physical_metrics_section2": {
+      "comment": "Header for the onboarding of the new physical performance state",
+      "english": "<b>Sprints, effort, intensity.</b> Check walking, running, and sprinting stats to understand work rate.",
+      "value": "<b>Sprints, esfuerzo, intensidad.</b> Consulta las estadísticas de caminata, carrera y sprints para entender el ritmo de trabajo."
+    },
+    "seo_penalty_shootout": {
+      "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
+      "english": "(penalty shootout)",
+      "value": "(tanda de penales)"
+    },
+    "seo_penalty_shootout_v2": {
+      "comment": "Used in notifications for indicating penalty shootout like \"Arsenal scores! (penalty shootout)\".",
+      "english": "penalty shootout",
+      "value": "tanda de penales"
+    },
+    "seo_poll_default_question_penalty": {
+      "comment": "Text to use as default value on a poll form for a penalty event in a match.",
+      "english": "Was it a penalty?",
+      "value": "¿Fue penal?"
+    },
+    "seo_prizes_summary_ordinary_time": {
+      "comment": "Longest bullet in the FotMob Predict World Cup 2026 prizes summary. Two parts joined by an em-dash: (1) which match phase the prediction refers to — 90 minutes + stoppage time, not extra time, not penalty shootout; (2) practical advice — if you expect knockout extra time, pick a draw. Use the locale's football-specific terms: \"stoppage time\" → injury time / Nachspielzeit / temps additionnel etc.; \"extra time\" → the extra 30 minutes after 90 (NOT stoppage time); \"penalties\" → penalty shootout (not penalty kicks during regular play); \"knockout match\" → elimination/knockout round game. Keep the em-dash structure if your locale uses em-dashes; otherwise use a sentence break.",
+      "english": "All predictions are for the score at the end of 90 minutes (plus stoppage time). Extra time and penalties don't count — if you think a knockout match will go to extra time, predict a draw.",
+      "value": "Todos los pronósticos son para el marcador al final de los 90 minutos (más el tiempo agregado). El tiempo extra y la tanda de penales no cuentan — si crees que un partido de eliminación directa se irá a tiempo extra, pronostica empate."
+    },
+    "seo_prizes_summary_predict_each_match": {
+      "comment": "Bullet describing the core gameplay action in the FotMob Predict World Cup 2026 prizes summary. \"Result\" here means the final score outcome (win/draw/loss + score). \"Kickoff\" is the football term for match start — use the locale's football-specific term (\"coup d'envoi\", \"Anpfiff\", etc.), not a generic \"before the match starts\". Preserve \"World Cup\" verbatim.",
+      "english": "Predict the result of each World Cup match before kickoff.",
+      "value": "Predice el resultado de cada partido de la Copa del Mundo antes del silbatazo inicial."
+    },
+    "seo_rename_league_name_required": {
+      "comment": "Inline form error shown under the input when the user submits an empty / whitespace-only league name. Direct imperative, ends with a period.",
+      "english": "Enter a league name.",
+      "value": "Ingresa el nombre de la liga."
+    },
+    "seo_save": {
+      "comment": "Outcome after a shot that indicates that the keeper made a save",
+      "english": "Save",
+      "value": "Atajada"
+    },
+    "seo_set_piece_goals_conceded": {
+      "comment": "Label for a statistic showing the number of goals conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
+      "english": "Set piece goals conceded",
+      "value": "Goles recibidos a pelota parada"
+    },
+    "seo_show_loans": {
+      "comment": "Text for a filter that toggles the visibility of loan transfers in the transfer list. See on_loan_transfers",
+      "english": "Show loans",
+      "value": "Mostrar préstamos"
+    },
+    "seo_site_description_latest_news": {
+      "comment": "Meta description text for the Latest News page.",
+      "english": "Get the latest news, headlines and transfer rumours from the Premier League and world football.",
+      "value": "Obtén las últimas noticias, titulares y rumores de transferencias de la Premier League y el fútbol mundial."
+    },
+    "seo_site_description_league_matches": {
+      "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
+      "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
+      "value": "Todos los resultados y próximos partidos de %1$@ %2$@. Ordena por fecha, jornada, club o grupo. Marcadores en vivo y resultados actualizados en cada jornada."
+    },
+    "seo_site_description_league_playoff": {
+      "comment": "SEO description for league playoff/knockout page showing bracket, fixtures and results. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ playoff bracket for %2$@ with knockout fixtures, results, matchups and the road to the final. Follow every round of the tournament live.",
+      "value": "Cuadro de playoffs de %1$@ para %2$@ con partidos eliminatorios, resultados, cruces y el camino hacia la final. Sigue en vivo cada ronda del torneo."
+    },
+    "seo_site_description_league_stats": {
+      "comment": "SEO description for league stats page showing top scorers, assists, ratings and performance data. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ statistics for %2$@ with top scorers, assist leaders, player ratings, clean sheets and detailed performance data for every team.",
+      "value": "Estadísticas de %1$@ para %2$@ con máximos goleadores, líderes en asistencias, calificaciones de jugadores, vallas invictas y datos detallados de rendimiento de cada equipo."
+    },
+    "seo_site_description_league_table": {
+      "comment": "SEO description for league table page showing standings with points, form and upcoming opponents. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ standings for %2$@ with current form, home and away records, goal difference and upcoming opponents for every team.",
+      "value": "Tabla de posiciones de %1$@ para %2$@ con forma actual, rendimiento de local y visitante, diferencia de goles y próximos rivales de cada equipo."
+    },
+    "seo_site_description_league_transfers": {
+      "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
+      "english": "Complete %@ transfer overview with all incoming and outgoing players, transfer fees, contract details and loan moves across every club.",
+      "value": "Resumen completo de transferencias de %@ con todas las altas y bajas, montos de transferencia, detalles de contrato y préstamos de todos los clubes."
+    },
+    "seo_site_description_match": {
+      "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
+      "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
+      "value": "%1$@ vs %2$@ el %3$@. Consulta los resultados en vivo, H2H, estadísticas del partido, alineaciones, calificaciones de jugadores, análisis, forma del equipo, mapa de tiros y momentos destacados."
+    },
+    "seo_site_description_match_with_alias": {
+      "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
+      "english": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
+      "value": "%4$@: %1$@ vs %2$@ el %3$@. Consulta resultados en vivo, H2H, estadísticas del partido, alineaciones, calificaciones de los jugadores, análisis, forma del equipo, mapa de tiros y momentos destacados."
+    },
+    "seo_site_description_team_squad": {
+      "comment": "SEO description for team squad page showing player details, positions, injuries and coaching staff. %@ is the team name",
+      "english": "View the full %@ squad with player positions, shirt numbers, ages, nationalities, injury updates and most valuable players.",
+      "value": "Consulta el plantel completo de %@ con posiciones, números de camiseta, edades, nacionalidades, actualizaciones de lesiones y los jugadores más valiosos."
+    },
+    "seo_site_description_team_stats": {
+      "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
+      "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
+      "value": "Estadísticas detalladas de jugadores y del equipo de %@, incluyendo calificaciones, goles, asistencias, vallas invictas, tiros al arco y rendimiento de la temporada."
+    },
+    "seo_site_description_team_transfers": {
+      "comment": "SEO description for team transfers page showing complete transfer history. %@ is the team name",
+      "english": "Complete %@ transfer history with players in, players out, loan deals, contract extensions, transfer fees and destinations.",
+      "value": "Historial completo de transferencias de %@: altas, bajas, préstamos, renovaciones, montos y destinos."
+    },
+    "seo_site_description_tv_guide": {
+      "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
+      "english": "Find football matches live on TV in %@ today and this week. TV schedules with kick-off times for Premier League, Champions League, World Cup and more.",
+      "value": "Encuentra partidos de fútbol en vivo por TV en %@ hoy y esta semana. Programación de TV con horarios de inicio de la Premier League, Champions League, Mundial y más."
+    },
+    "seo_site_title_latest_news": {
+      "comment": "Title of the Latest News page. Typically displayed in the tab header in the browser.",
+      "english": "Latest News - Today's football news and transfer rumours.",
+      "value": "Últimas noticias - Noticias de fútbol y rumores de transferencias de hoy."
+    },
+    "seo_site_title_league_table_xg": {
+      "comment": "SEO title for league xG table page showing expected goals standings. First %@ is the league name, second %@ is the season",
+      "english": "%1$@ xG table %2$@ - expected goals standings",
+      "value": "Tabla de xG de %1$@ %2$@ - tabla de posiciones por goles esperados"
+    },
+    "seo_site_title_team_stats_teams": {
+      "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
+      "english": "%1$@ - team rating, goals per match, shots on target and other stats",
+      "value": "%1$@ - calificación del equipo, goles por partido, tiros al arco y otras estadísticas"
+    },
+    "seo_site_title_tv_guide": {
+      "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
+      "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
+      "value": "Horarios de TV de fútbol en %@ - Ver en vivo por TV | FotMob"
+    },
+    "seo_team_won": {
+      "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
+      "english": "%@ won!",
+      "value": "¡El %@ ganó!"
+    },
+    "seo_template_10201": {
+      "comment": "World Cup Qualification Inter-confederation playoffs",
+      "english": "World Cup Qualification Inter-confederation",
+      "value": "Repechaje intercontinental de la Copa del Mundo"
+    },
+    "seo_weather_conditions": {
+      "comment": "Header indicating the Weather at a football stadium, to be shown during or after the match.",
+      "english": "Weather conditions",
+      "value": "Clima"
+    },
+    "seo_weather_forecast": {
+      "comment": "Header indicating the Weather forecast at a football stadium, to be shown before the match has started.",
+      "english": "Weather forecast",
+      "value": "Pronóstico del clima"
+    },
+    "seo_xpts_explanation": {
+      "comment": "Explanation of the xG table. The text has newline separators in it.",
+      "english": "Expected Points (xPts) reflect the number of points a team was expected to earn from a match, based on the quality of their chances measured by Expected Goals (xG).\\n\\nxPts for a match are calculated by simulating possible outcomes using the quality of shots, expressed as xG. The simulation awards points for wins, draws, or losses based on xG.\\n\\nThe xPts are accumulated over the season to form the 'xG-table', also known as the 'Justice table', which provides an alternative view of team performance beyond actual points earned.",
+      "value": "Los puntos esperados (xPts) reflejan el número de puntos que se espera que un equipo obtenga en un partido, según la calidad de sus oportunidades medidas por los goles esperados (xG).\\n\\nLos xPts de un partido se calculan simulando los posibles resultados mediante la calidad de los tiros, expresada en xG. La simulación otorga puntos por las victorias, los empates o las derrotas según los xG.\\n\\nLos xPts se acumulan a lo largo de la temporada para crear la «tabla xG», también conocida como la «tabla de la justicia», que ofrece una vista alternativa del rendimiento de un equipo más allá de los puntos reales que haya obtenido."
+    }
+  }
+}
