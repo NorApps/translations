@@ -7212,7 +7212,7 @@
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
-      "value": "Aucun match à la télévision aujourd'hui"
+      "value": "Aucun match à la télévision ce jour"
     },
     "new_no_more_goals": {
       "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
