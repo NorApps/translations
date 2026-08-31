@@ -7266,7 +7266,7 @@
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
       "english": "%@ is not sent off",
-      "value": "%@ اشتباه ارسال شده است"
+      "value": "%@ اخراج نشد"
     },
     "new_player_scores": {
       "english": "%@ scores!",
@@ -7275,7 +7275,7 @@
     "new_player_sent_off": {
       "comment": "Information message that a player has received a red card",
       "english": "%@ is sent off!",
-      "value": "%@ اشتباه ارسال شده است"
+      "value": "%@ اخراج شد!"
     },
     "new_profile_picture": {
       "english": "Profile picture",
@@ -7283,12 +7283,12 @@
     },
     "new_quarterfinal": {
       "english": "Quarter-final",
-      "value": "یک چهارم نهایی"
+      "value": "یک‌چهارم نهایی"
     },
     "new_quick_start": {
       "comment": "Short button caption at splash screen.",
       "english": "Quick Setup",
-      "value": "راه اندازی سریع"
+      "value": "راه‌اندازی سریع"
     },
     "new_red_card": {
       "comment": "Information message that a player has received a red card",
@@ -7298,7 +7298,7 @@
     "new_red_card_alert": {
       "comment": "Indicates that the user wants an alert when a player receives a red card",
       "english": "Red cards",
-      "value": "کارت های قرمز"
+      "value": "کارت‌های قرمز"
     },
     "new_related_news": {
       "english": "Related news",
@@ -7306,11 +7306,11 @@
     },
     "new_reminder": {
       "english": "Match starts in %@ minutes",
-      "value": "بازی در %@ دقیقه دیگه شروع می شود"
+      "value": "بازی در %@ دقیقه دیگر شروع می‌شود"
     },
     "new_remove_ads": {
       "english": "Remove ads",
-      "value": "ترجمه سعید خلوصی"
+      "value": "حذف تبلیغات"
     },
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
@@ -7328,7 +7328,7 @@
     },
     "new_search_hint_global_desc": {
       "english": "No results so far!",
-      "value": "هیچ نتیجه ای یافت نشد!"
+      "value": "هیچ نتیجه‌ای یافت نشد!"
     },
     "new_semifinal": {
       "english": "Semi-final",
@@ -7337,20 +7337,20 @@
     "new_set_alerts": {
       "comment": "Dialog title indicating that the user can set team alerts in this dialog",
       "english": "Set notifications",
-      "value": "اعلان ها را تنظیم کنید"
+      "value": "اعلان‌ها را تنظیم کنید"
     },
     "new_set_favorite_team": {
       "english": "Set favorite team",
-      "value": "تنظیم تیم های مورد علاقه"
+      "value": "تنظیم تیم مورد علاقه"
     },
     "new_set_your_popular_teams": {
       "english": "Do you follow one of these popular teams?",
-      "value": "آیا شما یکی از تیم های محبوب را دنبال می کنید؟"
+      "value": "آیا یکی از تیم‌های محبوب را دنبال می‌کنید؟"
     },
     "new_set_your_teams": {
       "comment": "Informing the user that he can choose his favorite local team(s)",
       "english": "Choose your favorite local teams",
-      "value": "تیم های محلی مورد علاقه خود را انتخاب نمایید"
+      "value": "تیم‌های محلی مورد علاقه خود را انتخاب کنید"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7360,7 +7360,7 @@
     "new_skip": {
       "comment": "Button caption for skipping to the next screen",
       "english": "Skip",
-      "value": "پرش"
+      "value": "رد شدن"
     },
     "new_sounds": {
       "comment": "Heading for the sounds that you can choose when getting alerts for goals, cards ++",
@@ -7369,17 +7369,17 @@
     },
     "new_sounds_desc": {
       "english": "Change notification sound for the alerts",
-      "value": "تغییر صدای اعلان ها"
+      "value": "تغییر صدای اعلان‌ها"
     },
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
       "english": "Standings",
-      "value": "جدول رده بندی"
+      "value": "جدول رده‌بندی"
     },
     "new_start_and_finish": {
       "comment": "Indicates that the user wants alerts for the start and end of the match",
       "english": "Start and fulltime result",
-      "value": "شروع و پایان بازی ها"
+      "value": "شروع و پایان بازی‌ها"
     },
     "new_summary": {
       "english": "Summary",
@@ -7418,7 +7418,7 @@
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
-      "value": "ما فقط اخبار نقل و انتقالات مهم را به شما اطلاع می دهیم"
+      "value": "ما فقط اخبار نقل و انتقالات مهم را به شما اطلاع می‌دهیم"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7435,16 +7435,16 @@
     },
     "new_waiting_for_extratime": {
       "english": "Waiting for extra time",
-      "value": "منتظرپایان وقت اضافه"
+      "value": "منتظر وقت اضافه"
     },
     "new_waiting_for_penalties": {
       "english": "Waiting for penalties",
-      "value": "منتظرپایان پنالتی"
+      "value": "منتظر پنالتی‌ها"
     },
     "new_wc_qual": {
       "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
       "english": "WC qualification",
-      "value": "اتفاقات جام جهانی"
+      "value": "انتخابی جام جهانی"
     },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
@@ -7457,7 +7457,7 @@
     },
     "new_who_will_score_next": {
       "english": "Who will score next?",
-      "value": "چه کسی گل بعدی را می زند؟"
+      "value": "چه کسی گل بعدی را می‌زند؟"
     },
     "new_widget_providers_list_title": {
       "english": "Configure",
@@ -7475,7 +7475,7 @@
     },
     "notifications_accurate_passes": {
       "english": "Accurate passes",
-      "value": "پاس های سالم"
+      "value": "پاس‌های سالم"
     },
     "notifications_ad": {
       "comment": "Used for marking of ad content",
@@ -7485,7 +7485,7 @@
     "notifications_add_favorite_desc_ipad": {
       "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
       "english": "Tap + to add a favorite team or player",
-      "value": "برای اضافه کردن تیم و یا بازیکن مورد علاقه خود بر روی + ضربه بزنید"
+      "value": "برای افزودن تیم یا بازیکن مورد علاقه خود، روی + ضربه بزنید"
     },
     "notifications_add_widget": {
       "comment": "Call to action button for user adding widget to home screen.",
@@ -7497,7 +7497,7 @@
       "english": "+%d minutes added",
       "english_plurals": {
         "one": "+%d minute added",
-        "other": "+%d minutes added"
+        "other": "+%d دقیقه وقت اضافه"
       },
       "plurals": {
         "one": "+%d دقیقه وقت اضافه",
@@ -7508,12 +7508,12 @@
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
       "english": "Aerial duels lost",
-      "value": "ضربه سر موفق"
+      "value": "دوئل هوایی ناموفق"
     },
     "notifications_aerials_won": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won",
-      "value": "ضربات پرشی موفق"
+      "value": "دوئل هوایی موفق"
     },
     "notifications_albania": {
       "english": "Albania",
