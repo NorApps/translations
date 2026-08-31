@@ -344,7 +344,7 @@
       "value": "Blocked"
     },
     "accessibility_shot_blocks": {
-      "comment": "NUmber of times a defender has blocked a shot by standing in it's path when the other team has a shot at goal.",
+      "comment": "Number of times a defender has blocked a shot by standing in its path when the other team has a shot at goal.",
       "english": "Blocks",
       "value": "Blocks"
     },
@@ -370,12 +370,12 @@
     "accessibility_sync_to_calendar_description": {
       "comment": "Text shown in a panel that lets the user add a team's fixtures to the calendar. Input is the team name and the team short name, eg: Sync <b>Manchester United's</b><b>Man United's</b> fixtures to your favorite calendar app. (The code will show either the team name or the short name depending on screen size)",
       "english": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app.",
-      "value": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app."
+      "value": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favourite calendar app."
     },
     "accessibility_sync_to_calendar_description_plain": {
       "comment": "Same as sync_to_calendar_description, but without html tags. Input is the team name, eg: Sync Liverpool's fixtures to your favorite calendar app.",
       "english": "Sync %1$@'s fixtures to your favorite calendar app.",
-      "value": "Sync %1$@'s fixtures to your favorite calendar app."
+      "value": "Sync %1$@'s fixtures to your favourite calendar app."
     },
     "accessibility_tackles_succeeded_percent": {
       "english": "Tackles won %",
@@ -400,11 +400,6 @@
       "comment": "Text shown as the header for a list of the top leagues.",
       "english": "Top leagues",
       "value": "Top leagues"
-    },
-    "accessibility_total_passes": {
-      "comment": "Total amount of passes. Includes both accurate and missed passes.",
-      "english": "Total passes",
-      "value": "Passes"
     },
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
@@ -598,6 +593,11 @@
       "english": "Ca",
       "value": "Ca"
     },
+    "common_card_desc_unsporting_behavior": {
+      "comment": "General unsportsmanlike conduct; the umbrella term from the Laws of the Game.",
+      "english": "Unsporting behavior",
+      "value": "Unsporting behaviour"
+    },
     "common_centerback": {
       "comment": "Player position - player plays in the center back",
       "english": "Center-back",
@@ -615,10 +615,6 @@
     "common_change_rss": {
       "english": "Change news feed",
       "value": "Change news feed"
-    },
-    "common_change_sort": {
-      "english": "Change sorting",
-      "value": "Change sorting"
     },
     "common_choose_rss": {
       "english": "Select which news feed to display for the currently chosen league",
@@ -648,14 +644,6 @@
     "common_commentary_feature_description3": {
       "english": "It might take up to 30 seconds before audio is audible after pressing play.",
       "value": "It might take up to 30 seconds before audio is audible after pressing play."
-    },
-    "common_commentary_feature_description4": {
-      "english": "Feedback on commentaries are very welcome!",
-      "value": "Feedback on commentaries are very welcome!"
-    },
-    "common_commentary_not_started": {
-      "english": "The audio commentary starts about 5 minutes before the match. Please try again later.",
-      "value": "The audio commentary starts about 5 minutes before the match. Please try again later."
     },
     "common_commentary_window_title": {
       "english": "Live Commentary",
@@ -764,6 +752,17 @@
       "english": "Drawn",
       "value": "Drawn"
     },
+    "common_drawn_long_plurals": {
+      "comment": "Label rendered next to or below a count of matches drawn (H2H card, season-so-far card, coach W-D-L card). Must agree grammatically with the number, e.g. pt-BR \"1 Empate\" / \"11 Empates\". Label only - the number is rendered separately by the client, so no %d.",
+      "english_plurals": {
+        "one": "Drawn",
+        "other": "Drawn"
+      },
+      "plurals": {
+        "one": "Drawn",
+        "other": "Drawn"
+      }
+    },
     "common_edit_match_alerts": {
       "comment": "Button caption for changing alerts for all teams. Please keep this short as possible",
       "english": "Edit alerts",
@@ -802,10 +801,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "An error occurred, please retry the operation"
-    },
-    "common_error_push": {
-      "english": "Error registering push notification, please try again",
-      "value": "Error registering push notification, please try again"
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
@@ -1142,6 +1137,17 @@
       "english": "Lost",
       "value": "Lost"
     },
+    "common_lost_long_plurals": {
+      "comment": "Label rendered next to or below a count of matches lost (H2H card, season-so-far card, coach W-D-L card). Must agree grammatically with the number, e.g. pt-BR \"1 Derrota\" / \"11 Derrotas\". Label only - the number is rendered separately by the client, so no %d.",
+      "english_plurals": {
+        "one": "Lost",
+        "other": "Lost"
+      },
+      "plurals": {
+        "one": "Lost",
+        "other": "Lost"
+      }
+    },
     "common_ltc": {
       "english": "Live ticker",
       "value": "Live ticker"
@@ -1394,11 +1400,6 @@
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
       "value": "Select your favourite players and get notified for goals, red cards, missed penalties and more"
     },
-    "common_onboarding_team_help_infromation": {
-      "comment": "Help text to explain onboarding for users",
-      "english": "Select your national team to receive updates of upcoming matches, goals and more",
-      "value": "Select your national team to receive updates of upcoming matches, goals and more"
-    },
     "common_onboarding_world_cup_card_calltoaction": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
       "english": "Choose your favorites",
@@ -1540,10 +1541,6 @@
       "english": "Reset",
       "value": "Reset"
     },
-    "common_resync": {
-      "english": "Re-sync purchases",
-      "value": "Re-sync purchases"
-    },
     "common_resync_desc": {
       "english": "If you have previously bought gold or silver, click here",
       "value": "If you have previously bought gold or silver, click here"
@@ -1626,11 +1623,6 @@
     "common_select_league": {
       "english": "Select league",
       "value": "Select league"
-    },
-    "common_select_your_team": {
-      "comment": "Onboarding your favorite team",
-      "english": "Start setup",
-      "value": "Start setup"
     },
     "common_settings": {
       "english": "Settings",
@@ -1810,10 +1802,6 @@
       "english": "Choose timezone",
       "value": "Choose timezone"
     },
-    "common_title_activity_sort": {
-      "english": "Sort",
-      "value": "Sort"
-    },
     "common_title_activity_squad_member": {
       "english": "Squad member",
       "value": "Squad member"
@@ -1931,10 +1919,6 @@
       "english": "Unfollow %@",
       "value": "Unfollow %@"
     },
-    "common_unstar_league": {
-      "english": "Remove from favorites",
-      "value": "Remove from favourites"
-    },
     "common_upcoming_matches": {
       "english": "Upcoming matches",
       "value": "Upcoming matches"
@@ -2004,6 +1988,17 @@
     "common_won_long": {
       "english": "Won",
       "value": "Won"
+    },
+    "common_won_long_plurals": {
+      "comment": "Label rendered next to or below a count of matches won (H2H card, season-so-far card, coach W-D-L card). Must agree grammatically with the number, e.g. pt-BR \"1 Vitória\" / \"11 Vitórias\". Label only - the number is rendered separately by the client, so no %d.",
+      "english_plurals": {
+        "one": "Won",
+        "other": "Won"
+      },
+      "plurals": {
+        "one": "Won",
+        "other": "Won"
+      }
     },
     "common_worldnews": {
       "english": "World news",
@@ -2226,6 +2221,18 @@
       "english": "Alert should arrive soon.",
       "value": "Alert should arrive soon."
     },
+    "ios_rate_fotmob_accessibility": {
+      "comment": "An accessibility label for the star buttons in the \"rate FotMob\" card, read aloud by VoiceOver. %@/%d is the number of stars (1-5) that button gives, e.g. \"Rate FotMob [5] stars\" where the bracketed text is the variable.",
+      "english": "Rate FotMob %@ stars",
+      "english_plurals": {
+        "one": "Rate FotMob %d star",
+        "other": "Rate FotMob %d stars"
+      },
+      "plurals": {
+        "one": "Rate FotMob %d star",
+        "other": "Rate FotMob %d stars"
+      }
+    },
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
@@ -2286,20 +2293,6 @@
       "english": "Bronze-final",
       "value": "Bronze-final"
     },
-    "new_change_news_sound": {
-      "english": "Change sound for news alerts",
-      "value": "Change sound for news alerts"
-    },
-    "new_choose_favorite_team": {
-      "comment": "Header in screen where user can choose the top football teams",
-      "english": "Popular teams",
-      "value": "Popular teams"
-    },
-    "new_choose_favorite_team_national": {
-      "comment": "Header in screen where user can choose a local team",
-      "english": "Local Teams",
-      "value": "Local Teams"
-    },
     "new_city_guides": {
       "comment": "Videos from the World Cup citys",
       "english": "City guides",
@@ -2323,10 +2316,6 @@
       "comment": "Indicates that the user has the default sound set",
       "english": "Default",
       "value": "Default"
-    },
-    "new_did_you_know": {
-      "english": "Did you know?",
-      "value": "Did you know?"
     },
     "new_dismiss": {
       "comment": "User is prompted for an action in a dialog and this is the cancel button",
@@ -3147,6 +3136,7 @@
       "value": "OK, sure"
     },
     "notifications_pass_percentage": {
+      "comment": "The percentage of passes being successful",
       "english": "Pass success",
       "value": "Pass success"
     },
@@ -3251,7 +3241,7 @@
     "notifications_sign_in_dialog": {
       "comment": "Dialog \"selling\" profile login",
       "english": "We can keep your favorites and settings safe. <b>Sign in now?</b>",
-      "value": "We can keep your favorites and settings safe. <b>Sign in now?</b>"
+      "value": "We can keep your favourites and settings safe. <b>Sign in now?</b>"
     },
     "notifications_sign_in_with_apple": {
       "english": "Sign in with Apple",
@@ -3425,6 +3415,17 @@
       "english": "Your content has not been synced yet. Please sign out and in again if the problem persists.",
       "value": "Your content has not been synced yet. Please sign out and in again if the problem persists."
     },
+    "referee_referee_last_x_years": {
+      "comment": "Time window for the referee's stats in Referee Profile, e.g. \"Last 3 years\".",
+      "english_plurals": {
+        "one": "Last year",
+        "other": "Last %d years"
+      },
+      "plurals": {
+        "one": "Last year",
+        "other": "Last %d years"
+      }
+    },
     "seo_TOTW": {
       "comment": "Team of the Week.",
       "english": "TOTW",
@@ -3565,7 +3566,7 @@
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
       "english": "%1$@ are the favorites to win the match, according to the bookmakers.",
-      "value": "%1$@ are the favorites to win the match, according to the bookmakers."
+      "value": "%1$@ are the favourites to win the match, according to the bookmakers."
     },
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
@@ -3658,15 +3659,30 @@
       "english": "Rumor",
       "value": "Rumour"
     },
+    "seo_rumoured_transfer_no_fee": {
+      "comment": "Player page text showing the rumoured destination club (%1$@), with no fee reported. See rumoured_transfer_with_fee.",
+      "english": "Rumored to %1$@",
+      "value": "Rumoured to %1$@"
+    },
+    "seo_rumoured_transfer_on_loan": {
+      "comment": "Player page text showing the club a player is rumoured to join on loan (%1$@). No fee is shown for loans. See rumoured_transfer_no_fee.",
+      "english": "Rumored to %1$@ on loan",
+      "value": "Rumoured to %1$@ on loan"
+    },
+    "seo_rumoured_transfer_title": {
+      "comment": "Compact mobile player-page card title for a rumoured move; club and fee shown separately (no placeholders). See rumoured_transfer_with_fee.",
+      "english": "Rumored transfer",
+      "value": "Rumoured transfer"
+    },
+    "seo_rumoured_transfer_with_fee": {
+      "comment": "Player page text showing the rumoured destination club (%1$@) and transfer fee (%2$@). See rumoured_transfer_no_fee.",
+      "english": "Rumored to %1$@ for %2$@",
+      "value": "Rumoured to %1$@ for %2$@"
+    },
     "seo_rumours": {
       "comment": "Title for the rumours section in the transfer centre.",
       "english": "Rumors",
       "value": "Rumours"
-    },
-    "seo_save": {
-      "comment": "Outcome after a shot that indicates that the keeper made a save",
-      "english": "Save",
-      "value": "Saves"
     },
     "seo_seconds_countdown_short_plural": {
       "comment": "Short abbreviation for \"seconds\" used as a standalone label below a number in a countdown timer. Should be concise.",
@@ -3678,6 +3694,11 @@
         "one": "Sec",
         "other": "Secs"
       }
+    },
+    "seo_see_all_rumours": {
+      "comment": "Button on a player's rumour card that links to the full rumours page. See see_all_matches.",
+      "english": "All rumors",
+      "value": "All rumours"
     },
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
@@ -3697,7 +3718,7 @@
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
       "english": "Create a personalized news feed with breaking news from your favorite clubs and leagues.",
-      "value": "Create a personalized news feed with breaking news from your favorite clubs and leagues."
+      "value": "Create a personalized news feed with breaking news from your favourite clubs and leagues."
     },
     "seo_site_description_latest_news": {
       "comment": "Meta description text for the Latest News page.",
@@ -3722,12 +3743,12 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
+      "value": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Centre - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
+      "value": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Centre - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!"
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -3851,12 +3872,12 @@
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
       "english": "Transfer Center - Latest & Top Transfers - FotMob",
-      "value": "Transfer Center - Latest & Top Transfers - FotMob"
+      "value": "Transfer Centre - Latest & Top Transfers - FotMob"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
       "english": "Transfer Center - %1$@: Latest & Top Transfers - FotMob",
-      "value": "Transfer Center - %1$@: Latest & Top Transfers - FotMob"
+      "value": "Transfer Centre - %1$@: Latest & Top Transfers - FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
@@ -3924,6 +3945,41 @@
         "one": "1 match",
         "other": "%d matches"
       }
+    },
+    "stat answer box_stat_answer_position_center_back": {
+      "comment": "Plural form of \"center-back\", see \"centerback\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Tackles per 90 among center-backs ...\".",
+      "english": "center-backs",
+      "value": "centre-backs"
+    },
+    "widget intents_4785Wb": {
+      "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the team-widget Configuration intent. Most languages use a short \"Select team\" form.",
+      "english": "Select favorite team to follow",
+      "value": "Select favourite team to follow"
+    },
+    "widget intents_LEt5bZ": {
+      "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the league-widget LeagueConfiguration intent.",
+      "english": "Select favorite league to follow",
+      "value": "Select favourite league to follow"
+    },
+    "widget intents_ZFqI4a": {
+      "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the FavoriteMatchesConfiguration intent.",
+      "english": "Get favorite matches",
+      "value": "Get favourite matches"
+    },
+    "widget intents_bMHKij": {
+      "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Dark Mode Color\" parameter label in the team-widget configuration.",
+      "english": "Dark Mode Color",
+      "value": "Dark Mode Colour"
+    },
+    "widget intents_dtKSES": {
+      "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Rendering-mode option: full color.",
+      "english": "Full color",
+      "value": "Full colour"
+    },
+    "widget intents_yOcG33": {
+      "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the FavoriteMatchesConfiguration intent.",
+      "english": "Favorite Matches Configuration",
+      "value": "Favourite Matches Configuration"
     }
   }
 }
