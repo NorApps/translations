@@ -138,7 +138,7 @@
     "accessibility_attacking_zones": {
       "comment": "Title of a match stats card showing which areas of the pitch (left, right or centre) a team attacks through the most.",
       "english": "Attacking zones",
-      "value": "ناوچەکانی هێرش"
+      "value": "ناوچەکانی هێرشکردن"
     },
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
@@ -163,7 +163,7 @@
     "accessibility_career_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a player's career history on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. It splits the player's career into parts such as club career and national team career. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "Career sections",
-      "value": "بەشەکانی ژیانی پیشەگەری"
+      "value": "بەشەکانی کاروانی وەرزشی"
     },
     "accessibility_career_stats": {
       "comment": "Text shown on tab header for tab that shows the career stats for a player.",
@@ -890,7 +890,7 @@
     "accessibility_league_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a league page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are things like Overview, Table, Matches, Stats and Transfers. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "League sections",
-      "value": "بەشەکانی خول"
+      "value": "بەشەکانی خولەکە"
     },
     "accessibility_league_widget_body": {
       "comment": "Description of what our league widget does. It shows the matches that are playing today for a league (for example EURO2020)",
@@ -915,7 +915,7 @@
     "accessibility_line_breaking_passes": {
       "comment": "Player stat. A pass that breaks through a line of opposition players (e.g. the defensive or midfield line). Shown next to \"Passes into final third\".",
       "english": "Line-breaking passes",
-      "value": "پاسە هێڵشکێنەکان"
+      "value": "پاسەکانی شکاندنی هێڵ"
     },
     "accessibility_live_activities": {
       "comment": "A new feature in iOS 16: See https://www.apple.com/[your-language-code]/ios/ios-16/ for the proper naming scheme",
@@ -1034,7 +1034,7 @@
     "accessibility_match_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a match page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are Facts, Review, Teams, Table and Stats. \"Match\" is a single football fixture. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "Match sections",
-      "value": "بەشەکانی یاری"
+      "value": "بەشەکانی یاریەکە"
     },
     "accessibility_match_stats": {
       "comment": "Used as a title of a button where the user can toggle to show the stats for the previous match of a team. NB: Keep as short as possible while retaining the meaning, as we have limited space for this.",
@@ -1647,7 +1647,7 @@
     "accessibility_profile_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of the signed-in user's own profile page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. This is the app user's account profile, not a player or team profile. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "Profile sections",
-      "value": "بەشەکانی پڕۆفایلی بەکارهێنەر"
+      "value": "بەشەکانی پڕۆفایل"
     },
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
@@ -1915,7 +1915,7 @@
     "accessibility_standings_average_points_long": {
       "comment": "Accessibility label (read by screen readers) for the average points per game column in averages-relegation standings.",
       "english": "Average points per game",
-      "value": "ناوەندی خاڵ بۆ هەر یارییەک"
+      "value": "تێکڕای خاڵ بۆ هەر یاریەک"
     },
     "accessibility_starting_eleven": {
       "comment": "The 11 players who start a match",
@@ -2199,7 +2199,7 @@
     "accessibility_team_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a team page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are things like Overview, Table, Fixtures, Squad and Stats. Keep it parallel to \"league_sections_nav\". Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "Team sections",
-      "value": "بەشەکانی تیم"
+      "value": "بەشەکانی تیمەکە"
     },
     "accessibility_template_10096": {
       "comment": "Tournament between women club teams",
@@ -2409,7 +2409,7 @@
     "accessibility_tv_guide_dates_nav": {
       "comment": "Invisible accessible name for the row of date buttons in the TV guide, used to jump to a given day's listings on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. Phrase it as a short instruction to pick a date, matching how \"select\"/\"choose\" is normally worded in this UI language.",
       "english": "Select date",
-      "value": "بەروار هەڵبژێرە"
+      "value": "بەروارێک هەڵبژێرە"
     },
     "accessibility_type_to_redeem_it": {
       "comment": "Body text on the redeem code entry screen, prompting the user to type their code into the input field below.",
@@ -2728,7 +2728,7 @@
     "common_all_time_top_scorers": {
       "comment": "Title for the all-time top scorer list of a league (e.g. World Cup). Used as card header and screen title.",
       "english": "All-time top scorers",
-      "value": "باشترین گۆڵکارانی مێژوو"
+      "value": "گۆڵکارانی مێژوو"
     },
     "common_all_transfers": {
       "comment": "A label indicating that you want to search all the transfers and not only the most important ones.",
@@ -2926,12 +2926,12 @@
     "common_capacity_used": {
       "comment": "Accessibility label indicating how much of a stadium's capacity was filled for the match",
       "english": "Capacity used",
-      "value": "ڕێژەی بەکارهێنانی گونجایش"
+      "value": "ڕێژەی پڕبوونەوە"
     },
     "common_card_desc_abusive_language": {
       "comment": "Abusive language towards players or referees.",
       "english": "Abusive language",
-      "value": "زمانی سووکایەتی"
+      "value": "قسەی نەشیاو"
     },
     "common_card_desc_dangerous_play": {
       "comment": "Booking for endangering opposition players through dangerous play.",
@@ -2941,12 +2941,12 @@
     "common_card_desc_dissent": {
       "comment": "Arguing with or protesting the referee's decision. Not verbal abuse of an opponent.",
       "english": "Dissent",
-      "value": "ناڕەزایی"
+      "value": "دەربڕینی ناڕەزایەتی"
     },
     "common_card_desc_excessive_celebration": {
       "comment": "Excessively celebrating a goal; usually celebrating towards the opposing team's fans or players, or taking off the shirt.",
       "english": "Excessive celebration",
-      "value": "ئاهەنگگێڕانی زێدەڕۆیانە"
+      "value": "زیادەڕۆیی لە ئاهەنگگێڕان"
     },
     "common_card_desc_foul": {
       "comment": "Reason a player was booked, shown below the player name in the match events list (e.g. \"Yellow card - Foul\"). The general offence of fouling an opponent, not a free kick.",
@@ -2956,32 +2956,32 @@
     "common_card_desc_handball": {
       "comment": "Illegally touching the ball with the hand or arm. Not the sport handball.",
       "english": "Handball",
-      "value": "فاوڵی دەست"
+      "value": "تۆپ بەر دەستی کەوت"
     },
     "common_card_desc_persistent_infringement": {
       "comment": "Booked for repeatedly committing fouls over the course of the match, not for one single offence.",
       "english": "Persistent infringement",
-      "value": "دووبارەبوونی فاوڵەکان"
+      "value": "سەرپێچی بەردەوام"
     },
     "common_card_desc_professional_foul": {
       "comment": "Reason a player was booked, shown below the player name in the match events list. A deliberate foul to stop a clear goal-scoring chance, typically by the last defender.",
       "english": "Professional foul",
-      "value": "فاوڵی تاکتیکی"
+      "value": "فاوڵی پیشەگەرانە"
     },
     "common_card_desc_serious_foul": {
       "comment": "Reason a player was sent off, shown below the player name in the match events list. Serious foul play - a challenge that endangers an opponent. A red card offence in Law 12.",
       "english": "Serious foul play",
-      "value": "فاوڵی توند"
+      "value": "فاوڵی مەترسیدار"
     },
     "common_card_desc_simulation": {
       "comment": "Pretending to be fouled to win a free kick or penalty; commonly called diving.",
       "english": "Simulation",
-      "value": "خۆهاوێشتن"
+      "value": "نواندن"
     },
     "common_card_desc_time_wasting": {
       "comment": "Deliberately delaying the restart of play.",
       "english": "Time wasting",
-      "value": "کات کێشان"
+      "value": "کات کوشتن"
     },
     "common_card_desc_unsporting_behavior": {
       "comment": "General unsportsmanlike conduct; the umbrella term from the Laws of the Game.",
@@ -2991,7 +2991,7 @@
     "common_card_desc_violent_conduct": {
       "comment": "Reason a player was sent off, shown below the player name in the match events list. Excessive force or brutality against any person when not challenging for the ball. Always a red card.",
       "english": "Violent conduct",
-      "value": "هەڵسوکەوتی توندوتیژانە"
+      "value": "ڕەفتاری توندوتیژی"
     },
     "common_celsius": {
       "comment": "A setting to toggle the temperature unit to Celsius (°C) instead of Fahrenheit (°F)",
@@ -3839,7 +3839,7 @@
     "common_fouls_short": {
       "comment": "Column header in a referee stats card, rendered directly above its own value: \"Fouls\" sits above \"18.8 / match\". Translate as the bare plural noun for fouls and nothing else - no qualifier such as \"committed\", \"called\", \"awarded\" or \"per match\", since the value line below already carries that. Reuse whatever root word for a foul that \"foul\", \"fouls\" and \"fouls_per_match\" already use in this language, but drop their qualifiers - e.g. where \"fouls\" reads \"Fouls committed\", this key is just \"Fouls\".",
       "english": "Fouls",
-      "value": "فاوڵ"
+      "value": "فاوڵەکان"
     },
     "common_free_formation": {
       "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
@@ -3889,12 +3889,12 @@
     "common_fun_fact_joint_most_defensive_contributions": {
       "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Had the joint-most defensive contributions (%1$@)",
-      "value": "یەکێک بوو لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەبوو (%1$@)"
+      "value": "یەکێک بوو لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەبوو (%1$@) بەشداری بەرگری"
     },
     "common_fun_fact_joint_most_defensive_contributions_live": {
       "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Has the joint-most defensive contributions (%1$@)",
-      "value": "یەکێکە لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەیە (%1$@)"
+      "value": "یەکێکە لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەیە (%1$@) بەشداری بەرگری"
     },
     "common_fun_fact_joint_most_distance_covered": {
       "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
@@ -4001,7 +4001,7 @@
       "plurals": {
         "one": "لێدانێکی سزای لەدەستدا",
         "other": "%d لێدانی سزای لەدەستدا"
-      }
+      } 
     },
     "common_fun_fact_most_defensive_contributions": {
       "comment": "Example: had the most defensive contributions (8). Defensive contributions include tackles, interceptions, blocks, and clearances.",
@@ -4699,7 +4699,7 @@
     "common_lineup_builder_more_desc": {
       "comment": "The fotmob lineup builder feature description in the more tab",
       "english": "Build your own FotMob lineup",
-      "value": "پێکهاتەی تایبەت بە خۆت لە FotMob دروست بکە"
+      "value": "پێکهاتەی تایبەت بە خۆت لە فوتمۆب دروست بکە"
     },
     "common_lineup_builder_onboarding_desc": {
       "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
@@ -4976,12 +4976,12 @@
     "common_new_season_features_onboarding_body": {
       "comment": "Body of an onboarding popup announcing new features for the new season. A video above it already shows the features, so this text must not list them.",
       "english": "We've made FotMob even better for the new season. See more about the referee before kick-off, understand how teams attack, and find new details on players and teams.",
-      "value": "ئێمە FotMobمان بۆ وەرزی نوێ باشتر کردووە. پێش یاری زیاتر لەسەر ناوبژیوان بزانە، ببینە یانەکان چۆن هێرش دەکەن و زانیاری نوێ لەسەر یاریزان و یانەکان بدۆزەوە."
+      "value": "ئێمە FotMob مان بۆ وەرزی نوێ باشتر کرد. پێش دەستپێکردنی یاریەکە زیاتر لەبارەی ناوبژیوانەوە بزانە، تێگەیشتن لە چۆنیەتی هێرشبردنی یانەکان، و دۆزینەوەی وردەکاریی نوێ لەسەر یاریزانان و یانەکان."
     },
     "common_new_season_features_onboarding_title": {
       "comment": "Title of an onboarding popup announcing new features for the new football season.",
       "english": "New season, new features",
-      "value": "وەرزی نوێ، تایبەتمەندیە نوێیەکان"
+      "value": "وەرزی نوێ، تایبەتمەندی نوێ"
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
@@ -5405,7 +5405,7 @@
     "common_play_video": {
       "comment": "Accessibility label for playing a video",
       "english": "Play video",
-      "value": "ڤیدیۆ پەخش بکە"
+      "value": "ئیشپێکردنی ڤیدیۆ"
     },
     "common_played": {
       "english": "Pl",
@@ -6051,7 +6051,7 @@
     "common_standings_average_coefficient_short": {
       "comment": "Short column header for averages coefficient (decimal value).",
       "english": "Avg",
-      "value": "ناوەند"
+      "value": "تێکڕا"
     },
     "common_star": {
       "english": "Add %@",
@@ -6380,7 +6380,7 @@
     "common_toggle_bracket_layout": {
       "comment": "Accessibility label for toggling a bracket layout",
       "english": "Toggle bracket layout",
-      "value": "شێوەی خشتەی قۆناغەکان بگۆڕە"
+      "value": "گۆڕینی شێوازی خشتەی قۆناغەکان"
     },
     "common_toggle_favorite": {
       "english": "Set or unset as favorite",
@@ -6721,7 +6721,7 @@
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
-      "value": "ئێستا تماشا بکە"
+      "value": "ئێستا سەیری بکە"
     },
     "common_welcome_to_supporters_club": {
       "comment": "A header for the Thank-you-for-supporting-us popup",
@@ -7018,27 +7018,27 @@
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
-      "value": "لەسەر قوفڵی شاشەکەت چاودێری جامی جیهانی مۆندیال بکە"
+      "value": "لەسەر قوفڵی شاشەکەت چاودێری جامی جیھانی مۆندیال بکە"
     },
     "ios_go_to": {
       "comment": "App Shortcut action title. Imperative verb phrase meaning \"navigate to\"; the destination screen name is shown separately and is not part of this string.",
       "english": "Go to",
-      "value": "بچۆ بۆ"
+      "value": "ڕۆشتن بۆ"
     },
     "ios_goals_against": {
       "comment": "An accessibility label for the standings cell indicating how many goals a team has conceded",
       "english": "Goals against",
-      "value": "گۆڵی خواردوو"
+      "value": "گۆڵ لێکران"
     },
     "ios_goals_for": {
       "comment": "An accessibility label for the standings cell indicating how many goals a team has scored",
       "english": "Goals for",
-      "value": "گۆڵی تۆمارکراو"
+      "value": "گۆڵ کردن"
     },
     "ios_last_match_result": {
       "comment": "An accessibility label for the team's last match result",
       "english": "Last match result",
-      "value": "ئەنجامی کۆتا یاری"
+      "value": "ئەنجامی دواین یاری"
     },
     "ios_last_matches": {
       "comment": "Header for a teams last played matches.",
@@ -7107,7 +7107,7 @@
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
-      "value": "شووتی داهاتوو"
+      "value": "شووتی دواتر"
     },
     "ios_open_safari": {
       "english": "Open in Safari",
@@ -7121,12 +7121,12 @@
     "ios_player_sub_in_minute": {
       "comment": "VoiceOver label for a lineup substitution. %@ is the localized ordinal minute number, e.g. \"Subbed on in the [74th] minute\" where the bracketed ordinal is the variable.",
       "english": "Subbed on in the %@ minute",
-      "value": "لە خولەکی %@دا هاتە ناو یاریگا"
+      "value": "لە خولەکی %@ هاتە ناوەوە"
     },
     "ios_player_sub_out_minute": {
       "comment": "VoiceOver label for a lineup substitution. %@ is the localized ordinal minute number, e.g. \"Subbed off in the [74th] minute\" where the bracketed ordinal is the variable.",
       "english": "Subbed off in the %@ minute",
-      "value": "لە خولەکی %@دا چووە دەرەوە"
+      "value": "لە خولەکی %@ چووە دەرەوە"
     },
     "ios_points_long": {
       "english": "Points",
@@ -7135,7 +7135,7 @@
     "ios_previous_shot": {
       "comment": "An accessibility label for the previous shot button in the shotmap",
       "english": "Previous shot",
-      "value": "شووتی پێشوو"
+      "value": "شووتی پێشتر"
     },
     "ios_purchase_failed": {
       "english": "The purchase failed, please try again",
@@ -7154,10 +7154,10 @@
         "other": "Rate FotMob %d stars"
       },
       "plurals": {
-        "one": "FotMob بە %d ئەستێرە هەڵسەنگێنە",
-        "other": "FotMob بە %d ئەستێرە هەڵسەنگێنە"
+        "one": "پێدانی %d ئەستێرە بە FotMob",
+        "other": "پێدانی %d ئەستێرە بە FotMob"
       },
-      "value": "FotMob بە %@ ئەستێرە هەڵسەنگێنە"
+      "value": "پێدانی %@ ئەستێرە بە FotMob"
     },
     "ios_screen": {
       "comment": "Noun labelling the screen-picker parameter in the \"Go to\" App Shortcut — an app screen/section the user navigates to (not the verb \"to screen\").",
@@ -7172,7 +7172,7 @@
     "ios_times_won": {
       "comment": "An accessibility label for the team trophy card. The number of times the team has won the competition is read out after this label",
       "english": "Number of times won",
-      "value": "ژمارەی جارەکانی بردنەوە"
+      "value": "ژمارەی بردنەوەکان"
     },
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
@@ -7199,35 +7199,35 @@
     "ltc accessibility_ltc_accessibility_add_reaction": {
       "comment": "VoiceOver label for the button that opens the reaction picker in live text commentary.",
       "english": "Add reaction",
-      "value": "زیادکردنی واکنش"
+      "value": "زیادکردنی کاردانەوە"
     },
     "ltc accessibility_ltc_accessibility_add_reaction_hint": {
       "comment": "VoiceOver hint for the merged reactions element in live text commentary. Describes what happens when the element is activated.",
       "english": "Double tap to add reaction",
-      "value": "دووجار لێبدە بۆ زیادکردنی وەڵامدانەوە"
+      "value": "دووجار پەنجە دابگرە بۆ زیادکردنی کاردانەوە"
     },
     "ltc accessibility_ltc_accessibility_elapsed_minutes": {
       "comment": "VoiceOver label for elapsed match time in live text commentary. Placeholder is already formatted match time, for example \"90+4\", so the full label reads \"90+4 minutes\". Use the numeric total minute count for plural selection.",
-      "english": "%@ minutes",
+      "english": "%@ minutes"
       "english_plurals": {
         "one": "%@ minute",
         "other": "%@ minutes"
       },
       "plurals": {
-        "one": "%@ خولەک",
-        "other": "%@ خولەک"
+        "one": "خولەکی %@",
+        "other": "خولەکی %@"
       },
-      "value": "%@ خولەک"
+      "value": "خولەکی %@"
     },
     "ltc accessibility_ltc_accessibility_expert_take": {
       "comment": "VoiceOver label for the header of an expert take in live text commentary. First placeholder is the expert name, second is their title or affiliation, for example \"Expert take from Henry Winter, Football journalist on X\".",
       "english": "Expert take from %1$@, %2$@",
-      "value": "ڕای شارەزا لەلایەن %1$@، %2$@"
+      "value": "ڕاوبۆچوونی شارەزا لەسەر %1$@, %2$@"
     },
     "ltc accessibility_ltc_accessibility_fan_take": {
       "comment": "VoiceOver label for the header of a fan take in live text commentary. First placeholder is the fan description, second is the fan name, for example \"Fan take: Crystal Palace fan, Alex\".",
       "english": "Fan take: %1$@, %2$@",
-      "value": "ڕای هۆادار: %1$@، %2$@"
+      "value": "ڕاوبۆچوونی هاندەر: %1$@, %2$@"
     },
     "ltc accessibility_ltc_accessibility_goal_to_team": {
       "comment": "VoiceOver label for a goal event in live text commentary. Placeholder is the team name, for example \"Goal to Manchester United\".",
@@ -7242,17 +7242,17 @@
     "ltc accessibility_ltc_accessibility_penalty_goal_to_team": {
       "comment": "VoiceOver label for a penalty goal event in live text commentary. Placeholder is the team name, for example \"Penalty goal to Manchester United\".",
       "english": "Penalty goal to %@",
-      "value": "گۆڵی لێدانی سزا بۆ %@"
+      "value": "گۆڵ بە لێدانی سزا بۆ %@"
     },
     "ltc accessibility_ltc_accessibility_penalty_missed_by_team": {
       "comment": "VoiceOver label for a missed penalty event in live text commentary. Placeholder is the team name, for example \"Missed penalty by Arsenal\".",
       "english": "Missed penalty by %@",
-      "value": "پێنالتێ لەدەستچوو لەلایەن %@"
+      "value": "لەدەستدانی لێدانی سزا بۆ %@"
     },
     "ltc accessibility_ltc_accessibility_player_stats_hint": {
       "comment": "VoiceOver hint for a tappable player in live text commentary. Describes what happens when the element is activated. Tapping opens the player's stats for this game.",
       "english": "Double tap to see player statistics.",
-      "value": "دووجار لێ بدە بۆ بینینی ئاماری یاریزان."
+      "value": "دووجار پەنجە دابگرە بۆ بینینی ئامارەکانی یاریزان."
     },
     "ltc accessibility_ltc_accessibility_poll_header": {
       "comment": "VoiceOver label for a poll question in live text commentary. Placeholder is the poll question text.",
@@ -7267,12 +7267,12 @@
     "ltc accessibility_ltc_accessibility_poll_option_with_votes": {
       "comment": "VoiceOver label for a poll option when results are visible. First placeholder is the option number, second is a percentage such as \"74%\", third is the option text.",
       "english": "Option %d, %@ of votes: %@",
-      "value": "هەڵبژاردە %d، %@ لە دەنگەکان: %@"
+      "value": "هەڵبژاردەی %d, %@ ی دەنگەکان: %@"
     },
     "ltc accessibility_ltc_accessibility_reactions_label": {
       "comment": "VoiceOver label prefix for the merged reactions element in live text commentary, followed by each reaction and its count, for example \"Reactions. Fire 12, thumbs up 8\".",
       "english": "Reactions",
-      "value": "کارەدانەوەکان"
+      "value": "کاردانەوەکان"
     },
     "ltc accessibility_ltc_accessibility_red_card_to_player": {
       "comment": "VoiceOver label for a red card or second yellow card event in live text commentary. First placeholder is the player name, second is the short team name, for example \"Red card to Nuno Mendes (PSG)\".",
@@ -7292,37 +7292,37 @@
     "ltc accessibility_odds_aria_away_win": {
       "comment": "Accessibility label (screen reader) for a betting odds button. Announces the away team winning outcome and its odds value. %1$@ is the odds/coefficient (e.g. 2.90). Keep the placeholder intact.",
       "english": "Away win, odds %1$@",
-      "value": "بردی یاریگای دەرەوە، ڕێژەی گرەوەکان %1$@"
+      "value": "بردنەوەی یانەی میوان، ڕێژەی گرەو %1$@"
     },
     "ltc accessibility_odds_aria_draw": {
       "comment": "Accessibility label (screen reader) for a betting odds button. Announces the draw outcome and its odds value. %1$@ is the odds/coefficient (e.g. 3.40). Keep the placeholder intact.",
       "english": "Draw, odds %1$@",
-      "value": "یەکسانبوون، ڕێژەی گرەوەکان %1$@"
+      "value": "یەکسانبوون، ڕێژەی گرەو %1$@"
     },
     "ltc accessibility_odds_aria_home_win": {
       "comment": "Accessibility label (screen reader) for a betting odds button. Announces the home team winning outcome and its odds value. %1$@ is the odds/coefficient (e.g. 2.10). Keep the placeholder intact.",
       "english": "Home win, odds %1$@",
-      "value": "بردی یاریگای خۆیان، ڕێژەی گرەوەکان %1$@"
+      "value": "بردنەوەی خاوەن یاریگا، ڕێژەی گرەو %1$@"
     },
     "ltc accessibility_odds_partner_link_aria": {
       "comment": "Accessibility label (screen reader) for a link that opens the betting partner's website from the odds section.",
       "english": "Visit betting partner",
-      "value": "سەردانی وێبسایتی هاوبەشی گرەوە بکە"
+      "value": "سەردانی هاوبەشی گرەوکردن بکە"
     },
     "ltc accessibility_odds_partner_logo_alt": {
       "comment": "Alt text (screen reader) for the betting partner's logo image shown in the odds section.",
       "english": "Betting partner logo",
-      "value": "لۆگۆی هاوبەشی گرەوە"
+      "value": "لۆگۆی هاوبەشی گرەوکردن"
     },
     "ltc accessibility_skip_to_main_content": {
       "comment": "Accessibility skip link (screen readers / keyboard nav). Jumps focus past the header to the main page content",
       "english": "Skip to main content",
-      "value": "بازبڕە بۆ ناوەڕۆکی سەرەکی"
+      "value": "تێپەڕاندن بۆ ناوەڕۆکی سەرەکی"
     },
     "ltc accessibility_stats_definitions": {
       "comment": "Label for a button that opens a list with the definitions for the Player stats or Team stats on the League Season Stats page.",
       "english": "Stats definitions",
-      "value": "پێناسەکانی ئامار"
+      "value": "ناساندنی ئامارەکان"
     },
     "new_END_NOTIFICATION": {
       "english": "%@ vs %@ finished %@-%@",
@@ -7614,42 +7614,42 @@
     "new_predict_match_locked_description": {
       "comment": "Toast body, one line under the title. Explains that predictions can no longer be submitted or edited for this match because it has kicked off.",
       "english": "This match is now locked for predictions.",
-      "value": "ئەم یارییە ئێستا بۆ پێشبینی داخراوە."
+      "value": "کاتی پێشبینیکردنی ئەم یاریە بەسەرچوو."
     },
     "new_predict_match_locked_title": {
       "comment": "Toast title shown when a score prediction is rejected because the match has already started. Very short — a heading, not a sentence.",
       "english": "Too late",
-      "value": "زۆر درەنگە"
+      "value": "زۆر درەنگە" 
     },
     "new_predictor_signin_error_message": {
       "comment": "Generic message in the FotMob Predict sign-in error dialog. %1$s is a diagnostic support snapshot (do not translate).",
       "english": "Please try again. If it keeps happening, screenshot this and contact support:\\n\\n%1$s",
-      "value": "تکایە دووبارە هەوڵ بدەرەوە. ئەگەر بەردەوام بوو، وێنەی شاشەی ئەمە بگرە و پەیوەندی بە پشتگیرییەوە بکە:\\n\\n%1$s"
+      "value": "​تکایە دووبارە هەوڵبدەرەوە. ئەگەر کێشەکە بەردەوام بوو، وێنەی ئەم شاشەیە بگرە و پەیوەندی بە تیمی پشتیوانییەوە بکە:\\n\\n%1$s"
     },
     "new_predictor_signin_error_retry": {
       "comment": "Button to retry signing in to FotMob Predict.",
       "english": "Retry",
-      "value": "دووبارە هەوڵ بدە"
+      "value": "دووبارە هەوڵبدەرەوە"
     },
     "new_predictor_signin_error_server_message": {
       "comment": "Shown when FotMob Predict's backend is temporarily failing. %1$s is a diagnostic support snapshot (do not translate).",
       "english": "FotMob Predict is having trouble right now. Please try again in a few minutes.\\n\\n%1$s",
-      "value": "FotMob Predict لە ئێستادا کێشەی هەیە. تکایە دوای چەند خولەکێک دووبارە هەوڵ بدەرەوە.\\n\\n%1$s"
+      "value": "پێشبینیکردنی FotMob ڕووبەڕووی کێشە بوەتەوە. تکایە دوای چەند خولەکێکی تر هەوڵبدەرەوە.\\n\\n%1$s"
     },
     "new_predictor_signin_error_stale_session_message": {
       "comment": "Shown when the user's FotMob Predict session has expired but the sign-in provider is unknown. %1$s is a diagnostic support snapshot (do not translate).",
       "english": "You need to sign in to keep playing FotMob Predict.\\n\\n%1$s",
-      "value": "پێویستە بچیتە ژوورەوە بۆ ئەوەی بەردەوام بیت لە یاریکردنی FotMob Predict.\\n\\n%1$s"
+      "value": "پێویستە بچیتە ژوورەوە بۆ ئەوەی بەردەوام بیت لە پێشبینیکردنی FotMob.\\n\\n%1$s"
     },
     "new_predictor_signin_error_stale_session_with_provider_message": {
       "comment": "Shown when the user's FotMob Predict sign-in has expired. %1$s is the provider name (e.g. Google, Facebook, Apple) and appears twice; %2$s is a diagnostic support snapshot (do not translate).",
       "english": "Your %1$s sign-in has expired. Please sign in with %1$s again to keep playing FotMob Predict.\\n\\n%2$s",
-      "value": "چوونەژوورەوەکەت بە %1$s بەسەرچووە. تکایە دووبارە بە %1$s بچۆ ژوورەوە بۆ ئەوەی بەردەوام بیت لە یاریکردنی FotMob Predict.\\n\\n%2$s"
+      "value": "چوونەژوورەوەت لە ڕێگەی %1$@ بەسەرچووە. تکایە دووبارە لە ڕێگەی %1$@ بچۆژوورەوە بۆ بەردەوامبوون لە پێشبینیکردنی فۆتمۆب.\\n\\n%2$s"
     },
     "new_predictor_signin_error_title": {
       "comment": "Title of the dialog shown when signing in to FotMob Predict fails.",
       "english": "Couldn't sign in to FotMob Predict",
-      "value": "نەتوانرا بچیتە ژوورەوە بۆ FotMob Predict"
+      "value": "​چوونەژوورەوە بۆ پێشبینیکردنی FotMob سەرکەوتوو نەبوو"
     },
     "new_profile_picture": {
       "english": "Profile picture",
@@ -7809,7 +7809,7 @@
     "new_unpin": {
       "comment": "Action button on the ongoing live-match notification (a Live Update) that removes/unpins that match from the live update notification.",
       "english": "Unpin",
-      "value": "لابردنی جێگیرکردن"
+      "value": "لابردن"
     },
     "new_username": {
       "english": "Username",
@@ -8051,7 +8051,7 @@
     "notifications_alert_rating_short_motm_female": {
       "comment": "Notification with a rating and indication that the player was the player of the match, where the data feed marks the player gender as female, so languages with grammatical gender can use the feminine form. Example (Spanish): \"🔥 Jugadora del partido (9.4)\"",
       "english": "🔥 Player of the match (%@)",
-      "value": "🔥 باشترین یاریزانی یاری (%@)"
+      "value": "🔥 باشترین یاریزانی یاریەکە (%@)"
     },
     "notifications_alert_red_card": {
       "english": "%@%@ received a red card!\\n%@",
@@ -10114,7 +10114,7 @@
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",
-      "value": "لە سەرەوەی تێکڕا"
+      "value": "سەرووی تێکڕا"
     },
     "referee_average": {
       "comment": "Used to describe if a stat is at or around the league average.",
@@ -10124,53 +10124,53 @@
     "referee_below_average": {
       "comment": "Used to describe if a stat is below the league average.",
       "english": "Below average",
-      "value": "لە خوارەوەی تێکڕا"
+      "value": "خوار تێکڕا"
     },
     "referee_failed_to_load_more_matches": {
       "comment": "Error shown when loading more referee matches fails in Referee Profile. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
       "english": "Failed to load more matches, <a>retry?</a>",
-      "value": "بارکردنی یارییە زیاترەکان سەرکەوتوو نەبوو، <a>هەوڵ بدەرەوە؟</a>"
+      "value": "نەتوانرا یاریی زیاتر باربکرێت، <a>دووبارە هەوڵبدەرەوە؟</a>"
     },
     "referee_line_breaking_passes_per_90": {
       "comment": "League top-stats leaderboard header. Line-breaking passes divided by 90 minutes played; the sub-title under it reuses [line_breaking_passes].",
       "english": "Line-breaking passes per 90",
-      "value": "پاسی هێڵشکێن بۆ هەر 90 خولەکێک"
+      "value": "پاسەکانی شکاندنی هێڵ بۆ هەر 90 خولەکێک"
     },
     "referee_penalties": {
       "comment": "Label for the number of penalties a referee has awarded. Full word, not an abbreviation; see penalties_short for the abbreviated form.",
       "english": "Penalties",
-      "value": "لێدانی سزا"
+      "value": "لێدانە سزاکان"
     },
     "referee_recent_matches": {
       "comment": "Header for recent referee matches in Referee Profile.",
       "english": "Recent matches",
-      "value": "دوایین یارییەکان"
+      "value": "دواین یاریەکان"
     },
     "referee_referee_last_x_years": {
       "comment": "Time window for the referee's stats in Referee Profile, e.g. \"Last 3 years\".",
       "english_plurals": {
-        "one": "Last year",
-        "other": "Last %d years"
-      },
-      "plurals": {
         "one": "ساڵی ڕابردوو",
         "other": "%d ساڵی ڕابردوو"
+      },
+      "plurals": {
+        "one": "Last year",
+        "other": "Last %d years"
       }
     },
     "referee_referee_stats": {
       "comment": "Section header for referee stats in league stats. Plural of the \"referee\" key.",
       "english": "Referees",
-      "value": "ناوبژیوانەکان"
+      "value": "ناوبژیوانان"
     },
     "referee_select_language": {
       "comment": "Aria-label for a dropdown that lets the user select language.",
       "english": "Select language",
-      "value": "زمان هەڵبژێرە"
+      "value": "دیاریکردنی زمان"
     },
     "referee_select_round": {
       "comment": "Aria-label for a dropdown that lets the user filter matches by selecting a round, e.g. selecting \"Round of 16\" only shows the matches from this round.",
       "english": "Select round",
-      "value": "گەڕ هەڵبژێرە"
+      "value": "دیاریکردنی گەڕ"
     },
     "seo_TOTW": {
       "comment": "Team of the Week.",
@@ -10343,7 +10343,7 @@
     "seo_bridge_timeout_message": {
       "comment": "Body paragraph below bridge_timeout_title on the same full-screen error page. Tells the user the app timed out while loading their user data (account/profile data fetched on startup) and directs them to open predict.fotmob.com in a web browser as a workaround. Use \"FotMob\" verbatim (proper noun) — do not translate or transliterate the product name. Keep the URL \"predict.fotmob.com\" verbatim — do not translate, transliterate, change the domain, or wrap it in markup. For RTL locales (ar, fa, ckb), make sure punctuation falls on the correct side of the sentence and the URL stays LTR. Tone: friendly, neutral, calm. ≤ 120 chars per locale.",
       "english": "The app timed out while loading your user data. Please go to predict.fotmob.com in a web browser.",
-      "value": "کاتی ئەپ بەسەرچوو لە بارکردنی داتاکانی بەکارهێنەرتدا. تکایە بچۆ بۆ ‎predict.fotmob.com‎ لە وێبگەڕێکدا."
+      "value": "بارکردنی زانیاریەکانت کاتێکی زۆری خایاند. تکایە لە وێبگەڕەکەت سەردانی predict.fotmob.com بکە."
     },
     "seo_bridge_timeout_title": {
       "comment": "Title (h1) of a full-screen error page shown when the FotMob native shell fails to handshake with the predictor web app within ~10 seconds. The page replaces the entire app UI; no header, no footer, no other text on screen. The user is inside the FotMob mobile app (iOS or Android webview) and cannot retry from this page — they must close and re-open the app. Tone: friendly, neutral, calm — a short acknowledgement of an error, not a technical phrase. No exclamation marks. ≤ 30 chars per locale.",
@@ -10373,7 +10373,7 @@
     "seo_cancel_anytime": {
       "comment": "Reassurance shown under the \"Start free trial\" button on the FotMob+ paywall, telling the user the subscription can be cancelled at any point. Displayed next to \"No payment now\", separated by a middle dot. Keep it very short, it must fit on one line with the other phrase.",
       "english": "Cancel anytime",
-      "value": "هەرکات دەتوانیت هەڵیبوەشێنیتەوە"
+      "value": "هەر کاتێک بێت هەڵیبوەشێنەوە"
     },
     "seo_change_app_icon_dialog": {
       "comment": "Shown as a dialog to the user when user clicks on a different app icons in the FotMob+ membership page.",
@@ -10433,37 +10433,37 @@
     "seo_completed_transfer_from_no_fee": {
       "comment": "Player page text showing the club a player transferred from (%1$@), with no fee reported. See completed_transfer_from_with_fee. See rumoured_transfer_no_fee.",
       "english": "Completed a transfer from %1$@",
-      "value": "گواستنەوەکە لە %1$@ تەواو بوو"
+      "value": "گواستنەوەکەی لە %1$@ تەواو بوو"
     },
     "seo_completed_transfer_from_on_loan": {
       "comment": "Player page text showing the club a player joined on loan from (%1$@). Shown when the player's current team already reflects the move. No fee is shown for loans. See completed_transfer_from_no_fee. See rumoured_transfer_on_loan.",
       "english": "Completed a loan transfer from %1$@",
-      "value": "گواستنەوەکە بە خواستن لە %1$@ تەواو بوو"
+      "value": "بە خواستن گەڕایەوە بۆ %1$@"
     },
     "seo_completed_transfer_from_with_fee": {
       "comment": "Player page text showing the club a player transferred from (%1$@) and the transfer fee (%2$@). Shown when the player's current team already reflects the move. See transfer. See rumoured_transfer_with_fee.",
       "english": "Completed a transfer from %1$@ for %2$@",
-      "value": "گواستنەوەکە لە %1$@ بە بڕی %2$@ تەواو بوو"
+      "value": "گواستنەوەکەی لە %1$@ بە بڕی %2$@ تەواو بوو"
     },
     "seo_completed_transfer_title": {
       "comment": "Compact mobile player-page card title for a completed move; club and fee shown separately (no placeholders). See completed_transfer_from_with_fee.",
       "english": "Completed a transfer",
-      "value": "گواستنەوە تەواو بوو"
+      "value": "گواستنەوەکە تەواو بوو"
     },
     "seo_completed_transfer_to_no_fee": {
       "comment": "Player page text showing the club a player transferred to (%1$@), with no fee reported. See completed_transfer_to_with_fee. See completed_transfer_from_no_fee.",
       "english": "Completed a transfer to %1$@",
-      "value": "گواستنەوەکە بۆ %1$@ تەواو بوو"
+      "value": "گواستنەوەکەی بۆ %1$@ تەواو بوو"
     },
     "seo_completed_transfer_to_on_loan": {
       "comment": "Player page text showing the club a player joined on loan (%1$@). Shown when the player's current team has not yet updated to the new club. No fee is shown for loans. See completed_transfer_to_no_fee. See completed_transfer_from_on_loan.",
       "english": "Completed a loan transfer to %1$@",
-      "value": "گواستنەوەکە بە خواستن بۆ %1$@ تەواو بوو"
+      "value": "بە خواستن پەیوەندی کرد بە %1$@"
     },
     "seo_completed_transfer_to_with_fee": {
       "comment": "Player page text showing the club a player transferred to (%1$@) and the transfer fee (%2$@). Shown when the player's current team has not yet updated to the new club. See completed_transfer_to_no_fee. See completed_transfer_from_with_fee.",
       "english": "Completed a transfer to %1$@ for %2$@",
-      "value": "گواستنەوەکە بۆ %1$@ بە بڕی %2$@ تەواو بوو"
+      "value": "گواستنەوەکەی بۆ %1$@ بە بڕی %2$@ تەواو بوو"
     },
     "seo_confirmed": {
       "comment": "Title for the list of confirmed transfers in the transfer centre. Keep it one word and short. See confirmed_transfer_news",
@@ -10523,7 +10523,7 @@
     "seo_countries_and_channels": {
       "comment": "A section header in tv schedules for a list of countries with their available channels",
       "english": "Countries and channels",
-      "value": "وڵاتەکان و کەناڵەکان"
+      "value": "وڵاتان و کەناڵەکان"
     },
     "seo_cta_default_subcontent": {
       "comment": "Default text for the call to action subcontent field. Example: Send us a note: live@fotmob.com. Input is the e-mail where the users should send their comments or takes on the match. See cta_default_title",
@@ -10538,7 +10538,7 @@
     "seo_customize_your_view": {
       "comment": "A tooltip title for tv schedules. Indicating that you can customize the appearance of the view.",
       "english": "Customize your view",
-      "value": "پیشاندانت بەدڵخوازت ڕێکبخە"
+      "value": "شێوازی دەرکەوتن ڕێکبخە"
     },
     "seo_daily_summary": {
       "comment": "Title of AI generated summary card found in team overview.",
@@ -10563,7 +10563,7 @@
     "seo_delete_item_description": {
       "comment": "Dialog text for the delete item dialog. Warns the user that the pulse item will be permanently deleted from the ticker feed if the user continues the action.",
       "english": "This action cannot be undone. This will permanently delete this pulse item from the ticker.",
-      "value": "ئەم کردارە ناتوانرێت هەڵبوەشێنرێتەوە. ئەمە ئەم بابەتی «Pulse» بە شێوەی هەمیشەیی لە «Ticker» دەسڕێتەوە."
+      "value": "ئەم کردارە ناگەڕێندرێتەوە. ئەمە بەیەکجاری ئەم بابەتە نووسراوە لە شریتی نوێکارییەکان دەسڕێتەوە."
     },
     "seo_delete_item_title": {
       "comment": "Dialog text for the delete item dialog that is shown to make sure the user actually wants to delete the item.",
@@ -10578,7 +10578,7 @@
     "seo_delete_league_confirm": {
       "comment": "Body text of the delete-confirmation dialog. %1$s is the current league name as the user typed it; render it inside the quotation marks. The whole sentence is a question and ends with a question mark. Keep the quotation marks around the placeholder so the name visually stands out.",
       "english": "Are you sure you want to delete \"%1$s\"?",
-      "value": "دڵنیایت کە دەتەوێت \"%1$s\" بسڕیتەوە؟"
+      "value": "ئایا دڵنیایت لە سڕینەوەی \"%1$s\"؟"
     },
     "seo_delete_league_confirm_button": {
       "comment": "Label on the destructive primary button inside the delete-confirmation dialog. Single word, imperative. Paired with a separate \"Cancel\" button (reuses the existing `cancel` key).",
@@ -10588,12 +10588,12 @@
     "seo_delete_league_error": {
       "comment": "Error toast when the delete request fails (network or server error). Two short sentences. First states what failed, second suggests a retry.",
       "english": "Could not delete league. Please try again.",
-      "value": "نەکرا خول بسڕدرێتەوە. تکایە دووبارە هەوڵ بدە."
+      "value": "سڕینەوەی خولەکە سەرکەوتوو نەبوو. تکایە دووبارە هەوڵبدەرەوە.."
     },
     "seo_delete_league_success": {
       "comment": "Success toast shown briefly after the league is deleted. Short fragment, no trailing period (toast convention). Past tense.",
       "english": "League deleted",
-      "value": "خول سڕایەوە"
+      "value": "خولەکە سڕایەوە"
     },
     "seo_delete_league_title": {
       "comment": "Title of the delete-confirmation dialog. Matches the destructive button that opened it. Sentence case, no trailing punctuation.",
@@ -10603,7 +10603,7 @@
     "seo_delete_league_warning": {
       "comment": "Warning shown directly under the confirm question in the delete dialog, visually emphasized in red. Single short sentence, ends with a period. Stresses irreversibility — do not soften.",
       "english": "This action cannot be undone.",
-      "value": "ئەم کارە ناتوانرێت پاشگەز بکرێتەوە."
+      "value": "ئەم کردارە پاشگەزبوونەوەی نیە."
     },
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
@@ -10678,7 +10678,7 @@
     "seo_ends": {
       "comment": "A label indicating when a players contract ends, keep it as brief as possible while still making full sense.",
       "english": "Ends",
-      "value": "کۆتایی"
+      "value": "کۆتایی هاتن"
     },
     "seo_enter_lineup_name": {
       "comment": "Placeholder prompting the user to enter the name of the team created using the lineup builder. Keep the translation as short as possible for languages where the output is a very long string.",
@@ -10833,7 +10833,7 @@
     "seo_final_match_of_season": {
       "comment": "Subtitle in the fixture difficulty section when only one match remains of the season. See next_three_matches_short and fixture_difficulty.",
       "english": "Final match of the season",
-      "value": "یاریی کۆتایی وەرز"
+      "value": "کۆتا یاری وەرزەکە"
     },
     "seo_final_third_passes": {
       "comment": "Passes in the final third of the pitch. Will be written below a \"Passes\" header as \"Final third 75 (97%)\"",
@@ -10843,7 +10843,7 @@
     "seo_final_two_matches_of_season": {
       "comment": "Subtitle in the fixture difficulty section when only two matches remain of the season. See next_three_matches_short and fixture_difficulty.",
       "english": "Final 2 of the season",
-      "value": "دوو یاریی کۆتاییی وەرزەکە"
+      "value": "کۆتا 2 یاری وەرزەکە"
     },
     "seo_first_leg": {
       "comment": "Used in match facts to indicate that the match is the first of two or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -10973,7 +10973,7 @@
     "seo_highest_fee": {
       "comment": "Text for the sort by alternative \"sort by highest transfer fee\" first. Keep it very short to fit in a segment control. The transfer context is already there, so can be generic.",
       "english": "Fee",
-      "value": "بڕ"
+      "value": "بەرزترین نرخ"
     },
     "seo_hours_countdown": {
       "comment": "see [available_in]. A label below a number indicating how many hours left til the next week tournament use the plural form in the given language.",
@@ -11179,7 +11179,7 @@
     "seo_include_extensions": {
       "comment": "Text for a filter that toggles the visibility of contract extensions in the transfer list. IMPORTANT: Keep it short, the transfer context is clear in the UI. See contract_extension. See show_loans.",
       "english": "Include extensions",
-      "value": "درێژکردنەوەکان لەخۆبگرێ"
+      "value": "لەخۆگرتنی نوێکردنەوەکان"
     },
     "seo_invalid_email": {
       "comment": "Letting the user know an email is not valid when submitting a form",
@@ -11204,32 +11204,32 @@
     "seo_joincode_error_generic": {
       "comment": "Fallback error message used in three places: (a) inline under the typed-code input on unexpected failures, (b) body of the full-screen \"Couldn't join the league\" error, and (c) the success-state toast equivalent doesn't exist — this is purely a generic error. Tone: brief, non-alarming, suggests retry.",
       "english": "Something went wrong. Please try again.",
-      "value": "هەڵەیەک ڕوویدا. تکایە دووبارە هەوڵ بدە."
+      "value": "کێشەیەک ڕوویدا. تکایە دووبارە هەوڵبدەرەوە."
     },
     "seo_joincode_error_invalid_alphabet": {
       "comment": "Inline form-validation error shown while the user is typing/pasting into the \"Enter a league code\" input. Appears when the input contains digits, symbols, or the specific letters I, L, O. The exclusion of I/L/O is intentional — they're omitted from the alphabet because they're visually ambiguous with 1/0. The letter names should stay as their English glyphs (I, L, O) — they refer to literal characters, not translatable words. The en-dash in \"A–Z\" should be preserved if your script uses Latin A–Z; if you adapt to a different script, use the equivalent range concept.",
       "english": "Codes can only contain letters A–Z (except I, L, and O).",
-      "value": "کۆدەکان تەنها دەتوانن پیتەکانی A–Z لەخۆ بگرن (بێجگە لە I، L و O)."
+      "value": "کۆدەکە تەنها دەبێت پیتەکانی A بۆ Z بێت (جگە لە پیتەکانی I, L, O)."
     },
     "seo_joincode_error_invalid_code": {
       "comment": "Inline error under the \"Enter a league code\" input (and toast on the invite-link page) when the league code has the right shape but the backend rejects it — e.g. a typo, a code that was once valid but isn't anymore, or a code that's the wrong length. Tone: friendly, action-oriented (\"try again\"). The word \"code\" here means a short alphanumeric league invite code shown on the share card.",
       "english": "This invite code isn't valid. Please check it and try again.",
-      "value": "ئەم کۆدی بانگکردنە ڕەوا نییە. تکایە پشکنینی بکە و دووبارە هەوڵ بدە."
+      "value": "ئەم کۆدی بانگهێشتکردنە هەڵەیە. تکایە دڵنیابەوە و دووبارە هەوڵبدەرەوە."
     },
     "seo_joincode_error_not_found": {
       "comment": "Error toast (after redirect) and error-screen body when the backend returns 404 — i.e. the league no longer exists (deleted by the owner, or the code never matched any league). Two-sentence structure: state the problem, then a soft hint about why.",
       "english": "We couldn't find that league. The link may have expired.",
-      "value": "نەمانتوانی ئەو لیگە بدۆزینەوە. ڕەنگە بەستەرەکە بەسەرچووە."
+      "value": "خولەکەت نەدۆزرایەوە. پێدەچێت بەستەرەکە بەسەرچووبێت."
     },
     "seo_joincode_error_title": {
       "comment": "Heading (h1) of the full-screen error component shown when the join attempt fails with an unknown/network error and offers the user a \"Try again\" / \"Back\" choice. Title case in English (sentence case may be fine in target languages — match local conventions). Pair this with joincode_error_generic underneath.",
       "english": "Couldn't join the league",
-      "value": "نەمانتوانی بچینە ناو لیگەکە"
+      "value": "بەشداریکردن لە خولەکە سەرکەوتوو نەبوو"
     },
     "seo_joined": {
       "comment": "A label indicating when a player joined the club, keep it as brief as possible while still making full sense.",
       "english": "Joined",
-      "value": "چووە ناو یانە"
+      "value": "بەشداریت کرد"
     },
     "seo_league_added_to_following": {
       "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
@@ -11274,7 +11274,7 @@
     "seo_likely_probability": {
       "comment": "String used to indicate a transfer rumour that is likely to be confirmed. The scale goes likely - very likely - imminent. Prefer one word.",
       "english": "Likely",
-      "value": "ئەگەردار"
+      "value": "ئەگەرێکی نزیکە"
     },
     "seo_limit_reached_lineupbuilder": {
       "comment": "Error message toast when the user tries to save more than the maximum allowed lineups in the linup builder. See [lineup_builder].",
@@ -11446,7 +11446,7 @@
     "seo_need_at_least_one_selected_country": {
       "comment": "A toast indicating for the user that he needs at least one selected country for the tv schedules feature to work",
       "english": "Need at least one selected country",
-      "value": "تکایە بەلایەنی کەم یەک وڵات هەڵبژێرە"
+      "value": "تکایە لانیکەم وڵاتێک هەڵبژێرە"
     },
     "seo_neutral": {
       "comment": "Text for the fan type neutral option in the dropdown. Neutral means the comment is not made by a home team supporter or an away team supporter.",
@@ -11476,12 +11476,12 @@
     "seo_next_three_matches_short": {
       "comment": "Compact subtitle in the fixture difficulty section indicating the ratings cover the team's next three matches. Shown next to the average difficulty label, i.e. \"Next 3 Moderate\". Keep it short. See fixture_difficulty.",
       "english": "Next 3",
-      "value": "٣ داهاتوو"
+      "value": "3 یاری داهاتوو"
     },
     "seo_next_week_is_available": {
       "comment": "Text telling the user that next week's matches are now open for predictions in the predictor game. See available_in. See week.",
       "english": "Next week is available",
-      "value": "هەفتەی داهاتوو بەردەستە"
+      "value": "یاریەکانی هەفتەی داهاتوو بەردەستن"
     },
     "seo_no_matches_today_playing": {
       "comment": "A label indicating that none of the teams or leagues you follow are playing today. Above this label it says \"Following\" so this is already in the context of teams or leagues you follow.",
@@ -11491,7 +11491,7 @@
     "seo_no_payment_now": {
       "comment": "Reassurance shown under the \"Start free trial\" button on the FotMob+ paywall, telling the user their card is not charged when the free trial starts. Displayed next to \"Cancel anytime\", separated by a middle dot. Keep it very short, it must fit on one line with the other phrase.",
       "english": "No payment now",
-      "value": "ئێستا پارە وەرناگیرێت"
+      "value": "ئێستا هیچ بڕێک نادەیت"
     },
     "seo_no_saved_lineups_infotext": {
       "comment": "Information text in component containing list of saved lineups for the lineup builder, when the users has not saved any lineups yet.",
@@ -11516,7 +11516,7 @@
     "seo_number_of_sprints": {
       "comment": "Number of sprints a player has taken in a match.",
       "english": "Number of sprints",
-      "value": "ژمارەی سپرینتەکان"
+      "value": "ژمارەی ڕاکردنە زۆر خێراکان"
     },
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
@@ -11556,7 +11556,7 @@
     "seo_onboarding_physical_metrics_section2": {
       "comment": "Header for the onboarding of the new physical performance state",
       "english": "<b>Sprints, effort, intensity.</b> Check walking, running, and sprinting stats to understand work rate.",
-      "value": "<b>ڕاکردنی خێرا، هەوڵ و چڕی.</b> ئامارەکانی ڕێکردن، ڕاکردن و ڕاکردنی خێرا ببینە بۆ تێگەیشتن لە ئاستی ماندووبوونی یاریزانەکە."
+      "value": "<b>ڕاکردنی زۆر خێرا، هەوڵ و چڕی.</b> ئامارەکانی ڕێکردن، ڕاکردن و ڕاکردنی زۆر خێرا ببینە بۆ تێگەیشتن لە ئاستی ماندووبوونی یاریزانەکە."
     },
     "seo_onboarding_physical_metrics_section3": {
       "comment": "Header for the onboarding of the new physical performance state",
@@ -11581,12 +11581,12 @@
     "seo_only_likely_transfers": {
       "comment": "Label of the radio button that toggles only likely transfers. See likely_probability.",
       "english": "Only likely transfers",
-      "value": "تەنها گواستنەوە ئەگەردارەکان"
+      "value": "تەنها ئەو گواستنەوانەی ئەگەریان نزیکە"
     },
     "seo_only_pulse_items": {
       "comment": "Text on button that filters the ticker feed so it only shows the Pulse items.",
       "english": "Only Pulse items",
-      "value": "تەنها بابەتەکانی Pulse"
+      "value": "تەنها بابەتە نووسراوەکان"
     },
     "seo_open_sidebar": {
       "comment": "Accessibility label for opening the sidebar on iPad. Used for VoiceOver.",
@@ -11601,7 +11601,7 @@
     "seo_other_competitions": {
       "comment": "Title for section listing the competitions in the predictor game that the user does not take part in. Shown next to your_competitions. See competitions.",
       "english": "Other competitions",
-      "value": "پاڵەوانێتیەکانی تر"
+      "value": "پاڵەوانێتییەکانی دیکە"
     },
     "seo_overwrite": {
       "comment": "toast text option to overwrite a saved lineup.",
@@ -11641,7 +11641,7 @@
     "seo_physical_metrics_high_speed_running": {
       "comment": "A label indicating how much a player has been running at high speed. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
       "english": "High-speed running",
-      "value": "ڕاکردن بە خێرایی بەرز"
+      "value": "ڕاکردنی خێرا"
     },
     "seo_physical_metrics_jogging": {
       "comment": "A label indicating how much a player has been jogging. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
@@ -11661,7 +11661,7 @@
     "seo_physical_metrics_number_of_sprints": {
       "comment": "The total amount of sprints for a player during a match",
       "english": "Number of sprints",
-      "value": "ژمارەی سپرینتەکان"
+      "value": "ژمارەی ڕاکردنە زۆر خێراکان"
     },
     "seo_physical_metrics_running": {
       "comment": "A label indicating how much a player has been running. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
@@ -11671,7 +11671,7 @@
     "seo_physical_metrics_sprinting": {
       "comment": "A label indicating how much a player has been sprinting. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
       "english": "Sprinting",
-      "value": "سپرینت"
+      "value": "ڕاکردنی زۆر خێرا"
     },
     "seo_physical_metrics_topspeed": {
       "comment": "The top speed of a player during a match",
@@ -11786,7 +11786,7 @@
     "seo_popular_transfers": {
       "comment": "Title for the list of popular transfers in the transfer centre. Popular transfers are transfers above 20M euros.",
       "english": "Popular transfers",
-      "value": "گواستنەوە باوەکان"
+      "value": "گواستنەوە دیارەکان"
     },
     "seo_position_fullback": {
       "comment": "A label for a player that plays as a left back, right back, left wing back or right wing back.",
@@ -11836,7 +11836,7 @@
     "seo_predict_tbd_matchup_message": {
       "comment": "Empty-state message in the Predictor game, where users guess the outcome of football matchups. Shown in place of matchups that can't be predicted yet because the two teams haven't been determined (the bracket isn't set). Those matchups are hidden/collapsed, and this tells the user to check back later once all matchups are decided. the natural norwegian translation would be \"Kom tilbake når alle oppgjørene er bestemt\".",
       "english": "Come back when all matchups are decided",
-      "value": "کاتێک هەموو یارییەکان دیاریکران، دووبارە بگەڕێوە"
+      "value": "دواتر سەردان بکەرەوە کاتێک ڕووبەڕوبونەوەکان دیاری دەکرێن"
     },
     "seo_predict_the_full_time_score": {
       "comment": "Text for the first step in the predictor game, to explain that you're predicting the full-time score of upcoming matches.",
@@ -11878,7 +11878,7 @@
     "seo_predictor_final_week_disclaimer_description": {
       "comment": "Description text for the final week of the predictor, letting users know that the feature will be back next season, and promoting the World Cup predictor game in the meantime. Keep \"Top Picks\" and \"predictor\" in English, and \"\\n\"-indicators. Use the local translation of world cup, see world_cup",
       "english": "Thanks for playing! Weekly Top Picks will be back next season. \\n\\nIn the meantime, play the World Cup predictor.",
-      "value": "سوپاس بۆ یاریکردن! Weekly Top Picks لە وەرزی داهاتوودا دەگەڕێتەوە. \\n\\nلە نێواندا، predictor ـی مۆندیالی فیفا یاری بکە."
+      "value": "سوپاس بۆ بەشداریکردنتان! باشترینەکانی هەفتە لە وەرزی داهاتوودا دەگەڕێتەوە. \\n\\nلەم نێوەندەشدا، یاری پێشبینیکردنی جامی جیهانی مۆندیال بکە."
     },
     "seo_predictor_final_week_disclaimer_title": {
       "comment": "Short title disclaimer for the predictor game saying week 41 will be the final week of the game's season.",
@@ -11923,7 +11923,7 @@
     "seo_prizes_summary_free_to_enter": {
       "comment": "First bullet in the FotMob Predict World Cup 2026 prizes summary. This is sweepstakes boilerplate required by US contest law — every clause must be preserved: (a) entry is free, (b) no purchase needed, (c) US residents only, (d) 18 and older. The \"18+\" notation can be rendered as your locale prefers (\"18 ans et plus\", \"ab 18 Jahren\", etc.). \"US residents\" must remain \"US\" — do not localise to \"American\" or expand to \"United States of America\" unless your language requires it. Do not soften the eligibility language — accuracy here is legally required.",
       "english": "Free to enter. No purchase necessary. Open to US residents aged 18+.",
-      "value": "بەخۆڕایی دەتوانیت بەشداری بکەیت. کڕین پێویست نییە. تەنها بۆ نیشتەجێبووانی US بە تەمەنی 18+."
+      "value": "بەشداریکردن بێبەرامبەرە. پێویست بە کڕین ناکات. تەنها بۆ دانیشتووانی ئەمریکا تەمەن +18."
     },
     "seo_prizes_summary_one_account": {
       "comment": "Final eligibility bullet in the FotMob Predict World Cup 2026 prizes summary. Short. Clear. Don't elaborate (\"Each participant may register only one account\") unless that's how your locale would phrase such a rule.",
@@ -11938,12 +11938,12 @@
     "seo_prizes_summary_predict_each_match": {
       "comment": "Bullet describing the core gameplay action in the FotMob Predict World Cup 2026 prizes summary. \"Result\" here means the final score outcome (win/draw/loss + score). \"Kickoff\" is the football term for match start — use the locale's football-specific term (\"coup d'envoi\", \"Anpfiff\", etc.), not a generic \"before the match starts\". Preserve \"World Cup\" verbatim.",
       "english": "Predict the result of each World Cup match before kickoff.",
-      "value": "پێشبینی ئەنجامی هەر یارییەکی World Cup بکە پێش سوتی دەستپێک."
+      "value": "پێشبینی ئەنجامی هەر یارییەکی جامی جیهانی مۆندیال بکە پێش دەستپێکردنی یاریەکە"
     },
     "seo_prizes_summary_prize": {
       "comment": "Bullet describing the prize in the FotMob Predict World Cup 2026 prizes summary. Two sentences: (1) explains who wins (highest-ranked US user when the tournament ends), what they win (PS5), and the approximate retail value; (2) tiebreaker rule (random draw — not e.g. \"earliest score\" or \"most perfect predictions\"). Keep \"PlayStation 5\" and \"US$499.99\" verbatim. \"approx. value\" is shorthand for \"approximate retail value\" — feel free to write it out if your locale doesn't shorten \"approximate\" the same way.",
       "english": "Top of the US leaderboard at the end of the tournament wins a PlayStation 5 (approx. value US$499.99). Ties broken by random drawing.",
-      "value": "سەرەوەی ڕیزبەندی US لە کۆتایی پاڵەوانێتییەکە PlayStation 5 دەبات (نرخی نزیکەی فرۆشتن: US$499.99). لە کاتی یەکسانبووندا، بە هەڵبژاردنی هەڕەمەکی بە قرعە یەکێک دیاری دەکرێت."
+      "value": "پێشەنگی ڕیزبەندی ئەمریکا لە کۆتایی پاڵەوانیەتییەکەدا پلەیستەیشن 5 دەباتەوە (نرخی نزیکەی 499.99$ دۆلاری ئەمریکیە). لەکاتی یەکسانبووندا براوە بە تیروپشک دیاری دەکرێت."
     },
     "seo_prizes_summary_three_points_score": {
       "comment": "Scoring rule bullet in the FotMob Predict World Cup 2026 prizes summary. Keep \"3 points\" with the numeral. \"Scoreline\" is the football term for the final score (e.g. 2–1). Use your locale's football-specific term — not \"score\" if \"scoreline\" has a distinct meaning in the language. The 3 points is inclusive of the 2-point outcome award (not 5 total) — but that nuance lives in the full Official Rules page, not in this summary.",
@@ -11983,12 +11983,12 @@
     "seo_pulse_turn_off_description": {
       "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned on in Pulse Admin.",
       "english": "Turning off Pulse will turn off reactions and hide the pulse items and polls that have been added to the match commentary.",
-      "value": "خامۆشکردنی Pulse واکنشەکان ناچالاک دەکات و ئەو ئایتم و ڕاپرسییەکانی Pulse ـی کە بۆ کۆمێنتاری یاری زیادکراون دەشارێنەوە."
+      "value": "کوژاندنەوەی نووسراوەکان دەبێتە هۆی ناچالاککردنی کاردانەوەکان و شاردنەوەی بابەتە نووسراوەکان و ئەو ڕاپرسییانەی کە بۆ شرۆڤەی یارییەکە زیادکراون."
     },
     "seo_pulse_turn_on_description": {
       "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned off in Pulse Admin.",
       "english": "Turn on Pulse to be able to add and show custom items and polls in the match commentary.",
-      "value": "Pulse چالاک بکە بۆ ئەوەی بتوانیت بڕگە تایبەتییەکان و ڕاپرسییەکان زیاد بکەیت و لە کۆمێنتاری یارییەکە پیشان بدەیت."
+      "value": "نووسراوەکان چالاک بکە بۆ ئەوەی بتوانیت بابەتە نووسراوەکان و ڕاپرسیی تایبەت بۆ ناو شرۆڤەی یارییەکە زیاد بکەیت و پیشانیان بدەیت."
     },
     "seo_q1of16finals": {
       "comment": "Indicator in a table who qualifies for the 1/16 Finals (Round of 32). See [roundof32].",
@@ -12048,27 +12048,27 @@
     "seo_rename_league_error": {
       "comment": "Error toast when the rename request fails (network or server error). Two short sentences. First states what failed, second suggests a retry.",
       "english": "Could not rename league. Please try again.",
-      "value": "نەتوانرا ناوی خول بگۆڕدرێت. تکایە دووبارە هەوڵ بدە."
+      "value": "نەتوانرا ناوی خولەکە بگۆڕدرێت. تکایە دووبارە هەوڵبدەرەوە."
     },
     "seo_rename_league_invalid_name": {
       "comment": "Inline form error when the league name fails a profanity / disallowed-words check. Neutral phrasing — do not specify the reason or list the blocked words. Ends with a period.",
       "english": "This league name is not allowed.",
-      "value": "ئەم ناوی خولە ڕێگەپێنەدراوە."
+      "value": "ئەم ناوە ڕێگەپێدراو نیە."
     },
     "seo_rename_league_name_required": {
       "comment": "Inline form error shown under the input when the user submits an empty / whitespace-only league name. Direct imperative, ends with a period.",
       "english": "Enter a league name.",
-      "value": "ناوی خولێک بنووسە."
+      "value": "ناوی خولەکە بنووسە."
     },
     "seo_rename_league_name_too_long": {
       "comment": "Inline form error when the league name exceeds 50 characters. Statement, ends with a period.",
       "english": "League name is too long.",
-      "value": "ناوی خول زۆر درێژە."
+      "value": "ناوی خولەکە زۆر درێژە."
     },
     "seo_rename_league_success": {
       "comment": "Success toast shown briefly after the league is renamed. Short fragment, no trailing period (toast convention). Past tense.",
       "english": "League renamed",
-      "value": "ناوی خول گۆڕدرا"
+      "value": "ناوی خولەکە گۆڕدرا"
     },
     "seo_rename_league_title": {
       "comment": "Title of the rename dialog. Matches the button label that opened it. Sentence case, no trailing punctuation.",
@@ -12160,22 +12160,22 @@
     "seo_rumoured_transfer_no_fee": {
       "comment": "Player page text showing the rumoured destination club (%1$@), with no fee reported. See rumoured_transfer_with_fee.",
       "english": "Rumored to %1$@",
-      "value": "بە پێی دەنگۆ، گواستنەوە بۆ %1$@"
+      "value": "دەنگۆی ڕۆشتنی هەیە بۆ %1$@"
     },
     "seo_rumoured_transfer_on_loan": {
       "comment": "Player page text showing the club a player is rumoured to join on loan (%1$@). No fee is shown for loans. See rumoured_transfer_no_fee.",
       "english": "Rumored to %1$@ on loan",
-      "value": "بە پێی دەنگۆ، بە خواستن دەچێت بۆ %1$@"
+      "value": "دەنگۆی ڕۆشتنی هەیە بۆ %1$@ بە خواستن"
     },
     "seo_rumoured_transfer_title": {
       "comment": "Compact mobile player-page card title for a rumoured move; club and fee shown separately (no placeholders). See rumoured_transfer_with_fee.",
       "english": "Rumored transfer",
-      "value": "گواستنەوەی دەنگۆیی"
+      "value": "دەنگۆی گواستنەوە"
     },
     "seo_rumoured_transfer_with_fee": {
       "comment": "Player page text showing the rumoured destination club (%1$@) and transfer fee (%2$@). See rumoured_transfer_no_fee.",
       "english": "Rumored to %1$@ for %2$@",
-      "value": "بە پێی دەنگۆ، گواستنەوە بۆ %1$@ بە %2$@"
+      "value": "دەنگۆی ڕۆشتنی هەیە بۆ %1$@ بە %2$@"
     },
     "seo_rumours": {
       "comment": "Title for the rumours section in the transfer centre.",
@@ -12281,12 +12281,12 @@
     "seo_select_existing_image": {
       "comment": "Label text for a button that lets the user select an existing image instead of uploading a new one.",
       "english": "Select existing Pulse image",
-      "value": "وێنەی Pulseی ئامادە هەڵبژێرە"
+      "value": "هەڵبژاردنی وێنەی بابەتە نووسراوەکانی پێشوو"
     },
     "seo_select_fan_type": {
       "comment": "Placeholder text for a dropdown that lets the user select fan type (home team, away team or neutral).",
       "english": "Select fan type",
-      "value": "جۆری هاندەر هەڵبژێرە"
+      "value": "جۆری هاندەر هەڵبژێره‌"
     },
     "seo_set_piece_goals": {
       "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
@@ -12316,22 +12316,22 @@
     "seo_show_loans": {
       "comment": "Text for a filter that toggles the visibility of loan transfers in the transfer list. See on_loan_transfers. See include_extensions.",
       "english": "Include loans",
-      "value": "گواستنەوە بە قەرزیش لەخۆبگرێ"
+      "value": "لەخۆگرتنی خواستنەکان"
     },
     "seo_sign_in_error_message": {
       "comment": "Body paragraph below the title on the same error page. Also used as the toast message shown when a failed sign-in is detected inside a native app webview. Intentionally generic — we do not surface the underlying error code to the user. Tone: matter-of-fact, reassuring, not blaming the user.",
       "english": "Something went wrong while signing in. Please try again.",
-      "value": "هەڵەیەک ڕوویدا لە کاتی چوونەژوورەوە. تکایە دووبارە هەوڵ بدەرەوە."
+      "value": "کێشەیەک ڕوویدا لە کاتی چوونەژوورەوەدا. تکایە دووبارە هەوڵبدەرەوە."
     },
     "seo_sign_in_error_title": {
       "comment": "Heading (h1) shown on a full-screen error page when an OAuth sign-in attempt fails (e.g. user cancelled at Google, blocked third-party cookies, provider misconfiguration). Also used as the browser tab title. Keep it short — it's a heading. Apostrophe is a real curly/straight apostrophe in source; match whatever your locale uses for contractions. Should read as a calm statement, not an alarmist exclamation.",
       "english": "Couldn't sign in",
-      "value": "نەیتوانرا بچیتە ژوورەوە"
+      "value": "نەتوانرا بچێتە ژوورەوە"
     },
     "seo_sign_in_error_try_again": {
       "comment": "Label on the primary action button below the error message. Clicking it reopens the sign-in dialog so the user can pick a provider again. Imperative verb, single short phrase. Avoid translating as a noun.",
       "english": "Try again",
-      "value": "دووبارە هەوڵ بدەرەوە"
+      "value": "دووبارە هەوڵبدەرەوە"
     },
     "seo_sign_in_to_fotmob_predict": {
       "comment": "Title for the sign in dialogue in the predictor game. Don't translate \"FotMob Predict\".",
@@ -12431,12 +12431,12 @@
     "seo_site_description_rumour_mill": {
       "comment": "Meta description tag value for the rumour mill page. Don't translate Rumour Mill. See site_description_transfer_center.",
       "english": "Follow the latest transfer rumours and sources from across world football. FotMob Rumour Mill - filter by league & teams or by likelihood. Stay updated on transfer speculation with all the latest reports!",
-      "value": "بەدوای نوێترین دەنگۆکانی گواستنەوە و سەرچاوەکان لە سەرتاسەری جیهانی تۆپی پێ بکەون. FotMob Rumour Mill - فلتەر بکە بەپێی خول و یانەکان یان بەپێی ئاستی ئەگەری ڕاستبوون. بە هەموو نوێترین ڕاپۆرتەکان لەسەر گومانەکانی گواستنەوە نوێ بمێنەوە!"
+      "value": "ئاگاداری دواین دەنگۆ و سەرچاوەکانی گواستنەوەی جیهانی تۆپی پێ بە. FotMob Rumour Mill - فلتەرکردن بەپێی خول و تیمەکان یان ئەگەری ڕوودان. لەگەڵ تەواوی ڕاپۆرتە نوێیەکان هەمیشە ئاگاداری دەنگۆکانی گواستنەوە بە!"
     },
     "seo_site_description_rumour_mill_selection": {
       "comment": "See site_description_rumour_mill. Similar string but for a specific team or league, with the name as input via %1$@.",
       "english": "%1$@ latest transfer rumours and sources. FotMob Rumour Mill - filter by league & teams or by likelihood. Stay updated on transfer speculation with all the latest reports!",
-      "value": "%1$@؛ نوێترین دەنگۆکانی گواستنەوە و سەرچاوەکانی. FotMob Rumour Mill - فلتەر بکە بەپێی خول و یانەکان یان بەپێی ئاستی ئەگەری ڕاستبوون. بە هەموو نوێترین ڕاپۆرتەکان لەسەر گومانەکانی گواستنەوە نوێ بمێنەوە!"
+      "value": "دواین دەنگۆ و سەرچاوەکانی گواستنەوە بۆ %1$@. FotMob Rumour Mill - فلتەرکردن بەپێی خول و تیمەکان یان ئەگەری ڕوودان. لەگەڵ دواین ڕاپۆرتەکان هەمیشە بەئاگا بە لە دەنگۆکانی گواستنەوە!"
     },
     "seo_site_description_stats_league": {
       "comment": "Page description for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -12476,7 +12476,7 @@
     "seo_site_description_team_stats": {
       "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
       "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
-      "value": "ئامارە وردەکانی یاریزانان و یانەی %@، لەگەڵ هەڵسەنگاندنەکان، گۆڵەکان، ئەسیستەکان، کلین شیت، لێدانەکانی ناو گۆڵ و ئاستی وەرزەکە."
+      "value": "ئامارە وردەکانی یاریزانان و یانەی %@، لەگەڵ هەڵسەنگاندنەکان، گۆڵەکان،ئەسیستەکان، کلین شیت، لێدانەکانی ناو گۆڵ و ئاستی وەرزەکە."
     },
     "seo_site_description_team_table": {
       "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
@@ -12511,12 +12511,12 @@
     "seo_site_description_tv_guide_channel_world_cup": {
       "comment": "SEO description for tv schedule page filtered by channel name, specific to world cup. %@ is the channel name. see [site_title_tv_guide_channel_world_cup].",
       "english": "Watch the World Cup on %@. FotMob's TV Schedule lists football matches broadcast on this channel, including any World Cup fixtures, with kick-off times and where to watch.",
-      "value": "جامی جیهان لە %@ سەیر بکە. خشتەی پەخشی تەلەڤیزیۆنی FotMob یارییەکانی تۆپی پێی پەخشکراو لەسەر ئەم کەناڵە ڕیز دەکاتەوە، بە هەموو یارییەکانی جامی جیهانیشەوە، لەگەڵ کاتی دەستپێکردن و ئەوەی لە کوێ سەیریان بکەیت."
+      "value": "تەماشای جامی جیهانی بکە لە %@. خشتەی کەناڵەکانی FotMob لسیتی ئەو یاریانەی تۆپی پێ دادەنێت کە لەم کەناڵەوە پەخش دەکرێن، بە یاریەکانی جامی جیهانیشەوە، لەگەڵ کاتی دەستپێکردنی یاریەکان و شوێنی تەماشاکردنیان."
     },
     "seo_site_description_tv_guide_world_cup": {
       "comment": "SEO description for tv schedule page of football matches filtered by country, specific to the world cup tournament. %@ is the country name. see [site_title_tv_guide_world_cup].",
       "english": "Watch the World Cup live on TV in %@. FotMob's TV Guide lists football matches broadcast live, including any World Cup fixtures, with kick-off times, channels and where to watch.",
-      "value": "جامی جیهان بە ڕاستەوخۆ لە تەلەڤیزیۆن لە %@ سەیر بکە. ڕێنمای TV ی FotMob یارییە تۆپی پێیە کە بە ڕاستەوخۆ پەخش دەکرێن لیست دەکات، بە هەموو یارییەکانی جامی جیهانیش، لەگەڵ کاتێکی دەستپێک، کەناڵەکان و شوێنی سەیرکردن."
+      "value": "تەماشای پەخشی ڕاستەوخۆی جامی جیهانی بکە لە TV لە %@. ڕێنمایی کەناڵەکانی FotMob لیستی ئەو یاریانەی تۆپی پێ دادەنێت کە بە ڕاستەوخۆ پەخش دەکرێن، بە یاریەکانی جامی جیهانیشەوە، لەگەڵ کاتی دەستپێکردن و کەناڵەکان و شوێنی تەماشاکردنیان."
     },
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
@@ -12625,17 +12625,17 @@
     "seo_site_title_referee": {
       "comment": "Title for the page for a referee. With name as input. Eg \"Michael Oliver - referee stats and matches\"",
       "english": "%1$@ - referee stats and matches",
-      "value": "%1$@ - ئاماری ناوبژیوان و یارییەکان"
+      "value": "%1$@ - ئامار و یاریەکانی ناوبژیوان"
     },
     "seo_site_title_rumour_mill": {
       "comment": "Meta title tag value for the rumour mill page. See site_title_transfer_center. Don't translate Rumour Mill.",
       "english": "Rumour Mill - Latest Transfer Rumours & Sources - FotMob",
-      "value": "Rumour Mill - نوێترین دەنگۆکانی گواستنەوە و سەرچاوەکان - FotMob"
+      "value": "Rumour Mill - دواین دەنگۆ و سەرچاوەکانی گواستنەوە - FotMob"
     },
     "seo_site_title_rumour_mill_selection": {
       "comment": "See site_title_rumour_mill. Exactly the same string but for a specific team or league, with the name as input via %1$@.",
       "english": "Rumour Mill - %1$@: Latest Transfer Rumours & Sources - FotMob",
-      "value": "Rumour Mill - %1$@: نوێترین دەنگۆکانی گواستنەوە و سەرچاوەکان - FotMob"
+      "value": "Rumour Mill - %1$@: دواین دەنگۆ و سەرچاوەکانی گواستنەوە - FotMob"
     },
     "seo_site_title_stats": {
       "comment": "Meta title for stats page with list of stats for players",
@@ -12710,7 +12710,7 @@
     "seo_site_title_tv_guide": {
       "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
       "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
-      "value": "خشتەی یارییەکانی تۆپی پێ لە %@ - بە ڕاستەوخۆ لە تەلەفزیۆن ببینە | FotMob"
+      "value": "خشتەی یارییەکانی تۆپی پێ لە %@ - بە ڕاستەوخۆ لە تەلەفزیۆن ببینە | فوتمۆب"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
@@ -12720,12 +12720,12 @@
     "seo_site_title_tv_guide_channel_world_cup": {
       "comment": "SEO title for tv schedule page filtered by channel name, specific to world cup. %@ is the channel name.",
       "english": "World Cup on %@ - TV Schedule | FotMob",
-      "value": "جامی جیهان لەسەر %@ - خشتەی پەخشی تەلەڤیزیۆن | FotMob"
+      "value": "جامی جیهانی لە %@ - خشتەی کەناڵەکان | FotMob"
     },
     "seo_site_title_tv_guide_world_cup": {
       "comment": "SEO title for tv schedule page of football matches filtered by country, specific to the world cup tournament. %@ is the country name. see [site_title_tv_guide].",
       "english": "World Cup TV Schedule in %@ - Watch Live on TV | FotMob",
-      "value": "خشتەی پەخشی تەلەفزیۆنی جامی جیهان لە %@ - بە زیندوو لەسەر TV ببینە | FotMob"
+      "value": "خشتەی کەناڵەکانی جامی جیهانی لە %@ - تەماشای پەخشی ڕاستەوخۆ بکە | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
       "comment": "Used for failure toest in troubleshooting mail.",
@@ -12750,7 +12750,7 @@
     "seo_sprints_per_90": {
       "comment": "A label indicating how many sprints a player has taken per 90 minutes.",
       "english": "Sprints per 90",
-      "value": "سپرینت بۆ هەر 90 خولەکێک"
+      "value": "ڕاکردنی زۆر خێرا بۆ هەر 90 خولەکێک"
     },
     "seo_start_free_trial": {
       "comment": "Call to action to start a free trial for FotMob+",
@@ -12929,7 +12929,7 @@
     "seo_template_relegation_group": {
       "comment": "A group name in a tournament. Like Relegation group A. We will concatinate the string with the group number like A or B. See template_word_group and template_promotion_group",
       "english": "Relegation Group",
-      "value": "کۆمەڵەی دابەزین"
+      "value": "کۆمەڵەی ڕزگاربوون لە دابەزین"
     },
     "seo_template_word_division": {
       "comment": "A part of a league. Like \"1. division\" or \"2. division\".",
@@ -12974,12 +12974,12 @@
     "seo_timeframe": {
       "comment": "Title for the transfer timeframe filter in the transfer centre. The options are \"6 months\", \"1 year\", \"2 years\", and \"3 years\". Use a natural sounding phrase, does not need to be directly translated, i.e. in Norwegian it is \"Tidsperiode\".",
       "english": "Timeframe",
-      "value": "ماوەی کات"
+      "value": "ماوەی کاتی"
     },
     "seo_tips_tap_stat_to_see_player_ranking": {
       "comment": "Onboarding hint shown over the stat rows in the in-match player stats dialog. Tapping a stat row opens a list ranking every player in the match on that stat.",
       "english": "Tap a stat to see how all players rank",
-      "value": "کرتە لەسەر ئامارێک بکە بۆ بینینی ڕیزبەندی هەموو یاریزانەکان"
+      "value": "دەست بنێ بە ئامارێکدا بۆ بینینی ڕیزبەندی هەموو یاریزانەکان"
     },
     "seo_tips_tap_to_view_career_history": {
       "comment": "Hint to a user that he can click a button to view a players career",
@@ -13008,7 +13008,7 @@
     "seo_transfers_out_short": {
       "comment": "Label for a button to filter outgoing transfers in a transfers list. Keep it short to fit a filter chip - max 15 characters. Match the wording used in in_or_out. See players_out",
       "english": "Out",
-      "value": "ڕۆشتوو"
+      "value": "ڕۆشتو"
     },
     "seo_transparency_act_statement": {
       "comment": "Text shown for the link to download the transparency act statement for FotMob AS.",
@@ -13080,12 +13080,12 @@
     "seo_tv_guide_world_cup_subheading": {
       "comment": "Page subtitle for the World Cup TV Schedule, %@ is the country name. see [site_title_tv_guide_world_cup].",
       "english": "World Cup TV Schedule in %@",
-      "value": "خشتەی تەلەڤیزیۆنی جامی جیهان لە %@"
+      "value": "خشتەی کەناڵەکانی جامی جیهانی لە %@"
     },
     "seo_tv_schedules_tooltip_desc": {
       "comment": "A tooltip description for the tv schedules feature.",
       "english": "Select the channels you have access to. Tap any channel name to view that channel's full listings.",
-      "value": "ئەو کەناڵانە هەڵبژێرە کە دەستگەیشتنتیان پێیە. پەنجە بنێ بە ناوی هەر کەناڵێک بۆ بینینی پێڕستی تەواوی بەرنامەکانی ئەو کەناڵە."
+      "value": "ئەو کەناڵانە هەڵبژێرە کە دەستت پێیان دەگات. دەست بنێ بە ناوی هەر کەناڵێکدا بۆ بینینی لیستی تەواوی بەرنامەکانی."
     },
     "seo_type_label": {
       "comment": "Label text for the alternative type field.",
@@ -13146,7 +13146,7 @@
     "seo_we_have_followed_top_leagues": {
       "comment": "Disclaimer for follow league step in onboarding.",
       "english": "We've followed <b>top leagues</b> for you and you can add more below.",
-      "value": "<b>خوولە سەرەکییەکان</b>مان بۆت دیاری کردووە و دەتوانیت لە خوارەوە هی زیاتریش زیاد بکەیت."
+      "value": "ئێمە بەدواداچوونمان بۆ <b>خولە سەرەکییەکان</b> کردووە بۆت و دەتوانیت لە خوارەوە زیاتریش زیاد بکەیت."
     },
     "seo_weather_condition_clear": {
       "comment": "Weather condition for clear night weather (icon codes 31, 33)",
@@ -13384,92 +13384,92 @@
     "stat answer box_stat_answer_position_attacking_midfielder": {
       "comment": "Plural form of \"attacking midfielder\", see \"centerattackingmidfielder\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Big chances created among attacking midfielders ...\".",
       "english": "attacking midfielders",
-      "value": "ناوەڕاستییە هێرشکارەکان"
+      "value": "ناوەڕاستکارانی هێرشبەر"
     },
     "stat answer box_stat_answer_position_center_back": {
       "comment": "Plural form of \"center-back\", see \"centerback\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Tackles per 90 among center-backs ...\".",
       "english": "center-backs",
-      "value": "بەرگریکەرە ناوەڕاستەکان"
+      "value": "یاریزانانی دڵی بەرگری"
     },
     "stat answer box_stat_answer_position_fullback": {
       "comment": "Plural form of \"fullback\", see \"position_fullback\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Accurate crosses among fullbacks ...\".",
       "english": "fullbacks",
-      "value": "بەرگریکارە کەنارەکان"
+      "value": "بەرگریکارانی باڵ"
     },
     "stat answer box_stat_answer_position_keeper": {
       "comment": "Plural form of \"keeper\", see \"keeper_long\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Assists among keepers ...\".",
       "english": "keepers",
-      "value": "گۆڵپارێزان"
+      "value": "گۆڵپارێزەکان"
     },
     "stat answer box_stat_answer_position_midfielder": {
       "comment": "Plural form of \"midfielder\", see \"midfielder_long\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Assists among midfielders ...\".",
       "english": "midfielders",
-      "value": "ناوەڕاستکارەکان"
+      "value": "یاریزانانی ناوەڕاست"
     },
     "stat answer box_stat_answer_position_striker": {
       "comment": "Plural form of \"striker\", see \"striker\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Expected goals (xG) among strikers ...\".",
       "english": "strikers",
-      "value": "هێرشبەران"
+      "value": "هێرشبەرەکان"
     },
     "stat answer box_stat_answer_position_winger": {
       "comment": "Plural form of \"winger\", see \"position_winger\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Successful dribbles per 90 among wingers ...\".",
       "english": "wingers",
-      "value": "باڵەکان"
+      "value": "یاریزانانی باڵ"
     },
     "stat answer box_stat_answer_sentence_generic_player": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web, used for every player leaderboard EXCEPT goals (which has its own bespoke \"top scorer\" phrasing). Placeholders: %1$@ → player name; %2$@ → league name; %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Assists\", \"Yellow cards\", \"xG per 90\"); %5$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists with 7.\" IMPORTANT: %2$@ is the league name — a COMPETITION, NOT an opponent being beaten. \"Leads %2$@ in %4$@\" means \"is the leader in the %4$@ ranking within %2$@\". Do NOT translate as \"beats/is ahead of/outperforms %2$@\" — the player is not competing against %2$@; %2$@ is the tournament the ranking is measured in.",
       "english": "%1$@ leads %2$@%3$@ in %4$@ with %5$@.",
-      "value": "%1$@ لە %2$@%3$@ لە %4$@ سەرەوەیە بە %5$@."
+      "value": "یاریزان %1$@ لە پێشەنگی ڕیزبەندی %4$@ ی، %2$@%3$@ دایە بە %5$@."
     },
     "stat answer box_stat_answer_sentence_generic_player_position": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web when a position filter is active (non-goals stats). See \"stat_answer_sentence_generic_player\" for context — reuse the same verb and phrasing style. Placeholders: %1$@ → player name; %2$@ → league name (a COMPETITION, not an opponent); %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Assists\"); %5$@ → plural position noun already translated (e.g. \"wingers\"); %6$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists among wingers with 7.\"",
       "english": "%1$@ leads %2$@%3$@ in %4$@ among %5$@ with %6$@.",
-      "value": "%1$@ لە %2$@%3$@دا لە %4$@ سەرەوەیە لە نێوان %5$@، بە %6$@."
+      "value": "یاریزان %1$@ لەسەر ئاستی %5$@ لە پێشەنگی ڕیزبەندی %4$@ ی، %2$@%3$@ دایە بە %6$@."
     },
     "stat answer box_stat_answer_sentence_generic_player_position_team": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web when BOTH a position filter and a team scope are active (non-goals stats). See \"stat_answer_sentence_generic_player_position\" and \"stat_answer_sentence_generic_player_team\" for context — merge the position-filter and team-scope phrasings from those two entries. Placeholders: %1$@ → player name; %2$@ → league name (a COMPETITION, not an opponent); %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title; %5$@ → team name (do not translate); %6$@ → plural position noun already translated; %7$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists for Manchester United among wingers with 7.\" Reorder clauses freely to read naturally in your language.",
       "english": "%1$@ leads %2$@%3$@ in %4$@ for %5$@ among %6$@ with %7$@.",
-      "value": "%1$@ لە %2$@%3$@ سەرەوەیە لە %4$@ بۆ %5$@ لە نێوان %6$@، بە %7$@."
+      "value": "یاریزان %1$@ لە یانەی %5$@ لەسەر ئاستی %6$@ لە پێشەنگی ڕیزبەندی %4$@ ی، %2$@%3$@ دایە بە %7$@."
     },
     "stat answer box_stat_answer_sentence_generic_player_team": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web when scoped to a single club — team-page context (non-goals stats). See \"stat_answer_sentence_generic_player\" for context — reuse the same verb and phrasing style. Placeholders: %1$@ → player name; %2$@ → league name (a COMPETITION, not an opponent); %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title; %5$@ → team name (do not translate); %6$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists for Manchester United with 7.\"",
       "english": "%1$@ leads %2$@%3$@ in %4$@ for %5$@ with %6$@.",
-      "value": "%1$@ لە %2$@%3$@دا لە %4$@ پێشەنگە بۆ %5$@ بە %6$@."
+      "value": "یاریزان %1$@ لە یانەی %5$@ لە پێشەنگی ڕیزبەندی %4$@ ی، %2$@%3$@ دایە بە %6$@."
     },
     "stat answer box_stat_answer_sentence_generic_team": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web for team leaderboards where the rank-1 team has the HIGHEST value (goals scored, possession, xG, shots on target, tackles, saves, cards received, etc.). Placeholders: %1$@ → team name; %2$@ → league name; %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Goals per match\", \"Clean sheets\", \"xG\", \"Fouls per match\"); %5$@ → formatted stat value. Full example: \"Manchester City leads Premier League 2025/2026 in Goals per match with 2.8.\" IMPORTANT: %2$@ is the league name — a COMPETITION, NOT an opponent being beaten. \"Leads %2$@ in %4$@\" means \"is the leader in the %4$@ ranking within %2$@\". Do NOT translate as \"beats/is ahead of/outperforms %2$@\" — the team is not competing against %2$@; %2$@ is the tournament the ranking is measured in. See \"stat_answer_sentence_generic_player\" for context — reuse the same verb and phrasing style.",
       "english": "%1$@ leads %2$@%3$@ in %4$@ with %5$@.",
-      "value": "%1$@ لە %2$@%3$@دا پێشەنگی %4$@ە بە %5$@."
+      "value": "یانەی %1$@ لە پێشەنگی ڕیزبەندی %4$@ ی، %2$@%3$@ دایە بە %5$@."
     },
     "stat answer box_stat_answer_sentence_generic_team_fewest": {
       "comment": "SEO answer-box sentence in FotMob-Web for team defensive leaderboards where the rank-1 team has the FEWEST of a COUNTABLE stat (e.g. \"Goals conceded per match\", \"Set-piece goals conceded\" — countable items even when expressed as a rate). See \"stat_answer_sentence_generic_team\" for context — reuse the same overall phrasing style, but express \"has the fewest\" naturally (many languages distinguish \"fewest\" for count nouns from \"lowest\" for measured quantities — pick the one that fits countable items). Placeholders: %1$@ → team name; %2$@ → league name (a COMPETITION, not an opponent); %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Goals conceded per match\"); %5$@ → formatted stat value. Full example: \"Manchester City has the fewest Goals conceded per match in Premier League 2025/2026 with 0.2.\" NOTE: this template is for COUNTABLE stats; measured defensive stats (e.g. \"xG conceded\") use the \"has the lowest …\" template — see \"stat_answer_sentence_generic_team_lowest\".",
       "english": "%1$@ has the fewest %4$@ in %2$@%3$@ with %5$@.",
-      "value": "%1$@ لە %2$@%3$@دا کەمترین ژمارەی %4$@ی هەیە بە %5$@."
+      "value": "یانەی %1$@ کەمترین %4$@ ی، هەیە لە %2$@%3$@ بە %5$@."
     },
     "stat answer box_stat_answer_sentence_generic_team_lowest": {
       "comment": "SEO answer-box sentence in FotMob-Web for team defensive leaderboards where the rank-1 team has the LOWEST value of a MEASURED stat (e.g. \"xG conceded\" — a continuous quantity, not a count). See \"stat_answer_sentence_generic_team\" for context — reuse the same overall phrasing style, but express \"has the lowest\" naturally (not \"leads\"). Placeholders: %1$@ → team name; %2$@ → league name (a COMPETITION, not an opponent); %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"xG conceded\"); %5$@ → formatted stat value. Full example: \"Manchester City has the lowest xG conceded in Premier League 2025/2026 with 22.4.\" NOTE: this template is for MEASURED quantities; countable defensive stats (e.g. \"Goals conceded per match\") use the \"has the fewest …\" template — see \"stat_answer_sentence_generic_team_fewest\".",
       "english": "%1$@ has the lowest %4$@ in %2$@%3$@ with %5$@.",
-      "value": "%1$@ لە %2$@%3$@دا کەمترین %4$@ی هەیە بە %5$@."
+      "value": "یانەی %1$@ نزمترین ئاستی %4$@ ی، هەیە لە %2$@%3$@ بە %5$@."
     },
     "stat answer box_stat_answer_sentence_goals_player": {
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard, using the natural \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → league name; %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → number of goals. Full example: \"Erling Haaland is the top scorer in Premier League 2025/2026 season with 20 goals\". IMPORTANT: %2$@ is the league name — a COMPETITION, NOT an opponent being beaten.",
       "english": "%1$@ is the top scorer in %2$@%3$@ season with %4$@ goals",
-      "value": "%1$@ بە %4$@ گۆڵ، گۆڵهەڕەکی وەرزی %2$@%3$@ ـە"
+      "value": "یاریزان %1$@ گۆڵکاری وەرزی %2$@%3$@ ە، بە تۆمارکردنی %4$@ گۆڵ."
     },
     "stat answer box_stat_answer_sentence_goals_player_position": {
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when a position filter is active. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → plural position noun already translated (e.g. \"wingers\"); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer among wingers in Premier League 2025/2026 season with 20 goals\".",
       "english": "%1$@ is the top scorer among %2$@ in %3$@%4$@ season with %5$@ goals",
-      "value": "%1$@ بە %5$@ گۆڵ، گۆڵزانی سەرەکیی نێوان %2$@ ـە لە وەرزی %3$@%4$@"
+      "value": "یاریزان %1$@ لەسەر ئاستی %2$@ گۆڵکاری وەرزی %3$@%4$@ ە، بە تۆمارکردنی %5$@ گۆڵ."
     },
     "stat answer box_stat_answer_sentence_goals_player_position_team": {
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when BOTH a position filter and a team scope are active. See \"stat_answer_sentence_goals_player_position\" and \"stat_answer_sentence_goals_player_team\" for context — merge the position-filter and team-scope phrasings from those two entries. Placeholders: %1$@ → player name; %2$@ → plural position noun already translated; %3$@ → team name (do not translate); %4$@ → league name (a COMPETITION, not an opponent); %5$@ → season suffix like \" 2025/2026\" (already includes a leading space); %6$@ → number of goals. Full example: \"Erling Haaland is the top scorer among wingers for Manchester City in Premier League 2025/2026 season with 20 goals\". Reorder clauses freely to read naturally in your language.",
       "english": "%1$@ is the top scorer among %2$@ for %3$@ in %4$@%5$@ season with %6$@ goals",
-      "value": "%1$@ بە %6$@ گۆڵ، گۆڵزانی سەرەکییە لە نێوان %2$@ ـەکان بۆ %3$@ لە وەرزی %4$@%5$@"
+      "value": "یاریزان %1$@ لە یانەی %3$@ لەسەر ئاستی %2$@ گۆڵکاری وەرزی %4$@%5$@ ە، بە تۆمارکردنی %6$@ گۆڵ."
     },
     "stat answer box_stat_answer_sentence_goals_player_team": {
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when scoped to a single club — team-page context. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → team name (do not translate); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer for Manchester City in Premier League 2025/2026 season with 20 goals\".",
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
-      "value": "%1$@ بە %5$@ گۆڵ، گۆڵهەڕەکی %2$@ لە وەرزی %3$@%4$@ ـە"
+      "value": "یاریزان %1$@ لە یانەی %2$@ گۆڵکاری وەرزی %3$@%4$@ ە، بە تۆمارکردنی %5$@ گۆڵ."
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
@@ -13479,12 +13479,12 @@
     "widget intents_3OMUkf": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Display name of the WidgetTeam type (a team shown in a widget).",
       "english": "Widget Team",
-      "value": "یانەی ویجێت"
+      "value": "وێجێتی تیم"
     },
     "widget intents_4785Wb": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the team-widget Configuration intent. Most languages use a short \"Select team\" form.",
       "english": "Select favorite team to follow",
-      "value": "هەڵبژاردنی یانەی دڵخواز بۆ شوێنکەوتن"
+      "value": "تیمی دڵخواز هەڵبژێرە بۆ بەدواداچوون"
     },
     "widget intents_5aVvda": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"League Name\" property of the WidgetLeague type.",
@@ -13494,27 +13494,27 @@
     "widget intents_7ogYfR": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Team\" parameter label in the news-widget configuration.",
       "english": "Team",
-      "value": "یانە"
+      "value": "تیم"
     },
     "widget intents_9uzlsP": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Rendering mode\" parameter label in the news-widget configuration.",
       "english": "Rendering mode",
-      "value": "شێوازی پیشاندان"
+      "value": "شێوازی نیشاندان"
     },
     "widget intents_LEt5bZ": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the league-widget LeagueConfiguration intent.",
       "english": "Select favorite league to follow",
-      "value": "هەڵبژاردنی خولی دڵخواز بۆ شوێنکەوتن"
+      "value": "خولی دڵخواز هەڵبژێرە بۆ بەدواداچوون"
     },
     "widget intents_NeDdMg": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Rendering mode\" parameter label in the league-widget configuration.",
       "english": "Rendering mode",
-      "value": "شێوازی پیشاندان"
+      "value": "شێوازی نیشاندان"
     },
     "widget intents_RPvLt5": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Team\" parameter label in the team-widget configuration.",
       "english": "Team",
-      "value": "یانە"
+      "value": "تیم"
     },
     "widget intents_RonhCh": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the team-widget Configuration intent; sibling of the League/News/Favorite Matches Configuration titles — keep the same word for \"configuration\" as those keys.",
@@ -13524,7 +13524,7 @@
     "widget intents_SW7Ybn": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the news-widget NewsConfiguration intent.",
       "english": "Get trending news",
-      "value": "وەرگرتنی هەواڵە گەرمەکان"
+      "value": "وەرگرتنی هەواڵە باوەکان"
     },
     "widget intents_TI6VBd": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Dark-mode color option: black background.",
@@ -13534,12 +13534,12 @@
     "widget intents_XFNcc4": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Rendering mode\" parameter label in the favorite-matches-widget configuration.",
       "english": "Rendering mode",
-      "value": "شێوازی پیشاندان"
+      "value": "شێوازی نیشاندان"
     },
     "widget intents_XgibvC": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Rendering mode\" parameter label in the team-widget configuration.",
       "english": "Rendering mode",
-      "value": "شێوازی پیشاندان"
+      "value": "شێوازی نیشاندان"
     },
     "widget intents_ZFqI4a": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the FavoriteMatchesConfiguration intent.",
@@ -13549,7 +13549,7 @@
     "widget intents_b5j4i3": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Rendering-mode option: desaturated.",
       "english": "Desaturated",
-      "value": "ڕەنگی کاڵ"
+      "value": "بێ ڕەنگ"
     },
     "widget intents_bMHKij": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"Dark Mode Color\" parameter label in the team-widget configuration.",
@@ -13559,17 +13559,17 @@
     "widget intents_dtKSES": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Rendering-mode option: full color.",
       "english": "Full color",
-      "value": "ڕەنگی تەواو"
+      "value": "ڕەنگاوڕەنگ"
     },
     "widget intents_id3Mbh": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Display name of the WidgetLeague type (a league shown in a widget).",
       "english": "Widget League",
-      "value": "خولی ویجێت"
+      "value": "وێجێتی خول"
     },
     "widget intents_pRKs0C": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the news-widget NewsConfiguration intent.",
       "english": "News Configuration",
-      "value": "ڕێکخستنی هەواڵ"
+      "value": "ڕێکخستنی هەواڵەکان"
     },
     "widget intents_qRQCfO": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"League\" parameter label in the league-widget configuration.",
@@ -13579,7 +13579,7 @@
     "widget intents_veMWHi": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Dark-mode color option: use team colors.",
       "english": "Team",
-      "value": "یانە"
+      "value": "تیم"
     },
     "widget intents_yOcG33": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the FavoriteMatchesConfiguration intent.",
