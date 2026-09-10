@@ -3620,12 +3620,12 @@
     "common_expected_goals": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "Expected goals (xG)",
-      "value": "اهداف پیش بینی شده (xG)"
+      "value": "امید گل (xG)"
     },
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "xG پذیرفته شده"
+      "value": "xG پذیرفته‌شده"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
