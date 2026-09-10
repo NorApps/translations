@@ -9,12 +9,12 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "درصد سانترهای موفق"
+      "value": "سانترهای موفق"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "سانترهای دقیق به ازای هر بازی"
+      "value": "سانترهای درست به ازای هر بازی"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -49,7 +49,7 @@
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won %",
-      "value": "ضربات پرشی موفق"
+      "value": "٪ دوئل‌های هوایی موفق"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
@@ -69,7 +69,7 @@
     "accessibility_age_confirmation_subtitle": {
       "comment": "Popup subtext - used when a user needs to verify his age to display betting odds",
       "english": "To display odds we need to verify your age",
-      "value": "برای نمایش احتمالات شرط بندی، باید از سنتان مطمئن شویم"
+      "value": "برای نمایش احتمالات شرط‌بندی، باید از سنتان مطمئن شویم"
     },
     "accessibility_alerts_disabled": {
       "comment": "Meant for VoiceOver. Lets the user know that a match has alerts off when in the detailed match-controller",
@@ -114,7 +114,7 @@
     "accessibility_app_notifications_off_desc": {
       "comment": "Text appearing when app notifications are off.",
       "english": "You have disabled Notifications for FotMob",
-      "value": "اعلان های FotMob را غیرفعال کرده اید"
+      "value": "اعلان‌های FotMob را غیرفعال کرده‌اید"
     },
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
@@ -133,7 +133,7 @@
     "accessibility_attacking_threat": {
       "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
       "english": "Momentum",
-      "value": "تهدید حمله"
+      "value": "مومنتوم"
     },
     "accessibility_attacking_zones": {
       "comment": "Title of a match stats card showing which areas of the pitch (left, right or centre) a team attacks through the most.",
@@ -362,7 +362,7 @@
     "accessibility_expected_goals_non_penalty": {
       "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
       "english": "Non-penalty xG",
-      "value": "xG غیر پنالتی"
+      "value": "امید گل غیرپنالتی"
     },
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
@@ -1239,7 +1239,7 @@
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
       "english": "Non-penalty xG",
-      "value": "xG بدون پنالتی"
+      "value": "امید گل غیرپنالتی"
     },
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
@@ -2497,7 +2497,7 @@
     "accessibility_xG_onboarding_header": {
       "comment": "A header for xG-onboarding",
       "english": "What does Expected Goals (xG) mean?",
-      "value": "موقعیت‌ های گل‌زنی (xG) به چه معنی است؟"
+      "value": "امید گل (xG) به چه معنی است؟"
     },
     "accessibility_xg_and_xa": {
       "comment": "Label used in stats for the sum of expexted goals and expexted assists",
@@ -2512,7 +2512,7 @@
     "accessibility_xg_diff_title": {
       "comment": "Label for expected goals difference stat. Keep xG untranslated.",
       "english": "xG difference",
-      "value": "تفاوت xG"
+      "value": "تفاضل xG"
     },
     "accessibility_yellow": {
       "comment": "Used to describe yellow cards in stats, e.g. on player profile and referee profile.",
@@ -2534,7 +2534,7 @@
     },
     "common_Now": {
       "english": "now",
-      "value": "همین حالا"
+      "value": "حالا"
     },
     "common_Offsides": {
       "english": "Offsides",
@@ -2542,11 +2542,11 @@
     },
     "common_ShotsOffTarget": {
       "english": "Shots off target",
-      "value": "تعداد شوت خارج از دروازه"
+      "value": "تعداد شوت خارج از چارچوب"
     },
     "common_ShotsOnTarget": {
       "english": "Shots on target",
-      "value": "تعداد شوت به سمت دروازه"
+      "value": "شوت‌های به سمت چارچوب"
     },
     "common_aborted": {
       "english": "Abandoned",
@@ -2567,19 +2567,19 @@
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
-      "value": "موفقیت پاس ها"
+      "value": "موفقیت پاس‌ها"
     },
     "common_accurate_pass_team_subtitle": {
       "english": "Pass success",
-      "value": "موفقیت پاس ها"
+      "value": "موفقیت پاس‌ها"
     },
     "common_accurate_pass_team_title": {
       "english": "Accurate passes per match",
-      "value": "پاس های دقیق در هر مسابقه"
+      "value": "پاس‌های درست در هر مسابقه"
     },
     "common_accurate_pass_title": {
       "english": "Accurate passes per match",
-      "value": "پاس های دقیق در هر مسابقه"
+      "value": "پاس‌های درست در هر مسابقه"
     },
     "common_action_settings": {
       "english": "Settings",
@@ -2587,7 +2587,7 @@
     },
     "common_add_favorite": {
       "english": "Add favorite",
-      "value": "افزودن به علاقه مندی ها"
+      "value": "افزودن به علاقه‌مندی‌ها"
     },
     "common_add_favorite_desc": {
       "english": "Tap + to add a favorite team",
@@ -2635,7 +2635,7 @@
     },
     "common_adfree_title": {
       "english": "Go Premium!",
-      "value": "فعال کردن نسخه طلایی!"
+      "value": "پرمیوم شوید!"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2659,36 +2659,36 @@
     },
     "common_aggregate": {
       "english": "Aggregate",
-      "value": "درکل"
+      "value": "مجموع"
     },
     "common_aggregate_short": {
       "english": "Agg",
-      "value": "تجمیع"
+      "value": "مجموع"
     },
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@%@-%@%@\\n%@گل پذیرفته‌نشده به علت خطا (VAR)"
+      "value": "%@%@-%@%@\\n%@گل ردشده به علت خطا (VAR)"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
       "english": "%@ %@-%@ %@\\n%@Score correction (Goal line technology)",
-      "value": "%@%@-%@%@\\n%@تصحیح نتیجه - (فناوری تشخیص عبور توپ از خط گل)"
+      "value": "%@%@-%@%@\\n%@تصحیح نتیجه - (فناوری خط دروزازه)"
     },
     "common_alert_goal_disallowed_offside_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to an offside (football term)",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - offside (VAR)",
-      "value": "%@%@-%@%@\\n%@گل پذیرفته‌نشده - آفساید (VAR)"
+      "value": "%@%@-%@%@\\n%@گل ردشده - آفساید (VAR)"
     },
     "common_alert_goal_disallowed_out_of_field_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due the ball had been out of the pitch before the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - ball out of field (VAR)",
-      "value": "%@ %@-%@ %@\\n%@گل پذیرفته‌نشده - توپ خارج زمین (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل ردشده - توپ خارج زمین (VAR)"
     },
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@%@-%@%@\\n%@گل پذیرفته‌نشده (VAR)"
+      "value": "%@%@-%@%@\\n%@گل ردشده (VAR)"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
@@ -2703,7 +2703,7 @@
     "common_all_events": {
       "comment": "Option in Notification Settings to enable/disable all events at once for player/team/match/etc.",
       "english": "All events",
-      "value": "همه رویدادها"
+      "value": "همهٔ رویدادها"
     },
     "common_all_halves": {
       "comment": "VoiceOver accessibility label for the \"All\" segment in the match stats period filter. Means stats for the whole match — all halves including extra time — as opposed to a single half.",
@@ -2713,16 +2713,16 @@
     "common_all_leagues_collapsed": {
       "comment": "Snackbar feedback shown after a pinch-in gesture on the Matches tab collapses all leagues. Past tense — the action has already happened. Paired with an Undo button.",
       "english": "All leagues collapsed",
-      "value": "همه لیگ‌ها جمع شدند"
+      "value": "همهٔ لیگ‌ها جمع شدند"
     },
     "common_all_leagues_expanded": {
       "comment": "Snackbar feedback shown after a pinch-out gesture on the Matches tab expands all leagues. Past tense — the action has already happened. Paired with an Undo button.",
       "english": "All leagues expanded",
-      "value": "همه لیگ‌ها باز شدند"
+      "value": "همهٔ لیگ‌ها باز شدند"
     },
     "common_all_matches": {
       "english": "All matches",
-      "value": "تمام مسابقات"
+      "value": "همهٔ مسابقات"
     },
     "common_all_time_top_scorers": {
       "comment": "Title for the all-time top scorer list of a league (e.g. World Cup). Used as card header and screen title.",
@@ -2732,7 +2732,7 @@
     "common_all_transfers": {
       "comment": "A label indicating that you want to search all the transfers and not only the most important ones.",
       "english": "All transfers",
-      "value": "همه نقل و انتقالات"
+      "value": "همهٔ نقل و انتقالات"
     },
     "common_allow": {
       "comment": "A call to action button to allow FotMob track user's data",
@@ -2761,12 +2761,12 @@
     "common_app_icons": {
       "comment": "Header of a list of various app icons the user gets access to.",
       "english": "App icons",
-      "value": "آیکون‌های برنامه"
+      "value": "آیکن‌های برنامه"
     },
     "common_arenas": {
       "comment": "Header for a list of the venue/stadiums/arenas that the teams are playing on",
       "english": "Arenas",
-      "value": "میدان‌ها"
+      "value": "ورزشگاه‌ها"
     },
     "common_argentina": {
       "english": "Argentina",
@@ -2856,7 +2856,7 @@
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
       "english": "Big chances",
-      "value": "موقعیت‌ های عالی"
+      "value": "فرصت‌های عالی"
     },
     "common_biggest_loss": {
       "comment": "The biggest match loss for a team in a given season.",
@@ -2879,7 +2879,7 @@
     },
     "common_both_score": {
       "english": "Will both teams score?",
-      "value": "آیا هر دو تیم گل می‌زنند؟"
+      "value": "آیا هردو تیم گل می‌زنند؟"
     },
     "common_bracket_draw_info_legend": {
       "comment": "Bracket draw explanation",
@@ -2893,7 +2893,7 @@
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
-      "value": "توییتر موجود نیست"
+      "value": "توییتی موجود نیست"
     },
     "common_cache_cleared": {
       "comment": "Confirmation-alert, that cache has been cleared",
@@ -2910,7 +2910,7 @@
     },
     "common_cancelled": {
       "english": "Cancelled",
-      "value": "بازی لغو شد"
+      "value": "لغو شد"
     },
     "common_cancelled_short": {
       "comment": "Short version of the translation of [cancelled]. Max 2 chars.",
@@ -2925,7 +2925,7 @@
     "common_capacity_used": {
       "comment": "Accessibility label indicating how much of a stadium's capacity was filled for the match",
       "english": "Capacity used",
-      "value": "ظرفیت استفاده‌شده"
+      "value": "ظرفیت پرشده"
     },
     "common_card_desc_abusive_language": {
       "comment": "Abusive language towards players or referees.",
@@ -2955,7 +2955,7 @@
     "common_card_desc_handball": {
       "comment": "Illegally touching the ball with the hand or arm. Not the sport handball.",
       "english": "Handball",
-      "value": "خطای دست"
+      "value": "خطای هند"
     },
     "common_card_desc_persistent_infringement": {
       "comment": "Booked for repeatedly committing fouls over the course of the match, not for one single offence.",
@@ -3278,12 +3278,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>همه داده ها بر اساس آمار ارائه شده توسط Opta محاسبه می شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می شود.</p><p>یک مسابقه در مسابقه رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50٪ از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد ( برای هر 90 آمار) در رتبه بندی گنجانده شود.</p>"
+      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در مسابقه رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50٪ از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد ( برای هر 90 آمار) در رتبه بندی گنجانده شود.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>همه داده ها بر اساس آمار ارائه شده توسط Opta محاسبه می شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50% درصد از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد. (برای هر 90 آمار) در رتبه بندی گنجانده شود.</p>"
+      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50% درصد از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد. (برای هر 90 آمار) در رتبه بندی گنجانده شود.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3504,7 +3504,7 @@
     },
     "common_enable_push_question": {
       "english": "Do you want to enable push notifications?",
-      "value": "آیا می خواهید اطلاعیه ها را فعال کنید؟"
+      "value": "آیا می خواهید اعلان‌ها را فعال کنید؟"
     },
     "common_enable_tv_schedules": {
       "comment": "Settings item to enable/disable TV Guide",
@@ -3530,7 +3530,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "بخش اطلاعیه ها غیر فعال است. لطما از آدرس زیر دیدن کنید: http://fotmob.com/faq.html"
+      "value": "اعلان‌های فوتموب غیرفعال است. برای حل مشکل اینجا را ببینید: http://fotmob.com/faq.html"
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3620,12 +3620,12 @@
     "common_expected_goals": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "Expected goals (xG)",
-      "value": "اهداف پیش بینی شده (xG)"
+      "value": "امید گل (xG)"
     },
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "xG پذیرفته شده"
+      "value": "xG پذیرفته‌شده"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
@@ -4194,15 +4194,15 @@
     "common_goals_from_bench": {
       "comment": "It is goals a player has scored when he began the match as a substitute",
       "english": "Goals from bench",
-      "value": "گل های بازیکنان تعویضی"
+      "value": "گل‌های بازیکنان تعویضی"
     },
     "common_goals_pen": {
       "english": "Goals (Penalties)",
-      "value": "گل ها (پنالتی)"
+      "value": "گل‌ها (پنالتی)"
     },
     "common_goals_scored": {
       "english": "Goals scored",
-      "value": "`  گل های زده`"
+      "value": "گل‌های زده"
     },
     "common_goals_subtitle": {
       "english": "Penalty goals",
@@ -5212,17 +5212,17 @@
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
-      "value": "برای آگاهی از گل ها، کارت ها، پنالتی ها و موارد دیگر، بازیکنان مورد علاقه خود را انتخاب نمایید."
+      "value": "برای آگاهی از گل‌ها، کارت‌ها، پنالتی‌ها و موارد دیگر، بازیکنان مورد علاقه خود را انتخاب نمایید."
     },
     "common_onboarding_players_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for players",
       "english": "Search players",
-      "value": "جستجوی بازیکن ها"
+      "value": "جستجوی بازیکن‌ها"
     },
     "common_onboarding_team_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
-      "value": "جستجوی تیم ها"
+      "value": "جستجوی تیم‌ها"
     },
     "common_onboarding_world_cup_card_calltoaction": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
@@ -5592,7 +5592,7 @@
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
-      "value": "اطلاعیه ها با موفقیت ثبت شد است."
+      "value": "اعلان‌ها با موفقیت ثبت شدند."
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5973,7 +5973,7 @@
     },
     "common_show_team_logos_in_table": {
       "english": "Show team logos in table",
-      "value": "نمایش لوگو تیم ها در جدول"
+      "value": "نمایش لوگوی تیم‌ها در جدول"
     },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
@@ -5992,7 +5992,7 @@
     },
     "common_silent": {
       "english": "Silent",
-      "value": "بی صدا"
+      "value": "بی‌صدا"
     },
     "common_silver_desc": {
       "english": "Remove ads for a year. Click for details",
@@ -6000,17 +6000,17 @@
     },
     "common_silver_supporter": {
       "english": "Silver supporter",
-      "value": "پشتیبانی نقره ای"
+      "value": "پشتیبانی نقره‌ای"
     },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
-      "value": "گل نقره ای"
+      "value": "گل نقره‌ای"
     },
     "common_silvergoal2": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
-      "value": "گل نقره ای"
+      "value": "گل نقره‌ای"
     },
     "common_social_news": {
       "comment": "A short title for a tab that contains Tweets regarding the match. Can be translated to \"Social\" or \"Twitter\"",
@@ -6019,25 +6019,25 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "مسابقات را به ترتیبی که می خواهید در پنجره زنده بکشید یا آنها را انتخاب کنید و از دکمه ها برای ایجاد مرتب سازی دلخواه خود استفاده کنید"
+      "value": "برای تغییر ترتیب لیگ‌ها در تب رقابت‌ها آنها را بکشید. یا رویشان بزنید و از دکمه‌های پایین برای جابه‌جایی استفاده کنید"
     },
     "common_sort_tournaments": {
       "comment": "Menu indicating the user can sort the tournaments/leagues in the order he wants",
       "english": "Sort leagues",
-      "value": "دسته‌بندی لیگ ها"
+      "value": "مرتب‌سازی لیگ‌ها"
     },
     "common_squad": {
       "english": "Squad",
-      "value": "اطلاعات بازیکنان"
+      "value": "ترکیب"
     },
     "common_squad_name": {
       "comment": "Used in the lineup builder for a squad name title placeholder",
       "english": "Squad name",
-      "value": "نام تیم"
+      "value": "نام ترکیب"
     },
     "common_staff_picks": {
       "english": "Staff picks",
-      "value": "انتخاب اعضاء"
+      "value": "انتخاب اعضا"
     },
     "common_standings_average_coefficient_short": {
       "comment": "Short column header for averages coefficient (decimal value).",
@@ -6046,7 +6046,7 @@
     },
     "common_star": {
       "english": "Add %@",
-      "value": "اضافه کردن %@"
+      "value": "افزودن %@"
     },
     "common_star_desc": {
       "english": "Favorite teams",
@@ -6054,11 +6054,11 @@
     },
     "common_star_league": {
       "english": "Add to favorites",
-      "value": "اضافه کردن به علاقه مندی ها"
+      "value": "افزودن به علاقه‌مندی‌ها"
     },
     "common_started": {
       "english": "Started",
-      "value": "بازی شروع شد"
+      "value": "شروع شد"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",
@@ -6089,11 +6089,11 @@
     },
     "common_stream_playback_error": {
       "english": "An error occurred playing the audio stream",
-      "value": "خطایی در هنگام پخش رخ داده است."
+      "value": "خطایی در هنگام گزارش صوتی رخ داده است."
     },
     "common_stream_playback_initializing": {
       "english": "Initializing audio playback…",
-      "value": "راه اندازی پخش صوتی..."
+      "value": "راه‌اندازی پخش صوتی..."
     },
     "common_stream_playback_playing": {
       "english": "Playing audio stream",
@@ -6111,11 +6111,11 @@
     },
     "common_subs": {
       "english": "Substitutes",
-      "value": "تعویض ها"
+      "value": "تعویض‌ها"
     },
     "common_subs_stats": {
       "english": "Substitutes",
-      "value": "تعویضها"
+      "value": "تعویض‌ها"
     },
     "common_substitute": {
       "comment": "Position label shown for a benched/substitute player in the player match-stats ranking list (singular of the existing 'Substitutes'). Non-English values derived from [subs] and singularized — flagged for native review.",
@@ -6125,7 +6125,7 @@
     "common_suggested": {
       "comment": "Onboarding: header for the top players list",
       "english": "Suggested",
-      "value": "پیشنهاد ما"
+      "value": "پیشنهادی"
     },
     "common_supporter_club_pitch_1": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
@@ -6159,7 +6159,7 @@
     },
     "common_suspensions": {
       "english": "Suspended",
-      "value": "به حالت تعلیق درآمده"
+      "value": "تعلیق‌شده"
     },
     "common_t10_minutes": {
       "english": "10 minute",
@@ -6188,7 +6188,7 @@
     "common_tab_title_tournaments": {
       "comment": "Tab title, keep it short",
       "english": "Leagues",
-      "value": "لیگ ها"
+      "value": "لیگ‌ها"
     },
     "common_table": {
       "english": "Table",
