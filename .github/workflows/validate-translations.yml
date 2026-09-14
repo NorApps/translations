@@ -21,4 +21,5 @@ jobs:
       - name: Validate
         run: |
           python3 .github/scripts/validate_translations.py \
-            --base-sha "${{ github.event.pull_request.base.sha }}"
+            --base-sha "${{ github.event.pull_request.base.sha }}" \
+            ${{ github.event.pull_request.head.repo.fork && ' ' || '--trusted' }}

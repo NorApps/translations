@@ -17,11 +17,16 @@ HTML_TAG = re.compile(r"</?[a-zA-Z][^>]*>")
 PLURAL_FORMS = ("zero", "one", "two", "few", "many", "other")
 
 FORBIDDEN_CHARS = {
-    "​": "ZERO WIDTH SPACE",
-    "﻿": "ZERO WIDTH NO-BREAK SPACE",
-    "⁠": "WORD JOINER",
-    " ": "NO-BREAK SPACE",
+    "\u200b": "ZERO WIDTH SPACE",
+    "\ufeff": "ZERO WIDTH NO-BREAK SPACE",
+    "\u2060": "WORD JOINER",
 }
+
+SUSPECT_CHARS = {
+    "\u00a0": "NO-BREAK SPACE",
+}
+
+LOAN_WORD_SHARE = 0.4
 
 BRAND_TOKENS = ("FotMob", "Opta", "VAR", "xG", "PlayStation")
 
@@ -98,18 +103,27 @@ def line_of(text, key):
     return text.count("\n", 0, index) + 1
 
 
-def check_value(lang, path, text, key, form, old, new, english, add):
+def placeholders(value):
+    """Placeholder multiset, ignoring positional indices.
+
+    `%1$d` and `%d` are the same conversion; reordering arguments is a normal
+    thing for a translation to need. A changed conversion (`%s` to `%@`) is not.
+    """
+    return sorted(re.sub(r"^%\d+\$", "%", p) for p in PLACEHOLDER.findall(value))
+
+
+def check_value(lang, path, text, key, form, old, new, english, add, trusted=False, loan_word=False):
     if not new.strip():
         add("error", "empty", "Translation is empty.")
         return
 
-    new_ph = sorted(PLACEHOLDER.findall(new))
-    old_ph = sorted(PLACEHOLDER.findall(old)) if old is not None else None
-    en_ph = sorted(PLACEHOLDER.findall(english)) if english else None
+    new_ph = placeholders(new)
+    old_ph = placeholders(old) if old is not None else None
+    en_ph = placeholders(english) if english else None
 
     if old_ph is not None and new_ph != old_ph:
         add(
-            "error",
+            "warning" if trusted else "error",
             "placeholder-changed",
             f"Placeholders changed: was {old_ph or 'none'}, now {new_ph or 'none'}. "
             "Placeholders must be copied exactly from English.",
@@ -132,9 +146,15 @@ def check_value(lang, path, text, key, form, old, new, english, add):
                 f"HTML tags changed: was {old_tags or 'none'}, now {new_tags or 'none'}.",
             )
 
-    if english and new.strip() == english.strip() and old is not None and old.strip() != english.strip():
+    if (
+        english
+        and not loan_word
+        and new.strip() == english.strip()
+        and old is not None
+        and old.strip() != english.strip()
+    ):
         add(
-            "error",
+            "warning" if trusted else "error",
             "untranslated",
             "Value was replaced with the English source text.",
         )
@@ -145,6 +165,15 @@ def check_value(lang, path, text, key, form, old, new, english, add):
                 "error",
                 "invisible-character",
                 f"Contains {name} (U+{ord(char):04X}). Remove it.",
+            )
+
+    for char, name in SUSPECT_CHARS.items():
+        if char in new and (old is None or char not in old):
+            add(
+                "warning",
+                "invisible-character",
+                f"Contains {name} (U+{ord(char):04X}). Intentional in French "
+                "typography; elsewhere usually a paste artefact.",
             )
 
     if any(ord(c) < 32 and c not in "\t" for c in new):
@@ -193,7 +222,7 @@ def check_value(lang, path, text, key, form, old, new, english, add):
             )
 
 
-def validate_file(path, base_sha):
+def validate_file(path, base_sha, trusted=False, loan_keys=frozenset()):
     findings = []
     head_text = open(path, encoding="utf-8").read()
     lang = os.path.splitext(os.path.basename(path))[0]
@@ -227,20 +256,29 @@ def validate_file(path, base_sha):
             base_entries = {}
 
     if base_entries:
+        key_level = "warning" if trusted else "error"
         for key in sorted(set(base_entries) - set(head_entries)):
             findings.append(
-                Finding("error", path, key, None, "key-removed", f"Key '{key}' was removed.")
+                Finding(key_level, path, key, None, "key-removed", f"Key '{key}' was removed.")
             )
-        for key in sorted(set(head_entries) - set(base_entries)):
+        added = sorted(set(head_entries) - set(base_entries))
+        for key in added[:MAX_ROWS]:
             findings.append(
                 Finding(
-                    "error",
+                    key_level,
                     path,
                     key,
                     None,
                     "key-added",
                     f"Key '{key}' is not in the source file. Keys come from strings.txt.",
                     line_of(head_text, key),
+                )
+            )
+        if len(added) > MAX_ROWS:
+            findings.append(
+                Finding(
+                    key_level, path, None, None, "key-added",
+                    f"{len(added) - MAX_ROWS} further keys not in the source file.",
                 )
             )
 
@@ -288,18 +326,59 @@ def validate_file(path, base_sha):
                 new,
                 english_for(reference, form),
                 add,
+                trusted,
+                key in loan_keys,
             )
 
     return findings
 
 
+def find_loan_words(directory="base_languages"):
+    """Keys most locales deliberately leave in English.
+
+    "Momentum", "VAR", "xG" and the like are not missing translations, and
+    `review_and_apply.py` already treats a wide majority keeping the English as
+    intentional. Without this, a correct export trips the untranslated check.
+    """
+    english_count = {}
+    total = 0
+    for name in sorted(os.listdir(directory)):
+        if not name.endswith(".json") or name in ("summary.json", "metadata.json"):
+            continue
+        try:
+            entries = json.load(open(os.path.join(directory, name), encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        entries = entries.get("translations")
+        if not isinstance(entries, dict):
+            continue
+        total += 1
+        for key, entry in entries.items():
+            if not isinstance(entry, dict):
+                continue
+            english = entry.get("english")
+            value = entry.get("value")
+            if isinstance(english, str) and isinstance(value, str) and value.strip() == english.strip():
+                english_count[key] = english_count.get(key, 0) + 1
+    if total < 8:
+        return frozenset()
+    return frozenset(k for k, n in english_count.items() if n / total >= LOAN_WORD_SHARE)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--base-sha", required=True)
+    parser.add_argument(
+        "--trusted",
+        action="store_true",
+        help="PR is from this repo, not a fork: an export legitimately adds keys, "
+        "so key-set changes are reported as warnings rather than errors.",
+    )
     parser.add_argument("files", nargs="*")
     args = parser.parse_args()
 
     files = args.files or changed_files(args.base_sha)
+    loan_keys = find_loan_words()
     if not files:
         print("No translation files changed.")
         return 0
@@ -308,7 +387,7 @@ def main():
     for path in files:
         if not os.path.exists(path):
             continue
-        findings.extend(validate_file(path, args.base_sha))
+        findings.extend(validate_file(path, args.base_sha, args.trusted, loan_keys))
 
     errors = [f for f in findings if f.level == "error"]
     warnings = [f for f in findings if f.level == "warning"]
