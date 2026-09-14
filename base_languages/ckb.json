@@ -114,7 +114,7 @@
     "accessibility_app_notifications_off_desc": {
       "comment": "Text appearing when app notifications are off.",
       "english": "You have disabled Notifications for FotMob",
-      "value": "تۆ ئاگادارکردنەوەکانی فوتمۆبت ناچالاک کردووە"
+      "value": "تۆ ئاگادارکردنەوەکانی FotMobت ناچالاک کردووە"
     },
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
@@ -178,7 +178,7 @@
     "accessibility_change_language_explanation": {
       "comment": "Label indicating you can change the language of the app",
       "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
-      "value": "بڕۆ بۆ ڕێکخستنەکان و دەست بنێ بە (زمان)دا بۆ هەڵبژاردنی زمانی پەسەندت بۆ فۆتمۆب.\\n\\nئەگەر ڕێکخستنی زمان بەردەست نەبوو، بڕۆ بۆ ڕێکخستنەکانی زمانی ئامێرەکەت بۆ ئەوەی سەرەتا زمانێکی پەسەند دابنێیت."
+      "value": "بڕۆ بۆ ڕێکخستنەکان و دەست بنێ بە (زمان)دا بۆ هەڵبژاردنی زمانی پەسەندت بۆ FotMob.\\n\\nئەگەر ڕێکخستنی زمان بەردەست نەبوو، بڕۆ بۆ ڕێکخستنەکانی زمانی ئامێرەکەت بۆ ئەوەی سەرەتا زمانێکی پەسەند دابنێیت."
     },
     "accessibility_city": {
       "comment": "Text shown for venue on a match if do not have a link to it.",
@@ -322,7 +322,7 @@
     },
     "accessibility_download_fotmob": {
       "english": "Download FotMob",
-      "value": "دابەزاندنی فوتمۆب"
+      "value": "دابەزاندنی FotMob"
     },
     "accessibility_dribbled_past": {
       "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
@@ -417,12 +417,12 @@
     "accessibility_follow_in_the_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
       "english": "Follow in the FotMob app",
-      "value": "لە بەرنامەی فوتمۆب فۆڵۆ بکە"
+      "value": "لە بەرنامەی FotMob فۆڵۆ بکە"
     },
     "accessibility_follow_in_the_app_description": {
       "comment": "Describes the app so the user will want to download it.",
       "english": "Access your predictions, points and leagues straight from your Android/iOS FotMob app.",
-      "value": "ڕاستەوخۆ لەڕێگەی بەرنامەی فۆتمۆبەوە بۆ ئەندرۆید و ئای ئۆ ئێس دەستت بە پێشبینییەکان، خاڵەکان و خولەکانت دەگات."
+      "value": "ڕاستەوخۆ لەڕێگەی بەرنامەی FotMobەوە بۆ ئەندرۆید و ئای ئۆ ئێس دەستت بە پێشبینییەکان، خاڵەکان و خولەکانت دەگات."
     },
     "accessibility_follow_leagues": {
       "comment": "Header in the onboarding where you can choose your favorite leagues",
@@ -447,7 +447,7 @@
     "accessibility_fotmob_is_the_essential_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
       "english": "FotMob is the essential football app.",
-      "value": "فۆتمۆب بەرنامەیەکی سەرەکی و گرنگی تۆپی پێیە."
+      "value": "FotMob بەرنامەیەکی سەرەکی و گرنگی تۆپی پێیە."
     },
     "accessibility_fouls_committed_per_90": {
       "comment": "This is a number for how many free kicks a player concedes on average during 90 minutes",
@@ -1000,7 +1000,7 @@
     "accessibility_logincomponent_desc1": {
       "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
       "english": "To save your data you just have to sign in to enter the FotMob",
-      "value": "بۆ پاشەکەوتکردنی زانیاریەکانت، تەنها پێویستە بچیتە ژوورەوە بۆ ناو بەرنامەی فۆتمۆب"
+      "value": "بۆ پاشەکەوتکردنی زانیاریەکانت، تەنها پێویستە بچیتە ژوورەوە بۆ ناو بەرنامەی FotMob"
     },
     "accessibility_logincomponent_desc1_v2": {
       "comment": "explanation that the user needs to login to enter the competion.",
@@ -2434,7 +2434,7 @@
     "accessibility_use_standalone_desc": {
       "comment": "We are asking the user to use the watch app without connecting the phone app. This is a mode we call \"Standalone\".",
       "english": "Don't connect with the FotMob phone app",
-      "value": "پەیوەندی بە بەرنامەی مۆبایلی فۆتمۆبەوە مەکە"
+      "value": "پەیوەندی بە بەرنامەی مۆبایلی FotMobەوە مەکە"
     },
     "accessibility_validation__errormessage_final": {
       "comment": "Text explainging what action is required to continue",
@@ -2559,7 +2559,7 @@
     },
     "common_access_calendar_needed": {
       "english": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar",
-      "value": "پێویستە ڕێگەپێدان بە فوتمۆب بدەیت بە بەرنامەی ڕۆژژمێر بۆ ئەوەی بتوانیت یاریەکە زیاد بکەیت بۆ ڕۆژژمێر"
+      "value": "پێویستە ڕێگەپێدان بە FotMob بدەیت بە بەرنامەی ڕۆژژمێر بۆ ئەوەی بتوانیت یاریەکە زیاد بکەیت بۆ ڕۆژژمێر"
     },
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
@@ -2743,7 +2743,7 @@
     "common_allow_tracking_body": {
       "comment": "The description for the popup asking for user's permission to track data",
       "english": "This lets us show you personalized ads, which keeps FotMob free for you.",
-      "value": "ئەمە ڕێگەمان پێ دەدات ڕیکلامی تایبەتت پێ نیشان بدەین، کە وا دەکات فوتمۆب بۆ تۆ بە خۆڕایی بمێنێتەوە."
+      "value": "ئەمە ڕێگەمان پێ دەدات ڕیکلامی تایبەتت پێ نیشان بدەین، کە وا دەکات FotMob بۆ تۆ بە خۆڕایی بمێنێتەوە."
     },
     "common_allow_tracking_confirmation_body": {
       "comment": "Extra description in the system-dialogue for usage-tracking",
@@ -3279,12 +3279,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>هەموو داتاکان لەسەر بنەمای ئەو ئامارانە هەژمار دەکرێن کە لەلایەن Opta وە دابین کراون.</p><p>هەڵسەنگاندنی یاریزانی فوتمۆب بە پشتبەستن بە زیاتر لە 100 ئاماری تاکەکەسی بۆ هەر یاریزانێک لە هەر یاریەکدا هەژمار دەکرێت. </p><p>هەر یاریەک لە سیستەمی هەڵسەنگاندنەکان کە یاریزانەکە تێیدا بەشدار بووبێت هەژمار دەکرێت، تەنانەت ئەگەر وەک یەدەگیش لە چەند خولەکی کۆتایدا هاتبێتە ناو یاریگا.</p><p>پێویستە یاریزانەکە لانی کەم بەشداریی لە %50 ی سەرجەم یاریەکاندا کردبێت و هەروەها لانیکەم 90 خولەک (بۆ ئامارەکانی هەر 90 خولەکێک) یاریی کردبێت.</p>"
+      "value": "<p>هەموو داتاکان لەسەر بنەمای ئەو ئامارانە هەژمار دەکرێن کە لەلایەن Opta وە دابین کراون.</p><p>هەڵسەنگاندنی یاریزانی FotMob بە پشتبەستن بە زیاتر لە 100 ئاماری تاکەکەسی بۆ هەر یاریزانێک لە هەر یاریەکدا هەژمار دەکرێت. </p><p>هەر یاریەک لە سیستەمی هەڵسەنگاندنەکان کە یاریزانەکە تێیدا بەشدار بووبێت هەژمار دەکرێت، تەنانەت ئەگەر وەک یەدەگیش لە چەند خولەکی کۆتایدا هاتبێتە ناو یاریگا.</p><p>پێویستە یاریزانەکە لانی کەم بەشداریی لە %50 ی سەرجەم یاریەکاندا کردبێت و هەروەها لانیکەم 90 خولەک (بۆ ئامارەکانی هەر 90 خولەکێک) یاریی کردبێت.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>هەموو داتاکان لەسەر بنەمای ئەو ئامارانە هەژمار دەکرێن کە لەلایەن Opta وە دابین کراون.</p><p>هەڵسەنگاندنی یاریزانی فوتمۆب بە پشتبەستن بە زیاتر لە 100 ئاماری تاکەکەسی بۆ هەر یاریزانێک لە هەر یاریەکدا هەژمار دەکرێت. </p><p>هەر یاریەک لە سیستەمی هەڵسەنگاندنەکان کە یاریزانەکە تێیدا بەشدار بووبێت هەژمار دەکرێت، تەنانەت ئەگەر وەک یەدەگیش لە چەند خولەکی کۆتایدا هاتبێتە ناو یاریگا.</p><p>پێویستە یاریزانەکە لانی کەم بەشداریی لە %50 ی سەرجەم یاریەکاندا کردبێت و هەروەها لانیکەم 90 خولەک (بۆ ئامارەکانی هەر 90 خولەکێک) یاریی کردبێت.</p>"
+      "value": "<p>هەموو داتاکان لەسەر بنەمای ئەو ئامارانە هەژمار دەکرێن کە لەلایەن Opta وە دابین کراون.</p><p>هەڵسەنگاندنی یاریزانی FotMob بە پشتبەستن بە زیاتر لە 100 ئاماری تاکەکەسی بۆ هەر یاریزانێک لە هەر یاریەکدا هەژمار دەکرێت. </p><p>هەر یاریەک لە سیستەمی هەڵسەنگاندنەکان کە یاریزانەکە تێیدا بەشدار بووبێت هەژمار دەکرێت، تەنانەت ئەگەر وەک یەدەگیش لە چەند خولەکی کۆتایدا هاتبێتە ناو یاریگا.</p><p>پێویستە یاریزانەکە لانی کەم بەشداریی لە %50 ی سەرجەم یاریەکاندا کردبێت و هەروەها لانیکەم 90 خولەک (بۆ ئامارەکانی هەر 90 خولەکێک) یاریی کردبێت.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3531,7 +3531,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "ئاگادارکەرەوەکانی فوتمۆب لە ڕێکخستنەکانی مۆبایلەکەتدا ناچالاک کراون. سەردانی http://fotmob.com/faq.html بکە بۆ چارەسەرکردنی."
+      "value": "ئاگادارکەرەوەکانی FotMob لە ڕێکخستنەکانی مۆبایلەکەتدا ناچالاک کراون. سەردانی http://fotmob.com/faq.html بکە بۆ چارەسەرکردنی."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3790,7 +3790,7 @@
     },
     "common_follow": {
       "english": "Follow %@ on FotMob",
-      "value": "فۆڵۆوی %@ بکە لە فوتمۆب"
+      "value": "فۆڵۆوی %@ بکە لە FotMob"
     },
     "common_follow_item": {
       "comment": "Label on the button in onboarding to follow a team/a player",
@@ -3825,7 +3825,7 @@
     "common_fotmob_supporters_club": {
       "comment": "Name of the supporters club for FotMob where you can join to support FotMob development.",
       "english": "FotMob Supporters Club",
-      "value": "یانەی پشتگیریکارانی فوتمۆب"
+      "value": "یانەی پشتگیریکارانی FotMob"
     },
     "common_foul": {
       "comment": "Player was fouled in the build up to the goal. We use this to inform why the goal was ruled out due to VAR",
@@ -3889,12 +3889,12 @@
     "common_fun_fact_joint_most_defensive_contributions": {
       "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Had the joint-most defensive contributions (%1$@)",
-      "value": "یەکێک بوو لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەبوو (%1$@) بەشداری بەرگری"
+      "value": "یەکێک بوو لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەبوو (%1$@) جار"
     },
     "common_fun_fact_joint_most_defensive_contributions_live": {
       "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Has the joint-most defensive contributions (%1$@)",
-      "value": "یەکێکە لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەیە (%1$@) بەشداری بەرگری"
+      "value": "یەکێکە لەو یاریزانانەی کە زۆرترین بەشداری بەرگریان هەیە (%1$@) جار"
     },
     "common_fun_fact_joint_most_distance_covered": {
       "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
@@ -4402,12 +4402,12 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "ببە بە ئەندامی یانەی پشتگیریکارانی فوتمۆب بۆ لابردنی ڕیکلامەکان و بەکارهێنانی بەرنامەکە بە خێراتر و بێ بێزارکردن. پشتگیریەکەت یارمەتیمان دەدات فوتمۆب پەرە پێ بدەین. ئاگاداربە ئەگەر هەواڵێکی لایەنی سێیەم بکەیتەوە، ناتوانین کۆنتڕۆڵی ڕیکلامی ناو ماڵپەڕەکانی ئەوان بکەین. سوپاس بۆ پشتگیریەکەت!"
+      "value": "ببە بە ئەندامی یانەی پشتگیریکارانی FotMob بۆ لابردنی ڕیکلامەکان و بەکارهێنانی بەرنامەکە بە خێراتر و بێ بێزارکردن. پشتگیریەکەت یارمەتیمان دەدات FotMob پەرە پێ بدەین. ئاگاداربە ئەگەر هەواڵێکی لایەنی سێیەم بکەیتەوە، ناتوانین کۆنتڕۆڵی ڕیکلامی ناو ماڵپەڕەکانی ئەوان بکەین. سوپاس بۆ پشتگیریەکەت!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
       "english": "Your FotMob Supporters Club membership is active.",
-      "value": "ئەندامێتیت لە یانەی پشتگیریکارانی فوتمۆب چالاکە."
+      "value": "ئەندامێتیت لە یانەی پشتگیریکارانی FotMob چالاکە."
     },
     "common_in_game_stats_swipe": {
       "comment": "Explanation that you can swipe the screen to go to the next player",
@@ -4460,7 +4460,7 @@
     "common_invite_informal_prompt2": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
       "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "ڕەنگە هاوڕێکانت بێبەش بن لەم زانیاریانە.<br/><b>دەتەوێت ئێستا فوتمۆبیان بۆ بنێریت؟</b>"
+      "value": "ڕەنگە هاوڕێکانت بێبەش بن لەم زانیاریانە.<br/><b>دەتەوێت ئێستا FotMobیان بۆ بنێریت؟</b>"
     },
     "common_keeper": {
       "comment": "MAX 2 chars!",
@@ -4680,12 +4680,12 @@
     "common_legacy_gold_member": {
       "comment": "This is in a info message for people that already bought FotMob but we offer them to also do a subscription.",
       "english": "You have a lifetime membership with FotMob, but if you want you can now sign up for a subscription. Your support helps us continue to make FotMob better. Thanks for your support!",
-      "value": "تۆ خاوەنی ئەندامێتی هەمیشەیت لە فوتمۆب، بەڵام ئەگەر ئارەزوو بکەیت دەتوانیت ئێستا بەشداری بکەیت لە ئابوونە. پشتگیریەکەت یارمەتیمان دەدات لە پەرەپێدانی فوتمۆب. سوپاس بۆ پشتگیریەکەت!"
+      "value": "تۆ خاوەنی ئەندامێتی هەمیشەیت لە FotMob، بەڵام ئەگەر ئارەزوو بکەیت دەتوانیت ئێستا بەشداری بکەیت لە ئابوونە. پشتگیریەکەت یارمەتیمان دەدات لە پەرەپێدانی FotMob. سوپاس بۆ پشتگیریەکەت!"
     },
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "ئەم ڤیدیۆیە لە ماڵپەڕێکی دەرەکی جێگیر کراوە. فۆتمۆب خاوەنی ئەو ناوەڕۆکە نیە کە تەماشای دەکەیت.\\n\\nفوتمۆب بەرپرسیار نیە لە هەر ناوەڕۆکێک کە لە ماڵپەڕی لایەنی سێیەمدا بڵاوکراوەتەوە.\\n\\nبۆ هەر سکاڵایەکی یاسایی تکایە پەیوەندی بە خاوەنی فایلەکە یان دابینکەری ڤیدیۆکەوە بکە."
+      "value": "ئەم ڤیدیۆیە لە ماڵپەڕێکی دەرەکی جێگیر کراوە. FotMob خاوەنی ئەو ناوەڕۆکە نیە کە تەماشای دەکەیت.\\n\\nFotMob بەرپرسیار نیە لە هەر ناوەڕۆکێک کە لە ماڵپەڕی لایەنی سێیەمدا بڵاوکراوەتەوە.\\n\\nبۆ هەر سکاڵایەکی یاسایی تکایە پەیوەندی بە خاوەنی فایلەکە یان دابینکەری ڤیدیۆکەوە بکە."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -4699,7 +4699,7 @@
     "common_lineup_builder_more_desc": {
       "comment": "The fotmob lineup builder feature description in the more tab",
       "english": "Build your own FotMob lineup",
-      "value": "پێکهاتەی تایبەت بە خۆت لە فوتمۆب دروست بکە"
+      "value": "پێکهاتەی تایبەت بە خۆت لە FotMob دروست بکە"
     },
     "common_lineup_builder_onboarding_desc": {
       "comment": "An onboarding description for what the lineup builder is about. Keep it brief.",
@@ -4985,7 +4985,7 @@
     },
     "common_new_to_fotmob": {
       "english": "I'm new to FotMob!",
-      "value": "من نوێم لە فوتمۆب!"
+      "value": "من نوێم لە FotMob!"
     },
     "common_news": {
       "english": "News",
@@ -5088,7 +5088,7 @@
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
-      "value": "ئاگادارکەرەوەکانی فوتمۆبت چالاک نەکردووە. تکایە لە ڕێکخستنەکان بیگۆڕە بۆ وەرگرتنی ئاگادارکەرەوەکان."
+      "value": "ئاگادارکەرەوەکانی FotMobت چالاک نەکردووە. تکایە لە ڕێکخستنەکان بیگۆڕە بۆ وەرگرتنی ئاگادارکەرەوەکان."
     },
     "common_not_favorites": {
       "english": "Not favorites",
@@ -5241,7 +5241,7 @@
     "common_onboarding_world_cup_card_description": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
       "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "ئاگادارکەرەوە بۆ یانە و یاریزانە دڵخوازەکانت دابنێ لە ڕێگەی شێوازی نوێی مۆندیالی فوتمۆب."
+      "value": "ئاگادارکەرەوە بۆ یانە و یاریزانە دڵخوازەکانت دابنێ لە ڕێگەی شێوازی نوێی مۆندیالی FotMob."
     },
     "common_onboarding_world_cup_card_header": {
       "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
@@ -5614,7 +5614,7 @@
     },
     "common_rate_fotmob_desc": {
       "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
-      "value": "فوتمۆبت بەدڵە؟ زۆر سوپاسگوزار دەبین ئەگەر خولەکێک لە کاتت تەرخان بکەیت بۆ هەڵسەنگاندنی بەرنامەکە!"
+      "value": "FotMobت بەدڵە؟ زۆر سوپاسگوزار دەبین ئەگەر خولەکێک لە کاتت تەرخان بکەیت بۆ هەڵسەنگاندنی بەرنامەکە!"
     },
     "common_rating": {
       "comment": "We give the players a rating from 1-10 based on their performance. This is what we call Rating.",
@@ -5627,7 +5627,7 @@
     },
     "common_rating_title": {
       "english": "FotMob rating",
-      "value": "هەڵسەنگاندنی فوتمۆب"
+      "value": "هەڵسەنگاندنی FotMob"
     },
     "common_recent": {
       "comment": "Recent search queries made by user' list header (uses in Search page)",
@@ -5942,7 +5942,7 @@
     },
     "common_share": {
       "english": "Share FotMob",
-      "value": "بڵاوکردنەوەی فوتمۆب"
+      "value": "بڵاوکردنەوەی FotMob"
     },
     "common_share_event": {
       "english": "Share",
@@ -6295,7 +6295,7 @@
     "common_thank_you_for_being_a_member": {
       "comment": "A body for the Thank-you-for-supporting-us popup",
       "english": "Thank you from all of us at FotMob for being a member.",
-      "value": "سوپاس بۆ ئەوەی بوویت بە ئەندام لە فوتمۆب."
+      "value": "سوپاس بۆ ئەوەی بوویت بە ئەندام لە FotMob."
     },
     "common_theme": {
       "comment": "Asks users to choose a Theme for the app. The Theme can either be \"Dark\" or \"Light\"",
@@ -6310,7 +6310,7 @@
     "common_theme_classic": {
       "comment": "Name of good ol' classic green FotMob theme",
       "english": "FotMob Classic",
-      "value": "فوتمۆبی کلاسیک"
+      "value": "FotMobی کلاسیک"
     },
     "common_theme_dark": {
       "comment": "Option to choose a Dark theme for the app with dark colors",
@@ -6765,7 +6765,7 @@
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
-      "value": "فوتمۆب - هەواڵەکان"
+      "value": "FotMob - هەواڵەکان"
     },
     "common_won": {
       "english": "W",
@@ -6987,7 +6987,7 @@
     },
     "ios_Tweet_the_applink": {
       "english": "Tweet the link of FotMob",
-      "value": "لینکی فوتمۆب تویت بکە"
+      "value": "لینکی FotMob تویت بکە"
     },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
@@ -7018,7 +7018,7 @@
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
-      "value": "لەسەر قوفڵی شاشەکەت چاودێری جامی جیھانی مۆندیال بکە"
+      "value": "لەسەر قوفڵی شاشەکەت چاودێری جامی جیهانی مۆندیال بکە"
     },
     "ios_go_to": {
       "comment": "App Shortcut action title. Imperative verb phrase meaning \"navigate to\"; the destination screen name is shown separately and is not part of this string.",
@@ -7058,7 +7058,7 @@
     "ios_liquid_glass_update": {
       "comment": "Liquid Glass onboarding description. “Liquid Glass” is the name of a design language and should not be translated.",
       "english": "We've updated FotMob for iOS 26 and Apple's new Liquid Glass design.",
-      "value": "ئێمە فۆتمۆبمان بۆ iOS 26 و دیزاینی نوێی Liquid Glass ی ئەپڵ نوێ کردووەتەوە."
+      "value": "ئێمە FotMobمان بۆ iOS 26 و دیزاینی نوێی Liquid Glass ی ئەپڵ نوێ کردووەتەوە."
     },
     "ios_live_activities_activated": {
       "comment": "Live activities activated toast message. Includes league name param, e.g. \"Live Activities activated for World Cup\". Use live_activities translation for \"Live Activities\".",
@@ -7186,7 +7186,7 @@
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
-      "value": "فوتمۆب - باشترین بەرنامەی ئەنجامە ڕاستەوخۆکانی تۆپی پێ"
+      "value": "FotMob - باشترین بەرنامەی ئەنجامە ڕاستەوخۆکانی تۆپی پێ"
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
@@ -7208,7 +7208,7 @@
     },
     "ltc accessibility_ltc_accessibility_elapsed_minutes": {
       "comment": "VoiceOver label for elapsed match time in live text commentary. Placeholder is already formatted match time, for example \"90+4\", so the full label reads \"90+4 minutes\". Use the numeric total minute count for plural selection.",
-      "english": "%@ minutes"
+      "english": "%@ minutes",
       "english_plurals": {
         "one": "%@ minute",
         "other": "%@ minutes"
@@ -7481,11 +7481,11 @@
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
       "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "هاوڕێکانت بێبەشن لە زانیاریەکان، ئێستا فوتمۆبیان لەگەڵ هاوبەش بکە."
+      "value": "هاوڕێکانت بێبەشن لە زانیاریەکان، ئێستا FotMobیان لەگەڵ هاوبەش بکە."
     },
     "new_invite_title": {
       "english": "Invite your friends to try FotMob",
-      "value": "هاوڕێکانت بانگهێشت بکە بۆ تاقیکردنەوەی فوتمۆب"
+      "value": "هاوڕێکانت بانگهێشت بکە بۆ تاقیکردنەوەی FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7624,7 +7624,7 @@
     "new_predictor_signin_error_message": {
       "comment": "Generic message in the FotMob Predict sign-in error dialog. %1$s is a diagnostic support snapshot (do not translate).",
       "english": "Please try again. If it keeps happening, screenshot this and contact support:\\n\\n%1$s",
-      "value": "​تکایە دووبارە هەوڵبدەرەوە. ئەگەر کێشەکە بەردەوام بوو، وێنەی ئەم شاشەیە بگرە و پەیوەندی بە تیمی پشتیوانییەوە بکە:\\n\\n%1$s"
+      "value": "تکایە دووبارە هەوڵبدەرەوە. ئەگەر کێشەکە بەردەوام بوو، وێنەی ئەم شاشەیە بگرە و پەیوەندی بە تیمی پشتیوانییەوە بکە:\\n\\n%1$s"
     },
     "new_predictor_signin_error_retry": {
       "comment": "Button to retry signing in to FotMob Predict.",
@@ -7644,7 +7644,7 @@
     "new_predictor_signin_error_stale_session_with_provider_message": {
       "comment": "Shown when the user's FotMob Predict sign-in has expired. %1$s is the provider name (e.g. Google, Facebook, Apple) and appears twice; %2$s is a diagnostic support snapshot (do not translate).",
       "english": "Your %1$s sign-in has expired. Please sign in with %1$s again to keep playing FotMob Predict.\\n\\n%2$s",
-      "value": "چوونەژوورەوەت لە ڕێگەی %1$@ بەسەرچووە. تکایە دووبارە لە ڕێگەی %1$@ بچۆژوورەوە بۆ بەردەوامبوون لە پێشبینیکردنی فۆتمۆب.\\n\\n%2$s"
+      "value": "چوونەژوورەوەت لە ڕێگەی %1$s بەسەرچووە. تکایە دووبارە لە ڕێگەی %1$s بچۆ ژوورەوە بۆ بەردەوامبوون لە یاری FotMob Predict.\\n\\n%2$s"
     },
     "new_predictor_signin_error_title": {
       "comment": "Title of the dialog shown when signing in to FotMob Predict fails.",
@@ -8095,12 +8095,12 @@
     "notifications_are_you_enjoying_app_variant_1": {
       "comment": "Used for rating dialog",
       "english": "Hi, are you enjoying FotMob?",
-      "value": "سڵاو، چێژ لە فوتمۆب وەردەگریت؟"
+      "value": "سڵاو، چێژ لە FotMob وەردەگریت؟"
     },
     "notifications_are_you_enjoying_app_variant_2": {
       "comment": "Used for rating dialog",
       "english": "Hi %@! Do you enjoy using FotMob?",
-      "value": "سڵاو %@! ئایا چێژ لە بەکارهێنانی فوتمۆب وەردەگریت؟"
+      "value": "سڵاو %@! ئایا چێژ لە بەکارهێنانی FotMob وەردەگریت؟"
     },
     "notifications_assist_singular": {
       "english": "Assist",
@@ -8519,12 +8519,12 @@
     "notifications_fotmob_notifications_disabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications disabled",
-      "value": "ئاگادارکردنەوەکانی فوتمۆب ناچالاک کراون"
+      "value": "ئاگادارکردنەوەکانی FotMob ناچالاک کراون"
     },
     "notifications_fotmob_notifications_enabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications enabled",
-      "value": "ئاگادارکردنەوەکانی فوتمۆب چالاک کراون"
+      "value": "ئاگادارکردنەوەکانی FotMob چالاک کراون"
     },
     "notifications_france": {
       "english": "France",
@@ -9120,7 +9120,7 @@
     },
     "notifications_legal_leaving_app": {
       "english": "You are now leaving FotMob",
-      "value": "ئێستا فوتمۆب جێدەهێڵیت"
+      "value": "ئێستا FotMob جێدەهێڵیت"
     },
     "notifications_limited_lineup_coverage": {
       "english": "This match has limited lineup coverage",
@@ -9559,7 +9559,7 @@
     "notifications_rating_team_title": {
       "comment": "We give each team a performance rating based on how the player performs. This is a title where we rank all the teams based on their performance.",
       "english": "FotMob rating",
-      "value": "هەلسەنگاندنی فوتمۆب"
+      "value": "هەلسەنگاندنی FotMob"
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
@@ -10149,12 +10149,12 @@
     "referee_referee_last_x_years": {
       "comment": "Time window for the referee's stats in Referee Profile, e.g. \"Last 3 years\".",
       "english_plurals": {
-        "one": "ساڵی ڕابردوو",
-        "other": "%d ساڵی ڕابردوو"
-      },
-      "plurals": {
         "one": "Last year",
         "other": "Last %d years"
+      },
+      "plurals": {
+        "one": "ساڵی ڕابردوو",
+        "other": "%d ساڵی ڕابردوو"
       }
     },
     "referee_referee_stats": {
@@ -10275,7 +10275,7 @@
     "seo_ai_team_news_summary_explanation": {
       "comment": "Used in bottom sheet when clicking AI icon on team news summary to explain that the content is AI generated.",
       "english": "These summaries are generated by AI, based on recent news articles within FotMob. Each summary links to the article it is based upon.",
-      "value": "ئەم پوختانە لەلایەن ژیریی دەستکردەوە دروست کراون، بە پشتبەستن بە هەواڵە نوێیەکانی ناو فوتمۆب. هەر پوختەیەک لینکی ئەو هەواڵەی تێدایە کە لێوەی وەرگیراوە."
+      "value": "ئەم پوختانە لەلایەن ژیریی دەستکردەوە دروست کراون، بە پشتبەستن بە هەواڵە نوێیەکانی ناو FotMob. هەر پوختەیەک لینکی ئەو هەواڵەی تێدایە کە لێوەی وەرگیراوە."
     },
     "seo_allow_notifications": {
       "comment": "Call to action text to prompt for remote notifications",
@@ -10438,7 +10438,7 @@
     "seo_completed_transfer_from_on_loan": {
       "comment": "Player page text showing the club a player joined on loan from (%1$@). Shown when the player's current team already reflects the move. No fee is shown for loans. See completed_transfer_from_no_fee. See rumoured_transfer_on_loan.",
       "english": "Completed a loan transfer from %1$@",
-      "value": "بە خواستن گەڕایەوە بۆ %1$@"
+      "value": "بە خواستن لە یانەی %1$@ هات"
     },
     "seo_completed_transfer_from_with_fee": {
       "comment": "Player page text showing the club a player transferred from (%1$@) and the transfer fee (%2$@). Shown when the player's current team already reflects the move. See transfer. See rumoured_transfer_with_fee.",
@@ -10478,7 +10478,7 @@
     "seo_continue_in_app_popup_description": {
       "comment": "Description in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
       "english": "Continue in the FotMob app for a faster, better experience - for free!",
-      "value": "لە ناو بەرنامەی فوتمۆبدا بەردەوام بە بۆ ئەزموونێکی خێراتر و باشتر - بەخۆڕایی!"
+      "value": "لە ناو بەرنامەی FotMobدا بەردەوام بە بۆ ئەزموونێکی خێراتر و باشتر - بەخۆڕایی!"
     },
     "seo_contract_end": {
       "comment": "Label for the contract end date/expire date for a football player with his club.",
@@ -10588,7 +10588,7 @@
     "seo_delete_league_error": {
       "comment": "Error toast when the delete request fails (network or server error). Two short sentences. First states what failed, second suggests a retry.",
       "english": "Could not delete league. Please try again.",
-      "value": "سڕینەوەی خولەکە سەرکەوتوو نەبوو. تکایە دووبارە هەوڵبدەرەوە.."
+      "value": "سڕینەوەی خولەکە سەرکەوتوو نەبوو. تکایە دووبارە هەوڵبدەرەوە."
     },
     "seo_delete_league_success": {
       "comment": "Success toast shown briefly after the league is deleted. Short fragment, no trailing period (toast convention). Past tense.",
@@ -10658,7 +10658,7 @@
     "seo_early_access_desc": {
       "comment": "A description for the \"Early access to new features\" FotMob+ feature.",
       "english": "Be the first to try FotMob’s latest updates.",
-      "value": "ببە بە یەکەم کەس کە نوێترین تایبەتمەندیەکانی فوتمۆب تاقی دەکاتەوە."
+      "value": "ببە بە یەکەم کەس کە نوێترین تایبەتمەندیەکانی FotMob تاقی دەکاتەوە."
     },
     "seo_early_access_to_new_features": {
       "comment": "One of FotMob+ benefits",
@@ -10873,12 +10873,12 @@
     "seo_fotmob_lineup_builder": {
       "comment": "Headline for the lineup builder for football teams. In Norwegian the natural translation for Lineup Builder would be \"Lagbygger\". see [lineup_builder].",
       "english": "FotMob Lineup Builder",
-      "value": "دروستکردنی پێکهاتەی فوتمۆب"
+      "value": "دروستکردنی پێکهاتەی FotMob"
     },
     "seo_fotmob_plus": {
       "comment": "Header that describes FotMob+",
       "english": "FotMob+",
-      "value": "فوتمۆب پڵەس"
+      "value": "FotMob پڵەس"
     },
     "seo_fotmob_plus_pitch": {
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
@@ -10888,7 +10888,7 @@
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
       "english": "FotMob weekly top picks",
-      "value": "هەڵبژاردە نایابەکانی هەفتانە فوتمۆب"
+      "value": "هەڵبژاردە نایابەکانی هەفتانە FotMob"
     },
     "seo_free_form": {
       "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
@@ -11194,12 +11194,12 @@
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "english": "Join FotMob+ for %@ / month",
-      "value": "ببە بە ئەندامی فوتمۆب پڵەس بە %@ / مانگانە"
+      "value": "ببە بە ئەندامی FotMob پڵەس بە %@ / مانگانە"
     },
     "seo_join_fotmob_plus_yearly": {
       "comment": "Description highligthing the price of the yearly FotMob+ subscription. i.e. \"Join FotMob+ for $39.99 / year\"",
       "english": "Join FotMob+ for %@ / year",
-      "value": "ببە بە ئەندامی فوتمۆب پڵەس بە %@ / ساڵانە"
+      "value": "ببە بە ئەندامی FotMob پڵەس بە %@ / ساڵانە"
     },
     "seo_joincode_error_generic": {
       "comment": "Fallback error message used in three places: (a) inline under the typed-code input on unexpected failures, (b) body of the full-screen \"Couldn't join the league\" error, and (c) the success-state toast equivalent doesn't exist — this is purely a generic error. Tone: brief, non-alarming, suggests retry.",
@@ -11229,7 +11229,7 @@
     "seo_joined": {
       "comment": "A label indicating when a player joined the club, keep it as brief as possible while still making full sense.",
       "english": "Joined",
-      "value": "بەشداریت کرد"
+      "value": "پەیوەندی کرد"
     },
     "seo_league_added_to_following": {
       "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
@@ -11299,7 +11299,7 @@
     "seo_lineup_builder_meta_description": {
       "comment": "Meta info description for the lineup builder. see [lineup_builder].",
       "english": "FotMob's Lineup Builder. Easily pick your starting 11 with the best formation maker. Add player faces and choose from FotMob's database of players and teams.",
-      "value": "دروستکردنی پێکهاتەی فوتمۆب. بە ئاسانی 11 یاریزانی سەرەکی و باشترین پلان دیاری بکە. وێنەی یاریزانەکان زیاد بکە و لە بنکەی زانیاریەکانی فوتمۆب یاریزانەکان و یانەکان هەڵبژێرە."
+      "value": "دروستکردنی پێکهاتەی FotMob. بە ئاسانی 11 یاریزانی سەرەکی و باشترین پلان دیاری بکە. وێنەی یاریزانەکان زیاد بکە و لە بنکەی زانیاریەکانی FotMob یاریزانەکان و یانەکان هەڵبژێرە."
     },
     "seo_lineup_builder_meta_title": {
       "comment": "Meta info title for the lineup builder. see [lineup_builder].",
@@ -11571,7 +11571,7 @@
     "seo_onboarding_wear_subtitle": {
       "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
       "english": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch.",
-      "value": "بە ئاسانی ڕووداوەکانی یاری، ئامار و زانیاری ئەو یانانە ببینە کە بەدواداچوونیان بۆ دەکەیت، لە ڕێگەی فۆتمۆب لەسەر کاتژمێرەکەت."
+      "value": "بە ئاسانی ڕووداوەکانی یاری، ئامار و زانیاری ئەو یانانە ببینە کە بەدواداچوونیان بۆ دەکەیت، لە ڕێگەی FotMob لەسەر کاتژمێرەکەت."
     },
     "seo_onboarding_wear_title": {
       "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
@@ -11686,7 +11686,7 @@
     "seo_play_fotmob_predict": {
       "comment": "Button text for button that opens the \"FotMob Predict\" game. Do not translate FotMob Predict.",
       "english": "Play FotMob Predict",
-      "value": "یاری پێشبینیکردنی فوتمۆب بکە"
+      "value": "یاری FotMob Predict بکە"
     },
     "seo_play_offs": {
       "comment": "Button title as a header for the Champions League playoffs. This is matches that decide who will progress to the Round of 16.",
@@ -12126,7 +12126,7 @@
     "seo_resubscribe_to_keep_fotmobplus_benefits": {
       "comment": "Used for bottom sheet subtitle when subscription has expired",
       "english": "Resubscribe to keep FotMob+ benefits.",
-      "value": "بەشداریکردنت نوێ بکەرەوە بۆ بەردەوامبوونی تایبەتمەندیەکانی فوتمۆب پڵەس."
+      "value": "بەشداریکردنت نوێ بکەرەوە بۆ بەردەوامبوونی تایبەتمەندیەکانی FotMob پڵەس."
     },
     "seo_results": {
       "comment": "Short title for the dialogue showing the user's prediction scores and results so far.",
@@ -12286,7 +12286,7 @@
     "seo_select_fan_type": {
       "comment": "Placeholder text for a dropdown that lets the user select fan type (home team, away team or neutral).",
       "english": "Select fan type",
-      "value": "جۆری هاندەر هەڵبژێره‌"
+      "value": "جۆری هاندەر هەڵبژێرە"
     },
     "seo_set_piece_goals": {
       "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
@@ -12336,7 +12336,7 @@
     "seo_sign_in_to_fotmob_predict": {
       "comment": "Title for the sign in dialogue in the predictor game. Don't translate \"FotMob Predict\".",
       "english": "Sign in to FotMob Predict",
-      "value": "چوونە ژورەوە بۆ پێشبینیکردنی فوتمۆب"
+      "value": "چوونە ژورەوە بۆ FotMob Predict"
     },
     "seo_sign_in_to_play": {
       "comment": "Text for the button that opens the sign in dialogue in the predictor game.",
@@ -12351,17 +12351,17 @@
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
       "english": "FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "فوتمۆب بەرنامەیەکی سەرەکیە بۆ ڕۆژی یاریەکان. ئەنجامە ڕاستەوخۆکان، خشتەی یاریەکان، ڕیزبەندیەکان، ئامارەکان و هەواڵە تایبەتەکان بۆ زیاتر لە 500 خولی تۆپی پێ لە سەرانسەری جیهان بەدەست بهێنە."
+      "value": "FotMob بەرنامەیەکی سەرەکیە بۆ ڕۆژی یاریەکان. ئەنجامە ڕاستەوخۆکان، خشتەی یاریەکان، ڕیزبەندیەکان، ئامارەکان و هەواڵە تایبەتەکان بۆ زیاتر لە 500 خولی تۆپی پێ لە سەرانسەری جیهان بەدەست بهێنە."
     },
     "seo_site_description_aboutus_careers": {
       "comment": "Meta description for the fotmob website about careers, where open postitions are listed",
       "english": "We are looking for developers, check out our open positions! FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "ئێمە بەدوای گەشەپێدەردا دەگەڕێین، بڕوانە هەلی کارەکانمان! فوتمۆب باشترین بەرنامەیە بۆ ئەنجامە ڕاستەوخۆکان و هەواڵە وەرزشیەکان."
+      "value": "ئێمە بەدوای گەشەپێدەردا دەگەڕێین، بڕوانە هەلی کارەکانمان! FotMob باشترین بەرنامەیە بۆ ئەنجامە ڕاستەوخۆکان و هەواڵە وەرزشیەکان."
     },
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
       "english": "Have a question about FotMob, app settings or stats definitions? Check out FotMob's Frequently Asked Questions page for answers and other pro tips!",
-      "value": "پرسیارێکت هەیە دەربارەی فۆتمۆب، ڕێکخستنەکان یان ئامارەکان؟ سەردانی لاپەڕەی پرسیارە باوەکان بکە بۆ وەڵامەکان و تێبینیە پرۆفیشناڵەکان!"
+      "value": "پرسیارێکت هەیە دەربارەی FotMob، ڕێکخستنەکان یان ئامارەکان؟ سەردانی لاپەڕەی پرسیارە باوەکان بکە بۆ وەڵامەکان و تێبینیە پرۆفیشناڵەکان!"
     },
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
@@ -12406,7 +12406,7 @@
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "english": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob.",
-      "value": "ڕیزبەندی %1$@ بۆ وەرزی %2$@ بەپێی خاڵە چاوەڕوانکراوەکان. سەیری خشتەی گۆڵە چاوەڕوانکراوەکانی %1$@ یان خشتەی دادپەروەری بۆ وەرزی %2$@ و وەرزەکانی تر لە فوتمۆب ببینه."
+      "value": "ڕیزبەندی %1$@ بۆ وەرزی %2$@ بەپێی خاڵە چاوەڕوانکراوەکان. سەیری خشتەی گۆڵە چاوەڕوانکراوەکانی %1$@ یان خشتەی دادپەروەری بۆ وەرزی %2$@ و وەرزەکانی تر لە FotMob ببینه."
     },
     "seo_site_description_league_transfers": {
       "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
@@ -12476,7 +12476,7 @@
     "seo_site_description_team_stats": {
       "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
       "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
-      "value": "ئامارە وردەکانی یاریزانان و یانەی %@، لەگەڵ هەڵسەنگاندنەکان، گۆڵەکان،ئەسیستەکان، کلین شیت، لێدانەکانی ناو گۆڵ و ئاستی وەرزەکە."
+      "value": "ئامارە وردەکانی یاریزانان و یانەی %@، لەگەڵ هەڵسەنگاندنەکان، گۆڵەکان، ئەسیستەکان، کلین شیت، لێدانەکانی ناو گۆڵ و ئاستی وەرزەکە."
     },
     "seo_site_description_team_table": {
       "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
@@ -12491,12 +12491,12 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "نوێترین گواستنەوە فەڕمیەکان و گرانترین کڕینەکان بدۆزەرەوە. ناوەندی گواستنەوەی فوتمۆب - فلتەرکردن بەپێی خول و یانە!"
+      "value": "نوێترین گواستنەوە فەڕمیەکان و گرانترین کڕینەکان بدۆزەرەوە. ناوەندی گواستنەوەی FotMob - فلتەرکردن بەپێی خول و یانە!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "نوێترین گواستنەوەکانی %1$@ ناوەندی گواستنەوەی فوتمۆب - ئاگاداری دواین وردەکاریەکان بە!"
+      "value": "نوێترین گواستنەوەکانی %1$@ ناوەندی گواستنەوەی FotMob - ئاگاداری دواین وردەکاریەکان بە!"
     },
     "seo_site_description_tv_guide": {
       "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
@@ -12521,21 +12521,21 @@
     "seo_site_title": {
       "comment": "Title of the site. Typically displayed in the tab header in the browser",
       "english": "FotMob - Football Live Scores",
-      "value": "فوتمۆب - ئەنجامە ڕاستەوخۆکانی تۆپی پێ"
+      "value": "FotMob - ئەنجامە ڕاستەوخۆکانی تۆپی پێ"
     },
     "seo_site_title_aboutus": {
       "comment": "Website meta title for the fotmob about us page",
       "english": "FotMob - About us",
-      "value": "فوتمۆب - دەربارەی ئێمە"
+      "value": "FotMob - دەربارەی ئێمە"
     },
     "seo_site_title_aboutus_advertise": {
       "english": "FotMob - Advertise",
-      "value": "فوتمۆب - ڕیکلام"
+      "value": "FotMob - ڕیکلام"
     },
     "seo_site_title_aboutus_careers": {
       "comment": "Meta title for the fotmob website about careers, where open postitions are listed",
       "english": "FotMob - We are hiring!",
-      "value": "فوتمۆب - ئێمە کارمەند دادەمەزرێنین!"
+      "value": "FotMob - ئێمە کارمەند دادەمەزرێنین!"
     },
     "seo_site_title_coach": {
       "comment": "Title for the page for a coach. With name as input. Eg \"Frank Lampard - stats and career\"",
@@ -12640,7 +12640,7 @@
     "seo_site_title_stats": {
       "comment": "Meta title for stats page with list of stats for players",
       "english": "Stats - FotMob - The Pulse of Football",
-      "value": "ئامارەکان - فوتمۆب - ترپەی دڵی تۆپی پێ"
+      "value": "ئامارەکان - FotMob - ترپەی دڵی تۆپی پێ"
     },
     "seo_site_title_stats_league": {
       "comment": "Page title for page showing teams or players in a league, sorted by a single stat. With stat, leaguename and seasonname as input. Eg \"Assists - LaLiga 2023/2024 stats\"",
@@ -12700,22 +12700,22 @@
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
       "english": "Transfer Center - Latest & Top Transfers - FotMob",
-      "value": "ناوەندی گواستنەوە - نوێترین و گرنگترین گواستنەوەکان - فوتمۆب"
+      "value": "ناوەندی گواستنەوە - نوێترین و گرنگترین گواستنەوەکان - FotMob"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
       "english": "Transfer Center - %1$@: Latest & Top Transfers - FotMob",
-      "value": "ناوەندی گواستنەوە - %1$@: نوێترین و گرنگترین گواستنەوەکان - فوتمۆب"
+      "value": "ناوەندی گواستنەوە - %1$@: نوێترین و گرنگترین گواستنەوەکان - FotMob"
     },
     "seo_site_title_tv_guide": {
       "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
       "english": "Football TV Schedules in %@ - Watch Live on TV | FotMob",
-      "value": "خشتەی یارییەکانی تۆپی پێ لە %@ - بە ڕاستەوخۆ لە تەلەفزیۆن ببینە | فوتمۆب"
+      "value": "خشتەی یارییەکانی تۆپی پێ لە %@ - بە ڕاستەوخۆ لە تەلەفزیۆن ببینە | FotMob"
     },
     "seo_site_title_tv_guide_channel": {
       "comment": "SEO title for tv schedule page filtered by channel name. %@ is the channel name.",
       "english": "Football on %@ - TV Schedule | FotMob",
-      "value": "تۆپی پێ لە %@ - خشتەی پەخشی تەلەفزیۆن | فوتمۆب"
+      "value": "تۆپی پێ لە %@ - خشتەی پەخشی تەلەفزیۆن | FotMob"
     },
     "seo_site_title_tv_guide_channel_world_cup": {
       "comment": "SEO title for tv schedule page filtered by channel name, specific to world cup. %@ is the channel name.",
@@ -12810,12 +12810,12 @@
     "seo_support_fotmob": {
       "comment": "One of FotMob+ features",
       "english": "Support FotMob",
-      "value": "پشتگیریکردنی فوتمۆب"
+      "value": "پشتگیریکردنی FotMob"
     },
     "seo_support_fotmob_desc": {
       "comment": "A description for the \"Support FotMob\" FotMob+ feature.",
       "english": "Help support the ongoing development of FotMob.",
-      "value": "هاوکار بە لە گەشەپێدانی بەردەوامی فۆتمۆب."
+      "value": "هاوکار بە لە گەشەپێدانی بەردەوامی FotMob."
     },
     "seo_switch_to_rumours": {
       "comment": "String on the button that changes from showing transfers to showing rumours. See rumours.",
@@ -12949,7 +12949,7 @@
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
       "english": "Thanks for supporting us since %@! Unlock even more features with FotMob+",
-      "value": "سوپاس بۆ پشتگیریکردنت لە ساڵی %@ وە! لەڕێگەی فوتمۆب پڵەس تایبەتمەندی زیاتر بەدەست بهێنە."
+      "value": "سوپاس بۆ پشتگیریکردنت لە ساڵی %@ وە! لەڕێگەی FotMob پڵەس تایبەتمەندی زیاتر بەدەست بهێنە."
     },
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -13033,12 +13033,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "بیرهێنانەوەیەک: ماوەی تاقیکردنەوەی فوتمۆب پڵەس لە 2 ڕۆژی تر تەواو دەبێت و بە شێوەیەکی ئۆتۆماتیکی نوێ دەبێتەوە."
+      "value": "بیرهێنانەوەیەک: ماوەی تاقیکردنەوەی FotMob پڵەس لە 2 ڕۆژی تر تەواو دەبێت و بە شێوەیەکی ئۆتۆماتیکی نوێ دەبێتەوە."
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "ماوەی تاقیکردنەوەی فوتمۆب پڵەس لە 2 ڕۆژی تر بەسەردەچێت."
+      "value": "ماوەی تاقیکردنەوەی FotMob پڵەس لە 2 ڕۆژی تر بەسەردەچێت."
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",
@@ -13236,12 +13236,12 @@
     "seo_weekly_predictor_reminders": {
       "comment": "A toggle to turn on/off weekly predictor reminders. Don't translate \"FotMob Predict\"",
       "english": "Weekly FotMob Predict reminders",
-      "value": "ئاگادارکردنەوەی هەفتانەی پێشبینیکردنی فوتمۆب"
+      "value": "ئاگادارکردنەوەی هەفتانەی FotMob Predict"
     },
     "seo_weekly_predictor_reminders_desc": {
       "comment": "A toggle description about getting weekly reminders for new predictor matches available. Don't translate \"FotMob Predict\"",
       "english": "Receive weekly reminders when new FotMob Predict matches are available",
-      "value": "ئاگادارکردنەوەی هەفتانە بەدەست بهێنە کاتێک یاریە نوێەکانی پێشبینیکردنی فوتمۆب بەردەست دەبن"
+      "value": "ئاگادارکردنەوەی هەفتانە بەدەست بهێنە کاتێک یاریە نوێەکانی FotMob Predict بەردەست دەبن"
     },
     "seo_weekly_reminders": {
       "comment": "Headline in the popup informing users that they can enable reminders for when the weekly matches are made available",
