@@ -2618,7 +2618,7 @@
     "common_added_as_favorite": {
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
-      "value": "%1$@ به علاقه مندی‌های شما اضافه شد"
+      "value": "%1$@ به علاقه‌مندی‌های شما اضافه شد"
     },
     "common_added_new_leagues": {
       "comment": "Pop-up notifying user about new leagues have been added",
@@ -2668,7 +2668,7 @@
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@ %@-%@ %@\\n%@گل ردشده به علت خطا (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل مردود به علت خطا (VAR)"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
@@ -2678,17 +2678,17 @@
     "common_alert_goal_disallowed_offside_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to an offside (football term)",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - offside (VAR)",
-      "value": "%@ %@-%@ %@\\n%@گل ردشده - آفساید (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل مردود - آفساید (VAR)"
     },
     "common_alert_goal_disallowed_out_of_field_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due the ball had been out of the pitch before the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - ball out of field (VAR)",
-      "value": "%@ %@-%@ %@\\n%@گل ردشده - توپ خارج زمین (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل مردود - توپ خارج زمین (VAR)"
     },
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@ %@-%@ %@\\n%@گل ردشده (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل مردود (VAR)"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
@@ -3722,7 +3722,7 @@
     },
     "common_favorites": {
       "english": "Favorites",
-      "value": "علاقه مندی‌ها"
+      "value": "علاقه‌مندی‌ها"
     },
     "common_favorites_news": {
       "comment": "A header for the hint (onboarding) for the new News, where we explain how to change order of the news-sections(leagues, teams) inside the tab",
@@ -5088,7 +5088,7 @@
     },
     "common_not_favorites": {
       "english": "Not favorites",
-      "value": "علاقه مندی وجود ندارد"
+      "value": "علاقه‌مندی وجود ندارد"
     },
     "common_not_native_language": {
       "comment": "A message saying we don't have the live ticker in the users language. Like we may have the ticker in German while the user only speaks English.",
@@ -5672,7 +5672,7 @@
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",
-      "value": "حذف از علاقه مندی‌ها"
+      "value": "حذف از علاقه‌مندی‌ها"
     },
     "common_remove_league": {
       "english": "Remove League",
@@ -6611,7 +6611,7 @@
     },
     "common_unregistered_push": {
       "english": "Successfully unregistered for push notifications",
-      "value": "اطلاعیه‌ها ثبت نشد است."
+      "value": "اعلان‌ها با موفقیت غیرفعال شدند."
     },
     "common_unstar": {
       "english": "Unfollow %@",
@@ -6718,7 +6718,7 @@
     },
     "common_view_favorites": {
       "english": "View favorites",
-      "value": "مشاهده علاقه مندی‌ها"
+      "value": "مشاهده علاقه‌مندی‌ها"
     },
     "common_view_fixtures": {
       "english": "View fixtures",
@@ -8526,7 +8526,7 @@
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
       "english": "Unable toggle favorite. Please try again later.",
-      "value": "امکان جابجایی علاقه مندی‌ها وجود ندارد. لطفا بعدا دوباره امتحان کنید."
+      "value": "امکان جابجایی علاقه‌مندی‌ها وجود ندارد. لطفا بعدا دوباره امتحان کنید."
     },
     "notifications_estonia": {
       "english": "Estonia",
@@ -9847,7 +9847,7 @@
     "notifications_sign_in_dialog": {
       "comment": "Dialog \"selling\" profile login",
       "english": "We can keep your favorites and settings safe. <b>Sign in now?</b>",
-      "value": "ما می‌توانیم تمام تنظیمات و علاقه مندی‌های شما را ذخیره کنیم. <b>پس همین حالا عضو شوید.</b>"
+      "value": "ما می‌توانیم تمام تنظیمات و علاقه‌مندی‌های شما را ذخیره کنیم. <b>پس همین حالا عضو شوید.</b>"
     },
     "notifications_sign_in_with_apple": {
       "english": "Sign in with Apple",
