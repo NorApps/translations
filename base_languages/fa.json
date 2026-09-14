@@ -8516,7 +8516,7 @@
     },
     "notifications_error_signing_in_with": {
       "english": "There was a problem signing in with %@. Please try again.",
-      "value": "یک مشکل در در وارد شدن به %@ وجود دارد. لطفا دوباره تلاش کنید."
+      "value": "یک مشکل در وارد شدن با %@ وجود دارد. لطفا دوباره تلاش کنید."
     },
     "notifications_error_unable_to_open_search_hit": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible click a search result like league/team/player/article",
@@ -8752,7 +8752,7 @@
     },
     "notifications_injured_and_suspended_players": {
       "english": "Injured and suspended players",
-      "value": "بازیکنان آسیب دیده و معلق شده"
+      "value": "بازیکنان آسیب‌دیده و معلق شده"
     },
     "notifications_injury_1": {
       "english": "Heart problems",
@@ -8768,7 +8768,7 @@
     },
     "notifications_injury_101": {
       "english": "Calf injury",
-      "value": "آسیب دیدگی ساق پا"
+      "value": "آسیب‌دیدگی ساق پا"
     },
     "notifications_injury_102": {
       "english": "Neck injury",
@@ -8896,7 +8896,7 @@
     },
     "notifications_injury_130": {
       "english": "Knock",
-      "value": "آسیب دیدگی در اثر ضربه"
+      "value": "آسیب‌دیدگی در اثر ضربه"
     },
     "notifications_injury_131": {
       "english": "Jaw injury",
@@ -9020,7 +9020,7 @@
     },
     "notifications_injury_47": {
       "english": "Groin injury",
-      "value": "آسیب‌‌دیدگی کشاله ران"
+      "value": "آسیب‌دیدگی کشاله ران"
     },
     "notifications_injury_5": {
       "english": "Flu",
