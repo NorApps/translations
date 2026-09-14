@@ -3283,12 +3283,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50٪ از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) تا در رتبه بندی گنجانده شود.</p>"
+      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه‌بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50٪ از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) تا در رتبه‌بندی گنجانده شود.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50%% از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) تا در رتبه بندی گنجانده شود.</p>"
+      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه‌بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50%% از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) تا در رتبه‌بندی گنجانده شود.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -6179,7 +6179,7 @@
     },
     "common_suspensions": {
       "english": "Suspended",
-      "value": "تعلیق‌شده"
+      "value": "محروم"
     },
     "common_t10_minutes": {
       "english": "10 minute",
