@@ -293,6 +293,11 @@
       "english": "Defensive Midfielder",
       "value": "Mediocampista defensivo"
     },
+    "common_centermidfielder": {
+      "comment": "Player position - player plays in the center of the midfield",
+      "english": "Central Midfielder",
+      "value": "Mediocampista central"
+    },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
       "english": "Clean sheet",
@@ -675,6 +680,11 @@
       "english": "Remove ads for a year. Click for details",
       "value": "Suscríbete a FotMob y elimina los anuncios por un año. Ver más detalles"
     },
+    "common_squad_value": {
+      "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
+      "english": "Squad value",
+      "value": "Valor del plantel"
+    },
     "common_table": {
       "english": "Table",
       "value": "Tabla"
@@ -735,6 +745,11 @@
       "english": "Tables & News",
       "value": "Posiciones y noticias"
     },
+    "ios_benched": {
+      "comment": "VoiceOver-only value read directly after the [minutes_played] label when a player played zero minutes, e.g. \"Minutes played: Benched\". Keep it short, but make the \"did not play\" state explicit where the bare noun would just mean \"substitute\".",
+      "english": "Benched",
+      "value": "En la banca"
+    },
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
       "value": "Para un acceso más rápido, toca la estrella para agregar tus ligas favoritas. Toca en el nombre de la liga para cambiar la liga actual"
@@ -743,6 +758,11 @@
       "comment": "Live activities onboarding description. Use live_activities translation for \"live activities\".",
       "english": "Enable live activities and follow every goal without opening the app",
       "value": "Activa las Actividades en vivo y sigue todos los goles sin abrir la app"
+    },
+    "ios_last_transfer_fee": {
+      "comment": "VoiceOver-only label for the player's last transfer fee in player profile",
+      "english": "Last transfer fee",
+      "value": "Último monto de transferencia"
     },
     "ios_lineup_average_filter": {
       "comment": "A label for team average stats in Lineups, read aloud by VoiceOver. %@ is the localized stat name, e.g. \"Average [rating]\" / \"Average [age]\" where the bracketed text is the variable.",
@@ -786,10 +806,20 @@
       "english": "Shirt number",
       "value": "Número de camiseta"
     },
+    "ios_through_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced after a penalty shootout. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on penalties",
+      "value": "%@ avanzó en la tanda de penales"
+    },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
       "value": "FotMob - la mejor aplicación para resultados de fútbol en vivo"
+    },
+    "ios_won_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that won a penalty shootout where \"is through\" doesn't fit, e.g. a final. Placeholder is the team name. This should be in past tense.",
+      "english": "%@ won on penalties",
+      "value": "%@ ganó en la tanda de penales"
     },
     "ltc accessibility_ltc_accessibility_penalty_goal_to_team": {
       "comment": "VoiceOver label for a penalty goal event in live text commentary. Placeholder is the team name, for example \"Penalty goal to Manchester United\".",

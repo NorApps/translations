@@ -131,9 +131,9 @@
       "value": "Форварди"
     },
     "accessibility_attacking_threat": {
-      "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
+      "comment": "Header of the Momentum graph on the match Facts tab. Tracks how likely the team in possession is to score as the match ebbs and flows.",
       "english": "Momentum",
-      "value": "Динаміка атаки"
+      "value": "Ініціатива"
     },
     "accessibility_attacking_zones": {
       "comment": "Title of a match stats card showing which areas of the pitch (left, right or centre) a team attacks through the most.",
@@ -2771,6 +2771,11 @@
       "english": "App icons",
       "value": "Іконки додатку"
     },
+    "common_apply": {
+      "comment": "Button that applies the selected filters or settings, e.g. in the TV schedule filter sheet. Paired with Cancel.",
+      "english": "Apply",
+      "value": "Застосувати"
+    },
     "common_arenas": {
       "comment": "Header for a list of the venue/stadiums/arenas that the teams are playing on",
       "english": "Arenas",
@@ -3011,7 +3016,7 @@
       "value": "Атакувальний Півзахисник"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "AM",
       "value": "ЦАП"
     },
@@ -3021,7 +3026,7 @@
       "value": "Центральний захисник"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CB",
       "value": "ЦЗ"
     },
@@ -3031,7 +3036,7 @@
       "value": "Опорний Півзахисник"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
       "english": "DM",
       "value": "ЦОП"
     },
@@ -3041,7 +3046,7 @@
       "value": "Центральний Півзахисник"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CM",
       "value": "ЦП"
     },
@@ -4672,7 +4677,7 @@
       "value": "Лівий Фланговий Захисник"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "LWB",
       "value": "ЛФЗ"
     },
@@ -4682,7 +4687,7 @@
       "value": "Лівий захисник"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LB",
       "value": "ЛЗ"
     },
@@ -4692,7 +4697,7 @@
       "value": "Лівий Півзахисник"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LM",
       "value": "ЛП"
     },
@@ -4702,7 +4707,7 @@
       "value": "Лівий Вінгер"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LW",
       "value": "ЛВ"
     },
@@ -5508,12 +5513,12 @@
       "value": "Будь ласка, перезапустіть додаток, щоб завершити зміну мови"
     },
     "common_points": {
-      "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
+      "comment": "SHORT abbreviation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
       "english": "Pts",
       "value": "О"
     },
     "common_points_lowercase_abbreviation": {
-      "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
+      "comment": "SHORT abbreviation for \"points\". Used after a number, so should use \"mid-sentence case\".",
       "english": "pts",
       "value": "о"
     },
@@ -5568,6 +5573,11 @@
     "common_postponed_short": {
       "english": "PP",
       "value": "РР"
+    },
+    "common_prediction_points_lowercase": {
+      "comment": "Predictor: lowercase abbreviation after a number of prediction points (\"12 pts\"). Not league table points.",
+      "english": "pts",
+      "value": "о"
     },
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -5744,7 +5754,7 @@
       "value": "Правий Фланговий Захисник"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "RWB",
       "value": "ПФЗ"
     },
@@ -5754,7 +5764,7 @@
       "value": "Правий захисник"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RB",
       "value": "ПЗ"
     },
@@ -5764,7 +5774,7 @@
       "value": "Правий Півзахисник"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RM",
       "value": "ПП"
     },
@@ -5774,7 +5784,7 @@
       "value": "Правий Вінгер"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RW",
       "value": "ПВ"
     },
@@ -6059,6 +6069,11 @@
       "english": "Buzz",
       "value": "Buzz"
     },
+    "common_sort_by_time_short": {
+      "comment": "Sort option label in the TV schedule filter: lay matches out as one flat list by kick-off time, instead of grouped by league. Same concept as sort_by_time.",
+      "english": "Time",
+      "value": "Час"
+    },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
       "value": "Перетягніть змагання в потрібному Вам порядку у спливаючому вікні або виберіть їх і за допомогою кнопок створіть власну підбірку"
@@ -6076,6 +6091,11 @@
       "comment": "Used in the lineup builder for a squad name title placeholder",
       "english": "Squad name",
       "value": "Назва команди"
+    },
+    "common_squad_value": {
+      "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
+      "english": "Squad value",
+      "value": "Вартість складу"
     },
     "common_staff_picks": {
       "english": "Staff picks",
@@ -6147,7 +6167,7 @@
       "value": "Форвард"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbrevation of the Striker translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "ST",
       "value": "ФРВ"
     },
@@ -7024,9 +7044,34 @@
       "english": "Tweet the link of FotMob",
       "value": "Твітнути посилання FotMob"
     },
+    "ios_benched": {
+      "comment": "VoiceOver-only value read directly after the [minutes_played] label when a player played zero minutes, e.g. \"Minutes played: Benched\". Keep it short, but make the \"did not play\" state explicit where the bare noun would just mean \"substitute\".",
+      "english": "Benched",
+      "value": "На лаві запасних"
+    },
+    "ios_bracket_first_half": {
+      "comment": "VoiceOver-only heading read before the matches on the first path of a knockout bracket, the one leading to the top or left semi-final. Do not translate as the first half of a match. Use \"half\" or \"side\" of the draw as is natural in your language.",
+      "english": "First half of the bracket",
+      "value": "Перша половина сітки плей-офу"
+    },
+    "ios_bracket_second_half": {
+      "comment": "VoiceOver-only heading read before the matches on the second path of a knockout bracket, the one leading to the bottom or right semi-final. Do not translate as the second half of a match. Use \"half\" or \"side\" of the draw as is natural in your language, and use exactly the same noun and the same first/second (or top/bottom) scheme as bracket_first_half, since the two headings are read one after the other on the same screen.",
+      "english": "Second half of the bracket",
+      "value": "Друга половина сітки плей-офу"
+    },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
       "value": "Спочатку необхідно придбати преміум-версію"
+    },
+    "ios_career_started_still_playing": {
+      "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
+      "english": "Started %@, currently plays for this team",
+      "value": "Початок %@, зараз грає за цю команду"
+    },
+    "ios_career_started_until": {
+      "comment": "VoiceOver-only, on player career rows in the club view. Placeholders are month and year, like \"August 2020\".",
+      "english": "Started %1$@, until %2$@",
+      "value": "%1$@ – %2$@"
     },
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
@@ -7036,6 +7081,26 @@
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
       "value": "Додавши зірочку до вибраного чемпіонату, Ви забезпечите швидкий доступ до нього із головного вікна. Натисніть на назву потрібного чемпіонату, щоб перейти у відповідний розділ"
+    },
+    "ios_coaching_stats": {
+      "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
+      "english": "Coaching stats",
+      "value": "Тренерська статистика"
+    },
+    "ios_contract_elapsed_percentage": {
+      "comment": "VoiceOver-only label for how much of the player's contract term has elapsed, read as part of the progress bar in player profile.",
+      "english": "Contract elapsed percentage",
+      "value": "Відсоток терміну контракту, що минув"
+    },
+    "ios_current_status": {
+      "comment": "VoiceOver-only, on player overview status card, header for \"current injury\" or \"currently on international duty\"",
+      "english": "Current status",
+      "value": "Поточний статус"
+    },
+    "ios_date_of_birth": {
+      "comment": "VoiceOver-only label for when a person was born.",
+      "english": "Date of birth",
+      "value": "Дата народження"
     },
     "ios_draws": {
       "english": "Draws",
@@ -7050,10 +7115,20 @@
       "english": "Extra Time",
       "value": "Екстра-тайм"
     },
+    "ios_first_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the first game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"first match\" or \"first leg\", and write the ordinal as a word, never as a digit like \"1st\" or \"1.\" since screen readers pronounce those as the number one.",
+      "english": "First leg",
+      "value": "Перший матч"
+    },
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
       "value": "Стежте за Кубком світу з екрана блокування"
+    },
+    "ios_general_information": {
+      "comment": "VoiceOver-only group label for the facts card on the player profile (height, age, country, shirt number).",
+      "english": "General information",
+      "value": "Загальна інформація"
     },
     "ios_go_to": {
       "comment": "App Shortcut action title. Imperative verb phrase meaning \"navigate to\"; the destination screen name is shown separately and is not part of this string.",
@@ -7079,6 +7154,11 @@
       "comment": "Header for a teams last played matches.",
       "english": "Last matches",
       "value": "Останні матчі"
+    },
+    "ios_last_transfer_fee": {
+      "comment": "VoiceOver-only label for the player's last transfer fee in player profile",
+      "english": "Last transfer fee",
+      "value": "Остання сума трансферу"
     },
     "ios_lineup_average_filter": {
       "comment": "A label for team average stats in Lineups, read aloud by VoiceOver. %@ is the localized stat name, e.g. \"Average [rating]\" / \"Average [age]\" where the bracketed text is the variable.",
@@ -7167,6 +7247,11 @@
       "english": "Points",
       "value": "Очки"
     },
+    "ios_prediction_points": {
+      "comment": "Predictor: points a user has earned from predictions. Not league table points.",
+      "english": "Points",
+      "value": "Очки"
+    },
     "ios_previous_shot": {
       "comment": "An accessibility label for the previous shot button in the shotmap",
       "english": "Previous shot",
@@ -7201,10 +7286,35 @@
       "english": "Screen",
       "value": "Екран"
     },
+    "ios_second_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the second game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"second match\" or \"second leg\", and write the ordinal as a word, never as a digit like \"2nd\" or \"2.\" since screen readers pronounce those as the number two.",
+      "english": "Second leg",
+      "value": "Матч-відповідь"
+    },
     "ios_shirt_number": {
       "comment": "An accessibility label for a player's shirt number in the team squad view",
       "english": "Shirt number",
       "value": "Номер на футболці"
+    },
+    "ios_team_to_be_decided": {
+      "comment": "VoiceOver-only. Spoken placeholder for a bracket team that is not yet known, used where the screen shows the abbreviation \"TBD\", e.g. \"To be decided against Arsenal\". Use a short natural phrase in your language meaning the team has not been determined yet, and never an abbreviation, since screen readers spell those out letter by letter.",
+      "english": "To be decided",
+      "value": "Ще не визначено"
+    },
+    "ios_third_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the third game of a knockout tie or best-of series, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"third match\" or \"third leg\", and write the ordinal as a word, never as a digit like \"3rd\" or \"3.\" since screen readers pronounce those as the number three.",
+      "english": "Third leg",
+      "value": "Третій матч"
+    },
+    "ios_through_on_aggregate": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced from a two-legged tie on aggregate. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on aggregate",
+      "value": "%@ пройшов далі за сумою двох матчів"
+    },
+    "ios_through_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced after a penalty shootout. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on penalties",
+      "value": "%@ вийшов далі після серії пенальті"
     },
     "ios_times_won": {
       "comment": "An accessibility label for the team trophy card. The number of times the team has won the competition is read out after this label",
@@ -7232,6 +7342,11 @@
     "ios_wins": {
       "english": "Wins",
       "value": "Перемоги"
+    },
+    "ios_won_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that won a penalty shootout where \"is through\" doesn't fit, e.g. a final. Placeholder is the team name. This should be in past tense.",
+      "english": "%@ won on penalties",
+      "value": "%@ переміг у серії пенальті"
     },
     "ltc accessibility_ltc_accessibility_add_reaction": {
       "comment": "VoiceOver label for the button that opens the reaction picker in live text commentary.",
@@ -10043,6 +10158,16 @@
       "english": "Schedule",
       "value": "Розклад"
     },
+    "notifications_tv_schedules_all_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row. Announced when every TV channel for that country is selected.",
+      "english": "All channels selected",
+      "value": "Усі телеканали вибрано"
+    },
+    "notifications_tv_schedules_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row, read after the expand/collapse action. Announces how many of a country's TV channels are selected. First placeholder is the number selected, second is the total available.",
+      "english": "Channels selected: %d out of %d",
+      "value": "Вибрано телеканалів: %d з %d"
+    },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
       "english": "UK",
@@ -10792,7 +10917,9 @@
         "zero": "Expires today"
       },
       "plurals": {
-        "one": "Закінчується завтра",
+        "few": "Закінчується через %d дні",
+        "many": "Закінчується через %d днів",
+        "one": "Закінчується через %d день",
         "other": "Закінчується через %d днів"
       }
     },
@@ -10925,6 +11052,11 @@
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
       "english": "Remove ads and get exclusive benefits",
       "value": "Усуньте рекламу та отримайте ексклюзивні переваги"
+    },
+    "seo_fotmob_plus_promo_pitch": {
+      "comment": "Short pitch for FotMob+ used in promo entry points.",
+      "english": "Go ad-free and more.",
+      "value": "Без реклами та багато іншого."
     },
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
@@ -12130,8 +12262,10 @@
         "zero": "Renews today"
       },
       "plurals": {
-        "one": "Оновлення завтра",
-        "other": "Оновлення через %d дн."
+        "few": "Оновлення через %d дні",
+        "many": "Оновлення через %d днів",
+        "one": "Оновлення через %d день",
+        "other": "Оновлення через %d днів"
       }
     },
     "seo_renews_today": {
@@ -13524,6 +13658,11 @@
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when scoped to a single club — team-page context. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → team name (do not translate); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer for Manchester City in Premier League 2025/2026 season with 20 goals\".",
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@ — найкращий бомбардир %2$@ у сезоні %3$@%4$@ із %5$@ голами"
+    },
+    "transfer center_failed_to_load_more_transfers": {
+      "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
+      "english": "Failed to load more transfers, <a>retry?</a>",
+      "value": "Не вдалося завантажити більше трансферів, <a>повторити?</a>"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",

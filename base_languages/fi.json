@@ -131,9 +131,9 @@
       "value": "Hyökkääjät"
     },
     "accessibility_attacking_threat": {
-      "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
+      "comment": "Header of the Momentum graph on the match Facts tab. Tracks how likely the team in possession is to score as the match ebbs and flows.",
       "english": "Momentum",
-      "value": "Hyökkäysuhka"
+      "value": "Momentum"
     },
     "accessibility_attacking_zones": {
       "comment": "Title of a match stats card showing which areas of the pitch (left, right or centre) a team attacks through the most.",
@@ -452,12 +452,12 @@
     "accessibility_fouls_committed_per_90": {
       "comment": "This is a number for how many free kicks a player concedes on average during 90 minutes",
       "english": "Fouls committed per 90",
-      "value": "Virheet/90"
+      "value": "Rikkeet/90"
     },
     "accessibility_fouls_per_match": {
       "comment": "Label used in stats for fouls per match",
       "english": "Fouls per match",
-      "value": "Virheet ottelua kohti"
+      "value": "Rikkeet ottelua kohti"
     },
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
@@ -2105,7 +2105,7 @@
     "accessibility_successful_dribbles": {
       "comment": "Number of successful dribbles for a player in a season",
       "english": "Successful dribbles",
-      "value": "Onnistuneet kuljettamiset"
+      "value": "Onnistuneet harhautukset"
     },
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
@@ -2457,7 +2457,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "Kärsityt virheet/90"
+      "value": "Rikottu/90"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -2482,7 +2482,7 @@
     "accessibility_won_contest_per_90": {
       "comment": "Label used in stats for successful dribbles per 90",
       "english": "Successful dribbles per 90",
-      "value": "Onnistuneet kuljetukset/90"
+      "value": "Onnistuneet harhautukset/90"
     },
     "accessibility_won_tackle_per_90": {
       "comment": "Label used in stats for successful tackles per 90",
@@ -2668,7 +2668,7 @@
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@ %@-%@ %@\\n%@Maali hylätty virheen vuoksi (VAR)"
+      "value": "%@ %@-%@ %@\\n%@Maali hylätty rikkeen vuoksi (VAR)"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
@@ -2762,6 +2762,11 @@
       "comment": "Header of a list of various app icons the user gets access to.",
       "english": "App icons",
       "value": "Sovelluskuvakkeet"
+    },
+    "common_apply": {
+      "comment": "Button that applies the selected filters or settings, e.g. in the TV schedule filter sheet. Paired with Cancel.",
+      "english": "Apply",
+      "value": "Käytä"
     },
     "common_arenas": {
       "comment": "Header for a list of the venue/stadiums/arenas that the teams are playing on",
@@ -3000,10 +3005,10 @@
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
       "english": "Attacking Midfielder",
-      "value": "Hyökkäävä keskikenttä"
+      "value": "Hyökkäävä keskikenttäpelaaja"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "AM",
       "value": "HyK"
     },
@@ -3013,27 +3018,27 @@
       "value": "Toppari"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CB",
       "value": "T"
     },
     "common_centerdefensivemidfielder": {
       "comment": "Player position - player plays as an defensive midfielder",
       "english": "Defensive Midfielder",
-      "value": "Puolustava keskikenttä"
+      "value": "Puolustava keskikenttäpelaaja"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
       "english": "DM",
       "value": "PuK"
     },
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
       "english": "Central Midfielder",
-      "value": "Keskikenttä"
+      "value": "Keskikentän keskuspelaaja"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CM",
       "value": "KK"
     },
@@ -3829,16 +3834,16 @@
     "common_foul": {
       "comment": "Player was fouled in the build up to the goal. We use this to inform why the goal was ruled out due to VAR",
       "english": "foul",
-      "value": "virhe"
+      "value": "rike"
     },
     "common_fouls": {
       "english": "Fouls committed",
-      "value": "Virheet"
+      "value": "Rikkeet"
     },
     "common_fouls_short": {
       "comment": "Column header in a referee stats card, rendered directly above its own value: \"Fouls\" sits above \"18.8 / match\". Translate as the bare plural noun for fouls and nothing else - no qualifier such as \"committed\", \"called\", \"awarded\" or \"per match\", since the value line below already carries that. Reuse whatever root word for a foul that \"foul\", \"fouls\" and \"fouls_per_match\" already use in this language, but drop their qualifiers - e.g. where \"fouls\" reads \"Fouls committed\", this key is just \"Fouls\".",
       "english": "Fouls",
-      "value": "Virheet"
+      "value": "Rikkeet"
     },
     "common_free_formation": {
       "comment": "Indicates a free formation in the lineup builder where the user can move positions as they want",
@@ -4642,7 +4647,7 @@
       "value": "Vasen laitapakki"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "LWB",
       "value": "LWB"
     },
@@ -4652,17 +4657,17 @@
       "value": "Vasen laitapakki"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LB",
       "value": "VLP"
     },
     "common_leftmidfielder": {
       "comment": "Player position - player plays on the left side of the midfield",
       "english": "Left Midfielder",
-      "value": "Vasen keskikenttä"
+      "value": "Vasen keskikenttäpelaaja"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LM",
       "value": "VKK"
     },
@@ -4672,7 +4677,7 @@
       "value": "Vasen laitahyökkääjä"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LW",
       "value": "VLH"
     },
@@ -5329,7 +5334,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "Torjutut rankkarit"
+      "value": "Kohdatut rangaistuspotkut"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -5354,12 +5359,12 @@
     "common_penalty_conceded_team_title": {
       "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "Aiheutettuja rangaistuksia"
+      "value": "Aiheutetut rangaistuspotkut"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
       "english": "Penalties conceded",
-      "value": "Aiheutetut rangaistukset"
+      "value": "Aiheutetut rangaistuspotkut"
     },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
@@ -5474,12 +5479,12 @@
       "value": "Viimeistele kielen vaihto käynnistämällä sovellus uudelleen."
     },
     "common_points": {
-      "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
+      "comment": "SHORT abbreviation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
       "english": "Pts",
       "value": "P"
     },
     "common_points_lowercase_abbreviation": {
-      "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
+      "comment": "SHORT abbreviation for \"points\". Used after a number, so should use \"mid-sentence case\".",
       "english": "pts",
       "value": "pist."
     },
@@ -5534,6 +5539,11 @@
     "common_postponed_short": {
       "english": "PP",
       "value": "PP"
+    },
+    "common_prediction_points_lowercase": {
+      "comment": "Predictor: lowercase abbreviation after a number of prediction points (\"12 pts\"). Not league table points.",
+      "english": "pts",
+      "value": "pist."
     },
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -5710,7 +5720,7 @@
       "value": "Oikea laitapakki"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "RWB",
       "value": "RWB"
     },
@@ -5720,17 +5730,17 @@
       "value": "Oikea laitapakki"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RB",
       "value": "OLP"
     },
     "common_rightmidfielder": {
       "comment": "Player position - player plays on the right side of the midfield",
       "english": "Right Midfielder",
-      "value": "Oikea keskikenttä"
+      "value": "Oikea keskikenttäpelaaja"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RM",
       "value": "OKK"
     },
@@ -5740,7 +5750,7 @@
       "value": "Oikea laitahyökkääjä"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RW",
       "value": "OLH"
     },
@@ -6025,6 +6035,11 @@
       "english": "Buzz",
       "value": "Some"
     },
+    "common_sort_by_time_short": {
+      "comment": "Sort option label in the TV schedule filter: lay matches out as one flat list by kick-off time, instead of grouped by league. Same concept as sort_by_time.",
+      "english": "Time",
+      "value": "Aika"
+    },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
       "value": "Vedä kilpailut haluamaasi järjestykseen liveikkunassa tai valitse ne ja järjestele painikkeilla"
@@ -6042,6 +6057,11 @@
       "comment": "Used in the lineup builder for a squad name title placeholder",
       "english": "Squad name",
       "value": "Joukkueen nimi"
+    },
+    "common_squad_value": {
+      "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
+      "english": "Squad value",
+      "value": "Joukkueen arvo"
     },
     "common_staff_picks": {
       "english": "Staff picks",
@@ -6113,7 +6133,7 @@
       "value": "Kärkipelaaja"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbrevation of the Striker translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "ST",
       "value": "KäP"
     },
@@ -6776,7 +6796,7 @@
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
-      "value": "Onnistuneita kuljetuksia ottelua kohti"
+      "value": "Onnistuneita harhautuksia ottelua kohti"
     },
     "common_won_long": {
       "english": "Won",
@@ -6988,9 +7008,34 @@
       "english": "Tweet the link of FotMob",
       "value": "Twiittaa FotMobin linkki"
     },
+    "ios_benched": {
+      "comment": "VoiceOver-only value read directly after the [minutes_played] label when a player played zero minutes, e.g. \"Minutes played: Benched\". Keep it short, but make the \"did not play\" state explicit where the bare noun would just mean \"substitute\".",
+      "english": "Benched",
+      "value": "Vaihtopenkillä"
+    },
+    "ios_bracket_first_half": {
+      "comment": "VoiceOver-only heading read before the matches on the first path of a knockout bracket, the one leading to the top or left semi-final. Do not translate as the first half of a match. Use \"half\" or \"side\" of the draw as is natural in your language.",
+      "english": "First half of the bracket",
+      "value": "Kaavion ensimmäinen puolisko"
+    },
+    "ios_bracket_second_half": {
+      "comment": "VoiceOver-only heading read before the matches on the second path of a knockout bracket, the one leading to the bottom or right semi-final. Do not translate as the second half of a match. Use \"half\" or \"side\" of the draw as is natural in your language, and use exactly the same noun and the same first/second (or top/bottom) scheme as bracket_first_half, since the two headings are read one after the other on the same screen.",
+      "english": "Second half of the bracket",
+      "value": "Kaavion toinen puolisko"
+    },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
       "value": "Maksullinen versio on ostettava ensin"
+    },
+    "ios_career_started_still_playing": {
+      "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
+      "english": "Started %@, currently plays for this team",
+      "value": "Aloitti: %@, pelaa tällä hetkellä tässä joukkueessa"
+    },
+    "ios_career_started_until": {
+      "comment": "VoiceOver-only, on player career rows in the club view. Placeholders are month and year, like \"August 2020\".",
+      "english": "Started %1$@, until %2$@",
+      "value": "%1$@–%2$@"
     },
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
@@ -7000,6 +7045,26 @@
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
       "value": "Suosikkiliigojesi seuraaminen on helpompaa, kun merkitset ne tähdellä. Vaihda nykyistä liigaa klikkaamalla liigan nimeä"
+    },
+    "ios_coaching_stats": {
+      "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
+      "english": "Coaching stats",
+      "value": "Valmennustilastot"
+    },
+    "ios_contract_elapsed_percentage": {
+      "comment": "VoiceOver-only label for how much of the player's contract term has elapsed, read as part of the progress bar in player profile.",
+      "english": "Contract elapsed percentage",
+      "value": "Sopimuksen kulunut osuus"
+    },
+    "ios_current_status": {
+      "comment": "VoiceOver-only, on player overview status card, header for \"current injury\" or \"currently on international duty\"",
+      "english": "Current status",
+      "value": "Nykyinen tila"
+    },
+    "ios_date_of_birth": {
+      "comment": "VoiceOver-only label for when a person was born.",
+      "english": "Date of birth",
+      "value": "Syntymäaika"
     },
     "ios_draws": {
       "english": "Draws",
@@ -7014,10 +7079,20 @@
       "english": "Extra Time",
       "value": "Jatkoaika"
     },
+    "ios_first_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the first game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"first match\" or \"first leg\", and write the ordinal as a word, never as a digit like \"1st\" or \"1.\" since screen readers pronounce those as the number one.",
+      "english": "First leg",
+      "value": "Ensimmäinen osaottelu"
+    },
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
       "value": "Seuraa MM-kisoja lukitusnäytöltäsi"
+    },
+    "ios_general_information": {
+      "comment": "VoiceOver-only group label for the facts card on the player profile (height, age, country, shirt number).",
+      "english": "General information",
+      "value": "Yleistiedot"
     },
     "ios_go_to": {
       "comment": "App Shortcut action title. Imperative verb phrase meaning \"navigate to\"; the destination screen name is shown separately and is not part of this string.",
@@ -7043,6 +7118,11 @@
       "comment": "Header for a teams last played matches.",
       "english": "Last matches",
       "value": "Edelliset ottelut"
+    },
+    "ios_last_transfer_fee": {
+      "comment": "VoiceOver-only label for the player's last transfer fee in player profile",
+      "english": "Last transfer fee",
+      "value": "Viimeisin siirtokorvaus"
     },
     "ios_lineup_average_filter": {
       "comment": "A label for team average stats in Lineups, read aloud by VoiceOver. %@ is the localized stat name, e.g. \"Average [rating]\" / \"Average [age]\" where the bracketed text is the variable.",
@@ -7131,6 +7211,11 @@
       "english": "Points",
       "value": "Pisteet"
     },
+    "ios_prediction_points": {
+      "comment": "Predictor: points a user has earned from predictions. Not league table points.",
+      "english": "Points",
+      "value": "Pisteet"
+    },
     "ios_previous_shot": {
       "comment": "An accessibility label for the previous shot button in the shotmap",
       "english": "Previous shot",
@@ -7163,10 +7248,35 @@
       "english": "Screen",
       "value": "Näyttö"
     },
+    "ios_second_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the second game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"second match\" or \"second leg\", and write the ordinal as a word, never as a digit like \"2nd\" or \"2.\" since screen readers pronounce those as the number two.",
+      "english": "Second leg",
+      "value": "Toinen osaottelu"
+    },
     "ios_shirt_number": {
       "comment": "An accessibility label for a player's shirt number in the team squad view",
       "english": "Shirt number",
       "value": "Pelinumero"
+    },
+    "ios_team_to_be_decided": {
+      "comment": "VoiceOver-only. Spoken placeholder for a bracket team that is not yet known, used where the screen shows the abbreviation \"TBD\", e.g. \"To be decided against Arsenal\". Use a short natural phrase in your language meaning the team has not been determined yet, and never an abbreviation, since screen readers spell those out letter by letter.",
+      "english": "To be decided",
+      "value": "Ei vielä tiedossa"
+    },
+    "ios_third_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the third game of a knockout tie or best-of series, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"third match\" or \"third leg\", and write the ordinal as a word, never as a digit like \"3rd\" or \"3.\" since screen readers pronounce those as the number three.",
+      "english": "Third leg",
+      "value": "Kolmas osaottelu"
+    },
+    "ios_through_on_aggregate": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced from a two-legged tie on aggregate. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on aggregate",
+      "value": "%@ eteni jatkoon yhteismaalein"
+    },
+    "ios_through_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced after a penalty shootout. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on penalties",
+      "value": "%@ eteni rangaistuspotkukilpailun jälkeen"
     },
     "ios_times_won": {
       "comment": "An accessibility label for the team trophy card. The number of times the team has won the competition is read out after this label",
@@ -7194,6 +7304,11 @@
     "ios_wins": {
       "english": "Wins",
       "value": "Voitot"
+    },
+    "ios_won_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that won a penalty shootout where \"is through\" doesn't fit, e.g. a final. Placeholder is the team name. This should be in past tense.",
+      "english": "%@ won on penalties",
+      "value": "%@ voitti rangaistuspotkukilpailun"
     },
     "ltc accessibility_ltc_accessibility_add_reaction": {
       "comment": "VoiceOver label for the button that opens the reaction picker in live text commentary.",
@@ -7475,7 +7590,7 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "`Käytän tätä sovellusta seuratakseni otteluita ja tilastoja. Testaa sinäkin! `"
+      "value": "Käytän tätä sovellusta seuratakseni otteluita ja tilastoja. Testaa sinäkin!"
     },
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
@@ -7799,7 +7914,7 @@
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
-      "value": "`Lähetämme sinulle ilmoitukset vain suurimmista siirtouutisista. `"
+      "value": "Lähetämme sinulle ilmoitukset vain suurimmista siirtouutisista."
     },
     "new_transfers": {
       "english": "Transfers",
@@ -8319,7 +8434,7 @@
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
-      "value": "Rikkeet"
+      "value": "Kurinpito"
     },
     "notifications_dispossessed": {
       "comment": "Stat indication how many times a player lost the ball to an opponent (was Dispossessed)",
@@ -8346,7 +8461,7 @@
     },
     "notifications_dribbles_attempted": {
       "english": "Dribbles attempted",
-      "value": "`Harhautusyritykset `"
+      "value": "Harhautusyritykset"
     },
     "notifications_dribbles_succeeded": {
       "english": "Successful dribbles",
@@ -8561,7 +8676,7 @@
     "notifications_goals_leftFootedGoals": {
       "comment": "Goals scored with left foot",
       "english": "Goals via left foot",
-      "value": "`Maalit vasemmalla jalalla `"
+      "value": "Maalit vasemmalla jalalla"
     },
     "notifications_goals_otherBodyPartGoal": {
       "comment": "Goals not scored via header or feet, so we add a \"Other\" goals label to them.",
@@ -8628,7 +8743,7 @@
     "notifications_increase_volume_to_preview_sound": {
       "comment": "Shown when user has muted the media",
       "english": "Please increase the media volume to hear the preview of the sound.",
-      "value": "`Lisää median äänenvoimakkuutta, jotta voit esikuunnella äänen. `"
+      "value": "Lisää median äänenvoimakkuutta, jotta voit esikuunnella äänen."
     },
     "notifications_india": {
       "english": "India",
@@ -9911,7 +10026,7 @@
     },
     "notifications_time_setting_may_be_incorrect": {
       "english": "Both the time and time zone setting may be incorrect.",
-      "value": "`Aika- ja aikavyöhykeasetukset saattavat olla väärin. `"
+      "value": "Aika- ja aikavyöhykeasetukset saattavat olla väärin."
     },
     "notifications_time_settings": {
       "comment": "Button that open time and date settings on the device",
@@ -10001,6 +10116,16 @@
       "english": "Schedule",
       "value": "Aikataulu"
     },
+    "notifications_tv_schedules_all_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row. Announced when every TV channel for that country is selected.",
+      "english": "All channels selected",
+      "value": "Kaikki kanavat valittu"
+    },
+    "notifications_tv_schedules_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row, read after the expand/collapse action. Announces how many of a country's TV channels are selected. First placeholder is the number selected, second is the total available.",
+      "english": "Channels selected: %d out of %d",
+      "value": "Kanavia valittu: %1$d, yhteensä %2$d"
+    },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
       "english": "UK",
@@ -10076,7 +10201,7 @@
     "notifications_would_you_mind_giving_feedback": {
       "comment": "Used for rating dialog, button label so keep it short",
       "english": "Would you mind giving us some feedback?",
-      "value": "`Haluaisitko antaa meille palautetta? `"
+      "value": "Haluaisitko antaa meille palautetta?"
     },
     "notifications_x_of_y": {
       "comment": "Used to express showing \"1 of 30\" elements",
@@ -10881,6 +11006,11 @@
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
       "english": "Remove ads and get exclusive benefits",
       "value": "Poista mainokset ja saa rajoitettuja etuja"
+    },
+    "seo_fotmob_plus_promo_pitch": {
+      "comment": "Short pitch for FotMob+ used in promo entry points.",
+      "english": "Go ad-free and more.",
+      "value": "Ei mainoksia ja paljon muuta."
     },
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
@@ -13467,6 +13597,11 @@
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when scoped to a single club — team-page context. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → team name (do not translate); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer for Manchester City in Premier League 2025/2026 season with 20 goals\".",
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@ on %2$@n paras maalintekijä %3$@%4$@-kaudella %5$@ maalilla"
+    },
+    "transfer center_failed_to_load_more_transfers": {
+      "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
+      "english": "Failed to load more transfers, <a>retry?</a>",
+      "value": "Lisää siirtoja ei voitu ladata, <a>yritetäänkö uudelleen?</a>"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",

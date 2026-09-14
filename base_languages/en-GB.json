@@ -1452,12 +1452,12 @@
       "value": "Pl"
     },
     "common_points": {
-      "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
+      "comment": "SHORT abbreviation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
       "english": "Pts",
       "value": "Pts"
     },
     "common_points_lowercase_abbreviation": {
-      "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
+      "comment": "SHORT abbreviation for \"points\". Used after a number, so should use \"mid-sentence case\".",
       "english": "pts",
       "value": "pts"
     },

@@ -131,7 +131,7 @@
       "value": "前锋"
     },
     "accessibility_attacking_threat": {
-      "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
+      "comment": "Header of the Momentum graph on the match Facts tab. Tracks how likely the team in possession is to score as the match ebbs and flows.",
       "english": "Momentum",
       "value": "比赛势头"
     },
@@ -2102,7 +2102,7 @@
     "accessibility_successful_dribbles": {
       "comment": "Number of successful dribbles for a player in a season",
       "english": "Successful dribbles",
-      "value": "成功带球"
+      "value": "盘带成功"
     },
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
@@ -2479,7 +2479,7 @@
     "accessibility_won_contest_per_90": {
       "comment": "Label used in stats for successful dribbles per 90",
       "english": "Successful dribbles per 90",
-      "value": "场均盘带成功"
+      "value": "每90分钟盘带成功"
     },
     "accessibility_won_tackle_per_90": {
       "comment": "Label used in stats for successful tackles per 90",
@@ -2760,6 +2760,11 @@
       "english": "App icons",
       "value": "应用图标"
     },
+    "common_apply": {
+      "comment": "Button that applies the selected filters or settings, e.g. in the TV schedule filter sheet. Paired with Cancel.",
+      "english": "Apply",
+      "value": "应用"
+    },
     "common_arenas": {
       "comment": "Header for a list of the venue/stadiums/arenas that the teams are playing on",
       "english": "Arenas",
@@ -3000,7 +3005,7 @@
       "value": "进攻性中场"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "AM",
       "value": "AM"
     },
@@ -3010,7 +3015,7 @@
       "value": "中后卫"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CB",
       "value": "CB"
     },
@@ -3020,7 +3025,7 @@
       "value": "防守性中场"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
       "english": "DM",
       "value": "DM"
     },
@@ -3030,7 +3035,7 @@
       "value": "中场"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CM",
       "value": "CM"
     },
@@ -4630,7 +4635,7 @@
       "value": "左翼后卫"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "LWB",
       "value": "LWB"
     },
@@ -4640,7 +4645,7 @@
       "value": "左后卫"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LB",
       "value": "LB"
     },
@@ -4650,7 +4655,7 @@
       "value": "左前卫"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LM",
       "value": "LM"
     },
@@ -4660,7 +4665,7 @@
       "value": "左边锋"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LW",
       "value": "LW"
     },
@@ -5461,12 +5466,12 @@
       "value": "请重启该应用以完成语言变更"
     },
     "common_points": {
-      "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
+      "comment": "SHORT abbreviation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
       "english": "Pts",
       "value": "分"
     },
     "common_points_lowercase_abbreviation": {
-      "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
+      "comment": "SHORT abbreviation for \"points\". Used after a number, so should use \"mid-sentence case\".",
       "english": "pts",
       "value": "分"
     },
@@ -5521,6 +5526,11 @@
     "common_postponed_short": {
       "english": "PP",
       "value": "推迟"
+    },
+    "common_prediction_points_lowercase": {
+      "comment": "Predictor: lowercase abbreviation after a number of prediction points (\"12 pts\"). Not league table points.",
+      "english": "pts",
+      "value": "分"
     },
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -5697,7 +5707,7 @@
       "value": "右翼后卫"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "RWB",
       "value": "RWB"
     },
@@ -5707,7 +5717,7 @@
       "value": "右后卫"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RB",
       "value": "RB"
     },
@@ -5717,7 +5727,7 @@
       "value": "右前卫"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RM",
       "value": "RM"
     },
@@ -5727,7 +5737,7 @@
       "value": "右边锋"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RW",
       "value": "RW"
     },
@@ -6012,6 +6022,11 @@
       "english": "Buzz",
       "value": "最新消息"
     },
+    "common_sort_by_time_short": {
+      "comment": "Sort option label in the TV schedule filter: lay matches out as one flat list by kick-off time, instead of grouped by league. Same concept as sort_by_time.",
+      "english": "Time",
+      "value": "开场时间"
+    },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
       "value": "拖动以更改“比赛”标签页中联赛的顺序。或者点按联赛，然后使用底部按钮进行移动。"
@@ -6029,6 +6044,11 @@
       "comment": "Used in the lineup builder for a squad name title placeholder",
       "english": "Squad name",
       "value": "队名"
+    },
+    "common_squad_value": {
+      "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
+      "english": "Squad value",
+      "value": "球队价值"
     },
     "common_staff_picks": {
       "english": "Staff picks",
@@ -6100,7 +6120,7 @@
       "value": "前锋"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbrevation of the Striker translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "ST",
       "value": "ST"
     },
@@ -6763,7 +6783,7 @@
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
-      "value": "每场比赛盘带成功"
+      "value": "场均盘带成功"
     },
     "common_won_long": {
       "english": "Won",
@@ -6974,9 +6994,34 @@
       "english": "Tweet the link of FotMob",
       "value": "发布FotMob链接推文"
     },
+    "ios_benched": {
+      "comment": "VoiceOver-only value read directly after the [minutes_played] label when a player played zero minutes, e.g. \"Minutes played: Benched\". Keep it short, but make the \"did not play\" state explicit where the bare noun would just mean \"substitute\".",
+      "english": "Benched",
+      "value": "替补未出场"
+    },
+    "ios_bracket_first_half": {
+      "comment": "VoiceOver-only heading read before the matches on the first path of a knockout bracket, the one leading to the top or left semi-final. Do not translate as the first half of a match. Use \"half\" or \"side\" of the draw as is natural in your language.",
+      "english": "First half of the bracket",
+      "value": "淘汰赛对阵表上半区"
+    },
+    "ios_bracket_second_half": {
+      "comment": "VoiceOver-only heading read before the matches on the second path of a knockout bracket, the one leading to the bottom or right semi-final. Do not translate as the second half of a match. Use \"half\" or \"side\" of the draw as is natural in your language, and use exactly the same noun and the same first/second (or top/bottom) scheme as bracket_first_half, since the two headings are read one after the other on the same screen.",
+      "english": "Second half of the bracket",
+      "value": "淘汰赛对阵表下半区"
+    },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
       "value": "请购买高级版本"
+    },
+    "ios_career_started_still_playing": {
+      "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
+      "english": "Started %@, currently plays for this team",
+      "value": "开始于 %@，目前效力于该队"
+    },
+    "ios_career_started_until": {
+      "comment": "VoiceOver-only, on player career rows in the club view. Placeholders are month and year, like \"August 2020\".",
+      "english": "Started %1$@, until %2$@",
+      "value": "开始于 %1$@，至 %2$@"
     },
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
@@ -6986,6 +7031,26 @@
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
       "value": "为您喜欢的联赛添加星标以便快速访问。点击联赛名称即可更改当前联赛"
+    },
+    "ios_coaching_stats": {
+      "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
+      "english": "Coaching stats",
+      "value": "执教数据"
+    },
+    "ios_contract_elapsed_percentage": {
+      "comment": "VoiceOver-only label for how much of the player's contract term has elapsed, read as part of the progress bar in player profile.",
+      "english": "Contract elapsed percentage",
+      "value": "合同已过时间百分比"
+    },
+    "ios_current_status": {
+      "comment": "VoiceOver-only, on player overview status card, header for \"current injury\" or \"currently on international duty\"",
+      "english": "Current status",
+      "value": "当前状态"
+    },
+    "ios_date_of_birth": {
+      "comment": "VoiceOver-only label for when a person was born.",
+      "english": "Date of birth",
+      "value": "出生日期"
     },
     "ios_draws": {
       "english": "Draws",
@@ -7000,10 +7065,20 @@
       "english": "Extra Time",
       "value": "加时赛"
     },
+    "ios_first_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the first game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"first match\" or \"first leg\", and write the ordinal as a word, never as a digit like \"1st\" or \"1.\" since screen readers pronounce those as the number one.",
+      "english": "First leg",
+      "value": "第一回合"
+    },
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
       "value": "在锁屏上关注世界杯"
+    },
+    "ios_general_information": {
+      "comment": "VoiceOver-only group label for the facts card on the player profile (height, age, country, shirt number).",
+      "english": "General information",
+      "value": "基本信息"
     },
     "ios_go_to": {
       "comment": "App Shortcut action title. Imperative verb phrase meaning \"navigate to\"; the destination screen name is shown separately and is not part of this string.",
@@ -7029,6 +7104,11 @@
       "comment": "Header for a teams last played matches.",
       "english": "Last matches",
       "value": "上一比赛"
+    },
+    "ios_last_transfer_fee": {
+      "comment": "VoiceOver-only label for the player's last transfer fee in player profile",
+      "english": "Last transfer fee",
+      "value": "最近一次转会费"
     },
     "ios_lineup_average_filter": {
       "comment": "A label for team average stats in Lineups, read aloud by VoiceOver. %@ is the localized stat name, e.g. \"Average [rating]\" / \"Average [age]\" where the bracketed text is the variable.",
@@ -7117,6 +7197,11 @@
       "english": "Points",
       "value": "积分"
     },
+    "ios_prediction_points": {
+      "comment": "Predictor: points a user has earned from predictions. Not league table points.",
+      "english": "Points",
+      "value": "积分"
+    },
     "ios_previous_shot": {
       "comment": "An accessibility label for the previous shot button in the shotmap",
       "english": "Previous shot",
@@ -7148,10 +7233,35 @@
       "english": "Screen",
       "value": "屏幕"
     },
+    "ios_second_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the second game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"second match\" or \"second leg\", and write the ordinal as a word, never as a digit like \"2nd\" or \"2.\" since screen readers pronounce those as the number two.",
+      "english": "Second leg",
+      "value": "第二回合"
+    },
     "ios_shirt_number": {
       "comment": "An accessibility label for a player's shirt number in the team squad view",
       "english": "Shirt number",
       "value": "球衣号码"
+    },
+    "ios_team_to_be_decided": {
+      "comment": "VoiceOver-only. Spoken placeholder for a bracket team that is not yet known, used where the screen shows the abbreviation \"TBD\", e.g. \"To be decided against Arsenal\". Use a short natural phrase in your language meaning the team has not been determined yet, and never an abbreviation, since screen readers spell those out letter by letter.",
+      "english": "To be decided",
+      "value": "尚未确定"
+    },
+    "ios_third_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the third game of a knockout tie or best-of series, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"third match\" or \"third leg\", and write the ordinal as a word, never as a digit like \"3rd\" or \"3.\" since screen readers pronounce those as the number three.",
+      "english": "Third leg",
+      "value": "第三回合"
+    },
+    "ios_through_on_aggregate": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced from a two-legged tie on aggregate. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on aggregate",
+      "value": "%@ 凭总比分晋级"
+    },
+    "ios_through_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced after a penalty shootout. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on penalties",
+      "value": "%@ 通过点球大战晋级"
     },
     "ios_times_won": {
       "comment": "An accessibility label for the team trophy card. The number of times the team has won the competition is read out after this label",
@@ -7179,6 +7289,11 @@
     "ios_wins": {
       "english": "Wins",
       "value": "获胜场次"
+    },
+    "ios_won_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that won a penalty shootout where \"is through\" doesn't fit, e.g. a final. Placeholder is the team name. This should be in past tense.",
+      "english": "%@ won on penalties",
+      "value": "%@ 在点球大战中获胜"
     },
     "ltc accessibility_ltc_accessibility_add_reaction": {
       "comment": "VoiceOver label for the button that opens the reaction picker in live text commentary.",
@@ -9985,6 +10100,16 @@
       "english": "Schedule",
       "value": "赛程"
     },
+    "notifications_tv_schedules_all_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row. Announced when every TV channel for that country is selected.",
+      "english": "All channels selected",
+      "value": "已选择所有电视频道"
+    },
+    "notifications_tv_schedules_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row, read after the expand/collapse action. Announces how many of a country's TV channels are selected. First placeholder is the number selected, second is the total available.",
+      "english": "Channels selected: %d out of %d",
+      "value": "电视频道：共 %2$d 个，已选 %1$d 个"
+    },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
       "english": "UK",
@@ -10864,6 +10989,11 @@
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
       "english": "Remove ads and get exclusive benefits",
       "value": "去除广告并享受专属福利"
+    },
+    "seo_fotmob_plus_promo_pitch": {
+      "comment": "Short pitch for FotMob+ used in promo entry points.",
+      "english": "Go ad-free and more.",
+      "value": "去广告，享更多特权。"
     },
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
@@ -13443,6 +13573,11 @@
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when scoped to a single club — team-page context. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → team name (do not translate); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer for Manchester City in Premier League 2025/2026 season with 20 goals\".",
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@以%5$@球成为%3$@%4$@赛季%2$@队内最佳射手"
+    },
+    "transfer center_failed_to_load_more_transfers": {
+      "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
+      "english": "Failed to load more transfers, <a>retry?</a>",
+      "value": "无法加载更多转会，<a>重试？</a>"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",

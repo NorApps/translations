@@ -24,7 +24,7 @@
     "accessibility_accurate_long_balls_team_subtitle": {
       "comment": "Label used in stats for successful long balls percentage (accurate/total)",
       "english": "Successful long balls",
-      "value": "成功したロングボール"
+      "value": "ロングボール成功率"
     },
     "accessibility_accurate_long_balls_team_title": {
       "comment": "Label used in stats for accurate long balls per match",
@@ -131,7 +131,7 @@
       "value": "フォワード"
     },
     "accessibility_attacking_threat": {
-      "comment": "Used as header for Momentum / Attacking Threat graph in match facts. As the match ebbs and flows, this statistic tracks how likely the team in possession is to score a goal.",
+      "comment": "Header of the Momentum graph on the match Facts tab. Tracks how likely the team in possession is to score as the match ebbs and flows.",
       "english": "Momentum",
       "value": "勢い"
     },
@@ -243,12 +243,12 @@
     "accessibility_crosses_succeeeded": {
       "comment": "Number of successful crosses for a player in a match",
       "english": "Successful crosses",
-      "value": "成功したクロス"
+      "value": "クロス成功数"
     },
     "accessibility_crosses_succeeeded_accuracy": {
       "comment": "Number of successful crosses for a player in a match measured in percent",
       "english": "Successful crosses %",
-      "value": "成功したクロス %"
+      "value": "クロス成功 %"
     },
     "accessibility_date": {
       "comment": "Text shown in table header for cells that show the date a match was played.",
@@ -517,7 +517,7 @@
     "accessibility_goals_conceded_per_90": {
       "comment": "Label used in stats for goals conceded per 90 for keepers.",
       "english": "Goals conceded per 90",
-      "value": "90分あたりの被ゴール数"
+      "value": "90分あたりの失点数"
     },
     "accessibility_goals_per_90_subtitle": {
       "comment": "Label used in stats for expected goals per 90 min",
@@ -662,7 +662,7 @@
     "accessibility_insights_goals_conceded_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [2nd] in goals conceded per match ([0.7] goals)",
       "english": "Ranked %1$@ in goals conceded per match (%2$@ goals)",
-      "value": "1試合平均被得点で%1$@位にランクイン（%2$@点）"
+      "value": "1試合平均失点で%1$@位にランクイン（%2$@失点）"
     },
     "accessibility_insights_goals_scored_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [1st] in goals scored per match ([2.1] goals)",
@@ -712,12 +712,12 @@
     "accessibility_insights_penalties_awarded": {
       "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
       "english": "Have been awarded the most penalties this season (%1$@)",
-      "value": "今季最多のペナルティ記録（%1$@）"
+      "value": "今季最多のPK獲得数（%1$@）"
     },
     "accessibility_insights_penalties_conceded": {
       "comment": "The team has the record for conceding penalties in a season. Example: \"Have conceded the most penalties this season (13)\"",
       "english": "Have conceded the most penalties this season (%1$@)",
-      "value": "今季最多の被ペナルティ記録（%1$@）"
+      "value": "今季最多のPK献上数（%1$@）"
     },
     "accessibility_insights_player_average_minutes_per_goal": {
       "comment": "A player averages some value (typically 60-120) minutes per goal. Example: \"[Mohammed Salah] averages [67] minutes per goal\"",
@@ -822,7 +822,7 @@
     "accessibility_international_clubs": {
       "comment": "Header listing a list of tournaments where clubs from different countries participate. Like Champions League.",
       "english": "International - clubs",
-      "value": "インターナショナル - クラブ"
+      "value": "国際 - クラブ"
     },
     "accessibility_interrupted": {
       "comment": "A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
@@ -880,7 +880,7 @@
     "accessibility_keepers": {
       "comment": "A header for the list of goalkeepers",
       "english": "Keepers",
-      "value": "キーパーズ"
+      "value": "ゴールキーパー"
     },
     "accessibility_last_starting_xi": {
       "comment": "Header indicating that we are showing the last starting 11 players on the pitch.",
@@ -1019,7 +1019,7 @@
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
       "english": "Accurate long balls %",
-      "value": "正確なロングボール数 %"
+      "value": "正確なロングボール %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
@@ -1066,7 +1066,7 @@
     "accessibility_midfielders": {
       "comment": "A header for the list of midfielders",
       "english": "Midfielders",
-      "value": "ミッドフィルダー"
+      "value": "ミッドフィールダー"
     },
     "accessibility_misc_2nd_of_group": {
       "comment": "Indicating the runner up of a group. Eg \"2nd Group C\"",
@@ -1500,12 +1500,12 @@
     "accessibility_penalty_goals_conceded": {
       "comment": "Label used in stats for penalty goals conceded",
       "english": "Penalty goals conceded",
-      "value": "被ペナルティ得点数"
+      "value": "PKによる失点数"
     },
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
       "english": "Penalty saves",
-      "value": "PKストップ"
+      "value": "PKセーブ数"
     },
     "accessibility_per_90": {
       "comment": "Used for Picker in Player Profile to switch between total and per90 stats.",
@@ -1605,7 +1605,7 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "90分あたりの攻撃サードでのポゼッション獲得数"
+      "value": "90分あたりのアタッキングサードでのボール奪取数"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
@@ -1961,7 +1961,7 @@
     "accessibility_stats_comparison_att_mid_wingers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other attacking midfielders/wingers.",
       "english": "Stats compared to other attacking midfielders/wingers",
-      "value": "他の攻撃的なミッドフィールダー/ウィンガーと比較したスタッツ"
+      "value": "他の攻撃的なミッドフィールダー/ウインガーと比較したスタッツ"
     },
     "accessibility_stats_comparison_center_backs": {
       "comment": "A description highlighting that a player's stat is benchmarked against other center-backs.",
@@ -2104,16 +2104,16 @@
     "accessibility_successful_dribbles": {
       "comment": "Number of successful dribbles for a player in a season",
       "english": "Successful dribbles",
-      "value": "成功したドリブル"
+      "value": "ドリブル成功数"
     },
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
       "english": "Successful passes",
-      "value": "成功したパス"
+      "value": "パス成功数"
     },
     "accessibility_successful_passes_accuracy": {
       "english": "Successful passes %",
-      "value": "成功したパス %"
+      "value": "パス成功 %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -2187,7 +2187,7 @@
     "accessibility_team_of_the_week": {
       "comment": "Header text for the Team of the week panel.",
       "english": "Team of the Week",
-      "value": "今週のチーム"
+      "value": "週間ベスト11"
     },
     "accessibility_team_score": {
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
@@ -2525,7 +2525,7 @@
     },
     "common_Attendance": {
       "english": "Attendance",
-      "value": "出場数"
+      "value": "観客数"
     },
     "common_BallPossesion": {
       "english": "Ball possession",
@@ -2562,7 +2562,7 @@
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
       "english": "Accurate crosses",
-      "value": "クロス成功率"
+      "value": "正確なクロス数"
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
@@ -2762,6 +2762,11 @@
       "english": "App icons",
       "value": "アプリアイコン"
     },
+    "common_apply": {
+      "comment": "Button that applies the selected filters or settings, e.g. in the TV schedule filter sheet. Paired with Cancel.",
+      "english": "Apply",
+      "value": "適用"
+    },
     "common_arenas": {
       "comment": "Header for a list of the venue/stadiums/arenas that the teams are playing on",
       "english": "Arenas",
@@ -2784,7 +2789,7 @@
     "common_attacker": {
       "comment": "MAX 2 chars!",
       "english": "F",
-      "value": "AT"
+      "value": "FW"
     },
     "common_attacker_long": {
       "english": "Attacker",
@@ -2994,15 +2999,15 @@
     "common_celsius": {
       "comment": "A setting to toggle the temperature unit to Celsius (°C) instead of Fahrenheit (°F)",
       "english": "Celsius (°C)",
-      "value": "摂氏 (°C)"
+      "value": "摂氏（°C）"
     },
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
       "english": "Attacking Midfielder",
-      "value": "攻撃的ミッドフィールダー"
+      "value": "攻撃的MF"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "AM",
       "value": "AM"
     },
@@ -3012,27 +3017,27 @@
       "value": "センターバック"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CB",
       "value": "CB"
     },
     "common_centerdefensivemidfielder": {
       "comment": "Player position - player plays as an defensive midfielder",
       "english": "Defensive Midfielder",
-      "value": "守備的ミッドフィールダー"
+      "value": "守備的MF"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Defensive Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
       "english": "DM",
       "value": "DM"
     },
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
       "english": "Central Midfielder",
-      "value": "セントラルミッドフィールダー"
+      "value": "中央MF"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Center Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "CM",
       "value": "CM"
     },
@@ -3188,7 +3193,7 @@
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
       "english": "Conceded penalty",
-      "value": "被ペナルティ数"
+      "value": "PK献上数"
     },
     "common_contact": {
       "comment": "Menu option for contacting us",
@@ -3681,7 +3686,7 @@
     "common_fahrenheit": {
       "comment": "A setting to toggle the temperature unit to Fahrenheit (°F) instead of Celsius (°C)",
       "english": "Fahrenheit (°F)",
-      "value": "華氏 (°F)"
+      "value": "華氏（°F）"
     },
     "common_failure_re_sign_in": {
       "comment": "On failure in sync, we ask user to re-sign-in again - this is a button's label",
@@ -3806,7 +3811,7 @@
     "common_follow_us": {
       "comment": "Label for button indicating you can follow us on social media like Facebook, Twitter and Instagram",
       "english": "Follow us",
-      "value": "フォローしてください"
+      "value": "FotMobをフォロー"
     },
     "common_for_you": {
       "comment": "Section in News with either your favorites' news or the news we've picked for the user ourselves",
@@ -4176,17 +4181,17 @@
     "common_goals_conceded": {
       "comment": "Number of goals a keeper has conceded in a match.",
       "english": "Goals conceded",
-      "value": "被ゴール数"
+      "value": "失点数"
     },
     "common_goals_conceded_team_match_subtitle": {
       "comment": "Total number of goals a player/team has conceded",
       "english": "Total goals conceded",
-      "value": "合計被得点"
+      "value": "合計失点数"
     },
     "common_goals_conceded_team_match_title": {
       "comment": "Number of goals a team concedes in average per match",
       "english": "Goals conceded per match",
-      "value": "平均被得点数"
+      "value": "平均失点数"
     },
     "common_goals_from_bench": {
       "comment": "It is goals a player has scored when he began the match as a substitute",
@@ -4628,30 +4633,30 @@
     "common_left_wing_back": {
       "comment": "Player position - player plays as a left wing back.",
       "english": "Left Wing Back",
-      "value": "左ウィングバック"
+      "value": "左ウイングバック"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "LWB",
       "value": "LWB"
     },
     "common_leftback": {
       "comment": "Player position - player plays on the left side of the pitch in the defensive half",
       "english": "Left-back",
-      "value": "レフトバック"
+      "value": "左サイドバック"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LB",
       "value": "LB"
     },
     "common_leftmidfielder": {
       "comment": "Player position - player plays on the left side of the midfield",
       "english": "Left Midfielder",
-      "value": "レフトミッドフィルダー"
+      "value": "左MF"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LM",
       "value": "LM"
     },
@@ -4661,7 +4666,7 @@
       "value": "左ウインガー"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Left Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LW",
       "value": "LW"
     },
@@ -5317,7 +5322,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "被ペナルティ数"
+      "value": "PK対応数"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -5342,12 +5347,12 @@
     "common_penalty_conceded_team_title": {
       "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "ペナルティを与えた回数"
+      "value": "PK献上数"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
       "english": "Penalties conceded",
-      "value": "ペナルティを与えた回数"
+      "value": "PK献上数"
     },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
@@ -5359,12 +5364,12 @@
     },
     "common_penalty_won_team_title": {
       "english": "Penalties awarded",
-      "value": "ペナルティが与えられた回数"
+      "value": "PK獲得数"
     },
     "common_penalty_won_title": {
       "comment": "Team/Player has received a penalty because of a foul",
       "english": "Penalties awarded",
-      "value": "与えられたPK"
+      "value": "PK獲得数"
     },
     "common_percent": {
       "comment": "Accessibility label for percentage",
@@ -5396,7 +5401,7 @@
     },
     "common_played": {
       "english": "Pl",
-      "value": "終"
+      "value": "試合"
     },
     "common_player": {
       "comment": "Phrase \"Select player\", this is the second part of it",
@@ -5462,12 +5467,12 @@
       "value": "言語を変更するには、アプリを再起動してください"
     },
     "common_points": {
-      "comment": "SHORT abbrevation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
+      "comment": "SHORT abbreviation for \"points\". Used in e.g. top of table column, so should use \"start case\".",
       "english": "Pts",
       "value": "点"
     },
     "common_points_lowercase_abbreviation": {
-      "comment": "SHORT abbrevation for \"points\". Used after a number, so should use \"mid-sentence case\".",
+      "comment": "SHORT abbreviation for \"points\". Used after a number, so should use \"mid-sentence case\".",
       "english": "pts",
       "value": "点"
     },
@@ -5491,12 +5496,12 @@
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "ファイナルサードでのボール奪取"
+      "value": "アタッキングサードでのボール奪取"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "ラスト3分の1でボールを支配"
+      "value": "試合ごとのアタッキングサードでのボール奪取数"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5522,6 +5527,11 @@
     "common_postponed_short": {
       "english": "PP",
       "value": "延期"
+    },
+    "common_prediction_points_lowercase": {
+      "comment": "Predictor: lowercase abbreviation after a number of prediction points (\"12 pts\"). Not league table points.",
+      "english": "pts",
+      "value": "点"
     },
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
@@ -5629,12 +5639,12 @@
     "common_recoveries": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries",
       "english": "Recoveries",
-      "value": "ボールリカバリ数"
+      "value": "ボールリカバリー数"
     },
     "common_recoveries_per_90": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries. See recoveries. Also make sure to reference the other per 90 stats like chances_created_per_90 to we write them the same way.",
       "english": "Recoveries per 90",
-      "value": "90分あたりのボールリカバリー"
+      "value": "90分あたりのボールリカバリー数"
     },
     "common_red_cards": {
       "english": "Red cards",
@@ -5695,46 +5705,46 @@
     "common_right_wing_back": {
       "comment": "Player position - player plays as a right wing back.",
       "english": "Right Wing Back",
-      "value": "右ウィングバック"
+      "value": "右ウイングバック"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Wing Back translation. If possible, use the same 3-letter abbrevation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
       "english": "RWB",
       "value": "RWB"
     },
     "common_rightback": {
       "comment": "Player position - player plays on the right of the pitch in the defensive half",
       "english": "Right-back",
-      "value": "ライトバック"
+      "value": "右サイドバック"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Back translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RB",
       "value": "RB"
     },
     "common_rightmidfielder": {
       "comment": "Player position - player plays on the right side of the midfield",
       "english": "Right Midfielder",
-      "value": "ライトミッドフィルダー"
+      "value": "右MF"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Midfielder translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RM",
       "value": "RM"
     },
     "common_rightwinger": {
       "comment": "Player position - player plays as a right wing",
       "english": "Right Winger",
-      "value": "右ウィンガー"
+      "value": "右ウインガー"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbrevation of the Right Winger translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "RW",
       "value": "RW"
     },
     "common_round_fmt": {
       "english": "Round %@",
-      "value": "%@回戦"
+      "value": "ラウンド%@"
     },
     "common_roundof32": {
       "comment": "Label indicating it is the round of 32. 32 teams are left in the tournament. Round of 32 is the same as 16th-finals",
@@ -6013,6 +6023,11 @@
       "english": "Buzz",
       "value": "ツイート"
     },
+    "common_sort_by_time_short": {
+      "comment": "Sort option label in the TV schedule filter: lay matches out as one flat list by kick-off time, instead of grouped by league. Same concept as sort_by_time.",
+      "english": "Time",
+      "value": "時間"
+    },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
       "value": "「試合」タブでリーグの順番を変えるには、ドラッグして並べ替えてください。 または、リーグをタップして選択し、下部のボタンで移動します。"
@@ -6030,6 +6045,11 @@
       "comment": "Used in the lineup builder for a squad name title placeholder",
       "english": "Squad name",
       "value": "チーム名"
+    },
+    "common_squad_value": {
+      "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
+      "english": "Squad value",
+      "value": "スカッド価値"
     },
     "common_staff_picks": {
       "english": "Staff picks",
@@ -6101,7 +6121,7 @@
       "value": "ストライカー"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbrevation of the Striker translation. If possible, use the same 2-letter abbrevation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "ST",
       "value": "ST"
     },
@@ -6975,9 +6995,34 @@
       "english": "Tweet the link of FotMob",
       "value": "FotMobのリンクをツイートする"
     },
+    "ios_benched": {
+      "comment": "VoiceOver-only value read directly after the [minutes_played] label when a player played zero minutes, e.g. \"Minutes played: Benched\". Keep it short, but make the \"did not play\" state explicit where the bare noun would just mean \"substitute\".",
+      "english": "Benched",
+      "value": "出場なし"
+    },
+    "ios_bracket_first_half": {
+      "comment": "VoiceOver-only heading read before the matches on the first path of a knockout bracket, the one leading to the top or left semi-final. Do not translate as the first half of a match. Use \"half\" or \"side\" of the draw as is natural in your language.",
+      "english": "First half of the bracket",
+      "value": "トーナメント表の上側"
+    },
+    "ios_bracket_second_half": {
+      "comment": "VoiceOver-only heading read before the matches on the second path of a knockout bracket, the one leading to the bottom or right semi-final. Do not translate as the second half of a match. Use \"half\" or \"side\" of the draw as is natural in your language, and use exactly the same noun and the same first/second (or top/bottom) scheme as bracket_first_half, since the two headings are read one after the other on the same screen.",
+      "english": "Second half of the bracket",
+      "value": "トーナメント表の下側"
+    },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
       "value": "最初にプレミアムバージョンを購入する必要があります"
+    },
+    "ios_career_started_still_playing": {
+      "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
+      "english": "Started %@, currently plays for this team",
+      "value": "%@に加入、現在このチームでプレー中"
+    },
+    "ios_career_started_until": {
+      "comment": "VoiceOver-only, on player career rows in the club view. Placeholders are month and year, like \"August 2020\".",
+      "english": "Started %1$@, until %2$@",
+      "value": "%1$@から%2$@まで"
     },
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
@@ -6987,6 +7032,26 @@
     "ios_choose_league_desc": {
       "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
       "value": "お気に入りリーグにスターを追加すると、簡単にアクセスできます。リーグを変更するには、リーグ名をクリックします"
+    },
+    "ios_coaching_stats": {
+      "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
+      "english": "Coaching stats",
+      "value": "監督成績"
+    },
+    "ios_contract_elapsed_percentage": {
+      "comment": "VoiceOver-only label for how much of the player's contract term has elapsed, read as part of the progress bar in player profile.",
+      "english": "Contract elapsed percentage",
+      "value": "契約経過率"
+    },
+    "ios_current_status": {
+      "comment": "VoiceOver-only, on player overview status card, header for \"current injury\" or \"currently on international duty\"",
+      "english": "Current status",
+      "value": "現在のステータス"
+    },
+    "ios_date_of_birth": {
+      "comment": "VoiceOver-only label for when a person was born.",
+      "english": "Date of birth",
+      "value": "生年月日"
     },
     "ios_draws": {
       "english": "Draws",
@@ -7001,10 +7066,20 @@
       "english": "Extra Time",
       "value": "延長戦"
     },
+    "ios_first_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the first game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"first match\" or \"first leg\", and write the ordinal as a word, never as a digit like \"1st\" or \"1.\" since screen readers pronounce those as the number one.",
+      "english": "First leg",
+      "value": "第一戦"
+    },
     "ios_follow_world_cup_from_lock_screen": {
       "comment": "Live activities onboarding header. Use world_cup translation for World Cup.",
       "english": "Follow the World Cup from your lock screen",
       "value": "ロック画面でワールドカップをフォロー"
+    },
+    "ios_general_information": {
+      "comment": "VoiceOver-only group label for the facts card on the player profile (height, age, country, shirt number).",
+      "english": "General information",
+      "value": "基本情報"
     },
     "ios_go_to": {
       "comment": "App Shortcut action title. Imperative verb phrase meaning \"navigate to\"; the destination screen name is shown separately and is not part of this string.",
@@ -7030,6 +7105,11 @@
       "comment": "Header for a teams last played matches.",
       "english": "Last matches",
       "value": "最近の試合"
+    },
+    "ios_last_transfer_fee": {
+      "comment": "VoiceOver-only label for the player's last transfer fee in player profile",
+      "english": "Last transfer fee",
+      "value": "直近の移籍金額"
     },
     "ios_lineup_average_filter": {
       "comment": "A label for team average stats in Lineups, read aloud by VoiceOver. %@ is the localized stat name, e.g. \"Average [rating]\" / \"Average [age]\" where the bracketed text is the variable.",
@@ -7116,7 +7196,12 @@
     },
     "ios_points_long": {
       "english": "Points",
-      "value": "得点"
+      "value": "勝ち点"
+    },
+    "ios_prediction_points": {
+      "comment": "Predictor: points a user has earned from predictions. Not league table points.",
+      "english": "Points",
+      "value": "ポイント"
     },
     "ios_previous_shot": {
       "comment": "An accessibility label for the previous shot button in the shotmap",
@@ -7149,10 +7234,35 @@
       "english": "Screen",
       "value": "画面"
     },
+    "ios_second_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the second game of a multi-leg knockout tie, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"second match\" or \"second leg\", and write the ordinal as a word, never as a digit like \"2nd\" or \"2.\" since screen readers pronounce those as the number two.",
+      "english": "Second leg",
+      "value": "第二戦"
+    },
     "ios_shirt_number": {
       "comment": "An accessibility label for a player's shirt number in the team squad view",
       "english": "Shirt number",
       "value": "背番号"
+    },
+    "ios_team_to_be_decided": {
+      "comment": "VoiceOver-only. Spoken placeholder for a bracket team that is not yet known, used where the screen shows the abbreviation \"TBD\", e.g. \"To be decided against Arsenal\". Use a short natural phrase in your language meaning the team has not been determined yet, and never an abbreviation, since screen readers spell those out letter by letter.",
+      "english": "To be decided",
+      "value": "未定"
+    },
+    "ios_third_leg_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the third game of a knockout tie or best-of series, read before the teams and score in the bracket. Use the natural spoken phrase in your language, e.g. \"third match\" or \"third leg\", and write the ordinal as a word, never as a digit like \"3rd\" or \"3.\" since screen readers pronounce those as the number three.",
+      "english": "Third leg",
+      "value": "第三戦"
+    },
+    "ios_through_on_aggregate": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced from a two-legged tie on aggregate. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on aggregate",
+      "value": "%@が2戦合計で勝ち上がった"
+    },
+    "ios_through_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that advanced after a penalty shootout. Placeholder is the team name. Past tense is fine even though the English uses \"is through\".",
+      "english": "%@ is through on penalties",
+      "value": "%@がPK戦で勝ち上がった"
     },
     "ios_times_won": {
       "comment": "An accessibility label for the team trophy card. The number of times the team has won the competition is read out after this label",
@@ -7180,6 +7290,11 @@
     "ios_wins": {
       "english": "Wins",
       "value": "勝利数"
+    },
+    "ios_won_on_penalties": {
+      "comment": "VoiceOver-only, on finished match rows. The team that won a penalty shootout where \"is through\" doesn't fit, e.g. a final. Placeholder is the team name. This should be in past tense.",
+      "english": "%@ won on penalties",
+      "value": "%@がPK戦で勝利した"
     },
     "ltc accessibility_ltc_accessibility_add_reaction": {
       "comment": "VoiceOver label for the button that opens the reaction picker in live text commentary.",
@@ -7381,7 +7496,7 @@
     "new_dismiss": {
       "comment": "User is prompted for an action in a dialog and this is the cancel button",
       "english": "Dismiss",
-      "value": "終了"
+      "value": "キャンセル"
     },
     "new_e_mail": {
       "english": "Email address",
@@ -7846,7 +7961,7 @@
     },
     "notifications_accurate_passes": {
       "english": "Accurate passes",
-      "value": "正確なパス"
+      "value": "正確なパス数"
     },
     "notifications_ad": {
       "comment": "Used for marking of ad content",
@@ -8219,7 +8334,7 @@
     "notifications_change_notifications_desc": {
       "comment": "Heading for notification/alert settings",
       "english": "Manage all your active news, team, player and league notifications",
-      "value": "すべてのニュース、チーム、選手、リーグの通知を管理します"
+      "value": "ニュース、チーム、選手、リーグの有効な通知をすべて管理します"
     },
     "notifications_china": {
       "comment": "Country name used in tv guide page on web",
@@ -8335,7 +8450,7 @@
     },
     "notifications_dribbles_succeeded": {
       "english": "Successful dribbles",
-      "value": "ドリブル成功"
+      "value": "ドリブル成功数"
     },
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
@@ -9091,7 +9206,7 @@
     "notifications_last_won": {
       "comment": "When a league was last won",
       "english": "Last won %@",
-      "value": "最終勝利 %@"
+      "value": "前回優勝 %@"
     },
     "notifications_latvia": {
       "english": "Latvia",
@@ -9406,7 +9521,7 @@
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
-      "value": "獲得したPK"
+      "value": "PK獲得数"
     },
     "notifications_philippines": {
       "comment": "Country name used in tv guide page on web",
@@ -9970,7 +10085,7 @@
     "notifications_trophies_player": {
       "comment": "Card title for trophies (titles) a person has won when he/she as a player.",
       "english": "Trophies (player)",
-      "value": "トロフィー(選手）"
+      "value": "トロフィー（選手）"
     },
     "notifications_turkey": {
       "english": "Türkiye",
@@ -9985,6 +10100,16 @@
       "comment": "This is the title for the TV Schedule tab. We already have an icon displaying TV, so we want a shortened word for this. For example in England it would make sense to just write Schedule as we already display the TV",
       "english": "Schedule",
       "value": "スケジュール"
+    },
+    "notifications_tv_schedules_all_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row. Announced when every TV channel for that country is selected.",
+      "english": "All channels selected",
+      "value": "すべてのチャンネルを選択済み"
+    },
+    "notifications_tv_schedules_channels_selected": {
+      "comment": "VoiceOver-only accessibility text on the TV schedules country filter row, read after the expand/collapse action. Announces how many of a country's TV channels are selected. First placeholder is the number selected, second is the total available.",
+      "english": "Channels selected: %d out of %d",
+      "value": "選択済みのチャンネル：%2$d件中%1$d件"
     },
     "notifications_uk": {
       "comment": "Used in TV schedules filter",
@@ -10158,7 +10283,7 @@
     "seo_TOTW": {
       "comment": "Team of the Week.",
       "english": "TOTW",
-      "value": "週間最優秀チーム"
+      "value": "週間ベスト11"
     },
     "seo_a_short_description_of_the_issue": {
       "comment": "Used as placeholder in the troubleshooting mail.",
@@ -10867,6 +10992,11 @@
       "english": "Remove ads and get exclusive benefits",
       "value": "広告を削除して、限定特典をゲットしよう"
     },
+    "seo_fotmob_plus_promo_pitch": {
+      "comment": "Short pitch for FotMob+ used in promo entry points.",
+      "english": "Go ad-free and more.",
+      "value": "広告なし、さらに特典も。"
+    },
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
       "english": "FotMob weekly top picks",
@@ -10910,7 +11040,7 @@
     "seo_goals_conceded_while_on_pitch": {
       "comment": "Label for statistic showing how many goals a player has conceded while being on the pitch. See goals_conceded",
       "english": "Goals conceded while on pitch",
-      "value": "ピッチ上での被ゴール数"
+      "value": "ピッチ上での失点数"
     },
     "seo_gold": {
       "comment": "Title for \"gold medal\". User gets \"Gold\" when they predict correct outcome and score.",
@@ -11777,7 +11907,7 @@
     "seo_position_winger": {
       "comment": "A label for a player that plays on the Wing like Saka on the Right wing.",
       "english": "Winger",
-      "value": "ウィンガー"
+      "value": "ウインガー"
     },
     "seo_pre_fill_lineup": {
       "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder.",
@@ -13390,7 +13520,7 @@
     "stat answer box_stat_answer_position_winger": {
       "comment": "Plural form of \"winger\", see \"position_winger\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Successful dribbles per 90 among wingers ...\".",
       "english": "wingers",
-      "value": "ウィンガー"
+      "value": "ウインガー"
     },
     "stat answer box_stat_answer_sentence_generic_player": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web, used for every player leaderboard EXCEPT goals (which has its own bespoke \"top scorer\" phrasing). Placeholders: %1$@ → player name; %2$@ → league name; %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Assists\", \"Yellow cards\", \"xG per 90\"); %5$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists with 7.\" IMPORTANT: %2$@ is the league name — a COMPETITION, NOT an opponent being beaten. \"Leads %2$@ in %4$@\" means \"is the leader in the %4$@ ranking within %2$@\". Do NOT translate as \"beats/is ahead of/outperforms %2$@\" — the player is not competing against %2$@; %2$@ is the tournament the ranking is measured in.",
@@ -13446,6 +13576,11 @@
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when scoped to a single club — team-page context. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → team name (do not translate); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer for Manchester City in Premier League 2025/2026 season with 20 goals\".",
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@は%3$@%4$@シーズンに%2$@で%5$@ゴールを記録し、チーム最多得点者となっている"
+    },
+    "transfer center_failed_to_load_more_transfers": {
+      "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
+      "english": "Failed to load more transfers, <a>retry?</a>",
+      "value": "追加の移籍情報を読み込めませんでした。<a>再試行しますか？</a>"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
