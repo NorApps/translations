@@ -1,0 +1,24 @@
+name: Validate translations
+
+on:
+  pull_request:
+    paths:
+      - 'base_languages/**.json'
+
+jobs:
+  validate:
+    name: Check changed translations
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate
+        run: |
+          python3 .github/scripts/validate_translations.py \
+            --base-sha "${{ github.event.pull_request.base.sha }}"

@@ -79,6 +79,10 @@ base_languages/
 - Don't translate brand names (FotMob, Twitter, etc.)
 - Don't translate placeholder markers (`%s`, `%d`, etc.)
 - Don't change the JSON structure
+- Don't edit the `"english"` or `"comment"` fields — only `"value"` and `"plurals"`
+
+Every pull request is checked automatically. If something is wrong you'll see it
+on the "Files changed" tab within a minute, with the key and what to fix.
 
 ## 🌐 Supported Languages
 
