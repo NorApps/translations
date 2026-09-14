@@ -2683,7 +2683,7 @@
     "common_alert_goal_disallowed_out_of_field_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due the ball had been out of the pitch before the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - ball out of field (VAR)",
-      "value": "%@ %@-%@ %@\\n%@گل مردود - توپ خارج زمین (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل مردود - توپ خارج از زمین (VAR)"
     },
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
@@ -5699,7 +5699,7 @@
     },
     "common_resync_desc": {
       "english": "If you have previously bought gold or silver, click here",
-      "value": "اگر شما قبلا نسخه طلایی یا نقره ای را خریده اید اینجا را کلیک کنید."
+      "value": "اگر شما قبلا نسخه طلایی یا نقره‌ای را خریده اید اینجا را کلیک کنید."
     },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -8526,7 +8526,7 @@
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
       "english": "Unable toggle favorite. Please try again later.",
-      "value": "امکان جابجایی علاقه‌مندی‌ها وجود ندارد. لطفا بعدا دوباره امتحان کنید."
+      "value": "امکان جابه‌جایی علاقه‌مندی‌ها وجود ندارد. لطفا بعدا دوباره امتحان کنید."
     },
     "notifications_estonia": {
       "english": "Estonia",
