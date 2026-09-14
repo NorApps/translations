@@ -125,9 +125,10 @@ def check_value(lang, path, text, key, form, old, new, english, add, trusted=Fal
         # Matching English is the goal, so a value that already matches is never
         # a finding however much it changed. Breaking a match is; drifting from
         # one wrong set to another is only worth a warning.
+        # Not downgraded for a trusted run: an export that breaks a placeholder
+        # is a broken app, whoever pushed it. Only the pre-existing mismatches
+        # the corpus already carries stay warnings.
         level = "error" if (old_ph is not None and old_ph == en_ph) else "warning"
-        if trusted:
-            level = "warning"
         add(
             level,
             "placeholder-changed" if level == "error" else "placeholder-mismatch",
