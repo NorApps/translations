@@ -3289,7 +3289,7 @@
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>هەموو داتاکان لەسەر بنەمای ئەو ئامارانە هەژمار دەکرێن کە لەلایەن Opta وە دابین کراون.</p><p>هەڵسەنگاندنی یاریزانی FotMob بە پشتبەستن بە زیاتر لە 100 ئاماری تاکەکەسی بۆ هەر یاریزانێک لە هەر یاریەکدا هەژمار دەکرێت. </p><p>هەر یاریەک لە سیستەمی هەڵسەنگاندنەکان کە یاریزانەکە تێیدا بەشدار بووبێت هەژمار دەکرێت، تەنانەت ئەگەر وەک یەدەگیش لە چەند خولەکی کۆتایدا هاتبێتە ناو یاریگا.</p><p>پێویستە یاریزانەکە لانی کەم بەشداریی لە %50 ی سەرجەم یاریەکاندا کردبێت و هەروەها لانیکەم 90 خولەک (بۆ ئامارەکانی هەر 90 خولەکێک) یاریی کردبێت.</p>"
+      "value": "<p>هەموو داتاکان لەسەر بنەمای ئەو ئامارانە هەژمار دەکرێن کە لەلایەن Opta وە دابین کراون.</p><p>هەڵسەنگاندنی یاریزانی FotMob بە پشتبەستن بە زیاتر لە 100 ئاماری تاکەکەسی بۆ هەر یاریزانێک لە هەر یارییەکدا هەژمار دەکرێت.</p><p>هەر یاریەک لە سیستەمی هەڵسەنگاندنەکان کە یاریزانەکە تێیدا بەشدار بووبێت هەژمار دەکرێت، تەنانەت ئەگەر وەک یەدەگیش لە چەند خولەکی کۆتایدا هاتبێتە ناو یاریگا.</p><p>پێویستە یاریزانەکە لانی کەم بەشداریی لە 50%% ی سەرجەم یاریەکاندا کردبێت و هەروەها لانیکەم 90 خولەک (بۆ ئامارەکانی هەر 90 خولەکێک) یاریی کردبێت.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -7749,12 +7749,12 @@
     "new_predictor_signin_error_server_message": {
       "comment": "Shown when FotMob Predict's backend is temporarily failing. %1$s is a diagnostic support snapshot (do not translate).",
       "english": "FotMob Predict is having trouble right now. Please try again in a few minutes.\\n\\n%1$s",
-      "value": "پێشبینیکردنی FotMob ڕووبەڕووی کێشە بوەتەوە. تکایە دوای چەند خولەکێکی تر هەوڵبدەرەوە.\\n\\n%1$s"
+      "value": "FotMob Predict ڕووبەڕووی کێشە بوەتەوە. تکایە دوای چەند خولەکێکی تر هەوڵبدەرەوە.\\n\\n%1$s"
     },
     "new_predictor_signin_error_stale_session_message": {
       "comment": "Shown when the user's FotMob Predict session has expired but the sign-in provider is unknown. %1$s is a diagnostic support snapshot (do not translate).",
       "english": "You need to sign in to keep playing FotMob Predict.\\n\\n%1$s",
-      "value": "پێویستە بچیتە ژوورەوە بۆ ئەوەی بەردەوام بیت لە پێشبینیکردنی FotMob.\\n\\n%1$s"
+      "value": "پێویستە بچیتە ژوورەوە بۆ ئەوەی بەردەوام بیت لە FotMob Predict.\\n\\n%1$s"
     },
     "new_predictor_signin_error_stale_session_with_provider_message": {
       "comment": "Shown when the user's FotMob Predict sign-in has expired. %1$s is the provider name (e.g. Google, Facebook, Apple) and appears twice; %2$s is a diagnostic support snapshot (do not translate).",
@@ -7764,7 +7764,7 @@
     "new_predictor_signin_error_title": {
       "comment": "Title of the dialog shown when signing in to FotMob Predict fails.",
       "english": "Couldn't sign in to FotMob Predict",
-      "value": "​چوونەژوورەوە بۆ پێشبینیکردنی FotMob سەرکەوتوو نەبوو"
+      "value": "چوونەژوورەوە بۆ FotMob Predict سەرکەوتوو نەبوو"
     },
     "new_profile_picture": {
       "english": "Profile picture",
@@ -12073,7 +12073,7 @@
     "seo_prizes_summary_prize": {
       "comment": "Bullet describing the prize in the FotMob Predict World Cup 2026 prizes summary. Two sentences: (1) explains who wins (highest-ranked US user when the tournament ends), what they win (PS5), and the approximate retail value; (2) tiebreaker rule (random draw — not e.g. \"earliest score\" or \"most perfect predictions\"). Keep \"PlayStation 5\" and \"US$499.99\" verbatim. \"approx. value\" is shorthand for \"approximate retail value\" — feel free to write it out if your locale doesn't shorten \"approximate\" the same way.",
       "english": "Top of the US leaderboard at the end of the tournament wins a PlayStation 5 (approx. value US$499.99). Ties broken by random drawing.",
-      "value": "پێشەنگی ڕیزبەندی ئەمریکا لە کۆتایی پاڵەوانیەتییەکەدا پلەیستەیشن 5 دەباتەوە (نرخی نزیکەی 499.99$ دۆلاری ئەمریکیە). لەکاتی یەکسانبووندا براوە بە تیروپشک دیاری دەکرێت."
+      "value": "پێشەنگی ڕیزبەندی ئەمریکا لە کۆتایی پاڵەوانیەتییەکەدا PlayStation 5 دەباتەوە (نرخی نزیکەی 499.99$ دۆلاری ئەمریکیە). لەکاتی یەکسانبووندا براوە بە تیروپشک دیاری دەکرێت."
     },
     "seo_prizes_summary_three_points_score": {
       "comment": "Scoring rule bullet in the FotMob Predict World Cup 2026 prizes summary. Keep \"3 points\" with the numeral. \"Scoreline\" is the football term for the final score (e.g. 2–1). Use your locale's football-specific term — not \"score\" if \"scoreline\" has a distinct meaning in the language. The 3 points is inclusive of the 2-point outcome award (not 5 total) — but that nuance lives in the full Official Rules page, not in this summary.",
