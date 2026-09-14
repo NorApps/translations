@@ -6062,7 +6062,7 @@
     "common_squad_value": {
       "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
       "english": "Squad value",
-      "value": "نرخی پێکهاتە"
+      "value": "نرخی یاریزانان"
     },
     "common_staff_picks": {
       "english": "Staff picks",
@@ -12113,7 +12113,7 @@
     "seo_pulse_turn_off_description": {
       "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned on in Pulse Admin.",
       "english": "Turning off Pulse will turn off reactions and hide the pulse items and polls that have been added to the match commentary.",
-      "value": "کوژاندنەوەی Pulse دەبێتە هۆی ناچالاککردنی کاردانەوەکان و شاردنەوەی بڕگە و ڕاپرسییەکانی Pulse کە بۆ  بێژەری یارییەکە زیادکراون."
+      "value": "کوژاندنەوەی Pulse دەبێتە هۆی ناچالاککردنی کاردانەوەکان و شاردنەوەی بڕگە و ڕاپرسییەکانی Pulse کە بۆ بێژەری یارییەکە زیادکراون."
     },
     "seo_pulse_turn_on_description": {
       "comment": "Text shown on hover on the Pulse on/off switch when Pulse is currently turned off in Pulse Admin.",
