@@ -9,7 +9,7 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "سانترهای موفق"
+      "value": "درصد سانترهای موفق"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
@@ -49,7 +49,7 @@
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won %",
-      "value": "٪ دوئل‌های هوایی موفق"
+      "value": "درصد دوئل‌های هوایی موفق"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
@@ -2492,7 +2492,7 @@
     "accessibility_xG_onboarding_description": {
       "comment": "A short description of the xG system and how it works.",
       "english": "Expected goals is a measurement of the quality of a shot.\\n\\nA team’s xG number for a match is an indication of how many goals they could have been expected to score, given the chances they created.",
-      "value": "موقعیت‌های گل‌زنی در واقع ارزیابی کیفیت شوت است.\\n\\nنمره xG تیم در یک بازی نشانگر تعداد گل‌هایی است که با توجه به موقعیت‌های ایجاد‌شده می‌توانستیم انتظار داشته باشیم."
+      "value": "امید گل در واقع ارزیابی کیفیت شوت است.\\n\\nنمره xG تیم در یک بازی نشانگر تعداد گل‌هایی است که با توجه به موقعیت‌های ایجاد‌شده می‌توانستیم انتظار داشته باشیم."
     },
     "accessibility_xG_onboarding_header": {
       "comment": "A header for xG-onboarding",
@@ -2546,7 +2546,7 @@
     },
     "common_ShotsOnTarget": {
       "english": "Shots on target",
-      "value": "تعداد شوت به سمت چارچوب"
+      "value": "تعداد شوت داخل چارچوب"
     },
     "common_aborted": {
       "english": "Abandoned",
@@ -2668,17 +2668,17 @@
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@%@-%@%@\\n%@گل ردشده به علت خطا (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل ردشده به علت خطا (VAR)"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
       "english": "%@ %@-%@ %@\\n%@Score correction (Goal line technology)",
-      "value": "%@%@-%@%@\\n%@تصحیح نتیجه - (فناوری خط دروازه)"
+      "value": "%@ %@-%@ %@\\n%@تصحیح نتیجه (فناوری خط دروازه)"
     },
     "common_alert_goal_disallowed_offside_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to an offside (football term)",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - offside (VAR)",
-      "value": "%@%@-%@%@\\n%@گل ردشده - آفساید (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل ردشده - آفساید (VAR)"
     },
     "common_alert_goal_disallowed_out_of_field_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due the ball had been out of the pitch before the goal",
@@ -2688,7 +2688,7 @@
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@%@-%@%@\\n%@گل ردشده (VAR)"
+      "value": "%@ %@-%@ %@\\n%@گل ردشده (VAR)"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
@@ -3283,12 +3283,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در مسابقه رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50٪ از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) در رتبه بندی گنجانده شود.</p>"
+      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50٪ از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) تا در رتبه بندی گنجانده شود.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50%% درصد از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد. (برای هر 90 آمار) در رتبه بندی گنجانده شود.</p>"
+      "value": "<p>همهٔ داده‌ها بر اساس آمار ارائه‌شده توسط Opta محاسبه می‌شوند.</p><p>رتبه بندی بازیکنان FotMob بر اساس بیش از 100 آمار فردی برای هر بازیکن در هر مسابقه محاسبه می‌شود.</p><p>یک مسابقه در رتبه‌بندی در هر مسابقه، هر مسابقه‌ای است که شرکت‌کننده در آن شرکت کرده است، حتی اگر در چند دقیقه آخر به عنوان بازیکن تعویضی وارد زمین شده باشد.</p><p>یک بازیکن باید حداقل 50%% از تمام مسابقات و حداقل 90 دقیقه بازی کرده باشد (برای هر 90 آمار) تا در رتبه بندی گنجانده شود.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -3535,7 +3535,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "اعلان‌های FotMob غیرفعال است. برای حل مشکل اینجا را ببینید: http://fotmob.com/faq.html"
+      "value": "اعلان‌های FotMob در مرکز اعلان‌های دستگاه شما غیرفعال هستند. برای حل مشکل اینجا را ببینید: http://fotmob.com/faq.html"
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3630,7 +3630,7 @@
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
       "english": "xG conceded",
-      "value": "xG پذیرفته‌شده"
+      "value": "xG خورده"
     },
     "common_expected_goals_extra_first_half": {
       "comment": "Keep xG in the translation and translate it as \"xG <first extra half translated>\"",
@@ -6034,7 +6034,7 @@
     },
     "common_sort_explained": {
       "english": "Drag to change the order of the leagues in the Matches tab. Or, tap leagues and use the bottom buttons to move.",
-      "value": "برای تغییر ترتیب لیگ‌ها در تب رقابت‌ها آنها را بکشید. یا رویشان بزنید و از دکمه‌های پایین برای جابه‌جایی استفاده کنید"
+      "value": "برای تغییر ترتیب لیگ‌ها در تب مسابقات آن‌ها را بکشید. یا رویشان بزنید و از دکمه‌های پایین برای جابه‌جایی استفاده کنید"
     },
     "common_sort_tournaments": {
       "comment": "Menu indicating the user can sort the tournaments/leagues in the order he wants",
@@ -6109,7 +6109,7 @@
     },
     "common_stream_playback_error": {
       "english": "An error occurred playing the audio stream",
-      "value": "خطایی در هنگام گزارش صوتی رخ داده است."
+      "value": "خطایی در هنگام پخش گزارش صوتی رخ داد."
     },
     "common_stream_playback_initializing": {
       "english": "Initializing audio playback…",
