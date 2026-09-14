@@ -121,19 +121,24 @@ def check_value(lang, path, text, key, form, old, new, english, add, trusted=Fal
     old_ph = placeholders(old) if old is not None else None
     en_ph = placeholders(english) if english else None
 
-    if old_ph is not None and new_ph != old_ph:
+    if en_ph is not None and new_ph != en_ph:
+        # Matching English is the goal, so a value that already matches is never
+        # a finding however much it changed. Breaking a match is; drifting from
+        # one wrong set to another is only worth a warning.
+        level = "error" if (old_ph is not None and old_ph == en_ph) else "warning"
+        if trusted:
+            level = "warning"
+        add(
+            level,
+            "placeholder-changed" if level == "error" else "placeholder-mismatch",
+            f"Placeholders {new_ph or 'none'} do not match English {en_ph or 'none'}"
+            + (f" (was {old_ph or 'none'})." if old_ph is not None and old_ph != new_ph else "."),
+        )
+    elif en_ph is None and old_ph is not None and new_ph != old_ph:
         add(
             "warning" if trusted else "error",
             "placeholder-changed",
-            f"Placeholders changed: was {old_ph or 'none'}, now {new_ph or 'none'}. "
-            "Placeholders must be copied exactly from English.",
-        )
-    elif en_ph is not None and new_ph != en_ph:
-        level = "warning" if (old_ph is not None and old_ph != en_ph) else "error"
-        add(
-            level,
-            "placeholder-mismatch",
-            f"Placeholders {new_ph or 'none'} do not match English {en_ph or 'none'}.",
+            f"Placeholders changed: was {old_ph or 'none'}, now {new_ph or 'none'}.",
         )
 
     if old is not None:
