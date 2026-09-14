@@ -124,7 +124,7 @@
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
       "english": "Assists per 90",
-      "value": "تمريرات لكل 90 دقيقة"
+      "value": "تمريرات حاسمة لكل 90 دقيقة"
     },
     "accessibility_attackers": {
       "english": "Forwards",
@@ -516,7 +516,7 @@
     "accessibility_goals_and_assists_per_90": {
       "comment": "Label used in stats for the sum of goals and assists per 90 min",
       "english": "Goals + Assists per 90",
-      "value": "الأهداف + التمريرات لكل 90 دقيقة"
+      "value": "الأهداف + التمريرات الحاسمة لكل 90 دقيقة"
     },
     "accessibility_goals_conceded_per_90": {
       "comment": "Label used in stats for goals conceded per 90 for keepers.",
@@ -2583,11 +2583,11 @@
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
-      "value": "تمريرة ناجحه"
+      "value": "دقة التمريرات"
     },
     "common_accurate_pass_team_subtitle": {
       "english": "Pass success",
-      "value": "تمريرة ناجحه"
+      "value": "دقة التمريرات"
     },
     "common_accurate_pass_team_title": {
       "english": "Accurate passes per match",
@@ -3280,8 +3280,8 @@
       "plurals": {
         "few": "منذ %d أيام",
         "many": "منذ %d يوم",
-        "one": "منذ %d يوم",
-        "other": "%d ايام مضت",
+        "one": "منذ يوم",
+        "other": "منذ %d يوم",
         "two": "منذ يومين",
         "zero": "منذ %d أيام"
       }
@@ -3511,7 +3511,7 @@
     "common_empty_placeholder_no_transfers": {
       "comment": "Empty placeholder for when tranfers (for team or for league) are not available, but we expected there to be data.",
       "english": "Transfers not available",
-      "value": "تحويلات غير متوفرة"
+      "value": "الانتقالات غير متوفرة"
     },
     "common_empty_placeholder_no_transfers_2": {
       "comment": "Empty state placeholder for the case of when we know there are no transfers. Typical usecase is that we have e.g. outgoing transfers for a club, but no incoming.",
@@ -4215,7 +4215,7 @@
     },
     "common_goal_assist_title": {
       "english": "Assists",
-      "value": "صناعة"
+      "value": "صناعة أهداف"
     },
     "common_goal_difference": {
       "english": "GD",
@@ -4426,8 +4426,8 @@
       "plurals": {
         "few": "منذ %d ساعات",
         "many": "منذ %d ساعة",
-        "one": "منذ حوالي ساعة %d",
-        "other": "%d ساعات مضت",
+        "one": "منذ ساعة",
+        "other": "منذ %d ساعة",
         "two": "منذ ساعتين",
         "zero": "منذ %d ساعات"
       }
@@ -4960,8 +4960,8 @@
       "plurals": {
         "few": "منذ %d دقائق",
         "many": "منذ %d دقيقة",
-        "one": "%d منذ دقيقة",
-        "other": "%d منذ دقيقة",
+        "one": "منذ دقيقة",
+        "other": "منذ %d دقيقة",
         "two": "منذ دقيقتين",
         "zero": "منذ %d دقائق"
       }
@@ -5233,7 +5233,7 @@
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "احصل على إشعارات بالأحداث المهمة الرسمية في المباريات التي فعّلت تنبيهاتها طوال الوقت."
+      "value": "احصل على إشعارات بالملخصات الرسمية للمباريات التي فعّلت لها تنبيه نهاية المباراة."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -5285,7 +5285,7 @@
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
-      "value": "حدد لاعبيك المفضلين و أحصل على إشعارات عن الأهداف، البطاقات الحمراء، ضربات الجزاء الضائعة و أكثر"
+      "value": "حدد لاعبيك المفضلين واحصل على إشعارات عن الأهداف، البطاقات الحمراء، ضربات الجزاء الضائعة والمزيد"
     },
     "common_onboarding_players_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for players",
@@ -5573,7 +5573,7 @@
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "السيطرة في الثلث النهائي"
+      "value": "استعادة الكرة في الثلث الأخير لكل مباراة"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5581,7 +5581,7 @@
     },
     "common_possession_percentage_title": {
       "english": "Average possession",
-      "value": "متوسط السيطرة"
+      "value": "متوسط الاستحواذ"
     },
     "common_possible_qualification_next_stage": {
       "comment": "This table position may give a qualification to the next stage depending upon the rules of the tournament",
@@ -6066,7 +6066,7 @@
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
       "english": "Sign in with",
-      "value": "تسجيل الدخول ب"
+      "value": "تسجيل الدخول عبر"
     },
     "common_silent": {
       "english": "Silent",
@@ -6500,7 +6500,7 @@
     "common_top_transfers": {
       "comment": "A label indicating that you want to search only the most important transfers.",
       "english": "Top transfers",
-      "value": "أبرز التحويلات"
+      "value": "أبرز الانتقالات"
     },
     "common_topnews": {
       "english": "Top news",
@@ -6579,7 +6579,7 @@
     "common_transfer_period": {
       "comment": "A header indicating the time period you want to search for. This will be followed by the [last_x_years] string and [last_x_months]",
       "english": "Include transfers from",
-      "value": "تشمل التحويلات من"
+      "value": "تشمل الانتقالات من"
     },
     "common_transfer_reported_fee": {
       "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
@@ -7581,7 +7581,7 @@
     "new_dismiss": {
       "comment": "User is prompted for an action in a dialog and this is the cancel button",
       "english": "Dismiss",
-      "value": "صرف"
+      "value": "إغلاق"
     },
     "new_e_mail": {
       "english": "Email address",
@@ -7753,7 +7753,7 @@
     },
     "new_odds_format": {
       "english": "Odds format",
-      "value": "صيغة الفرص"
+      "value": "صيغة الاحتمالات"
     },
     "new_onlytopnews": {
       "english": "Only top news",
@@ -7860,7 +7860,7 @@
     },
     "new_related_news": {
       "english": "Related news",
-      "value": "اخبار متعلقة"
+      "value": "أخبار ذات صلة"
     },
     "new_reminder": {
       "english": "Match starts in %@ minutes",
@@ -7923,11 +7923,11 @@
     "new_sounds": {
       "comment": "Heading for the sounds that you can choose when getting alerts for goals, cards ++",
       "english": "Sounds",
-      "value": "اصوات"
+      "value": "أصوات"
     },
     "new_sounds_desc": {
       "english": "Change notification sound for the alerts",
-      "value": "قم بتبديل الصوت للاشعارات"
+      "value": "قم بتبديل الصوت للإشعارات"
     },
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
@@ -7980,7 +7980,7 @@
     },
     "new_top_players": {
       "english": "Top players",
-      "value": "افضل اللاعبين"
+      "value": "أفضل اللاعبين"
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
@@ -8355,7 +8355,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "فرص كبيرة صُنِعَت"
+      "value": "صناعة الفرص الكبيرة"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -8370,12 +8370,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "فرصة كبيرة ضاعت"
+      "value": "الفرص الكبيرة الضائعة"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "فرصة كبيرة ضاعت"
+      "value": "الفرص الكبيرة الضائعة"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -8442,7 +8442,7 @@
     "notifications_confirmed_transfer_news": {
       "comment": "Label indicating it applies to confirmed transfers only",
       "english": "Confirmed transfers",
-      "value": "أخبار انتقال مؤكدة"
+      "value": "أخبار الانتقالات المؤكدة"
     },
     "notifications_croatia": {
       "english": "Croatia",
@@ -8508,7 +8508,7 @@
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
-      "value": "البطاقات"
+      "value": "الانضباط"
     },
     "notifications_dispossessed": {
       "comment": "Stat indication how many times a player lost the ball to an opponent (was Dispossessed)",
@@ -9597,7 +9597,7 @@
     "notifications_pass_percentage": {
       "comment": "The percentage of passes being successful",
       "english": "Pass success",
-      "value": "تمريرة ناجحه"
+      "value": "دقة التمريرات"
     },
     "notifications_pass_percentage_short": {
       "comment": "Short header for pass percentage",
@@ -9751,7 +9751,7 @@
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
-      "value": "إحصل على  تنبيهات انتقالات مؤكدة عن كل فرقك المفضلة"
+      "value": "احصل على تنبيهات بالانتقالات المؤكدة لكل فرقك المفضلة"
     },
     "notifications_red_card_v2": {
       "english": "Red card",
@@ -9865,7 +9865,7 @@
     "notifications_set_quick_toggle_notifications": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts on a match",
       "english": "Default match notifications",
-      "value": "إشعارات المباراة الافتراضية"
+      "value": "الإشعارات الافتراضية للمباراة"
     },
     "notifications_set_quick_toggle_notifications_desc": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts",
@@ -10164,17 +10164,17 @@
     "notifications_trophies": {
       "comment": "Tab title for trophies (titles) a team has won. It lists things like how many times Manchester United has won the Premier League",
       "english": "Trophies",
-      "value": "البطولات"
+      "value": "الألقاب"
     },
     "notifications_trophies_coach": {
       "comment": "Card title for trophies (titles) a person has won when he/she as a coach.",
       "english": "Trophies (coach)",
-      "value": "الكؤوس (مدرب)"
+      "value": "الألقاب (مدرب)"
     },
     "notifications_trophies_player": {
       "comment": "Card title for trophies (titles) a person has won when he/she as a player.",
       "english": "Trophies (player)",
-      "value": "الكؤوس (لاعب)"
+      "value": "الألقاب (لاعب)"
     },
     "notifications_turkey": {
       "english": "Türkiye",
@@ -12720,12 +12720,12 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "ابحث عن جميع التحويلات المؤكدة الأحدث وأغلى التوقيعات. مركز تحويلات فوتموب - فلترة حسب الدوري والفرق. ابق محدّثًا بالتحويلات مع التحديثات المباشرة في يوم انتهاء المهلة مع جميع الصفقات المكتملة!"
+      "value": "ابحث عن جميع الانتقالات المؤكدة الأحدث وأغلى التوقيعات. مركز انتقالات فوتموب - فلترة حسب الدوري والفرق. ابق محدّثًا بالانتقالات مع التحديثات المباشرة في يوم انتهاء المهلة مع جميع الصفقات المكتملة!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "ابحث عن جميع التحويلات المؤكدة الأحدث لـ %1$@ وأغلى التوقيعات. مركز تحويلات FotMob - فلترة حسب الدوري والفرق. ابق محدّثًا بالتحويلات مع التحديثات المباشرة في يوم انتهاء المهلة مع جميع الصفقات المكتملة!"
+      "value": "ابحث عن جميع الانتقالات المؤكدة الأحدث لـ %1$@ وأغلى التوقيعات. مركز انتقالات FotMob - فلترة حسب الدوري والفرق. ابق محدّثًا بالانتقالات مع التحديثات المباشرة في يوم انتهاء المهلة مع جميع الصفقات المكتملة!"
     },
     "seo_site_description_tv_guide": {
       "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
