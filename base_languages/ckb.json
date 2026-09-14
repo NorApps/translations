@@ -11646,7 +11646,7 @@
     "seo_number_of_sprints": {
       "comment": "Number of sprints a player has taken in a match.",
       "english": "Number of sprints",
-      "value": "ژمارەی ڕاکردنە زۆر خێراکان"
+      "value": "ژمارەی ڕاکردنە خێراکان"
     },
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
@@ -11791,7 +11791,7 @@
     "seo_physical_metrics_number_of_sprints": {
       "comment": "The total amount of sprints for a player during a match",
       "english": "Number of sprints",
-      "value": "ژمارەی ڕاکردنە زۆر خێراکان"
+      "value": "ژمارەی ڕاکردنە خێراکان"
     },
     "seo_physical_metrics_running": {
       "comment": "A label indicating how much a player has been running. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
