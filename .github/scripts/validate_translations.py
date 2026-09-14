@@ -300,7 +300,10 @@ def validate_file(path, base_sha, trusted=False, loan_keys=frozenset()):
                 if entry.get(field) != base_entry.get(field):
                     findings.append(
                         Finding(
-                            "error",
+                            # An export regenerates this field whenever the English
+                            # source changes, which is most of the time. Only a
+                            # contributor editing it by hand is suspicious.
+                            "warning" if trusted else "error",
                             path,
                             key,
                             None,
