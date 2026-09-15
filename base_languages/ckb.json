@@ -13624,7 +13624,7 @@
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
-      "value": "ئەو گواستنەوانەی ئەگەریان نزیکە"
+      "value": "گواستنەوە نزیکەکان"
     },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
@@ -13644,12 +13644,12 @@
     "transfer center_read_rumour": {
       "comment": "Button in the rumour preview sheet that opens the source article for the transfer rumour.",
       "english": "Read rumor",
-      "value": "دەنگۆکە بخوێنەرەوە"
+      "value": "خوێندنەوەی دەنگۆکە"
     },
     "transfer center_speculation_probability": {
       "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Speculative",
-      "value": "مەزەندە"
+      "value": "پێشبینیکراو"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
