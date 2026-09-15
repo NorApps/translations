@@ -13686,11 +13686,6 @@
       "english": "Minimum",
       "value": "Минимум"
     },
-    "transfer center_leagues_teams_and_players": {
-      "comment": "Title of the filter card in the Transfer Center where the user picks leagues, teams and players to filter transfers by.",
-      "english": "Leagues, teams and players",
-      "value": "Лиги, команды и игроки"
-    },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
