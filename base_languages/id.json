@@ -11381,7 +11381,7 @@
       "value": "Pendukung seumur hidup"
     },
     "seo_likely_probability": {
-      "comment": "String used to indicate a transfer rumour that is likely to be confirmed. The scale goes likely - very likely - imminent. Prefer one word.",
+      "comment": "String used to indicate a transfer rumour that is likely to be confirmed. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Likely",
       "value": "Mungkin"
     },
@@ -12067,7 +12067,7 @@
       "value": "Lihat Peraturan Resmi"
     },
     "seo_probability_label": {
-      "comment": "Title for the probability filter in the transfer centre. Filters for likely and imminent rumours. See likely_probability. See imminent_probability.",
+      "comment": "Title for the probability filter in the transfer centre. Filters for speculation, likely and imminent rumours. See speculation_probability. See likely_probability. See imminent_probability.",
       "english": "Probability",
       "value": "Kemungkinan"
     },
@@ -13573,10 +13573,60 @@
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@ adalah pencetak gol terbanyak %2$@ di musim %3$@%4$@ dengan %5$@ gol"
     },
+    "transfer center_advanced_filters": {
+      "comment": "Button that expands additional filter options (estimated value, position, age, nationality) in the Transfer Center filter sheet.",
+      "english": "Advanced filters",
+      "value": "Filter lanjutan"
+    },
     "transfer center_failed_to_load_more_transfers": {
       "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
       "english": "Failed to load more transfers, <a>retry?</a>",
       "value": "Gagal memuat transfer lainnya, <a>coba lagi?</a>"
+    },
+    "transfer center_filter_range_maximum": {
+      "comment": "Label under the right end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
+      "english": "Maximum",
+      "value": "Maksimum"
+    },
+    "transfer center_filter_range_minimum": {
+      "comment": "Label under the left end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
+      "english": "Minimum",
+      "value": "Minimum"
+    },
+    "transfer center_leagues_teams_and_players": {
+      "comment": "Title of the filter card in the Transfer Center where the user picks leagues, teams and players to filter transfers by.",
+      "english": "Leagues, teams and players",
+      "value": "Liga, tim, dan pemain"
+    },
+    "transfer center_likely_transfers": {
+      "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
+      "english": "Likely transfers",
+      "value": "Transfer yang mungkin"
+    },
+    "transfer center_player_age": {
+      "comment": "Title of the filter card for filtering transfers by player age.",
+      "english": "Player age",
+      "value": "Usia pemain"
+    },
+    "transfer center_player_nationality": {
+      "comment": "Title of the filter card for filtering transfers by player nationality.",
+      "english": "Player nationality",
+      "value": "Kebangsaan pemain"
+    },
+    "transfer center_player_position": {
+      "comment": "Title of the filter card for filtering transfers by player position.",
+      "english": "Player position",
+      "value": "Posisi pemain"
+    },
+    "transfer center_read_rumour": {
+      "comment": "Button in the rumour preview sheet that opens the source article for the transfer rumour.",
+      "english": "Read rumor",
+      "value": "Baca rumor"
+    },
+    "transfer center_speculation_probability": {
+      "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
+      "english": "Speculative",
+      "value": "Spekulatif"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",

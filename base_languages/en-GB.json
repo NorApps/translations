@@ -3951,6 +3951,11 @@
       "english": "center-backs",
       "value": "centre-backs"
     },
+    "transfer center_read_rumour": {
+      "comment": "Button in the rumour preview sheet that opens the source article for the transfer rumour.",
+      "english": "Read rumor",
+      "value": "Read rumour"
+    },
     "widget intents_4785Wb": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the team-widget Configuration intent. Most languages use a short \"Select team\" form.",
       "english": "Select favorite team to follow",

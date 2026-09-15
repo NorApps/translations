@@ -8918,7 +8918,7 @@
       "value": "Lifetime supporter"
     },
     "seo_likely_probability": {
-      "comment": "String used to indicate a transfer rumour that is likely to be confirmed. The scale goes likely - very likely - imminent. Prefer one word.",
+      "comment": "String used to indicate a transfer rumour that is likely to be confirmed. The scale goes speculation - likely - imminent. Prefer one word.",
       "value": "Likely"
     },
     "seo_limit_reached_lineupbuilder": {
@@ -9462,7 +9462,7 @@
       "value": "View Official Rules"
     },
     "seo_probability_label": {
-      "comment": "Title for the probability filter in the transfer centre. Filters for likely and imminent rumours. See likely_probability. See imminent_probability.",
+      "comment": "Title for the probability filter in the transfer centre. Filters for speculation, likely and imminent rumours. See speculation_probability. See likely_probability. See imminent_probability.",
       "value": "Probability"
     },
     "seo_publish": {
@@ -10657,9 +10657,49 @@
       "comment": "SEO answer-box sentence in FotMob-Web for the \"goals\" leaderboard when scoped to a single club — team-page context. See \"stat_answer_sentence_goals_player\" for context — reuse the same \"top scorer\" phrasing. Placeholders: %1$@ → player name; %2$@ → team name (do not translate); %3$@ → league name (a COMPETITION, not an opponent); %4$@ → season suffix like \" 2025/2026\" (already includes a leading space); %5$@ → number of goals. Full example: \"Erling Haaland is the top scorer for Manchester City in Premier League 2025/2026 season with 20 goals\".",
       "value": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals"
     },
+    "transfer center_advanced_filters": {
+      "comment": "Button that expands additional filter options (estimated value, position, age, nationality) in the Transfer Center filter sheet.",
+      "value": "Advanced filters"
+    },
     "transfer center_failed_to_load_more_transfers": {
       "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
       "value": "Failed to load more transfers, <a>retry?</a>"
+    },
+    "transfer center_filter_range_maximum": {
+      "comment": "Label under the right end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
+      "value": "Maximum"
+    },
+    "transfer center_filter_range_minimum": {
+      "comment": "Label under the left end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
+      "value": "Minimum"
+    },
+    "transfer center_leagues_teams_and_players": {
+      "comment": "Title of the filter card in the Transfer Center where the user picks leagues, teams and players to filter transfers by.",
+      "value": "Leagues, teams and players"
+    },
+    "transfer center_likely_transfers": {
+      "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
+      "value": "Likely transfers"
+    },
+    "transfer center_player_age": {
+      "comment": "Title of the filter card for filtering transfers by player age.",
+      "value": "Player age"
+    },
+    "transfer center_player_nationality": {
+      "comment": "Title of the filter card for filtering transfers by player nationality.",
+      "value": "Player nationality"
+    },
+    "transfer center_player_position": {
+      "comment": "Title of the filter card for filtering transfers by player position.",
+      "value": "Player position"
+    },
+    "transfer center_read_rumour": {
+      "comment": "Button in the rumour preview sheet that opens the source article for the transfer rumour.",
+      "value": "Read rumor"
+    },
+    "transfer center_speculation_probability": {
+      "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
+      "value": "Speculative"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",

@@ -1347,6 +1347,11 @@
       "comment": "Plural form of \"midfielder\", see \"midfielder_long\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Assists among midfielders ...\".",
       "english": "midfielders",
       "value": "mediocampistas"
+    },
+    "transfer center_likely_transfers": {
+      "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
+      "english": "Likely transfers",
+      "value": "Transferencias probables"
     }
   }
 }
