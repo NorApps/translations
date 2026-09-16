@@ -10993,7 +10993,7 @@
     "seo_fotmob_plus": {
       "comment": "Header that describes FotMob+",
       "english": "FotMob+",
-      "value": "FotMob+"
+      "value": "‎FotMob+‎"
     },
     "seo_fotmob_plus_pitch": {
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
@@ -11314,12 +11314,12 @@
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "english": "Join FotMob+ for %@ / month",
-      "value": "با %@ در ماه به FotMob+ بپیوندید"
+      "value": "با %@ در ماه به ‎FotMob+‎ بپیوندید"
     },
     "seo_join_fotmob_plus_yearly": {
       "comment": "Description highligthing the price of the yearly FotMob+ subscription. i.e. \"Join FotMob+ for $39.99 / year\"",
       "english": "Join FotMob+ for %@ / year",
-      "value": "برای %@ در سال به FotMob+ بپیوندید"
+      "value": "برای %@ در سال به ‎FotMob+‎ بپیوندید"
     },
     "seo_joincode_error_generic": {
       "comment": "Fallback error message used in three places: (a) inline under the typed-code input on unexpected failures, (b) body of the full-screen \"Couldn't join the league\" error, and (c) the success-state toast equivalent doesn't exist — this is purely a generic error. Tone: brief, non-alarming, suggests retry.",
@@ -12246,7 +12246,7 @@
     "seo_resubscribe_to_keep_fotmobplus_benefits": {
       "comment": "Used for bottom sheet subtitle when subscription has expired",
       "english": "Resubscribe to keep FotMob+ benefits.",
-      "value": "برای حفظ مزایای FotMob+ دوباره اشتراک بگیر."
+      "value": "برای حفظ مزایای ‎FotMob+‎ دوباره اشتراک بگیر."
     },
     "seo_results": {
       "comment": "Short title for the dialogue showing the user's prediction scores and results so far.",
@@ -13069,7 +13069,7 @@
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
       "english": "Thanks for supporting us since %@! Unlock even more features with FotMob+",
-      "value": "ممنون که از %@ تا حالا از ما حمایت کردید! با FotMob+ ویژگی‌های بیشتری را قفل‌گشایی کنید."
+      "value": "ممنون که از %@ تا حالا از ما حمایت کردید! با ‎FotMob+‎ ویژگی‌های بیشتری را قفل‌گشایی کنید."
     },
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -13153,12 +13153,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "فقط یک یادآوری سریع: دوره آزمایشی FotMob+ شما ظرف ۲ روز به پایان می‌رسد و به‌طور خودکار تمدید خواهد شد."
+      "value": "فقط یک یادآوری سریع: دوره آزمایشی ‎FotMob+‎ شما ظرف ۲ روز به پایان می‌رسد و به‌طور خودکار تمدید خواهد شد."
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "آزمایش FotMob+ شما ظرف 2 روز به پایان می‌رسد."
+      "value": "آزمایش ‎FotMob+‎ شما ظرف ۲ روز به پایان می‌رسد."
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",

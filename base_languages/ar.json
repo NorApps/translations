@@ -581,7 +581,7 @@
     "accessibility_historical_table_positions": {
       "comment": "Header indication a team's previous positions in the table. Example here: https://www.fotmob.com/teams/8650/history/liverpool",
       "english": "Historical table positions",
-      "value": "المراكز السابقة للفريق في الجدول."
+      "value": "المراكز السابقة للفريق في الجدول"
     },
     "accessibility_historical_table_positions_header": {
       "comment": "Header text over graph that shows a team's historical table positions.",
@@ -2190,7 +2190,7 @@
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
       "english": "Tackles per 90",
-      "value": "التدخلات لكل 90"
+      "value": "التدخلات لكل 90 دقيقة"
     },
     "accessibility_tackles_succeeded_percent": {
       "english": "Tackles won %",
@@ -2503,7 +2503,7 @@
     "accessibility_won_tackle_per_90": {
       "comment": "Label used in stats for successful tackles per 90",
       "english": "Successful tackles per 90",
-      "value": "التدخلات الناجحة لكل 90"
+      "value": "التدخلات الناجحة لكل 90 دقيقة"
     },
     "accessibility_xG_onboarding_description": {
       "comment": "A short description of the xG system and how it works.",
@@ -2801,7 +2801,7 @@
     "common_assists": {
       "comment": "Header for top lists of the player with mosts assists",
       "english": "Assists",
-      "value": "صناعة أهداف"
+      "value": "صناعة الأهداف"
     },
     "common_attacker": {
       "comment": "MAX 2 chars!",
@@ -3225,7 +3225,7 @@
     "common_contract": {
       "comment": "Label for player's contract expiration date with club",
       "english": "Contract",
-      "value": "عقد"
+      "value": "العقد"
     },
     "common_contract_extension": {
       "comment": "Transfer status: player extended his contract with club",
@@ -3559,7 +3559,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "الإشعارات غير مفعلة لفوتموب في مركز الإشعارات خاصتك. زر http://fotmob.com/faq.html لحل هذا الإشكال."
+      "value": "الإشعارات غير مفعلة لـ FotMob في مركز الإشعارات خاصتك. زر http://fotmob.com/faq.html لحل هذا الإشكال."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3639,7 +3639,7 @@
     "common_expected_assists": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "Expected assists (xA)",
-      "value": "تمريرات حاسمة متوقعة"
+      "value": "التمريرات الحاسمة المتوقعة (xA)"
     },
     "common_expected_assists_per_90": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
@@ -3649,7 +3649,7 @@
     "common_expected_goals": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "Expected goals (xG)",
-      "value": "أهداف متوقعة"
+      "value": "الأهداف المتوقعة (xG)"
     },
     "common_expected_goals_conceded": {
       "comment": "Keep xG in the translation and translate it as \"xG <conceded>\". Conceded is that the team concedes a goal.",
@@ -4215,7 +4215,7 @@
     },
     "common_goal_assist_title": {
       "english": "Assists",
-      "value": "صناعة أهداف"
+      "value": "صناعة الأهداف"
     },
     "common_goal_difference": {
       "english": "GD",
@@ -4706,7 +4706,7 @@
     "common_leftback": {
       "comment": "Player position - player plays on the left side of the pitch in the defensive half",
       "english": "Left-back",
-      "value": "الظهير الأيسر"
+      "value": "ظهير أيسر"
     },
     "common_leftback_short": {
       "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
@@ -4726,7 +4726,7 @@
     "common_leftwinger": {
       "comment": "Player position - player plays on the left side of the pitch in the attacking half",
       "english": "Left Winger",
-      "value": "الجناح الأيسر"
+      "value": "جناح أيسر"
     },
     "common_leftwinger_short": {
       "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
@@ -5551,7 +5551,7 @@
     "common_popular": {
       "comment": "The most popular leagues",
       "english": "Popular",
-      "value": "الشهيرة"
+      "value": "الأكثر شعبية"
     },
     "common_popular_matches": {
       "comment": "Header in the News for the section which contains the most exciting upcoming matches",
@@ -5683,7 +5683,7 @@
     },
     "common_rate_fotmob_desc": {
       "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
-      "value": "أتحب فوتموب؟ سيعني لنا الكثير لو أخذت دقيقة و قيمته!"
+      "value": "أتحب FotMob؟ سيعني لنا الكثير لو أخذت دقيقة وقيمته!"
     },
     "common_rating": {
       "comment": "We give the players a rating from 1-10 based on their performance. This is what we call Rating.",
@@ -5716,7 +5716,7 @@
     "common_recoveries_per_90": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries. See recoveries. Also make sure to reference the other per 90 stats like chances_created_per_90 to we write them the same way.",
       "english": "Recoveries per 90",
-      "value": "استردادات لكل 90"
+      "value": "استعادة الكرة لكل 90 دقيقة"
     },
     "common_red_cards": {
       "english": "Red cards",
@@ -5787,7 +5787,7 @@
     "common_rightback": {
       "comment": "Player position - player plays on the right of the pitch in the defensive half",
       "english": "Right-back",
-      "value": "الظهير الأيمن"
+      "value": "ظهير أيمن"
     },
     "common_rightback_short": {
       "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
@@ -6379,7 +6379,7 @@
     "common_theme": {
       "comment": "Asks users to choose a Theme for the app. The Theme can either be \"Dark\" or \"Light\"",
       "english": "Theme",
-      "value": "ثيم"
+      "value": "المظهر"
     },
     "common_theme_auto": {
       "comment": "Option to choose the Default theme for the app",
@@ -6836,7 +6836,7 @@
     },
     "common_widget_title": {
       "english": "FotMob",
-      "value": "فوتموب"
+      "value": "FotMob"
     },
     "common_widget_url": {
       "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
@@ -6844,7 +6844,7 @@
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
-      "value": "فوتموب - أخبار"
+      "value": "FotMob - أخبار"
     },
     "common_won": {
       "english": "W",
@@ -7362,7 +7362,7 @@
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
-      "value": "فوتموب - أفضل تطبيق للنتائج المباشرة لكرة القدم"
+      "value": "FotMob - أفضل تطبيق للنتائج المباشرة لكرة القدم"
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
@@ -9747,7 +9747,7 @@
     "notifications_rating_team_title": {
       "comment": "We give each team a performance rating based on how the player performs. This is a title where we rank all the teams based on their performance.",
       "english": "FotMob rating",
-      "value": "تقييم فوت موب"
+      "value": "تقييم FotMob"
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
@@ -9880,7 +9880,7 @@
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
-      "value": "قميص"
+      "value": "القميص"
     },
     "notifications_shortcuts": {
       "comment": "A filter title for shortcuts used to generalize setting shortcuts",
@@ -10476,7 +10476,7 @@
     "seo_ai_team_news_summary_explanation": {
       "comment": "Used in bottom sheet when clicking AI icon on team news summary to explain that the content is AI generated.",
       "english": "These summaries are generated by AI, based on recent news articles within FotMob. Each summary links to the article it is based upon.",
-      "value": "الملخصات دي اتولدت بالذكاء الاصطناعي، ومعتمدة على أحدث المقالات الإخبارية على فوت موب. كل ملخص بيربطك بالمقال الأصلي اللي كان أساسه."
+      "value": "تُنشأ هذه الملخصات باستخدام الذكاء الاصطناعي، استنادًا إلى أحدث المقالات الإخبارية على FotMob. ويتضمن كل ملخص رابطًا إلى المقال الذي يستند إليه."
     },
     "seo_allow_notifications": {
       "comment": "Call to action text to prompt for remote notifications",
@@ -10754,7 +10754,7 @@
     "seo_defensive_actions_per_90": {
       "comment": "Football (soccer) stat to describe how many defensive contributions a player has made per 90 minutes. A defensive contribution is an attempt to win back possession of the ball, like tackles, interceptions, clearances, and blocks. Sometimes called defensive action. See defensive_actions.",
       "english": "Defensive contributions per 90",
-      "value": "مساهمات دفاعية لكل 90"
+      "value": "مساهمات دفاعية لكل 90 دقيقة"
     },
     "seo_delayed": {
       "comment": "Displays the text delayed below a matches score",
@@ -10859,7 +10859,7 @@
     "seo_early_access_desc": {
       "comment": "A description for the \"Early access to new features\" FotMob+ feature.",
       "english": "Be the first to try FotMob’s latest updates.",
-      "value": "كن أول من يجرب أحدث تحديثات FotMob+"
+      "value": "كن أول من يجرب أحدث تحديثات FotMob."
     },
     "seo_early_access_to_new_features": {
       "comment": "One of FotMob+ benefits",
@@ -11076,12 +11076,12 @@
     "seo_fotmob_lineup_builder": {
       "comment": "Headline for the lineup builder for football teams. In Norwegian the natural translation for Lineup Builder would be \"Lagbygger\". see [lineup_builder].",
       "english": "FotMob Lineup Builder",
-      "value": "منشئ التشكيلة في فوت موب"
+      "value": "منشئ التشكيلة في FotMob"
     },
     "seo_fotmob_plus": {
       "comment": "Header that describes FotMob+",
       "english": "FotMob+",
-      "value": "FotMob+"
+      "value": "‎FotMob+‎"
     },
     "seo_fotmob_plus_pitch": {
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
@@ -11096,7 +11096,7 @@
     "seo_fotmob_weekly_top_picks": {
       "comment": "Text string of weekly top picks of football matches to be predicted. Translate for naturalness, not word-for-word accuracy. This should read like a native, editorial-style headline in the target language.",
       "english": "FotMob weekly top picks",
-      "value": "اختيارات فوت موب الأسبوعية المميزة"
+      "value": "اختيارات FotMob الأسبوعية المميزة"
     },
     "seo_free_form": {
       "comment": "An option when choosing formation in the lineup builder. Instead of classic formations like e.g. 4-4-2, the user can create his own formation using \"Free form\".",
@@ -11405,12 +11405,12 @@
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "english": "Join FotMob+ for %@ / month",
-      "value": "اشترك في FotMob+ مقابل %@ شهريًا"
+      "value": "انضم إلى ‎FotMob+‎ مقابل %@ شهريًا"
     },
     "seo_join_fotmob_plus_yearly": {
       "comment": "Description highligthing the price of the yearly FotMob+ subscription. i.e. \"Join FotMob+ for $39.99 / year\"",
       "english": "Join FotMob+ for %@ / year",
-      "value": "انضم إلى FotMob+ مقابل %@ سنويًا"
+      "value": "انضم إلى ‎FotMob+‎ مقابل %@ سنويًا"
     },
     "seo_joincode_error_generic": {
       "comment": "Fallback error message used in three places: (a) inline under the typed-code input on unexpected failures, (b) body of the full-screen \"Couldn't join the league\" error, and (c) the success-state toast equivalent doesn't exist — this is purely a generic error. Tone: brief, non-alarming, suggests retry.",
@@ -11510,7 +11510,7 @@
     "seo_lineup_builder_meta_description": {
       "comment": "Meta info description for the lineup builder. see [lineup_builder].",
       "english": "FotMob's Lineup Builder. Easily pick your starting 11 with the best formation maker. Add player faces and choose from FotMob's database of players and teams.",
-      "value": "منشئ التشكيلة في فوت موب. اختر تشكيلتك الأساسية بسهولة باستخدام أفضل صانع تشكيلات. أضف صور اللاعبين واختر من قاعدة بيانات اللاعبين والفرق في فوت موب."
+      "value": "منشئ التشكيلة في FotMob. اختر تشكيلتك الأساسية بسهولة باستخدام أفضل صانع تشكيلات. أضف صور اللاعبين واختر من قاعدة بيانات اللاعبين والفرق في FotMob."
     },
     "seo_lineup_builder_meta_title": {
       "comment": "Meta info title for the lineup builder. see [lineup_builder].",
@@ -11993,12 +11993,12 @@
     "seo_popular_in": {
       "comment": "Used in search for popular search results. Give the users country.",
       "english": "Popular in %@",
-      "value": "شهيرة في %@"
+      "value": "الأكثر شعبية في %@"
     },
     "seo_popular_in_your_country": {
       "comment": "Used in search for popular search results if we dont know the users country",
       "english": "Popular in your country",
-      "value": "شهير في دولتك"
+      "value": "الأكثر شعبية في دولتك"
     },
     "seo_popular_transfers": {
       "comment": "Title for the list of popular transfers in the transfer centre. Popular transfers are transfers above 20M euros.",
@@ -12352,7 +12352,7 @@
     "seo_resubscribe_to_keep_fotmobplus_benefits": {
       "comment": "Used for bottom sheet subtitle when subscription has expired",
       "english": "Resubscribe to keep FotMob+ benefits.",
-      "value": "أعد الاشتراك للحفاظ على مزايا FotMob+."
+      "value": "أعد الاشتراك للحفاظ على مزايا ‎FotMob+‎."
     },
     "seo_results": {
       "comment": "Short title for the dialogue showing the user's prediction scores and results so far.",
@@ -13039,7 +13039,7 @@
     "seo_support_fotmob": {
       "comment": "One of FotMob+ features",
       "english": "Support FotMob",
-      "value": "ادعم فوتموب"
+      "value": "ادعم FotMob"
     },
     "seo_support_fotmob_desc": {
       "comment": "A description for the \"Support FotMob\" FotMob+ feature.",
@@ -13178,7 +13178,7 @@
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
       "english": "Thanks for supporting us since %@! Unlock even more features with FotMob+",
-      "value": "شكرًا لدعمكم لنا منذ %@! افتحوا المزيد من الميزات مع FotMob+"
+      "value": "شكرًا لدعمك لنا منذ %@! افتح المزيد من الميزات مع ‎FotMob+‎"
     },
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -13262,12 +13262,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "تذكير سريع: تجربة FotMob+ المجانية ستنتهي خلال يومين وستتجدد تلقائيًا."
+      "value": "تذكير سريع: تجربة ‎FotMob+‎ المجانية ستنتهي خلال يومين وستتجدد تلقائيًا."
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "ستَنتهي فترة التجربة المجانية لـ FotMob+ خلال يومين."
+      "value": "ستنتهي فترة التجربة المجانية لـ ‎FotMob+‎ خلال يومين."
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",
