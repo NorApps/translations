@@ -13130,6 +13130,11 @@
       "english": "Free for the first %@ days",
       "value": "Gratis selama %@ hari pertama"
     },
+    "seo_trial_desc_first_days_cancel_anytime": {
+      "comment": "Body text of the FotMob+ promotion popup, shown below the title \"Go ad-free and more.\" It tells the user the trial is free for a number of days and that the subscription can be cancelled at any point. i.e. \"Free for the first 7 days. Cancel anytime.\"",
+      "english": "Free for the first %@ days. Cancel anytime.",
+      "value": "Gratis selama %@ hari pertama. Bisa dibatalkan kapan saja."
+    },
     "seo_trial_desc_monthly": {
       "comment": "Description explaining the recurring cost of a monthly FotMob+ subscription. i.e. \"Then $4.99 / month\"",
       "english": "Then %@ / month",
