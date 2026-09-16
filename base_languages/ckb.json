@@ -772,7 +772,7 @@
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "یاریزان %1$@ لە %2$@ یاری لە دواین %3$@'s یاری یانەی %4$@ گۆڵی تۆمار کردووە"
+      "value": "یاریزان %1$@ لە %2$@ یاری لە دواین %3$@ یاری یانەی %4$@ گۆڵی تۆمار کردووە"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -13624,7 +13624,7 @@
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
-      "value": "ئەو گواستنەوانەی ئەگەریان نزیکە"
+      "value": "گواستنەوە نزیکەکان"
     },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
@@ -13644,12 +13644,12 @@
     "transfer center_read_rumour": {
       "comment": "Button in the rumour preview sheet that opens the source article for the transfer rumour.",
       "english": "Read rumor",
-      "value": "دەنگۆکە بخوێنەرەوە"
+      "value": "خوێندنەوەی دەنگۆکە"
     },
     "transfer center_speculation_probability": {
       "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Speculative",
-      "value": "مەزەندە"
+      "value": "پێشبینیکراو"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
@@ -13759,7 +13759,7 @@
     "widget intents_veMWHi": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Dark-mode color option: use team colors.",
       "english": "Team",
-      "value": "تیم"
+      "value": "یانە"
     },
     "widget intents_yOcG33": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the FavoriteMatchesConfiguration intent.",
