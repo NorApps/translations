@@ -13158,7 +13158,7 @@
     "seo_trial_desc_first_days_cancel_anytime": {
       "comment": "Body text of the FotMob+ promotion popup, shown below the title \"Go ad-free and more.\" It tells the user the trial is free for a number of days and that the subscription can be cancelled at any point. i.e. \"Free for the first 7 days. Cancel anytime.\"",
       "english": "Free for the first %@ days. Cancel anytime.",
-      "value": "بۆ %@ ڕۆژی یەکەم بە خۆڕاییە. هەر کاتێک بێت هەڵیبوەشێنەوە."
+      "value": "بۆ %@ ڕۆژی یەکەم بە خۆڕاییە. هەر کاتێک بێت دەتوانیت ڕایبگریت."
     },
     "seo_trial_desc_monthly": {
       "comment": "Description explaining the recurring cost of a monthly FotMob+ subscription. i.e. \"Then $4.99 / month\"",
@@ -13629,7 +13629,7 @@
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
-      "value": "ئەو گواستنەوانەی ئەگەریان نزیکە"
+      "value": "گواستنەوە نزیکەکان"
     },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
@@ -13649,12 +13649,12 @@
     "transfer center_read_rumour": {
       "comment": "Button in the rumour preview sheet that opens the source article for the transfer rumour.",
       "english": "Read rumor",
-      "value": "دەنگۆکە بخوێنەرەوە"
+      "value": "خوێندنەوەی دەنگۆکە"
     },
     "transfer center_speculation_probability": {
       "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Speculative",
-      "value": "مەزەندە"
+      "value": "پێشبینیکراو"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
@@ -13764,7 +13764,7 @@
     "widget intents_veMWHi": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Dark-mode color option: use team colors.",
       "english": "Team",
-      "value": "تیم"
+      "value": "یانە"
     },
     "widget intents_yOcG33": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the FavoriteMatchesConfiguration intent.",
