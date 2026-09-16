@@ -178,7 +178,7 @@
     "accessibility_change_language_explanation": {
       "comment": "Label indicating you can change the language of the app",
       "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
-      "value": "واصل إلى \"الإعدادات\" واضغط على \"اللغة\" لتحديد لغتك المفضلة في FotMob.\\n\\nإذا لم يكن إعداد اللغة متاحًا، فانتقل إلى إعدادات اللغة بجهازك لتعيين اللغة المفضلة أولاً."
+      "value": "واصل إلى \"الإعدادات\" واضغط على \"اللغة\" لتحديد لغتك المفضلة في FotMob.\\n\\nإذا لم يكن إعداد اللغة متاحًا، فانتقل إلى إعدادات اللغة بجهازك لتعيين اللغة المفضلة أولًا."
     },
     "accessibility_city": {
       "comment": "Text shown for venue on a match if do not have a link to it.",
@@ -626,7 +626,7 @@
     "accessibility_insights_bad_form_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have lost their last 7 matches",
       "english": "Have lost their last %1$@ matches",
-      "value": "قد خسر آخر %1$@ مبارايات"
+      "value": "قد خسر آخر %1$@ مباريات"
     },
     "accessibility_insights_best_away": {
       "comment": "The team is ranked some number for away games this season. Example: \"Ranked 3rd away from home this season\"",
@@ -661,7 +661,7 @@
     "accessibility_insights_goalless_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't scored in their last 4 matches",
       "english": "Haven't scored in their last %1$@ matches",
-      "value": "لم يسجل أهداف في آخر %1$@ مبارايات"
+      "value": "لم يسجل أهدافًا في آخر %1$@ مباريات"
     },
     "accessibility_insights_goals_conceded_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [2nd] in goals conceded per match ([0.7] goals)",
@@ -676,12 +676,12 @@
     "accessibility_insights_goals_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
       "english": "Have scored %1$@ goals in their last %2$@ matches",
-      "value": "سجل %1$@ أهداف في آخر %2$@ مبارايات"
+      "value": "سجل %1$@ أهداف في آخر %2$@ مباريات"
     },
     "accessibility_insights_gone_without_win": {
       "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
       "english": "Have gone %1$@ matches without a win",
-      "value": "قد واصل %1$@ مبارايات دون فوز"
+      "value": "قد واصل %1$@ مباريات دون فوز"
     },
     "accessibility_insights_good_form_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Have won their last 7 matches.",
@@ -691,7 +691,7 @@
     "accessibility_insights_lost_last_matches": {
       "comment": "The team has lost a particular number of consecutive matches. Example: \"Have lost their 5 last matches\"",
       "english": "Have lost their last %1$@ matches",
-      "value": "قد خسر آخر %1$@ مبارايات"
+      "value": "قد خسر آخر %1$@ مباريات"
     },
     "accessibility_insights_not_clean_sheet": {
       "comment": "The team has not kept a clean sheet (conceded at least one goal) for a particular number of matches. Example: \"Haven't kept a clean sheet in 7 matches\"",
@@ -771,12 +771,12 @@
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ consecutive matches",
-      "value": "%1$@ قد أحرز أهدافاً في %2$@ مبارايات متتالية"
+      "value": "%1$@ قد أحرز أهدافًا في %2$@ مباريات متتالية"
     },
     "accessibility_insights_player_scored_x_in_y": {
       "comment": "A player has scored in X of a team's last Y matches. Example: \"[Erling Haaland] has scored in [6] of [Dortmund]'s last [7] matches\" where text inside brackets ([xxx]) are variables",
       "english": "%1$@ has scored in %2$@ of %3$@'s last %4$@ matches",
-      "value": "%1$@ قد أحرز أهدافاً في %2$@ من آخر %4$@ مبارايات %3$@"
+      "value": "%1$@ قد أحرز أهدافًا في %2$@ من آخر %4$@ مباريات %3$@"
     },
     "accessibility_insights_rank_in_competition": {
       "comment": "The team is ranked an ordinal number in a particular stat in the competition/league. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] in the competition ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -806,7 +806,7 @@
     "accessibility_insights_undefeated": {
       "comment": "The team has gone a particular number of matches without losing. Example: \"Undefeated in 7 matches\"",
       "english": "Undefeated in %1$@ matches",
-      "value": "لم يُهزم في %1$@ مبارايات"
+      "value": "لم يُهزم في %1$@ مباريات"
     },
     "accessibility_insights_undefeated_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Haven't lost in 12 matches",
@@ -2574,7 +2574,7 @@
     },
     "common_access_calendar_needed": {
       "english": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar",
-      "value": "يجب عليك منح الدخول لـ FotMob للتقويم لتكون قادراً على إضافة المباراة إلى التقويم"
+      "value": "يجب عليك منح الدخول لـ FotMob للتقويم لتكون قادرًا على إضافة المباراة إلى التقويم"
     },
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
@@ -2758,7 +2758,7 @@
     "common_allow_tracking_body": {
       "comment": "The description for the popup asking for user's permission to track data",
       "english": "This lets us show you personalized ads, which keeps FotMob free for you.",
-      "value": "يتيح لنا ذلك عرض إعلانات مخصصة لك، مما يجعل FotMob مجانياً لك."
+      "value": "يتيح لنا ذلك عرض إعلانات مخصصة لك، مما يجعل FotMob مجانيًا لك."
     },
     "common_allow_tracking_confirmation_body": {
       "comment": "Extra description in the system-dialogue for usage-tracking",
@@ -2768,7 +2768,7 @@
     "common_allow_tracking_header": {
       "comment": "The header for the popup asking for user's permission to track data",
       "english": "Please tap \"Allow tracking\" on the next screen",
-      "value": "فضلاً اضغط على \"السماح بالتتبع\" على الشاشة التالية"
+      "value": "فضلًا اضغط على \"السماح بالتتبع\" على الشاشة التالية"
     },
     "common_always": {
       "english": "Always",
@@ -3303,7 +3303,7 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>جميع البيانات يتم حسابها باستخدام الإحصائيات المقدمة من أوبتا.</p><p>يتم احتساب تقييم اللاعب في FotMob بناءً على أكثر من 100 إحصائية فردية لكل لاعب في كل مباراة.</p><p>تُحتسب أي مباراة ضمن تقييمات «لكل مباراة» إذا كان اللاعب قد شارك فيها، حتى وإن دخل بديلاً في الدقائق الأخيرة.</p><p>يجب أن يكون اللاعب قد شارك في ما لا يقل عن 50% من جميع المباريات وأن يكون قد لعب ما لا يقل عن 90 دقيقة (لإحصائيات «لكل 90 دقيقة») ليتم إدراجه في التصنيفات.</p>"
+      "value": "<p>جميع البيانات يتم حسابها باستخدام الإحصائيات المقدمة من أوبتا.</p><p>يتم احتساب تقييم اللاعب في FotMob بناءً على أكثر من 100 إحصائية فردية لكل لاعب في كل مباراة.</p><p>تُحتسب أي مباراة ضمن تقييمات «لكل مباراة» إذا كان اللاعب قد شارك فيها، حتى وإن دخل بديلًا في الدقائق الأخيرة.</p><p>يجب أن يكون اللاعب قد شارك في ما لا يقل عن 50% من جميع المباريات وأن يكون قد لعب ما لا يقل عن 90 دقيقة (لإحصائيات «لكل 90 دقيقة») ليتم إدراجه في التصنيفات.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
@@ -4122,7 +4122,7 @@
         "other": "Scored %d own goals"
       },
       "plurals": {
-        "few": "سجّل %d أهدافًا في مرماه",
+        "few": "سجّل %d أهداف في مرماه",
         "many": "سجّل %d هدفًا في مرماه",
         "one": "سجّل هدفًا في مرماه",
         "other": "سجّل %d هدفًا في مرماه",
@@ -4458,7 +4458,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "انضم إلى نادي داعمي FotMob لإزالة الإعلانات التي نتحكم بها، لتجربة FotMob أسرع وبدون تشتيت. دعمك يساعدنا على مواصلة تحسين FotMob. لاحظ أنه إذا نقرت على مقال إخباري من جهة خارجية، فلا يمكننا التحكم في الإعلانات التي يعرضونها على موقعهم الإلكتروني. شكراً على دعمك!"
+      "value": "انضم إلى نادي داعمي FotMob لإزالة الإعلانات التي نتحكم بها، لتجربة FotMob أسرع وبدون تشتيت. دعمك يساعدنا على مواصلة تحسين FotMob. لاحظ أنه إذا نقرت على مقال إخباري من جهة خارجية، فلا يمكننا التحكم في الإعلانات التي يعرضونها على موقعهم الإلكتروني. شكرًا على دعمك!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -4601,7 +4601,7 @@
     "common_last_away_matches": {
       "comment": "Header for form table for away matches of the team",
       "english": "Last away matches",
-      "value": "آخر مبارايات خارجية"
+      "value": "آخر مباريات خارجية"
     },
     "common_last_home_matches": {
       "comment": "Header for form table for home matches of the team",
@@ -4736,7 +4736,7 @@
     "common_legacy_gold_member": {
       "comment": "This is in a info message for people that already bought FotMob but we offer them to also do a subscription.",
       "english": "You have a lifetime membership with FotMob, but if you want you can now sign up for a subscription. Your support helps us continue to make FotMob better. Thanks for your support!",
-      "value": "لديك عضوية مدى الحياة في FotMob، ولكن إذا أردت يمكنك الآن الاشتراك للحصول على اشتراك. دعمك يساعدنا على أن يصبح FotMob أفضل. شكراً على دعمك!"
+      "value": "لديك عضوية مدى الحياة في FotMob، ولكن إذا أردت يمكنك الآن الاشتراك للحصول على اشتراك. دعمك يساعدنا على أن يصبح FotMob أفضل. شكرًا على دعمك!"
     },
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
@@ -5026,7 +5026,7 @@
     "common_never_miss_a_headline": {
       "comment": "Title in onboarding for team news alert",
       "english": "Never miss a headline",
-      "value": "لا تُفوت خبراً أبداً"
+      "value": "لا تُفوّت خبرًا أبدًا"
     },
     "common_new_leagues": {
       "english": "New leagues available",
@@ -5275,7 +5275,7 @@
     "common_onboarding_news_content": {
       "comment": "A full description of the onboarding popup, which explains that we've just released a new news page",
       "english": "A more personalized news feed, official highlights, and more.",
-      "value": "موجز إخباري أكثر تخصيصاً وعناوين رسمية وغير ذلك الكثير."
+      "value": "موجز إخباري أكثر تخصيصًا وعناوين رسمية وغير ذلك الكثير."
     },
     "common_onboarding_news_title": {
       "comment": "A title in the onboarding popup, which explains that we've just released a new news page",
@@ -5455,7 +5455,7 @@
     "common_pinch_zoom": {
       "comment": "The user can do a so called \"pinch\" gesture to show or hide all the matches in the leagues. This is similar to using to fingers and zooming in on things in various apps.",
       "english": "TIP: You can also do the pinch gesture directly on the leagues to expand and collapse all the leagues",
-      "value": "نصيحة: يمكنك أيضاً استخدام اصبعيك مباشرة على الدوريات لتوسيع وطي كل الدوريات"
+      "value": "نصيحة: يمكنك أيضًا استخدام إصبعيك مباشرة على الدوريات لتوسيع وطي كل الدوريات"
     },
     "common_place_bet_cta": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet\" or \"Place bet\" but keep it short!",
@@ -5927,7 +5927,7 @@
     "common_see_all_stories": {
       "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
       "english": "See more %@ news",
-      "value": "شاهد مزيداً من أخبار %@"
+      "value": "شاهد مزيدًا من أخبار %@"
     },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
@@ -6374,7 +6374,7 @@
     "common_thank_you_for_being_a_member": {
       "comment": "A body for the Thank-you-for-supporting-us popup",
       "english": "Thank you from all of us at FotMob for being a member.",
-      "value": "نحن جميعاً نشكرك في FotMob على عضويتك."
+      "value": "نحن جميعًا نشكرك في FotMob على عضويتك."
     },
     "common_theme": {
       "comment": "Asks users to choose a Theme for the app. The Theme can either be \"Dark\" or \"Light\"",
@@ -6471,7 +6471,7 @@
     },
     "common_tomorrow": {
       "english": "Tomorrow",
-      "value": "غداً"
+      "value": "غدًا"
     },
     "common_too_many_alerts": {
       "comment": "Warning that the user has set too many notifications and needs to remove some of them.",
@@ -6486,7 +6486,7 @@
     "common_top_rated": {
       "comment": "Label for the top rated player in the Team Profile",
       "english": "Top rated",
-      "value": "الأعلى تقييماً"
+      "value": "الأعلى تقييمًا"
     },
     "common_top_scorer": {
       "comment": "Label for the top scorer player in the Team Profile",
@@ -6805,7 +6805,7 @@
     "common_welcome_to_supporters_club": {
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
-      "value": "مرحباً بك في نادي المشجعين!"
+      "value": "مرحبًا بك في نادي المشجعين!"
     },
     "common_welcome_transfer_center": {
       "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
@@ -7089,7 +7089,7 @@
     },
     "ios_buy_premium_first": {
       "english": "You must buy premium version first",
-      "value": "يجب عليك شراء النسخة المميزة أولاً"
+      "value": "يجب عليك شراء النسخة المميزة أولًا"
     },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
@@ -7264,7 +7264,7 @@
     "ios_player_sub_in_minute": {
       "comment": "VoiceOver label for a lineup substitution. %@ is the localized ordinal minute number, e.g. \"Subbed on in the [74th] minute\" where the bracketed ordinal is the variable.",
       "english": "Subbed on in the %@ minute",
-      "value": "دخل بديلاً في الدقيقة %@"
+      "value": "دخل بديلًا في الدقيقة %@"
     },
     "ios_player_sub_out_minute": {
       "comment": "VoiceOver label for a lineup substitution. %@ is the localized ordinal minute number, e.g. \"Subbed off in the [74th] minute\" where the bracketed ordinal is the variable.",
@@ -7385,7 +7385,7 @@
     "ltc accessibility_ltc_accessibility_add_reaction_hint": {
       "comment": "VoiceOver hint for the merged reactions element in live text commentary. Describes what happens when the element is activated.",
       "english": "Double tap to add reaction",
-      "value": "انقر نقراً مزدوجاً لإضافة تفاعل"
+      "value": "انقر نقرًا مزدوجًا لإضافة تفاعل"
     },
     "ltc accessibility_ltc_accessibility_elapsed_minutes": {
       "comment": "VoiceOver label for elapsed match time in live text commentary. Placeholder is already formatted match time, for example \"90+4\", so the full label reads \"90+4 minutes\". Use the numeric total minute count for plural selection.",
@@ -8531,7 +8531,7 @@
     },
     "notifications_dont_show_again": {
       "english": "Don't show again",
-      "value": "لا تعرض مجدداً"
+      "value": "لا تعرض مجددًا"
     },
     "notifications_dribbles_attempted": {
       "english": "Dribbles attempted",
@@ -8603,12 +8603,12 @@
     "notifications_error_unable_to_open_search_hit": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible click a search result like league/team/player/article",
       "english": "Unable to open search hit. Please try again later.",
-      "value": "تعذّر فتح عنصر البحث. يرجى إعادة المحاولة لاحقاً."
+      "value": "تعذّر فتح عنصر البحث. يرجى إعادة المحاولة لاحقًا."
     },
     "notifications_error_unable_to_toggle_favorite": {
       "comment": "(Uncommon) error message used if there were to be some problems with the data returned from search result that makes it impossible to toggle a league/team/player as favorite",
       "english": "Unable toggle favorite. Please try again later.",
-      "value": "تعذّر تبديل المفضلات. يرجى إعادة المحاولة لاحقاً."
+      "value": "تعذّر تبديل المفضلات. يرجى إعادة المحاولة لاحقًا."
     },
     "notifications_estonia": {
       "english": "Estonia",
@@ -8779,7 +8779,7 @@
     "notifications_hello_how_can_we_help_you": {
       "comment": "support screen headline (\\n for line break)",
       "english": "Hello,\\nhow can we help you?",
-      "value": "مرحباً،\\nكيف يمكننا مساعدتك؟"
+      "value": "مرحبًا،\\nكيف يمكننا مساعدتك؟"
     },
     "notifications_hong_kong": {
       "comment": "Country name used in tv guide page on web",
@@ -9034,7 +9034,7 @@
     },
     "notifications_injury_29": {
       "english": "Toe injury",
-      "value": "اصابة أصبع القدم"
+      "value": "إصابة أصبع القدم"
     },
     "notifications_injury_30": {
       "english": "Ankle injury",
@@ -9050,7 +9050,7 @@
     },
     "notifications_injury_33": {
       "english": "Elbow injury",
-      "value": "اصابة بالكوع"
+      "value": "إصابة بالكوع"
     },
     "notifications_injury_34": {
       "english": "Wrist injury",
@@ -9062,7 +9062,7 @@
     },
     "notifications_injury_36": {
       "english": "Finger injury",
-      "value": "إصابه الاصبع"
+      "value": "إصابة الإصبع"
     },
     "notifications_injury_37": {
       "english": "Broken jaw",
@@ -9078,7 +9078,7 @@
     },
     "notifications_injury_40": {
       "english": "Sprained toe",
-      "value": "التواء اصبع القدم"
+      "value": "التواء إصبع القدم"
     },
     "notifications_injury_41": {
       "english": "Sprained foot",
@@ -9114,7 +9114,7 @@
     },
     "notifications_injury_52": {
       "english": "Sprained finger",
-      "value": "التواء بالاصبع"
+      "value": "التواء بالإصبع"
     },
     "notifications_injury_53": {
       "english": "Sprained hand",
@@ -9523,7 +9523,7 @@
     "notifications_no_variant_1": {
       "comment": "Used for rating dialog",
       "english": "Not really",
-      "value": "ليس صحيحاً"
+      "value": "ليس صحيحًا"
     },
     "notifications_no_variant_2": {
       "comment": "Used for rating dialog, button label so keep it short",
@@ -9665,7 +9665,7 @@
     "notifications_player_sub_in": {
       "comment": "Messi has been subbed on.",
       "english": "%@ has been subbed on.",
-      "value": "%@ دخل بديلاً."
+      "value": "%@ دخل بديلًا."
     },
     "notifications_player_sub_in_short": {
       "comment": "Label indicating the player was substituted in. Header: Messi Content: Subbed on",
@@ -10303,7 +10303,7 @@
     },
     "notifications_your_content_has_never_been_synced": {
       "english": "Your content has not been synced yet. Please sign out and in again if the problem persists.",
-      "value": "لم تتم مزامنة محتواك حتى الآن . الرجاء تسجيل الخروج و ثم العودة مجدداً إذا استمرت المشكلة."
+      "value": "لم تتم مزامنة محتواك حتى الآن. الرجاء تسجيل الخروج ثم العودة مجددًا إذا استمرت المشكلة."
     },
     "notifications_youth_career": {
       "english": "Youth career",
@@ -10416,7 +10416,7 @@
     "seo_ad_quality_hint": {
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
-      "value": "يرجى مشاركة تفاصيل الإعلان، مثل المعلن، الشاشة التي ظهر عليها، الفيديو أو الصورة، وما وجدته مشكلاً."
+      "value": "يرجى مشاركة تفاصيل الإعلان، مثل المعلن، الشاشة التي ظهر عليها، الفيديو أو الصورة، وما وجدته مشكلًا."
     },
     "seo_add_alternative": {
       "comment": "Button text for a button that adds an alternative field to the form.",
@@ -10934,7 +10934,7 @@
     "seo_expert_title_description": {
       "comment": "Field description text for the Expert title field. Shows an example of what to use as input to the expert title field.",
       "english": "(e.g. \"Speaking on Sky Sports\", \"Bundesliga expert\")",
-      "value": "(مثلاً: \"يتحدث عبر سكاي سبورتس\"، \"خبير الدوري الألماني\")"
+      "value": "(مثلًا: \"يتحدث عبر سكاي سبورتس\"، \"خبير الدوري الألماني\")"
     },
     "seo_expert_title_label": {
       "comment": "Label text for the Expert title field. Label indicating that input should be a title or explanation of who the expert that said or wrote the content text is. Or which publication the expert works for. Or which role the expert has. Only use one word.",
@@ -10966,7 +10966,7 @@
     "seo_expires_tomorrow": {
       "comment": "Used to indicate when the subscription is expiring tomorrow. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "english": "Expires tomorrow",
-      "value": "ينتهي غداً"
+      "value": "ينتهي غدًا"
     },
     "seo_failed_removed_user_from_league": {
       "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
@@ -10981,7 +10981,7 @@
     "seo_family_monthly": {
       "comment": "Describing the duration for the monthly family FotMob+ subscription option.",
       "english": "Family Monthly",
-      "value": "اشتراك عائلي شهرياً"
+      "value": "اشتراك عائلي شهريًا"
     },
     "seo_fan_name_label": {
       "comment": "Label text for the Fan take author field. Indicate that input should only be the first name of the football fan that said or wrote the content. See fan_type_description.",
@@ -11156,7 +11156,7 @@
     "seo_h2h_summary": {
       "comment": "Text summarisng the outcomes of the previous matches between the two teams. With parameters in order; home team name, number of home team wins, away team name, number of away team wins and number or draws.",
       "english": "The current head to head record for the teams are %1$@ %2$@ win(s), %3$@ %4$@ win(s), and %5$@ draw(s).",
-      "value": "السجل الحالي وجهاً لوجه للفرق هو %1$@ %2$@ فوز(أو انتصار)، %3$@ %4$@ فوز(أو انتصار) و %5$@ تعادل(تعادلات)."
+      "value": "السجل الحالي وجهًا لوجه للفرق هو %1$@ %2$@ فوز، %3$@ %4$@ فوز و %5$@ تعادل(تعادلات)."
     },
     "seo_heatmap": {
       "comment": "Label for a section showing a player heatmap",
@@ -12322,7 +12322,7 @@
     "seo_renews_tomorrow": {
       "comment": "Used to indicate when the subscription will renew tomorrow. We need this string in addition to the plural string \"renews_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "english": "Renews tomorrow",
-      "value": "يتجدد غداً"
+      "value": "يتجدد غدًا"
     },
     "seo_reopen_poll": {
       "comment": "Button text for the button that opens the poll and makes it possible to vote on it for 5 more minutes.",
@@ -12909,7 +12909,7 @@
     "seo_site_title_team_stats": {
       "comment": "SEO title for team stats page showing different football statistics. %@ is the team name",
       "english": "%@ - top rated players, goals, assists and other stats",
-      "value": "%@ - أفضل اللاعبين تقييماً، الأهداف، التمريرات الحاسمة وإحصائيات أخرى"
+      "value": "%@ - أفضل اللاعبين تقييمًا، الأهداف، التمريرات الحاسمة وإحصائيات أخرى"
     },
     "seo_site_title_team_stats_teams": {
       "comment": "Title for the page showing stats for the entire team compared to other teams. What teams have scored the most goals, keept most clean sheets etc.",
