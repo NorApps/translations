@@ -9268,6 +9268,11 @@
       "english": "Live",
       "value": "În direct"
     },
+    "notifications_live_short": {
+      "comment": "Compact label for the live filter in the Matches header. It must render no wider than 'Ao vivo', so prefer an established short form over a literal translation.",
+      "english": "Live",
+      "value": "Direct"
+    },
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
       "english": "You have been logged out. Please log in again so that we can continue keeping your favorites and settings safe.",
