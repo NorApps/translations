@@ -9253,7 +9253,7 @@
     "notifications_live_short": {
       "comment": "Compact label for the live filter in the Matches header. It must render no wider than 'Ao vivo', so prefer an established short form over a literal translation.",
       "english": "Live",
-      "value": "Live"
+      "value": "ڕاستەوخۆ"
     },
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
@@ -13634,7 +13634,7 @@
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
-      "value": "ئەو گواستنەوانەی ئەگەریان نزیکە"
+      "value": "نزیکترین گواستنەوەکان"
     },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
@@ -13659,7 +13659,7 @@
     "transfer center_speculation_probability": {
       "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Speculative",
-      "value": "مەزەندە"
+      "value": "پێشبینیکراو"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
