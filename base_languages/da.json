@@ -5087,8 +5087,8 @@
       "value": "Ingen kampe på TV"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Ingen tv-programmer"
+      "english": "No TV schedules selected",
+      "value": "Ingen tv-programmer valgt"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

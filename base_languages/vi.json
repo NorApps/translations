@@ -5073,8 +5073,8 @@
       "value": "Không trận đấu nào được tường thuật"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Không có lịch phát sóng TV"
+      "english": "No TV schedules selected",
+      "value": "Chưa chọn lịch phát sóng TV"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

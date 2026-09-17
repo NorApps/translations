@@ -5123,8 +5123,8 @@
       "value": "Нет матчей в ТВ программе"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Без ТВ программы"
+      "english": "No TV schedules selected",
+      "value": "ТВ программа не выбрана"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

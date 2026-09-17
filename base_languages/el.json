@@ -5087,8 +5087,8 @@
       "value": "Δεν υπάρχουν διαθέσιμοι αγώνες στην τηλεόραση"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Χωρίς προγράμματα τηλεόρασης"
+      "english": "No TV schedules selected",
+      "value": "Δεν έχουν επιλεγεί προγράμματα τηλεόρασης"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

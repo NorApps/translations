@@ -5087,8 +5087,8 @@
       "value": "No hay partidos en directo"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "No hay programación de TV"
+      "english": "No TV schedules selected",
+      "value": "No hay programación de TV seleccionada"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

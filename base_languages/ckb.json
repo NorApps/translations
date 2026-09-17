@@ -5088,8 +5088,8 @@
       "value": "هیچ یاریەک لە پەخشدا نیە"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "هیچ خشتەیەکی تەلەفزیۆنی نیە"
+      "english": "No TV schedules selected",
+      "value": "هیچ خشتەیەکی تەلەفزیۆنی هەڵنەبژێردراوە"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

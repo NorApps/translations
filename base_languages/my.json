@@ -5074,8 +5074,8 @@
       "value": "တီဗွီတွင် ပွဲစဉ်များမပြပါ"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "တီဗွီ အစီအစဉ်များ မရှိပါ"
+      "english": "No TV schedules selected",
+      "value": "တီဗွီ အစီအစဉ်များ ရွေးချယ်ထားခြင်း မရှိပါ"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

@@ -5147,8 +5147,8 @@
       "value": "لا توجد مباريات على الهواء"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "لا توجد جداول تلفزيونية"
+      "english": "No TV schedules selected",
+      "value": "لم يتم اختيار أي جداول تلفزيونية"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

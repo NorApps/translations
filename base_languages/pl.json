@@ -5121,8 +5121,8 @@
       "value": "Brak transmitowanych meczów"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Brak programu TV"
+      "english": "No TV schedules selected",
+      "value": "Nie wybrano programu TV"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

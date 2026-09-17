@@ -5088,8 +5088,8 @@
       "value": "Nessun incontro in TV"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Nessuna programmazione TV"
+      "english": "No TV schedules selected",
+      "value": "Nessuna programmazione TV selezionata"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

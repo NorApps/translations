@@ -5079,8 +5079,8 @@
       "value": "هیچ مسابقه ای در حال پخش نمی‌باشد"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "خاموش"
+      "english": "No TV schedules selected",
+      "value": "هیچ برنامه تلویزیونی انتخاب نشده است"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

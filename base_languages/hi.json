@@ -5087,8 +5087,8 @@
       "value": "टीवी पर कोई मैच नहीं"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "कोई टीवी शेड्यूल नहीं"
+      "english": "No TV schedules selected",
+      "value": "कोई टीवी शेड्यूल चयनित नहीं"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

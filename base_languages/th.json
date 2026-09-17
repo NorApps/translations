@@ -5073,8 +5073,8 @@
       "value": "ไม่มีแมตช์ที่ถ่ายทอดอยู่"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "ไม่มีผังรายการทีวี"
+      "english": "No TV schedules selected",
+      "value": "ไม่ได้เลือกผังรายการทีวี"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

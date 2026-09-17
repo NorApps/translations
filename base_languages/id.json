@@ -5073,8 +5073,8 @@
       "value": "Tidak ada siaran pertandingan"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Tidak ada jadwal TV"
+      "english": "No TV schedules selected",
+      "value": "Tidak ada jadwal TV yang dipilih"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

@@ -5087,8 +5087,8 @@
       "value": "Hakuna mechi zinazoonyeshwa"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "Hakuna ratiba za TV"
+      "english": "No TV schedules selected",
+      "value": "Hakuna ratiba za TV zilizochaguliwa"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",

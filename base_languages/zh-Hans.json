@@ -5074,8 +5074,8 @@
       "value": "无该比赛直播"
     },
     "common_no_tv_selected": {
-      "english": "No TV schedules",
-      "value": "无电视节目表"
+      "english": "No TV schedules selected",
+      "value": "未选择电视节目表"
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
