@@ -462,7 +462,7 @@
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
       "english": "Fouls won",
-      "value": "Vunnede frispark"
+      "value": "Vunne frispark"
     },
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
@@ -1439,7 +1439,7 @@
     "accessibility_overall_table": {
       "comment": "String indicating that we will show a complete standings table with including both Home & Away matches. User can filter to only include Home or only Away. Can be translated as \"All\" as well.",
       "english": "Overall",
-      "value": "Begge"
+      "value": "Totalt"
     },
     "accessibility_overhead_kick": {
       "comment": "Overhead kick of bicycle kick. Description is here https://en.wikipedia.org/wiki/Bicycle_kick.  is an acrobatic strike where a player kicks an airborne ball rearward in midair. It is achieved by throwing the body backward up into the air and, before descending to the ground, making a shearing movement with the lower limbs to get the ball-striking leg in front of the other. In most languages, the manoeuvre is named after either the cycling motion or the scissor motion that it resembles.",
@@ -1621,7 +1621,7 @@
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
       "english": "Possession",
-      "value": "Ballinnhav"
+      "value": "Ballbesittelse"
     },
     "accessibility_post": {
       "comment": "A shot result description (hit the post)",
@@ -2648,7 +2648,7 @@
     },
     "common_afterextra": {
       "english": "After extra time",
-      "value": "Ferdig etter ekstraomganger"
+      "value": "Etter ekstraomganger"
     },
     "common_afterextratime_short": {
       "english": "AET",
@@ -3770,7 +3770,7 @@
     },
     "common_finished": {
       "english": "Full time",
-      "value": "Ferdig"
+      "value": "Slutt"
     },
     "common_first_scorer": {
       "english": "First scorer",
@@ -5115,7 +5115,7 @@
     },
     "common_not_won_away": {
       "english": "%1$@ haven't won an away game in their last %2$@ matches.",
-      "value": "%1$@ har ikke vunnet en bortekamp de %2$@ siste forsøkene."
+      "value": "%1$@ har ikke vunnet en bortekamp de %2$@ siste kampene."
     },
     "common_not_won_both": {
       "english": "%1$@ haven't won a match in their last %3$@ attempts, and %2$@ in their last %4$@.",
@@ -7149,14 +7149,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Her finner du innstillinger, varsler, TV-oversikt og overgangssenteret."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Flest rød kort"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Flest gule kort"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7510,10 +7502,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Se igjennom lagene og varslene"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Høydepunkter"
     },
     "new_finalTournament": {
       "english": "Final",
@@ -7987,7 +7975,7 @@
     },
     "notifications_alert_Aborted": {
       "english": "%@ %@-%@ %@\\nAborted",
-      "value": "%@ %@-%@ %@\\nKampen er avbrytt"
+      "value": "%@ %@-%@ %@\\nKampen er avbrutt"
     },
     "notifications_alert_AfterExtraTime": {
       "english": "%@ %@-%@ %@\\nFinished after extra time",
@@ -8813,7 +8801,7 @@
     },
     "notifications_injury_118": {
       "english": "Medial Collateral Ligament injury",
-      "value": "Korsbåndskade"
+      "value": "Skade i indre sidebånd"
     },
     "notifications_injury_119": {
       "english": "Mouth injury",
@@ -9033,7 +9021,7 @@
     },
     "notifications_injury_71": {
       "english": "Ligament injury",
-      "value": "Korsbåndskade"
+      "value": "Leddbåndsskade"
     },
     "notifications_injury_73": {
       "english": "Achilles tendon injury",
@@ -9049,7 +9037,7 @@
     },
     "notifications_injury_76": {
       "english": "Cruciate ligament injury",
-      "value": "Korsbåndskade"
+      "value": "Korsbåndsskade"
     },
     "notifications_injury_77": {
       "english": "Rib injury",
@@ -9506,7 +9494,7 @@
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
-      "value": "Vunnet straffespark"
+      "value": "Tildelte straffespark"
     },
     "notifications_philippines": {
       "comment": "Country name used in tv guide page on web",

@@ -7134,14 +7134,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Bạn có thể tìm cài đặt, thông báo, lịch phát sóng TV và trung tâm chuyển nhượng ở đây."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Nhiều thẻ đỏ nhất"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Nhiều thẻ vàng nhất"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7493,10 +7485,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Xem lại đội bóng yêu thích của bạn và thiết lập thông báo"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Video nổi bật"
     },
     "new_finalTournament": {
       "english": "Final",

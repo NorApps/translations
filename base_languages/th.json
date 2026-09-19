@@ -7134,14 +7134,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "คุณสามารถค้นหาการตั้งค่า การแจ้งเตือน ตารางรายการทีวี และศูนย์การย้ายทีมได้ที่นี่"
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "ใบแดงสูงสุด"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "ใบเหลืองสูงสุด"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7493,10 +7485,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "ตรวจทานทีมที่คุณชอบและตั้งค่าการแจ้งเตือน"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "วิดีโอเด่น"
     },
     "new_finalTournament": {
       "english": "Final",

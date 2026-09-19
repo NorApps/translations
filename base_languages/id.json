@@ -7134,14 +7134,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Di sini Anda dapat menemukan pengaturan, notifikasi, jadwal TV, dan pusat transfer."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Kartu merah terbanyak"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Kartu kuning terbanyak"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7493,10 +7485,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Tinjau tim favoritmu dan atur pemberitahuan"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Video unggulan"
     },
     "new_finalTournament": {
       "english": "Final",

@@ -7149,14 +7149,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Hapa unaweza kupata mipangilio, arifa, ratiba za TV, na kituo cha uhamisho."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Kadi Nyekundu nyingi"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Kadi nyingi za manjano"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7509,10 +7501,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Kagua timbe unazopenda na weka arifa"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Video zilizochaguliwa"
     },
     "new_finalTournament": {
       "english": "Final",

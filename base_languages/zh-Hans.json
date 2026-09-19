@@ -7135,14 +7135,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "您可以在此找到设置、通知、电视节目表和转会中心。"
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "最多红牌"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "最多黄牌"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7494,10 +7486,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "查看您喜欢的球队并创建提醒"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "精选视频"
     },
     "new_finalTournament": {
       "english": "Final",

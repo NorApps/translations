@@ -7187,14 +7187,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Здесь вы можете найти настройки, уведомления, телепрограмму и центр трансферов."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Красные карточки"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Желтые карточки"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7552,10 +7544,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Обзор ваших любимых команд и настройка уведомлений"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Популярное"
     },
     "new_finalTournament": {
       "english": "Final",

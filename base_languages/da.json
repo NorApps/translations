@@ -7149,14 +7149,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Her kan du finde indstillinger, notifikationer, tv-oversigt og transfercenteret."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Flest røde kort"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Flest gule kort"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7510,10 +7502,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Gennemse de hold du vil følge og vælg notifikationer"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Fremhævede videoer"
     },
     "new_finalTournament": {
       "english": "Final",

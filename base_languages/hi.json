@@ -7149,14 +7149,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "आप यहाँ सेटिंग्स, सूचनाएँ, टीवी-शेड्यूल और ट्रांसफर सेंटर पा सकते हैं।"
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "सर्वाधिक रेड कार्ड्स"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "सर्वाधिक यलो कार्ड्स"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7510,10 +7502,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "अपनी पसंदीदा टीमों का रिव्यू करो और अलर्ट सेट करो"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "फीचर किए वीडियो"
     },
     "new_finalTournament": {
       "english": "Final",

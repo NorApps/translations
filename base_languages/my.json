@@ -7135,14 +7135,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "ဤနေရာတွင် ဆက်တင်များ၊ အသိပေးချက်များ၊ တီဗွီ အစီအစဉ်များနှင့် လွှဲပြောင်းမှု ဌာနကို ရှာဖွေနိုင်သည်။"
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "အနီကတ် အများဆုံး"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "အဝါကတ် အများဆုံး"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7494,10 +7486,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "သင့်စိတ်ကြိုက်အသင်းများကို ပြန်ဆန်းစစ်ပြီး သတိပေးချက်များ ထည့်ပါ"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "ဦးစားပေး ဗွီဒီယိုများ"
     },
     "new_finalTournament": {
       "english": "Final",

@@ -7149,14 +7149,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Burada ayarlar, bildirimler, TV programları ve transfer merkezi bulabilirsiniz."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "En çok kırmızı kart gören"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "En çok sarı kart gören"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7509,10 +7501,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Favori takımlarınızı inceleyin ve alarm kurun"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Öne çıkan videolar"
     },
     "new_finalTournament": {
       "english": "Final",

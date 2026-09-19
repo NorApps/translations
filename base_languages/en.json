@@ -5596,12 +5596,6 @@
       "comment": "Popover tip for the more menu.",
       "value": "You can find settings, notifications, TV schedules, and the transfer center here."
     },
-    "ios_most_red": {
-      "value": "Most red cards"
-    },
-    "ios_most_yellow": {
-      "value": "Most yellow cards"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "value": "Next shot"
@@ -5876,9 +5870,6 @@
     "new_favorite_summary": {
       "comment": "Summary info text",
       "value": "Review your favorite teams and set alerts"
-    },
-    "new_featured_videos": {
-      "value": "Featured videos"
     },
     "new_finalTournament": {
       "value": "Final"

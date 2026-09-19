@@ -7136,14 +7136,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "ここで設定、通知、テレビ番組表、移籍センターを確認できます。"
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "最多レッドカード数"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "最多イエローカード数"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7495,10 +7487,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "お気に入りのチームを確認してアラートを設定します"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "おすすめ動画"
     },
     "new_finalTournament": {
       "english": "Final",

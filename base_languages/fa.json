@@ -7141,14 +7141,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "در اینجا می‌توانید تنظیمات، اعلان‌ها، برنامه‌های تلویزیونی و مرکز نقل و انتقالات را پیدا کنید."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "بیشترین کارت قرمز"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "بیشترین کارت زرد"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7502,10 +7494,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "بررسی تیم‌های مورد علاقه خود و تنظیم هشدارها"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "ویدیوهای ویژه"
     },
     "new_finalTournament": {
       "english": "Final",

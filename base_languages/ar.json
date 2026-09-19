@@ -7213,14 +7213,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "يمكنك العثور هنا على الإعدادات والإشعارات وجداول التلفاز ومركز الانتقالات."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "أكثر البطاقات الحمراء"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "أكثر البطاقات الصفراء"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7580,10 +7572,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "قم بمراجعة فرقك المفضلة وإعداد التنبيهات"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "فيديوهات مميزة"
     },
     "new_finalTournament": {
       "english": "Final",

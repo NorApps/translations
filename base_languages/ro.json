@@ -7165,14 +7165,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "Aici poți găsi setările, notificările, programele TV și centrul de transferuri."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "Cele mai multe cartonașe roșii"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "Cele mai multe cartonașe galbene"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7528,10 +7520,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "Revizează echipele tale favorite și stabilește alertele"
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "Video recomandate"
     },
     "new_finalTournament": {
       "english": "Final",

@@ -7134,14 +7134,6 @@
       "english": "You can find settings, notifications, TV schedules, and the transfer center here.",
       "value": "여기에서 설정, 알림, TV 일정 및 이적 센터를 확인할 수 있습니다."
     },
-    "ios_most_red": {
-      "english": "Most red cards",
-      "value": "가장 많은 퇴장을 당한 선수"
-    },
-    "ios_most_yellow": {
-      "english": "Most yellow cards",
-      "value": "가장 많은 경고를 받은 선수"
-    },
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
@@ -7493,10 +7485,6 @@
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
       "value": "좋아하는 팀을 리뷰하고 알림을 설정하세요."
-    },
-    "new_featured_videos": {
-      "english": "Featured videos",
-      "value": "주요 영상"
     },
     "new_finalTournament": {
       "english": "Final",
