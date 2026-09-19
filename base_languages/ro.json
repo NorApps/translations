@@ -748,7 +748,7 @@
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
       "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)",
-      "value": "%1$@ are cele mai multe lovituri la poartă pentru %2$@ (%3$@)"
+      "value": "%1$@ are cele mai multe șuturi pe poartă per meci pentru %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
@@ -783,7 +783,7 @@
     "accessibility_insights_shots_on_target_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
       "english": "Ranked %1$@ in shots on target per match (%2$@ shots)",
-      "value": "S-a clasat pe locul %1$@ în loviturile pe poartă per meci (%2$@ lovituri)"
+      "value": "S-a clasat pe locul %1$@ la șuturi pe poartă per meci (%2$@ șuturi)"
     },
     "accessibility_insights_team_ranking": {
       "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -5282,7 +5282,7 @@
     },
     "common_ontarget_scoring_att_team_title": {
       "english": "Shots on target per match",
-      "value": "Lovituri pe poartă per meci"
+      "value": "Șuturi pe poartă per meci"
     },
     "common_ontarget_scoring_att_title": {
       "english": "Shots on target per match",

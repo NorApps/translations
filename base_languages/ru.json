@@ -3448,7 +3448,7 @@
     "common_effective_clearance_team_title": {
       "comment": "Clearance is Action by a defending player that temporarily removes the attacking threat on their goal/that effectively alleviates pressure on their goal",
       "english": "Clearances per match",
-      "value": "Выносов мяча за игру"
+      "value": "Выносы за игру"
     },
     "common_effective_clearance_title": {
       "english": "Clearances per match",
