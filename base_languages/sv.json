@@ -9,12 +9,12 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "Lyckade krossbollar"
+      "value": "Inläggssäkerhet"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "Precisa krossbollar per match"
+      "value": "Precisa inlägg per match"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -672,7 +672,7 @@
     "accessibility_insights_goals_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
       "english": "Have scored %1$@ goals in their last %2$@ matches",
-      "value": "har gjort %1$@ mål under de senaste %2$@ matcher."
+      "value": "har gjort %1$@ mål under de senaste %2$@ matcherna."
     },
     "accessibility_insights_gone_without_win": {
       "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
@@ -1616,7 +1616,7 @@
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
       "english": "Possession",
-      "value": "Innehav"
+      "value": "Bollinnehav"
     },
     "accessibility_post": {
       "comment": "A shot result description (hit the post)",
@@ -2563,15 +2563,15 @@
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
       "english": "Accurate crosses",
-      "value": "Lyckade inlägg"
+      "value": "Precisa inlägg"
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
-      "value": "Passning lyckad"
+      "value": "Passningssäkerhet"
     },
     "common_accurate_pass_team_subtitle": {
       "english": "Pass success",
-      "value": "Passning lyckad"
+      "value": "Passningssäkerhet"
     },
     "common_accurate_pass_team_title": {
       "english": "Accurate passes per match",
@@ -2861,7 +2861,7 @@
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
       "english": "Big chances",
-      "value": "Stora möjligheter"
+      "value": "Stora chanser"
     },
     "common_biggest_loss": {
       "comment": "The biggest match loss for a team in a given season.",
@@ -3170,7 +3170,7 @@
     },
     "common_commentary_window_title": {
       "english": "Live Commentary",
-      "value": "Live kommentarer"
+      "value": "Livekommentarer"
     },
     "common_comments": {
       "english": "Comments",
@@ -3283,12 +3283,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Alla data beräknas på statistik från Opta.</p> <p>FotMobs spelarbetyg beräknas på mer än 100 individuella statistikvärden per spelare per match.</p> <p>En match räknas med i per match-betygen om spelaren har varit involverad, även om han kom in som avbytare de sista minuterna.</p> <p>En spelare måste ha spelat minst 50 % av alla matcher för att inkluderas i rankningarna.</p>"
+      "value": "<p>Alla data beräknas på statistik från Opta.</p> <p>FotMobs spelarbetyg beräknas på mer än 100 individuella statistikvärden per spelare per match.</p> <p>En match räknas med i per match-betygen om spelaren har varit involverad, även om han kom in som avbytare de sista minuterna.</p> <p>En spelare måste ha spelat minst 50 % av alla matcher och minst 90 minuter (för statistiken per 90) för att inkluderas i rankningarna.</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Alla data beräknas på statistik från Opta.</p><p>FotMobs spelarranking beräknas på mer än 100 individuella uppgifter per spelare per match.</p><p>En match i per-match-rankingen är vilken match som helst där deltagaren har varit inblandad även om han kom in på plan som avbytare de sista minuterna.</p><p>En spelare måste ha spelat minst 50 %% av alla matcher för att vara med i rankingarna.</p>"
+      "value": "<p>Alla data beräknas på statistik från Opta.</p><p>FotMobs spelarranking beräknas på mer än 100 individuella uppgifter per spelare per match.</p><p>En match i per-match-rankingen är vilken match som helst där deltagaren har varit inblandad även om han kom in på plan som avbytare de sista minuterna.</p><p>En spelare måste ha spelat minst 50 %% av alla matcher och minst 90 minuter (för statistiken per 90) för att vara med i rankingarna.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
@@ -4223,7 +4223,7 @@
     },
     "common_goals_team": {
       "english": "%1$@ have scored %2$@ goals in their last %3$@ matches.",
-      "value": "%1$@ har gjort %2$@ mål under de senaste %3$@ matcher."
+      "value": "%1$@ har gjort %2$@ mål under de senaste %3$@ matcherna."
     },
     "common_goals_team_match_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4296,7 +4296,7 @@
     },
     "common_h2h_draw_streak": {
       "english": "%1$@ and %2$@ have drawn their last %3$@ matches against each other",
-      "value": "%1$@ and %2$@ har spelat oavgjort under sina senaste %3$@ matcher."
+      "value": "%1$@ och %2$@ har spelat oavgjort under sina senaste %3$@ matcher."
     },
     "common_h2h_draw_streak_v2": {
       "comment": "Example: Manchester United and Chelsea have drawn their last 5 matches against each other.",
@@ -4764,7 +4764,7 @@
     "common_ltc_not_found": {
       "comment": "Empty placeholder if there's no live-comments available",
       "english": "Live commentary not available",
-      "value": "Live-kommentarer är inte tillgängliga"
+      "value": "Livekommentarer är inte tillgängliga"
     },
     "common_man_of_the_match": {
       "comment": "A title indicating that this player was the best player.",
@@ -5500,11 +5500,11 @@
     },
     "common_poss_won_att_3rd_subtitle": {
       "english": "Possession won midfield",
-      "value": "Innehav vunnet på mittfältet"
+      "value": "Bollinnehav vunnet på mittfältet"
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "Bollinnehav erhållet på mittfältet"
+      "value": "Bollinnehav vunnet på mittfältet"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
@@ -6815,7 +6815,7 @@
     },
     "common_won_tackle_subtitle": {
       "english": "Tackle success",
-      "value": "Tackling lyckad"
+      "value": "Lyckade tacklingar"
     },
     "common_won_tackle_team_subtitle": {
       "english": "Tackle success",
@@ -8301,7 +8301,7 @@
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Stora målchanser missade"
+      "value": "Stora chanser missade"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -8377,7 +8377,7 @@
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
       "english": "Crosses",
-      "value": "Crossbollar"
+      "value": "Inlägg"
     },
     "notifications_customize": {
       "comment": "Button label indicating that the user want to customize the alerts for the transfers",
@@ -8848,7 +8848,7 @@
     },
     "notifications_injury_118": {
       "english": "Medial Collateral Ligament injury",
-      "value": "Korsbandsskada"
+      "value": "Inre ledbandsskada"
     },
     "notifications_injury_119": {
       "english": "Mouth injury",
@@ -9528,7 +9528,7 @@
     "notifications_pass_percentage": {
       "comment": "The percentage of passes being successful",
       "english": "Pass success",
-      "value": "Lyckade passningar"
+      "value": "Passningssäkerhet"
     },
     "notifications_pass_percentage_short": {
       "comment": "Short header for pass percentage",
@@ -12507,7 +12507,7 @@
     "seo_site_description_league_matches": {
       "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
       "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
-      "value": "Alla %1$@ matchresultat och alla kommande matcher för %1$@ %2$@. Sortera efter datum, omgång, klubb eller grupp. Liveresultat och resultat uppdateras varje matchdag."
+      "value": "Alla matchresultat och kommande matcher för %1$@ %2$@. Sortera efter datum, omgång, klubb eller grupp. Liveresultat och resultat uppdateras varje matchdag."
     },
     "seo_site_description_league_news": {
       "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",
