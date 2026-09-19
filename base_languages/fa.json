@@ -2193,7 +2193,7 @@
     "accessibility_team_score": {
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
       "english": "%@ scores!",
-      "value": "%@ گل‌ها!"
+      "value": "گـــــل! %@"
     },
     "accessibility_team_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a team page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are things like Overview, Table, Fixtures, Squad and Stats. Keep it parallel to \"league_sections_nav\". Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
@@ -2368,7 +2368,7 @@
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
       "english": "Touches in opposition box",
-      "value": "لمس‌ها در جعبه مخالف"
+      "value": "لمس‌ها در محوطه جریمه حریف"
     },
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
@@ -2526,7 +2526,7 @@
     },
     "common_Attendance": {
       "english": "Attendance",
-      "value": "تماشاگر"
+      "value": "تعداد تماشاگران"
     },
     "common_BallPossesion": {
       "english": "Ball possession",
@@ -3527,7 +3527,7 @@
     },
     "common_error_adding_match_to_calendar": {
       "english": "Error adding match to calendar, this feature works only on Android 4.x",
-      "value": "خطا در اضافه کردن بازی به تقویم، این ویژگی فقط در اندروید 4 به بعد کار می‌نمایید."
+      "value": "خطا در اضافه کردن بازی به تقویم، این ویژگی فقط در اندروید ‎4.x‎ کار می‌کند."
     },
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
@@ -4480,7 +4480,7 @@
     "common_keeper_sweeper": {
       "comment": "Keeper cleared the ball outside the penalty area, acting as a sweeper",
       "english": "Acted as sweeper",
-      "value": "دروازه‌بان توپ را دفع کرد"
+      "value": "دفع توپ خارج از محوطه جریمه"
     },
     "common_kg": {
       "comment": "Weight of person in kg",
@@ -5338,7 +5338,7 @@
     },
     "common_penalty": {
       "english": "Penalty",
-      "value": "پنالتی زده"
+      "value": "پنالتی"
     },
     "common_penalty_conceded_subtitle": {
       "english": "Total matches",
@@ -6815,7 +6815,7 @@
     },
     "common_won_tackle_team_title": {
       "english": "Successful tackles per match",
-      "value": "تکل‌های موفق به ازهای هر بازی"
+      "value": "تکل‌های موفق به ازای هر بازی"
     },
     "common_won_tackle_title": {
       "english": "Successful tackles per match",
@@ -7697,7 +7697,7 @@
     },
     "new_pick_favorite": {
       "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "ما متوجه شده ایم که شما هیچ تیم موردعلافه ای را انتخاب نکرده اید. آیا می‌خواهید همین حالا انتخاب نمایید؟"
+      "value": "ما متوجه شده ایم که شما هیچ تیم موردعلاقه ای را انتخاب نکرده اید. آیا می‌خواهید همین حالا انتخاب نمایید؟"
     },
     "new_pick_suggestion": {
       "english": "Pick suggestion",
@@ -12571,7 +12571,7 @@
     "seo_site_description_stats_team": {
       "comment": "Page description for page showing players on a team, sorted by a single stat. With stat, teamname, leaguename and seasonname as input. Eg \"Expected goals (xG) - Barcelona stats for LaLiga 2023/2024\"",
       "english": "%1$@ stats for %2$@ %3$@ including top scorers, assists, player ratings, and more",
-      "value": "%1$@ آمار برای %3$@ %2$@ شامل برترین گلزنان، ویژگی‌ها، امتیازات بازیکن و ..."
+      "value": "%1$@ آمار برای %3$@ %2$@ شامل برترین گلزنان، پاس گل‌ها، امتیازات بازیکن و ..."
     },
     "seo_site_description_team_fixtures": {
       "comment": "SEO description for team fixtures page showing fixture list with live scores and results. %@ is the team name",
