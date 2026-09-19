@@ -143,7 +143,7 @@
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
       "english": "Attempt saved",
-      "value": "Tentative bloquée"
+      "value": "Tir arrêté"
     },
     "accessibility_by_date": {
       "comment": "Text shown on toggle that shows matches in a league sorted by date.",
@@ -622,7 +622,7 @@
     "accessibility_insights_bad_form_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have lost their last 7 matches",
       "english": "Have lost their last %1$@ matches",
-      "value": "A perdu leurs %1$@ derniers matchs"
+      "value": "A perdu ses %1$@ derniers matchs"
     },
     "accessibility_insights_best_away": {
       "comment": "The team is ranked some number for away games this season. Example: \"Ranked 3rd away from home this season\"",
@@ -682,12 +682,12 @@
     "accessibility_insights_good_form_team": {
       "comment": "Displayed next to the icon of the team, so it is implicit that the team is the noun. Example for Liverpool: [image of Liverpool logo] Have won their last 7 matches.",
       "english": "Have won their last %1$@ matches",
-      "value": "Ont remporté leurs %1$@ derniers matchs"
+      "value": "A remporté ses %1$@ derniers matchs"
     },
     "accessibility_insights_lost_last_matches": {
       "comment": "The team has lost a particular number of consecutive matches. Example: \"Have lost their 5 last matches\"",
       "english": "Have lost their last %1$@ matches",
-      "value": "A perdu leurs %1$@ derniers matchs"
+      "value": "A perdu ses %1$@ derniers matchs"
     },
     "accessibility_insights_not_clean_sheet": {
       "comment": "The team has not kept a clean sheet (conceded at least one goal) for a particular number of matches. Example: \"Haven't kept a clean sheet in 7 matches\"",
@@ -707,7 +707,7 @@
     "accessibility_insights_not_won_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Haven't won a match in 4 attempts",
       "english": "Haven't won a match in %1$@ attempts",
-      "value": "N'a pas gagné un match en %1$@ rencontres."
+      "value": "N'a pas gagné de match en %1$@ tentatives."
     },
     "accessibility_insights_penalties_awarded": {
       "comment": "The team has the record for getting penalties in a season. Example: \"Have been awarded the most penalties this season (13)\"",
@@ -3718,7 +3718,7 @@
     },
     "common_favorite_teams": {
       "english": "Favorite teams",
-      "value": "Equipe(s) favorite(s)"
+      "value": "Équipes favorites"
     },
     "common_favorites": {
       "english": "Favorites",
@@ -5117,11 +5117,11 @@
     },
     "common_not_won_both": {
       "english": "%1$@ haven't won a match in their last %3$@ attempts, and %2$@ in their last %4$@.",
-      "value": "%1$@ n'a pas gagné un match lors de ses %3$@ dernières tentatives, et %2$@ lors de ses %4$@ dernières."
+      "value": "%1$@ n'a pas gagné de match lors de ses %3$@ dernières tentatives, et %2$@ lors de ses %4$@ dernières."
     },
     "common_not_won_team": {
       "english": "%1$@ haven't won a match in %2$@ attempts.",
-      "value": "%1$@ n'a pas gagné un match en %2$@ tentatives."
+      "value": "%1$@ n'a pas gagné de match en %2$@ tentatives."
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
@@ -5359,12 +5359,12 @@
     "common_penalty_conceded_team_title": {
       "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "Penalties concédées"
+      "value": "Penalties concédés"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
       "english": "Penalties conceded",
-      "value": "Penalties concédées"
+      "value": "Penalties concédés"
     },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
@@ -5513,7 +5513,7 @@
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Possession remportée dernier tiers"
+      "value": "Possession remportée dernier tiers/match"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -7803,7 +7803,7 @@
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
       "english": "Round of 16",
-      "value": "8ème de finale"
+      "value": "Huitièmes de finale"
     },
     "new_score_correction": {
       "comment": "Information message if we have mistakenly informed of a wrong score earlier, this is a correction message",
@@ -9841,7 +9841,7 @@
     "notifications_shots_woodwork": {
       "comment": "Stat for shots hitting the woodwork on the goal (post or bar)",
       "english": "Hit woodwork",
-      "value": "Tirs sur le cadre"
+      "value": "Tirs sur les montants"
     },
     "notifications_show_more": {
       "comment": "Button for loading more data",
@@ -11833,7 +11833,7 @@
     "seo_play_offs_explanation": {
       "comment": "A description of the new draw format used in Champions League, Europa League and Conference League. Please keep the \\n placements in the English string when doing the translation.",
       "english": "The play-off matchups are determined by a draw. In each grouping, the two teams on the left are drawn against the two teams on the right to create two play-off matchups. The play-offs are played over two legs, with the winner going to the round of 16.\\n\\nThere is a separate draw for the round of 16 using the same process.",
-      "value": "Les matchs de barrage sont déterminés par tirage au sort. Dans chaque groupe, les deux équipes à gauche affrontent les deux équipes à droite pour créer deux matchs de barrage. Les barrages se déroulent en deux manches, le vainqueur se qualifie pour les 8ème de finale.\\n\\nIl y a un tirage au sort séparé pour les 8ème de finale en utilisant le même processus."
+      "value": "Les matchs de barrage sont déterminés par tirage au sort. Dans chaque groupe, les deux équipes à gauche affrontent les deux équipes à droite pour créer deux matchs de barrage. Les barrages se déroulent en deux manches, le vainqueur se qualifie pour les huitièmes de finale.\\n\\nIl y a un tirage au sort séparé pour les huitièmes de finale en utilisant le même processus."
     },
     "seo_play_offs_format": {
       "comment": "Label leading to an explanation of the new Champions league play-off format",
@@ -12281,7 +12281,7 @@
     },
     "seo_roundof16playoff": {
       "english": "Round of 16 playoff",
-      "value": "Barrages des 8ème de finale"
+      "value": "Barrages des huitièmes de finale"
     },
     "seo_rumour": {
       "comment": "Label for a transfer rumour. A transfer rumour is an unconfirmed transfer that is reported by the media. See transfer. See rumours.",
