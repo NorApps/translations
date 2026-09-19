@@ -3202,7 +3202,7 @@
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
       "english": "Conceded penalty",
-      "value": "Пропущені пенальті"
+      "value": "Спричинені пенальті"
     },
     "common_contact": {
       "comment": "Menu option for contacting us",
@@ -5393,7 +5393,7 @@
     "common_penalty_conceded_team_title": {
       "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "Фоли, що спричинили пенальті"
+      "value": "Спричинені пенальті"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
