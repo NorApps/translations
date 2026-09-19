@@ -1914,7 +1914,7 @@
     "accessibility_standings_average_points_long": {
       "comment": "Accessibility label (read by screen readers) for the average points per game column in averages-relegation standings.",
       "english": "Average points per game",
-      "value": "Média de pontos por jogo"
+      "value": "Média de pontos por partida"
     },
     "accessibility_starting_eleven": {
       "comment": "The 11 players who start a match",
@@ -2575,11 +2575,11 @@
     },
     "common_accurate_pass_team_title": {
       "english": "Accurate passes per match",
-      "value": "Passes acertados por jogo"
+      "value": "Passes acertados por partida"
     },
     "common_accurate_pass_title": {
       "english": "Accurate passes per match",
-      "value": "Passes acertados por jogo"
+      "value": "Passes acertados por partida"
     },
     "common_action_settings": {
       "english": "Settings",
@@ -3434,11 +3434,11 @@
     "common_effective_clearance_team_title": {
       "comment": "Clearance is Action by a defending player that temporarily removes the attacking threat on their goal/that effectively alleviates pressure on their goal",
       "english": "Clearances per match",
-      "value": "Cortes por jogo"
+      "value": "Cortes por partida"
     },
     "common_effective_clearance_title": {
       "english": "Clearances per match",
-      "value": "Cortes por jogo"
+      "value": "Cortes por partida"
     },
     "common_elSalvador": {
       "english": "El Salvador",
@@ -5266,7 +5266,7 @@
     },
     "common_ontarget_scoring_att_team_title": {
       "english": "Shots on target per match",
-      "value": "Chutes a gol por jogo"
+      "value": "Chutes a gol por partida"
     },
     "common_ontarget_scoring_att_title": {
       "english": "Shots on target per match",
@@ -5798,7 +5798,7 @@
     },
     "common_saves_title": {
       "english": "Saves per match",
-      "value": "Defesas por jogo"
+      "value": "Defesas por partida"
     },
     "common_score_poll_interval": {
       "english": "Score polling interval",
@@ -6796,7 +6796,7 @@
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
-      "value": "Dribles certos por jogo"
+      "value": "Dribles certos por partida"
     },
     "common_won_long": {
       "english": "Won",
@@ -6823,11 +6823,11 @@
     },
     "common_won_tackle_team_title": {
       "english": "Successful tackles per match",
-      "value": "Desarmes certos por jogo"
+      "value": "Desarmes bem-sucedidos por partida"
     },
     "common_won_tackle_title": {
       "english": "Successful tackles per match",
-      "value": "Desarmes bem-sucedidos por jogo"
+      "value": "Desarmes bem-sucedidos por partida"
     },
     "common_world_cup": {
       "english": "FIFA World Cup",
@@ -12723,7 +12723,7 @@
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "%1$@ %2$@ times com melhor classificação, gols por jogo, chutes no alvo e outras estatísticas"
+      "value": "%1$@ %2$@ times com melhor classificação, gols por partida, chutes no alvo e outras estatísticas"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "SEO title for league trophies page showing past winners and runner-up. %@ is the league name",
