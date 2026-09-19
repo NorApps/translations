@@ -69,7 +69,7 @@
     "accessibility_age_confirmation_subtitle": {
       "comment": "Popup subtext - used when a user needs to verify his age to display betting odds",
       "english": "To display odds we need to verify your age",
-      "value": "Um Quoten anzuzeigen, müssen wir Ihr Alter verifizieren"
+      "value": "Um Quoten anzuzeigen, müssen wir dein Alter verifizieren"
     },
     "accessibility_alerts_disabled": {
       "comment": "Meant for VoiceOver. Lets the user know that a match has alerts off when in the detailed match-controller",
@@ -178,7 +178,7 @@
     "accessibility_change_language_explanation": {
       "comment": "Label indicating you can change the language of the app",
       "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
-      "value": "Gehen Sie zu den Einstellungen und tippen Sie auf \"Sprache\", um Ihre bevorzugte Sprache für FotMob auszuwählen.\\n\\nWenn keine Spracheinstellung verfügbar ist, gehen Sie zuerst zu den Spracheinstellungen Ihres Geräts, um eine bevorzugte Sprache festzulegen."
+      "value": "Gehe zu den Einstellungen und tippe auf \"Sprache\", um deine bevorzugte Sprache für FotMob auszuwählen.\\n\\nWenn keine Spracheinstellung verfügbar ist, gehe zuerst zu den Spracheinstellungen deines Geräts, um eine bevorzugte Sprache festzulegen."
     },
     "accessibility_city": {
       "comment": "Text shown for venue on a match if do not have a link to it.",
@@ -537,7 +537,7 @@
     "accessibility_got_a_code": {
       "comment": "Header for redeem code view",
       "english": "Have a code?",
-      "value": "Haben Sie einen Code?"
+      "value": "Hast du einen Code?"
     },
     "accessibility_ground_duels_won": {
       "comment": "This is a statistic where we list the number of times a football defender won a ground duel as opposed to an aerial duel.",
@@ -995,7 +995,7 @@
     "accessibility_login_disclaimer": {
       "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
       "english": "By signing in you accept the Terms of use and Privacy Policy.",
-      "value": "Mit Ihrer Anmeldung akzeptieren Sie die Nutzungsbedingungen und die Datenschutzrichtlinie."
+      "value": "Mit deiner Anmeldung akzeptierst du die Nutzungsbedingungen und die Datenschutzrichtlinie."
     },
     "accessibility_logincomponent_desc1": {
       "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
@@ -1374,27 +1374,27 @@
     "accessibility_onboarding_newplayerprofile_section1": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Player traits.</b> Get an overview of a players strengths, weaknesses and playing style.",
-      "value": "<b>Spielereigenschaften.</b> Verschaffen Sie sich einen Überblick über die Stärken, Schwächen und den Spielstil eines Spielers."
+      "value": "<b>Spielereigenschaften.</b> Verschaffe dir einen Überblick über die Stärken, Schwächen und den Spielstil eines Spielers."
     },
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>Neue Statistikseite.</b> Tauchen Sie tief in die Statistiken ein, einschließlich saisonaler Schusskarten und Vergleichstabellen."
+      "value": "<b>Neue Statistikseite.</b> Tauche tief in die Statistiken ein, einschließlich saisonaler Schusskarten und Vergleichstabellen."
     },
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Redesigned career page.</b> View a players career path by club or across seasons.",
-      "value": "<b>Neugestaltete Karriereseite.</b> Betrachten Sie den Karriereweg eines Spielers nach Verein oder über Saisons hinweg."
+      "value": "<b>Neugestaltete Karriereseite.</b> Betrachte den Karriereweg eines Spielers nach Verein oder über Saisons hinweg."
     },
     "accessibility_onboarding_players": {
       "comment": "An explanation during onboarding that when you click a button to follow a player, you will get notifications about the player",
       "english": "Follow players to get notifications when they play and score.",
-      "value": "Folge Spielern um Benachrichtigungen zu erhalten wenn Sie spielen und treffen"
+      "value": "Folge Spielern, um Benachrichtigungen zu erhalten, wenn sie spielen und treffen"
     },
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Folge Mannschaften um Sie in der App zu priorisieren"
+      "value": "Folge Mannschaften, um sie in der App zu priorisieren"
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -1971,7 +1971,7 @@
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
-      "value": "Das Diagramm „Spielermerkmale“ hebt die statistischen Stärken und Schwächen eines Spielers im Vergleich zu ähnlichen Spielern hervor.\\n\\nJede Statistik wird auf 90 Minuten umgerechnet und berücksichtigt die Spiele der letzten 365 Tage.\\n\\nDie Spieler werden dann mit Spielern auf der gleichen Position aus ähnlichen Ligen verglichen und in ein Perzentil-Ranking eingeordnet.\\n\\nEin Perzentil-Ranking von 90 % bei den kreierten Chancen bedeutet zum Beispiel, dass ein Spieler mehr Chancen kreiert als 90 % der Spieler auf seiner Position in ähnlichen Ligen.\\n\\nAlle Details zu den Vergleichen finden Sie in unseren FAQ."
+      "value": "Das Diagramm „Spielermerkmale“ hebt die statistischen Stärken und Schwächen eines Spielers im Vergleich zu ähnlichen Spielern hervor.\\n\\nJede Statistik wird auf 90 Minuten umgerechnet und berücksichtigt die Spiele der letzten 365 Tage.\\n\\nDie Spieler werden dann mit Spielern auf der gleichen Position aus ähnlichen Ligen verglichen und in ein Perzentil-Ranking eingeordnet.\\n\\nEin Perzentil-Ranking von 90 % bei den kreierten Chancen bedeutet zum Beispiel, dass ein Spieler mehr Chancen kreiert als 90 % der Spieler auf seiner Position in ähnlichen Ligen.\\n\\nAlle Details zu den Vergleichen findest du in unseren FAQ."
     },
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
@@ -2154,12 +2154,12 @@
     "accessibility_sync_to_calendar_description": {
       "comment": "Text shown in a panel that lets the user add a team's fixtures to the calendar. Input is the team name and the team short name, eg: Sync <b>Manchester United's</b><b>Man United's</b> fixtures to your favorite calendar app. (The code will show either the team name or the short name depending on screen size)",
       "english": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app.",
-      "value": "Synchronisieren Sie die Spieltermine von  <b>%1$@</b><b>%2$@</b> mit Ihrer bevorzugten Kalender-App."
+      "value": "Synchronisiere die Spieltermine von <b>%1$@</b><b>%2$@</b> mit deiner bevorzugten Kalender-App."
     },
     "accessibility_sync_to_calendar_description_plain": {
       "comment": "Same as sync_to_calendar_description, but without html tags. Input is the team name, eg: Sync Liverpool's fixtures to your favorite calendar app.",
       "english": "Sync %1$@'s fixtures to your favorite calendar app.",
-      "value": "Synchronisieren Sie die Spieltermine von %1$@ mit Ihrer bevorzugten Kalender-App."
+      "value": "Synchronisiere die Spieltermine von %1$@ mit deiner bevorzugten Kalender-App."
     },
     "accessibility_syncing": {
       "comment": "Status indication we are syncing information between the watch and the phone",
@@ -2623,7 +2623,7 @@
     "common_added_new_leagues": {
       "comment": "Pop-up notifying user about new leagues have been added",
       "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Wir haben einige neue Ligen hinzugefügt, einfach ignorieren klicken, wenn Sie sie nicht zur Liste der Spiele hinzufügen möchten."
+      "value": "Wir haben einige neue Ligen hinzugefügt, einfach ignorieren klicken, wenn du sie nicht zur Liste der Spiele hinzufügen möchtest."
     },
     "common_adfree_button_ok": {
       "english": "Go Gold",
@@ -3531,7 +3531,7 @@
     },
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
-      "value": "Ein Fehler ist aufgetreten, bitte versuchen Sie es nochmal"
+      "value": "Ein Fehler ist aufgetreten, bitte versuche es nochmal"
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
@@ -4406,7 +4406,7 @@
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
       "english": "Join the FotMob Supporters Club to remove the ads that we control for a faster, distraction-free FotMob. Your support helps us continue to make FotMob better. Note that if you click a news article from a third party, we cannot control the ads they display on their website. Thanks for your support!",
-      "value": "Treten Sie dem FotMob Supporters Club bei, um die von uns kontrollierten Anzeigen für einen schnelleren, ablenkungsfreien FotMob zu entfernen. Ihre Unterstützung hilft uns, FotMob weiter zu verbessern. Beachten Sie, dass wir die Anzeigen auf der Website nicht kontrollieren können, wenn Sie auf einen Nachrichtenartikel eines Drittanbieters klicken. Danke für deine Unterstützung!"
+      "value": "Tritt dem FotMob Supporters Club bei, um die von uns kontrollierten Anzeigen für einen schnelleren, ablenkungsfreien FotMob zu entfernen. Deine Unterstützung hilft uns, FotMob weiter zu verbessern. Beachte, dass wir die Anzeigen auf der Website nicht kontrollieren können, wenn du auf einen Nachrichtenartikel eines Drittanbieters klickst. Danke für deine Unterstützung!"
     },
     "common_in_app_purchase_subscription_active": {
       "comment": "Message shows",
@@ -5210,7 +5210,7 @@
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
       "english": "In addition to match updates, you can add news alerts for top teams.",
-      "value": "Zusätzlich zu Spielaktualisierungen können Sie Benachrichtigungen für Neuigkeiten von Top-Teams hinzufügen."
+      "value": "Zusätzlich zu Spielaktualisierungen kannst du Benachrichtigungen für Neuigkeiten von Top-Teams hinzufügen."
     },
     "common_onboarding_news_content": {
       "comment": "A full description of the onboarding popup, which explains that we've just released a new news page",
@@ -5395,7 +5395,7 @@
     "common_pinch_zoom": {
       "comment": "The user can do a so called \"pinch\" gesture to show or hide all the matches in the leagues. This is similar to using to fingers and zooming in on things in various apps.",
       "english": "TIP: You can also do the pinch gesture directly on the leagues to expand and collapse all the leagues",
-      "value": "TIPP: Sie können die Pinch-Geste auch direkt auf die Ligen anwenden um sie zu erweitern und zu reduzieren"
+      "value": "TIPP: Du kannst die Pinch-Geste auch direkt auf die Ligen anwenden, um sie zu erweitern und zu reduzieren"
     },
     "common_place_bet_cta": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet\" or \"Place bet\" but keep it short!",
@@ -5707,7 +5707,7 @@
     },
     "common_resync_desc": {
       "english": "If you have previously bought gold or silver, click here",
-      "value": "Wenn Sie schon Gold- oder Silber-Unterstützer sind, klicken Sie hier."
+      "value": "Wenn du schon Gold- oder Silber-Unterstützer bist, klicke hier."
     },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5810,7 +5810,7 @@
     },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
-      "value": "Bitte geben Sie den gesuchten Mannschaftsnamen ein"
+      "value": "Bitte gib den gesuchten Mannschaftsnamen ein"
     },
     "common_search_players": {
       "comment": "Onboarding your favorite players",
@@ -8223,7 +8223,7 @@
     "notifications_at_least_one": {
       "comment": "An error message informing user that he has to pick at least one of the alert options (goals, penalties, half time ++)",
       "english": "You must select at least one alert",
-      "value": "Sie müssen wenigstens einen Alarm auswählen"
+      "value": "Du musst wenigstens einen Alarm auswählen"
     },
     "notifications_attack": {
       "english": "Attack",
@@ -9234,7 +9234,7 @@
     },
     "notifications_legal_leaving_app": {
       "english": "You are now leaving FotMob",
-      "value": "Sie verlassen jetzt FotMob"
+      "value": "Du verlässt jetzt FotMob"
     },
     "notifications_limited_lineup_coverage": {
       "english": "This match has limited lineup coverage",
@@ -9334,7 +9334,7 @@
     "notifications_minimum_x_characters": {
       "comment": "Placeholder text for text area where the user describes their problem with the app. The number is typically 20, so the string must be for plural.",
       "english": "Enter at least %d characters.",
-      "value": "Geben Sie mindestens %d Zeichen ein."
+      "value": "Gib mindestens %d Zeichen ein."
     },
     "notifications_minutes_played": {
       "comment": "How many minutes the player has been on field",
@@ -9397,7 +9397,7 @@
     "notifications_network_troubleshooting_help_text_error_2": {
       "comment": "Help text for text area used for describing problem before generating email with text + network log",
       "english": "Please provide a detailed description of your issue.",
-      "value": "Bitte geben Sie uns eine detaillierte Beschreibung Ihres Problems."
+      "value": "Bitte gib uns eine detaillierte Beschreibung deines Problems."
     },
     "notifications_network_troubleshooting_help_text_ok": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue in the log e-mail.",
@@ -9405,7 +9405,7 @@
     },
     "notifications_network_troubleshooting_help_text_ok_2": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue.",
-      "value": "Alles sieht gut aus!\\n\\n\\nHaben Sie immer noch ein Problem? Bitte geben Sie uns eine detaillierte Beschreibung Ihres Problems."
+      "value": "Alles sieht gut aus!\\n\\nHast du immer noch ein Problem? Bitte gib uns eine detaillierte Beschreibung deines Problems."
     },
     "notifications_network_troublshooting_test1": {
       "english": "Waiting for push message",
@@ -10344,7 +10344,7 @@
     "seo_ad_quality_hint": {
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
-      "value": "Bitte teilen Sie Details zur Anzeige mit, wie den Werbetreibenden, den Bildschirm, das Video oder Bild und was Sie problematisch fanden."
+      "value": "Bitte teile Details zur Anzeige mit, wie den Werbetreibenden, den Bildschirm, das Video oder Bild und was du problematisch fandest."
     },
     "seo_add_alternative": {
       "comment": "Button text for a button that adds an alternative field to the form.",
@@ -10424,7 +10424,7 @@
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "english": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play.",
-      "value": "Ihnen wird am Ende Ihres kostenlosen Testzeitraums automatisch die von Ihnen gewählte Abonnementlaufzeit und der gewählte Preis in Rechnung gestellt, es sei denn, Sie kündigen mindestens 24 Stunden vor dem Ende Ihres kostenlosen Testzeitraums. Sie können jederzeit über Google Play kündigen."
+      "value": "Dir wird am Ende deines kostenlosen Testzeitraums automatisch die von dir gewählte Abonnementlaufzeit und der gewählte Preis in Rechnung gestellt, es sei denn, du kündigst mindestens 24 Stunden vor dem Ende deines kostenlosen Testzeitraums. Du kannst jederzeit über Google Play kündigen."
     },
     "seo_annual": {
       "comment": "Describing the duration for the annual FotMob+ subscription option.",
@@ -10453,7 +10453,7 @@
     "seo_auto_save_failed_description": {
       "comment": "Description text for the dialogue that pops up when the auto save of the user's predictions fails.",
       "english": "Please try reloading the page or signing out and in again.",
-      "value": "Bitte versuchen Sie, die Seite neu zu laden oder sich ab- und wieder anzumelden."
+      "value": "Bitte versuche, die Seite neu zu laden oder dich ab- und wieder anzumelden."
     },
     "seo_available_in": {
       "comment": "Header string for when the next prediction will be available (countdown in days, hours and minutes)",
@@ -10737,7 +10737,7 @@
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
       "english": "Describe your issue",
-      "value": "Beschreiben Sie Ihr Problem"
+      "value": "Beschreibe dein Problem"
     },
     "seo_description_label": {
       "comment": "Label text for the image description field in the add image form.",
@@ -11411,7 +11411,7 @@
     "seo_limit_reached_lineupbuilder": {
       "comment": "Error message toast when the user tries to save more than the maximum allowed lineups in the linup builder. See [lineup_builder].",
       "english": "Limit of %1$@ reached, please delete one of your lineups",
-      "value": "Limit von %1$@ erreicht, bitte löschen Sie eine Ihrer Aufstellungen"
+      "value": "Limit von %1$@ erreicht, bitte lösche eine deiner Aufstellungen"
     },
     "seo_lineup_builder": {
       "comment": "Headline for a lineup builder for football teams. In Norwegian the natural translation would be \"Lagbygger\".",
@@ -11441,7 +11441,7 @@
     "seo_lineup_name_already_exists": {
       "comment": "toast text after trying to save a lineup with the same name as an already saved lineup. User is prompted with the question of wheter he wishes to overwrite the lineup or not.",
       "english": "A lineup with the name %1$@ already exists. Do you want to overwrite it?",
-      "value": "Eine Aufstellung mit dem Namen %1$@ existiert bereits. Möchten Sie sie überschreiben?"
+      "value": "Eine Aufstellung mit dem Namen %1$@ existiert bereits. Möchtest du sie überschreiben?"
     },
     "seo_lineup_overwritten": {
       "comment": "toast text stating that the lineup has been overwritten. The correct norwegian translation would be \"Lagoppstilling overskrevet\". see [lineup_name_already_exists] for translation of lagoppstilling.",
@@ -11501,7 +11501,7 @@
     "seo_manage_subscription_desc": {
       "comment": "Description paragraph for indicating the user has bought the subscription in another storefront.",
       "english": "You have an active subscription that was purchased on another platform. Please manage it on the platform where the original purchase was made.",
-      "value": "Sie haben ein aktives Abonnement, das auf einer anderen Plattform erworben wurde. Bitte verwalten Sie es auf der Plattform, auf der der ursprüngliche Kauf getätigt wurde."
+      "value": "Du hast ein aktives Abonnement, das auf einer anderen Plattform erworben wurde. Bitte verwalte es auf der Plattform, auf der der ursprüngliche Kauf getätigt wurde."
     },
     "seo_match_added_to_following": {
       "comment": "Pop up after clicking follow on a match. See translation for \"following\"",
@@ -12483,7 +12483,7 @@
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
       "english": "FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "FotMob ist die essentielle App für den Spieltag. Erhalten Sie Live-Ergebnisse, Spielpläne, Tabellen, Matchstatistiken und personalisierte Nachrichten aus über 500 Fußballligen weltweit."
+      "value": "FotMob ist die essentielle App für den Spieltag. Erhalte Live-Ergebnisse, Spielpläne, Tabellen, Matchstatistiken und personalisierte Nachrichten aus über 500 Fußballligen weltweit."
     },
     "seo_site_description_aboutus_careers": {
       "comment": "Meta description for the fotmob website about careers, where open postitions are listed",
@@ -12498,12 +12498,12 @@
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
       "english": "Create a personalized news feed with breaking news from your favorite clubs and leagues.",
-      "value": "Erstellen Sie einen personalisierten Nachrichtenfeed mit Eilmeldungen von Ihren Lieblingsclubs und Ligen."
+      "value": "Erstelle einen personalisierten Nachrichtenfeed mit Eilmeldungen von deinen Lieblingsclubs und Ligen."
     },
     "seo_site_description_latest_news": {
       "comment": "Meta description text for the Latest News page.",
       "english": "Get the latest news, headlines and transfer rumours from the Premier League and world football.",
-      "value": "Erhalten Sie die neuesten Nachrichten, Schlagzeilen und Transfergerüchte aus der Premier League und dem Weltfußball."
+      "value": "Erhalte die neuesten Nachrichten, Schlagzeilen und Transfergerüchte aus der Premier League und dem Weltfußball."
     },
     "seo_site_description_league_matches": {
       "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
@@ -12553,12 +12553,12 @@
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ gegen %2$@ am %3$@. Überprüfen Sie Live-Ergebnisse, H2H, Spielstatistiken, Aufstellungen, Spielerbewertungen, Einblicke, Teamformen, Schusskarte und Highlights."
+      "value": "%1$@ gegen %2$@ am %3$@. Überprüfe Live-Ergebnisse, H2H, Spielstatistiken, Aufstellungen, Spielerbewertungen, Einblicke, Teamformen, Schusskarte und Highlights."
     },
     "seo_site_description_match_with_alias": {
       "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
       "english": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%4$@: %1$@ gegen %2$@ am %3$@. Überprüfen Sie Live-Ergebnisse, H2H, Spielstatistiken, Aufstellungen, Spielerbewertungen, Einblicke, Teamformen, Schusskarte und Highlights."
+      "value": "%4$@: %1$@ gegen %2$@ am %3$@. Überprüfe Live-Ergebnisse, H2H, Spielstatistiken, Aufstellungen, Spielerbewertungen, Einblicke, Teamformen, Schusskarte und Highlights."
     },
     "seo_site_description_rumour_mill": {
       "comment": "Meta description tag value for the rumour mill page. Don't translate Rumour Mill. See site_description_transfer_center.",
@@ -12623,12 +12623,12 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "Finde alle neuesten bestätigten Transfers & teuerste Verpflichtungen. FotMob Transfer Center - Filtern nach Liga & Mannschaften. Bleiben Sie über Transfers auf dem Laufenden mit Live-Updates am Deadline-Tag mit allen abgeschlossenen Deals!"
+      "value": "Finde alle neuesten bestätigten Transfers & teuerste Verpflichtungen. FotMob Transfer Center - Filtern nach Liga & Mannschaften. Bleib über Transfers auf dem Laufenden mit Live-Updates am Deadline-Tag mit allen abgeschlossenen Deals!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "%1$@ neueste bestätigte Transfers und teuerste Verpflichtungen. FotMob Transfercenter - Filtern nach Liga und Mannschaft. Bleiben Sie auf dem Laufenden über Transfers mit Live-Updates am Tag der Deadline inklusive aller abgeschlossenen Verträge!"
+      "value": "%1$@ neueste bestätigte Transfers und teuerste Verpflichtungen. FotMob Transfercenter - Filtern nach Liga und Mannschaft. Bleib auf dem Laufenden über Transfers mit Live-Updates am Tag der Deadline inklusive aller abgeschlossenen Verträge!"
     },
     "seo_site_description_tv_guide": {
       "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
@@ -13076,7 +13076,7 @@
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
       "english": "Thank you for your feedback!",
-      "value": "Vielen Dank für Ihr Feedback!"
+      "value": "Vielen Dank für dein Feedback!"
     },
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
@@ -13170,12 +13170,12 @@
     "seo_trial_ending_auto_renewal": {
       "comment": "Used for local notification when a trial subscription is ending and auto renewing.",
       "english": "Just a quick reminder: your FotMob+ trial is ending in 2 days and will automatically renew.",
-      "value": "Nur eine kurze Erinnerung: Ihre FotMob+ Testversion endet in 2 Tagen und wird automatisch verlängert."
+      "value": "Nur eine kurze Erinnerung: Deine FotMob+ Testversion endet in 2 Tagen und wird automatisch verlängert."
     },
     "seo_trial_ending_expire": {
       "comment": "Used for local notification when a trial subscription is ending and expiring.",
       "english": "Your FotMob+ trial will expire in 2 days.",
-      "value": "Ihre FotMob+ Testversion wird in 2 Tagen ablaufen."
+      "value": "Deine FotMob+ Testversion wird in 2 Tagen ablaufen."
     },
     "seo_troubleshooting": {
       "english": "Troubleshooting",
@@ -13278,7 +13278,7 @@
     "seo_watch_on_tv": {
       "comment": "Explaining where the user can watch the match, what TV channel or streaming service.",
       "english": "Catch all the action on %1$@.",
-      "value": "Verfolgen Sie das Geschehen auf %1$@"
+      "value": "Verfolge das Geschehen auf %1$@"
     },
     "seo_we_have_followed_top_leagues": {
       "comment": "Disclaimer for follow league step in onboarding.",
@@ -13511,7 +13511,7 @@
     "seo_your_subscription_has_expired": {
       "comment": "Used for bottom sheet title when subscription has expired",
       "english": "Your subscription has expired",
-      "value": "Ihr Abonnement ist abgelaufen"
+      "value": "Dein Abonnement ist abgelaufen"
     },
     "seo_zero_points": {
       "comment": "Title for \"0 points medal\". User gets \"0 points\" when they predict wrong.",
