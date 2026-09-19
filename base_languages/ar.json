@@ -3051,7 +3051,7 @@
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
       "english": "Central Midfielder",
-      "value": "لاعب وسط"
+      "value": "لاعب وسط مركزي"
     },
     "common_centermidfielder_short": {
       "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
@@ -6599,7 +6599,7 @@
     "common_trending": {
       "comment": "This is the most popular searches done in the app, so what trends currently",
       "english": "Trending",
-      "value": "أخبار شائعة"
+      "value": "الأكثر رواجًا"
     },
     "common_try_refresh": {
       "english": "Try a refresh?",
@@ -8676,7 +8676,7 @@
     "notifications_favorite_players": {
       "comment": "A header for a list of favorite players that the user has chosen",
       "english": "Favorite players",
-      "value": "اللاعبين المفضلين"
+      "value": "اللاعبون المفضلون"
     },
     "notifications_filter_and_sort_tournaments": {
       "english": "Filter and sort leagues",
@@ -8934,7 +8934,7 @@
     },
     "notifications_injury_120": {
       "english": "Muscle cramps",
-      "value": "تشنج بالعضلة"
+      "value": "تشنجات عضلية"
     },
     "notifications_injury_121": {
       "english": "Physical discomfort",
@@ -9290,7 +9290,7 @@
     "notifications_key_players": {
       "comment": "Header for the most important players in the match",
       "english": "Key players",
-      "value": "اللاعبين الرئيسيين"
+      "value": "اللاعبون الرئيسيون"
     },
     "notifications_last_won": {
       "comment": "When a league was last won",

@@ -3035,7 +3035,7 @@
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
       "english": "Central Midfielder",
-      "value": "Mittfältare"
+      "value": "Central mittfältare"
     },
     "common_centermidfielder_short": {
       "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",

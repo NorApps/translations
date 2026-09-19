@@ -10884,12 +10884,12 @@
     "seo_expires_today": {
       "comment": "Used to indicate when the subscription is expiring today. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"zero\" instance which is what we need for \"today\".",
       "english": "Expires today",
-      "value": "Itakwisha Leo"
+      "value": "Inaisha leo"
     },
     "seo_expires_tomorrow": {
       "comment": "Used to indicate when the subscription is expiring tomorrow. We need this string in addition to the plural string \"expires_in\" because many languages don't support the \"one\" instance which is what we need for \"tomorrow\".",
       "english": "Expires tomorrow",
-      "value": "Itakapita Kesho"
+      "value": "Inaisha kesho"
     },
     "seo_failed_removed_user_from_league": {
       "comment": "Message in a toast that notifies the user that it failed to remove a user from the league",
