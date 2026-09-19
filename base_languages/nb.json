@@ -3283,12 +3283,12 @@
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Alle dataene er kalkulert på bakgrunn av statistikk fra Opta</p><p>FotMob-vurderingen er kalkulert på bakgrunn av mer enn 100 individuelle statistikker per spiller per kamp.</p><p>En kamp i spillervurderingene er enhver kamp der spilleren har vært på banen selv om han kom inn som innbytter</p><p>En spiller må ha spilt minst 50% av kampene for å være med i statistikken</p>"
+      "value": "<p>Alle dataene er kalkulert på bakgrunn av statistikk fra Opta</p><p>FotMob-vurderingen er kalkulert på bakgrunn av mer enn 100 individuelle statistikker per spiller per kamp.</p><p>En kamp i spillervurderingene er enhver kamp der spilleren har vært på banen selv om han kom inn som innbytter</p><p>En spiller må ha spilt minst 50% av kampene og minst 90 minutter (for statistikken per 90) for å være med i statistikken</p>"
     },
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Alle dataene er kalkulert på bakgrunn av statistikk fra Opta</p><p>FotMob-vurderingen er kalkulert på bakgrunn av mer enn 100 individuelle statistikker per spiller per kamp.</p><p>En kamp i spillervurderingene er enhver kamp der spilleren har vært på banen selv om han kom inn som innbytter</p><p>En spiller må ha spilt minst 50%% av kampene for å være med i statistikken</p>"
+      "value": "<p>Alle dataene er kalkulert på bakgrunn av statistikk fra Opta</p><p>FotMob-vurderingen er kalkulert på bakgrunn av mer enn 100 individuelle statistikker per spiller per kamp.</p><p>En kamp i spillervurderingene er enhver kamp der spilleren har vært på banen selv om han kom inn som innbytter</p><p>En spiller må ha spilt minst 50%% av kampene og minst 90 minutter (for statistikken per 90) for å være med i statistikken</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",

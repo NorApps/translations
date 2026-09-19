@@ -3289,7 +3289,7 @@
     "common_deepstats_explanation_ios": {
       "comment": "We need double percentage sign here due to internal issue",
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50%% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
-      "value": "<p>Tutti i dati sono calcolati sulla base delle statistiche offerte da Opta.</p><p>La valutazione FotMob di un giocatore è basata su più di 100 statistiche individuali per incontro.</p><p>Ogni incontro in cui un giocatore entra a far parte, anche se per qualche minuto, viene considerato per calcolare la sua valutazione.</p><p>Un giocatore deve aver giocato almeno il 50%% di tutti gli incontri per far parte della classifica.</p>"
+      "value": "<p>Tutti i dati sono calcolati sulla base delle statistiche offerte da Opta.</p><p>La valutazione FotMob di un giocatore è basata su più di 100 statistiche individuali per incontro.</p><p>Ogni incontro in cui un giocatore entra a far parte, anche se per qualche minuto, viene considerato per calcolare la sua valutazione.</p><p>Un giocatore deve aver giocato almeno il 50%% di tutti gli incontri e almeno 90 minuti (per le statistiche per 90 minuti) per far parte della classifica.</p>"
     },
     "common_default_language": {
       "comment": "Default language selection (mark that selected language is auto-selected)",
