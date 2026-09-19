@@ -1193,6 +1193,10 @@
       "comment": "Label used in stats for penalty goals conceded",
       "value": "Penalty goals conceded"
     },
+    "accessibility_penalty_save_percent": {
+      "comment": "Share of the penalties a keeper faced that they saved. Season stat on the player profile.",
+      "value": "Penalty saves %"
+    },
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
       "value": "Penalty saves"
@@ -3401,6 +3405,10 @@
     "common_headed_clearance": {
       "comment": "Successful defensive clearance via a header – where player under pressure heads the ball clear of the defensive zone or/and out of play",
       "value": "Headed clearance"
+    },
+    "common_headed_shots": {
+      "comment": "Number of shots a player took with their head. Season stat on the player profile.",
+      "value": "Headed shots"
     },
     "common_hide_news": {
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",

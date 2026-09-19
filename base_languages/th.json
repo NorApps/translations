@@ -1501,6 +1501,11 @@
       "english": "Penalty goals conceded",
       "value": "ประตูที่ได้จากลูกโทษที่เสีย"
     },
+    "accessibility_penalty_save_percent": {
+      "comment": "Share of the penalties a keeper faced that they saved. Season stat on the player profile.",
+      "english": "Penalty saves %",
+      "value": "ป้องกันลูกโทษ %"
+    },
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
       "english": "Penalty saves",
@@ -4315,6 +4320,11 @@
       "comment": "Successful defensive clearance via a header – where player under pressure heads the ball clear of the defensive zone or/and out of play",
       "english": "Headed clearance",
       "value": "เคลียร์ด้วยการโหม่ง"
+    },
+    "common_headed_shots": {
+      "comment": "Number of shots a player took with their head. Season stat on the player profile.",
+      "english": "Headed shots",
+      "value": "ยิงด้วยการโหม่ง"
     },
     "common_hide_news": {
       "comment": "The action in the action-sheet to edit News' content. Like \"Hide Barcelona news\"",
