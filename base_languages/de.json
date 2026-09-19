@@ -9,12 +9,12 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "Erfolgreiche Querpässe"
+      "value": "Flankengenauigkeit"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "Genaue Querpässe pro Spiel"
+      "value": "Präzise Flanken pro Spiel"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -49,7 +49,7 @@
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won %",
-      "value": "Gewonnene Luftkämpfe %"
+      "value": "Gewonnene Luftzweikämpfe %"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
@@ -193,7 +193,7 @@
     "accessibility_coach_win_percentage": {
       "comment": "Percentage of games won out of total played.",
       "english": "Coach win percentage",
-      "value": "Trainer Siegquote"
+      "value": "Trainer-Siegquote"
     },
     "accessibility_collapse": {
       "comment": "To collapse a league",
@@ -367,7 +367,7 @@
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
       "english": "xGOT faced",
-      "value": "xGOT gegen"
+      "value": "xGOT zugelassen"
     },
     "accessibility_expected_goals_on_target_faced_per_90": {
       "comment": "Label used in stats for expected goals on target conceded per 90 min for keepers.",
@@ -747,7 +747,7 @@
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
       "english": "%1$@ has the most shots on target per match for %2$@ (%3$@)",
-      "value": "%1$@ hat die meisten Torschüsse pro Spiel für %2$@ (%3$@)."
+      "value": "%1$@ hat die meisten Schüsse aufs Tor pro Spiel für %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_x_for_team": {
       "comment": "A player is the best in a given a stat for a given team. Example: \"[Lionel Messi] has the most [yellow cards] for [Barcelona] (6)\" where text inside brackets ([xxx]) are variables",
@@ -762,7 +762,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "%1$@ liegt im Wettbewerb auf Rang %2$@ bei den gehaltenen Schüssen pro Spiel (%3$@)."
+      "value": "%1$@ liegt im Wettbewerb auf Rang %2$@ bei den Paraden pro Spiel (%3$@)"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -782,7 +782,7 @@
     "accessibility_insights_shots_on_target_team_ranking": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [3rd] in shots on target per match ([4.2] shots)",
       "english": "Ranked %1$@ in shots on target per match (%2$@ shots)",
-      "value": "Rang %1$@ in Torschüssen pro Spiel (%2$@ Schüsse)"
+      "value": "Rang %1$@ bei Schüssen aufs Tor pro Spiel (%2$@ Schüsse)"
     },
     "accessibility_insights_team_ranking": {
       "comment": "The team is ranked an ordinal number in a particular stat. Example (image of Barcelona to the left of this text): \"Ranked [2nd] in [goals scored per match] ([1.7])\"\" where text inside brackets ([xxx]) are variables",
@@ -812,7 +812,7 @@
     "accessibility_interception_team_title": {
       "comment": "Label used in stats for interceptions per match",
       "english": "Interceptions per match",
-      "value": "Abgefangene Bälle pro Spiel"
+      "value": "Abgefangene Pässe pro Spiel"
     },
     "accessibility_interception_title": {
       "comment": "Label used in stats for interceptions per 90",
@@ -822,7 +822,7 @@
     "accessibility_international_clubs": {
       "comment": "Header listing a list of tournaments where clubs from different countries participate. Like Champions League.",
       "english": "International - clubs",
-      "value": "International – Clubs"
+      "value": "International - Clubs"
     },
     "accessibility_interrupted": {
       "comment": "A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
@@ -870,7 +870,7 @@
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
       "english": "Keeper saves",
-      "value": "Gehaltene Bälle des Torwarts"
+      "value": "Torwartparaden"
     },
     "accessibility_keeper_sweeper_actions": {
       "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
@@ -1354,7 +1354,7 @@
     "accessibility_onboarding_leagues": {
       "comment": "An explanation during onboarding that when you click a button to follow a league, it will appear at the top of the live matches list showing the football matches",
       "english": "Leagues you follow appear at the top of your match list.",
-      "value": "Ligen, denen Du folgst, erscheinen oben auf deiner Spielliste"
+      "value": "Ligen, denen du folgst, erscheinen oben auf deiner Spielliste."
     },
     "accessibility_onboarding_leagues_search_placeholder": {
       "comment": "Placeholder text for search field in leagues onboarding screen.",
@@ -1429,7 +1429,7 @@
     "accessibility_outfielder_block_subtitle": {
       "comment": "Label used in stats for total outfielder blocks",
       "english": "Total blocks",
-      "value": "Blocks insgesamt"
+      "value": "Blocks gesamt"
     },
     "accessibility_outfielder_block_title": {
       "comment": "Label used in stats for outfielder blocks per 90",
@@ -1439,7 +1439,7 @@
     "accessibility_overall_table": {
       "comment": "String indicating that we will show a complete standings table with including both Home & Away matches. User can filter to only include Home or only Away. Can be translated as \"All\" as well.",
       "english": "Overall",
-      "value": "Alles"
+      "value": "Gesamt"
     },
     "accessibility_overhead_kick": {
       "comment": "Overhead kick of bicycle kick. Description is here https://en.wikipedia.org/wiki/Bicycle_kick.  is an acrobatic strike where a player kicks an airborne ball rearward in midair. It is achieved by throwing the body backward up into the air and, before descending to the ground, making a shearing movement with the lower limbs to get the ball-striking leg in front of the other. In most languages, the manoeuvre is named after either the cycling motion or the scissor motion that it resembles.",
@@ -1506,7 +1506,7 @@
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
       "english": "Penalty saves",
-      "value": "Elfmeter gehalten"
+      "value": "Elfmeterparaden"
     },
     "accessibility_per_90": {
       "comment": "Used for Picker in Player Profile to switch between total and per90 stats.",
@@ -1567,7 +1567,7 @@
     "accessibility_points_per_match": {
       "comment": "Average number of points earned per game played.",
       "english": "Points per game",
-      "value": "Punkte pro Spiele"
+      "value": "Punkte pro Spiel"
     },
     "accessibility_pointspopup_10pts": {
       "english": "10 pts for the winner of the final",
@@ -1606,12 +1606,12 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "Balleroberungen im letzten Spielfelddrittel pro 90"
+      "value": "Ballgewinne im letzten Drittel pro 90"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
       "english": "Possession won midfield per 90",
-      "value": "Balleroberungen im Mittelfeld pro 90"
+      "value": "Ballgewinne im Mittelfeld pro 90"
     },
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
@@ -1709,12 +1709,12 @@
     "accessibility_save_percentage": {
       "comment": "Label used in stats for save percentage for keepers",
       "english": "Save percentage",
-      "value": "Bälle gehalten in %"
+      "value": "Paradenquote"
     },
     "accessibility_saves_per_90": {
       "comment": "Label used in stats for saves per 90 min for keepers",
       "english": "Saves per 90",
-      "value": "Bälle gehalten pro 90"
+      "value": "Paraden pro 90"
     },
     "accessibility_search_result_header": {
       "comment": "Text shown on top of the search results page. Input is the search text.",
@@ -1816,7 +1816,7 @@
     "accessibility_shooting": {
       "comment": "A section header for shooting stats for a football player. Below are things like Goals, xG, xGOT, Shots.",
       "english": "Shooting",
-      "value": "Schüsse"
+      "value": "Torabschluss"
     },
     "accessibility_short_table": {
       "comment": "String indicating that we will show a short/condensed standings table without all the columns",
@@ -1826,7 +1826,7 @@
     "accessibility_shot_attempts": {
       "comment": "A stat name indicating the number of shot attempts made by a player.",
       "english": "Shot attempts",
-      "value": "Schuss-Versuche"
+      "value": "Schussversuche"
     },
     "accessibility_shot_blocked": {
       "comment": "A shot was blocked by a defender. An attacker shot the ball at goal but a defender blocked it.",
@@ -1856,12 +1856,12 @@
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
       "english": "Shots faced",
-      "value": "Schüsse aufs Tor"
+      "value": "Zugelassene Schüsse"
     },
     "accessibility_shots_on_target_per_90": {
       "comment": "Label used in stats for shots on target per 90 min",
       "english": "Shots on target per 90",
-      "value": "Torschüsse pro 90"
+      "value": "Schüsse aufs Tor pro 90"
     },
     "accessibility_shots_per_90": {
       "comment": "Label used in stats for shots per 90 min",
@@ -1962,7 +1962,7 @@
     "accessibility_stats_comparison_att_mid_wingers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other attacking midfielders/wingers.",
       "english": "Stats compared to other attacking midfielders/wingers",
-      "value": "Statistiken im Vergleich mit anderen Mittelfeld- / Flügelspielern"
+      "value": "Statistiken im Vergleich mit anderen offensiven Mittelfeld-/Flügelspielern"
     },
     "accessibility_stats_comparison_center_backs": {
       "comment": "A description highlighting that a player's stat is benchmarked against other center-backs.",
@@ -1971,7 +1971,7 @@
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
-      "value": "Das Statistikdiagramm hebt die statistischen Stärken und Schwächen eines Spielers im Vergleich zu ähnlichen Spielern hervor. Jede Statistik wird auf einer pro 90 Minuten Basis angepasst und umfasst die Spiele der letzten 365 Tage. Die Spieler werden dann mit mit Spieler auf der selben Position aus ähnlichen Ligen verglichen und in ein Perzentil-Ranking eingeordnet.\\n\\nEin Spieler mit einem Perzentil-Ranking von 90 % bei den kreierten Chancen bedeutet zum Beispiel, dass er mehr Chancen kreiert als 90 % der Spieler auf seiner Position in ähnlichen Ligen.\\n\\nAlle Details zu den Vergleichen finden Sie in unseren FAQ."
+      "value": "Das Diagramm „Spielermerkmale“ hebt die statistischen Stärken und Schwächen eines Spielers im Vergleich zu ähnlichen Spielern hervor.\\n\\nJede Statistik wird auf 90 Minuten umgerechnet und berücksichtigt die Spiele der letzten 365 Tage.\\n\\nDie Spieler werden dann mit Spielern auf der gleichen Position aus ähnlichen Ligen verglichen und in ein Perzentil-Ranking eingeordnet.\\n\\nEin Perzentil-Ranking von 90 % bei den kreierten Chancen bedeutet zum Beispiel, dass ein Spieler mehr Chancen kreiert als 90 % der Spieler auf seiner Position in ähnlichen Ligen.\\n\\nAlle Details zu den Vergleichen finden Sie in unseren FAQ."
     },
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
@@ -1986,7 +1986,7 @@
     "accessibility_stats_comparison_keepers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other keepers.",
       "english": "Stats compared to other keepers",
-      "value": "Statistiken im Vergleich mit anderen Torwärtern"
+      "value": "Statistiken im Vergleich mit anderen Torhütern"
     },
     "accessibility_stats_comparison_midfielders": {
       "comment": "A description highlighting that a player's stat is benchmarked against other midfield players.",
@@ -2358,7 +2358,7 @@
     "accessibility_total_interception": {
       "comment": "Label used in stats for total interceptions",
       "english": "Total interceptions",
-      "value": "Abgefangene Pässe insgesamt"
+      "value": "Abgefangene Pässe gesamt"
     },
     "accessibility_total_passes": {
       "comment": "Total amount of passes. Includes both accurate and missed passes.",
@@ -2368,7 +2368,7 @@
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
       "english": "Touches in opposition box",
-      "value": "Ballberührungen im gegnerischen Strafraum"
+      "value": "Ballkontakte im gegnerischen Strafraum"
     },
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
@@ -2477,7 +2477,7 @@
     "accessibility_win_percentage": {
       "comment": "Percentage of matches won out of total played.",
       "english": "Win percentage",
-      "value": "Gewonnene Spiele in Prozent"
+      "value": "Siegquote"
     },
     "accessibility_won_contest_per_90": {
       "comment": "Label used in stats for successful dribbles per 90",
@@ -2542,11 +2542,11 @@
     },
     "common_ShotsOffTarget": {
       "english": "Shots off target",
-      "value": "Torschüsse - daneben"
+      "value": "Schüsse daneben"
     },
     "common_ShotsOnTarget": {
       "english": "Shots on target",
-      "value": "Torschüsse"
+      "value": "Schüsse aufs Tor"
     },
     "common_aborted": {
       "english": "Abandoned",
@@ -2563,7 +2563,7 @@
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
       "english": "Accurate crosses",
-      "value": "Zielgenaue Flanken"
+      "value": "Präzise Flanken"
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
@@ -2693,7 +2693,7 @@
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
       "english": "%@ %@-%@ %@\\nOfficial highlights",
-      "value": "%@ %@-%@ %@\\nOffizielle Höhepunkte"
+      "value": "%@ %@-%@ %@\\nOffizielle Highlights"
     },
     "common_all": {
       "comment": "Onboarding: header for all non-top players list",
@@ -3279,7 +3279,7 @@
     "common_deep_stats_teams": {
       "comment": "Title on a tab in the app. Stats for the teams for a particular league",
       "english": "Team stats",
-      "value": "Mannschaftsstatistiken"
+      "value": "Teamstats"
     },
     "common_deepstats_explanation": {
       "english": "<p>All data is calculated based on stats provided by Opta.</p><p>The FotMob player rating is calculated based on more than 100 individual stats per player per match.</p><p>A match in the per match ratings is any match the participant has been involved in even if he came on as substitute in the last few minutes.</p><p>A player must have played at least 50% of all matches and at least 90 minutes (for the per 90 stats) to be included in the rankings.</p>",
@@ -3372,7 +3372,7 @@
     "common_drawer_close": {
       "comment": "Closes the left navigation menu",
       "english": "Close navigation drawer",
-      "value": "Navigation schliessen"
+      "value": "Navigation schließen"
     },
     "common_drawer_open": {
       "comment": "Opens the left navigation menu",
@@ -3655,7 +3655,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "Expected goals aufs Tor (xGOT)"
+      "value": "Erwartete Tore bei Schüssen aufs Tor (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -3819,7 +3819,7 @@
     "common_for_you": {
       "comment": "Section in News with either your favorites' news or the news we've picked for the user ourselves",
       "english": "For you",
-      "value": "Für Dich"
+      "value": "Für dich"
     },
     "common_forward_backward_passes": {
       "comment": "Header of a graphic showing how many passes ended in the forward zone / opposition half and how many passes ended in own half. So can be translated as \"Opposition half / own half\"",
@@ -3867,7 +3867,7 @@
     },
     "common_fulltime_short": {
       "english": "FT",
-      "value": "Erg"
+      "value": "FT"
     },
     "common_fun_fact_conceded_penalty_plurals": {
       "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
@@ -3963,12 +3963,12 @@
     "common_fun_fact_joint_opp_box_touches": {
       "comment": "Example: had the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
       "english": "Had the joint-most touches (%1$@) in the opposition box",
-      "value": "Hatte gemeinsam mit anderen die meisten Ballberührungen (%1$@) im gegnerischen Strafraum"
+      "value": "Hatte gemeinsam mit anderen die meisten Ballkontakte (%1$@) im gegnerischen Strafraum"
     },
     "common_fun_fact_joint_opp_box_touches_live": {
       "comment": "Example: has the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
       "english": "Has the joint-most touches (%1$@) in the opposition box",
-      "value": "Hat gemeinsam mit anderen die meisten Ballberührungen (%1$@) im gegnerischen Strafraum"
+      "value": "Hat gemeinsam mit anderen die meisten Ballkontakte (%1$@) im gegnerischen Strafraum"
     },
     "common_fun_fact_joint_woodwork": {
       "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
@@ -4070,12 +4070,12 @@
     "common_fun_fact_opp_box_touches": {
       "comment": "Ronaldo had the most touches (12) in the opposition box.",
       "english": "Had the most touches (%1$@) in the opposition box",
-      "value": "Hatte die meisten Ballberührungen (%1$@) im gegnerischen Strafraum"
+      "value": "Hatte die meisten Ballkontakte (%1$@) im gegnerischen Strafraum"
     },
     "common_fun_fact_opp_box_touches_live": {
       "comment": "Ronaldo has the most touches (43) in the opposition box.",
       "english": "Has the most touches (%1$@) in the opposition box",
-      "value": "Hat die meisten Ballberührungen (%1$@) im gegnerischen Strafraum"
+      "value": "Hat die meisten Ballkontakte (%1$@) im gegnerischen Strafraum"
     },
     "common_fun_fact_own_goal": {
       "comment": "Example: scored an own goal.",
@@ -4192,17 +4192,17 @@
     "common_goals_conceded": {
       "comment": "Number of goals a keeper has conceded in a match.",
       "english": "Goals conceded",
-      "value": "Gegnerische Tore"
+      "value": "Gegentore"
     },
     "common_goals_conceded_team_match_subtitle": {
       "comment": "Total number of goals a player/team has conceded",
       "english": "Total goals conceded",
-      "value": "Gegnerische Tore gesamt"
+      "value": "Gegentore gesamt"
     },
     "common_goals_conceded_team_match_title": {
       "comment": "Number of goals a team concedes in average per match",
       "english": "Goals conceded per match",
-      "value": "Gegnerische Tore pro Spiel"
+      "value": "Gegentore pro Spiel"
     },
     "common_goals_from_bench": {
       "comment": "It is goals a player has scored when he began the match as a substitute",
@@ -4355,7 +4355,7 @@
     "common_highlights": {
       "comment": "A news' section contains the highlights from various matches",
       "english": "Highlights",
-      "value": "Höhepunkte"
+      "value": "Highlights"
     },
     "common_home": {
       "comment": "Label indicating we are showing the home matches of the team",
@@ -4449,7 +4449,7 @@
     "common_interceptions": {
       "comment": "Player managed to intercept a pass from opponent and got control over the ball",
       "english": "Interceptions",
-      "value": "Abgefangen"
+      "value": "Abgefangene Pässe"
     },
     "common_international": {
       "comment": "Label for international tournaments’ headers in Live Matches",
@@ -4674,12 +4674,12 @@
     "common_leftwinger": {
       "comment": "Player position - player plays on the left side of the pitch in the attacking half",
       "english": "Left Winger",
-      "value": "Linker Flügelstürmer"
+      "value": "Linksaußen"
     },
     "common_leftwinger_short": {
       "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
       "english": "LW",
-      "value": "LF"
+      "value": "LA"
     },
     "common_legacy_gold_member": {
       "comment": "This is in a info message for people that already bought FotMob but we offer them to also do a subscription.",
@@ -4740,7 +4740,7 @@
     },
     "common_lost": {
       "english": "L",
-      "value": "V"
+      "value": "N"
     },
     "common_lost_long": {
       "english": "Lost",
@@ -5173,7 +5173,7 @@
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "Erhalte Benachrichtigungen für offizielle Höhepunkte von Spielen, für die Vollzeitbenachrichtigungen aktiviert sind."
+      "value": "Erhalte Benachrichtigungen für offizielle Highlights von Spielen, für die Endergebnis-Benachrichtigungen aktiviert sind."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -5215,7 +5215,7 @@
     "common_onboarding_news_content": {
       "comment": "A full description of the onboarding popup, which explains that we've just released a new news page",
       "english": "A more personalized news feed, official highlights, and more.",
-      "value": "Noch mehr personalisierte Nachrichten, offizielle Höhepunkte und mehr."
+      "value": "Noch mehr personalisierte Nachrichten, offizielle Highlights und mehr."
     },
     "common_onboarding_news_title": {
       "comment": "A title in the onboarding popup, which explains that we've just released a new news page",
@@ -5258,19 +5258,19 @@
     },
     "common_ontarget_scoring_att_subtitle": {
       "english": "Total shots on target",
-      "value": "Torschüsse gesamt"
+      "value": "Schüsse aufs Tor gesamt"
     },
     "common_ontarget_scoring_att_team_subtitle": {
       "english": "Total shots",
-      "value": "Torschüsse gesamt"
+      "value": "Schüsse gesamt"
     },
     "common_ontarget_scoring_att_team_title": {
       "english": "Shots on target per match",
-      "value": "Torschüsse pro Spiel"
+      "value": "Schüsse aufs Tor pro Spiel"
     },
     "common_ontarget_scoring_att_title": {
       "english": "Shots on target per match",
-      "value": "Torschüsse pro Spiel"
+      "value": "Schüsse aufs Tor pro Spiel"
     },
     "common_open_play": {
       "comment": "Type of goal (the most common)",
@@ -5456,12 +5456,12 @@
     "common_players_in": {
       "comment": "In the Team page, this is a header indicating which players have transferred to the team",
       "english": "Players in",
-      "value": "Kommende Spieler"
+      "value": "Zugänge"
     },
     "common_players_out": {
       "comment": "In the Team page, this is a header indicating which players have transferred away from the team",
       "english": "Players out",
-      "value": "Gehende Spieler"
+      "value": "Abgänge"
     },
     "common_players_to_follow": {
       "comment": "Favorite players picker in the WC2018 onboarding",
@@ -5500,20 +5500,20 @@
     },
     "common_poss_won_att_3rd_subtitle": {
       "english": "Possession won midfield",
-      "value": "Balleroberungen im Mittelfeld"
+      "value": "Ballgewinne im Mittelfeld"
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "Balleroberungen im Mittelfeld"
+      "value": "Ballgewinne im Mittelfeld"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Balleroberungen im letzten Spielfelddrittel"
+      "value": "Ballgewinne im letzten Drittel"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Balleroberungen im letzten Spielfelddrittel"
+      "value": "Ballgewinne im letzten Drittel pro Spiel"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5747,7 +5747,7 @@
     "common_rightwinger": {
       "comment": "Player position - player plays as a right wing",
       "english": "Right Winger",
-      "value": "Rechter Flügelstürmer"
+      "value": "Rechtsaußen"
     },
     "common_rightwinger_short": {
       "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
@@ -5790,15 +5790,15 @@
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
       "english": "Saves inside box",
-      "value": "Rettungsaktionen im Strafraum"
+      "value": "Paraden bei Strafraumschüssen"
     },
     "common_saves_subtitle": {
       "english": "Total saves",
-      "value": "Gehaltene Bälle gesamt"
+      "value": "Paraden gesamt"
     },
     "common_saves_title": {
       "english": "Saves per match",
-      "value": "Bälle gehalten pro Spiel"
+      "value": "Paraden pro Spiel"
     },
     "common_score_poll_interval": {
       "english": "Score polling interval",
@@ -5872,7 +5872,7 @@
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
-      "value": "Sieh weitere Höhepunkte"
+      "value": "Sieh weitere Highlights"
     },
     "common_see_more": {
       "comment": "The footer in the news's section to show all stories about the topic",
@@ -5970,7 +5970,7 @@
     "common_shots_on_off_target": {
       "comment": "Header to indicate how many shots was on target and how many was off target",
       "english": "Shots On / Off target",
-      "value": "Schüsse auf / neben Ziel"
+      "value": "Schüsse aufs Tor / daneben"
     },
     "common_show_all_matches": {
       "english": "Show all matches",
@@ -6051,7 +6051,7 @@
     },
     "common_squad": {
       "english": "Squad",
-      "value": "Mannschaft"
+      "value": "Kader"
     },
     "common_squad_name": {
       "comment": "Used in the lineup builder for a squad name title placeholder",
@@ -6173,7 +6173,7 @@
     "common_surface": {
       "comment": "Type of grass that the football field has. Can be translated as \"Pitch type\" or \"Surface type\" as well. Options can be grass or artificial.",
       "english": "Surface",
-      "value": "Oberfläche"
+      "value": "Untergrund"
     },
     "common_surface_artificial": {
       "comment": "Type of grass that the football field has. Options can be grass or artificial.",
@@ -6183,7 +6183,7 @@
     "common_surface_grass": {
       "comment": "Type of grass that the football field has. Options can be grass or artificial.",
       "english": "Grass",
-      "value": "Gras"
+      "value": "Rasen"
     },
     "common_suspensions": {
       "english": "Suspended",
@@ -6556,7 +6556,7 @@
     "common_tv_schedules_change": {
       "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
       "english": "Click here to change or add countries",
-      "value": "Klicke hier um Länder zu ändern oder hinzufügen"
+      "value": "Klicke hier, um Länder zu ändern oder hinzuzufügen"
     },
     "common_tv_schedules_change_stations": {
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
@@ -6788,7 +6788,7 @@
     },
     "common_won": {
       "english": "W",
-      "value": "G"
+      "value": "S"
     },
     "common_won_contest_subtitle": {
       "english": "Successful dribbles %",
@@ -7295,7 +7295,7 @@
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
       "english": "FotMob - the best livescores app for football/soccer",
-      "value": "FotMob - Die beste Fussball-Live-App"
+      "value": "FotMob - die beste Fußball-Live-App"
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
@@ -8009,12 +8009,12 @@
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
       "english": "Aerial duels lost",
-      "value": "Verlorene Luftkämpfe"
+      "value": "Verlorene Luftzweikämpfe"
     },
     "notifications_aerials_won": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won",
-      "value": "Gewonnene Luftkämpfe"
+      "value": "Gewonnene Luftzweikämpfe"
     },
     "notifications_albania": {
       "english": "Albania",
@@ -8368,7 +8368,7 @@
     "notifications_confirmed_transfer_news": {
       "comment": "Label indicating it applies to confirmed transfers only",
       "english": "Confirmed transfers",
-      "value": "Neuigkeiten zu bestätigten Transfers"
+      "value": "Bestätigte Transfers"
     },
     "notifications_croatia": {
       "english": "Croatia",
@@ -8485,7 +8485,7 @@
     "notifications_enable_breaking_news": {
       "comment": "User can enable breaking news alerts",
       "english": "Enable breaking news",
-      "value": "Aktuelle Eilmeldungen aktivieren"
+      "value": "Eilmeldungen aktivieren"
     },
     "notifications_enable_breaking_news_desc": {
       "comment": "User can enable breaking news alerts",
@@ -9291,7 +9291,7 @@
     "notifications_match_highlights": {
       "comment": "In match facts, describing match story",
       "english": "Match highlights",
-      "value": "Spiel-Höhepunkte"
+      "value": "Spiel-Highlights"
     },
     "notifications_matches_started": {
       "comment": "Header for a number indication how many matches the player has started out of a total. Like \"Matches started 27/30\".",
@@ -9739,7 +9739,7 @@
     "notifications_saves": {
       "comment": "Stat for the number of keeper saves in the match",
       "english": "Saves",
-      "value": "Gehaltene Bälle"
+      "value": "Paraden"
     },
     "notifications_search_box_hint": {
       "english": "Search for teams, matches, players, news, leagues",
@@ -9801,7 +9801,7 @@
     "notifications_set_quick_toggle_notifications_desc": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts",
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
-      "value": "Stelle ein welche Benachrichtigungen aktiviert sind, sobald du in der Spiel-Übersicht auf die Glocke klickst."
+      "value": "Stelle ein, welche Benachrichtigungen aktiviert sind, sobald du in der Spiel-Übersicht auf die Glocke klickst."
     },
     "notifications_set_standard_notifications": {
       "comment": "A menu choice asking the user to set a list of standard notifications for matches",
@@ -10050,7 +10050,7 @@
     },
     "notifications_total_shots": {
       "english": "Total shots",
-      "value": "Gesamtschüsse"
+      "value": "Schüsse gesamt"
     },
     "notifications_touches": {
       "comment": "How many times the player touched the ball during the match",
@@ -10191,7 +10191,7 @@
     },
     "notifications_we_can_keep_your_settings_safe": {
       "english": "Sign in to sync settings across devices or retrieve them when you set up a new device.",
-      "value": "Melden Sie sich an, um Einstellungen geräteübergreifend zu synchronisieren oder rufen Sie sie ab, wenn Sie ein neues Gerät einrichten."
+      "value": "Melde dich an, um deine Einstellungen geräteübergreifend zu synchronisieren oder auf einem neuen Gerät wiederherzustellen."
     },
     "notifications_winner": {
       "comment": "Header indicating that the team won the league",
@@ -10389,7 +10389,7 @@
     "seo_advertise_with_us": {
       "comment": "Button where user can click to get info about advertising with us.",
       "english": "Advertise with us",
-      "value": "Werben Sie bei uns"
+      "value": "Bei uns werben"
     },
     "seo_afcon_predictor_cta": {
       "comment": "Call to action for getting users to play the Africa Cup of Nations predictor",
@@ -10832,7 +10832,7 @@
     "seo_exclusive_app_icons_desc": {
       "comment": "A description for the \"Exclusive app icons\" FotMob+ feature.",
       "english": "Customize your homescreen with alternate app icons.",
-      "value": "Passen Sie Ihren Homescreen mit alternativen App-Symbolen an."
+      "value": "Passe deinen Startbildschirm mit alternativen App-Symbolen an."
     },
     "seo_expected_goals_against_while_on_pitch": {
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
@@ -11416,7 +11416,7 @@
     "seo_lineup_builder": {
       "comment": "Headline for a lineup builder for football teams. In Norwegian the natural translation would be \"Lagbygger\".",
       "english": "Lineup Builder",
-      "value": "Aufstellungs-Editor"
+      "value": "Aufstellungsplaner"
     },
     "seo_lineup_builder_app_promo_subtitle": {
       "comment": "Promo subtitle text for the lineup builder now available in the app, \"it\" refering to the lineup builder. keep translations short and consise. See [lineup_builder]",
@@ -11436,7 +11436,7 @@
     "seo_lineup_builder_meta_title": {
       "comment": "Meta info title for the lineup builder. see [lineup_builder].",
       "english": "Lineup Builder - Create Your Squad with Formations and Player Faces",
-      "value": "Aufstellungsplaner - Erstelle Dein Team mit Formationen und Spielerbildern"
+      "value": "Aufstellungsplaner - Erstelle dein Team mit Formationen und Spielerbildern"
     },
     "seo_lineup_name_already_exists": {
       "comment": "toast text after trying to save a lineup with the same name as an already saved lineup. User is prompted with the question of wheter he wishes to overwrite the lineup or not.",
@@ -11568,12 +11568,12 @@
     "seo_more_notification_sounds": {
       "comment": "One of FotMob+ features",
       "english": "More notification sounds",
-      "value": "Mehr Benachrichtigungsgeräusche"
+      "value": "Mehr Benachrichtigungstöne"
     },
     "seo_more_notification_sounds_desc": {
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
       "english": "Unlock additional notification sounds.",
-      "value": "Schalten Sie zusätzliche Benachrichtigungsgeräusche frei."
+      "value": "Schalte zusätzliche Benachrichtigungstöne frei."
     },
     "seo_need_at_least_one_selected_country": {
       "comment": "A toast indicating for the user that he needs at least one selected country for the tv schedules feature to work",
@@ -11768,7 +11768,7 @@
     "seo_physical_metrics_distance_covered": {
       "comment": "The total distance a player has covered during a match. Please adjust the translation as needed if \"covered\" sounds weird. This is how far a player has walked, run or sprinted in a match.",
       "english": "Distance covered",
-      "value": "Zurückgelegte Distanz"
+      "value": "Laufdistanz"
     },
     "seo_physical_metrics_high_speed_running": {
       "comment": "A label indicating how much a player has been running at high speed. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
@@ -11908,7 +11908,7 @@
     "seo_popular_in": {
       "comment": "Used in search for popular search results. Give the users country.",
       "english": "Popular in %@",
-      "value": "Beliebt in %@"
+      "value": "Beliebt · %@"
     },
     "seo_popular_in_your_country": {
       "comment": "Used in search for popular search results if we dont know the users country",
@@ -12493,7 +12493,7 @@
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
       "english": "Have a question about FotMob, app settings or stats definitions? Check out FotMob's Frequently Asked Questions page for answers and other pro tips!",
-      "value": "Hast du eine Frage zu FotMob, App-Einstellungen oder Statistikdefinitionen? Schau dir FotMob's Häufig gestellte Fragen Seite für Antworten und andere Pro-Tipps an!"
+      "value": "Hast du eine Frage zu FotMob, App-Einstellungen oder Statistikdefinitionen? Auf der Seite mit häufig gestellten Fragen (FAQ) von FotMob findest du Antworten und weitere Profi-Tipps!"
     },
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
@@ -12682,7 +12682,7 @@
     "seo_site_title_for_you": {
       "comment": "Title of the For You news page. Typically displayed in the tab header in the browser.",
       "english": "News - For You - personalized news feed",
-      "value": "Nachrichten - Für Dich - personalisierter Nachrichten-Feed"
+      "value": "Nachrichten - Für dich - personalisierter Nachrichten-Feed"
     },
     "seo_site_title_latest_news": {
       "comment": "Title of the Latest News page. Typically displayed in the tab header in the browser.",
@@ -12947,7 +12947,7 @@
     "seo_support_fotmob_desc": {
       "comment": "A description for the \"Support FotMob\" FotMob+ feature.",
       "english": "Help support the ongoing development of FotMob.",
-      "value": "Unterstützen Sie die laufende Entwicklung von FotMob."
+      "value": "Unterstütze die laufende Entwicklung von FotMob."
     },
     "seo_switch_to_rumours": {
       "comment": "String on the button that changes from showing transfers to showing rumours. See rumours.",
@@ -13081,7 +13081,7 @@
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
       "english": "Thanks for supporting us since %@! Unlock even more features with FotMob+",
-      "value": "Danke, dass Du uns seit %@ unterstützt! Schalte noch mehr Funktionen mit FotMob+ frei"
+      "value": "Danke, dass du uns seit %@ unterstützt! Schalte noch mehr Funktionen mit FotMob+ frei"
     },
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -13521,37 +13521,37 @@
     "stat answer box_stat_answer_position_attacking_midfielder": {
       "comment": "Plural form of \"attacking midfielder\", see \"centerattackingmidfielder\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Big chances created among attacking midfielders ...\".",
       "english": "attacking midfielders",
-      "value": "Offensivspieler im Mittelfeld"
+      "value": "offensiven Mittelfeldspielern"
     },
     "stat answer box_stat_answer_position_center_back": {
       "comment": "Plural form of \"center-back\", see \"centerback\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Tackles per 90 among center-backs ...\".",
       "english": "center-backs",
-      "value": "Innenverteidiger"
+      "value": "Innenverteidigern"
     },
     "stat answer box_stat_answer_position_fullback": {
       "comment": "Plural form of \"fullback\", see \"position_fullback\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Accurate crosses among fullbacks ...\".",
       "english": "fullbacks",
-      "value": "Außenverteidiger"
+      "value": "Außenverteidigern"
     },
     "stat answer box_stat_answer_position_keeper": {
       "comment": "Plural form of \"keeper\", see \"keeper_long\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Assists among keepers ...\".",
       "english": "keepers",
-      "value": "Torhüter"
+      "value": "Torhütern"
     },
     "stat answer box_stat_answer_position_midfielder": {
       "comment": "Plural form of \"midfielder\", see \"midfielder_long\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Assists among midfielders ...\".",
       "english": "midfielders",
-      "value": "Mittelfeldspieler"
+      "value": "Mittelfeldspielern"
     },
     "stat answer box_stat_answer_position_striker": {
       "comment": "Plural form of \"striker\", see \"striker\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Expected goals (xG) among strikers ...\".",
       "english": "strikers",
-      "value": "Stürmer"
+      "value": "Stürmern"
     },
     "stat answer box_stat_answer_position_winger": {
       "comment": "Plural form of \"winger\", see \"position_winger\". Used as a position-filter label in SEO answer-box sentences, interpolated mid-sentence, e.g. \"... leads ... in Successful dribbles per 90 among wingers ...\".",
       "english": "wingers",
-      "value": "Flügelspieler"
+      "value": "Flügelspielern"
     },
     "stat answer box_stat_answer_sentence_generic_player": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web, used for every player leaderboard EXCEPT goals (which has its own bespoke \"top scorer\" phrasing). Placeholders: %1$@ → player name; %2$@ → league name; %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Assists\", \"Yellow cards\", \"xG per 90\"); %5$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists with 7.\" IMPORTANT: %2$@ is the league name — a COMPETITION, NOT an opponent being beaten. \"Leads %2$@ in %4$@\" means \"is the leader in the %4$@ ranking within %2$@\". Do NOT translate as \"beats/is ahead of/outperforms %2$@\" — the player is not competing against %2$@; %2$@ is the tournament the ranking is measured in.",
