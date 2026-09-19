@@ -2891,10 +2891,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "Placeringar i turneringsschemat baseras på live-resultat och är inte slutgiltiga förrän den aktuella omgången är avslutad.\\n\\nLag separerade med “eller” kommer att placeras tillsammans i en lottning och kan inte möta varandra i den omgången."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Brons supporter"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4258,10 +4254,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ har gjort mål under sina %2$@ senaste hemmamatcher."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Guld supporter"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5800,10 +5792,6 @@
       "english": "Saves per match",
       "value": "Räddningar per match"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Uppdaterings intervall"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Volym för målsignal"
@@ -6012,14 +6000,6 @@
       "english": "Silent",
       "value": "Tyst"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Ta bort reklam i ett år. Klicka för mer info"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Silver supporter"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6189,25 +6169,9 @@
       "english": "Suspended",
       "value": "Avstängd"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 min"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 min"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 sekunder"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 min"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 min"
     },
     "common_tab": {
       "english": "Tab",
@@ -7513,10 +7477,6 @@
       "english": "Dismiss",
       "value": "Avfärda"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "E-postadress"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7605,11 +7565,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "Laguppställning bekräftad"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Logga in med"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

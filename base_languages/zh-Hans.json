@@ -2888,10 +2888,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "括号中的位置基于实时结果，直到当前阶段完成才最终确定。\\n\\n用“或”分隔的球队将一起进入抽签，且在该轮中不会相遇。"
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "青铜会员"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4246,10 +4242,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@在近%2$@场主场比赛中进球。"
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "黄金会员"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5787,10 +5779,6 @@
       "english": "Saves per match",
       "value": "单场扑救"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "得分查询间隔"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "进球提醒音量"
@@ -5999,14 +5987,6 @@
       "english": "Silent",
       "value": "关闭"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "一年期去除广告，点击查看详情"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "白银会员"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6176,25 +6156,9 @@
       "english": "Suspended",
       "value": "停赛"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 分钟"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 分钟"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 秒"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 分钟"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 分钟"
     },
     "common_tab": {
       "english": "Tab",
@@ -7497,10 +7461,6 @@
       "english": "Dismiss",
       "value": "关闭"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "邮箱地址"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7589,11 +7549,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "阵容确定"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "登入"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

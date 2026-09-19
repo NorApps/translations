@@ -2889,10 +2889,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "ဘရားကက်တွင် နေရာချထားမှုများသည် တိုက်ရိုက်ရလဒ်များအပေါ် အခြေခံထားပြီး လက်ရှိအဆင့်ပြီးဆုံးသည်အထိ အဆုံးအဖြတ်မရပါ။\\n\\n“or” ဖြင့် ခွဲထားသော အသင်းများကို အတူတူ မဲဖောက်၍ ထားပြီး အဆိုပါအဆင့်တွင် တစ်ခုနှင့်တစ်ခု မတိုက်ခိုက်နိုင်ပါ။"
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "ကြေးအဆင့် ကူညီပံ့ပိုးသူ"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4246,10 +4242,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ ဟာ နောက်ဆုံး အိမ်ကွင်းပွဲစဉ် %2$@ ခုအတွင်း ဂိုးသွင်းနိုင်ခဲ့ပါတယ်။"
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "ရွှေအဆင့် ကူညီပံ့ပိုးသူ"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5787,10 +5779,6 @@
       "english": "Saves per match",
       "value": "တစ်ပွဲလျှင် ပျမ်းမျှ ကာကွယ်နိုင်မှု"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "သွင်းဂိုး စစ်တမ်းကောက် ကာလ"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "သွင်းဂိုးသတိပေးချက် အသံအတိုးအကျယ်"
@@ -5999,14 +5987,6 @@
       "english": "Silent",
       "value": "အသံတိတ်"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "တစ်နှစ်စာ ကြော်ငြာ ဖယ်ရှားလိုက်ပါ။ အသေးစိတ်သိရန် နှိပ်ပါ"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "ငွေအဆင့် ကူညီပံ့ပိုးသူ"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6176,25 +6156,9 @@
       "english": "Suspended",
       "value": "ပွဲပယ်"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "၁၀ မိနစ်"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "၁ မိနစ်"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "၃၀ စက္ကန့်"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "၃ မိနစ်"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "၅ မိနစ်"
     },
     "common_tab": {
       "english": "Tab",
@@ -7497,10 +7461,6 @@
       "english": "Dismiss",
       "value": "ပိတ်ရန်"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "အီးမေးလ်လိပ်စာ"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7589,11 +7549,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "လူစာရင်း အတည်ပြုလိုက်ပါပြီ"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "အကောင့်ဝင်ရန်"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

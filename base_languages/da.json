@@ -14,7 +14,7 @@
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "Succesfulde indlæg pr. kamp"
+      "value": "Præcise indlæg pr. kamp"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -1072,7 +1072,7 @@
     "accessibility_misc_2nd_of_group": {
       "comment": "Indicating the runner up of a group. Eg \"2nd Group C\"",
       "english": "2nd Group %1$@",
-      "value": "2. plads,  Gruppe %1$@"
+      "value": "2. plads i Gruppe %1$@"
     },
     "accessibility_misc_3rd_of_group": {
       "comment": "Indicating the 3rd placed team in a group. Eg \"3rd in Group C\"",
@@ -1116,7 +1116,7 @@
     "accessibility_misc_winner_of_group": {
       "comment": "Indicating the winner of a group. Eg \"Winner Group B\"",
       "english": "Winner Group %1$@",
-      "value": "Vinder %1$@"
+      "value": "Vinder af Gruppe %1$@"
     },
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
@@ -2110,11 +2110,11 @@
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
       "english": "Successful passes",
-      "value": "Vellykkede pasninger"
+      "value": "Vellykkede afleveringer"
     },
     "accessibility_successful_passes_accuracy": {
       "english": "Successful passes %",
-      "value": "Vellykkede pasninger %"
+      "value": "Vellykkede afleveringer %"
     },
     "accessibility_suspension_73": {
       "comment": "A reason for player's suspension in player-profile",
@@ -2363,7 +2363,7 @@
     "accessibility_total_passes": {
       "comment": "Total amount of passes. Includes both accurate and missed passes.",
       "english": "Total passes",
-      "value": "Afleveringer totalt"
+      "value": "Afleveringer i alt"
     },
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
@@ -2563,7 +2563,7 @@
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
       "english": "Accurate crosses",
-      "value": "Vellykkede indlæg"
+      "value": "Præcise indlæg"
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
@@ -2891,10 +2891,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "Placeringer i turneringsskemaet er baseret på live-resultater og er ikke endelige, før den aktuelle runde er afsluttet.\\n\\nHold, der er adskilt med “eller”, vil blive placeret i samme lodtrækning og kan ikke møde hinanden i den runde."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Bronze medlem"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -3091,7 +3087,7 @@
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
       "english": "Clean sheet",
-      "value": "Holdt nullet"
+      "value": "Clean sheet"
     },
     "common_clean_sheet_subtitle": {
       "english": "Total matches",
@@ -4259,10 +4255,6 @@
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ har scoret i de seneste %2$@ hjemmekampe."
     },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Guld medlem"
-    },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
       "english": "Golden goal",
@@ -5069,7 +5061,7 @@
     },
     "common_no_team_info": {
       "english": "Sorry, we do not have any info on this team",
-      "value": "Beklager,  vi har ingen info om dette hold"
+      "value": "Beklager, vi har ingen info om dette hold"
     },
     "common_no_top_assists": {
       "comment": "Empty placeholder for the case of empty top-assists",
@@ -5800,10 +5792,6 @@
       "english": "Saves per match",
       "value": "Redninger pr. kamp"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Live-opdaterings interval"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Lydstyrke ved scoringsnotifikation"
@@ -6012,14 +6000,6 @@
       "english": "Silent",
       "value": "Lydløs"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Fjern reklamer i et helt år. Klik for detaljer"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Sølv medlem"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6139,7 +6119,7 @@
     },
     "common_subs": {
       "english": "Substitutes",
-      "value": "Udskifningsspillere"
+      "value": "Udskiftningsspillere"
     },
     "common_subs_stats": {
       "english": "Substitutes",
@@ -6189,25 +6169,9 @@
       "english": "Suspended",
       "value": "Karantæner"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 minutter"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 minut"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 sek."
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 minutter"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 minutter"
     },
     "common_tab": {
       "english": "Tab",
@@ -6444,7 +6408,7 @@
     },
     "common_topnews": {
       "english": "Top news",
-      "value": "Top nyheder"
+      "value": "Topnyheder"
     },
     "common_total_votes": {
       "comment": "Total number of votes for a poll on match facts. People can vote if they think home team or away team will win",
@@ -7513,10 +7477,6 @@
       "english": "Dismiss",
       "value": "Afvis"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "E-mail adresse"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7605,11 +7565,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "Bekræftet startopstilling"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Log på med"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
@@ -8377,7 +8332,7 @@
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
       "english": "Crosses",
-      "value": "Diagonalbolde"
+      "value": "Indlæg"
     },
     "notifications_customize": {
       "comment": "Button label indicating that the user want to customize the alerts for the transfers",
@@ -9372,7 +9327,7 @@
     },
     "notifications_netherlands": {
       "english": "Netherlands",
-      "value": "Holland"
+      "value": "Nederlandene"
     },
     "notifications_network_connection_issues_notification": {
       "english": "It looks like we have problems fetching new data. Try a refresh?",
@@ -10438,7 +10393,7 @@
     "seo_app_version": {
       "comment": "Title for list item which has the app version as a subtitle.",
       "english": "App version",
-      "value": "App version"
+      "value": "Appversion"
     },
     "seo_auto_poll_toast_description": {
       "comment": "Header on toast that asks if the user wants to open the Add Poll form to create a poll about the event that just happened in the match. The title of the toast is the name of the event, eg. Red card! Add Poll? Use Poll as a name here, and just translate the Add part. See add_poll.",
@@ -10945,17 +10900,17 @@
     "seo_fifa_rankings": {
       "comment": "Link text for link to a page with the FIFA ranking table.",
       "english": "FIFA Rankings",
-      "value": "FIFA rangering"
+      "value": "FIFA-rangering"
     },
     "seo_fifa_rankings_men": {
       "comment": "Link text for link to a page with the FIFA ranking table for men.",
       "english": "FIFA Rankings Men",
-      "value": "FIFA rangering - Herrer"
+      "value": "FIFA-rangering - Herrer"
     },
     "seo_fifa_rankings_women": {
       "comment": "Link text for link to a page with the FIFA ranking table for women.",
       "english": "FIFA Rankings Women",
-      "value": "FIFA rangering - Kvinder"
+      "value": "FIFA-rangering - Kvinder"
     },
     "seo_final_match_of_season": {
       "comment": "Subtitle in the fixture difficulty section when only one match remains of the season. See next_three_matches_short and fixture_difficulty.",
@@ -12608,7 +12563,7 @@
     "seo_site_description_team_stats": {
       "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
       "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
-      "value": "Detaljerede spiller- og holdstatistikker for %@, inkl. ratings, mål, assists, nulkampe, afslutninger på mål og sæsonpræstation."
+      "value": "Detaljerede spiller- og holdstatistikker for %@, inkl. ratings, mål, assists, clean sheets, afslutninger på mål og sæsonpræstation."
     },
     "seo_site_description_team_table": {
       "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
@@ -12922,7 +12877,7 @@
     "seo_subscription_features": {
       "comment": "Header for list of FotMob+ features.",
       "english": "Subscription features",
-      "value": "Abonnementet fordele"
+      "value": "Abonnementsfunktioner"
     },
     "seo_subtitle_guess_results_compete_against_friends": {
       "comment": "Subtitle for the predictor game, a short engagement text that pitches the game.",

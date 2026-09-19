@@ -2907,10 +2907,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "ترتيب الفرق في الجدول يعتمد على النتائج الحية وليس نهائيًا حتى تكتمل المرحلة الحالية.\\n\\nالفرق المفصولة بكلمة “أو” سيتم وضعها في قرعة معًا ولا يمكن أن تواجه بعضها البعض في تلك الجولة."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "مشجع برونزي"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4306,10 +4302,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "سجل %1$@ في آخر %2$@ مباريات على أرضه."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "مشجع ذهبي"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5860,10 +5852,6 @@
       "english": "Saves per match",
       "value": "تصديات لكل مباراة"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "الفاصل الزمني لاستطلاع النتيجة"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "حجم تنبيهات النتيجة"
@@ -6072,14 +6060,6 @@
       "english": "Silent",
       "value": "صامت"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "حذف الإعلانات لمدة سنة. أنقر للتفاصيل."
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "مشجع فضي"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6249,25 +6229,9 @@
       "english": "Suspended",
       "value": "تم توقيفه"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 دقائق"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 دقيقة"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 ثانية"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 دقائق"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 دقائق"
     },
     "common_tab": {
       "english": "Tab",
@@ -7583,10 +7547,6 @@
       "english": "Dismiss",
       "value": "إغلاق"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "عنوان البريد الالكتروني"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7675,11 +7635,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "التشكيلة تأكدت"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "تسجيل الدخول عبر"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

@@ -2892,10 +2892,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "Le posizioni nel tabellone si basano sui risultati in tempo reale e non sono definitive fino al completamento della fase attuale.\\n\\nLe squadre separate da “o” saranno inserite insieme in un sorteggio e non potranno affrontarsi in quel turno."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Supporter Bronze"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4259,10 +4255,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ hanno segnato nelle ultime %2$@ partite in casa."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Supporter Gold"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5801,10 +5793,6 @@
       "english": "Saves per match",
       "value": "Parate per incontro"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Intervallo aggiornamento risultati"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Volume avviso per un goal"
@@ -6013,14 +6001,6 @@
       "english": "Silent",
       "value": "Silenzioso"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Rimuovi la pubblicità per un anno. Clicca per i dettagli"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Supporter Silver"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6190,25 +6170,9 @@
       "english": "Suspended",
       "value": "Squalificati"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 minuti"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 minuto"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 secondi"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 minuti"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 minuti"
     },
     "common_tab": {
       "english": "Tab",
@@ -7514,10 +7478,6 @@
       "english": "Dismiss",
       "value": "Chiudi"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "Indirizzo Email"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7606,11 +7566,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "Formazione confermata"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Login tramite"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

@@ -2289,9 +2289,6 @@
       "comment": "Bracket draw explanation",
       "value": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round."
     },
-    "common_bronze_supporter": {
-      "value": "Bronze supporter"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "value": "Buzz not available"
@@ -3347,9 +3344,6 @@
     },
     "common_goalstreak_team_home": {
       "value": "%1$@ have scored in their last %2$@ home matches."
-    },
-    "common_gold_supporter": {
-      "value": "Gold supporter"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -4546,9 +4540,6 @@
     "common_saves_title": {
       "value": "Saves per match"
     },
-    "common_score_poll_interval": {
-      "value": "Score polling interval"
-    },
     "common_score_volume": {
       "value": "Score alert volume"
     },
@@ -4712,12 +4703,6 @@
     "common_silent": {
       "value": "Silent"
     },
-    "common_silver_desc": {
-      "value": "Remove ads for a year. Click for details"
-    },
-    "common_silver_supporter": {
-      "value": "Silver supporter"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "value": "Silver goal"
@@ -4850,20 +4835,8 @@
     "common_suspensions": {
       "value": "Suspended"
     },
-    "common_t10_minutes": {
-      "value": "10 minute"
-    },
-    "common_t1_minute": {
-      "value": "1 minute"
-    },
     "common_t30_seconds": {
       "value": "30 seconds"
-    },
-    "common_t3_minutes": {
-      "value": "3 minute"
-    },
-    "common_t5_minutes": {
-      "value": "5 minute"
     },
     "common_tab": {
       "value": "Tab"
@@ -5877,9 +5850,6 @@
       "comment": "User is prompted for an action in a dialog and this is the cancel button",
       "value": "Dismiss"
     },
-    "new_e_mail": {
-      "value": "Email address"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "value": "Edit alerts"
@@ -5949,10 +5919,6 @@
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "value": "Lineup confirmed"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "value": "Login with"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

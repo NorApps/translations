@@ -2891,10 +2891,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "As colocações no quadro são baseadas em resultados ao vivo e não são definitivas até que a fase atual seja concluída.\\n\\nAs equipas separadas por “ou” serão colocadas juntas num sorteio e não poderão enfrentar-se nessa ronda."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Contribuidor Bronze"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4258,10 +4254,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ marcou nas últimas %2$@ partidas em casa."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Contribuidor Gold"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5800,10 +5792,6 @@
       "english": "Saves per match",
       "value": "Defesas por Partida"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Intervalo de verificação do resultado"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Volume de alerta de golo"
@@ -6012,14 +6000,6 @@
       "english": "Silent",
       "value": "Silencioso"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Remover anúncios durante um ano. Clique para detalhes"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Contribuidor Silver"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6189,25 +6169,9 @@
       "english": "Suspended",
       "value": "Suspenso"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 minutos"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 minuto"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 segundos"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 minutos"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 minutos"
     },
     "common_tab": {
       "english": "Tab",
@@ -7513,10 +7477,6 @@
       "english": "Dismiss",
       "value": "Ignorar"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "Endereço de e-mail"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7605,11 +7565,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "11 inicial confirmado"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Iniciar sessão com"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

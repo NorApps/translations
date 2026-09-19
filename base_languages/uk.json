@@ -2899,10 +2899,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "Розміщення в сітці базується на поточних результатах і не є остаточним, поки не завершиться поточний етап.\\n\\nКоманди, розділені словом «або», будуть разом у жеребкуванні і не можуть зустрітися в цьому раунді."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Bronze користувач"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4286,10 +4282,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ забивали в останніх %2$@ домашніх матчах."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Gold користувач"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5834,10 +5826,6 @@
       "english": "Saves per match",
       "value": "Сейви за матч"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Частота оновлення рахунку"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Гучність сповіщення про рахунок"
@@ -6046,14 +6034,6 @@
       "english": "Silent",
       "value": "Тиша"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Усунення реклами на рік. Натисніть, щоб дізнатися про деталі"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Silver користувач"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6223,25 +6203,9 @@
       "english": "Suspended",
       "value": "Призупинено"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 хвилин"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 хвилина"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 секунд"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 хвилини"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 хвилин"
     },
     "common_tab": {
       "english": "Tab",
@@ -7553,10 +7517,6 @@
       "english": "Dismiss",
       "value": "Не цікавить"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "E-mail адреса"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7645,11 +7605,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "Стартові склади підтверджено"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Увійти за допомогою"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

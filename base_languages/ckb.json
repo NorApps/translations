@@ -2892,10 +2892,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "شوێنەکان لە خشتەی تیروپشکدا لەسەر بنەمای ئەنجامە ڕاستەوخۆکانن و کۆتایی نین تا ئەم قۆناغەی ئێستا تەواو دەبێت.\\n\\nئەو یانانەی بە “یان” لێک جیاکراونەتەوە، پێکەوە دەخرێنە تیروپشکێکەوە و ناتوانن لەو قۆناغەدا ڕووبەڕووی یەکتر ببنەوە."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "هاندەری بڕۆنزی"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4259,10 +4255,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "یانەی %1$@ لە دواین %2$@ یاری ناو یاریگای خۆی گۆڵی تۆمار کردووە."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "پشتگیریکاری زێڕین"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5801,10 +5793,6 @@
       "english": "Saves per match",
       "value": "سەیڤ بۆ هەر یاریەک"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "ماوەی نوێکردنەوەی ئەنجامەکان"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "دەنگی ئاگادارکەرەوەی ئەنجامەکان"
@@ -6013,14 +6001,6 @@
       "english": "Silent",
       "value": "بێدەنگکردن"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "لابردنی ڕیکلامەکان بۆ یەک ساڵ. کلیک بکە بۆ زانیاری زیاتر"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "پشتگیریکاری زیوین"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6190,25 +6170,9 @@
       "english": "Suspended",
       "value": "ڕاگیراوە"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 خولەک"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 خولەک"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 چرکە"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 خولەک"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 خولەک"
     },
     "common_tab": {
       "english": "Tab",
@@ -7514,10 +7478,6 @@
       "english": "Dismiss",
       "value": "لادان"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "ناونیشانی ئیمێڵ"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7606,11 +7566,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "پێکهاتە پشتڕاستکرایەوە"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "چوونە ژورەوە لەڕێگەی"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

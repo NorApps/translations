@@ -2891,10 +2891,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "Οι θέσεις στο διάγραμμα βασίζονται σε ζωντανά αποτελέσματα και οριστικοποιούνται μετά την ολοκλήρωση της τρέχουσας φάσης.\\n\\nΟι ομάδες που διαχωρίζονται με «ή» θα τοποθετηθούν μαζί σε κλήρωση και δεν μπορούν να αντιμετωπίσουν η μία την άλλη σε αυτόν τον γύρο."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Χάλκινος υποστηρικτής"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4258,10 +4254,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@: έχει σκοράρει στους τελευταίους %2$@ εντός έδρας αγώνες."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Χρυσός υποστηρικτής"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5800,10 +5792,6 @@
       "english": "Saves per match",
       "value": "Αποκρούσεις ανά αγώνα"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Διάστημα σταθμοσκόπησης γκολ"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Ένταση ήχου συναγερμού σκορ"
@@ -6012,14 +6000,6 @@
       "english": "Silent",
       "value": "Σιωπηλό"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Κατάργηση διαφημίσεων για έναν χρόνο. Κάνε κλικ για λεπτομέρειες"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Ασημένιος υποστηρικτής"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6189,25 +6169,9 @@
       "english": "Suspended",
       "value": "Τιμωρημένος"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 λεπτά"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 λεπτό"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 δευτερόλεπτα"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 λεπτά"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 λεπτά"
     },
     "common_tab": {
       "english": "Tab",
@@ -7513,10 +7477,6 @@
       "english": "Dismiss",
       "value": "Ματαίωση"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "Διεύθυνση email"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7605,11 +7565,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "Η σύνθεση επιβεβαιώθηκε"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Σύνδεση μέσω"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

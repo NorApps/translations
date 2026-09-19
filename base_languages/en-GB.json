@@ -576,10 +576,6 @@
       "english": "Odds",
       "value": "Odds"
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "Bronze supporter"
-    },
     "common_cancel": {
       "english": "Cancel",
       "value": "Cancel"
@@ -1027,10 +1023,6 @@
     "common_goals_title": {
       "english": "Top scorer",
       "value": "Top scorer"
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "Gold supporter"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -1559,10 +1551,6 @@
       "english": "Saved penalties",
       "value": "Saved penalties"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "Score polling interval"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "Score alert volume"
@@ -1653,14 +1641,6 @@
       "english": "Silent",
       "value": "Silent"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Remove ads for a year. Click for details"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "Silver supporter"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -1740,25 +1720,9 @@
       "english": "Suspended",
       "value": "Suspended"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 minute"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 minute"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 seconds"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 minute"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 minute"
     },
     "common_tab_title_tournaments": {
       "comment": "Tab title, keep it short",
@@ -2318,10 +2282,6 @@
       "english": "Dismiss",
       "value": "Dismiss"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "Email address"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -2401,11 +2361,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "Lineup confirmed"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "Login with"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

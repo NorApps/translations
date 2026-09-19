@@ -2891,10 +2891,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "ब्रैकेट में स्थान लाइव परिणामों पर आधारित होते हैं और वर्तमान चरण पूरा होने तक अंतिम नहीं होते।\\n\\n'या' से अलग की गई टीमें एक साथ ड्रा में रखी जाएंगी और उस राउंड में एक-दूसरे का सामना नहीं कर सकतीं।"
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "ब्राँज़ सपोर्टर"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4258,10 +4254,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ ने अपने आखिरी %2$@ होम मैचों में गोल किए हैं."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "गोल्ड सपोर्टर"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5800,10 +5792,6 @@
       "english": "Saves per match",
       "value": "हर मैच में औसत सेव"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "स्कोर मतसंग्रह अन्तराल"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "स्कोर अलर्ट वॉल्यूम"
@@ -6012,14 +6000,6 @@
       "english": "Silent",
       "value": "मूक"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "एक साल के लिए विज्ञापन-मुक्त विवरण के लिए क्लिक करो"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "सिल्वर सपोर्टर"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6189,25 +6169,9 @@
       "english": "Suspended",
       "value": "सस्पेंडेड"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 मिनट"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 मिनट"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 सेकंड"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 मिनट"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 मिनट"
     },
     "common_tab": {
       "english": "Tab",
@@ -7513,10 +7477,6 @@
       "english": "Dismiss",
       "value": "खारिज करो"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "ईमेल पता"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7605,11 +7565,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "लाइनअप कन्फर्म हुआ"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "इसके साथ लॉगिन करें"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

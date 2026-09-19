@@ -2888,10 +2888,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "대진표의 위치는 실시간 결과를 기반으로 하며, 현재 단계가 완료될 때까지 최종적이지 않습니다.\\n\\n“또는”으로 구분된 팀들은 함께 추첨에 포함되며, 해당 라운드에서 서로 맞붙을 수 없습니다."
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "브론즈 서포터"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4245,10 +4241,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@은(는) 최근 %2$@번의 홈 경기에서 득점을 했습니다."
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "골드 서포터"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5786,10 +5778,6 @@
       "english": "Saves per match",
       "value": "경기당 선방"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "점수 업데이트 조회 간격"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "스코어 경보 음량"
@@ -5998,14 +5986,6 @@
       "english": "Silent",
       "value": "음소거"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "FotMob울 지원하고 1년 동안 광고를 제거하십시오. 자세한 내용을 보려면 클릭하세요"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "실버 서포터"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6175,25 +6155,9 @@
       "english": "Suspended",
       "value": "중단됨"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 분"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 분"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30초"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 분"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 분"
     },
     "common_tab": {
       "english": "Tab",
@@ -7496,10 +7460,6 @@
       "english": "Dismiss",
       "value": "취소"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "메일 주소"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7588,11 +7548,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "라인업 결정"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "로그인"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

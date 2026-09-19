@@ -2888,10 +2888,6 @@
       "english": "Placements in the bracket are based on live results and are not final until the current stage is completed.\\n\\nTeams separated by “or” will be placed into a draw together, and cannot face each other in that round.",
       "value": "การจัดอันดับในตารางจะขึ้นอยู่กับผลการแข่งขันสดและยังไม่ถือเป็นที่สิ้นสุดจนกว่าขั้นตอนปัจจุบันจะเสร็จสิ้น\\n\\nทีมที่แยกด้วย “หรือ” จะถูกจัดให้อยู่ในกลุ่มจับฉลากเดียวกันและไม่สามารถพบกันในรอบนั้นได้"
     },
-    "common_bronze_supporter": {
-      "english": "Bronze supporter",
-      "value": "ผู้สนับสนุนระดับบรอนซ์"
-    },
     "common_buzz_not_found": {
       "comment": "Empty placeholder if there's no tweets about match available",
       "english": "Buzz not available",
@@ -4245,10 +4241,6 @@
     "common_goalstreak_team_home": {
       "english": "%1$@ have scored in their last %2$@ home matches.",
       "value": "%1$@ ทำประตูได้ใน %2$@ แมทช์หลังสุดในบ้าน"
-    },
-    "common_gold_supporter": {
-      "english": "Gold supporter",
-      "value": "ผู้สนับสนุนระดับโกลด์"
     },
     "common_goldengoal": {
       "comment": "Official football rule term. Many languages keep the English \"Golden goal\". Do NOT literally translate to \"gold goal\" in the local language if the established term is English.",
@@ -5786,10 +5778,6 @@
       "english": "Saves per match",
       "value": "การเซฟต่อแมตช์"
     },
-    "common_score_poll_interval": {
-      "english": "Score polling interval",
-      "value": "ช่วงเวลาในการอัปเดต"
-    },
     "common_score_volume": {
       "english": "Score alert volume",
       "value": "ความดังการแจ้งเตือนผลประตู"
@@ -5998,14 +5986,6 @@
       "english": "Silent",
       "value": "เงียบ"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "ไม่มีโฆษณาตลอดหนึ่งปี คลิกดูรายละเอียด"
-    },
-    "common_silver_supporter": {
-      "english": "Silver supporter",
-      "value": "ผู้สนับสนุนระดับซิลเวอร์"
-    },
     "common_silvergoal1": {
       "comment": "Official football rule term. Many languages keep the English \"Silver goal\". Do NOT literally translate if the established term is English.",
       "english": "Silver goal",
@@ -6175,25 +6155,9 @@
       "english": "Suspended",
       "value": "ถูกระงับ"
     },
-    "common_t10_minutes": {
-      "english": "10 minute",
-      "value": "10 นาที"
-    },
-    "common_t1_minute": {
-      "english": "1 minute",
-      "value": "1 นาที"
-    },
     "common_t30_seconds": {
       "english": "30 seconds",
       "value": "30 วินาที"
-    },
-    "common_t3_minutes": {
-      "english": "3 minute",
-      "value": "3 นาที"
-    },
-    "common_t5_minutes": {
-      "english": "5 minute",
-      "value": "5 นาที"
     },
     "common_tab": {
       "english": "Tab",
@@ -7496,10 +7460,6 @@
       "english": "Dismiss",
       "value": "ยกเลิก"
     },
-    "new_e_mail": {
-      "english": "Email address",
-      "value": "ที่อยู่อีเมล"
-    },
     "new_edit_alerts": {
       "comment": "Short button caption for changing alerts for a specific team. Please keep this as short as possible",
       "english": "Edit alerts",
@@ -7588,11 +7548,6 @@
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
       "value": "ยืนยันนักเตะตัวจริง"
-    },
-    "new_login_with": {
-      "comment": "Header asking the users to log in with Facebook or Google+",
-      "english": "Login with",
-      "value": "เข้าสู่ระบบด้วย"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",

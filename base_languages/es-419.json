@@ -676,10 +676,6 @@
       "english": "Click here to sign in",
       "value": "Iniciar sesión"
     },
-    "common_silver_desc": {
-      "english": "Remove ads for a year. Click for details",
-      "value": "Suscríbete a FotMob y elimina los anuncios por un año. Ver más detalles"
-    },
     "common_squad_value": {
       "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
       "english": "Squad value",
