@@ -2102,7 +2102,7 @@
     "accessibility_successful_dribbles": {
       "comment": "Number of successful dribbles for a player in a season",
       "english": "Successful dribbles",
-      "value": "Drible sukses"
+      "value": "Dribel sukses"
     },
     "accessibility_successful_passes": {
       "comment": "Number of passes for a player in a season",
@@ -2479,7 +2479,7 @@
     "accessibility_won_contest_per_90": {
       "comment": "Label used in stats for successful dribbles per 90",
       "english": "Successful dribbles per 90",
-      "value": "Penggiringan bola yang berhasil per 90"
+      "value": "Dribel sukses per 90"
     },
     "accessibility_won_tackle_per_90": {
       "comment": "Label used in stats for successful tackles per 90",
@@ -3907,12 +3907,12 @@
     "common_fun_fact_joint_most_dribbles": {
       "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
       "english": "Completed the joint-most dribbles (%1$@)",
-      "value": "Mencatat drible sukses terbanyak bersama (%1$@)"
+      "value": "Mencatat dribel sukses terbanyak bersama (%1$@)"
     },
     "common_fun_fact_joint_most_dribbles_live": {
       "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
       "english": "Has completed the joint-most dribbles (%1$@)",
-      "value": "Sama-sama mencatat drible sukses terbanyak (%1$@)"
+      "value": "Sama-sama mencatat dribel sukses terbanyak (%1$@)"
     },
     "common_fun_fact_joint_most_key_passes_created": {
       "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
@@ -4012,12 +4012,12 @@
     "common_fun_fact_most_dribbles": {
       "comment": "Example: completed the most dribbles (2).",
       "english": "Completed the most dribbles (%1$@)",
-      "value": "Mencatat drible sukses terbanyak (%1$@)"
+      "value": "Mencatat dribel sukses terbanyak (%1$@)"
     },
     "common_fun_fact_most_dribbles_live": {
       "comment": "Example: completed the most dribbles (2).",
       "english": "Has completed the most dribbles (%1$@)",
-      "value": "Telah mencatat drible sukses terbanyak (%1$@)"
+      "value": "Telah mencatat dribel sukses terbanyak (%1$@)"
     },
     "common_fun_fact_most_key_passes_created": {
       "comment": "Example: created the most chances (2). This is a count of how many chances a player has created that led to a scoring opportunity for another player.",
@@ -6782,7 +6782,7 @@
     },
     "common_won_contest_title": {
       "english": "Successful dribbles per match",
-      "value": "Penggiringan bola sukses per pertandingan"
+      "value": "Dribel sukses per pertandingan"
     },
     "common_won_long": {
       "english": "Won",
@@ -8444,11 +8444,11 @@
     },
     "notifications_dribbles_attempted": {
       "english": "Dribbles attempted",
-      "value": "Percobaan dribble"
+      "value": "Percobaan dribel"
     },
     "notifications_dribbles_succeeded": {
       "english": "Successful dribbles",
-      "value": "Drible sukses"
+      "value": "Dribel sukses"
     },
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
@@ -9295,7 +9295,7 @@
     },
     "notifications_matchstats.headers.dribbles": {
       "english": "Dribbles",
-      "value": "Dribble"
+      "value": "Dribel"
     },
     "notifications_matchstats.headers.passers": {
       "english": "Passers",
