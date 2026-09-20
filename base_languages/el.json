@@ -8576,7 +8576,7 @@
     },
     "notifications_following": {
       "english": "Following",
-      "value": "Στη συνέχεια"
+      "value": "Αγαπημένα"
     },
     "notifications_footnote_goals_and_appearances": {
       "comment": "Footnote explanation for some possibly inaccurate numbers.",
@@ -11319,7 +11319,7 @@
     "seo_league_added_to_following": {
       "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
       "english": "League added to Following",
-      "value": "Το πρωτάθλημα προστέθηκε στα Παρακολουθούμενα"
+      "value": "Το πρωτάθλημα προστέθηκε στα Αγαπημένα"
     },
     "seo_league_and_team": {
       "comment": "Label for the section where you can filter transfers by league and/or teams. See league. See team.",
@@ -11344,7 +11344,7 @@
     "seo_league_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
-      "value": "Το πρωτάθλημα καταργήθηκε από τα Παρακολουθούμενα"
+      "value": "Το πρωτάθλημα αφαιρέθηκε από τα Αγαπημένα"
     },
     "seo_leagues_predict": {
       "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
@@ -11459,12 +11459,12 @@
     "seo_match_added_to_following": {
       "comment": "Pop up after clicking follow on a match. See translation for \"following\"",
       "english": "Match added to Following",
-      "value": "Ο αγώνας προστέθηκε στα Παρακολουθούμενα"
+      "value": "Ο αγώνας προστέθηκε στα Αγαπημένα"
     },
     "seo_match_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a match. See translation for \"following\"",
       "english": "Match removed from Following",
-      "value": "Ο αγώνας καταργήθηκε από τα Παρακολουθούμενα"
+      "value": "Ο αγώνας αφαιρέθηκε από τα Αγαπημένα"
     },
     "seo_matches_past_midnight": {
       "comment": "String explaining that a football match starts after midnight. Keep short and concise in the target language.",
@@ -11801,7 +11801,7 @@
     "seo_player_added_to_following": {
       "comment": "Pop up after clicking follow on a player. See translation for \"player,match_added_to_following\"",
       "english": "Player added to Following",
-      "value": "Ο παίκτης προστέθηκε στα Παρακολουθούμενα"
+      "value": "Ο παίκτης προστέθηκε στα Αγαπημένα"
     },
     "seo_player_highlights": {
       "comment": "Title for the section with fun facts/highlighted stats of a player in a match.",
@@ -11811,7 +11811,7 @@
     "seo_player_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
       "english": "Player removed from Following",
-      "value": "Ο παίκτης καταργήθηκε από τα Παρακολουθούμενα"
+      "value": "Ο παίκτης αφαιρέθηκε από τα Αγαπημένα"
     },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
@@ -12915,7 +12915,7 @@
     "seo_team_added_to_following": {
       "comment": "Pop up after clicking follow on a team. See translation for \"team,match_added_to_following\"",
       "english": "Team added to Following",
-      "value": "Η ομάδα προστέθηκε στα Παρακολουθούμενα"
+      "value": "Η ομάδα προστέθηκε στα Αγαπημένα"
     },
     "seo_team_rating": {
       "comment": "Average team rating in lineup.",
@@ -12925,7 +12925,7 @@
     "seo_team_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
       "english": "Team removed from Following",
-      "value": "Η ομάδα καταργήθηκε από τα Παρακολουθούμενα"
+      "value": "Η ομάδα αφαιρέθηκε από τα Αγαπημένα"
     },
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
