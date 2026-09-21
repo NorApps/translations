@@ -326,7 +326,7 @@
     "accessibility_dribbled_past": {
       "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
       "english": "Dribbled past",
-      "value": "เลี้ยงลูกผ่าน"
+      "value": "ถูกเลี้ยงผ่าน"
     },
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
@@ -9230,7 +9230,7 @@
       "value": "ไฮไลต์การแข่งขัน"
     },
     "notifications_matches_started": {
-      "comment": "Header for a number indication how many matches the player has started out of a total. Like \"Matches started 27/30\".",
+      "comment": "Android accessibility label read before the count of matches under way in a league or Following group.",
       "english": "Matches started",
       "value": "แมตช์ที่เป็นตัวจริง"
     },

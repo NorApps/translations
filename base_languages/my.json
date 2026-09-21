@@ -9231,7 +9231,7 @@
       "value": "ပွဲစဉ် ဟိုက်လိုက်များ"
     },
     "notifications_matches_started": {
-      "comment": "Header for a number indication how many matches the player has started out of a total. Like \"Matches started 27/30\".",
+      "comment": "Android accessibility label read before the count of matches under way in a league or Following group.",
       "english": "Matches started",
       "value": "စတင်ပွဲထွက်ခဲ့သည့် ပွဲများ"
     },

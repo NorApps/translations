@@ -3036,7 +3036,7 @@
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
       "english": "Central Midfielder",
-      "value": "Mchezaji wa KatikatI"
+      "value": "Mchezaji wa Katikati"
     },
     "common_centermidfielder_short": {
       "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
@@ -9246,7 +9246,7 @@
       "value": "Vipindi Muhimu"
     },
     "notifications_matches_started": {
-      "comment": "Header for a number indication how many matches the player has started out of a total. Like \"Matches started 27/30\".",
+      "comment": "Android accessibility label read before the count of matches under way in a league or Following group.",
       "english": "Matches started",
       "value": "Mechi zilizoanza"
     },

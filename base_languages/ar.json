@@ -3552,7 +3552,7 @@
     },
     "common_error_adding_match_to_calendar": {
       "english": "Error adding match to calendar, this feature works only on Android 4.x",
-      "value": "خطأ في إضافة المباراة إلى تقويم، تعمل هذه الميزة فقط على 4.x من أندرويد"
+      "value": "خطأ في إضافة المباراة إلى تقويم، تعمل هذه الميزة فقط على ‎4.x‎ من أندرويد"
     },
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
@@ -9321,7 +9321,7 @@
       "value": "أهم لحظات المباراة"
     },
     "notifications_matches_started": {
-      "comment": "Header for a number indication how many matches the player has started out of a total. Like \"Matches started 27/30\".",
+      "comment": "Android accessibility label read before the count of matches under way in a league or Following group.",
       "english": "Matches started",
       "value": "بدأت المباراة"
     },
