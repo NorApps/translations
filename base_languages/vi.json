@@ -2609,10 +2609,6 @@
       "english": "Add player",
       "value": "Thêm cầu thủ"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "Thêm / Hủy bỏ giải đấu"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "Thêm vào lịch"
@@ -2621,23 +2617,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@ đã được thêm vào làm Yêu thích"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Chúng tôi đã thêm một số giải đấu  mới, chỉ cần kích vào bỏ qua nếu bạn không muốn thêm chúng vào danh sách các trận đấu."
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "Nâng cấp"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "Không phải bây giờ"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "Nâng cấp!"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2898,11 +2877,6 @@
       "english": "Buzz not available",
       "value": "Twitter không khả dụng"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "Đã xóa bộ nhớ đệm"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "Canada"
@@ -3069,10 +3043,6 @@
       "english": "Change currency in %@",
       "value": "Thay đổi loại tiền trong %@"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "Thay đổi nguồn tin"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3081,10 +3051,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "Chile"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "Chọn nguồn tin để hiển thị cho các giải đấu hiện đang được chọn"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3149,11 +3115,6 @@
       "english": "Collapse all leagues",
       "value": "Thu gọn tất cả giải đấu"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "Thu gọn giải đấu"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "Colombia"
@@ -3213,11 +3174,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "Gia hạn hợp đồng"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "Sẵn sàng cho Copa America 2016?"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3366,16 +3322,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@ chưa hòa trong %2$@ trận đấu gần nhất của họ."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "Đóng trình đơn điều hướng"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "Mở trình đơn điều hướng"
-    },
     "common_drawn": {
       "english": "D",
       "value": "H"
@@ -3440,11 +3386,6 @@
       "english": "El Salvador",
       "value": "El Salvador"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "Lỗi mạng"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3503,19 +3444,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "Bật thông báo đẩy để nhận tin nóng và cập nhật trận đấu"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "Bạn có muốn kích hoạt thông báo đẩy không?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "Kích hoạt lịch phát sóng truyền hình"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "cuối trận"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3528,10 +3456,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "Có lỗi xảy ra, vui lòng thử lại các thao tác"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Thông báo FotMob đã bị vô hiệu hóa trong Trung tâm thông báo của bạn. Truy cập http://fotmob.com/faq.html để giải quyết."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3561,21 +3485,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "Giá trị ước tính"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "Sẵn sàng cho Euro 2016?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "Cảnh báo cài đặt cho các cầu thủ và đội bóng chơi hay nhất"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "Cài đặt đội tuyển quốc gia của bạn"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3702,11 +3611,6 @@
       "english": "Fantasy points",
       "value": "Điểm Fantasy"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "Cảnh báo đẩy nhanh"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3778,11 +3682,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "Hiệp 1"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "Chọn câu lạc bộ yêu thích và đội bóng quốc gia của bạn để theo dõi"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4130,19 +4029,10 @@
         "other": "Sút trúng khung gỗ %d lần"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "CHUNG"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "Bắt đầu"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "Dự đoán trên fotmob.com"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4374,11 +4264,6 @@
       "english": "%@h",
       "value": "%@h"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@ giờ"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "Bỏ qua"
@@ -4450,11 +4335,6 @@
       "english": "International - national teams",
       "value": "Các đội tuyển Quốc tế - quốc gia"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "Bạn bè có thể bỏ lỡ.<br/><b>Hãy chia sẻ FotMob với họ ngay?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4513,10 +4393,6 @@
       "english": "No",
       "value": "Không"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "Gửi"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4554,10 +4430,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "Người cuối cùng tắc bóng"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "Bình chọn lần cuối thất bại. Thử lại tại"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4606,10 +4478,6 @@
     "common_league": {
       "english": "League",
       "value": "Giải đấu"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "Các giải đấu đã kích hoạt thông báo, bạn phải tắt thông báo thông qua trình đơn Bộ lọc trong cửa sổ Trực tiếp"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4723,10 +4591,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "Một số cảnh báo đã bị khóa do bạn đã đặt các cảnh báo giải đấu có áp dụng với trận này"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "Đăng nhập tôi"
-    },
     "common_lost": {
       "english": "L",
       "value": "B"
@@ -4806,10 +4670,6 @@
       "english": "Max number is reached (5)",
       "value": "Đạt tới số lượng tối đa (5)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "Tối đa"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4835,18 +4695,6 @@
       "english": "Membership",
       "value": "Tư cách thành viên"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "Cài đặt"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, Twitter và hơn thế nữa..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Mẹo: Nhấn một bàn thắng hay sự kiện khác để chia sẻ."
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4869,10 +4717,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "Tiền vệ"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "Thu nhỏ tất cả"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4975,10 +4819,6 @@
       "english": "New season, new features",
       "value": "Mùa giải mới, tính năng mới"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "Tôi là người mới với FotMob!"
-    },
     "common_news": {
       "english": "News",
       "value": "Tin tức"
@@ -4991,28 +4831,9 @@
       "english": "Next match",
       "value": "Trận đấu tiếp theo"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "Bình chọn tiếp tại"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "Nicaragua"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "Chưa thêm các liên đoàn yêu thích"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "Chưa thêm các cầu thủ yêu thích"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "Chưa thêm đội yêu thích nào"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5111,14 +4932,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@ chưa thắng trận nào trong %2$@ trận gần nhất."
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Điều chỉnh âm lượng thông báo tỷ số và thay đổi khi nào thì hiện thông báo. Thay đổi múi giờ."
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "Tiếng bắt đầu và kết thúc"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "Tiếng bàn thắng"
@@ -5126,11 +4939,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "Tiếng bàn thắng yêu thích"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "Loại thông báo"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5143,11 +4951,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "Bật thông báo"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "Lựa chọn khi bạn muốn chúng tôi thông báo với bạn khi mọi thứ xảy ra"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5224,21 +5027,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "Tìm kiếm đội"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "Chọn mục Yêu thích của bạn"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "Đặt Cảnh báo cho các đội Yêu thích của bạn và người chơi với chế độ Cúp Thế giới FotMob mới toanh của chúng tôi."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "Sẵn sàng cho Cúp Thế giới?"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5451,11 +5239,6 @@
       "english": "Players out",
       "value": "Cầu thủ ra đi"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "Cầu thủ Theo dõi"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5516,10 +5299,6 @@
       "english": "Possible qualification next stage",
       "value": "Có khả năng đủ điều kiện sang bước tiếp theo"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Đăng lên Facebook"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "Hoãn"
@@ -5537,10 +5316,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "Nhà dự đoán"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "Chúng tôi đưa ra dự đoán của mình cho World Cup. Bạn hãy dự đoán <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> và cạnh tranh với bạn bè mình!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5595,10 +5370,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "Vòng loại lên hạng"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "Thông báo đẩy đã được đăng ký thành công"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5693,10 +5464,6 @@
       "english": "%@ results",
       "value": "%@ kết quả"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "Nếu trước đó bạn đã nâng cấp lên vàng hoặc bạc thì nhấn vào đây"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5788,10 +5555,6 @@
       "english": "Saves per match",
       "value": "Cứu bóng trong mỗi trận"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "Âm lượng thông báo tỷ số"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "Gõ tên đội bạn muốn tìm kiếm"
@@ -5848,11 +5611,6 @@
       "english": "See all matches",
       "value": "Xem tất cả các trận đấu"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "Xem thêm %@ tin tức"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5872,10 +5630,6 @@
       "english": "Select all",
       "value": "Chọn tất cả"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "Chọn giải đấu..."
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Lựa chọn các mục Yêu thích"
@@ -5894,11 +5648,6 @@
       "english": "Select player",
       "value": "Lựa chọn cầu thủ"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "Lựa chọn các Cầu thủ mà bạn muốn theo dõi."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5913,11 +5662,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "Xem thông tin từ nhóm đã chọn"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "Lựa chọn đội tuyển quốc gia của bạn và các đội khác để theo dõi trong World Cup"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5973,19 +5717,10 @@
       "english": "Show table",
       "value": "Hiện bảng xếp hạng"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "Hiện logo đội bóng trong bảng xếp hạng"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "Bạn có thể giữ an toàn các thiết lập của mình để có thể đồng bộ giữa các thiết bị hoặc tải về khi bạn có một thiết bị mới."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "Nhấp vào đây để đăng nhập"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6052,10 +5787,6 @@
       "english": "Add %@",
       "value": "Thêm %@"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "Đội bóng yêu thích"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "Thêm vào mục yêu thích"
@@ -6072,11 +5803,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "Thống kê"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "Thông tin"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6116,10 +5842,6 @@
     "common_subs": {
       "english": "Substitutes",
       "value": "Dự bị"
-    },
-    "common_subs_stats": {
-      "english": "Substitutes",
-      "value": "Thay người"
     },
     "common_substitute": {
       "comment": "Position label shown for a benched/substitute player in the player match-stats ranking list (singular of the existing 'Substitutes'). Non-English values derived from [subs] and singularized — flagged for native review.",
@@ -6164,10 +5886,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "Bị treo giò"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30 giây"
     },
     "common_tab": {
       "english": "Tab",
@@ -6225,38 +5943,15 @@
       "english": "Form",
       "value": "Phong độ"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Một trong những đội bóng đã bật thông báo, bạn phải tắt thông báo thông qua trang đội bóng"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "Điền sẵn đội hình"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "Chỉ để xác nhận, bạn muốn ‘${team}’ đúng không?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "Có các tùy chọn ${count} phù hợp với ‘${team}’."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "Các giải đấu"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "các đội bóng và giải đấu"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "Thi đấu cho đội"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6320,23 +6015,10 @@
       "english": "Premium features",
       "value": "Tính năng cao cấp"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "Chọn múi giờ"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "Chạm vào đây %1$@ để <b>Lọc & Phân loại</b> liên đoàn"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "Chạm vào đây %1$@ để <b>Lọc & Phân loại</b> giải đấu"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "Cầu thủ trong đội hình"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6411,14 +6093,6 @@
       "english": "Total votes: %@",
       "value": "Tổng số phiếu bầu: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "Thẻ đỏ"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "Thẻ vàng"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "Giải đấu"
@@ -6457,10 +6131,6 @@
       "english": "Transfer Center",
       "value": "Trung tâm Chuyển nhượng"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Bạn có muốn nhận thông báo chuyển nhượng tùy chỉnh cho các đội bóng và liên minh yêu thích của mình không?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6481,11 +6151,6 @@
       "english": "Include transfers from",
       "value": "Bao gồm các chuyển nhượng từ"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "Phí không chính thức"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6505,10 +6170,6 @@
       "english": "Try a refresh?",
       "value": "Thử làm mới?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Bạn có thể tắt thông báo cho đội bóng yêu thích (nhấn giữ tiêu đề &quot;Đội bóng yêu thích&quot;) để bật tắt trạng thái thông báo về trận đấu này"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "Danh sách TV"
@@ -6522,34 +6183,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "Nhấp vào đây để thay đổi kênh TV bạn xem"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "Lịch phát sóng trên TV - Đan Mạch"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "Lịch phát sóng trên TV - Đức"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "Lịch phát sóng trên TV - Nauy"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "Lịch phát sóng trên TV - Tây Ban Nha"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "Lịch phát sóng trên TV - Thụy Điển"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "Lịch phát sóng trên TV - Anh"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "Lịch phát sóng trên TV - Mỹ"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6573,22 +6206,9 @@
       "english": "Undisclosed",
       "value": "Không bị tiết lộ"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "Mở khóa cao cấp"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "Đã hủy đăng ký thông báo đẩy thành công"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "Bỏ theo dõi %@"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "cho tới %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6684,19 +6304,6 @@
       "english": "View all",
       "value": "Xem tất cả"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "Xem mục yêu thích"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "Xem lịch thi đấu"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "Xem lịch phát trên TV"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6706,11 +6313,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "Chào mừng đến với câu lạc bộ Câu Lạc Bộ Những Người Ủng Hộ!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "Chào mừng bạn đến với Trung tâm Chuyển nhượng"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6737,10 +6339,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6792,24 +6390,6 @@
       "english": "FIFA World Cup",
       "value": "World Cup"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "Bóng World Cup"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "Bắt đầu sau %1$@"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Để mang tới nhiều thông tin nhất cho bạn về Worldcup, chúng tôi đã làm việc vất vả để tạo nên một trải nghiệm World Cup tuyệt vời - hãy thử ngay!"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "Thử chế độ \\nWorld Cup mới của chúng tôi!"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "Tin thế giới"
@@ -6835,10 +6415,6 @@
       "english": "Yesterday",
       "value": "Hôm qua"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "Bạn là một %@!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6851,10 +6427,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "Czech"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "Thay đổi thông báo..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6892,15 +6464,6 @@
       "english": "Italian",
       "value": "Italian"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "Trận đấu & Tin tức"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "Trận đấu & Top ghi bàn"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "Norwegian"
@@ -6920,14 +6483,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "Phát bình luận vào"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "Đang phát bình luận"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "Đang phát bình luận vào"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6955,10 +6510,6 @@
       "english": "Sort",
       "value": "Sắp xếp"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "Bảng xếp hạng & Tin tức"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "Tweet"
@@ -6982,10 +6533,6 @@
       "english": "Second half of the bracket",
       "value": "Nhánh dưới của sơ đồ"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "Bạn phải mua phiên bản cao cấp trước tiên"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7000,10 +6547,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "Thay đổi"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "Gắn dấu sao để dễ dàng truy cập giải đấu yêu thích của bạn. Nhấp vào tên giải đấu để thay đổi giải đấu hiện tại"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7103,10 +6646,6 @@
       "english": "Live Activities activated for %@",
       "value": "Đã bật Các Hoạt động Trực tiếp cho %@"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "Chúng tôi chỉ sử dụng vị trí của bạn để kích hoạt các tính năng khả dụng cho một số quốc gia"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "Bại"
@@ -7124,10 +6663,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "Có lẽ để sau"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "phút"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7237,10 +6772,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "Top kiến tạo"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "Top ghi bàn"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7429,11 +6960,6 @@
       "english": "Bronze-final",
       "value": "Tranh giải 3"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "Cẩm nang thành phố"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7481,28 +7007,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "Chúng tôi gửi thủ công thông báo tin tức cho các đội ở dưới. Nhấn OK để kích hoạt thông báo tin tức và luôn cập nhật."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "Xem lại đội bóng yêu thích của bạn và thiết lập thông báo"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "Chung kết"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "Kết quả chung cuộc"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "Bàn thắng"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "Bàn thắng, bắt đầu và kết thúc trận đấu"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7518,29 +7029,10 @@
       "english": "Height",
       "value": "Chiều cao"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "Bật tắt thông báo tin tức bằng cách nhấn vào biểu tượng chuông trong trang đội bóng"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "Chọn đội bóng yêu thích của bạn và bắt đầu trải nghiệm."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "Mình dùng app này để xem tỷ số bóng đá trực tiếp. Thử xem nhé!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "Bạn bè của bạn có thể không biết, hãy chia sẻ FotMob với họ ngay?"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "Mời bạn bè thử FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7581,19 +7073,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "Bạn không thêm bất kỳ yêu thích nào.\\n\\nNhấn quay lại để thêm ngay hoặc nhấn hoàn tất và thêm sau."
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "Không có kết nối internet"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "Không có trận đấu nào trên TV ngày hôm nay"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "Không có thêm bàn thắng"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7621,10 +7104,6 @@
       "english": "Odds format",
       "value": "Định dạng kèo"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "Chỉ tin tức hàng đầu"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7638,14 +7117,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "Kết quả hiệp một"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "Chúng tôi nhận thấy bạn chưa thiết lập đội bóng yêu thích. Bạn có muốn thiết lập ngay bây giờ không?"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "Chọn gợi ý"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7701,10 +7172,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "Không thể đăng nhập vào FotMob Predict"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "Ảnh đại diện"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "Tứ kết"
@@ -7750,10 +7217,6 @@
       "english": "Search",
       "value": "Tìm kiếm"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "Không có kết quả!"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "Bán kết"
@@ -7766,15 +7229,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "Thiết lập đội bóng yêu thích"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "Bạn có muốn theo dõi một trong những đội bóng hàng đầu không?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "Chọn đội bóng địa phương yêu thích của bạn"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7808,18 +7262,9 @@
       "english": "Averages",
       "value": "Trung bình"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "Kết quả bắt đầu và kết thúc trận đấu"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "Tóm tắt"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "Thông tin đội bóng"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7834,23 +7279,9 @@
       "english": "Settings",
       "value": "Cài đặt"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brazil 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "Chiến thắng"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "Top cầu thủ"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "Chúng tôi sẽ chỉ gửi cho bạn những cảnh báo cho những tin tức chuyển nhượng mới nhất"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7878,11 +7309,6 @@
       "english": "Waiting for penalties",
       "value": "Chờ đợi loạt sút luân lưu"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "Vòng loại World Cup"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7895,10 +7321,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "Ai sẽ ghi bàn tiếp theo?"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "Cấu hình"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8363,10 +7785,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "Tắt chế độ \"Không làm phiền\" để nghe âm thông báo."
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Bạn có chắc không? Bạn chỉ cần làm điều này nếu bạn tìm ra được vấn đề với các thông báo."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8428,11 +7846,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "Nhận thông báo từ các câu chuyện tin tức mới nhất. Chỉ một số thông báo mỗi tuần"
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "Kích hoạt bộ nhớ đệm ngoại tuyến (BETA)"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8475,10 +7888,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "Estonia"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "Thoát chế độ Giải đấu"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8661,11 +8070,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "Hung-ga-ri"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "Tôi đã hoàn tất"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9234,30 +8638,6 @@
       "english": "Matches started",
       "value": "Các trận đấu đã bắt đầu"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "Cầu thủ tấn công"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "Phá bóng"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "Hậu vệ"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "Rê bóng"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "Cầu thủ chuyền bóng"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "Chuyền bóng"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "Tắc bóng"
@@ -9378,24 +8758,9 @@
       "english": "Dark mode",
       "value": "Chế độ bóng đêm"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "Không có dữ liệu"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "Chưa thêm mục yêu thích nào"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "Bình thường"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "Không, tôi có một số ý tưởng"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9466,11 +8831,6 @@
       "english": "Pass success",
       "value": "Chuyền bóng thành công"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "Chuyền bóng %"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "Chuyền bóng"
@@ -9483,11 +8843,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "Philippines"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "Ghim vào màn hình chính"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9634,16 +8989,6 @@
       "english": "asst. coach",
       "value": "trợ lý huấn luyện viên"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "huấn luyện viên"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "cầu thủ"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9739,11 +9084,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "Thiết lập loại thông báo được kích hoạt khi bạn nhấn vào hình chuông trên các trang trận đấu."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "Thiết lập thông báo tiêu chuẩn"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9758,11 +9098,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "Cú sút"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "Chi tiết cú sút"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9836,11 +9171,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "Slovenia"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "Bản cập nhật đa phương tiện xã hội"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10096,11 +9426,6 @@
       "english": "View %@",
       "value": "Xem %@"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "Chi tiết về cầu thủ"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10115,11 +9440,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "Bị phạm lỗi"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Xem trận đấu trên Bet365 TV"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10152,16 +9472,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "Thẻ vàng"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "Có!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "Có, nó hoàn hảo!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

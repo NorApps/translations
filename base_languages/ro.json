@@ -2617,10 +2617,6 @@
       "english": "Add player",
       "value": "Adaugă jucător"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "Adaugă/Elimină ligi"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "Adaugă în calendar"
@@ -2629,23 +2625,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@ adăugat ca Favorit"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Am adăugat câteva ligi noi, doar fă clic pentru a le ignora dacă nu dorești să le adăugi la lista meciurilor."
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "Obține aurul"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "Nu acum"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "Obține Premium!"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2906,11 +2885,6 @@
       "english": "Buzz not available",
       "value": "Twitter nu este disponibil"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "Cache-ul a fost curățat"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "Canada"
@@ -3077,10 +3051,6 @@
       "english": "Change currency in %@",
       "value": "Schimbă moneda în %@"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "Schimbă sursa"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3089,10 +3059,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "Chile"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "Alege sursa de știri pentru liga curentă"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3157,11 +3123,6 @@
       "english": "Collapse all leagues",
       "value": "Minimizează toate ligile"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "Minimizează liga"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "Columbia"
@@ -3221,11 +3182,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "Prelungire contract"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "Pregătiți pentru Copa America 2016?"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3376,16 +3332,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@ nu a remizat în ultimele %2$@ meciuri."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "Închide bara de navigare"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "Deschide bara de navigare"
-    },
     "common_drawn": {
       "english": "D",
       "value": "E"
@@ -3451,11 +3397,6 @@
       "english": "El Salvador",
       "value": "Salvador"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "Eroare de rețea"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3514,19 +3455,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "Activează notificările push pentru a obține știri de ultimă oră și actualizări ale meciurilor"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "Dorești să activezi notificările?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "Activare programe TV"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "final"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3539,10 +3467,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "A apărut o eroare, te rugăm să încerci din nou."
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Notificările au fost dezactivate de către FotMob în Centrul de Notificări. Vizitează http://fotmob.com/faq.html pentru a rezolva această problemă."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3572,21 +3496,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "Valoare estimată"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "Pregătiți pentru Euro 2016?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "Alerte pentru jucătorii și echipele de top"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "Creează echipa națională"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3713,11 +3622,6 @@
       "english": "Fantasy points",
       "value": "Puncte Fantasy"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "Notificări rapide"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3789,11 +3693,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "Prima repriză"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "Selectează cluburile preferate și echipele naționale pe care vrei să le urmărești"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4157,19 +4056,10 @@
         "other": "A avut %d de șuturi în bară"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "General"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "Începeți"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "Pronostichează pe fotmob.com"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4402,11 +4292,6 @@
       "english": "%@h",
       "value": "%@h"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@ ore"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "Ignoră"
@@ -4478,11 +4363,6 @@
       "english": "International - national teams",
       "value": "Internațional - echipe naționale"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "Prietenii tăi lipsesc.<br/><b>Partajezi FotMob cu ei acum?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4541,10 +4421,6 @@
       "english": "No",
       "value": "Nu"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "Trimite"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4582,10 +4458,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "Ultima abordare a omului"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "Ultima verificare a eșuat. Reîncearcă în"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4634,10 +4506,6 @@
     "common_league": {
       "english": "League",
       "value": "Ligă"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "Notificările pentru ligă sunt activate, trebuie să opriți alertele din meniul Filtru în fereastra principală"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4751,10 +4619,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "Unele dintre alerte sunt blocate deoarece ai setat alerte pentru ligă care se aplică la acest meci"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "Înregistrează-mă"
-    },
     "common_lost": {
       "english": "L",
       "value": "Î"
@@ -4835,10 +4699,6 @@
       "english": "Max number is reached (5)",
       "value": "Numărul maxim este atins (5)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "Maximizează toate"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4864,18 +4724,6 @@
       "english": "Membership",
       "value": "Afiliere"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "Setări"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, Twitter și altele..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Sfat: Apăsă lung pe un gol sau un alt eveniment pentru a partaja."
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4898,10 +4746,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "Mijlocaș"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "Minimizează toate"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -5005,10 +4849,6 @@
       "english": "New season, new features",
       "value": "Sezon nou, funcții noi"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "Sunt nou la FotMob!"
-    },
     "common_news": {
       "english": "News",
       "value": "Știri"
@@ -5021,28 +4861,9 @@
       "english": "Next match",
       "value": "Următorul meci"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "Următoarea actualizare la"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "Nicaragua"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "Încă nu au fost adăugate ligi preferate"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "Încă nu au fost adăugați jucători preferați"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "Încă nu au fost adăugate echipe preferate"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5141,14 +4962,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@ nu a câștigat niciun meci în %2$@ încercări."
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Ajustează volumul notificărilor și schimbă când să fie afișate notificările. Schimbă zona orară."
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "Sunet la început și sfârșit de meci"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "Sunet la gol"
@@ -5156,11 +4969,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "Sunet la gol pentru favorite"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "Tipuri de notificări"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5173,11 +4981,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "Activează notificările"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "Alege când dorești să te anunțăm când se întâmplă ceva"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5254,21 +5057,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "Caută echipe"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "Alege-ți favoriții"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "Setează alerte pentru echipele și jucătorii preferați cu noul mod FotMob World Cup."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "Pregătit pentru Campionatul Mondial?"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5481,11 +5269,6 @@
       "english": "Players out",
       "value": "Jucători transferați din echipă"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "Jucători de urmărit"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5546,10 +5329,6 @@
       "english": "Possible qualification next stage",
       "value": "Posibilă calificare în etapa următoare"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Postează pe Facebook"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "Amânat"
@@ -5567,10 +5346,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "Prezicător"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "Am făcut pronosticurile noastre pentru Cupa Mondială. Fă pronosticul tău la <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> și concurează cu prieteni tăi!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5625,10 +5400,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "Calificări Promovare"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "Notificările s-au activat cu succes"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5723,10 +5494,6 @@
       "english": "%@ results",
       "value": "%@ rezultate"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "Dacă ai achiziționat anterior un pachet aur sau argint, click aici"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5818,10 +5585,6 @@
       "english": "Saves per match",
       "value": "Lovituri apărate per meci"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "Volum pentru alerta de scoruri"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "Tastează numele echipei pe care o cauți"
@@ -5878,11 +5641,6 @@
       "english": "See all matches",
       "value": "Vezi toate meciurile"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "Vezi mai multe știri despre %@"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5902,10 +5660,6 @@
       "english": "Select all",
       "value": "Selectează tot"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "Selectează liga..."
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Selectează Favoritele"
@@ -5924,11 +5678,6 @@
       "english": "Select player",
       "value": "Selectează jucătorul"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "Selectează jucătorii pe care vrei să-i urmărești."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5943,11 +5692,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "Vezi informații de la echipa selectată"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "Selectează echipa națională și alte echipe pe care să le urmărești în timpul Cupei Mondiale"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -6003,19 +5747,10 @@
       "english": "Show table",
       "value": "Arată clasamentul"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "Arată sigla echipelor în clasament"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "Îți putem păstra setările în condiții de siguranță, astfel încât să le poți sincroniza pe mai multe dispozitive sau pentru a le prelua atunci când obții un dispozitiv nou."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "Click aici pentru a te autentifica"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6082,10 +5817,6 @@
       "english": "Add %@",
       "value": "Adaugă %@"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "Echipe favorite"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "Adaugă la favorite"
@@ -6102,11 +5833,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "Statistici"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "Info"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6144,10 +5870,6 @@
       "value": "AT"
     },
     "common_subs": {
-      "english": "Substitutes",
-      "value": "Înlocuiri"
-    },
-    "common_subs_stats": {
       "english": "Substitutes",
       "value": "Înlocuiri"
     },
@@ -6194,10 +5916,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "Suspendat"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30 secunde"
     },
     "common_tab": {
       "english": "Tab",
@@ -6255,38 +5973,15 @@
       "english": "Form",
       "value": "Forma"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Una dintre echipe are alertele activate, trebuie să dezactivezi alertele din pagina echipei"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "Precompletează echipa"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "Doar pentru a confirma, ai vrut ‘${team}’?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "Există ${count} opțiuni care se potrivesc cu ‘${team}’."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "Turnee"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "echipe și ligi"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "Echipe unde a jucat"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6350,23 +6045,10 @@
       "english": "Premium features",
       "value": "Caracteristici Premium"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "Alege zona orară"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "Atinge aici %1$@ pentru <b>Filtrare și sortare</b> ligi"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "Atinge aici %1$@ pentru <b>Filtrare & Sortare</b> ligi"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "Membru al echipei"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6441,14 +6123,6 @@
       "english": "Total votes: %@",
       "value": "Total voturi: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "Cartonașe roșii"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "Cartonașe galbene"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "Turneu"
@@ -6487,10 +6161,6 @@
       "english": "Transfer Center",
       "value": "Centru de Transferuri"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Dorești să primești alerte de transfer personalizate pentru toate echipele și ligile tale preferate?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6511,11 +6181,6 @@
       "english": "Include transfers from",
       "value": "Include transferurile din"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "Suma neoficială"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6535,10 +6200,6 @@
       "english": "Try a refresh?",
       "value": "Vrei să reîmprospătezi?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Trebuie să oprești notificările pentru echipele favorite (apasă lung pe antetul &quot;Echipe favorite&quot;) pentru a schimba statusul notificărilor al acestui meci"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "Televiziuni"
@@ -6552,34 +6213,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "Fă clic aici pentru a schimba canalele TV pe care le vezi"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "Difuzare Tv - Danemarca"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "Difuzare Tv - Germania"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "Difuzare Tv - Norvegia"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "Difuzare Tv - Spania"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "Difuzare Tv - Suedia"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "Difuzare Tv - Marea Britanie"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "Difuzare Tv - Statele Unite"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6603,22 +6236,9 @@
       "english": "Undisclosed",
       "value": "Necunoscut"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "Deblochează Premium"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "Notificările s-au dezactivat cu succes"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "Elimină %@"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "până la %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6714,19 +6334,6 @@
       "english": "View all",
       "value": "Vizualizează tot"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "Vezi favoritele"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "Vezi întâlnirile"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "Vezi programele TV"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6736,11 +6343,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "Bine ai venit la Clubul Suporterilor!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "Bine ai venit la Centrul de Transferuri"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6767,10 +6369,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6823,24 +6421,6 @@
       "english": "FIFA World Cup",
       "value": "Cupa Mondială"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "Bile Cupa Mondială"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "Începe în %1$@"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Pentru a-ți oferi cât mai mult din Cupa Mondială, am muncit din greu pentru a crea o experiență unică a Cupei Mondiale – încearcă!"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "Încearcă mai nou\\nCupa Mondială!"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "Știri din lume"
@@ -6866,10 +6446,6 @@
       "english": "Yesterday",
       "value": "Ieri"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "Ești un %@!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6882,10 +6458,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "Czech"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "Se schimbă notificarea..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6923,15 +6495,6 @@
       "english": "Italian",
       "value": "Italian"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "Meciuri și Știri"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "Meciuri și Marcatori"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "Norwegian"
@@ -6951,14 +6514,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "Redă comentariile în"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "Redare comentarii"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "Redare comentarii în"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6986,10 +6541,6 @@
       "english": "Sort",
       "value": "Ordonează"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "Clasamente și noutăți"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "Tweet"
@@ -7013,10 +6564,6 @@
       "english": "Second half of the bracket",
       "value": "A doua jumătate a tabloului eliminatoriu"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "Trebuie să cumperi versiunea Premium"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7031,10 +6578,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "Schimbă"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "Adaugă o stea ligi tale favorite pentru un acces mai ușor. Dă click pe numele ligi pentru a schimba liga actuală"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7134,10 +6677,6 @@
       "english": "Live Activities activated for %@",
       "value": "Activități live activate pentru %@"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "Utilizăm locația ta actuală pentru a activa caracteristicile disponibile pentru anumite țări"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "Înfrângeri"
@@ -7155,10 +6694,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "Poate mai târziu"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "minute"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7270,10 +6805,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "Pase decisive"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "Cele mai multe goluri marcate"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7464,11 +6995,6 @@
       "english": "Bronze-final",
       "value": "Finala-Mică"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "Ghidul orașelor"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7516,28 +7042,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "Vom trimite 1-2 notificări de știri pentru echipele de mai jos. Dă click pentru a activa alertele pentru știri și nu vei pierde nimic."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "Revizează echipele tale favorite și stabilește alertele"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "Final"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "Rezultatul final"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "Goluri"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "Goluri, început și sfârșit de meci"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7553,29 +7064,10 @@
       "english": "Height",
       "value": "Înălțime"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "Activează sau dezactivează notificările pentru știri atingând clopoțelul din pagina echipei"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "Selectează echipa ta favorită și pornește experiența."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "Folosesc această aplicație pentru a obține scoruri în direct la fotbal. Încearcă și tu!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "Prietenii tăi ar putea rata ceva. Distribui FotMob cu ei acum?"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "Invită prieteni să încerce FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7616,19 +7108,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "Nu ai adăugat nimic la favorite.\\n\\nApasă înapoi pentru a adăuga acum sau apasă Terminat pentru a adăuga mai târziu."
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "Nu există conexiune la internet"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "Nu există meciuri la TV astăzi"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "Nu există mai multe goluri"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7656,10 +7139,6 @@
       "english": "Odds format",
       "value": "Format pentru cote"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "Numai topul știrilor"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7673,14 +7152,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "Rezultatul la pauză"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "Am observat că nu ai echipe favorite selectate. Vrei să selectezi una acum?"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "Alege sugestie"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7736,10 +7207,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "Nu s-a putut conecta la FotMob Predict"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "Imagine de profil"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "Sfert de finală"
@@ -7785,10 +7252,6 @@
       "english": "Search",
       "value": "Caută"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "Fără rezultate de moment!"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "Semifinală"
@@ -7801,15 +7264,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "Selectează echipa favorită"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "Urmărești vreuna din aceste echipe populare?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "Alege echipele favorite locale"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7843,18 +7297,9 @@
       "english": "Averages",
       "value": "Medii"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "Rezultatul la început și sfârșit de meci"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "Rezumat"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "Profilul echipei"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7869,23 +7314,9 @@
       "english": "Settings",
       "value": "Setări"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brazilia 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "Victorie"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "Top jucători"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "Îți vom trimite alerte numai pentru transferurile importante"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7913,11 +7344,6 @@
       "english": "Waiting for penalties",
       "value": "Se așteaptă penalty-urile"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "Clasificări Cupa Mondială"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7930,10 +7356,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "Cine va înscrie următorul gol?"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "Configurare"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8399,10 +7821,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "Dezactivează modul \"Nu deranjați\" pentru a asculta sunetele de notificare."
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Ești sigur? Tu ar trebui să faci acest lucru numai dacă ai probleme cu notificările."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8464,11 +7882,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "Primești notificări referitoare la cele mai interesante știri. Doar câteva notificări pe săptămână."
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "Activează cache-ul offline"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8511,10 +7924,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "Estonia"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "Ieşire din modul Campionat"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8697,11 +8106,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "Ungaria"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "Gata"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9270,30 +8674,6 @@
       "english": "Matches started",
       "value": "Meciuri începute"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "Atacanți"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "Degajări"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "Fundași"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "Driblinguri"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "Pasatori"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "Pase"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "Deposedări"
@@ -9414,24 +8794,9 @@
       "english": "Dark mode",
       "value": "Modul noapte"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "Nu există date disponibile"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "Nu s-au adăugat încă favorite"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "Nu chiar"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "Nu, am alte idei"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9502,11 +8867,6 @@
       "english": "Pass success",
       "value": "Pase reușite"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "% pase"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "Pase"
@@ -9519,11 +8879,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "Filipine"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "Fixează la ecranul de start"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9670,16 +9025,6 @@
       "english": "asst. coach",
       "value": "antrenor secund"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "antrenor"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "jucător"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9775,11 +9120,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "Setați notificările care sunt activate când atingeți clopoțelul pe paginile de meci."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "Setează notificările standard"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9794,11 +9134,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "Șuturi"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "Detalii șuturi"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9872,11 +9207,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "Slovenia"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "Actualizare rețele de socializare"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10132,11 +9462,6 @@
       "english": "View %@",
       "value": "Vezi %@"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "Detalii jucător"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10151,11 +9476,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "Faultat"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Urmărește meciul pe Bet365 TV"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10188,16 +9508,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "Cartonaș galben"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "Da!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "Da, este perfect!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

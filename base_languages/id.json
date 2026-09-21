@@ -2609,10 +2609,6 @@
       "english": "Add player",
       "value": "Tambah pemain"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "Tambah/Hapus liga"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "Tambahkan ke kalender"
@@ -2621,23 +2617,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@ ditambahkan sebagai Favorit"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Kami menambahkan beberapa liga baru, cukup klik abaikan jika Anda tidak ingin menambahkannya ke daftar pertandingan."
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "Tingkatkan ke Emas"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "Tidak sekarang"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "Tingkatkan ke Premium!"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2898,11 +2877,6 @@
       "english": "Buzz not available",
       "value": "Buzz tidak tersedia"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "Cache telah dibersihkan"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "Kanada"
@@ -3069,10 +3043,6 @@
       "english": "Change currency in %@",
       "value": "Ubah mata uang dalam %@"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "Ubah umpan berita"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3081,10 +3051,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "Chili"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "Pilih umpan berita yang ditampilkan untuk liga yang dipilih saat ini"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3149,11 +3115,6 @@
       "english": "Collapse all leagues",
       "value": "Ciutkan semua liga"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "Ciutkan liga"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "Kolombia"
@@ -3213,11 +3174,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "Perpanjangan kontrak"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "Siap untuk Copa Amerika 2016?"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3366,16 +3322,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@ belum mendapat hasil seri dalam %2$@ laga terakhir mereka."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "Tutup laci navigasi"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "Buka laci navigasi"
-    },
     "common_drawn": {
       "english": "D",
       "value": "S"
@@ -3440,11 +3386,6 @@
       "english": "El Salvador",
       "value": "El Salvador"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "Kegagalan jaringan"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3503,19 +3444,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "Aktifkan notifikasi push untuk mendapatkan berita terkini dan pembaruan pertandingan"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "Kamu ingin mengaktifkan pemberitahuan otomatis?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "Aktifkan jadwal TV"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "final"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3528,10 +3456,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "Terjadi kesalahan, coba lagi operasi"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Pemberitahuan dinonaktifkan untuk FotMob di Pusat Pemberitahuanmu. Kunjungi http://fotmob.com/faq.html untuk menyelesaikan hal ini."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3561,21 +3485,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "Nilai Perkiraan"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "Siap untuk Euro 2016?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "Atur peringatan untuk pemain dan tim teratas"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "Siapkan tim nasional Anda"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3702,11 +3611,6 @@
       "english": "Fantasy points",
       "value": "Poin fantasi"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "Notifikasi push cepat"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3778,11 +3682,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "Babak pertama"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "Pilih klub dan tim nasional favoritmu untuk diikuti"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4130,19 +4029,10 @@
         "other": "Mencatat tendangan mengenai tiang/mistar %d kali"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "UMUM"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "Mulai"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "Prediksi di fotmob.com"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4374,11 +4264,6 @@
       "english": "%@h",
       "value": "%@j"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@ jam"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "Abaikan"
@@ -4450,11 +4335,6 @@
       "english": "International - national teams",
       "value": "Tim internasional - nasional"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "Teman-teman Anda mungkin melewatkan sesuatu.<br/><b>Bagikan FotMob dengan mereka sekarang?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4513,10 +4393,6 @@
       "english": "No",
       "value": "Tidak"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "Kirim"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4554,10 +4430,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "Tekel pemain terakhir"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "Pemilihan terakhir gagal. Mencoba kembali pada"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4606,10 +4478,6 @@
     "common_league": {
       "english": "League",
       "value": "Liga"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "Liga telah mengaktifkan notifikasi, kamu harus mematikan peringatan melalui menu Filter di tab Pertandingan"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4723,10 +4591,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "Beberapa peringatan terkunci karena Anda sudah mengatur peringatan liga yang berlaku untuk pertandingan ini"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "Masuk"
-    },
     "common_lost": {
       "english": "L",
       "value": "K"
@@ -4806,10 +4670,6 @@
       "english": "Max number is reached (5)",
       "value": "Jumlah maksimal tercapai (5)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "Maksimalkan semua"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4835,18 +4695,6 @@
       "english": "Membership",
       "value": "Keanggotaan"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "Pengaturan"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, Twitter dan lainnya..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Kiat: Tekan lama gol atau acara lain untuk membagikannya."
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4869,10 +4717,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "Pemain Tengah"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "Minimalkan semua"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4975,10 +4819,6 @@
       "english": "New season, new features",
       "value": "Musim baru, fitur baru"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "Saya baru di FotMob!"
-    },
     "common_news": {
       "english": "News",
       "value": "Berita"
@@ -4991,28 +4831,9 @@
       "english": "Next match",
       "value": "Pertandingan berikutnya"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "Pemilihan berikutnya di"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "Nikaragua"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "Belum ada liga favorit yang ditambahkan"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "Belum ada pemain favorit yang ditambahkan"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "Belum ada tim favorit yang ditambahkan"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5111,14 +4932,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@ belum sekali pun memenangkan laga dalam %2$@ kesempatan."
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Sesuaikan volume pemberitahuan skor dan ubah kapan pemberitahuan ditampilkan. Ubah zona waktu."
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "Mulai dan akhiri suara"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "Suara gol"
@@ -5126,11 +4939,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "Suara gol favorit"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "Jenis notifikasi"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5143,11 +4951,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "Nyalakan pemberitahuan"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "Pilih kapan kamu ingin diberi tahu saat ada sesuatu terjadi"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5224,21 +5027,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "Cari tim"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "Pilih Favorit Anda"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "Atur pemberitahuan untuk tim dan pemain Favorit dengan merek baru kami, mode FotMob World Cup mode."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "Siap Menyambut Piala Dunia?"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5451,11 +5239,6 @@
       "english": "Players out",
       "value": "Pemain keluar"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "Pemain untuk Diikuti"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5516,10 +5299,6 @@
       "english": "Possible qualification next stage",
       "value": "Kemungkinan kualifikasi tahap berikutnya"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Kirim ke Facebook"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "Ditunda"
@@ -5537,10 +5316,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "Prediktor"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "Kami telah membuat prediksi untuk Piala Dunia. Buat prediksi Anda di <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> dan berkompetisi dengan teman-teman!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5595,10 +5370,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "Kualifikasi promosi"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "Pemberitahuan otomatis berhasil didaftarkan"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5693,10 +5464,6 @@
       "english": "%@ results",
       "value": "%@ hasil"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "Jika kamu telah membeli emas atau perak, klik di sini"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5788,10 +5555,6 @@
       "english": "Saves per match",
       "value": "Penyelamatan gawang"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "Volume peringatan skor"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "Ketikkan nama tim yang kamu cari"
@@ -5848,11 +5611,6 @@
       "english": "See all matches",
       "value": "Lihat semua pertandingan"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "Lihat lebih banyak berita %@"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5872,10 +5630,6 @@
       "english": "Select all",
       "value": "Pilih semua"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "Pilih liga..."
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Pilih Favorit"
@@ -5894,11 +5648,6 @@
       "english": "Select player",
       "value": "Pilih pemain"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "Pilih Pemain yang ingin terus kamu amati."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5913,11 +5662,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "Lihat informasi dari tim pilihan"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "Pilih tim Nasional dan tim lainnya untuk diikuti selama Piala Dunia"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5973,19 +5717,10 @@
       "english": "Show table",
       "value": "Perlihatkan Tabel"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "Perlihatkan logo tim di tabel"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "Kami dapat mengamankan pengaturan Anda sehingga Anda dapat menyinkronkan antar perangkat atau mengambil data saat Anda menggunakan perangkat baru."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "Klik di sini untuk masuk"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6052,10 +5787,6 @@
       "english": "Add %@",
       "value": "Tambahkan %@"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "Tim favorit"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "Tambahkan ke favorit"
@@ -6072,11 +5803,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "Statistik"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "Info"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6114,10 +5840,6 @@
       "value": "ST"
     },
     "common_subs": {
-      "english": "Substitutes",
-      "value": "Pengganti"
-    },
-    "common_subs_stats": {
       "english": "Substitutes",
       "value": "Pengganti"
     },
@@ -6164,10 +5886,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "Diskorsing"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30 detik"
     },
     "common_tab": {
       "english": "Tab",
@@ -6225,38 +5943,15 @@
       "english": "Form",
       "value": "Form"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Salah satu tim telah mengaktifkan pemberitahuan, kamu harus mematikan pemberitahuan melalui halaman tim"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "Isi tim sebelumnya"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "Sekadar mengonfirmasi, apa Anda ingin ‘${team}’?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "Ada ${count} opsi yang cocok dengan ‘${team}’."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "Turnamen"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "tim dan liga"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "Tim bermain untuk"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6320,23 +6015,10 @@
       "english": "Premium features",
       "value": "Fitur premium"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "Pilih zona waktu"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "Ketuk di sini %1$@ untuk <b>Memfilter & Mengurutkan</b> liga"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "Ketuk di sini   %1$@   untuk <b>Filter & Sortir</b> liga"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "Anggota tim"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6411,14 +6093,6 @@
       "english": "Total votes: %@",
       "value": "Total suara: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "Kartu merah"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "Kartu kuning"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "Turnamen"
@@ -6457,10 +6131,6 @@
       "english": "Transfer Center",
       "value": "Pusat Transfer"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Ingin menerima pemberitahuan transfer yang disesuaikan untuk tim dan liga favoritmu?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6481,11 +6151,6 @@
       "english": "Include transfers from",
       "value": "Sertakan transfer dari"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "Biaya yang dilaporkan"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6505,10 +6170,6 @@
       "english": "Try a refresh?",
       "value": "Coba menyegarkan?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Kamu harus menonaktifkan pemberitahuan untuk tim favorit (tekan lama header &quot;Tim Favorit&quot;) untuk mengubah status pemberitahuan pada pertandingan ini"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "Daftar TV"
@@ -6522,34 +6183,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "Klik di sini untuk mengubah saluran TV mana yang kamu tonton"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "Jadwal TV - Denmark"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "Jadwal TV - Jerman"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "Jadwal TV - Norwegia"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "Jadwal TV - Spanyol"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "Jadwal TV - Swedia"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "Jadwal TV - Inggris"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "Jadwal TV - AS"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6573,22 +6206,9 @@
       "english": "Undisclosed",
       "value": "Tidak terungkap"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "Buka kunci premium"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "Berhasil membatalkan pendaftaran pemberitahuan otomatis"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "Berhenti mengikuti %@"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "hingga %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6684,19 +6304,6 @@
       "english": "View all",
       "value": "Lihat semua"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "Lihat favorit"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "Lihat jadwal pertandingan"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "Lihat jadwal TV"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6706,11 +6313,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "Selamat Datang di Klub Supporter!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "Selamat Datang di Pusat Transfer"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6737,10 +6339,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6792,24 +6390,6 @@
       "english": "FIFA World Cup",
       "value": "Piala Dunia"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "Bola Piala Dunia"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "Dimulai dalam %1$@"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Untuk menghadirkan Piala Dunia yang terbaik bagi kamu, kami telah bekerja keras untuk menghasilkan pengalaman menikmati Piala Dunia yang unik  – cobalah!"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "Coba mode\\nPiala Dunia baru kami!"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "Berita dunia"
@@ -6835,10 +6415,6 @@
       "english": "Yesterday",
       "value": "Kemarin"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "Kamu %@!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6851,10 +6427,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "Ceko"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "Mengubah pemberitahuan..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6892,15 +6464,6 @@
       "english": "Italian",
       "value": "Italia"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "Pertandingan & Berita"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "Pertandingan & Pencetak gol teratas"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "Norwegia"
@@ -6920,14 +6483,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "Putar komentar dalam"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "Memutar komentar"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "Memutar komentar dalam"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6955,10 +6510,6 @@
       "english": "Sort",
       "value": "Penyortiran"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "Tabel & Berita"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "Tweet"
@@ -6982,10 +6533,6 @@
       "english": "Second half of the bracket",
       "value": "Bagian bawah bagan babak gugur"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "Kamu harus membeli versi premium terlebih dahulu"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7000,10 +6547,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "Ubah"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "Tambahkan bintang ke liga favoritmu agar mudah mengakses. Klik nama liga untuk mengubah liga saat ini"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7103,10 +6646,6 @@
       "english": "Live Activities activated for %@",
       "value": "Aktivitas Langsung diaktifkan untuk %@"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "Kami hanya menggunakan lokasimu untuk mengaktifkan fitur yang tersedia di beberapa negara"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "Kalah"
@@ -7124,10 +6663,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "Nanti saja"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "menit"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7237,10 +6772,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "Umpan matang teratas"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "Pencetak gol teratas"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7429,11 +6960,6 @@
       "english": "Bronze-final",
       "value": "Final Perunggu"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "Panduan kota"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7481,28 +7007,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "Kami mengirim pemberitahuan berita terpilih untuk tim di bawah. Klik ok untuk mengaktifkan pemberitahuan berita dan tetap mendapat pembaruan terkini."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "Tinjau tim favoritmu dan atur pemberitahuan"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "Final"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "Hasil waktu penuh"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "Gol"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "Gol, mulai dan akhir"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7518,29 +7029,10 @@
       "english": "Height",
       "value": "Tinggi"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "Beralih pemberitahuan berita dengan mengeklik bel di halaman tim"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "Pilih tim favoritmu dan mulai dapatkan pengalaman."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "Aku pakai aplikasi ini untuk cek skor sepak bola langsung. Coba deh!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "Teman Anda mungkin tidak tahu, bagikan FotMob dengannya sekarang?"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "Undang teman untuk mencoba FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7581,19 +7073,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "Kamu tidak menambahkan favorit.\\n\\nTekan tombol mundur untuk menambahkan salah satu atau tekan tombol selesai dan tambahkan nanti."
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "Tidak ada koneksi internet"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "Tidak ada pertandingan di TV untuk hari ini"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "Tidak ada gol lagi"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7621,10 +7104,6 @@
       "english": "Odds format",
       "value": "Format odds"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "Hanya berita terpopuler"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7638,14 +7117,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "Hasil paruh waktu"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "Kami diberi tahu bahwa kamu tidak menentukan tim favorit. Kamu ingin menentukan sekarang?"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "Pilih saran"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7701,10 +7172,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "Tidak dapat masuk ke FotMob Predict"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "Gambar profil"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "Perempat-final"
@@ -7750,10 +7217,6 @@
       "english": "Search",
       "value": "Cari"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "Sejauh ini tidak ada hasil!"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "Semi-final"
@@ -7766,15 +7229,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "Tetapkan tim favorit"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "Kamu mengikuti salah satu tim favorit ini?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "Pilih tim lokal favoritmu"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7808,18 +7262,9 @@
       "english": "Averages",
       "value": "Rata-rata"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "Kick-off dan hasil akhir"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "Ringkasan"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "Profil Tim"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7834,23 +7279,9 @@
       "english": "Settings",
       "value": "Pengaturan"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brazil 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "Memenangkan"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "Pemain teratas"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "Kami hanya akan mengirimkan peringatan untuk berita transfer teratas"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7878,11 +7309,6 @@
       "english": "Waiting for penalties",
       "value": "Menunggu penalti"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "Kualifikasi PD"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7895,10 +7321,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "Siapa yang akan mencetak gol berikutnya?"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "Konfigurasikan"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8363,10 +7785,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "Nonaktifkan mode \"Jangan Diganggu\" untuk mendengar suara pemberitahuan."
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Yakin? Sebaiknya Anda hanya melakukan ini jika Anda mengalami masalah dengan pemberitahuan."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8428,11 +7846,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "Dapatkan pemberitahuan untuk berita terbesar. Hanya sedikit pemberitahuan dalam seminggu."
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "Aktifkan cache offline"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8475,10 +7888,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "Estonia"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "Keluar dari Mode Turnamen"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8661,11 +8070,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "Hungaria"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "Selesai"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9234,30 +8638,6 @@
       "english": "Matches started",
       "value": "Pertandingan dimulai"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "Penyerang"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "Clearance"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "Pemain bertahan"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "Dribel"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "Pengumpan"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "Umpan"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "Tackle"
@@ -9378,24 +8758,9 @@
       "english": "Dark mode",
       "value": "Mode malam"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "Data tidak tersedia"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "Belum ada favorit yang ditambahkan"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "Biasa saja"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "Tidak, saya memiliki beberapa ide"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9466,11 +8831,6 @@
       "english": "Pass success",
       "value": "Umpan sukses"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "% umpan"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "Umpan"
@@ -9483,11 +8843,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "Filipina"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "Sematkan ke layar beranda"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9634,16 +8989,6 @@
       "english": "asst. coach",
       "value": "asisten pelatih"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "pelatih"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "pemain"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9739,11 +9084,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "Atur notifikasi yang diaktifkan saat kamu mengetuk bel pada halaman pertandingan."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "Atur pemberitahuan standar"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9758,11 +9098,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "Tendangan"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "Detail tendangan"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9836,11 +9171,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "Slovenia"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "Pembaruan media sosial"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10096,11 +9426,6 @@
       "english": "View %@",
       "value": "Lihat %@"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "Detail pemain"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10115,11 +9440,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "Dilanggar"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Tonton pertandingannya di Bet365 TV"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10152,16 +9472,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "Kartu kuning"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "Ya!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "Ya, sempurna!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

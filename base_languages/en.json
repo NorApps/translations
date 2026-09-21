@@ -2071,28 +2071,12 @@
       "comment": "A search bottom sheet header for adding a player",
       "value": "Add player"
     },
-    "common_add_remove_leagues": {
-      "value": "Add/Remove leagues"
-    },
     "common_add_to_calendar": {
       "value": "Add to calendar"
     },
     "common_added_as_favorite": {
       "comment": "Status label saying that the player/team has been added as a favorite",
       "value": "%1$@ added as favorite"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "value": "We added some new leagues, just click ignore if you don't want to add them to the list of matches."
-    },
-    "common_adfree_button_ok": {
-      "value": "Go Gold"
-    },
-    "common_adfree_later": {
-      "value": "Not now"
-    },
-    "common_adfree_title": {
-      "value": "Go Premium!"
     },
     "common_after90": {
       "value": "After fulltime"
@@ -2297,10 +2281,6 @@
       "comment": "Empty placeholder if there's no tweets about match available",
       "value": "Buzz not available"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "value": "Cache cleared"
-    },
     "common_canada": {
       "value": "Canada"
     },
@@ -2433,18 +2413,12 @@
       "comment": "Directs the user to a page where they change change their currency settings",
       "value": "Change currency in %@"
     },
-    "common_change_rss": {
-      "value": "Change news feed"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "value": "Check it out"
     },
     "common_chile": {
       "value": "Chile"
-    },
-    "common_choose_rss": {
-      "value": "Select which news feed to display for the currently chosen league"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -2495,10 +2469,6 @@
       "comment": "Menu item to hide all matches in all leagues by collapsing the leagues with matches into just a line with league name",
       "value": "Collapse all leagues"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "value": "Collapse league"
-    },
     "common_colombia": {
       "value": "Colombia"
     },
@@ -2545,10 +2515,6 @@
     "common_contract_extension": {
       "comment": "Transfer status: player extended his contract with club",
       "value": "Contract extension"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "value": "Ready for Copa America 2016?"
     },
     "common_copaLibertadores": {
       "value": "Copa Libertadores"
@@ -2663,14 +2629,6 @@
     "common_draw_streak_team": {
       "value": "%1$@ haven't drawn in their last %2$@ matches."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "value": "Close navigation drawer"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "value": "Open navigation drawer"
-    },
     "common_drawn": {
       "value": "D"
     },
@@ -2720,10 +2678,6 @@
     "common_elSalvador": {
       "value": "El Salvador"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "value": "Network failure"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "value": "News not available"
@@ -2770,16 +2724,6 @@
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
       "value": "Enable push notifications to get breaking news and match updates"
     },
-    "common_enable_push_question": {
-      "value": "Do you want to enable push notifications?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "value": "Enable TV schedules"
-    },
-    "common_end_of_match": {
-      "value": "final"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "value": "Enter a name"
@@ -2789,9 +2733,6 @@
     },
     "common_error_occured": {
       "value": "An error occurred, please retry the operation"
-    },
-    "common_error_push_not_enabled": {
-      "value": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this."
     },
     "common_error_webview": {
       "value": "Error occurred loading page"
@@ -2815,18 +2756,6 @@
     "common_estimated_value": {
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "value": "Estimated value"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "value": "Ready for Euro 2016?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "value": "Setup alerts for top players and teams"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "value": "Set up your national team"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -2927,10 +2856,6 @@
       "comment": "This indicates how many Fantasy Premier League points the player got. Don't translate Fantasy directly if that makes a different meaning in your language! Then just keep it as \"Fantasy <translation for point>\" See https://fantasy.premierleague.com/",
       "value": "Fantasy points"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "value": "Fast push alerts"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "value": "Favorite leagues"
@@ -2986,10 +2911,6 @@
     },
     "common_firsthalf": {
       "value": "First half"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "value": "Select your favorite clubs and national teams to follow"
     },
     "common_fixtures": {
       "value": "Fixtures"
@@ -3259,16 +3180,9 @@
         "other": "Hit the woodwork %d times"
       }
     },
-    "common_generalUpper": {
-      "value": "GENERAL"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "value": "Get started"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "value": "Predict at fotmob.com"
     },
     "common_goal": {
       "value": "Goal!"
@@ -3446,10 +3360,6 @@
       "comment": "Very short version of the \"hour\". F.ex. 7h. Used for the timestamp of the tweet",
       "value": "%@h"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "value": "%@ hrs"
-    },
     "common_ignore": {
       "value": "Ignore"
     },
@@ -3506,10 +3416,6 @@
       "comment": "Header indication for a list of tournaments where national teams play each other. So country vs country like England vs Brazil as opposed to club competitions where Barcelona play Manchester United.",
       "value": "International - national teams"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "value": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "value": "GK"
@@ -3556,9 +3462,6 @@
     "common_label_no": {
       "value": "No"
     },
-    "common_label_submit_button": {
-      "value": "Send"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "value": "x"
@@ -3588,9 +3491,6 @@
     "common_last_man_tackle": {
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "value": "Last man tackle"
-    },
-    "common_last_poll_failed": {
-      "value": "Last poll failed. Retrying at"
     },
     "common_last_updated": {
       "value": "Last updated"
@@ -3629,9 +3529,6 @@
     },
     "common_league": {
       "value": "League"
-    },
-    "common_league_has_notifications": {
-      "value": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -3722,9 +3619,6 @@
       "comment": "This is an information message saying user cannot change the alerts on this match because he has league alerts set",
       "value": "Some of the alerts are locked because you have set league alerts that apply to this match"
     },
-    "common_log_me_in": {
-      "value": "Log me in"
-    },
     "common_lost": {
       "value": "L"
     },
@@ -3785,9 +3679,6 @@
       "comment": "Error message saying you can't add any more countries to the TV schedules since we have a maximum number of 5 countries.",
       "value": "Max number is reached (5)"
     },
-    "common_maximize_all": {
-      "value": "Maximize all"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "value": "Measurement system"
@@ -3808,15 +3699,6 @@
       "comment": "Header of a description of the user's current membership status",
       "value": "Membership"
     },
-    "common_menu_settings": {
-      "value": "Settings"
-    },
-    "common_menu_share_others": {
-      "value": "Google+, Twitter and more..."
-    },
-    "common_message_sent": {
-      "value": "Tip: Long press a goal or other event to share it."
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "value": "Metric (cm)"
@@ -3834,9 +3716,6 @@
     },
     "common_midfielder_long": {
       "value": "Midfielder"
-    },
-    "common_minimize_all": {
-      "value": "Minimize all"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -3915,9 +3794,6 @@
       "comment": "Title of an onboarding popup announcing new features for the new football season.",
       "value": "New season, new features"
     },
-    "common_new_to_fotmob": {
-      "value": "I'm new to FotMob!"
-    },
     "common_news": {
       "value": "News"
     },
@@ -3927,23 +3803,8 @@
     "common_next_match": {
       "value": "Next match"
     },
-    "common_next_poll": {
-      "value": "Next poll at"
-    },
     "common_nicaragua": {
       "value": "Nicaragua"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "value": "No favorite leagues added yet"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "value": "No favorite players added yet"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "value": "No favorite teams added yet"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -4020,21 +3881,11 @@
     "common_not_won_team": {
       "value": "%1$@ haven't won a match in %2$@ attempts."
     },
-    "common_notification_description": {
-      "value": "Adjust volume of score notifications and change when to show notifications. Change timezone."
-    },
-    "common_notification_end_sound": {
-      "value": "Start and finished sound"
-    },
     "common_notification_sound": {
       "value": "Goal sound"
     },
     "common_notification_sound_fav": {
       "value": "Goal sound favorites"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "value": "Notification types"
     },
     "common_notifications": {
       "value": "Settings"
@@ -4044,10 +3895,6 @@
     },
     "common_notifications_on": {
       "value": "Turn on notifications"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "value": "Choose when you want us to notify you when things happen"
     },
     "common_notstarted": {
       "value": "Not started"
@@ -4108,18 +3955,6 @@
     "common_onboarding_team_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "value": "Search teams"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "value": "Choose your favorites"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "value": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "value": "Ready for the World Cup?"
     },
     "common_ongoing": {
       "value": "Ongoing"
@@ -4285,10 +4120,6 @@
       "comment": "In the Team page, this is a header indicating which players have transferred away from the team",
       "value": "Players out"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "value": "Players to follow"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "value": "Play-off winner"
@@ -4336,9 +4167,6 @@
       "comment": "This table position may give a qualification to the next stage depending upon the rules of the tournament",
       "value": "Possible qualification next stage"
     },
-    "common_post_to_facebook": {
-      "value": "Post to Facebook"
-    },
     "common_postponed": {
       "value": "Postponed"
     },
@@ -4352,9 +4180,6 @@
     "common_predictor": {
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "value": "Predictor"
-    },
-    "common_predictor_text": {
-      "value": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -4397,9 +4222,6 @@
     },
     "common_promotionqual": {
       "value": "Promotion qualification"
-    },
-    "common_push_connected": {
-      "value": "Push notifications are successfully registered"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -4473,9 +4295,6 @@
       "comment": "A label indicating how many transfers we found matching the search result that the user has inputted.",
       "value": "%@ results"
     },
-    "common_resync_desc": {
-      "value": "If you have previously bought gold or silver, click here"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "value": "Right"
@@ -4548,9 +4367,6 @@
     "common_saves_title": {
       "value": "Saves per match"
     },
-    "common_score_volume": {
-      "value": "Score alert volume"
-    },
     "common_search_hint": {
       "value": "Type in the teamname you are looking for"
     },
@@ -4595,10 +4411,6 @@
       "comment": "Help button to jump from Play Off to Matches tab in league overview",
       "value": "See all matches"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "value": "See more %@ news"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "value": "See more highlights"
@@ -4614,9 +4426,6 @@
     "common_select_all": {
       "value": "Select all"
     },
-    "common_select_favorite_league": {
-      "value": "Select league..."
-    },
     "common_select_favorites": {
       "value": "Select favorites"
     },
@@ -4631,10 +4440,6 @@
       "comment": "Button label for comparing two players to each other",
       "value": "Select player"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "value": "Select the Players you want to keep an eye on."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "value": "Select season"
@@ -4646,10 +4451,6 @@
     "common_select_team_picker_description": {
       "comment": "A sub-header for the picker for the widget's team to follow",
       "value": "See information from the selected team"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "value": "Select your National team and other teams to follow during the World Cup"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -4693,16 +4494,9 @@
     "common_show_table": {
       "value": "Show table"
     },
-    "common_show_team_logos_in_table": {
-      "value": "Show team logos in table"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "value": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "value": "Click here to sign in"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -4755,9 +4549,6 @@
     "common_star": {
       "value": "Add %@"
     },
-    "common_star_desc": {
-      "value": "Favorite teams"
-    },
     "common_star_league": {
       "value": "Add to favorites"
     },
@@ -4770,10 +4561,6 @@
     },
     "common_stats": {
       "value": "Stats"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "value": "Info"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -4803,9 +4590,6 @@
       "value": "ST"
     },
     "common_subs": {
-      "value": "Substitutes"
-    },
-    "common_subs_stats": {
       "value": "Substitutes"
     },
     "common_substitute": {
@@ -4842,9 +4626,6 @@
     },
     "common_suspensions": {
       "value": "Suspended"
-    },
-    "common_t30_seconds": {
-      "value": "30 seconds"
     },
     "common_tab": {
       "value": "Tab"
@@ -4890,31 +4671,13 @@
       "comment": "Teams form. We use this when showing the last 5 matches of the teams in table. Try to keep the translation short.",
       "value": "Form"
     },
-    "common_team_has_notifications": {
-      "value": "One of the team has enabled alerts, you must turn off alerts via the team page"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "value": "Team pre-fill"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "value": "Just to confirm, you wanted ‘${team}’?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "value": "There are ${count} options matching ‘${team}’."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "value": "Tournaments"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "value": "teams and leagues"
-    },
-    "common_teams_played_for": {
-      "value": "Teams played for"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -4965,19 +4728,9 @@
     "common_ticket": {
       "value": "Premium features"
     },
-    "common_timezone_caption": {
-      "value": "Choose timezone"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "value": "Tap here %1$@ to <b>Filter & Sort</b> leagues"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "value": "Tap here   %1$@   to <b>Filter & Sort</b> leagues"
-    },
-    "common_title_activity_squad_member": {
-      "value": "Squad member"
     },
     "common_title_activity_tvschedule": {
       "value": "TV schedules"
@@ -5036,12 +4789,6 @@
       "comment": "Total number of votes for a poll on match facts. People can vote if they think home team or away team will win",
       "value": "Total votes: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "value": "Red cards"
-    },
-    "common_total_yel_card_title": {
-      "value": "Yellow cards"
-    },
     "common_tournament": {
       "value": "Tournament"
     },
@@ -5072,9 +4819,6 @@
       "comment": "The Transfer Center is a place where we list all the player transfers between teams.",
       "value": "Transfer Center"
     },
-    "common_transfer_enable_all": {
-      "value": "Do you want to receive customized transfer alerts for your favorite teams and leagues?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "value": "Fee"
@@ -5091,10 +4835,6 @@
       "comment": "A header indicating the time period you want to search for. This will be followed by the [last_x_years] string and [last_x_months]",
       "value": "Include transfers from"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "value": "Reported fee"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "value": "Sum"
@@ -5110,9 +4850,6 @@
     "common_try_refresh": {
       "value": "Try a refresh?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "value": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match"
-    },
     "common_tv_prompt": {
       "value": "TV Listing"
     },
@@ -5123,27 +4860,6 @@
     "common_tv_schedules_change_stations": {
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "value": "Click here to change which TV channels you see"
-    },
-    "common_tv_selected_denmark": {
-      "value": "TV schedules - Denmark"
-    },
-    "common_tv_selected_germany": {
-      "value": "TV schedules - Germany"
-    },
-    "common_tv_selected_norway": {
-      "value": "TV schedules - Norway"
-    },
-    "common_tv_selected_spain": {
-      "value": "TV schedules - Spain"
-    },
-    "common_tv_selected_sweden": {
-      "value": "TV schedules - Sweden"
-    },
-    "common_tv_selected_uk": {
-      "value": "TV schedules - UK"
-    },
-    "common_tv_selected_usa": {
-      "value": "TV schedules - USA"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -5162,18 +4878,8 @@
       "comment": "Transfer price is unknown (undisclosed by clubs)",
       "value": "Undisclosed"
     },
-    "common_unlock_premium": {
-      "value": "Unlock premium"
-    },
-    "common_unregistered_push": {
-      "value": "Successfully unregistered for push notifications"
-    },
     "common_unstar": {
       "value": "Unfollow %@"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "value": "until %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -5249,16 +4955,6 @@
       "comment": "Button to indicate user wants to view all the items in a list",
       "value": "View all"
     },
-    "common_view_favorites": {
-      "value": "View favorites"
-    },
-    "common_view_fixtures": {
-      "value": "View fixtures"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "value": "View TV schedules"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "value": "Watch now"
@@ -5266,10 +4962,6 @@
     "common_welcome_to_supporters_club": {
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "value": "Welcome to the Supporters Club!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "value": "Welcome to the Transfer Center"
     },
     "common_what_will_outcome_be": {
       "value": "What will the outcome be?"
@@ -5290,9 +4982,6 @@
     },
     "common_widget_title": {
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "value": "FotMob - News"
@@ -5331,20 +5020,6 @@
     "common_world_cup": {
       "value": "FIFA World Cup"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "value": "World Cup Balls"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "value": "Starts in %1$@"
-    },
-    "common_world_cup_popup_description": {
-      "value": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!"
-    },
-    "common_world_cup_popup_header": {
-      "value": "Try our new\\nWorld Cup mode!"
-    },
     "common_worldnews": {
       "value": "World news"
     },
@@ -5364,9 +5039,6 @@
       "comment": "<string name=\"sponsor_desc\">Get rid of the ads by downloading other FREE apps</string>",
       "value": "Yesterday"
     },
-    "common_you_are_a": {
-      "value": "You are a %@!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "value": "Advanced"
@@ -5376,9 +5048,6 @@
     },
     "ios_CZE": {
       "value": "Czech"
-    },
-    "ios_Changing_notification": {
-      "value": "Changing notification..."
     },
     "ios_DEN": {
       "value": "Danish"
@@ -5407,13 +5076,6 @@
     "ios_ITA": {
       "value": "Italian"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "value": "Matches & News"
-    },
-    "ios_Matches_and_Topscorer": {
-      "value": "Matches & Topscorer"
-    },
     "ios_NOR": {
       "value": "Norwegian"
     },
@@ -5428,12 +5090,6 @@
     },
     "ios_Play_commentaries_in": {
       "value": "Play commentaries in"
-    },
-    "ios_Playing_commentaries": {
-      "value": "Playing commentaries"
-    },
-    "ios_Playing_commentaries_in": {
-      "value": "Playing commentaries in"
     },
     "ios_ROU": {
       "value": "Romanian"
@@ -5455,9 +5111,6 @@
       "comment": "Menuchoice to change the sortorder of the leagues",
       "value": "Sort"
     },
-    "ios_Tables_and_News": {
-      "value": "Tables & News"
-    },
     "ios_Tweet": {
       "value": "Tweet"
     },
@@ -5476,9 +5129,6 @@
       "comment": "VoiceOver-only heading read before the matches on the second path of a knockout bracket, the one leading to the bottom or right semi-final. Do not translate as the second half of a match. Use \"half\" or \"side\" of the draw as is natural in your language, and use exactly the same noun and the same first/second (or top/bottom) scheme as bracket_first_half, since the two headings are read one after the other on the same screen.",
       "value": "Second half of the bracket"
     },
-    "ios_buy_premium_first": {
-      "value": "You must buy premium version first"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "value": "Started %@, currently plays for this team"
@@ -5490,9 +5140,6 @@
     "ios_change": {
       "comment": "Menuchoice for changing the current league",
       "value": "Change"
-    },
-    "ios_choose_league_desc": {
-      "value": "Add a star to your favorite leagues for easy access. Click the league name to change the current league"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -5572,9 +5219,6 @@
       "comment": "Live activities activated toast message. Includes league name param, e.g. \"Live Activities activated for World Cup\". Use live_activities translation for \"Live Activities\".",
       "value": "Live Activities activated for %@"
     },
-    "ios_location_reason": {
-      "value": "We only use your location to enable features available to some countries"
-    },
     "ios_losses": {
       "value": "Losses"
     },
@@ -5588,9 +5232,6 @@
     "ios_maybe_later": {
       "comment": "Maybe later button for dismissing popup",
       "value": "Maybe later"
-    },
-    "ios_minutes_long": {
-      "value": "minutes"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -5676,9 +5317,6 @@
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
       "value": "Top assists"
-    },
-    "ios_top_goalscorer": {
-      "value": "Top goal scorer"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -5826,10 +5464,6 @@
     "new_bronzeFinal": {
       "value": "Bronze-final"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "value": "City guides"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "value": "Correction"
@@ -5867,23 +5501,11 @@
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
       "value": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "value": "Review your favorite teams and set alerts"
-    },
     "new_finalTournament": {
       "value": "Final"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "value": "Full time result"
-    },
     "new_goals": {
       "value": "Goals"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "value": "Goals, start and finish"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -5896,24 +5518,9 @@
     "new_height_sentencecase": {
       "value": "Height"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "value": "Toggle news notifications by clicking the bell in the team page"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "value": "Select your favorite teams and start the experience."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "value": "I am using this app to get live football scores. Check it out!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "value": "Your friends may be missing out, share FotMob with them now?"
-    },
-    "new_invite_title": {
-      "value": "Invite your friends to try FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -5946,16 +5553,9 @@
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
       "value": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later."
     },
-    "new_no_internet_connection": {
-      "value": "No internet connection"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "value": "No matches on TV today"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "value": "No more goals"
     },
     "new_no_odds": {
       "value": "No odds"
@@ -5977,9 +5577,6 @@
     "new_odds_format": {
       "value": "Odds format"
     },
-    "new_onlytopnews": {
-      "value": "Only top news"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "value": "Optional"
@@ -5990,12 +5587,6 @@
     "new_pause_result": {
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "value": "Halftime result"
-    },
-    "new_pick_favorite": {
-      "value": "We noticed you have no favorite teams set. Do you want to set one now?"
-    },
-    "new_pick_suggestion": {
-      "value": "Pick suggestion"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -6040,9 +5631,6 @@
       "comment": "Title of the dialog shown when signing in to FotMob Predict fails.",
       "value": "Couldn't sign in to FotMob Predict"
     },
-    "new_profile_picture": {
-      "value": "Profile picture"
-    },
     "new_quarterfinal": {
       "value": "Quarter-final"
     },
@@ -6078,9 +5666,6 @@
     "new_search": {
       "value": "Search"
     },
-    "new_search_hint_global_desc": {
-      "value": "No results so far!"
-    },
     "new_semifinal": {
       "value": "Semi-final"
     },
@@ -6090,13 +5675,6 @@
     },
     "new_set_favorite_team": {
       "value": "Set favorite team"
-    },
-    "new_set_your_popular_teams": {
-      "value": "Do you follow one of these popular teams?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "value": "Choose your favorite local teams"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -6123,15 +5701,8 @@
     "new_standings_averages_title": {
       "value": "Averages"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "value": "Start and fulltime result"
-    },
     "new_summary": {
       "value": "Summary"
-    },
-    "new_team_profile": {
-      "value": "Team Profile"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -6143,19 +5714,8 @@
     "new_title_activity_widget_settings": {
       "value": "Settings"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "value": "Brazil 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "value": "To win"
-    },
     "new_top_players": {
       "value": "Top players"
-    },
-    "new_transfer_news_added": {
-      "value": "We will only send you alerts for the top transfer news"
     },
     "new_transfers": {
       "value": "Transfers"
@@ -6177,10 +5737,6 @@
     "new_waiting_for_penalties": {
       "value": "Waiting for penalties"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "value": "WC qualification"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "value": "WEIGHT"
@@ -6190,9 +5746,6 @@
     },
     "new_who_will_score_next": {
       "value": "Who will score next?"
-    },
-    "new_widget_providers_list_title": {
-      "value": "Configure"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -6550,9 +6103,6 @@
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
       "value": "Disable \"Do not disturb\" mode to hear notification sounds."
     },
-    "notifications_disable_push": {
-      "value": "Are you sure? You should only do this if you experience problems with the notifications."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "value": "Discipline"
@@ -6601,10 +6151,6 @@
       "comment": "User can enable breaking news alerts",
       "value": "Get notifications for the biggest news stories. Just a few notifications a week."
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "value": "Enable offline cache"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "value": "Enable transfer news"
@@ -6638,9 +6184,6 @@
     },
     "notifications_estonia": {
       "value": "Estonia"
-    },
-    "notifications_exit_world_cup_mode": {
-      "value": "Exit Tournament mode"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -6785,10 +6328,6 @@
     },
     "notifications_hungary": {
       "value": "Hungary"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "value": "I'm done"
     },
     "notifications_iceland": {
       "value": "Iceland"
@@ -7220,24 +6759,6 @@
       "comment": "Android accessibility label read before the count of matches under way in a league or Following group.",
       "value": "Matches started"
     },
-    "notifications_matchstats.headers.attackers": {
-      "value": "Attackers"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "value": "Clearances"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "value": "Defenders"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "value": "Dribbles"
-    },
-    "notifications_matchstats.headers.passers": {
-      "value": "Passers"
-    },
-    "notifications_matchstats.headers.passes": {
-      "value": "Passes"
-    },
     "notifications_matchstats.headers.tackles": {
       "value": "Tackles"
     },
@@ -7331,20 +6852,8 @@
       "comment": "Deprecated",
       "value": "Dark mode"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "value": "No data available"
-    },
     "notifications_no_favorites_added_yet": {
       "value": "No favorites added yet"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "value": "Not really"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "value": "Nah, I have some ideas"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -7400,10 +6909,6 @@
       "comment": "The percentage of passes being successful",
       "value": "Pass success"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "value": "Pass %"
-    },
     "notifications_passes": {
       "value": "Passes"
     },
@@ -7413,10 +6918,6 @@
     "notifications_philippines": {
       "comment": "Country name used in tv guide page on web",
       "value": "Philippines"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "value": "Pin to homescreen"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -7533,14 +7034,6 @@
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "value": "asst. coach"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "value": "coach"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "value": "player"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "value": "referee"
@@ -7616,10 +7109,6 @@
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts",
       "value": "Set which notifications are enabled when you tap the bell on match pages."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "value": "Set standard notifications"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "value": "Shirt"
@@ -7631,10 +7120,6 @@
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "value": "Shots"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "value": "Shots detail"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -7692,10 +7177,6 @@
     "notifications_slovenia": {
       "comment": "Country name used in tv guide page on web",
       "value": "Slovenia"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "value": "Social media updates"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -7898,10 +7379,6 @@
       "comment": "Label for viewing a player profile. Like \"View Wayne Rooney\"",
       "value": "View %@"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "value": "Player details"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "value": "Volume"
@@ -7913,10 +7390,6 @@
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "value": "Was fouled"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "value": "Watch the match on Bet365 TV"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "value": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?"
@@ -7942,14 +7415,6 @@
     },
     "notifications_yellow_card": {
       "value": "Yellow card"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "value": "Yes!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "value": "Yes, it's perfect!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

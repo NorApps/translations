@@ -230,11 +230,6 @@
       "english": "Settings",
       "value": "Configuración"
     },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Agregamos algunas ligas nuevas. Toca ignorar si no quieres agregarlas a la lista de partidos."
-    },
     "common_afterextra": {
       "english": "After extra time",
       "value": "Después del tiempo extra"
@@ -451,14 +446,6 @@
       "english": "Live commentary not available",
       "value": "Comentarios en vivo no disponibles"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "Configuración"
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Consejo: Mantén presionado un gol u otro evento para compartirlo."
-    },
     "common_middle_east": {
       "comment": "The name of the Middle East region",
       "english": "Middle East",
@@ -577,10 +564,6 @@
       "english": "Do you like FotMob? It would mean a lot to us if you took a minute to rate it!",
       "value": "¿Te gusta FotMob? ¡Significaría mucho para nosotros si te tomaras un minuto para calificarla!"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "Si FotMob no reconoce tu compra correctamente (después de reinstalar o actualizar la versión de Android), presiona el botón para resincronizar tus compras"
-    },
     "common_rightmidfielder": {
       "comment": "Player position - player plays on the right side of the midfield",
       "english": "Right Midfielder",
@@ -635,11 +618,6 @@
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "Podemos guardar tu configuración para que puedas sincronizarla con otros dispositivos o recuperarla con un nuevo dispositivo."
     },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "Iniciar sesión"
-    },
     "common_squad_value": {
       "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
       "english": "Squad value",
@@ -648,10 +626,6 @@
     "common_table": {
       "english": "Table",
       "value": "Tabla"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "Jugador del equipo"
     },
     "common_transfer_loan_message": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid on loan from Manchester United\"",
@@ -662,10 +636,6 @@
       "comment": "This is for a transfer like: \"Ronaldo is returning from loan to Real Madrid from Barcelona\"",
       "english": "%1$@ is returning from loan to %2$@ from %3$@",
       "value": "%1$@ vuelve de préstamo al %2$@ desde el %3$@"
-    },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Tienes que desactivar las notificaciones de los equipos favoritos (mantén presionado el encabezado &quot;Equipos favoritos&quot;) para cambiar el estado de notificación de este partido"
     },
     "common_tv_schedules_change": {
       "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
@@ -697,22 +667,10 @@
       "english": "Autoplay videos",
       "value": "Reproducir videos automáticamente"
     },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Para sacarle el máximo provecho a la Copa del Mundo, hemos estado trabajando duro en la creación de una experiencia única. ¡Pruébala!"
-    },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "Posiciones y noticias"
-    },
     "ios_benched": {
       "comment": "VoiceOver-only value read directly after the [minutes_played] label when a player played zero minutes, e.g. \"Minutes played: Benched\". Keep it short, but make the \"did not play\" state explicit where the bare noun would just mean \"substitute\".",
       "english": "Benched",
       "value": "En la banca"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "Para un acceso más rápido, toca la estrella para agregar tus ligas favoritas. Toca en el nombre de la liga para cambiar la liga actual"
     },
     "ios_enable_live_activities": {
       "comment": "Live activities onboarding description. Use live_activities translation for \"live activities\".",
@@ -733,10 +691,6 @@
       "comment": "Live activities activated toast message. Includes league name param, e.g. \"Live Activities activated for World Cup\". Use live_activities translation for \"Live Activities\".",
       "english": "Live Activities activated for %@",
       "value": "Actividades en vivo activadas para %@"
-    },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "Solo utilizamos tu ubicación para activar las funciones disponibles para algunos países"
     },
     "ios_rate_fotmob_accessibility": {
       "comment": "An accessibility label for the star buttons in the \"rate FotMob\" card, read aloud by VoiceOver. %@/%d is the number of stars (1-5) that button gives, e.g. \"Rate FotMob [5] stars\" where the bracketed text is the variable.",

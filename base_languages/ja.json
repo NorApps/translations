@@ -2611,10 +2611,6 @@
       "english": "Add player",
       "value": "選手を追加"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "リーグを追加／削除"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "カレンダーに追加"
@@ -2623,23 +2619,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@がお気に入りに追加されました"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "新しいリーグが追加されました。試合リストに追加しない場合は、「無視する」をクリックしてください。"
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "ゴールドサポーターになる"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "今はしない"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "プレミアムへ移行！"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2900,11 +2879,6 @@
       "english": "Buzz not available",
       "value": "Buzzは利用できません"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "キャッシュがクリアされました"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "カナダ"
@@ -3071,10 +3045,6 @@
       "english": "Change currency in %@",
       "value": "%@で通貨を変更します"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "ニュースフィードを変更"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3083,10 +3053,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "チリ"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "表示する現在選択しているリーグのニュースフィードを選択してください"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3151,11 +3117,6 @@
       "english": "Collapse all leagues",
       "value": "全リーグの試合を非表示"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "リーグの試合を非表示"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "コロンビア"
@@ -3215,11 +3176,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "契約延長"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "コパ・アメリカ2016の準備はできてますか？"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3368,16 +3324,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@は前%2$@試合で引分けなし。"
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "ナビゲーションドロワーを閉じる"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "ナビゲーションドロワーを開く"
-    },
     "common_drawn": {
       "english": "D",
       "value": "分"
@@ -3442,11 +3388,6 @@
       "english": "El Salvador",
       "value": "エルサルバドル"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "ネットワーク障害"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3505,19 +3446,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "プッシュ通知を有効にして、速報や試合の最新情報を受け取ろう"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "プッシュ通知を有効にしますか？"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "テレビガイドを有効にする"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "ファイナル"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3530,10 +3458,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "エラーが発生しました。操作をやり直してください"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "通知センターでFotMobの通知が無効になっています。 http://fotmob.com/faq.htmlにアクセスして、通知を有効にしてください。"
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3563,21 +3487,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "推定市場価値"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "ユーロ2016の準備はできてますか？"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "トッププレイヤーとチームのアラートを設定"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "代表チームを設定しよう"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3704,11 +3613,6 @@
       "english": "Fantasy points",
       "value": "ファンタジーポイント"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "速いプッシュアラート"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3780,11 +3684,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "前半"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "フォローしたいお気に入りのクラブと代表チームを選択します"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4132,19 +4031,10 @@
         "other": "ゴールポストに当たったシュート数 %d 回"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "全般"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "始める"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "fotmob.comで試合予想"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4376,11 +4266,6 @@
       "english": "%@h",
       "value": "%@時間"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@時間"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "無視する"
@@ -4452,11 +4337,6 @@
       "english": "International - national teams",
       "value": "国際 - 代表チーム"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "友だちが情報を見逃しているかもしれません。<br/><b>今すぐ友だちとFotMobを共有しますか？</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4515,10 +4395,6 @@
       "english": "No",
       "value": "いいえ"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "送信"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4556,10 +4432,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "ラストマンタックル"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "前回のポーリングに失敗しました。再試行予定時刻:"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4608,10 +4480,6 @@
     "common_league": {
       "english": "League",
       "value": "リーグ"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "リーグの通知が有効になっています。「試合」タブの「絞り込み」メニューからアラートを無効にしてください"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4725,10 +4593,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "この試合に適用されるリーグアラートが設定されているため、一部のアラートはロックされています"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "ログインする"
-    },
     "common_lost": {
       "english": "L",
       "value": "負"
@@ -4808,10 +4672,6 @@
       "english": "Max number is reached (5)",
       "value": "最大数（5）に達しました"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "すべて最大化"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4837,18 +4697,6 @@
       "english": "Membership",
       "value": "メンバーシップ"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "設定"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+、Twitter、その他..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "ヒント：得点やその他のイベントを長押しすると、共有できます。"
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4871,10 +4719,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "ミッドフィールダー"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "すべて最小化"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4977,10 +4821,6 @@
       "english": "New season, new features",
       "value": "新シーズン、新機能"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "FotMobを初めて使います！"
-    },
     "common_news": {
       "english": "News",
       "value": "ニュース"
@@ -4993,28 +4833,9 @@
       "english": "Next match",
       "value": "次の試合"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "次の投票は"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "ニカラグア"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "お気に入りリーグはまだ追加されていません"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "お気に入り選手はまだ追加されていません"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "お気に入りチームはまだ追加されていません"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5113,14 +4934,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@は%2$@回のトライで勝ちなし。"
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "スコア通知の音量を調整し、通知を表示するタイミングを変更します。タイムゾーンを変更します。"
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "開始と終了のサウンド"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "得点サウンド"
@@ -5128,11 +4941,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "お気に入りの得点サウンド"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "通知タイプ"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5145,11 +4953,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "通知をオンにする"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "新しい情報が入ったときにいつ通知を受信するかを選択します"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5226,21 +5029,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "チームを検索する"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "お気に入りを選択する"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "新機能のFotMobワールドカップモードを使って お気に入りのチームや選手のアラートを設定しよう。"
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "ワールドカップへの準備は万全？"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5453,11 +5241,6 @@
       "english": "Players out",
       "value": "移籍選手（出）"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "フォローする選手"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5518,10 +5301,6 @@
       "english": "Possible qualification next stage",
       "value": "次ラウンド進出の可能性あり"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Facebookに投稿"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "延期"
@@ -5539,10 +5318,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "試合予想"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "私たちワールドカップの予想は決定しました。<a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a>で予想に参加して友だちと競い合おう！"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5597,10 +5372,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "昇格資格"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "プッシュ通知が登録されました"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5695,10 +5466,6 @@
       "english": "%@ results",
       "value": "結果%@件"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "以前ゴールドまたはシルバーを購入している場合は、ここをクリック"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5790,10 +5557,6 @@
       "english": "Saves per match",
       "value": "試合ごとのセーブ数"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "得点アラートの音量"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "探しているチームの名前を入力します"
@@ -5850,11 +5613,6 @@
       "english": "See all matches",
       "value": "全試合を表示"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "%@のその他のニュース"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5874,10 +5632,6 @@
       "english": "Select all",
       "value": "すべて選択"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "リーグを選択..."
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "お気に入りを選択"
@@ -5896,11 +5650,6 @@
       "english": "Select player",
       "value": "選手を選択"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "チェックしたい選手を選択します"
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5915,11 +5664,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "選択したチームの情報を表示します"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "ワールドカップ中にフォローする代表チームやその他のチームを選択します"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5975,19 +5719,10 @@
       "english": "Show table",
       "value": "順位表を表示"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "順位表にチームロゴを表示"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "設定を保存して、デバイス間で設定を同期したり、新しいデバイスに設定を移行したりできます。"
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "ここをクリックしてサインイン"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6054,10 +5789,6 @@
       "english": "Add %@",
       "value": "%@を追加"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "お気に入りチーム"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "お気に入りに追加"
@@ -6074,11 +5805,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "スタッツ"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "情報"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6118,10 +5844,6 @@
     "common_subs": {
       "english": "Substitutes",
       "value": "交代"
-    },
-    "common_subs_stats": {
-      "english": "Substitutes",
-      "value": "控え"
     },
     "common_substitute": {
       "comment": "Position label shown for a benched/substitute player in the player match-stats ranking list (singular of the existing 'Substitutes'). Non-English values derived from [subs] and singularized — flagged for native review.",
@@ -6166,10 +5888,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "出場停止"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30秒"
     },
     "common_tab": {
       "english": "Tab",
@@ -6227,38 +5945,15 @@
       "english": "Form",
       "value": "フォーム"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "アラートが有効になっているチームがあります。チームページからアラートを無効にしてください"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "チームを事前入力"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "確認しますが、選んだのは‘${team}’ですか？"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "‘${team}’に一致するオプションは${count}あります。"
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "トーナメント"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "チームとリーグ"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "在籍したチーム数"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6322,23 +6017,10 @@
       "english": "Premium features",
       "value": "プレミアム機能"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "タイムゾーンを選択"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "リーグの<b>フィルタリング＆並び替え</b>はここ%1$@ をタップします"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "リーグの<b>フィルタリング＆並び替え</b>はここ %1$@ をタップ"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "スカッドメンバー"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6413,14 +6095,6 @@
       "english": "Total votes: %@",
       "value": "総投票数：%@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "レッドカード数"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "イエローカード数"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "トーナメント"
@@ -6459,10 +6133,6 @@
       "english": "Transfer Center",
       "value": "移籍センター"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "お気に入りチームやリーグの移籍に関するカスタムアラートを受け取りますか？"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6483,11 +6153,6 @@
       "english": "Include transfers from",
       "value": "次の期間以降の移籍を含む："
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "推定移籍金"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6507,10 +6172,6 @@
       "english": "Try a refresh?",
       "value": "再読込みを試しますか？"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "この試合の通知ステータスを切り替えるには、お気に入りチームの通知をオフにする必要があります（「お気に入りチーム」のヘッダーを長押し）。"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "テレビ一覧表"
@@ -6524,34 +6185,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "視聴するTVチャンネルを変更するにはココをクリックします"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "テレビ番組表 - デンマーク"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "テレビ番組表 - ドイツ"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "テレビ番組表 - ノルウェー"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "TV放送予定 - スペイン"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "テレビ番組表 - スウェーデン"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "テレビ番組表 - イギリス"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "テレビ番組表 - アメリカ"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6575,22 +6208,9 @@
       "english": "Undisclosed",
       "value": "未公表"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "プレミアムをアンロック"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "プッシュ通知が解除されました"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "%@のフォローを解除"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "%@まで"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6686,19 +6306,6 @@
       "english": "View all",
       "value": "すべて表示"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "お気に入りを表示"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "試合日を表示"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "テレビ番組表を表示"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6708,11 +6315,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "サポータークラブへようこそ！"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "移籍センターへようこそ"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6739,10 +6341,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6794,24 +6392,6 @@
       "english": "FIFA World Cup",
       "value": "ワールドカップ"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "ワールドカップボール"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "開始まで%1$@"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "ワールドカップを最大限に楽しめるように、独創的なワールドカップ体験の提供に取り組んできました - ぜひお試しください！"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "新しいワールドカップモードを\\nお試しください！"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "ワールドニュース"
@@ -6837,10 +6417,6 @@
       "english": "Yesterday",
       "value": "昨日"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "あなたは%@です！"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6853,10 +6429,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "チェコ語"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "通知を変更中…"
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6894,15 +6466,6 @@
       "english": "Italian",
       "value": "イタリア語"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "試合＆ニュース"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "試合＆得点王"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "ノルウェー語"
@@ -6922,14 +6485,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "次で解説を再生："
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "解説を再生中"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "次で解説を再生中："
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6957,10 +6512,6 @@
       "english": "Sort",
       "value": "並び替え"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "順位表＆ニュース"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "ツイート"
@@ -6984,10 +6535,6 @@
       "english": "Second half of the bracket",
       "value": "トーナメント表の下側"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "最初にプレミアムバージョンを購入する必要があります"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7002,10 +6549,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "変更"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "お気に入りリーグにスターを追加すると、簡単にアクセスできます。リーグを変更するには、リーグ名をクリックします"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7105,10 +6648,6 @@
       "english": "Live Activities activated for %@",
       "value": "%@のライブアクティビティを有効にしました"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "あなたの位置情報は、一部の国で利用可能な機能を有効にするためだけに使用されます"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "敗戦数"
@@ -7126,10 +6665,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "あとで"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "分"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7239,10 +6774,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "トップアシスト"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "得点王"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7431,11 +6962,6 @@
       "english": "Bronze-final",
       "value": "3位決定戦"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "シティガイド"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7483,28 +7009,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "以下のチームの厳選したニュース通知を送信します。「OK」をクリックしてニュースアラートを有効にし、最新情報をチェックしましょう。"
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "お気に入りのチームを確認してアラートを設定します"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "決勝"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "試合終了時の結果"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "ゴール数"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "ゴール、試合開始、試合終了"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7520,29 +7031,10 @@
       "english": "Height",
       "value": "身長"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "ニュース通知は、チームページのベルをクリックして切り替えます"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "お気に入りのチームを選択して、始めましょう。"
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "サッカーで得点が入ると通知されるアプリを使っています。チェックしてみて！"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "友達は見逃しているかも。今すぐFotMobをシェアしますか？"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "友だちをFotMobに招待しよう"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7583,19 +7075,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "お気に入りが追加されていません。\\n\\n「戻る」を押して今すぐ追加、または「終了」を押して後で追加します。"
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "インターネット接続がありません"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "今日は試合のテレビ放送はありません"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "この先得点なし"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7623,10 +7106,6 @@
       "english": "Odds format",
       "value": "オッズフォーマット"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "トップニュースのみ"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7640,14 +7119,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "ハーフタイム時の結果"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "お気に入りのチームが設定されていません。今設定しますか？"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "おすすめを選択"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7703,10 +7174,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "FotMob Predictにサインインできませんでした"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "プロフィール写真"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "準々決勝"
@@ -7752,10 +7219,6 @@
       "english": "Search",
       "value": "検索"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "今のところ結果はありません！"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "準決勝"
@@ -7768,15 +7231,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "お気に入りチームを設定"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "人気チームをどれかフォローしますか？"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "お気に入りの地元チームを選択します"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7810,18 +7264,9 @@
       "english": "Averages",
       "value": "平均"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "開始と終了時の結果"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "概要"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "チームプロフィール"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7836,23 +7281,9 @@
       "english": "Settings",
       "value": "設定"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brazil 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "勝率"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "トッププレイヤー"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "主要移籍ニュースのアラートのみが送信されます"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7880,11 +7311,6 @@
       "english": "Waiting for penalties",
       "value": "PK戦待ち"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "ワールドカップ予選"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7897,10 +7323,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "次に得点を入れるのは誰？"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "環境設定"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8365,10 +7787,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "通知音を聞くには、「おやすみモード」をオフにしてください。"
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "本当に実行しますか？通知で問題が発生した場合にのみ実行してください。"
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8430,11 +7848,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "重大ニュースの通知を受け取ります。週に数回の配信。"
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "オフラインキャッシュを有効にする"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8477,10 +7890,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "エストニア"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "トーナメントモードを終了"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8663,11 +8072,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "ハンガリー"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "終了する"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9236,30 +8640,6 @@
       "english": "Matches started",
       "value": "先発"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "アタック"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "クリア"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "ディフェンダー"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "ドリブル"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "パサー"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "パス"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "タックル"
@@ -9380,24 +8760,9 @@
       "english": "Dark mode",
       "value": "ダークモード"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "データはありません"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "お気に入りはまだ追加されていません"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "あまりそう思わない"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "いいえ、私にいいアイデアがあります"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9468,11 +8833,6 @@
       "english": "Pass success",
       "value": "パス成功"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "パス率"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "パス数"
@@ -9485,11 +8845,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "フィリピン"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "ホーム画面に固定"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9636,16 +8991,6 @@
       "english": "asst. coach",
       "value": "アシスタントコーチ"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "コーチ"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "選手"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9741,11 +9086,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "試合ページでベルをタップしたときに有効にする通知を設定します。"
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "標準通知を設定します"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9760,11 +9100,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "シュート数"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "シュート詳細"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9838,11 +9173,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "スロベニア"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "ソーシャルメディアのアップデート"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10098,11 +9428,6 @@
       "english": "View %@",
       "value": "%@を表示"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "選手の詳細情報"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10117,11 +9442,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "被ファウル数"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Bet365 TVで試合を見る"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10154,16 +9474,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "イエローカード"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "はい！"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "はい、最高です！"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

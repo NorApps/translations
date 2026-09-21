@@ -2609,10 +2609,6 @@
       "english": "Add player",
       "value": "선수 추가"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "추가/삭제 리그들"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "달력에 추가"
@@ -2621,23 +2617,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@을(를) 즐겨찾기로 추가함"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "새로운 리그를 추가했습니다. 경기 목록에 추가하기를 원하지 않으면 무시를 클릭하세요."
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "골드로 이동"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "지금은 아님"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "프리미엄 버전 이용"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2898,11 +2877,6 @@
       "english": "Buzz not available",
       "value": "Buzz를 사용할 수 없습니다"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "캐시 삭제됨"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "캐나다"
@@ -3069,10 +3043,6 @@
       "english": "Change currency in %@",
       "value": "통화를 %@(으)로 변경"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "뉴스 피드 변경"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3081,10 +3051,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "칠레"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "현재 선택된 리그에 표시할 뉴스 피드를 선택하십시오"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3149,11 +3115,6 @@
       "english": "Collapse all leagues",
       "value": "모든 리그 축소"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "리그 축소"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "콜롬비아"
@@ -3213,11 +3174,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "계약 연장"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "코파아메리카 2016에 준비되셨나요?"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3366,16 +3322,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@은(는) 최근 %2$@경기에서 무승부가 없습니다."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "탐색 서랍 닫기"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "탐색 서랍 열기"
-    },
     "common_drawn": {
       "english": "D",
       "value": "무"
@@ -3440,11 +3386,6 @@
       "english": "El Salvador",
       "value": "엘살바도르"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "네트워크 실패"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3503,19 +3444,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "푸시 알림을 활성화해서 속보와 경기 업데이트를 받으세요"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "푸시 알림을 활성화 하시겠습니까?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "TV 일정 활성화"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "최종"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3528,10 +3456,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "오류가 발생, 작업을 다시 시도하십시오"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "알림 센터에서 FotMob의 알림이 비활성화되어 있습니다. 이 문제를 해결하려면 http://fotmob.com/faq.html 을(를) 방문하세요."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3561,21 +3485,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "추정 가치"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "유로 2016에 준비되셨나요?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "최고 선수 및 팀을 위한 알림 설정"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "국가대표 팀 설정"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3702,11 +3611,6 @@
       "english": "Fantasy points",
       "value": "판타지 포인트"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "빠른 푸시 알림"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3778,11 +3682,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "전반전"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "좋아하는 클럽과 국가대표팀을 선택하세요"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4130,19 +4029,10 @@
         "other": "골대에 맞은 슛을 %d회 기록했다"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "일반"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "시작하기"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "fotmob.com에서 예측"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4374,11 +4264,6 @@
       "english": "%@h",
       "value": "%@시간"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@시간"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "무시"
@@ -4450,11 +4335,6 @@
       "english": "International - national teams",
       "value": "국제 - 국가대표팀"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "친구들이 놓치고 있을지도 몰라요.<br/><b>지금 FotMob을 공유할까요?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4513,10 +4393,6 @@
       "english": "No",
       "value": "아니요"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "전송"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4554,10 +4430,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "최후방 수비 태클"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "지난 설문 조사 실패. 재시도:"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4606,10 +4478,6 @@
     "common_league": {
       "english": "League",
       "value": "리그"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "리그에서 알림을 활성화했습니다. 경기 탭의 필터 메뉴에서 알림을 꺼야 합니다."
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4723,10 +4591,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "이 경기에 적용할 리그 알림을 설정해서 알림 일부가 잠겼습니다"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "로그인"
-    },
     "common_lost": {
       "english": "L",
       "value": "패"
@@ -4806,10 +4670,6 @@
       "english": "Max number is reached (5)",
       "value": "최대 수에 도달했습니다 (5)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "전체 최대화"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4835,18 +4695,6 @@
       "english": "Membership",
       "value": "멤버십"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "설정"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, Twitter 등등..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "팁: 골이나 다른 이벤트를 길게 누르면 공유할 수 있습니다."
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4869,10 +4717,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "미드필더"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "모두 최소화"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4975,10 +4819,6 @@
       "english": "New season, new features",
       "value": "새 시즌, 새로운 기능"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "FotMob는 처음이에요!"
-    },
     "common_news": {
       "english": "News",
       "value": "뉴스"
@@ -4991,28 +4831,9 @@
       "english": "Next match",
       "value": "다음 경기"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "다음 설문조사:"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "니카라과"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "아직 좋아하는 리그가 추가되지 않음"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "아직 좋아하는 플레이어가 추가되지 않음"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "아직 좋아하는 팀이 추가되지 않음"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5111,14 +4932,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@은(는) %2$@경기에서 승리가 없습니다."
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "득점 알림의 볼륨을 조절하고 알림을 표시할 시점을 변경합니다. 시간대를 변경합니다."
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "사운드 시작과 종료"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "골 사운드"
@@ -5126,11 +4939,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "응원하는 팀의 득점시 재생할 소리"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "알림 유형"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5143,11 +4951,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "알림 켜기"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "새로운 정보를 알려드릴 시간을 선택하세요"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5224,21 +5027,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "팀 검색"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "응원하는 팀을 선택하세요"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "새로 선보이는 FotMob 월드컵 모드로 응원하는 팀과 선수에 관한 알림을 받아 보세요."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "월드컵을 즐길 준비는 됐나요?"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5451,11 +5239,6 @@
       "english": "Players out",
       "value": "이적 나간 플레이어"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "팔로우할 선수"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5516,10 +5299,6 @@
       "english": "Possible qualification next stage",
       "value": "다음 단계 진출 가능"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "페이스북에 남기기"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "연장"
@@ -5537,10 +5316,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "Predictor"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "월드컵 예측을 만들었습니다. <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a>에서 직접 예측하고 친구와 비교해 보세요!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5595,10 +5370,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "승격권"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "푸시알림이 성공적으로 연결되었습니다"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5693,10 +5464,6 @@
       "english": "%@ results",
       "value": "결과 %@개"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "이전에 프리미엄을 구입했을 경우, 여기를 클릭"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5788,10 +5555,6 @@
       "english": "Saves per match",
       "value": "경기당 선방"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "스코어 경보 음량"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "찾고자 하는 팀명을 입력해주세요."
@@ -5848,11 +5611,6 @@
       "english": "See all matches",
       "value": "모든 경기 보기"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "%@ 뉴스 더 보기"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5872,10 +5630,6 @@
       "english": "Select all",
       "value": "전체 선택"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "리그 선택"
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "즐겨찾기 선택"
@@ -5894,11 +5648,6 @@
       "english": "Select player",
       "value": "선수 선택"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "관심을 기울일 선수를 선택하세요."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5913,11 +5662,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "선택한 팀의 정보를 확인하세요"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "월드컵에서 팔로우할 국가대표팀과 다른 팀을 선택하세요"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5973,19 +5717,10 @@
       "english": "Show table",
       "value": "순위표 보기"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "순위에 팀 로고 보이기"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "귀하의 설정을 안전하게 유지할 수 있기 때문에, 기기 간에 설정을 동기화하거나 새 기기가 생겼을 때 설정을 가져올 수 있습니다."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "여기를 클릭하여 로그인"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6052,10 +5787,6 @@
       "english": "Add %@",
       "value": "%@ 추가"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "응원하는 팀"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "즐겨찾기에 추가"
@@ -6072,11 +5803,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "통계"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "정보"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6116,10 +5842,6 @@
     "common_subs": {
       "english": "Substitutes",
       "value": "교체명단"
-    },
-    "common_subs_stats": {
-      "english": "Substitutes",
-      "value": "교체 선수"
     },
     "common_substitute": {
       "comment": "Position label shown for a benched/substitute player in the player match-stats ranking list (singular of the existing 'Substitutes'). Non-English values derived from [subs] and singularized — flagged for native review.",
@@ -6164,10 +5886,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "중단됨"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30초"
     },
     "common_tab": {
       "english": "Tab",
@@ -6225,38 +5943,15 @@
       "english": "Form",
       "value": "기록"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "팀 중 하나에서 알림이 활성화되어 있습니다. 팀 페이지에서 알림을 꺼야 합니다."
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "팀 미리 채우기"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "확인차 여쭤볼게요. ‘${team}’을(를) 원하신 게 맞나요?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "‘${team}’과(와) 일치하는 옵션이 ${count}개 있습니다."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "토너먼트"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "팀 및 리그"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "선수 경력"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6320,23 +6015,10 @@
       "english": "Premium features",
       "value": "프리미엄 기능"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "시간대를 선택하십시오"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "여기를 탭하면 %1$@에서 리그를 <b>필터링 및 정렬</b>할 수 있습니다"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "이 %1$@을(를) 탭해서 리그에 <b>필터 및 정렬</b>을 적용하세요"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "스쿼드 멤버"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6411,14 +6093,6 @@
       "english": "Total votes: %@",
       "value": "총 득표: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "퇴장"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "경고"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "리그"
@@ -6457,10 +6131,6 @@
       "english": "Transfer Center",
       "value": "이적 센터"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "좋아하는 팀과 리그에 대한 맞춤형 이적 알림을 받으시겠습니까?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6481,11 +6151,6 @@
       "english": "Include transfers from",
       "value": "다음 이후 이적 포함"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "예상 이적료"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6505,10 +6170,6 @@
       "english": "Try a refresh?",
       "value": "새로고침을 하시겠습니까?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "당신은이 경기에 대한 알림 상태를 전환하기 위해 좋아하는 팀(\\&quot;좋아하는 팀\\&quot;헤더를 길게 누름)을 위한 알림을  해제해야 합니다"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "TV 목록"
@@ -6522,34 +6183,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "여기를 클릭하여 표시할 TV 채널을 변경하세요"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "TV 일정 - 덴마크"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "TV 중계 일정 - 독일"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "TV 일정 - 노르웨이"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "TV 일정 - 스페인"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "TV 일정 - 스웨덴"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "TV 일정 - 영국"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "TV schedules - 미국"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6573,22 +6206,9 @@
       "english": "Undisclosed",
       "value": "밝혀지지 않음"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "프리미엄 활성화"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "성공적으로 푸시 알림 등록"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "%@ 언팔로우"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "%@까지"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6684,19 +6304,6 @@
       "english": "View all",
       "value": "모두 보기"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "즐겨찾기 보기"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "경기일정 보기"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "TV 일정 보기"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6706,11 +6313,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "서포터 클럽에 오신 걸 환영합니다!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "이적 센터에 오신 걸 환영합니다"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6737,10 +6339,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6792,24 +6390,6 @@
       "english": "FIFA World Cup",
       "value": "월드컵"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "월드컵 공"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "%1$@ 후에 시작"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "월드컵을 최대한으로 즐길 수 있도록 만들기 위해, 특별한 월드컵을 경험할 수 있는 것을 열심히 노력해서 준비했습니다. 체험해 보세요!"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "새로운 월드컵\\n모드를 사용해 보세요!"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "세계 뉴스"
@@ -6835,10 +6415,6 @@
       "english": "Yesterday",
       "value": "어제"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "너는 %@야!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6851,10 +6427,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "체코인"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "알림을 변경하는 중..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6892,15 +6464,6 @@
       "english": "Italian",
       "value": "이탈리아어"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "경기 & 뉴스"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "경기 & 최다득점자"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "노르웨이어"
@@ -6919,14 +6482,6 @@
     },
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
-      "value": "에서 해설을 재생"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "해설 재생"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
       "value": "에서 해설을 재생"
     },
     "ios_ROU": {
@@ -6955,10 +6510,6 @@
       "english": "Sort",
       "value": "정렬"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "순위 & 뉴스"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "트윗"
@@ -6982,10 +6533,6 @@
       "english": "Second half of the bracket",
       "value": "대진표 하단"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "당신은 프리미엄을 먼저 구입해야 합니다."
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7000,10 +6547,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "변경"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "쉽게 액세스 할 수 있도록 당신의 마음에 드는 리그에 별표를 추가 할 수 있습니다. 현재 리그를 변경하려면 리그 이름을 클릭합니다"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7103,10 +6646,6 @@
       "english": "Live Activities activated for %@",
       "value": "%@의 라이브 활동이 활성화되었습니다"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "일부 국가에서만 제공되는 기능을 활성화하기 위해서만 사용자의 위치 정보를 사용합니다"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "패배"
@@ -7124,10 +6663,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "나중에 할게요"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "분"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7237,10 +6772,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "도움 순위"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "최다 득점자"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7429,11 +6960,6 @@
       "english": "Bronze-final",
       "value": "3위 결정전"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "도시 가이드"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7481,28 +7007,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "아래 팀에 대해 엄선한 뉴스 알림을 보내드립니다. 뉴스 알림을 활성화하고 최신 소식을 받아보려면 확인을 누르세요."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "좋아하는 팀을 리뷰하고 알림을 설정하세요."
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "결승"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "풀타임 결과"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "득점"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "골, 시작 및 종료"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7518,29 +7029,10 @@
       "english": "Height",
       "value": "키"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "팀 페이지에서 벨 아이콘을 눌러 뉴스 알림을 켜거나 끌 수 있습니다."
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "좋아하는 팀을 선택하여 시작하세요."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "실시간 축구 스코어를 보려고 이 앱을 사용 중이에요. 확인해 보세요!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "친구들이 놓치고 있을지도 몰라요. 지금 FotMob을 공유할까요?"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "친구를 FotMob에 초대"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7581,19 +7073,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "좋아하는 팀을 추가하지 않았습니다.\\n\\n뒤로를 눌러서 지금 팀을 추가하거나 완료를 눌러서 나중에 추가하세요."
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "인터넷이 연결되지 않았습니다"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "오늘은 TV 중계 경기 없음"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "더 이상 득점 없음"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7621,10 +7104,6 @@
       "english": "Odds format",
       "value": "배당 포맷"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "인기 뉴스만"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7638,14 +7117,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "하프타임 결과"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "당신이 응원하는 팀이 설정되어있지 않습니다. 지금 설정하시겠습니까?"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "제안을 선택"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7701,10 +7172,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "FotMob Predict에 로그인할 수 없습니다"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "프로필 사진"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "8강"
@@ -7750,10 +7217,6 @@
       "english": "Search",
       "value": "검색"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "아직 결과 없음!"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "준결승"
@@ -7766,15 +7229,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "응원하는 팀 설정"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "이 인기 팀 중 하나를 팔로우하시겠습니까?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "좋아하는 지역 팀을 선택하세요."
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7808,18 +7262,9 @@
       "english": "Averages",
       "value": "평균"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "시작 및 풀타임 결과"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "요약"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "팀 프로필"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7834,23 +7279,9 @@
       "english": "Settings",
       "value": "설정"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "2014 브라질 월드컵"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "우승"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "최고의 선수들"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "최고의 이적 소식에 대해서만 알림을 보내드릴게요."
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7878,11 +7309,6 @@
       "english": "Waiting for penalties",
       "value": "페널티 기다리는 중"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "월드컵 진출권"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7895,10 +7321,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "누가 다음에 득점할 것인가?"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "구성"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8363,10 +7785,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "\"방해금지\"모드를 해제하면 알림 소리가 들립니다."
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "계속하시겠습니까? 알림에 문제가 있을 때만 이 작업을 수행하는 것이 좋습니다."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8428,11 +7846,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "중요한 뉴스 스토리에 대한 알림을 받습니다. 일주일에 단 몇 건뿐입니다."
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "오프라인 캐시 활성화 (베타)"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8475,10 +7888,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "에스토니아"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "토너먼트 모드 종료"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8661,11 +8070,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "헝가리"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "했어요"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9234,30 +8638,6 @@
       "english": "Matches started",
       "value": "선발 출장 경기"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "공격수"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "걷어내기"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "수비수"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "드리블"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "패스 선수"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "패스"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "태클"
@@ -9378,24 +8758,9 @@
       "english": "Dark mode",
       "value": "야간 모드"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "이용할 수 있는 데이터 없음"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "아직 추가된 즐겨찾기 없음"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "별론데요"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "아뇨, 생각이 좀 있어요"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9466,11 +8831,6 @@
       "english": "Pass success",
       "value": "패스 성공"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "패스 성공률"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "패스"
@@ -9483,11 +8843,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "필리핀"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "홈화면에 고정"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9634,16 +8989,6 @@
       "english": "asst. coach",
       "value": "보조 코치"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "코치"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "플레이어"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9739,11 +9084,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "경기 페이지에서 종을 탭할 때 어떤 알림을 활성화할지 설정합니다."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "표준 알림을 설정하세요."
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9758,11 +9098,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "슛"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "슛 세부 정보"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9836,11 +9171,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "슬로베니아"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "소셜 미디어 업데이트"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10096,11 +9426,6 @@
       "english": "View %@",
       "value": "%@ 보기"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "선수 상세 정보"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10115,11 +9440,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "당한 파울"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Bet365 TV에서 경기 보기"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10152,16 +9472,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "경고"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "네!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "네, 완벽해요!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

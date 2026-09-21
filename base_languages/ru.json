@@ -2620,10 +2620,6 @@
       "english": "Add player",
       "value": "Добавить игрока"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "Добавить/Удалить лиги"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "Добавить в календарь"
@@ -2632,23 +2628,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@: добавлено в избранное"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Мы добавили несколько новых лиг, просто нажмите \"Потом\", если не хотите добавлять их в список матчей."
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "Статус Gold"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "Не сейчас"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "Статус Premium!"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2909,11 +2888,6 @@
       "english": "Buzz not available",
       "value": "В Twitter ничего нет"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "Кеш очищен"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "Канада"
@@ -3080,10 +3054,6 @@
       "english": "Change currency in %@",
       "value": "Измените валюту на %@"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "Сменить ленту новостей"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3092,10 +3062,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "Чили"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "Выбор ленты новостей, которая будет отображаться для данной лиги"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3160,11 +3126,6 @@
       "english": "Collapse all leagues",
       "value": "Свернуть все лиги"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "Свернуть лигу"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "Колумбия"
@@ -3224,11 +3185,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "Продление контракта"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "Готовы к Copa America 2016?"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3382,16 +3338,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@ не играли вничью в последних %2$@ матчах."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "Закрыть меню навигации"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "Открыть меню навигации"
-    },
     "common_drawn": {
       "english": "D",
       "value": "Н"
@@ -3459,11 +3405,6 @@
       "english": "El Salvador",
       "value": "Сальвадор"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "Ошибка сети"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3522,19 +3463,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "Включите Push-уведомления, чтобы получать уведомления о матчах и важные новости"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "Вы действительно хотите включить push уведомления?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "Включить ТВ расписание"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "завершен"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3547,10 +3475,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "Призошла ошибка, пожалуйста повторите действие"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Уведомления отключены для FotMob в вашем Центре Уведомлений. Посетите http://fotmob.com/faq.html для решения этой проблемы."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3580,21 +3504,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "Оценочная стоимость"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "Готовы к Euro 2016?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "Настройка уведомлений для ведущих игроков и команд"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "Настройте свою национальную команду"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3721,11 +3630,6 @@
       "english": "Fantasy points",
       "value": "Фэнтези очки"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "Быстрые push-уведомления"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3797,11 +3701,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "Первый тайм"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "Выберите свои любимые клубы и национальные сборные, чтобы следить за ними"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4173,19 +4072,10 @@
         "other": "Попал в каркас ворот %d раз"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "Основные"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "Начать"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "Прогноз на fotmob.com"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4419,11 +4309,6 @@
       "english": "%@h",
       "value": "%@ ч."
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@ ч."
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "Потом"
@@ -4495,11 +4380,6 @@
       "english": "International - national teams",
       "value": "Международные матчи - сборные"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "Возможно, друзьям понравится.<br/><b>Поделиться FotMob с ними?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4558,10 +4438,6 @@
       "english": "No",
       "value": "Нет"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "Отослать"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4599,10 +4475,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "Фол последней надежды"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "Сбой последнего опроса. Повтор в"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4651,10 +4523,6 @@
     "common_league": {
       "english": "League",
       "value": "Лига"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "Лига уже с активным уведомлением, необходимо отключить оповещения через меню Фильтр в главном окне"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4768,10 +4636,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "Некоторые оповещения фиксированы, потому что уже установлены оповещения лиги, которые применяются к этому матчу"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "Войти в существующий аккаунт"
-    },
     "common_lost": {
       "english": "L",
       "value": "П"
@@ -4854,10 +4718,6 @@
       "english": "Max number is reached (5)",
       "value": "Достигнуто максимальное число (5)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "Развернуть все"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4883,18 +4743,6 @@
       "english": "Membership",
       "value": "Членство"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "Настройки"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, Twitter и другое..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Подсказка: удерживайте на событии Гол или любом другом для того, чтобы поделиться ими с друзьями"
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4917,10 +4765,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "Полузащитник"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "Свернуть все"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -5025,10 +4869,6 @@
       "english": "New season, new features",
       "value": "Новый сезон — новые функции"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "Я новый пользователь FotMob!"
-    },
     "common_news": {
       "english": "News",
       "value": "Новости"
@@ -5041,28 +4881,9 @@
       "english": "Next match",
       "value": "Следующий матч"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "Следующий опрос в"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "Никарагуа"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "Любимые лиги еще не добавлены"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "Любимые игроки еще не добавлены"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "Любимые команды еще не добавлены"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5161,14 +4982,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@ не выигрывал в последних %2$@ матчах."
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Настройка громкости и отображения оповещений о голах. Выбор часового пояса."
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "Сигнал о начале и завершении матча"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "Сигнал о событии Гол"
@@ -5176,11 +4989,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "Сигнал если забила любимая команда"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "Типы уведомлений"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5193,11 +5001,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "Включить уведомления"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "Выберите типы уведомлений, которые вы бы хотели получать"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5274,21 +5077,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "Поиск команд"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "Добавляйте игроков и команды в \"Избранное\""
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "Настройте оповещения о любимых командах и игроках  в новом режиме FotMob - \"Кубок мира\"."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "Готовы к Кубку мира?"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5501,11 +5289,6 @@
       "english": "Players out",
       "value": "Ушли"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "Игроки для просмотра"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5566,10 +5349,6 @@
       "english": "Possible qualification next stage",
       "value": "Возможная квалификация в сл. этап"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Опубликовать на Facebook"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "Перенесен"
@@ -5587,10 +5366,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "Прогнозист"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "Мы сделали прогнозы на чемпионат мира по футболу. Сделайте свои на <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> и соревнуйтесь с друзьями!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5645,10 +5420,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "Квалификация на повышение"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "Push уведомления успешно активированы"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5743,10 +5514,6 @@
       "english": "%@ results",
       "value": "%@ результ."
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "Если вы ранее приобрели gold или silver статус, нажмите здесь"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5838,10 +5605,6 @@
       "english": "Saves per match",
       "value": "Сэйвы за игру"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "Громкость оповещения о голе"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "Наберите название команды которую вы ищите"
@@ -5898,11 +5661,6 @@
       "english": "See all matches",
       "value": "Смотреть все матчи"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "Смотреть другие новости: %@"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5922,10 +5680,6 @@
       "english": "Select all",
       "value": "Выбрать все"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "Выбор лиги..."
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Выбрать избранное"
@@ -5944,11 +5698,6 @@
       "english": "Select player",
       "value": "Выбрать игрока"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "Выберите игроков, за которыми вы хотели бы следить."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5963,11 +5712,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "Смотреть информацию по выбранной команде"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "Выделите свою национальную сборную или другие команды на чемпионате мира."
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -6023,19 +5767,10 @@
       "english": "Show table",
       "value": "Показать таблицу"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "Показывать гербы команд в таблице"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "Мы можем безопасно хранить ваши настройки, и вы сможете синхронизировать их между своими устройствами или применять их на новых."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "Нажмите здесь для входа"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6102,10 +5837,6 @@
       "english": "Add %@",
       "value": "Добавить %@"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "Избранные команды"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "Добавить в избранное"
@@ -6122,11 +5853,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "Статистика"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "Инфо"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6166,10 +5892,6 @@
     "common_subs": {
       "english": "Substitutes",
       "value": "В запасе"
-    },
-    "common_subs_stats": {
-      "english": "Substitutes",
-      "value": "Замены"
     },
     "common_substitute": {
       "comment": "Position label shown for a benched/substitute player in the player match-stats ranking list (singular of the existing 'Substitutes'). Non-English values derived from [subs] and singularized — flagged for native review.",
@@ -6214,10 +5936,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "Приостановлен"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30 секунд"
     },
     "common_tab": {
       "english": "Tab",
@@ -6275,38 +5993,15 @@
       "english": "Form",
       "value": "Форма"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Одна из команд с уже включенным оповещением, необходимо отключить оповещение на странице команды"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "Предзаполнить команду"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "Подтверждаете, что вы выбрали команду «${team}»?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "Вариантов, соответствующих команде «${team}»: ${count}."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "Турниры"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "команды и лиги"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "Карьера"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6370,23 +6065,10 @@
       "english": "Premium features",
       "value": "Premium возможности"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "Выбор часового пояса"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "Нажмите здесь %1$@ для <b>фильтрации и упорядочения</b> лиг"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "Нажмите здесь   %1$@   для <b>фильтрации и упорядочения</b> лиг"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "Игрок команды"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6461,14 +6143,6 @@
       "english": "Total votes: %@",
       "value": "Всего голосов: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "Красные карточки"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "Желтые карточки"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "Турнир"
@@ -6507,10 +6181,6 @@
       "english": "Transfer Center",
       "value": "Центр трансферов"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Хотите получать индивидуальные оповещения о трансферах в ваших любимых клубах и лигах?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6531,11 +6201,6 @@
       "english": "Include transfers from",
       "value": "В том числе трансферы за"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "Предполагаемая сумма"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6555,10 +6220,6 @@
       "english": "Try a refresh?",
       "value": "Обновить соединение?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Вы должны отключить уведомления для избранных команд (длительное нажатие на заголовке &quot;Избранные команды&quot;) чтобы изменить статус уведомления на данный матч"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "ТВ программа"
@@ -6572,34 +6233,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "Нажмите здесь, чтобы изменить телеканалы в вашем списке"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "ТВ программа - Дания"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "ТВ программа - Германия"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "ТВ программа - Норвегия"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "ТВ программа - Испания"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "ТВ программа - Швеция"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "ТВ программа - Великобритания"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "ТВ программа - США"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6623,22 +6256,9 @@
       "english": "Undisclosed",
       "value": "Не разглашается"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "Открыть premium"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "Отмена push уведомлений прошла успешно"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "Убрать %@"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "до %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6734,19 +6354,6 @@
       "english": "View all",
       "value": "Смотреть все"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "Просмотр избранного"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "Просмотр расписаний"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "Просмотр ТВ расписаний"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6756,11 +6363,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "Добро пожаловать в Клуб поддержки!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "Добро пожаловать в Центр трансферов!"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6787,10 +6389,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6845,24 +6443,6 @@
       "english": "FIFA World Cup",
       "value": "Чемпионат мира"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "Мячи чемпионата мира"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "Начало через %1$@"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Чтобы вы получили от чемпионата мира максимум удовольствия, мы создали уникальную систему слежения за игрой – опробуйте ее сами!"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "Опробуйте наш новый\\nрежим чемпионата мира!"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "Мировые новости"
@@ -6888,10 +6468,6 @@
       "english": "Yesterday",
       "value": "Вчера"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "Вы теперь %@!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6904,10 +6480,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "Чешский"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "Смена уведомления..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6945,15 +6517,6 @@
       "english": "Italian",
       "value": "Итальянский"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "Матчи и Новости"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "Матчи и Бомбардиры"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "Норвежский"
@@ -6973,14 +6536,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "Воспроизвести аудиокомментарий на"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "Воспроизведение аудиокомментариев"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "Воспроизводится аудиокомментарий на"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -7008,10 +6563,6 @@
       "english": "Sort",
       "value": "Отсортировать"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "Таблицы и Новости"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "Твитнуть"
@@ -7035,10 +6586,6 @@
       "english": "Second half of the bracket",
       "value": "Вторая половина сетки"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "Сперва вам необходимо приобрести premium версию"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7053,10 +6600,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "Сменить"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "Добавив звезду к вашей избранной лиге, вы обеспечите быстрый доступ к ней из главного окна. Нажмите на название лиги что бы перейти в ее раздел"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7156,10 +6699,6 @@
       "english": "Live Activities activated for %@",
       "value": "Live Activities активированы для %@"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "Мы используем ваше местоположение только для того, чтобы активировать функции, доступные в некоторых странах"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "Поражения"
@@ -7177,10 +6716,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "Может, позже"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "минут"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7293,10 +6828,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "Aссистенты"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "Бомбардир"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7488,11 +7019,6 @@
       "english": "Bronze-final",
       "value": "Матч за бронзу"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "Путеводители"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7540,28 +7066,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "Мы отправляем отобранные вручную новостные уведомления для команд ниже. Нажмите «ОК», чтобы включить уведомления и быть в курсе последних событий."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "Обзор ваших любимых команд и настройка уведомлений"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "Финал"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "Итоговый результат"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "Голы"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "Голы, начало и окончание"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7577,29 +7088,10 @@
       "english": "Height",
       "value": "Рост"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "Переключайте новостные уведомления нажав кнопку колокольчика на странице команды"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "Выбирайте свои любимые команды и начинайте."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "Я пользуюсь этим приложением что-бы быть в курсе футбольных событий и результатов. Попробуй тоже!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "Ваши друзья могут упустить что-то важное и интересное, поделиться FotMob с ними сейчас?"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "Пригласи друзей опробовать FotMob"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7640,19 +7132,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "Вы не добавили избранное.\\n\\nНажмите «Назад», чтобы добавить сейчас, или нажмите «Готово» и добавьте позже."
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "Отсутствует интернет соединение"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "Сегодня нет ТВ трансляций"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "Больше не будет голов"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7680,10 +7163,6 @@
       "english": "Odds format",
       "value": "Формат коэффициентов"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "Только главные новости"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7697,14 +7176,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "Результат первого тайма"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "Хотим напомнить, что у вас нет фаворитов. Хотите выбрать сейчас?"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "Выберите предложение"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7760,10 +7231,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "Не удалось войти в FotMob Predict"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "Картинка профиля"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "Четвертьфинал"
@@ -7809,10 +7276,6 @@
       "english": "Search",
       "value": "Поиск"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "Пока ничего не найдено!"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "Полуфинал"
@@ -7825,15 +7288,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "Выбрать фаворита"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "Следите ли вы за одной из этих популярных команд?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "Выберите свои любимые местные команды"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7867,18 +7321,9 @@
       "english": "Averages",
       "value": "Средние"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "Начало и итоговый результат"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "Сводка"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "Профиль Команды"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7893,23 +7338,9 @@
       "english": "Settings",
       "value": "Настройки"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brazil 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "Чемп."
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "Лучшие"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "Мы будем отправлять уведомления только для самых громких трансферных новостей"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7937,11 +7368,6 @@
       "english": "Waiting for penalties",
       "value": "Ожидание пенальти"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "ЧМ квалификация"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7954,10 +7380,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "Кто забьет следующий?"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "Настроить"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8424,10 +7846,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "Отключить режим \"Не беспокоить\" чтобы получать звуковые уведомления"
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Вы уверены? Это действие следует выполнить, только если вы испытываете проблемы с уведомлениями."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8489,11 +7907,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "Получайте уведомления о важнейших новостях. Всего несколько уведомлений в неделю."
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "Включить офлайн-кеш"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8536,10 +7949,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "Эстония"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "Выйти из режима турнира"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8722,11 +8131,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "Венгрия"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "Готово"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9295,30 +8699,6 @@
       "english": "Matches started",
       "value": "В стартовом составе"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "Атакующие"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "Выносы"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "Защитники"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "Обводки"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "Распасовщики"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "Пасы"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "Отборы"
@@ -9439,24 +8819,9 @@
       "english": "Dark mode",
       "value": "Ночной режим"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "Нет данных"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "Избранное еще не добавлено"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "Не очень"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "Нет, и у меня есть несколько идей"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9527,11 +8892,6 @@
       "english": "Pass success",
       "value": "Точность передач"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "Пас %"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "Передачи"
@@ -9544,11 +8904,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "Филиппины"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "Закрепить на рабочем столе"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9695,16 +9050,6 @@
       "english": "asst. coach",
       "value": "помощник тренера"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "тренер"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "игрок"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9800,11 +9145,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "Задайте то, какие уведомления включаются, когда вы нажимаете на колокольчик на страницах матчей."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "Установить стандартные уведомления"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9819,11 +9159,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "Удары"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "Подробно об ударах"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9897,11 +9232,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "Словения"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "Обновления в социальных сетях"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10157,11 +9487,6 @@
       "english": "View %@",
       "value": "Профиль %@"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "Данные игрока"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10176,11 +9501,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "Стал жертвой нарушения"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Смотрите матч на Bet365 TV"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10213,16 +9533,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "Желтая карточка"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "Да!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "Да, все отлично!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

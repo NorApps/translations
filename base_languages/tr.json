@@ -2612,10 +2612,6 @@
       "english": "Add player",
       "value": "Oyuncu ekle"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "Lig ekle veya kaldır"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "Takvime ekle"
@@ -2624,23 +2620,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@ Favori olarak eklendi"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "Yeni bazı ligler ekledik; bunları maç listesine eklemek istemiyorsan yoksay seçeneğine tıklaman yeterli."
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "Gold’a geç"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "Şimdi değil"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "Premium'a git"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2901,11 +2880,6 @@
       "english": "Buzz not available",
       "value": "Sosyal medya girdisi yok"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "Önbellek temizlendi"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "Kanada"
@@ -3072,10 +3046,6 @@
       "english": "Change currency in %@",
       "value": "Para birimini %@ olarak değiştir"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "Haber kaynağını değiştir"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3084,10 +3054,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "Şili"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "Şu anki secilmiş ligde görüntülemek için haber beslemesini seçin"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3152,11 +3118,6 @@
       "english": "Collapse all leagues",
       "value": "Tüm ligleri daralt"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "Ligi daralt"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "Kolombiya"
@@ -3216,11 +3177,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "Sözleşme uzatma"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "Copa America 2016 için hazır mısın?"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3370,16 +3326,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@, son %2$@ maçında hiç berabere kalmadı."
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "Navigasyon çekmecesini kapat"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "Navigasyon çekmecesini aç"
-    },
     "common_drawn": {
       "english": "D",
       "value": "B"
@@ -3445,11 +3391,6 @@
       "english": "El Salvador",
       "value": "El Salvador"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "Ağ bağlantısı yok"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3508,19 +3449,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "Son dakika haberleri ve maç güncellemeleri almak için anlık bildirimleri etkinleştir"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "İtme bildirimleri etkinleştirmek istiyor musunuz?"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "TV programını etkinleştir"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "Final"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3533,10 +3461,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "Bir hata oluştu. Yeniden deneyin"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Bildirimler bildirim merkezinizde FutMob için devre dışı bırakılır. Bu sorunu gidermek için http://fotmob.com/faq.html adresini ziyaret edin"
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3566,21 +3490,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "Tahmini değer"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "Euro 2016 için hazır mısın?"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "En iyi oyuncu ve takımlar için bildirim gönder"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "Milli takımını ayarla"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3707,11 +3616,6 @@
       "english": "Fantasy points",
       "value": "Fantezi puanları"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "Hızlı anlık uyarılar"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3783,11 +3687,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "Birinci yarı"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "Takip etmek için tuttuğun kulüpleri ve milli takımları seç"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4143,19 +4042,10 @@
         "other": "Direğe %d kez isabet ettirdi"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "Genel"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "Başla"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "fotmob.com’da tahmin et"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4387,11 +4277,6 @@
       "english": "%@h",
       "value": "%@sa"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@ saat"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "Yoksay"
@@ -4463,11 +4348,6 @@
       "english": "International - national teams",
       "value": "Milli Takım - ulusal takımlar"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "Arkadaşların da kaçırmasın.<br/><b>FotMob'u şimdi onlarla da paylaşalım mı?</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4526,10 +4406,6 @@
       "english": "No",
       "value": "Hayır"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "Gönder"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4567,10 +4443,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "Son adam müdahalesi"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "Son anket başarısız oldu. Tekrar denenecek:"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4619,10 +4491,6 @@
     "common_league": {
       "english": "League",
       "value": "Lig"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "Lig bildirimleri sağlandı. Canlı pencerede filtre menüsü üzerinden uyarılarını kapatmanız gerekir"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4736,10 +4604,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "Bu maça uygulanan bazı lig uyarıları atadığın için uyarılardan bazıları kilitli"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "Oturum aç"
-    },
     "common_lost": {
       "english": "L",
       "value": "M"
@@ -4820,10 +4684,6 @@
       "english": "Max number is reached (5)",
       "value": "Maksimum sayıya ulaşıldı (5)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "Tümünü genişlet"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4849,18 +4709,6 @@
       "english": "Membership",
       "value": "Üyelik"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "Ayarlar"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, twitter ve daha fazlası"
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "İpucu: Gol veya birşey paylaşmak için uzun basın"
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4883,10 +4731,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "Orta saha"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "Tümünü daralt"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4989,10 +4833,6 @@
       "english": "New season, new features",
       "value": "Yeni sezon, yeni özellikler"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "FotMob’da yeniyim!"
-    },
     "common_news": {
       "english": "News",
       "value": "Haberler"
@@ -5005,28 +4845,9 @@
       "english": "Next match",
       "value": "Sonraki maç"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "Sonraki anket:"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "Nicaragua"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "Henüz favori lig eklenmemiş"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "Henüz favori oyuncu eklenmemiş"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "Henüz favori takım eklenmemiş"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5125,14 +4946,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@, %2$@ denemesinde hiç maç kazanamadı."
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Puan bildirimlerinin ses seviyesini ayarlayın ve bildirimleri göstermek için zaman dilimini değiştirin"
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "Başlangıç ve bitiş sesi"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "Gol sesi"
@@ -5140,11 +4953,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "Favori gol sesi"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "Bildirim türleri"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5157,11 +4965,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "Bildirimleri açın"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "Bir şeyler olduğunda seni ne zaman bilgilendirmemizi istediğin zamanı seç"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5238,21 +5041,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "Takımlarda ara"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "Favorilerini Seç"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "Yepyeni FotMob Dünya Kupası modumuzla favori takım ve oyuncuların için uyarılar ayarla."
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "Dünya Kupasına hazır mısın?"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5465,11 +5253,6 @@
       "english": "Players out",
       "value": "Giden oyuncular"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "Takip Edilecek Oyuncular"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5530,10 +5313,6 @@
       "english": "Possible qualification next stage",
       "value": "Sonraki aşamaya hak kazanmak mümkün"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Facebookta yayınla"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "Ertelendi"
@@ -5551,10 +5330,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "Tahminci"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "Biz Dünya Kupası tahminlerimizi yaptık. <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> adresinden sen de kendininkileri yap ve arkadaşlarınla yarış!"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5609,10 +5384,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "Promosyon yeterliliği"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "İtme bildirimleri başarılı bir şekilde kaydedildi"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5707,10 +5478,6 @@
       "english": "%@ results",
       "value": "%@ sonuç"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "Daha önce altın veya gümüş satın aldıysanız buraya tıklayınız"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5802,10 +5569,6 @@
       "english": "Saves per match",
       "value": "Maç başına kurtarışlar"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "Skor uyarısı ses seviyesi"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "Aradığınız takımın adını yazın"
@@ -5862,11 +5625,6 @@
       "english": "See all matches",
       "value": "Tüm maçları görüntüle"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "%@ haberi daha görüntüle"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5886,10 +5644,6 @@
       "english": "Select all",
       "value": "Tümünü seç"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "Lig seç"
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Favori Seçin"
@@ -5908,11 +5662,6 @@
       "english": "Select player",
       "value": "Oyuncu seç"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "İzlemek istediğiniz Oyuncuları seçin."
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5927,11 +5676,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "Seçili takım bilgilerini görüntüle"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "Dünya Kupası sırasında takip etmek istediğiniz Milli takımınızı ve diğer takımları seçin"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5987,19 +5731,10 @@
       "english": "Show table",
       "value": "Tabloyu göster"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "Tabloda takım logolarını göster"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "Ayarlarını güvende tutabilir ve böylece onları cihazların arasında eşitleyebilir veya yeni bir cihaz edindiğinde geri yükleyebilirsin."
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "Oturum açmak için buraya tıkla"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6066,10 +5801,6 @@
       "english": "Add %@",
       "value": "Ekle: %@"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "Favori takımlar"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "Favorilere ekle"
@@ -6086,11 +5817,6 @@
     "common_stats": {
       "english": "Stats",
       "value": "İstatistikler"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
-      "value": "Bilgi"
     },
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
@@ -6128,10 +5854,6 @@
       "value": "ST"
     },
     "common_subs": {
-      "english": "Substitutes",
-      "value": "Yedekler"
-    },
-    "common_subs_stats": {
       "english": "Substitutes",
       "value": "Yedekler"
     },
@@ -6178,10 +5900,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "Cezalı"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "30 saniye"
     },
     "common_tab": {
       "english": "Tab",
@@ -6239,38 +5957,15 @@
       "english": "Form",
       "value": "Form"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Bir takımın uyarıları etkinleştirilmişse takım sayfası üzerinden uyarılarını kapatmanız gerekir"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "Takımı önceden doldur"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "Onaylamak için, ‘${team}’ mi istediniz?"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "‘${team}’ ile eşleşen ${count} seçenek var."
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "Turnuvalar"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "takımlar ve ligler"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "Oynadığı takımlar"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6334,23 +6029,10 @@
       "english": "Premium features",
       "value": "Premium özellikler"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "Zaman dilimini seçin"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "Buraya dokunun %1$@ ve Ligleri <b>Filtreleyin ve Sıralayın</b>"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "Buraya dokun   %1$@   ve Ligleri <b>Filtrele ve Sırala</b>"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "Kadro üyesi"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6425,14 +6107,6 @@
       "english": "Total votes: %@",
       "value": "Toplam oy: %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "Kırmızı kartlar"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "Sarı kartlar"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "Turnuva"
@@ -6471,10 +6145,6 @@
       "english": "Transfer Center",
       "value": "Transfer Merkezi"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "Favori takımlarınız ve ligler için özel transfer uyarıları almak ister misiniz?"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6495,11 +6165,6 @@
       "english": "Include transfers from",
       "value": "Şu transferleri de dahil et:"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "Bildirilen ücret"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6519,10 +6184,6 @@
       "english": "Try a refresh?",
       "value": "Yenilensin mi?"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "En sevdiğiniz takımın bu maçta bildirim durumunu değiştirmek için bildirimleri kapatmak zorundasın"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "Televizyon listesi"
@@ -6536,34 +6197,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "Hangi TV kanallarını izlediğinizi değiştirmek için buraya tıklayın"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "Televizyon programları - Danimarka"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "TV yayın akışları - Almanya"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "Televizyon Programları - Norveç"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "Televizyon Programları - İspanya"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "Televizyon programları - İsveç"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "Televizyon programları - İngiltere"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "Televizyon programları - ABD"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6587,22 +6220,9 @@
       "english": "Undisclosed",
       "value": "Açıklanmamış"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "Premium kilidini aç"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "İtme bildirimleri için kayıtsızı başarılı oldu"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "Takibi bırak %@"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "bitiş: %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6698,19 +6318,6 @@
       "english": "View all",
       "value": "Tümünü görüntüle"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "Favorileri gör"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "Fikstürü gör"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "TV programlarına göz at"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6720,11 +6327,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "Destekçiler Kulübüne Hoş Geldiniz!"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "Transfer Merkezine Hoş Geldiniz"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6751,10 +6353,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6807,24 +6405,6 @@
       "english": "FIFA World Cup",
       "value": "FIFA Dünya Kupası"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "Dünya Kupası Topları"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "Maçın başlamasına: %1$@"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "Sizlerin Dünya Kupasından beklentilerinizi en fazlasıyla almanız amacıyla, sizlere benzersiz bir Dünya Kupası deneyimi yaratmak için sıkı çalışıyoruz  –  deneyin görün!"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "Yeni Dünya Kupası\\nmodumuzu deneyin!"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "Dünya haberleri"
@@ -6850,10 +6430,6 @@
       "english": "Yesterday",
       "value": "Dün"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "Sen %@sin!"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6866,10 +6442,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "Çek"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "Bildirim değiştiriliyor"
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6907,15 +6479,6 @@
       "english": "Italian",
       "value": "İtalya"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "Maçlar & haberler"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "Maçlar & En iyi skorer"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "Norveç"
@@ -6935,14 +6498,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "Yorumları şu dilde oynat"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "Yorumlar oynatılıyor"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "Şu dilde yorumlar oynatılıyor:"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6970,10 +6525,6 @@
       "english": "Sort",
       "value": "Sıralama"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "Tablolar & haberler"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "Tweet’le"
@@ -6997,10 +6548,6 @@
       "english": "Second half of the bracket",
       "value": "Tablonun alt yarısı"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "Önce premium sürümünü satın almalısınız"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7015,10 +6562,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "Değiştir"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "Kolay erişim için favori liglerine bir yıldız ekle. Mevcut ligi değiştirmek için lig adını tıklayın"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7118,10 +6661,6 @@
       "english": "Live Activities activated for %@",
       "value": "%@ için Canlı Aktiviteler etkinleştirildi"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "Biz sadece bazı ülkelerde kullanılabilir özellikleri etkinleştirmek için konumunuzu kullanıyoruz"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "Mağlubiyet"
@@ -7139,10 +6678,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "Belki sonra"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "dakika"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7253,10 +6788,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "En çok asist yapan"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "En çok gol atan"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7445,11 +6976,6 @@
       "english": "Bronze-final",
       "value": "Bronz final"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "Şehir rehberleri"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7497,28 +7023,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "Aşağıdaki takımlar için özenle seçilmiş haber bildirimleri gönderiyoruz. Haber uyarılarını etkinleştirmek ve güncel kalmak için Tamam’a dokunun."
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "Favori takımlarınızı inceleyin ve alarm kurun"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "Final"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "Maç sonucu"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "Goller"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "Goller, başlangıç ve bitiş"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7534,29 +7045,10 @@
       "english": "Height",
       "value": "Boy"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "Takım sayfasında çana tıklayarak haber bildirimlerine geçin"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "Favori takımlarınızı seçin ve deneyime başlayın."
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "Canlı maç sonuçlarına ulaşmak için bu uygulamayı kullanıyorum. Baksana!"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "Arkadaşlarınız bu eğlenceyi kaçırmasın. FotMob’u onlarla da paylaşır mısınız?"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "Arkadaşlarınızı FotMob’u denemeye davet edin"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7597,19 +7089,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "Hiç favori eklemediniz.\\n\\nHemen bir favori eklemek için geri düğmesine basın ya da daha sonra eklemek için bitir düğmesine basın."
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "İnternet bağlantısı yok"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "Bugün TV'de maç yok"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "Daha fazla gol yok"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7637,10 +7120,6 @@
       "english": "Odds format",
       "value": "Oran biçimi"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "Sadece en iyi haberler"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7654,14 +7133,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "Devre sonucu"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "Favori yok. Şimdi ayarlamak istiyor musunuz"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "Öneri al"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7717,10 +7188,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "FotMob Predict'e giriş yapılamadı"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "Profil resmi"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "Çeyrek final"
@@ -7766,10 +7233,6 @@
       "english": "Search",
       "value": "Ara"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "Sonuç yok"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "Yarı final"
@@ -7782,15 +7245,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "Favori takımı seç"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "Bu popüler takımlardan birini takip mi ediyorsunuz?"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "Favori yerel takımlarınızı seçin"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7824,18 +7278,9 @@
       "english": "Averages",
       "value": "Ortalamalar"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "Başlangıç ve maç sonucu"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "Özet"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "Takım profili"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7850,23 +7295,9 @@
       "english": "Settings",
       "value": "Ayarlar"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brezilya 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "Kazanmak"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "En iyi oyuncular"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "Sadece en önemli transfer haberleriyle ilgili uyarıları göndereceğiz"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7894,11 +7325,6 @@
       "english": "Waiting for penalties",
       "value": "Penaltılar bekleniyor"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "WC elemeleri"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7911,10 +7337,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "Bir sonrakini kim atar?"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "Yapılandır"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8379,10 +7801,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "Bildirim seslerini duymak için \"Rahatsız etme\" modunu devre dışı bırak."
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Emin misin? Bu işlemi yalnızca bildirimlerde sorun yaşıyorsan yapmalısın."
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8444,11 +7862,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "En büyük haber hikayeleri için bildirimler alın. Haftada sadece birkaç bildirim."
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "Çevrimdışı önbelleği etkinleştir"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8491,10 +7904,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "Estonya"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "Turnuva modundan çık"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8677,11 +8086,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "Macaristan"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "Hallettim"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9250,30 +8654,6 @@
       "english": "Matches started",
       "value": "Başlayan maçlar"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "Hücum Oyuncusu"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "Degajman"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "Defans Oyuncusu"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "Çalım"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "Pas Veren"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "Pas"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "Top Çalma"
@@ -9394,24 +8774,9 @@
       "english": "Dark mode",
       "value": "Koyu tema"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "Veri yok"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "Hiç favori eklenmemiş"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "Pek değil"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "Hayır, daha iyi olabilirdi"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9482,11 +8847,6 @@
       "english": "Pass success",
       "value": "Başarılı pas"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "Pas Yüzdesi"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "Pas"
@@ -9499,11 +8859,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "Filipinler"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "Ana ekrana sabitle"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9650,16 +9005,6 @@
       "english": "asst. coach",
       "value": "yrd. antrenör"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "antrenör"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "oyuncu"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9755,11 +9100,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "Maç sayfalarındaki zile dokunduğunuzda hangi bildirimlerin etkinleştirileceğini ayarlayın."
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "Standart bildirimleri ayarla"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9774,11 +9114,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "Şut"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "Şut bilgisi"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9852,11 +9187,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "Slovenya"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "Sosyal medya güncellemeleri"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10112,11 +9442,6 @@
       "english": "View %@",
       "value": "%@ Görüntüle"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "Oyuncu bilgileri"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10131,11 +9456,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "Serbest vuruş alan"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "Maçı Bet365 TV'de izle"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10168,16 +9488,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "Sarı kart"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "Evet!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "Evet, bence mükemmel!"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",

@@ -2610,10 +2610,6 @@
       "english": "Add player",
       "value": "ကစားသမား ထည့်ပါ"
     },
-    "common_add_remove_leagues": {
-      "english": "Add/Remove leagues",
-      "value": "လိဂ်များ ထည့်ရန်/ဖယ်ရန်"
-    },
     "common_add_to_calendar": {
       "english": "Add to calendar",
       "value": "ပြက္ခဒိန်တွင် ထည့်ရန်"
@@ -2622,23 +2618,6 @@
       "comment": "Status label saying that the player/team has been added as a favorite",
       "english": "%1$@ added as favorite",
       "value": "%1$@ ကို စိတ်ကြိုက်အဖြစ် ထည့်သွင်းပြီးပါပြီ"
-    },
-    "common_added_new_leagues": {
-      "comment": "Pop-up notifying user about new leagues have been added",
-      "english": "We added some new leagues, just click ignore if you don't want to add them to the list of matches.",
-      "value": "ကျွန်ုပ်တို့ လိဂ်အသစ်များ ထည့်သွင်းပေးထားပါသည်။ သင့်အနေဖြင့် ၎င်းတို့အား ပွဲစဉ်များစာရင်းသို့ မထည့်သွင်းလိုပါက လျစ်လျှူရှုရန်ကို နှိပ်ပါ။"
-    },
-    "common_adfree_button_ok": {
-      "english": "Go Gold",
-      "value": "Go Gold"
-    },
-    "common_adfree_later": {
-      "english": "Not now",
-      "value": "အခုမလုပ်ပါ"
-    },
-    "common_adfree_title": {
-      "english": "Go Premium!",
-      "value": "ပရီမီယံ ရယူလိုက်ပါ။"
     },
     "common_after90": {
       "english": "After fulltime",
@@ -2899,11 +2878,6 @@
       "english": "Buzz not available",
       "value": "Buzz မရနိုင်ပါ"
     },
-    "common_cache_cleared": {
-      "comment": "Confirmation-alert, that cache has been cleared",
-      "english": "Cache cleared",
-      "value": "ယာယီဖိုင်များရှင်းပြီး"
-    },
     "common_canada": {
       "english": "Canada",
       "value": "ကနေဒါ"
@@ -3070,10 +3044,6 @@
       "english": "Change currency in %@",
       "value": "%@ တွင် ငွေကြေးယူနစ် ပြောင်းပါ"
     },
-    "common_change_rss": {
-      "english": "Change news feed",
-      "value": "သတင်းစဉ် ပြောင်းရန်"
-    },
     "common_check_it_out": {
       "comment": "Call to action in the various onboarding popups",
       "english": "Check it out",
@@ -3082,10 +3052,6 @@
     "common_chile": {
       "english": "Chile",
       "value": "ချီလီ"
-    },
-    "common_choose_rss": {
-      "english": "Select which news feed to display for the currently chosen league",
-      "value": "လက်ရှိ ရွေးထားသော လိဂ်အတွက် ပြသပေးရမည့် သတင်းစဉ်ကို ရွေးချယ်ပါ"
     },
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
@@ -3150,11 +3116,6 @@
       "english": "Collapse all leagues",
       "value": "လိဂ်အားလုံးကို ချုံ့ရန်"
     },
-    "common_collapse_league": {
-      "comment": "Menu item to hide all matches in a league by collapsing the league with matches into just a line with league name",
-      "english": "Collapse league",
-      "value": "လိဂ်ကို ချုံ့ရန်"
-    },
     "common_colombia": {
       "english": "Colombia",
       "value": "ကိုလံဘီယာ"
@@ -3214,11 +3175,6 @@
       "comment": "Transfer status: player extended his contract with club",
       "english": "Contract extension",
       "value": "သက်တမ်းတိုး"
-    },
-    "common_copa2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Copa America 2016?",
-      "value": "ကိုပါအမေရိက ၂၀၁၆ အတွက် အဆင်သင့်ဖြစ်နေပြီလား။"
     },
     "common_copaLibertadores": {
       "english": "Copa Libertadores",
@@ -3367,16 +3323,6 @@
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
       "value": "%1$@ ဟာ နောက်ဆုံး %2$@ ပွဲဆက်တိုက် သရေရလဒ်မရှိပါဘူး။"
     },
-    "common_drawer_close": {
-      "comment": "Closes the left navigation menu",
-      "english": "Close navigation drawer",
-      "value": "ညွှန်ပြချက်အံဝှက် ပိတ်ရန်"
-    },
-    "common_drawer_open": {
-      "comment": "Opens the left navigation menu",
-      "english": "Open navigation drawer",
-      "value": "လမ်းညွှန်မီနူးကို ဖွင့်ရန်"
-    },
     "common_drawn": {
       "english": "D",
       "value": "သရေ"
@@ -3441,11 +3387,6 @@
       "english": "El Salvador",
       "value": "အယ်လ်ဆာဗေဒို"
     },
-    "common_empty_placeholder_network_failure": {
-      "comment": "Empty placeholder for live matches, if there's no connection",
-      "english": "Network failure",
-      "value": "ကွန်ရက်ချိတ်ဆက်မှု မရှိ"
-    },
     "common_empty_placeholder_news_not_available": {
       "comment": "Empty placeholder for the case when news haven't been found for the league / topic",
       "english": "News not available",
@@ -3504,19 +3445,6 @@
       "english": "Enable push notifications to get breaking news and match updates",
       "value": "သတင်းဦး/သတင်းထူးနဲ့ အချိန်နဲ့တစ်ပြေးညီ ပွဲစဉ်အခြေအနေတွေကို သိနိုင်ဖို့ ပွတ်ရှ်အသိပေးချက်တွေကို ဖွင့်ထားပေးပါ။"
     },
-    "common_enable_push_question": {
-      "english": "Do you want to enable push notifications?",
-      "value": "ပွတ်ရှ်အသိပေးချက်များ ဖွင့်ထားလိုပါသလား။"
-    },
-    "common_enable_tv_schedules": {
-      "comment": "Settings item to enable/disable TV Guide",
-      "english": "Enable TV schedules",
-      "value": "တီဗွီအစီအစဉ်ဖွင့်ရန်"
-    },
-    "common_end_of_match": {
-      "english": "final",
-      "value": "ပွဲပြီး"
-    },
     "common_enter_name": {
       "comment": "A UI alert subtitle indicating that the user has to enter a name for their lineup",
       "english": "Enter a name",
@@ -3529,10 +3457,6 @@
     "common_error_occured": {
       "english": "An error occurred, please retry the operation",
       "value": "အမှားအယွင်းတစ်ခု ဖြစ်ပေါ်ခဲ့သည်၊ ကျေးဇူးပြု၍ ပြန်လည်လုပ်ဆောင်ပါ"
-    },
-    "common_error_push_not_enabled": {
-      "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "သင်၏ အသိပေးချက်စင်တာတွင် FotMob အတွက် အသိပေးချက်များကို ပိတ်ထားသည်။ ဤပြဿနာကို ဖြေရှင်းရန် http://fotmob.com/faq.html သို့ သွားပါ။"
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3562,21 +3486,6 @@
       "comment": "A transfer center label used for player transfers displaying the players estimated transfer value",
       "english": "Estimated value",
       "value": "ခန့်မှန်းတန်ဖိုး"
-    },
-    "common_euro2016_onboarding_desc_line1": {
-      "comment": "Onboarding: first line in adv.-alert",
-      "english": "Ready for Euro 2016?",
-      "value": "ယူရို ၂၀၁၆ အတွက် အဆင်သင့်ဖြစ်နေပြီလား။"
-    },
-    "common_euro2016_onboarding_desc_line2": {
-      "comment": "Onboarding: second line in adv.-alert",
-      "english": "Setup alerts for top players and teams",
-      "value": "ထိပ်တန်းကစားသမားများနှင့် အသင်းများအတွက် သတိပေးချက်ထည့်ရန်"
-    },
-    "common_euro2016_setup_national_team": {
-      "comment": "Onboarding: asking the user to setup their favorite national team",
-      "english": "Set up your national team",
-      "value": "သင့်နိုင်ငံအသင်းကို ထည့်သွင်းရန်"
     },
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
@@ -3703,11 +3612,6 @@
       "english": "Fantasy points",
       "value": "စွမ်းရည်မှတ်"
     },
-    "common_fast_push_alerts": {
-      "comment": "Option in settings to enable faster notification",
-      "english": "Fast push alerts",
-      "value": "ပိုမိုလျှင်မြန်သောအသိပေးချက်များ"
-    },
     "common_favorite_leagues": {
       "comment": "Favorite leagues",
       "english": "Favorite leagues",
@@ -3779,11 +3683,6 @@
     "common_firsthalf": {
       "english": "First half",
       "value": "ပထမပိုင်း"
-    },
-    "common_firstrun_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following in the onboarding of the app (first thing user sees after installing the app)",
-      "english": "Select your favorite clubs and national teams to follow",
-      "value": "သင် စောင့်ကြည့်သတင်းယူချင်တဲ့ အကြိုက်ဆုံးကလပ်အသင်းတွေနဲ့ နိုင်ငံအသင်းတွေကို ရွေးချယ်ပါ။"
     },
     "common_fixtures": {
       "english": "Fixtures",
@@ -4131,19 +4030,10 @@
         "other": "တိုင်ထိ %d ကြိမ် ဖြစ်ခဲ့သည်"
       }
     },
-    "common_generalUpper": {
-      "english": "GENERAL",
-      "value": "ယေဘုယျ"
-    },
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
       "value": "စတင်ပါ"
-    },
-    "common_go_to_the_predictor": {
-      "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
-      "english": "Predict at fotmob.com",
-      "value": "fotmob.com မှာ ပွဲစဉ်ခန့်မှန်းပါ"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4375,11 +4265,6 @@
       "english": "%@h",
       "value": "%@နာရီ"
     },
-    "common_hours_until_match_start": {
-      "comment": "number of hours until the World Cup starts",
-      "english": "%@ hrs",
-      "value": "%@ နာရီ"
-    },
     "common_ignore": {
       "english": "Ignore",
       "value": "လျစ်လျှူရှုရန်"
@@ -4451,11 +4336,6 @@
       "english": "International - national teams",
       "value": "နိုင်ငံတကာ − နိုင်ငံအသင်းများ"
     },
-    "common_invite_informal_prompt2": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
-      "english": "Your friends may be missing out.<br/><b>Share FotMob with them now?</b>",
-      "value": "သင့်သူငယ်ချင်းတွေလည်း လွတ်မသွားရလေအောင် <br/><b>FotMob ကို အခုပဲ မျှဝေပေးလိုက်တော့မလား။</b>"
-    },
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
@@ -4514,10 +4394,6 @@
       "english": "No",
       "value": "ဟင့်အင်း"
     },
-    "common_label_submit_button": {
-      "english": "Send",
-      "value": "ပို့ရန်"
-    },
     "common_label_x": {
       "comment": "Odds indication of home team. In betting the home team is referred to as 1, draw as X and away as 2.",
       "english": "x",
@@ -4555,10 +4431,6 @@
       "comment": "Keeper or defender tackles an attacker that is through on goal",
       "english": "Last man tackle",
       "value": "နောက်ဆုံးခံစစ် ဖျက်ထုတ်မှု"
-    },
-    "common_last_poll_failed": {
-      "english": "Last poll failed. Retrying at",
-      "value": "နောက်ဆုံးစစ်တမ်း မအောင်မြင်ခဲ့ပါ။ ပြန်လည်ကြိုးစားမည့်အချိန်"
     },
     "common_last_updated": {
       "english": "Last updated",
@@ -4607,10 +4479,6 @@
     "common_league": {
       "english": "League",
       "value": "လိဂ်"
-    },
-    "common_league_has_notifications": {
-      "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "လိဂ်အတွက် အသိပေးချက်များကို ဖွင့်ထားသည်။ \"ပွဲစဉ်များ\" စာမျက်နှာရှိ စစ်ထုတ်မှုမီနူး မှတစ်ဆင့် သတိပေးချက်များကို ပိတ်ရပါမည်။"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4724,10 +4592,6 @@
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
       "value": "ဤပွဲစဉ်ပေါ် သက်ရောက်မှုရှိသည့် လိဂ်သတိပေးချက်များကို သင်ထည့်ထားသဖြင့် သတိပေးချက်အချို့ကို သော့ခတ်ထားပါသည်"
     },
-    "common_log_me_in": {
-      "english": "Log me in",
-      "value": "အကောင့်ဝင်မည်"
-    },
     "common_lost": {
       "english": "L",
       "value": "ရှုံး"
@@ -4807,10 +4671,6 @@
       "english": "Max number is reached (5)",
       "value": "အများဆုံးပမာဏသို့ ရောက်ရှိသွားပါပြီ (၅)"
     },
-    "common_maximize_all": {
-      "english": "Maximize all",
-      "value": "အားလုံးချဲ့ရန်"
-    },
     "common_measurement_system": {
       "comment": "A setting to toggle the measurement system between imperial (feet/inches) and metric (cm/kg)",
       "english": "Measurement system",
@@ -4836,18 +4696,6 @@
       "english": "Membership",
       "value": "အဖွဲ့ဝင်မှု"
     },
-    "common_menu_settings": {
-      "english": "Settings",
-      "value": "ဆက်တင်များ"
-    },
-    "common_menu_share_others": {
-      "english": "Google+, Twitter and more...",
-      "value": "Google+, Twitter အစရှိသည့်..."
-    },
-    "common_message_sent": {
-      "english": "Tip: Long press a goal or other event to share it.",
-      "value": "အကြံပြုချက် − ဂိုး (သို့) အခြားဖြစ်ရပ် တစ်ခုကို မျှဝေရန် ဖိနှိပ်ထားပါ။"
-    },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
       "english": "Metric (cm)",
@@ -4870,10 +4718,6 @@
     "common_midfielder_long": {
       "english": "Midfielder",
       "value": "အလယ်တန်း"
-    },
-    "common_minimize_all": {
-      "english": "Minimize all",
-      "value": "အားလုံးချုံ့ရန်"
     },
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
@@ -4976,10 +4820,6 @@
       "english": "New season, new features",
       "value": "ရာသီအသစ်၊ လုပ်ဆောင်ချက်အသစ်များ"
     },
-    "common_new_to_fotmob": {
-      "english": "I'm new to FotMob!",
-      "value": "FotMob ကို စတင်သုံးစွဲသူ ဖြစ်သည်"
-    },
     "common_news": {
       "english": "News",
       "value": "သတင်း"
@@ -4992,28 +4832,9 @@
       "english": "Next match",
       "value": "နောက် ပွဲစဉ်"
     },
-    "common_next_poll": {
-      "english": "Next poll at",
-      "value": "နောက်စစ်တမ်းချိန်"
-    },
     "common_nicaragua": {
       "english": "Nicaragua",
       "value": "နီကာရာဂွာ"
-    },
-    "common_no_favorite_leagues": {
-      "comment": "Profile page - placeholder's text if there're no favorite leagues",
-      "english": "No favorite leagues added yet",
-      "value": "စိတ်ကြိုက်လိဂ်များ မထည့်ရသေးပါ"
-    },
-    "common_no_favorite_players": {
-      "comment": "Profile page - placeholder's text if there're no favorite players",
-      "english": "No favorite players added yet",
-      "value": "စိတ်ကြိုက်ကစားသမားများ မထည့်ရသေးပါ"
-    },
-    "common_no_favorite_teams": {
-      "comment": "Profile page - placeholder's text if there're no favorite teams",
-      "english": "No favorite teams added yet",
-      "value": "စိတ်ကြိုက်အသင်းများ မထည့်ရသေးပါ"
     },
     "common_no_fixtures": {
       "comment": "Empty placeholder for the case of empty match-fixtures",
@@ -5112,14 +4933,6 @@
       "english": "%1$@ haven't won a match in %2$@ attempts.",
       "value": "%1$@ ဟာ ပွဲစဉ် %2$@ ခုအတွင်း နိုင်ပွဲမရှိသေးပါဘူး။"
     },
-    "common_notification_description": {
-      "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "သွင်းဂိုး အသိပေးချက်များ၏ အသံအတိုးအကျယ်ကို ညှိပါ၊ အသိပေးချက်များ ပြသချိန်ကို ပြောင်းပါ။ ဒေသစံတော်ချိန် ပြောင်းပါ။"
-    },
-    "common_notification_end_sound": {
-      "english": "Start and finished sound",
-      "value": "ပွဲစနှင့် ပွဲပြီး အသံ"
-    },
     "common_notification_sound": {
       "english": "Goal sound",
       "value": "ဂိုးသွင်းသံ"
@@ -5127,11 +4940,6 @@
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
       "value": "စိတ်ကြိုက်အသင်းများ ဂိုးအသံ"
-    },
-    "common_notification_types": {
-      "comment": "Header for the list of all possible push notifications to send to user",
-      "english": "Notification types",
-      "value": "အသိပေးချက်ပုံစံများ"
     },
     "common_notifications": {
       "english": "Settings",
@@ -5144,11 +4952,6 @@
     "common_notifications_on": {
       "english": "Turn on notifications",
       "value": "အသိပေးချက်များ ဖွင့်ရန်"
-    },
-    "common_notifications_onboarding": {
-      "comment": "Description to explain to users concept of notifications in FotMob",
-      "english": "Choose when you want us to notify you when things happen",
-      "value": "သတင်းထူးရှိတဲ့အခါ သင့်ကို ကျွန်ုပ်တို့ ဘယ်အချိန် အသိပေးရမလဲဆိုတာ ရွေးချယ်ပေးပါ။"
     },
     "common_notstarted": {
       "english": "Not started",
@@ -5225,21 +5028,6 @@
       "comment": "Placeholder text for a search bar where the user can search for teams",
       "english": "Search teams",
       "value": "အသင်းများ ရှာဖွေရန်"
-    },
-    "common_onboarding_world_cup_card_calltoaction": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the label for the call to action",
-      "english": "Choose your favorites",
-      "value": "သင့်စိတ်ကြိုက်တွေကို ရွေးချယ်ပါ"
-    },
-    "common_onboarding_world_cup_card_description": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the description of the card",
-      "english": "Set Alerts for your favorite teams and players with our brand new FotMob World Cup mode.",
-      "value": "ကျွန်တော်တို့ရဲ့ အသစ်စက်စက် FotMob ကမ္ဘာ့ဖလားမုဒ်နဲ့ သင်အကြိုက်ဆုံး အသင်းနဲ့ ကစားသမားတွေရဲ့ နောက်ဆုံးသတင်းကိုရယူလိုက်ပါ"
-    },
-    "common_onboarding_world_cup_card_header": {
-      "comment": "In the live-matches, there will be a promo-card asking user to go through the onboarding for the World Cup. This is the header of the card",
-      "english": "Ready for the World Cup?",
-      "value": "ကမ္ဘာ့ဖလားအတွက် အဆင်သင့်ဖြစ်နေပြီလား။"
     },
     "common_ongoing": {
       "english": "Ongoing",
@@ -5452,11 +5240,6 @@
       "english": "Players out",
       "value": "ကစားသမား အထွက်"
     },
-    "common_players_to_follow": {
-      "comment": "Favorite players picker in the WC2018 onboarding",
-      "english": "Players to follow",
-      "value": "စောင့်ကြည့်ရမည့်ကစားသမားများ"
-    },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
       "english": "Play-off winner",
@@ -5517,10 +5300,6 @@
       "english": "Possible qualification next stage",
       "value": "နောက်တစ်ဆင့်တက်နိုင်"
     },
-    "common_post_to_facebook": {
-      "english": "Post to Facebook",
-      "value": "Facebook တွင်တင်ရန်"
-    },
     "common_postponed": {
       "english": "Postponed",
       "value": "ရွှေ့ဆိုင်းခဲ့သည်"
@@ -5538,10 +5317,6 @@
       "comment": "This is the name for our World Cup prediction game. No need to localize unless it's impossible to understand it's meaning.",
       "english": "Predictor",
       "value": "ပွဲစဉ်ခန့်မှန်းမှု"
-    },
-    "common_predictor_text": {
-      "english": "We made our predictions for the World Cup. Make yours on <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> and compete with your friends!",
-      "value": "ကျွန်ုပ်တို့က ကမ္ဘာ့ဖလားပွဲစဉ်ရလဒ်တွေကို ခန့်မှန်းတွက်ချက်ထားပါတယ်။ မိတ်ဆွေရဲ့ ပွဲစဉ်ခန့်မှန်းမှုတွေကိုလည်း <a href=\"https://www.fotmob.com/wc2018/competition\">https://www.fotmob.com/wc2018/competition</a> မှာ ပြုလုပ်ပြီး သင့်သူငယ်ချင်းတွေနဲ့ ယှဉ်ပြိုင်လိုက်ပါ"
     },
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
@@ -5596,10 +5371,6 @@
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "တန်းတက် အဆုံးအဖြတ်ပွဲ"
-    },
-    "common_push_connected": {
-      "english": "Push notifications are successfully registered",
-      "value": "ပွတ်ရှ်အသိပေးချက်များကို အောင်မြင်စွာ စာရင်းသွင်းပြီးပါပြီ"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5694,10 +5465,6 @@
       "english": "%@ results",
       "value": "ရလဒ် %@ ခု"
     },
-    "common_resync_desc": {
-      "english": "If you have previously bought gold or silver, click here",
-      "value": "ယခင်က ရွှေ သို့မဟုတ် ငွေ ဝယ်ဖူးပါက ဤနေရာကို နှိပ်ပါ"
-    },
     "common_right": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Right",
@@ -5789,10 +5556,6 @@
       "english": "Saves per match",
       "value": "တစ်ပွဲလျှင် ပျမ်းမျှ ကာကွယ်နိုင်မှု"
     },
-    "common_score_volume": {
-      "english": "Score alert volume",
-      "value": "သွင်းဂိုးသတိပေးချက် အသံအတိုးအကျယ်"
-    },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
       "value": "သင်ရှာနေသော အသင်းအမည် ရိုက်ထည့်ပါ"
@@ -5849,11 +5612,6 @@
       "english": "See all matches",
       "value": "ပွဲစဉ်အားလုံးကြည့်ရန်"
     },
-    "common_see_all_stories": {
-      "comment": "The footer in the news's section to show all stories about a Team or about a League like \"See more Liverpool news\"",
-      "english": "See more %@ news",
-      "value": "နောက်ထပ် %@ သတင်းတွေကို ဖတ်ရှုလိုက်ပါ"
-    },
     "common_see_all_videos": {
       "comment": "The footer in the highlights news' section to show all the other videos we have in the Video-tab",
       "english": "See more highlights",
@@ -5873,10 +5631,6 @@
       "english": "Select all",
       "value": "အားလုံးရွေးရန်"
     },
-    "common_select_favorite_league": {
-      "english": "Select league...",
-      "value": "လိဂ်ရွေးပါ..."
-    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "စိတ်ကြိုက်များကို ရွေးချယ်ပါ"
@@ -5895,11 +5649,6 @@
       "english": "Select player",
       "value": "ကစားသမားရွေးချယ်ပါ"
     },
-    "common_select_players_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select the Players you want to keep an eye on.",
-      "value": "သင်စောင့်ကြည့်သတင်းယူလိုသည့် ကမားသမားများကိုရွေးချယ်ပါ"
-    },
     "common_select_season": {
       "comment": "Header for the table-picker (Premier League 18/19, Premier League 17/18, etc.)",
       "english": "Select season",
@@ -5914,11 +5663,6 @@
       "comment": "A sub-header for the picker for the widget's team to follow",
       "english": "See information from the selected team",
       "value": "ရွေးချယ်ထားသည့် အသင်းထံမှ သတင်းအချက်အလက်များကို ကြည့်ရှုလိုက်ပါ"
-    },
-    "common_select_teams_to_follow": {
-      "comment": "Description label to explain the concept of following over the WC2018",
-      "english": "Select your National team and other teams to follow during the World Cup",
-      "value": "သင့်နိုင်ငံအသင်းနှင့် ကမ္ဘာ့ဖလားအတွင်း စောင့်ကြည့်မည့်အသင်းများကို ရွေးချယ်ပါ"
     },
     "common_set_piece": {
       "comment": "Goal via set piece (corner, dead ball situations)",
@@ -5974,19 +5718,10 @@
       "english": "Show table",
       "value": "ဇယား ပြရန်"
     },
-    "common_show_team_logos_in_table": {
-      "english": "Show team logos in table",
-      "value": "ဇယားတွင် အသင်းတံဆိပ်များ ပြရန်"
-    },
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
       "value": "ဖုန်းအသစ်ပြောင်းသည့်အခါ ဖုန်းအားလုံးတွင် တူညီမှုရှိစေရန် (သို့) ပြန်လည်ရယူနိုင်ရန် ဆက်တင်များကို ကျွန်ုပ်တို့ သိမ်းပေးထားနိုင်ပါသည်။"
-    },
-    "common_sign_in_ios": {
-      "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
-      "english": "Click here to sign in",
-      "value": "အကောင့်ဝင်ရန် ဤနေရာကိုနှိပ်ပါ"
     },
     "common_sign_in_with": {
       "comment": "A header for the sign-in, below will appear FB, Google and Twitter logins",
@@ -6053,10 +5788,6 @@
       "english": "Add %@",
       "value": "%@ ထည့်ရန်"
     },
-    "common_star_desc": {
-      "english": "Favorite teams",
-      "value": "စိတ်ကြိုက်အသင်းများ"
-    },
     "common_star_league": {
       "english": "Add to favorites",
       "value": "စိတ်ကြိုက်များသို့ ထည့်ရန်"
@@ -6072,11 +5803,6 @@
     },
     "common_stats": {
       "english": "Stats",
-      "value": "အချက်အလက်"
-    },
-    "common_stats_and_info": {
-      "comment": "A tab containing various info for the World Cup. It's fine to keep Info as a translation. If not it has to be max 6 chars!",
-      "english": "Info",
       "value": "အချက်အလက်"
     },
     "common_stay_up_to_date": {
@@ -6115,10 +5841,6 @@
       "value": "ST"
     },
     "common_subs": {
-      "english": "Substitutes",
-      "value": "အစားထိုး"
-    },
-    "common_subs_stats": {
       "english": "Substitutes",
       "value": "အစားထိုး"
     },
@@ -6165,10 +5887,6 @@
     "common_suspensions": {
       "english": "Suspended",
       "value": "ပွဲပယ်"
-    },
-    "common_t30_seconds": {
-      "english": "30 seconds",
-      "value": "၃၀ စက္ကန့်"
     },
     "common_tab": {
       "english": "Tab",
@@ -6226,38 +5944,15 @@
       "english": "Form",
       "value": "အခြေအနေ"
     },
-    "common_team_has_notifications": {
-      "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "အသင်းများအနက် တစ်သင်းအတွက် သတိပေးချက်များ ဖွင့်ထားသည်၊ အသင်းစာမျက်နှာတွင် သတိပေးချက်များ သွားပိတ်ပါ"
-    },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
       "english": "Team pre-fill",
       "value": "အသင်းကို ကြိုတင်ဖြည့်"
     },
-    "common_team_selection_intent_confirmation": {
-      "comment": "Keep ‘${team}’-part not-translated. Siri-intent confirmation for the team selection in widgets",
-      "english": "Just to confirm, you wanted ‘${team}’?",
-      "value": "အတည်ပြုဖို့ ဖြစ်ပါတယ်၊ သင် '${team}' ကို ရွေးချယ်ချင်ခဲ့တာပါလား။"
-    },
-    "common_team_selection_intent_match": {
-      "comment": "Keep ${count} and ‘${team}’ -parts not-translated. Siri-intent feedback on search results (used in widgets)",
-      "english": "There are ${count} options matching ‘${team}’.",
-      "value": "'${team}' နဲ့ ကိုက်ညီတဲ့ ရွေးချယ်စရာ ${count} ခု ရှိပါတယ်။"
-    },
     "common_team_tournaments": {
       "comment": "Used as a header for all the active tournaments a team is part of. Example: England is part of two tournaments: UEFA Nations Cup and the UEFA European Championship",
       "english": "Tournaments",
       "value": "ပြိုင်ပွဲများ"
-    },
-    "common_teams_and_leagues": {
-      "comment": "In the filter_news_description hint - we want to explain what kind of content can be on the list. \"Teams and Leagues\" is one of the option.",
-      "english": "teams and leagues",
-      "value": "အသင်းများနှင့် လိဂ်များ"
-    },
-    "common_teams_played_for": {
-      "english": "Teams played for",
-      "value": "ကစားပေးခဲ့သည့် အသင်းများ"
     },
     "common_temperature_unit": {
       "comment": "A setting to toggle the temperature unit between Celsius (°C) and Fahrenheit (°F)",
@@ -6321,23 +6016,10 @@
       "english": "Premium features",
       "value": "ပရီမီယံ လုပ်ဆောင်ချက်များ"
     },
-    "common_timezone_caption": {
-      "english": "Choose timezone",
-      "value": "ဒေသစံတော်ချိန် ရွေးချယ်ပါ"
-    },
-    "common_tip_filter_and_sort": {
-      "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues. The placeholder in the string is an image",
-      "english": "Tap here %1$@ to <b>Filter & Sort</b> leagues",
-      "value": "လိဂ်များကို <b>စစ်ထုတ်ပြီး စဉ်ရန်</b> %1$@ ဤနေရာကို နှိပ်ပါ"
-    },
     "common_tips_and_tricks": {
       "comment": "Suggests clicking a button embedded in the string to filter and sorts leagues.",
       "english": "Tap here   %1$@   to <b>Filter & Sort</b> leagues",
       "value": "လိဂ်များကို <b>စစ်ထုတ်ပြီး စဉ်ရန်</b> %1$@ ဤနေရာကို နှိပ်ပါ"
-    },
-    "common_title_activity_squad_member": {
-      "english": "Squad member",
-      "value": "အသင်းသားများ"
     },
     "common_title_activity_tvschedule": {
       "english": "TV schedules",
@@ -6412,14 +6094,6 @@
       "english": "Total votes: %@",
       "value": "မဲစုစုပေါင်း - %@"
     },
-    "common_total_yel_card_subtitle": {
-      "english": "Red cards",
-      "value": "အနီကတ်"
-    },
-    "common_total_yel_card_title": {
-      "english": "Yellow cards",
-      "value": "အဝါကတ်"
-    },
     "common_tournament": {
       "english": "Tournament",
       "value": "ပြိုင်ပွဲ"
@@ -6458,10 +6132,6 @@
       "english": "Transfer Center",
       "value": "အပြောင်းအရွှေ့စင်တာ"
     },
-    "common_transfer_enable_all": {
-      "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
-      "value": "သင့်စိတ်ကြိုက်အသင်းများနှင့် လိဂ်များအတွက် သင့်စိတ်ကြိုက်ရွေးချယ်ထားသည့် အပြောင်းအရွှေ့သတိပေးချက်များကို လက်ခံရယူလိုပါသလား။"
-    },
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
@@ -6482,11 +6152,6 @@
       "english": "Include transfers from",
       "value": "ပါဝင်စေလိုသည့် အပြောင်းအရွှေ့ကာလ"
     },
-    "common_transfer_reported_fee": {
-      "comment": "When we don't have an official transfer fee sum we use what we think or what is reported by a newspaper but isn't official. \"Presumed fee\", \"Unofficial fee\", \"Reported fee\" are all valid translations here depending on what sounds best in your language. Try to keep it as short as possible.",
-      "english": "Reported fee",
-      "value": "သတင်းထွက် ပြောင်းရွှေ့ကြေး"
-    },
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
@@ -6506,10 +6171,6 @@
       "english": "Try a refresh?",
       "value": "ပိတ်ပြီးပြန်ဖွင့်မည်လား။"
     },
-    "common_turn_off_favorite_league_pling": {
-      "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "ဤပွဲအတွက် အသိပေးချက်များကို ဖွင့်/ပိတ် လုပ်ရန် စိတ်ကြိုက်အသင်းများ အတွက် အသိပေးချက်များကို ပိတ်ရမည် (&quot;စိတ်ကြိုက်အသင်းများ&quot; ခေါင်းစီးကို ဖိနှိပ်ထားပါ)"
-    },
     "common_tv_prompt": {
       "english": "TV Listing",
       "value": "တီဗွီ စာရင်း"
@@ -6523,34 +6184,6 @@
       "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
       "english": "Click here to change which TV channels you see",
       "value": "မည်သည့်ရုပ်သံလိုင်းအချိန်ဇယားအား ကြည့်ရှုမည်ကို ရွေးရန် ဤနေရာကိုနှိပ်ပါ"
-    },
-    "common_tv_selected_denmark": {
-      "english": "TV schedules - Denmark",
-      "value": "တီဗွီအစီအစဥ် - ဒိန်းမတ်"
-    },
-    "common_tv_selected_germany": {
-      "english": "TV schedules - Germany",
-      "value": "တီဗွီအစီအစဥ် - ဂျာမနီ"
-    },
-    "common_tv_selected_norway": {
-      "english": "TV schedules - Norway",
-      "value": "တီဗွီအစီအစဥ် - နော်ဝေ"
-    },
-    "common_tv_selected_spain": {
-      "english": "TV schedules - Spain",
-      "value": "တီဗွီအစီအစဥ် -  စပိန်"
-    },
-    "common_tv_selected_sweden": {
-      "english": "TV schedules - Sweden",
-      "value": "တီဗွီအစီအစဥ် - ဆွီဒင်"
-    },
-    "common_tv_selected_uk": {
-      "english": "TV schedules - UK",
-      "value": "တီဗွီအစီအစဥ် - ဗြိတိန်"
-    },
-    "common_tv_selected_usa": {
-      "english": "TV schedules - USA",
-      "value": "တီဗွီအစီအစဥ် - အမေရိကန်"
     },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
@@ -6574,22 +6207,9 @@
       "english": "Undisclosed",
       "value": "မဖော်ပြ"
     },
-    "common_unlock_premium": {
-      "english": "Unlock premium",
-      "value": "ပရီမီယံ ဖွင့်ရန်"
-    },
-    "common_unregistered_push": {
-      "english": "Successfully unregistered for push notifications",
-      "value": "ပွတ်ရှ်အသိပေးချက်များကို အောင်မြင်စွာ စာရင်းပယ်ဖျက်လိုက်ပါပြီ"
-    },
     "common_unstar": {
       "english": "Unfollow %@",
       "value": "%@ ကို ဖယ်ရန်"
-    },
-    "common_until_date": {
-      "comment": "The duration of a contract, how long it is valid. For instance: Valid until June 2020.",
-      "english": "until %@",
-      "value": "%@ အထိ"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -6685,19 +6305,6 @@
       "english": "View all",
       "value": "အားလုံးကြည့်ရန်"
     },
-    "common_view_favorites": {
-      "english": "View favorites",
-      "value": "စိတ်ကြိုက်များကို ကြည့်ရန်"
-    },
-    "common_view_fixtures": {
-      "english": "View fixtures",
-      "value": "ပွဲစဉ်ဇယား ကြည့်ရန်"
-    },
-    "common_view_tv_schedule": {
-      "comment": "\"Item in Settings to open TV-guide\"",
-      "english": "View TV schedules",
-      "value": "တီဗွီအစီအစဉ်ကြည့်ရန်"
-    },
     "common_watch_now": {
       "comment": "A button indicating the user can watch the corresponding match now",
       "english": "Watch now",
@@ -6707,11 +6314,6 @@
       "comment": "A header for the Thank-you-for-supporting-us popup",
       "english": "Welcome to the Supporters Club!",
       "value": "ပံ့ပိုးကူညီသူများအဖွဲ့က ကြိုဆိုပါတယ်။"
-    },
-    "common_welcome_transfer_center": {
-      "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
-      "english": "Welcome to the Transfer Center",
-      "value": "အပြောင်းအရွှေ့စင်တာမှ ကြိုဆိုပါတယ်"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6738,10 +6340,6 @@
     "common_widget_title": {
       "english": "FotMob",
       "value": "FotMob"
-    },
-    "common_widget_url": {
-      "english": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget",
-      "value": "http://fotmobenetpulse.s3-external-3.amazonaws.com/webcl/rss/leagues/47.widget"
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
@@ -6793,24 +6391,6 @@
       "english": "FIFA World Cup",
       "value": "ကမ္ဘာ့ဖလား"
     },
-    "common_world_cup_balls": {
-      "comment": "One extra tab in the Info-section of the World Cup mode to show history of balls which have been played during various WCs",
-      "english": "World Cup Balls",
-      "value": "ကမ္ဘာ့ဖလားဘောလုံးများ"
-    },
-    "common_world_cup_countdown": {
-      "comment": "Header in World-Cup mode to count down number of days, hours, minutes until the World cup's start",
-      "english": "Starts in %1$@",
-      "value": "%1$@ အတွင်း စတင်ပါတော့မယ်"
-    },
-    "common_world_cup_popup_description": {
-      "english": "To give you the most out of the World Cup, we have been hard at work to create a unique World Cup experience –  try it out!",
-      "value": "ကမ္ဘာ့ဖလားရဲ့ အကောင်းဆုံးဆိုတာတွေကို ပေးနိုင်ဖို့ ကျွန်တော်တို့က ထူးခြားပြိုင်ဘက်ကင်းတဲ့ ကမ္ဘာ့ဖလားအတွေ့အကြုံသစ်တစ်ခုကို ကြိုးစားဖန်တီးခဲ့ကြပါတယ် - စမ်းသုံးကြည့်လိုက်ပါ"
-    },
-    "common_world_cup_popup_header": {
-      "english": "Try our new\\nWorld Cup mode!",
-      "value": "ကျွန်တော်တို့ရဲ့ ကမ္ဘာ့ဖလားမုဒ်အသစ်ကို\\nစမ်းသုံးကြည့်ပါ"
-    },
     "common_worldnews": {
       "english": "World news",
       "value": "ကမ္ဘာ့သတင်း"
@@ -6836,10 +6416,6 @@
       "english": "Yesterday",
       "value": "ယမန်နေ့"
     },
-    "common_you_are_a": {
-      "english": "You are a %@!",
-      "value": "သင်ဟာ %@ တစ်ဦး ဖြစ်ပါတယ်။"
-    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
@@ -6852,10 +6428,6 @@
     "ios_CZE": {
       "english": "Czech",
       "value": "ချက်"
-    },
-    "ios_Changing_notification": {
-      "english": "Changing notification...",
-      "value": "အသိပေးချက်များ ပြောင်းလဲနေသည်..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -6893,15 +6465,6 @@
       "english": "Italian",
       "value": "အီတလီ"
     },
-    "ios_Matches_and_News": {
-      "comment": "Header for a team where matches is the matches the team has played and news is the team news",
-      "english": "Matches & News",
-      "value": "ပွဲစဉ်များနှင့် သတင်းများ"
-    },
-    "ios_Matches_and_Topscorer": {
-      "english": "Matches & Topscorer",
-      "value": "ပွဲစဉ်များနှင့် ဂိုးအများဆုံးသွင်းသူ"
-    },
     "ios_NOR": {
       "english": "Norwegian",
       "value": "နော်ဝေ"
@@ -6921,14 +6484,6 @@
     "ios_Play_commentaries_in": {
       "english": "Play commentaries in",
       "value": "အစီရင်ခံမှုများ ဖွင့်ရန်"
-    },
-    "ios_Playing_commentaries": {
-      "english": "Playing commentaries",
-      "value": "ပွဲအတွင်း ကော်မန်တရီများ ဖွင့်ပြနေသည်"
-    },
-    "ios_Playing_commentaries_in": {
-      "english": "Playing commentaries in",
-      "value": "အစီရင်ခံမှုများကို ဖွင့်ပြနေသည့်နေရာ"
     },
     "ios_ROU": {
       "english": "Romanian",
@@ -6956,10 +6511,6 @@
       "english": "Sort",
       "value": "နေရာစဉ်ပုံ"
     },
-    "ios_Tables_and_News": {
-      "english": "Tables & News",
-      "value": "ဇယားနှင့် သတင်းများ"
-    },
     "ios_Tweet": {
       "english": "Tweet",
       "value": "Twitter တွင်မျှဝေရန်"
@@ -6983,10 +6534,6 @@
       "english": "Second half of the bracket",
       "value": "ရှုံးထွက်ဇယား၏ ဒုတိယပိုင်း"
     },
-    "ios_buy_premium_first": {
-      "english": "You must buy premium version first",
-      "value": "ပရီမီယံဗားရှင်းကို ဦးစွာဝယ်ယူရပါမည်"
-    },
     "ios_career_started_still_playing": {
       "comment": "VoiceOver-only, on player career rows in the club view, read after the team name. Placeholder is a month and year, like \"August 2020\".",
       "english": "Started %@, currently plays for this team",
@@ -7001,10 +6548,6 @@
       "comment": "Menuchoice for changing the current league",
       "english": "Change",
       "value": "ပြောင်းရန်"
-    },
-    "ios_choose_league_desc": {
-      "english": "Add a star to your favorite leagues for easy access. Click the league name to change the current league",
-      "value": "အလွယ်တကူ ဝင်ကြည့်နိုင်ရန် သင့်စိတ်ကြိုက်လိဂ်သို့ ကြယ်ပွင့်တပ်ပါ။ လက်ရှိလိဂ်ကို ပြောင်းရန် လိဂ်အမည်ကို နှိပ်ပါ"
     },
     "ios_coaching_stats": {
       "comment": "VoiceOver-only group label for the coach win/draw/loss card on the player profile.",
@@ -7104,10 +6647,6 @@
       "english": "Live Activities activated for %@",
       "value": "%@ အတွက် တိုက်ရိုက်ဖော်ပြမှုများ ကို ဖွင့်ပြီးပါပြီ"
     },
-    "ios_location_reason": {
-      "english": "We only use your location to enable features available to some countries",
-      "value": "နိုင်ငံအချို့တွင်သာ ရနိုင်သော လုပ်ဆောင်ချက်များကို ဖွင့်ပေးရန် အတွက်သာလျှင် သင့်တည်နေရာကို အသုံးပြုပါသည်"
-    },
     "ios_losses": {
       "english": "Losses",
       "value": "အရှုံး"
@@ -7125,10 +6664,6 @@
       "comment": "Maybe later button for dismissing popup",
       "english": "Maybe later",
       "value": "နောက်မှပဲ"
-    },
-    "ios_minutes_long": {
-      "english": "minutes",
-      "value": "မိနစ်"
     },
     "ios_more_menu_tip": {
       "comment": "Popover tip for the more menu.",
@@ -7238,10 +6773,6 @@
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
       "value": "ဖန်တီးမှုအများဆုံး"
-    },
-    "ios_top_goalscorer": {
-      "english": "Top goal scorer",
-      "value": "ဂိုးအများဆုံးသွင်းသူ"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -7430,11 +6961,6 @@
       "english": "Bronze-final",
       "value": "တတိယလုပွဲ"
     },
-    "new_city_guides": {
-      "comment": "Videos from the World Cup citys",
-      "english": "City guides",
-      "value": "မြို့လမ်းညွှန်များ"
-    },
     "new_correction": {
       "comment": "Information message if we have sent some wrong info earlier and now we send a correction message",
       "english": "Correction",
@@ -7482,28 +7008,13 @@
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
       "value": "အောက်ပါအသင်းများအတွက် စိတ်ကြိုက်ရွေးထားသော အသိပေးချက် အသစ်များကို ကျွန်ုပ်တို့ ပို့ပေးပါသည်။ သတင်းသတိပေးချက်ဖွင့်ရန် အိုကေကို နှိပ်ပြီး နောက်ဆုံးရသတင်းများ ရယူလိုက်ပါ။"
     },
-    "new_favorite_summary": {
-      "comment": "Summary info text",
-      "english": "Review your favorite teams and set alerts",
-      "value": "သင့်စိတ်ကြိုက်အသင်းများကို ပြန်ဆန်းစစ်ပြီး သတိပေးချက်များ ထည့်ပါ"
-    },
     "new_finalTournament": {
       "english": "Final",
       "value": "ဗိုလ်လုပွဲ"
     },
-    "new_full_time_result": {
-      "comment": "Indicates that the user wants an alert when the match is at full time",
-      "english": "Full time result",
-      "value": "ပွဲပြီးရလဒ်"
-    },
     "new_goals": {
       "english": "Goals",
       "value": "ဂိုး"
-    },
-    "new_goals_start_and_finish": {
-      "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
-      "english": "Goals, start and finish",
-      "value": "ဂိုးများ၊ ပွဲစတင် နှင့် ပြီးဆုံး"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7519,29 +7030,10 @@
       "english": "Height",
       "value": "အရပ်"
     },
-    "new_how_to_remove_news_notifications": {
-      "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
-      "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "အသင်းစာမျက်နှာရှိ ခေါင်းလောင်းပုံကို နှိပ်၍ သတင်းအသိပေးချက်များ ပိတ်/ဖွင့်ပါ"
-    },
-    "new_intro_text": {
-      "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
-      "english": "Select your favorite teams and start the experience.",
-      "value": "သင့်စိတ်ကြိုက်အသင်းတွေကို ရွေးပြီး အတွေ့အကြုံသစ်စတင်လိုက်ပါ။"
-    },
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
       "value": "ဘောလုံးပွဲရလဒ်တွေကို အချိန်နဲ့တစ်ပြေးညီ သိရှိနိုင်အောင် ဒီအက်ပ်ကို သုံးနေပါတယ်။ သုံးကြည့်ပါလား။"
-    },
-    "new_invite_informal_prompt": {
-      "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
-      "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "သင့်သူငယ်ချင်းတွေလည်း လွတ်မသွားရလေအောင် FotMob ကို အခုပဲ မျှဝေပေးလိုက်တော့မလား။"
-    },
-    "new_invite_title": {
-      "english": "Invite your friends to try FotMob",
-      "value": "သင့်သူငယ်ချင်းတွေကို FotMob ကို အသုံးပြုဖို့ ဖိတ်ခေါ်လိုက်ပါ"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7582,19 +7074,10 @@
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
       "value": "စိတ်ကြိုက်များ မထည့်ရသေးပါ။\\n\\nယခုပင် စိတ်ကြိုက်တစ်ခုထည့်ရန် အနောက်သို့ပြန်သွားပါ (သို့) ပြီးပါပြီကိုနှိပ်ပြီး နောက်မှထည့်ပါ။"
     },
-    "new_no_internet_connection": {
-      "english": "No internet connection",
-      "value": "အင်တာနက် ချိတ်ဆက်မှုမရှိပါ"
-    },
     "new_no_matches_on_tv_today": {
       "comment": "A info message saying that there are no football matches on TV today",
       "english": "No matches on TV today",
       "value": "ယနေ့တီဗွီတွင် ပွဲစဉ်မရှိပါ"
-    },
-    "new_no_more_goals": {
-      "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
-      "english": "No more goals",
-      "value": "ဂိုးထပ်မသွင်းနိုင်"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7622,10 +7105,6 @@
       "english": "Odds format",
       "value": "လောင်းကြေးဆ ပုံစံ"
     },
-    "new_onlytopnews": {
-      "english": "Only top news",
-      "value": "ထိပ်တန်းသတင်းများသာ"
-    },
     "new_optional": {
       "comment": "Text indicating that the field is not required to be filled out, so the field is optional",
       "english": "Optional",
@@ -7639,14 +7118,6 @@
       "comment": "Indicates that the user wants alerts when the game is paused at half time",
       "english": "Halftime result",
       "value": "ပထမပိုင်းရလဒ်"
-    },
-    "new_pick_favorite": {
-      "english": "We noticed you have no favorite teams set. Do you want to set one now?",
-      "value": "သင့်စိတ်ကြိုက်အသင်းများ မရွေးချယ်ရသေးကြောင်း သတိပြုမိသည်။ ယခု ရွေးချယ်လိုပါသလား။"
-    },
-    "new_pick_suggestion": {
-      "english": "Pick suggestion",
-      "value": "အကြံပြုချက် ရွေးရန်"
     },
     "new_player_not_sent_off": {
       "comment": "Information message if we have mistakenly informed of a red card earlier, this is a correction message",
@@ -7702,10 +7173,6 @@
       "english": "Couldn't sign in to FotMob Predict",
       "value": "FotMob Predict သို့ ဝင်ရောက်၍ မရပါ"
     },
-    "new_profile_picture": {
-      "english": "Profile picture",
-      "value": "ပရိုဖိုင်ပုံ"
-    },
     "new_quarterfinal": {
       "english": "Quarter-final",
       "value": "ကွာတားဖိုင်နယ်"
@@ -7751,10 +7218,6 @@
       "english": "Search",
       "value": "ရှာဖွေရန်"
     },
-    "new_search_hint_global_desc": {
-      "english": "No results so far!",
-      "value": "ရလဒ်မရှိသေးပါ။"
-    },
     "new_semifinal": {
       "english": "Semi-final",
       "value": "ဆီမီးဖိုင်နယ်"
@@ -7767,15 +7230,6 @@
     "new_set_favorite_team": {
       "english": "Set favorite team",
       "value": "စိတ်ကြိုက်အသင်း ရွေးရန်"
-    },
-    "new_set_your_popular_teams": {
-      "english": "Do you follow one of these popular teams?",
-      "value": "လူကြိုက်များသည့် အောက်ပါအသင်းများမှ အသင်းတစ်သင်းကို သတင်းလိုက်ချင်ပါသလား။"
-    },
-    "new_set_your_teams": {
-      "comment": "Informing the user that he can choose his favorite local team(s)",
-      "english": "Choose your favorite local teams",
-      "value": "သင့်စိတ်ကြိုက် ပြည်တွင်းအသင်းများကို ရွေးချယ်ပါ"
     },
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
@@ -7809,18 +7263,9 @@
       "english": "Averages",
       "value": "ပျမ်းမျှများ"
     },
-    "new_start_and_finish": {
-      "comment": "Indicates that the user wants alerts for the start and end of the match",
-      "english": "Start and fulltime result",
-      "value": "ပွဲစချိန်နှင့် ပွဲပြီးရလဒ်"
-    },
     "new_summary": {
       "english": "Summary",
       "value": "အကျဉ်းချုပ်"
-    },
-    "new_team_profile": {
-      "english": "Team Profile",
-      "value": "အသင်း အကျဉ်း"
     },
     "new_teams": {
       "comment": "Plural form of Team, header of the list of world cup teams",
@@ -7835,23 +7280,9 @@
       "english": "Settings",
       "value": "ဆက်တင်များ"
     },
-    "new_title_activity_world_cup": {
-      "comment": "Do not translate",
-      "english": "Brazil 2014",
-      "value": "Brazil 2014"
-    },
-    "new_to_win": {
-      "comment": "Header where we display the odds to win the entire World Cup 2014. Keep short!",
-      "english": "To win",
-      "value": "နိုင်ခြေ"
-    },
     "new_top_players": {
       "english": "Top players",
       "value": "ထိပ်တန်း ကစားသမားများ"
-    },
-    "new_transfer_news_added": {
-      "english": "We will only send you alerts for the top transfer news",
-      "value": "ထိပ်တန်းအပြောင်းအရွှေ့သတင်းများကိုသာ အသိပေးပါမည်"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7879,11 +7310,6 @@
       "english": "Waiting for penalties",
       "value": "ပင်နယ်တီကန်ရန် စောင့်ဆိုင်းနေသည်"
     },
-    "new_wc_qual": {
-      "comment": "World Cup qualification. Menu choice for videos from the WC qualifying.",
-      "english": "WC qualification",
-      "value": "ကမ္ဘာ့ဖလား ခြေစစ်ပွဲ"
-    },
     "new_weight": {
       "comment": "weight of player, all uppercase!",
       "english": "WEIGHT",
@@ -7896,10 +7322,6 @@
     "new_who_will_score_next": {
       "english": "Who will score next?",
       "value": "နောက်တစ်ဂိုးကို ဘယ်သူ သွင်းမလဲ။"
-    },
-    "new_widget_providers_list_title": {
-      "english": "Configure",
-      "value": "ရွေးချယ်သတ်မှတ်ရန်"
     },
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
@@ -8364,10 +7786,6 @@
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
       "value": "အသိပေးချက်အသံများကို ကြားနိုင်ရန် \"မနှောင့်ယှက်ပါနှင့်\" မုဒ်ကို ပိတ်ပေးပါ။"
     },
-    "notifications_disable_push": {
-      "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "သေချာပါသလား။ အသိပေးချက်ဆိုင်ရာ အခက်အခဲများ ကြုံတွေ့ရမှသာ ၎င်းကို လုပ်ဆောင်သင့်ပါသည်။"
-    },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
@@ -8429,11 +7847,6 @@
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
       "value": "သတင်းထူးများအတွက် အသိပေးချက်ရယူပါ။ တစ်ပတ်လျှင် အသိပေးချက်အနည်းငယ်သာ ပေးပို့မည်ဖြစ်သည်။"
     },
-    "notifications_enable_http_cache": {
-      "comment": "Enables the app to work with no network connection showing cached information.",
-      "english": "Enable offline cache",
-      "value": "လိုင်းမဲ့ cache ဖွင့်ရန်"
-    },
     "notifications_enable_transfer_news": {
       "comment": "User can enable transfer news alerts",
       "english": "Enable transfer news",
@@ -8476,10 +7889,6 @@
     "notifications_estonia": {
       "english": "Estonia",
       "value": "အက်စတိုးနီးယား"
-    },
-    "notifications_exit_world_cup_mode": {
-      "english": "Exit Tournament mode",
-      "value": "ပြိုင်ပွဲမုဒ်မှထွက်ရန်"
     },
     "notifications_expected_return": {
       "comment": "Header for expected return date for a player after injury or similar",
@@ -8662,11 +8071,6 @@
     "notifications_hungary": {
       "english": "Hungary",
       "value": "ဟန်ဂေရီ"
-    },
-    "notifications_i_m_done": {
-      "comment": "Button label saying user doesn't want to customize the transfer alerts and is done",
-      "english": "I'm done",
-      "value": "ပြီးပါပြီ"
     },
     "notifications_iceland": {
       "english": "Iceland",
@@ -9235,30 +8639,6 @@
       "english": "Matches started",
       "value": "စတင်ပွဲထွက်ခဲ့သည့် ပွဲများ"
     },
-    "notifications_matchstats.headers.attackers": {
-      "english": "Attackers",
-      "value": "တိုက်စစ်မှူးများ"
-    },
-    "notifications_matchstats.headers.clerances": {
-      "english": "Clearances",
-      "value": "ရှင်းထုတ်မှု"
-    },
-    "notifications_matchstats.headers.defenders": {
-      "english": "Defenders",
-      "value": "ခံစစ်မှူးများ"
-    },
-    "notifications_matchstats.headers.dribbles": {
-      "english": "Dribbles",
-      "value": "အလိမ်အခေါက်"
-    },
-    "notifications_matchstats.headers.passers": {
-      "english": "Passers",
-      "value": "ပေးပို့သူများ"
-    },
-    "notifications_matchstats.headers.passes": {
-      "english": "Passes",
-      "value": "ပေးပို့မှု"
-    },
     "notifications_matchstats.headers.tackles": {
       "english": "Tackles",
       "value": "ဖျက်ထုတ်မှု"
@@ -9379,24 +8759,9 @@
       "english": "Dark mode",
       "value": "အမှောင်ပုံစံ"
     },
-    "notifications_no_data_available": {
-      "comment": "Shown when no data is available",
-      "english": "No data available",
-      "value": "အချက်အလက်မရှိ"
-    },
     "notifications_no_favorites_added_yet": {
       "english": "No favorites added yet",
       "value": "စိတ်ကြိုက်များ မထည့်သွင်းရသေးပါ"
-    },
-    "notifications_no_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Not really",
-      "value": "မဟုတ်ပါဘူး"
-    },
-    "notifications_no_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Nah, I have some ideas",
-      "value": "မဟုတ်ဘူး၊ အကြံဉာဏ်တချို့ ရှိတယ်"
     },
     "notifications_norway": {
       "comment": "Used in TV schedules filter",
@@ -9467,11 +8832,6 @@
       "english": "Pass success",
       "value": "ပေးပို့မှု အောင်မြင်"
     },
-    "notifications_pass_percentage_short": {
-      "comment": "Short header for pass percentage",
-      "english": "Pass %",
-      "value": "ပေးပို့မှု %"
-    },
     "notifications_passes": {
       "english": "Passes",
       "value": "ပေးပို့မှု"
@@ -9484,11 +8844,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Philippines",
       "value": "ဖိလစ်ပိုင်"
-    },
-    "notifications_pin_to_homescreen": {
-      "comment": "Option for adding a shortcut to the team to the homescreen",
-      "english": "Pin to homescreen",
-      "value": "ပင်မစာမျက်နှာတွင် ထားရန်"
     },
     "notifications_place_bet": {
       "comment": "A SHORT label saying user can place a bet or bet now. So translate it to \"Bet now\" or \"Place bet\" but keep it short. No longer than 12 chars",
@@ -9635,16 +8990,6 @@
       "english": "asst. coach",
       "value": "လက်ထောက်နည်းပြ"
     },
-    "notifications_role_coach": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "coach",
-      "value": "နည်းပြ"
-    },
-    "notifications_role_player": {
-      "comment": "Used in parenthesis after club name to indicate a person's role in the club",
-      "english": "player",
-      "value": "ကစားသမား"
-    },
     "notifications_role_referee": {
       "comment": "Used in parenthesis after club name to indicate a person's role in the club",
       "english": "referee",
@@ -9740,11 +9085,6 @@
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
       "value": "ပွဲစဉ်စာမျက်နှာတွေပေါ်က ခေါင်းလောင်းပုံကို နှိပ်ရင် ဘယ်အသိပေးချက်တွေကို ဖွင့်ပေးရမလဲ သတ်မှတ်ပါ"
     },
-    "notifications_set_standard_notifications": {
-      "comment": "A menu choice asking the user to set a list of standard notifications for matches",
-      "english": "Set standard notifications",
-      "value": "စံအသိပေးချက်များ သတ်မှတ်ပါ"
-    },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
@@ -9759,11 +9099,6 @@
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
       "value": "ကန်သွင်းမှု"
-    },
-    "notifications_shots_detail": {
-      "comment": "Header for detailed stats about the shots in the game",
-      "english": "Shots detail",
-      "value": "ကန်သွင်းမှုအသေးစိတ်"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
@@ -9837,11 +9172,6 @@
       "comment": "Country name used in tv guide page on web",
       "english": "Slovenia",
       "value": "ဆလိုဗေးနီးယား"
-    },
-    "notifications_social_media_updates": {
-      "comment": "A user can choose to get alerts for Twitter & Instagram updates for a player",
-      "english": "Social media updates",
-      "value": "လူမှုကွန်ရက် အပ်ဒိတ်များ"
     },
     "notifications_sort_by_time": {
       "comment": "Button label that allows users to sort the matches by match start, keep it short! We have no more room than the English translation of 12 chars.",
@@ -10097,11 +9427,6 @@
       "english": "View %@",
       "value": "%@ ကိုကြည့်ရန်"
     },
-    "notifications_view_player_details": {
-      "comment": "Button caption for viewing more details about a player",
-      "english": "Player details",
-      "value": "ကစားသမားအသေးစိတ်"
-    },
     "notifications_volume": {
       "comment": "Button with shortcut to system settings",
       "english": "Volume",
@@ -10116,11 +9441,6 @@
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
       "value": "ပြစ်ဒဏ်ဘော"
-    },
-    "notifications_watch_match_bet365": {
-      "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
-      "english": "Watch the match on Bet365 TV",
-      "value": "ပွဲစဉ်ကို Bet365 TV တွင်ကြည့်ရန်"
     },
     "notifications_we_added_confirmed_transfer_alerts_do_you_want_to_enable_them_for_your_favorite_teams": {
       "english": "We've added confirmed transfer alerts! Do you want to turn them on for your favorite teams?",
@@ -10153,16 +9473,6 @@
     "notifications_yellow_card": {
       "english": "Yellow card",
       "value": "အဝါကတ်"
-    },
-    "notifications_yes_variant_1": {
-      "comment": "Used for rating dialog",
-      "english": "Yes!",
-      "value": "ဟုတ်ကဲ့!"
-    },
-    "notifications_yes_variant_2": {
-      "comment": "Used for rating dialog, button label so keep it short",
-      "english": "Yes, it's perfect!",
-      "value": "ဟုတ်ကဲ့၊ ပြီးပြည့်စုံပါတယ်"
     },
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",
