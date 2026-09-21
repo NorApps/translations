@@ -995,7 +995,7 @@
     "accessibility_login_disclaimer": {
       "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
       "english": "By signing in you accept the Terms of use and Privacy Policy.",
-      "value": "با ورود به سایت، شما قوانین استفاده و سیاست حفظ حریم خصوصی را پذیرفته اید."
+      "value": "با ورود به سایت، شما قوانین استفاده و سیاست حفظ حریم خصوصی را پذیرفته‌اید."
     },
     "accessibility_logincomponent_desc1": {
       "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
@@ -1204,7 +1204,7 @@
     "accessibility_new_match_experience_body": {
       "comment": "The body-text for the new-match-facts onboarding.",
       "english": "It is now easier to navigate, and we’ve put key info into the main tab.",
-      "value": "ما اطلاعات اصلی را در تب اول قرار داده ایم تا مرور آن راحتر انجام شود."
+      "value": "ما اطلاعات اصلی را در تب اصلی قرار داده‌ایم تا مرور آن راحت‌تر انجام شود."
     },
     "accessibility_new_match_experience_header": {
       "comment": "The header for the new match-facts onboarding.",
@@ -3501,7 +3501,7 @@
     },
     "common_enable_push": {
       "english": "Enable push notifications",
-      "value": "فعال کردن اطلاعیه‌ها"
+      "value": "فعال کردن اعلان‌ها"
     },
     "common_enable_push_description": {
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
@@ -4294,7 +4294,7 @@
     },
     "common_h2h_no_draws": {
       "english": "%1$@ and %2$@ have not drawn any of their last %3$@ matches",
-      "value": "%1$@ و %2$@ در %3$@ بازی رو به روی هم بازی نکرده اند"
+      "value": "%1$@ و %2$@ در %3$@ بازی رو به روی هم بازی نکرده‌اند"
     },
     "common_h2h_no_draws_v2": {
       "comment": "Example: Manchester United and Chelsea have not drawn any of their last 5 matches against each other.",
@@ -5144,11 +5144,11 @@
     },
     "common_notifications_off": {
       "english": "Turn off notifications",
-      "value": "غیرفعال کردن اطلاعیه‌ها"
+      "value": "غیرفعال کردن اعلان‌ها"
     },
     "common_notifications_on": {
       "english": "Turn on notifications",
-      "value": "روشن کردن اطلاعیه‌ها"
+      "value": "روشن کردن اعلان‌ها"
     },
     "common_notifications_onboarding": {
       "comment": "Description to explain to users concept of notifications in FotMob",
@@ -6271,7 +6271,7 @@
     },
     "common_test_notification": {
       "english": "Test notification",
-      "value": "تست اطلاعیه‌ها"
+      "value": "تست اعلان‌ها"
     },
     "common_thailand": {
       "english": "Thailand",
@@ -7588,7 +7588,7 @@
     "new_no_favorites_added": {
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
       "english": "You didn't add any favorites.\\n\\nPress back to add one now or press finish and add one later.",
-      "value": "شما هیچ چیزی را به عنوان مورد علاقه خود اضافه نکرده اید.\\n\\nبرگشت را زده و همین حالا انتخاب نمایید و یا پایان را انتخاب کرده و بعدا اضافه نمایید."
+      "value": "شما هیچ چیزی را به عنوان مورد علاقه خود اضافه نکرده‌اید.\\n\\nبرگشت را زده و همین حالا انتخاب نمایید و یا پایان را انتخاب کرده و بعدا اضافه نمایید."
     },
     "new_no_internet_connection": {
       "english": "No internet connection",
@@ -8365,7 +8365,7 @@
     },
     "notifications_disable": {
       "english": "Disable push",
-      "value": "غیر فعال کردن اطلاعیه"
+      "value": "غیرفعال کردن اعلان"
     },
     "notifications_disable_dnd_to_hear_notifications": {
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
@@ -8578,12 +8578,12 @@
     "notifications_fotmob_notifications_disabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications disabled",
-      "value": "اطلاعیه‌های FotMob غیرفعال شده است"
+      "value": "اعلان‌های FotMob غیرفعال شده است"
     },
     "notifications_fotmob_notifications_enabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications enabled",
-      "value": "اطلاعیه‌های FotMob فعال شده است"
+      "value": "اعلان‌های FotMob فعال شده است"
     },
     "notifications_france": {
       "english": "France",
@@ -9202,7 +9202,7 @@
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
       "english": "You have been logged out. Please log in again so that we can continue keeping your favorites and settings safe.",
-      "value": "شما ار حساب خود خارج شده اید، لطفا دوباره وارد حساب خود شوید تا بتوانیم تنظیمات شما را ذخیره کنیم."
+      "value": "شما از حساب خود خارج شده‌اید، لطفا دوباره وارد حساب خود شوید تا بتوانیم تنظیمات و علاقه‌مندی‌های شما را ذخیره کنیم."
     },
     "notifications_long_balls": {
       "comment": "Stat for long balls during the match",
@@ -9418,25 +9418,25 @@
     },
     "notifications_notifications_are_blocked": {
       "english": "- Notifications for this app have been disabled",
-      "value": "- اعلانها برای این برنامه غیر فعال شده است"
+      "value": "- اعلان‌ها برای این برنامه غیرفعال شده است"
     },
     "notifications_notifications_are_blocked_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are blocked",
       "english": "- Notifications are blocked for some alerts: %@",
-      "value": "- اطلاعیه‌ها برای برخی از هشدارها مسدود شده اند: %@"
+      "value": "- اعلان‌ها برای برخی از هشدارها مسدود شده‌اند: %@"
     },
     "notifications_notifications_are_muted": {
       "english": "- Notifications are muted",
-      "value": "- اعلانها خاموش هستند"
+      "value": "- اعلان‌ها خاموش هستند"
     },
     "notifications_notifications_are_muted_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are muted",
       "english": "- Notifications are muted for some alerts: %@",
-      "value": "- اطلاعیه‌ها برای برخی از هشدارها خاموش شده اند: %@"
+      "value": "- اعلان‌ها برای برخی از هشدارها خاموش شده‌اند: %@"
     },
     "notifications_notifications_are_muted_simple": {
       "english": "Notifications are muted",
-      "value": "اطلاعیه‌ها خاموش هستند"
+      "value": "اعلان‌ها خاموش هستند"
     },
     "notifications_notifications_count": {
       "comment": "Status string indication how many favorites you got and how many with notifications",
@@ -11604,7 +11604,7 @@
     "seo_odds_favorites": {
       "comment": "Text stating that a given team is the favorite to win the match according to the bookmakers. With the team name of the favourit as input.",
       "english": "%1$@ are the favorites to win the match, according to the bookmakers.",
-      "value": "%1$@ براساس نظر خبرگان شرط‌بندی، شانس برد مسابقه در اختیار %1$@ است."
+      "value": "براساس نظر خبرگان شرط‌بندی، شانس برد مسابقه در اختیار %1$@ است."
     },
     "seo_odds_overview": {
       "comment": "Text describing the odds of the different outcomes of a match. With the following parameters in order; home team name, odds of home win, odds of draw, odds of away win, away team name",
@@ -13421,7 +13421,7 @@
     "seo_xpts_explanation": {
       "comment": "Explanation of the xG table. The text has newline separators in it.",
       "english": "Expected Points (xPts) reflect the number of points a team was expected to earn from a match, based on the quality of their chances measured by Expected Goals (xG).\\n\\nxPts for a match are calculated by simulating possible outcomes using the quality of shots, expressed as xG. The simulation awards points for wins, draws, or losses based on xG.\\n\\nThe xPts are accumulated over the season to form the 'xG-table', also known as the 'Justice table', which provides an alternative view of team performance beyond actual points earned.",
-      "value": "امنتیازات مورد انتظار (xPts) نشان‌دهنده تعداد امتیازاتی است که از یک تیم انتظار می‌رفت از بازی کسب کند؛ این امتیاز برمبنای کیفیت شانسشان است که طبق «گل‌های مورد انتظار» (xG) سنجیده می‌شود.\\n\\nامتیاز xPts برای یک بازی با شبیه‌سازی نتایج احتمالی با استفاده از کیفیت شوت‌ها، که در قالب xG بیان می‌شود، محاسبه می‌گردد. در این شبیه‌سازی، امتیازاتی بابت بردها، مساوی‌ها یا باخت‌ها براساس xG داده می‌شود.\\n\\nبا تجمیع امتیازات xPts درطول فصل، «جدول xG» شکل می‌گیرد، که «جدول عدالت» نیز نام دارد. این جدول نمای دیگری از عملکرد تیم را فراسوی امتیازاتی که در واقعیت کسب کرده است نمایش می‌دهد."
+      "value": "امتیازات مورد انتظار (xPts) نشان‌دهنده تعداد امتیازاتی است که از یک تیم انتظار می‌رفت از بازی کسب کند؛ این امتیاز برمبنای کیفیت شانسشان است که طبق «گل‌های مورد انتظار» (xG) سنجیده می‌شود.\\n\\nامتیاز xPts برای یک بازی با شبیه‌سازی نتایج احتمالی با استفاده از کیفیت شوت‌ها، که در قالب xG بیان می‌شود، محاسبه می‌گردد. در این شبیه‌سازی، امتیازاتی بابت بردها، مساوی‌ها یا باخت‌ها براساس xG داده می‌شود.\\n\\nبا تجمیع امتیازات xPts در طول فصل، «جدول xG» شکل می‌گیرد، که «جدول عدالت» نیز نام دارد. این جدول نمای دیگری از عملکرد تیم را فراسوی امتیازاتی که در واقعیت کسب کرده است نمایش می‌دهد."
     },
     "seo_xpts_explanation_green_numbers": {
       "comment": "Explanation of the green numbers in the xG table. Underlying numbers refer to xG.",

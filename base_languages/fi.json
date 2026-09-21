@@ -347,7 +347,7 @@
     "accessibility_europa_conference_league_playoff": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
       "english": "Conference League playoff",
-      "value": "Conference Leaguen pudotuspelit"
+      "value": "Konferenssiliigan pudotuspelit"
     },
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
@@ -1656,7 +1656,7 @@
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
       "english": "Conference League playoff stage",
-      "value": "Conference Leaguen pudotuspelivaihe"
+      "value": "Konferenssiliigan pudotuspelivaihe"
     },
     "accessibility_red": {
       "comment": "Used to describe red cards in stats, e.g. on player profile and referee profile.",
@@ -3585,7 +3585,7 @@
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League qualification",
-      "value": "Conference League -karsinnat"
+      "value": "Konferenssiliigan karsinta"
     },
     "common_europaleague": {
       "english": "Europa League",
@@ -12985,7 +12985,7 @@
     "seo_template_10615": {
       "comment": "Europa League Qualification stage. https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Translate short. Prefer Conference League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Conference League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
       "english": "Conference League Qualification",
-      "value": "Conference League - Karsinta"
+      "value": "Konferenssiliiga - Karsinta"
     },
     "seo_template_42": {
       "comment": "UEFA Champions League",
