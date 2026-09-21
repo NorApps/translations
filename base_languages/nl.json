@@ -12461,7 +12461,7 @@
     "seo_site_description_league_matches": {
       "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
       "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
-      "value": "Alle resultaten en aankomende wedstrijden voor %1$s in %2$s. Sorteer op datum, speelronde, club of groep. Live scores en resultaten, elke speeldag bijgewerkt."
+      "value": "Alle resultaten en aankomende wedstrijden voor %1$@ in %2$@. Sorteer op datum, speelronde, club of groep. Live scores en resultaten, elke speeldag bijgewerkt."
     },
     "seo_site_description_league_news": {
       "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",

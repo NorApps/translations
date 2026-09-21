@@ -12443,7 +12443,7 @@
     "seo_site_description_league_matches": {
       "comment": "SEO description for league matches page showing results and fixtures with live scores. First %@ is the league name, second %@ is the season",
       "english": "All %1$@ match results and upcoming fixtures for %2$@. Sort by date, round, club or group. Live scores and results updated every matchday.",
-      "value": "%1$sの%2$sシーズンの全試合結果と今後の試合日程。日付、節、クラブ、グループで並べ替え。ライブスコアと結果は毎節更新。"
+      "value": "%1$@の%2$@シーズンの全試合結果と今後の試合日程。日付、節、クラブ、グループで並べ替え。ライブスコアと結果は毎節更新。"
     },
     "seo_site_description_league_news": {
       "comment": "SEO description for league news page showing latest news, transfers, injuries and match updates. %@ is the league name",
