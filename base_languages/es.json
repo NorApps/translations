@@ -143,7 +143,7 @@
     "accessibility_attempt_saved": {
       "comment": "A shot result description (attempt saved by keeper)",
       "english": "Attempt saved",
-      "value": "Disparo atajado"
+      "value": "Tiro atajado"
     },
     "accessibility_by_date": {
       "comment": "Text shown on toggle that shows matches in a league sorted by date.",
@@ -303,7 +303,7 @@
     "accessibility_detailed_goal_data": {
       "comment": "Used for expandable button on goal types in player profile.",
       "english": "Shot details",
-      "value": "Detalles del disparo"
+      "value": "Detalles del tiro"
     },
     "accessibility_detailspage_group_stage": {
       "comment": "Heading over readonly view of the users preditions on the group stage",
@@ -637,7 +637,7 @@
     "accessibility_insights_chances_created_rank_in_competition": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
       "english": "Ranked %1$@ in big chances created (%2$@ big chances)",
-      "value": "Puesto %1$@ en grandes oportunidades creadas (%2$@ grandes oportunidades)"
+      "value": "Puesto %1$@ en ocasiones claras creadas (%2$@ ocasiones claras)"
     },
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
@@ -732,17 +732,17 @@
     "accessibility_insights_player_chances_created_rank_in_competition": {
       "comment": "A player which is one of the top players in terms of big chances created in the competition. Example: \"Erling Haaland is ranked 1st in big chances created in the competition (20)\"",
       "english": "%1$@ is ranked %2$@ in big chances created in the competition (%3$@)",
-      "value": "%1$@ tiene el puesto %2$@ en grandes oportunidades creadas en la competición (%3$@)"
+      "value": "%1$@ tiene el puesto %2$@ en ocasiones claras creadas en la competición (%3$@)"
     },
     "accessibility_insights_player_goals_scored": {
       "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
       "english": "%1$@ is the competition's top scorer (%2$@)",
-      "value": "%1$@ es el mayor goleador de la competición (%2$@)"
+      "value": "%1$@ es el máximo goleador de la competición (%2$@)"
     },
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
       "english": "%1$@ has created the most big chances for %2$@ (%3$@)",
-      "value": "%1$@ ha creado el mayor número de grandes oportunidades para %2$@ (%3$@)"
+      "value": "%1$@ ha creado el mayor número de ocasiones claras para %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
@@ -1379,7 +1379,7 @@
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>Nueva página de estadísticas.</b> Profundiza en las estadísticas con, por ejemplo, mapas de disparos por temporada y tablas comparativas."
+      "value": "<b>Nueva página de estadísticas.</b> Profundiza en las estadísticas con, por ejemplo, mapas de tiros por temporada y tablas comparativas."
     },
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1734,7 +1734,7 @@
     "accessibility_season_shot_map": {
       "comment": "Used for seasonal shot map in player profile.",
       "english": "Season shot map",
-      "value": "Mapa de disparos de la temporada"
+      "value": "Mapa de tiros de la temporada"
     },
     "accessibility_season_so_far": {
       "comment": "Header of a section describing stats for how a season has gone so far (number of goals, wins, etc)",
@@ -1831,7 +1831,7 @@
     "accessibility_shot_attempts": {
       "comment": "A stat name indicating the number of shot attempts made by a player.",
       "english": "Shot attempts",
-      "value": "Disparos intentados"
+      "value": "Tiros intentados"
     },
     "accessibility_shot_blocked": {
       "comment": "A shot was blocked by a defender. An attacker shot the ball at goal but a defender blocked it.",
@@ -1851,12 +1851,12 @@
     "accessibility_shot_map": {
       "comment": "A label in the player details stats showing a graphic representation of all the shots on goal in the match.",
       "english": "Shot map",
-      "value": "Mapa de disparos"
+      "value": "Mapa de tiros"
     },
     "accessibility_shot_type": {
       "comment": "A label for the shot description under the shotmap (in shotmap details, left/right foot, head, etc.)",
       "english": "Shot type",
-      "value": "Tipo de disparo"
+      "value": "Tipo de tiro"
     },
     "accessibility_shots_faced": {
       "comment": "How many shots a keeper has encountered in the match. Just counting on target shots.",
@@ -2497,7 +2497,7 @@
     "accessibility_xG_onboarding_description": {
       "comment": "A short description of the xG system and how it works.",
       "english": "Expected goals is a measurement of the quality of a shot.\\n\\nA team’s xG number for a match is an indication of how many goals they could have been expected to score, given the chances they created.",
-      "value": "Los goles esperados son una medida de la calidad del disparo.\\n\\nEl número de xG de un equipo para un partido es una indicación de cuántos goles podrían haber marcado, teniendo en cuenta las oportunidades creadas."
+      "value": "Los goles esperados son una medida de la calidad de un tiro.\\n\\nEl número de xG de un equipo para un partido es una indicación de cuántos goles podrían haber marcado, teniendo en cuenta las oportunidades creadas."
     },
     "accessibility_xG_onboarding_header": {
       "comment": "A header for xG-onboarding",
@@ -2547,11 +2547,11 @@
     },
     "common_ShotsOffTarget": {
       "english": "Shots off target",
-      "value": "Disparos fuera"
+      "value": "Tiros fuera"
     },
     "common_ShotsOnTarget": {
       "english": "Shots on target",
-      "value": "Disparos a puerta"
+      "value": "Tiros a puerta"
     },
     "common_aborted": {
       "english": "Abandoned",
@@ -2588,7 +2588,7 @@
     },
     "common_action_settings": {
       "english": "Settings",
-      "value": "Configuración"
+      "value": "Ajustes"
     },
     "common_add_favorite": {
       "english": "Add favorite",
@@ -2866,7 +2866,7 @@
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
       "english": "Big chances",
-      "value": "Gran probabilidad"
+      "value": "Ocasiones claras"
     },
     "common_biggest_loss": {
       "comment": "The biggest match loss for a team in a given season.",
@@ -3974,12 +3974,12 @@
     "common_fun_fact_joint_woodwork": {
       "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
       "english": "Hit the woodwork the joint-most times (%1$@)",
-      "value": "Fue uno de los jugadores que más veces estrelló el balón en los postes (%1$@) (empatado)"
+      "value": "Fue uno de los jugadores que más veces estrelló el balón en los palos (%1$@) (empatado)"
     },
     "common_fun_fact_joint_woodwork_live": {
       "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
       "english": "Has hit the woodwork the joint-most times (%1$@)",
-      "value": "Es uno de los jugadores que más veces estrella el balón en los postes (%1$@) (empatado)"
+      "value": "Es uno de los jugadores que más veces estrella el balón en los palos (%1$@) (empatado)"
     },
     "common_fun_fact_made_mistake_led_to_goal": {
       "comment": "Example: committed an error that led to a goal.",
@@ -4198,7 +4198,7 @@
     "common_goals_conceded_team_match_subtitle": {
       "comment": "Total number of goals a player/team has conceded",
       "english": "Total goals conceded",
-      "value": "Total goles concedidos"
+      "value": "Total de goles concedidos"
     },
     "common_goals_conceded_team_match_title": {
       "comment": "Number of goals a team concedes in average per match",
@@ -4229,7 +4229,7 @@
     "common_goals_team_match_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals scored",
-      "value": "Total goles marcados"
+      "value": "Total de goles marcados"
     },
     "common_goals_team_match_title": {
       "comment": "Number of goals a team scores in average per match",
@@ -4646,7 +4646,7 @@
     "common_left_wing_back": {
       "comment": "Player position - player plays as a left wing back.",
       "english": "Left Wing Back",
-      "value": "Lateral izquierdo"
+      "value": "Carrilero izquierdo"
     },
     "common_left_wing_back_short": {
       "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
@@ -4891,7 +4891,7 @@
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals",
-      "value": "Total goles"
+      "value": "Total de goles"
     },
     "common_mins_played_goal_title": {
       "comment": "Minutes a player needs to score a goal. Minutes played / goals scored.",
@@ -5260,19 +5260,19 @@
     },
     "common_ontarget_scoring_att_subtitle": {
       "english": "Total shots on target",
-      "value": "Total de lanzamientos a puerta"
+      "value": "Total de tiros a puerta"
     },
     "common_ontarget_scoring_att_team_subtitle": {
       "english": "Total shots",
-      "value": "Total de lanzamientos"
+      "value": "Total de tiros"
     },
     "common_ontarget_scoring_att_team_title": {
       "english": "Shots on target per match",
-      "value": "Lanzamientos a puerta por partido"
+      "value": "Tiros a puerta por partido"
     },
     "common_ontarget_scoring_att_title": {
       "english": "Shots on target per match",
-      "value": "Lanzamientos a puerta por partido"
+      "value": "Tiros a puerta por partido"
     },
     "common_open_play": {
       "comment": "Type of goal (the most common)",
@@ -5719,7 +5719,7 @@
     "common_right_wing_back": {
       "comment": "Player position - player plays as a right wing back.",
       "english": "Right Wing Back",
-      "value": "Lateral derecho"
+      "value": "Carrilero derecho"
     },
     "common_right_wing_back_short": {
       "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
@@ -5963,12 +5963,12 @@
     "common_shot_accuracy": {
       "comment": "How many percentage of shots hit the goal. Like if Messi shoots 10 times at goal and hits the goal once. We say he hit had a shot accuracy of 10%",
       "english": "Shot accuracy",
-      "value": "Precisión de disparos"
+      "value": "Precisión de tiros"
     },
     "common_shots_on_off_target": {
       "comment": "Header to indicate how many shots was on target and how many was off target",
       "english": "Shots On / Off target",
-      "value": "Disparos a puerta / fuera"
+      "value": "Tiros a puerta / fuera"
     },
     "common_show_all_matches": {
       "english": "Show all matches",
@@ -6405,7 +6405,7 @@
     "common_top_scorer": {
       "comment": "Label for the top scorer player in the Team Profile",
       "english": "Top scorer",
-      "value": "Mayor goleador"
+      "value": "Máximo goleador"
     },
     "common_top_scorers": {
       "english": "Top scorers",
@@ -7152,7 +7152,7 @@
     "ios_next_shot": {
       "comment": "An accessibility label for the next shot button in the shotmap",
       "english": "Next shot",
-      "value": "Siguiente disparo"
+      "value": "Tiro siguiente"
     },
     "ios_open_safari": {
       "english": "Open in Safari",
@@ -7185,7 +7185,7 @@
     "ios_previous_shot": {
       "comment": "An accessibility label for the previous shot button in the shotmap",
       "english": "Previous shot",
-      "value": "Disparo anterior"
+      "value": "Tiro anterior"
     },
     "ios_purchase_failed": {
       "english": "The purchase failed, please try again",
@@ -7256,7 +7256,7 @@
     },
     "ios_top_goalscorer": {
       "english": "Top goal scorer",
-      "value": "Mayor goleador"
+      "value": "Máximo goleador"
     },
     "ios_tweet_text": {
       "comment": "A text to send to twitter for sharing the app",
@@ -8234,7 +8234,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Grandes oportunidades creadas"
+      "value": "Ocasiones claras creadas"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -8249,12 +8249,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Gran oportunidad perdida"
+      "value": "Ocasiones claras falladas"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Grandes oportunidades perdidas"
+      "value": "Ocasiones claras falladas"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -8468,7 +8468,7 @@
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
-      "value": "El error ha provocado un disparo"
+      "value": "El error ha provocado un tiro"
     },
     "notifications_error_no_component_for_speech_recognition_found": {
       "comment": "Message shown when user tries to search using voice and the device doesn't support it",
@@ -9519,7 +9519,7 @@
     "notifications_player_in_starting_lineup": {
       "comment": "A user can get an alert if the player is in the lineup. \"Wayne Rooney is in starting lineup. Manchester United - Liverpool",
       "english": "%@ is in the starting lineup\\n%@ - %@",
-      "value": "%@ está en la alineación titular. %@ - %@"
+      "value": "%@ está en la alineación titular\\n%@ - %@"
     },
     "notifications_player_in_starting_lineup_short": {
       "comment": "A user can get an alert if the player is in the lineup. Example: \"Header: Wayne Rooney Body: Is in starting lineup. Manchester United - Liverpool\"",
@@ -9774,7 +9774,7 @@
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
-      "value": "Tiro"
+      "value": "Tiros"
     },
     "notifications_shots_detail": {
       "comment": "Header for detailed stats about the shots in the game",
@@ -9794,7 +9794,7 @@
     "notifications_shots_woodwork": {
       "comment": "Stat for shots hitting the woodwork on the goal (post or bar)",
       "english": "Hit woodwork",
-      "value": "Tiros a los postes"
+      "value": "Tiros a los palos"
     },
     "notifications_show_more": {
       "comment": "Button for loading more data",
@@ -12676,7 +12676,7 @@
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
       "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
-      "value": "%1$@ %2$@ equipos de mayor calificación, goles por partido, tiros al arco y otras estadísticas"
+      "value": "%1$@ %2$@ equipos de mayor calificación, goles por partido, tiros a puerta y otras estadísticas"
     },
     "seo_site_title_league_stats_trophies": {
       "comment": "SEO title for league trophies page showing past winners and runner-up. %@ is the league name",
@@ -13430,7 +13430,7 @@
     "seo_xpts_explanation": {
       "comment": "Explanation of the xG table. The text has newline separators in it.",
       "english": "Expected Points (xPts) reflect the number of points a team was expected to earn from a match, based on the quality of their chances measured by Expected Goals (xG).\\n\\nxPts for a match are calculated by simulating possible outcomes using the quality of shots, expressed as xG. The simulation awards points for wins, draws, or losses based on xG.\\n\\nThe xPts are accumulated over the season to form the 'xG-table', also known as the 'Justice table', which provides an alternative view of team performance beyond actual points earned.",
-      "value": "Los puntos esperados (xPts) reflejan el número de puntos que se espera que un equipo gane de un partido, según la calidad de la probabilidad en relación con los goles esperados (xG).\\n\\nLos xPts de un partido se calculan simulando los posibles resultados mediante la calidad de los disparos, expresados en xG. La simulación otorga puntos por las victorias, los empates o las derrotas según los xG.\\n\\nLos xPts se acumulan a lo largo de la temporada para crear la «tabla xG», también conocida como la «tabla de la justicia», que ofrece una vista alternativa del rendimiento de un equipo más allá de los puntos reales que haya ganado."
+      "value": "Los puntos esperados (xPts) reflejan el número de puntos que se espera que un equipo gane de un partido, según la calidad de la probabilidad en relación con los goles esperados (xG).\\n\\nLos xPts de un partido se calculan simulando los posibles resultados mediante la calidad de los tiros, expresados en xG. La simulación otorga puntos por las victorias, los empates o las derrotas según los xG.\\n\\nLos xPts se acumulan a lo largo de la temporada para crear la «tabla xG», también conocida como la «tabla de la justicia», que ofrece una vista alternativa del rendimiento de un equipo más allá de los puntos reales que haya ganado."
     },
     "seo_xpts_explanation_green_numbers": {
       "comment": "Explanation of the green numbers in the xG table. Underlying numbers refer to xG.",
@@ -13510,7 +13510,7 @@
     "stat answer box_stat_answer_sentence_generic_player": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web, used for every player leaderboard EXCEPT goals (which has its own bespoke \"top scorer\" phrasing). Placeholders: %1$@ → player name; %2$@ → league name; %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Assists\", \"Yellow cards\", \"xG per 90\"); %5$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists with 7.\" IMPORTANT: %2$@ is the league name — a COMPETITION, NOT an opponent being beaten. \"Leads %2$@ in %4$@\" means \"is the leader in the %4$@ ranking within %2$@\". Do NOT translate as \"beats/is ahead of/outperforms %2$@\" — the player is not competing against %2$@; %2$@ is the tournament the ranking is measured in.",
       "english": "%1$@ leads %2$@%3$@ in %4$@ with %5$@.",
-      "value": "%1$@ lidera %4$@ en %2$@%3$@ con %5$@."
+      "value": "%1$@ lidera %2$@%3$@ en %4$@ con %5$@."
     },
     "stat answer box_stat_answer_sentence_generic_player_position": {
       "comment": "Generic SEO answer-box sentence in FotMob-Web when a position filter is active (non-goals stats). See \"stat_answer_sentence_generic_player\" for context — reuse the same verb and phrasing style. Placeholders: %1$@ → player name; %2$@ → league name (a COMPETITION, not an opponent); %3$@ → season suffix like \" 2025/2026\" (already includes a leading space); %4$@ → localised stat title (e.g. \"Assists\"); %5$@ → plural position noun already translated (e.g. \"wingers\"); %6$@ → formatted stat value. Full example: \"Michael Olise leads Premier League 2025/2026 in Assists among wingers with 7.\"",

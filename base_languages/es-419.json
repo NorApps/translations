@@ -1,20 +1,10 @@
 {
   "language": "es-419",
   "translations": {
-    "accessibility_attempt_saved": {
-      "comment": "A shot result description (attempt saved by keeper)",
-      "english": "Attempt saved",
-      "value": "Tiro atajado"
-    },
     "accessibility_change_language_explanation": {
       "comment": "Label indicating you can change the language of the app",
       "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
       "value": "Ve a Configuración y toca Idioma para elegir tu idioma preferido para FotMob.\\n\\nSi no hay configuración de idioma disponible, ve a la configuración de idioma de tu dispositivo para establecer un idioma preferido."
-    },
-    "accessibility_detailed_goal_data": {
-      "comment": "Used for expandable button on goal types in player profile.",
-      "english": "Shot details",
-      "value": "Detalles del tiro"
     },
     "accessibility_enable_push_description_live_activity": {
       "comment": "Description for push reminder for live activities",
@@ -149,11 +139,6 @@
       "english": "On target",
       "value": "Al arco"
     },
-    "accessibility_onboarding_newplayerprofile_section2": {
-      "comment": "Onboarding text of our new player profile page in the app",
-      "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>Nueva página de estadísticas.</b> Profundiza en las estadísticas con, por ejemplo, mapas de tiros por temporada y tablas comparativas."
-    },
     "accessibility_open_settings": {
       "comment": "Label indicating you need to open the Settings page on iPhone",
       "english": "Open settings",
@@ -179,30 +164,10 @@
       "english": "Saves per 90",
       "value": "Atajadas por 90"
     },
-    "accessibility_season_shot_map": {
-      "comment": "Used for seasonal shot map in player profile.",
-      "english": "Season shot map",
-      "value": "Mapa de tiros de la temporada"
-    },
     "accessibility_shareleaguepopup_helper": {
       "comment": "Help pointing out that they can also click the button to copy the league code",
       "english": "or click button to copy code",
       "value": "o toca el botón para copiar el código"
-    },
-    "accessibility_shot_attempts": {
-      "comment": "A stat name indicating the number of shot attempts made by a player.",
-      "english": "Shot attempts",
-      "value": "Tiros intentados"
-    },
-    "accessibility_shot_map": {
-      "comment": "A label in the player details stats showing a graphic representation of all the shots on goal in the match.",
-      "english": "Shot map",
-      "value": "Mapa de tiros"
-    },
-    "accessibility_shot_type": {
-      "comment": "A label for the shot description under the shotmap (in shotmap details, left/right foot, head, etc.)",
-      "english": "Shot type",
-      "value": "Tipo de tiro"
     },
     "accessibility_shots_on_target_per_90": {
       "comment": "Label used in stats for shots on target per 90 min",
@@ -260,6 +225,10 @@
     "common_ShotsOnTarget": {
       "english": "Shots on target",
       "value": "Tiros al arco"
+    },
+    "common_action_settings": {
+      "english": "Settings",
+      "value": "Configuración"
     },
     "common_added_new_leagues": {
       "comment": "Pop-up notifying user about new leagues have been added",
@@ -652,11 +621,6 @@
       "english": "Settings",
       "value": "Configuración"
     },
-    "common_shot_accuracy": {
-      "comment": "How many percentage of shots hit the goal. Like if Messi shoots 10 times at goal and hits the goal once. We say he hit had a shot accuracy of 10%",
-      "english": "Shot accuracy",
-      "value": "Precisión de tiros"
-    },
     "common_shots_on_off_target": {
       "comment": "Header to indicate how many shots was on target and how many was off target",
       "english": "Shots On / Off target",
@@ -773,16 +737,6 @@
     "ios_location_reason": {
       "english": "We only use your location to enable features available to some countries",
       "value": "Solo utilizamos tu ubicación para activar las funciones disponibles para algunos países"
-    },
-    "ios_next_shot": {
-      "comment": "An accessibility label for the next shot button in the shotmap",
-      "english": "Next shot",
-      "value": "Siguiente tiro"
-    },
-    "ios_previous_shot": {
-      "comment": "An accessibility label for the previous shot button in the shotmap",
-      "english": "Previous shot",
-      "value": "Tiro anterior"
     },
     "ios_rate_fotmob_accessibility": {
       "comment": "An accessibility label for the star buttons in the \"rate FotMob\" card, read aloud by VoiceOver. %@/%d is the number of stars (1-5) that button gives, e.g. \"Rate FotMob [5] stars\" where the bracketed text is the variable.",
@@ -1289,6 +1243,11 @@
       "comment": "Title of the Latest News page. Typically displayed in the tab header in the browser.",
       "english": "Latest News - Today's football news and transfer rumours.",
       "value": "Últimas noticias - Noticias de fútbol y rumores de transferencias de hoy."
+    },
+    "seo_site_title_league_stats_teams": {
+      "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
+      "english": "%1$@ %2$@ top rated teams, goals per match, shots on target and other stats",
+      "value": "%1$@ %2$@ equipos de mayor calificación, goles por partido, tiros al arco y otras estadísticas"
     },
     "seo_site_title_league_table_xg": {
       "comment": "SEO title for league xG table page showing expected goals standings. First %@ is the league name, second %@ is the season",

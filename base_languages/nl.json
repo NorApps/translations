@@ -74,12 +74,12 @@
     "accessibility_alerts_disabled": {
       "comment": "Meant for VoiceOver. Lets the user know that a match has alerts off when in the detailed match-controller",
       "english": "Alerts are disabled",
-      "value": "Notificaties zijn uitgeschakeld"
+      "value": "Meldingen zijn uitgeschakeld"
     },
     "accessibility_alerts_enabled": {
       "comment": "Meant for VoiceOver. Lets the user know that a match has alerts on when in the detailed match-controller",
       "english": "Alerts are enabled",
-      "value": "Notificaties zijn ingeschakeld"
+      "value": "Meldingen zijn ingeschakeld"
     },
     "accessibility_all_competitions": {
       "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
@@ -362,7 +362,7 @@
     "accessibility_expected_goals_non_penalty": {
       "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
       "english": "Non-penalty xG",
-      "value": "Niet-penalty xG"
+      "value": "xG zonder penalty's"
     },
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
@@ -1219,7 +1219,7 @@
     "accessibility_news_alerts_warning": {
       "comment": "Used to warn user about from/to how many news alerts will be received.",
       "english": "We will send you %1$@-%2$@ news alerts per day.",
-      "value": "We sturen je %1$@-%2$@ nieuwsnotificaties per dag."
+      "value": "We sturen je %1$@-%2$@ nieuwsmeldingen per dag."
     },
     "accessibility_news_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of the news page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are news categories such as Top news and Transfers. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
@@ -1239,7 +1239,7 @@
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
       "english": "Non-penalty xG",
-      "value": "xG zonder penalty’s"
+      "value": "xG zonder penalty's"
     },
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
@@ -3501,7 +3501,7 @@
     },
     "common_enable_push": {
       "english": "Enable push notifications",
-      "value": "Push-notificaties inschakelen"
+      "value": "Pushmeldingen inschakelen"
     },
     "common_enable_push_description": {
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
@@ -3536,7 +3536,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Notificaties zijn uitgeschakeld voor FotMob in uw Notificatie Center. Ga naar http://fotmob.com/faq.html om dit probleem op te lossen."
+      "value": "Meldingen zijn uitgeschakeld voor FotMob in je berichtencentrum. Ga naar http://fotmob.com/faq.html om dit probleem op te lossen."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -4198,7 +4198,7 @@
     "common_goals_conceded_team_match_subtitle": {
       "comment": "Total number of goals a player/team has conceded",
       "english": "Total goals conceded",
-      "value": "Totale aantal tegendoelpunten"
+      "value": "Totaal aantal tegendoelpunten"
     },
     "common_goals_conceded_team_match_title": {
       "comment": "Number of goals a team concedes in average per match",
@@ -4229,7 +4229,7 @@
     "common_goals_team_match_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals scored",
-      "value": "Totale aantal goals"
+      "value": "Totaal aantal goals"
     },
     "common_goals_team_match_title": {
       "comment": "Number of goals a team scores in average per match",
@@ -4622,7 +4622,7 @@
     },
     "common_league_has_notifications": {
       "english": "The league has enabled notifications, you must turn off alerts via the Filter menu in Matches tab",
-      "value": "De competitie heeft notificaties actief, je moet deze uitschakelen via het filtermenu in het tabblad Wedstrijden"
+      "value": "De competitie heeft meldingen actief, je moet deze uitschakelen via het filtermenu in het tabblad Wedstrijden"
     },
     "common_league_not_found": {
       "comment": "Empty placeholder if there's no leagues found during filtering (3rd tab)",
@@ -4729,12 +4729,12 @@
     "common_locked_alerts": {
       "comment": "Placeholder is a leaguename or team name. This is an information message saying user cannot change the alerts on this match because he has league or team alerts set",
       "english": "Some of the alerts are locked because you have set alerts on %@",
-      "value": "Sommige waarschuwingen zijn vergrendeld omdat je waarschuwingen hebt ingesteld voor %@"
+      "value": "Sommige meldingen zijn vergrendeld omdat je meldingen hebt ingesteld voor %@"
     },
     "common_locked_alerts_no_leaguename": {
       "comment": "This is an information message saying user cannot change the alerts on this match because he has league alerts set",
       "english": "Some of the alerts are locked because you have set league alerts that apply to this match",
-      "value": "Sommige waarschuwingen kunnen niet worden gewijzigd omdat je competitiewaarschuwingen hebt ingesteld die van toepassing zijn op deze wedstrijd"
+      "value": "Sommige meldingen kunnen niet worden gewijzigd omdat je competitiemeldingen hebt ingesteld die van toepassing zijn op deze wedstrijd"
     },
     "common_log_me_in": {
       "english": "Log me in",
@@ -4891,7 +4891,7 @@
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals",
-      "value": "Totale aantal goals"
+      "value": "Totaal aantal goals"
     },
     "common_mins_played_goal_title": {
       "comment": "Minutes a player needs to score a goal. Minutes played / goals scored.",
@@ -5094,7 +5094,7 @@
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
-      "value": "Je hebt de berichten voor FotMob uitgeschakeld. Schakel ze in via de Instellingen om berichten te ontvangen."
+      "value": "Je hebt de meldingen voor FotMob uitgeschakeld. Schakel ze in via de Instellingen om meldingen te ontvangen."
     },
     "common_not_favorites": {
       "english": "Not favorites",
@@ -5127,7 +5127,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Pas het volume van scorenotificaties aan en wijzig wanneer notificaties worden getoond. Wijzig de tijdzone."
+      "value": "Pas het volume van scoremeldingen aan en wijzig wanneer meldingen worden getoond. Wijzig de tijdzone."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -5152,11 +5152,11 @@
     },
     "common_notifications_off": {
       "english": "Turn off notifications",
-      "value": "Notificaties uit"
+      "value": "Meldingen uitschakelen"
     },
     "common_notifications_on": {
       "english": "Turn on notifications",
-      "value": "Notificaties aan"
+      "value": "Meldingen inschakelen"
     },
     "common_notifications_onboarding": {
       "comment": "Description to explain to users concept of notifications in FotMob",
@@ -5175,7 +5175,7 @@
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "Ontvang notificaties voor officiële hoogtepunten van wedstrijden waarvoor 'Resultaat einde wedstrijd' is ingeschakeld."
+      "value": "Ontvang meldingen voor officiële hoogtepunten van wedstrijden waarvoor 'Resultaat einde wedstrijd' is ingeschakeld."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -5212,7 +5212,7 @@
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
       "english": "In addition to match updates, you can add news alerts for top teams.",
-      "value": "Naast wedstrijdupdates kun je nieuwsnotificaties voor topteams toevoegen."
+      "value": "Naast wedstrijdupdates kun je nieuwsmeldingen voor topteams toevoegen."
     },
     "common_onboarding_news_content": {
       "comment": "A full description of the onboarding popup, which explains that we've just released a new news page",
@@ -5336,7 +5336,7 @@
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
       "english": "Penalties faced",
-      "value": "Penalty’s tegen gekregen"
+      "value": "Penalty's tegen gekregen"
     },
     "common_penalties_short": {
       "english": "Pen",
@@ -5612,7 +5612,7 @@
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
-      "value": "Push-notificaties zijn succesvol geregistreerd"
+      "value": "Pushmeldingen zijn succesvol geregistreerd"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5804,7 +5804,7 @@
     },
     "common_score_volume": {
       "english": "Score alert volume",
-      "value": "Score notificatie volume"
+      "value": "Volume van scoremeldingen"
     },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
@@ -6095,7 +6095,7 @@
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
       "english": "Stay up-to-date with top news notifications for %@",
-      "value": "Blijf up-to-date met nieuwsnotificaties voor %@"
+      "value": "Blijf up-to-date met nieuwsmeldingen voor %@"
     },
     "common_stop": {
       "english": "Stop",
@@ -6241,7 +6241,7 @@
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Een van de teams heeft notificaties actief, je moet deze uitschakelen via de teampagina"
+      "value": "Een van de teams heeft meldingen actief, je moet deze uitschakelen via de teampagina"
     },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
@@ -6279,7 +6279,7 @@
     },
     "common_test_notification": {
       "english": "Test notification",
-      "value": "Test notificatie"
+      "value": "Testmelding"
     },
     "common_thailand": {
       "english": "Thailand",
@@ -6381,7 +6381,7 @@
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
-      "value": "Schakel notificaties"
+      "value": "Meldingen in-/uitschakelen"
     },
     "common_tomorrow": {
       "english": "Tomorrow",
@@ -6521,7 +6521,7 @@
     },
     "common_turn_off_favorite_league_pling": {
       "english": "You have to turn off notifications for favorite teams (long press the &quot;Favorite teams&quot; header) to toggle the notification status on this match",
-      "value": "Je moet notificaties uitschakelen voor favoriete teams (houd &#039;Favoriete teams&#039; ingedrukt) om de notificatie voor deze wedstrijd te kunnen aanpassen"
+      "value": "Je moet meldingen uitschakelen voor favoriete teams (houd &#039;Favoriete teams&#039; ingedrukt) om de melding voor deze wedstrijd te kunnen aanpassen"
     },
     "common_tv_prompt": {
       "english": "TV Listing",
@@ -6593,7 +6593,7 @@
     },
     "common_unregistered_push": {
       "english": "Successfully unregistered for push notifications",
-      "value": "Succesvol afgemeld voor push-notificaties"
+      "value": "Succesvol afgemeld voor pushmeldingen"
     },
     "common_unstar": {
       "english": "Unfollow %@",
@@ -6686,7 +6686,7 @@
     },
     "common_vibrate_caption": {
       "english": "Vibrate on scorealert",
-      "value": "Trillen bij melding"
+      "value": "Trillen bij scoremeldingen"
     },
     "common_video_autoplay": {
       "comment": "Checkbox if the user wants the videos to autoplay in the newsfeed",
@@ -6869,7 +6869,7 @@
     },
     "ios_Changing_notification": {
       "english": "Changing notification...",
-      "value": "Notificatie aanpassen..."
+      "value": "Melding aanpassen..."
     },
     "ios_DEN": {
       "english": "Danish",
@@ -7265,7 +7265,7 @@
     },
     "ios_whoops_no_matches": {
       "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
-      "value": "Oeps, geen wedstrijden! Voeg een notificatie of een ster toe aan een wedstrijd om ze te laten weergeven"
+      "value": "Oeps, geen wedstrijden! Voeg een melding of een ster toe aan een wedstrijd om hem hier te laten verschijnen"
     },
     "ios_wins": {
       "english": "Wins",
@@ -7491,17 +7491,17 @@
     },
     "new_enable_news": {
       "english": "Enable news alerts",
-      "value": "Nieuwsnotificaties inschakelen"
+      "value": "Nieuwsmeldingen inschakelen"
     },
     "new_explanation": {
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
-      "value": "We sturen uitgekozen nieuwsnotificaties voor de teams hieronder. Klik Ok om nieuwsnotificaties in te schakelen en blijf up-to-date."
+      "value": "We sturen uitgekozen nieuwsmeldingen voor de teams hieronder. Klik op OK om nieuwsmeldingen in te schakelen en blijf up-to-date."
     },
     "new_favorite_summary": {
       "comment": "Summary info text",
       "english": "Review your favorite teams and set alerts",
-      "value": "Bekijk je favoriete teams en stel notificaties in"
+      "value": "Bekijk je favoriete teams en stel meldingen in"
     },
     "new_finalTournament": {
       "english": "Final",
@@ -7538,7 +7538,7 @@
     "new_how_to_remove_news_notifications": {
       "comment": "User can open the team page in the app and click the bell icon to remove news alerts",
       "english": "Toggle news notifications by clicking the bell in the team page",
-      "value": "Nieuwsnotificaties in- of uitschakelen door op het belletje op de teampagina te tikken"
+      "value": "Nieuwsmeldingen in- of uitschakelen door op het belletje op de teampagina te tikken"
     },
     "new_intro_text": {
       "comment": "Text shown at splash screen. Please keep it not very much longer than the english original text.",
@@ -7567,7 +7567,7 @@
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
       "english": "Match alerts",
-      "value": "Wedstrijdnotificaties"
+      "value": "Wedstrijdmeldingen"
     },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
@@ -7591,7 +7591,7 @@
     "new_news_vibrate": {
       "comment": "User can decide if his phone should vibrate when getting a news alert",
       "english": "Vibrate on news alerts",
-      "value": "Trillen bij nieuwsnotificaties"
+      "value": "Trillen bij nieuwsmeldingen"
     },
     "new_no_favorites_added": {
       "comment": "Message at the end of a flow informing the user he didn't choose anything. The text has a newline seperator in it.",
@@ -7778,7 +7778,7 @@
     "new_set_alerts": {
       "comment": "Dialog title indicating that the user can set team alerts in this dialog",
       "english": "Set notifications",
-      "value": "Notificaties"
+      "value": "Meldingen instellen"
     },
     "new_set_favorite_team": {
       "english": "Set favorite team",
@@ -7810,7 +7810,7 @@
     },
     "new_sounds_desc": {
       "english": "Change notification sound for the alerts",
-      "value": "Wijzig notificatie geluiden voor meldingen"
+      "value": "Wijzig de geluiden voor je meldingen"
     },
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
@@ -7867,7 +7867,7 @@
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
-      "value": "We sturen je alleen nieuwsnotificaties bij toptransfers"
+      "value": "We sturen je alleen nieuwsmeldingen bij toptransfers"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -8069,7 +8069,7 @@
     },
     "notifications_alert_goal_removed_penalty": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
-      "value": "%@ %@-%@ %@\\n%@scorecorrectie"
+      "value": "%@ %@-%@ %@\\n%@Scorecorrectie"
     },
     "notifications_alert_goal_scorer": {
       "comment": "No need to translate this",
@@ -8176,7 +8176,7 @@
     "notifications_at_least_one": {
       "comment": "An error message informing user that he has to pick at least one of the alert options (goals, penalties, half time ++)",
       "english": "You must select at least one alert",
-      "value": "Je moet minstens één waarschuwing kiezen"
+      "value": "Je moet minstens één melding kiezen"
     },
     "notifications_attack": {
       "english": "Attack",
@@ -8378,11 +8378,11 @@
     "notifications_disable_dnd_to_hear_notifications": {
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
-      "value": "Schakel 'Niet storen' uit om notificatiegeluiden te kunnen horen."
+      "value": "Schakel 'Niet storen' uit om meldingsgeluiden te kunnen horen."
     },
     "notifications_disable_push": {
       "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Weet je het zeker? Doe dit alleen als de notificaties voor problemen zorgen."
+      "value": "Weet je het zeker? Doe dit alleen als de meldingen voor problemen zorgen."
     },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
@@ -8586,12 +8586,12 @@
     "notifications_fotmob_notifications_disabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications disabled",
-      "value": "FotMob notificaties uitgeschakeld"
+      "value": "FotMob-meldingen uitgeschakeld"
     },
     "notifications_fotmob_notifications_enabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications enabled",
-      "value": "FotMob notificaties ingeschakeld"
+      "value": "FotMob-meldingen ingeschakeld"
     },
     "notifications_france": {
       "english": "France",
@@ -8691,7 +8691,7 @@
     "notifications_increase_volume_to_hear_notifications": {
       "comment": "Shown when the user has muted the notifications",
       "english": "Please increase the alert volume to hear notification sounds.",
-      "value": "Verhoog het meldingsvolume om notificatiegeluiden te kunnen horen."
+      "value": "Verhoog het meldingsvolume om deze geluiden te kunnen horen."
     },
     "notifications_increase_volume_to_preview_sound": {
       "comment": "Shown when user has muted the media",
@@ -9422,29 +9422,29 @@
     "notifications_notifications_2": {
       "comment": "Button with shortcut to system settings",
       "english": "Notifications",
-      "value": "Notificaties"
+      "value": "Meldingen"
     },
     "notifications_notifications_are_blocked": {
       "english": "- Notifications for this app have been disabled",
-      "value": "- Notificaties voor deze app zijn uitgeschakeld"
+      "value": "- Meldingen voor deze app zijn uitgeschakeld"
     },
     "notifications_notifications_are_blocked_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are blocked",
       "english": "- Notifications are blocked for some alerts: %@",
-      "value": "- Notificaties zijn geblokkeerd voor sommige waarschuwingen: %@"
+      "value": "- Sommige meldingstypen zijn geblokkeerd: %@"
     },
     "notifications_notifications_are_muted": {
       "english": "- Notifications are muted",
-      "value": "- Notificaties zijn gedempt"
+      "value": "- Meldingen zijn gedempt"
     },
     "notifications_notifications_are_muted_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are muted",
       "english": "- Notifications are muted for some alerts: %@",
-      "value": "- Notificaties zijn gedempt voor sommige waarschuwingen: %@"
+      "value": "- Sommige meldingstypen zijn gedempt: %@"
     },
     "notifications_notifications_are_muted_simple": {
       "english": "Notifications are muted",
-      "value": "Notificaties zijn gedempt"
+      "value": "Meldingen zijn gedempt"
     },
     "notifications_notifications_count": {
       "comment": "Status string indication how many favorites you got and how many with notifications",
@@ -9453,7 +9453,7 @@
     },
     "notifications_notifications_may_not_be_heard": {
       "english": "Notifications may currently not be heard and/or seen because:",
-      "value": "Notificaties zijn momenteel misschien niet te horen en/of zien, omdat:"
+      "value": "Meldingen zijn momenteel misschien niet te horen en/of te zien, omdat:"
     },
     "notifications_off": {
       "english": "Off",
@@ -9626,7 +9626,7 @@
     },
     "notifications_rating_team_subtitle": {
       "english": "Total matches",
-      "value": "Totaal aantal wedstrijden"
+      "value": "Totaal wedstrijden"
     },
     "notifications_rating_team_title": {
       "comment": "We give each team a performance rating based on how the player performs. This is a title where we rank all the teams based on their performance.",
@@ -9749,17 +9749,17 @@
     "notifications_set_quick_toggle_notifications": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts on a match",
       "english": "Default match notifications",
-      "value": "Standaard wedstrijd meldingen"
+      "value": "Standaard wedstrijdmeldingen"
     },
     "notifications_set_quick_toggle_notifications_desc": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts",
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
-      "value": "Stel in welke meldingen ingeschakeld zijn als je op het belletje drukt op wedstrijd paginas."
+      "value": "Stel in welke meldingen ingeschakeld zijn als je op het belletje op wedstrijdpagina's tikt."
     },
     "notifications_set_standard_notifications": {
       "comment": "A menu choice asking the user to set a list of standard notifications for matches",
       "english": "Set standard notifications",
-      "value": "Stel standaardnotificaties in"
+      "value": "Stel standaardmeldingen in"
     },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
