@@ -49,7 +49,7 @@
     "accessibility_aerials_won_percent": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won %",
-      "value": "Luftdueller vunna %"
+      "value": "Vunna luftdueller %"
     },
     "accessibility_age_confirmation": {
       "comment": "Popup header - used when a user needs to consent to being 18+.",
@@ -124,7 +124,7 @@
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
       "english": "Assists per 90",
-      "value": "Assists per 90"
+      "value": "Assister per 90"
     },
     "accessibility_attackers": {
       "english": "Forwards",
@@ -507,12 +507,12 @@
     "accessibility_goals_and_assists": {
       "comment": "Label used in stats for the sum of goals and assists",
       "english": "Goals + Assists",
-      "value": "Mål + målpassningar"
+      "value": "Mål + assister"
     },
     "accessibility_goals_and_assists_per_90": {
       "comment": "Label used in stats for the sum of goals and assists per 90 min",
       "english": "Goals + Assists per 90",
-      "value": "Mål + assists per 90"
+      "value": "Mål + assister per 90"
     },
     "accessibility_goals_conceded_per_90": {
       "comment": "Label used in stats for goals conceded per 90 for keepers.",
@@ -1611,12 +1611,12 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "Innehav vunnet på sista tredjedelen av planen per 90"
+      "value": "Bollvinster i sista tredjedelen per 90"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
       "english": "Possession won midfield per 90",
-      "value": "Innehav vunnet på mittfältet per 90"
+      "value": "Bollvinster på mittfältet per 90"
     },
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
@@ -2174,7 +2174,7 @@
     "accessibility_table_position": {
       "comment": "The league/table position of a team (like 1st, 22nd, etc).",
       "english": "Table position",
-      "value": "Tabellställning"
+      "value": "Tabellplacering"
     },
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
@@ -2373,7 +2373,7 @@
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
       "english": "Touches in opposition box",
-      "value": "Beröringar i motståndarlagets straffområde"
+      "value": "Bollkontakter i motståndarnas straffområde"
     },
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
@@ -2547,7 +2547,7 @@
     },
     "common_ShotsOffTarget": {
       "english": "Shots off target",
-      "value": "Skott utanför"
+      "value": "Skott utanför mål"
     },
     "common_ShotsOnTarget": {
       "english": "Shots on target",
@@ -3092,7 +3092,7 @@
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
       "english": "Clean sheet",
-      "value": "Håll nollan"
+      "value": "Hållen nolla"
     },
     "common_clean_sheet_subtitle": {
       "english": "Total matches",
@@ -3104,11 +3104,11 @@
     },
     "common_clean_sheet_team_title": {
       "english": "Clean sheets",
-      "value": "Hållt nollan"
+      "value": "Hållna nollor"
     },
     "common_clean_sheet_title": {
       "english": "Clean sheets",
-      "value": "Hållt nollan"
+      "value": "Hållna nollor"
     },
     "common_clear": {
       "comment": "A button label removing all the search filters. It will clear the filters the user has set.",
@@ -3402,7 +3402,7 @@
     "common_duels_won_lost": {
       "comment": "Header of a graphic showing how many duels (header + tackles) the player has won or lost",
       "english": "Duels won / lost",
-      "value": "Vunna / förlorade närkamper"
+      "value": "Vunna / förlorade dueller"
     },
     "common_ecuador": {
       "english": "Ecuador",
@@ -3616,7 +3616,7 @@
     "common_expected_assists": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
       "english": "Expected assists (xA)",
-      "value": "Förväntade assist (xA)"
+      "value": "Förväntade assister (xA)"
     },
     "common_expected_assists_per_90": {
       "comment": "Don't translate it unless there is a term in your language that makes sense.",
@@ -3839,7 +3839,7 @@
     },
     "common_fouls": {
       "english": "Fouls committed",
-      "value": "Regelfel"
+      "value": "Regelbrott"
     },
     "common_fouls_short": {
       "comment": "Column header in a referee stats card, rendered directly above its own value: \"Fouls\" sits above \"18.8 / match\". Translate as the bare plural noun for fouls and nothing else - no qualifier such as \"committed\", \"called\", \"awarded\" or \"per match\", since the value line below already carries that. Reuse whatever root word for a foul that \"foul\", \"fouls\" and \"fouls_per_match\" already use in this language, but drop their qualifiers - e.g. where \"fouls\" reads \"Fouls committed\", this key is just \"Fouls\".",
@@ -3884,102 +3884,102 @@
     "common_fun_fact_joint_highest_top_speed": {
       "comment": "Example: had the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
       "english": "Had the joint-highest top speed in the match (%1$@)",
-      "value": "Hade delat matchens högsta maxhastighet (%1$@)"
+      "value": "Hade matchens högsta maxhastighet (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_highest_top_speed_live": {
       "comment": "Example: has the joint-highest top speed in the match (35.7 km/h). Used when multiple players are tied for the highest top speed.",
       "english": "Has the joint-highest top speed in the match (%1$@)",
-      "value": "Har delat matchens högsta maxhastighet (%1$@)"
+      "value": "Har matchens högsta maxhastighet (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_defensive_contributions": {
       "comment": "Example: had the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Had the joint-most defensive contributions (%1$@)",
-      "value": "Var delad etta i försvarsingripanden (%1$@)"
+      "value": "Hade flest försvarsingripanden (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_defensive_contributions_live": {
       "comment": "Example: has the joint-most defensive contributions (8). Used when multiple players are tied. Defensive contributions include tackles, interceptions, blocks, and clearances.",
       "english": "Has the joint-most defensive contributions (%1$@)",
-      "value": "Har flest försvarsingripanden tillsammans med andra (%1$@)"
+      "value": "Har flest försvarsingripanden (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_distance_covered": {
       "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
       "english": "Covered the joint-most distance (%1$@) in the match",
-      "value": "Tillryggalade delad längst sträcka (%1$@) i matchen"
+      "value": "Hade längst tillryggalagd sträcka (%1$@) i matchen (delad förstaplats)"
     },
     "common_fun_fact_joint_most_distance_covered_live": {
       "comment": "Example: covered the joint-most distance (12.3 km) in the match. Used when multiple players are tied for the most distance covered.",
       "english": "Has covered the joint-most distance (%1$@) in the match",
-      "value": "Har täckt mest sträcka (%1$@) i matchen (delad etta)"
+      "value": "Har längst tillryggalagd sträcka (%1$@) i matchen (delad förstaplats)"
     },
     "common_fun_fact_joint_most_dribbles": {
       "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
       "english": "Completed the joint-most dribbles (%1$@)",
-      "value": "Hade flest lyckade dribblingar (delat med andra) (%1$@)"
+      "value": "Hade flest lyckade dribblingar (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_dribbles_live": {
       "comment": "Example: completed the joint-most dribbles (4). Used when multiple players are tied for the most dribbles.",
       "english": "Has completed the joint-most dribbles (%1$@)",
-      "value": "Har gjort flest lyckade dribblingar tillsammans med andra (%1$@)"
+      "value": "Har flest lyckade dribblingar (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_key_passes_created": {
       "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
       "english": "Created the joint-most chances (%1$@)",
-      "value": "Delade förstaplatsen för skapade chanser (%1$@)"
+      "value": "Skapade flest chanser (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_key_passes_created_live": {
       "comment": "Example: created the joint-most chances (3). Used when multiple players are tied for the most chances created.",
       "english": "Has created the joint-most chances (%1$@)",
-      "value": "Har skapat flest chanser (delat) (%1$@)"
+      "value": "Har skapat flest chanser (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_passes": {
       "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
       "english": "Completed the joint-most passes (%1$@)",
-      "value": "Har delat flest precisa passningar (%1$@)"
+      "value": "Slog flest precisa passningar (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_passes_live": {
       "comment": "Example: completed the joint-most passes (95). Used when multiple players are tied for the most passes.",
       "english": "Has completed the joint-most passes (%1$@)",
-      "value": "Har delat flest precisa passningar (%1$@)"
+      "value": "Har slagit flest precisa passningar (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_shots": {
       "comment": "Example: took the joint-most shots (5). Used when multiple players are tied for the most shots.",
       "english": "Took the joint-most shots (%1$@)",
-      "value": "Sköt flest skott (delat) (%1$@)"
+      "value": "Hade flest skott (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_shots_live": {
       "comment": "Example: has taken the joint-most shots (5). Used when multiple players are tied for the most shots.",
       "english": "Has taken the joint-most shots (%1$@)",
-      "value": "Har skjutit flest skott tillsammans med andra (%1$@)"
+      "value": "Har flest skott (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_touches": {
       "comment": "Example: had the joint-most touches (95). Used when multiple players are tied for the most touches.",
       "english": "Had the joint-most touches (%1$@)",
-      "value": "Hade flest bollkontakter (delat, %1$@)"
+      "value": "Hade flest bollkontakter (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_most_touches_live": {
       "comment": "Example: has the joint-most touches (95). Used when multiple players are tied for the most touches.",
       "english": "Has the joint-most touches (%1$@)",
-      "value": "Har flest bollkontakter tillsammans med andra (%1$@)"
+      "value": "Har flest bollkontakter (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_opp_box_touches": {
       "comment": "Example: had the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
       "english": "Had the joint-most touches (%1$@) in the opposition box",
-      "value": "Hade flest beröringar (%1$@) i motståndarlagets straffområde (delad förstaplats)"
+      "value": "Hade flest bollkontakter (%1$@) i motståndarnas straffområde (delad förstaplats)"
     },
     "common_fun_fact_joint_opp_box_touches_live": {
       "comment": "Example: has the joint-most touches (6) in the opposition box. Used when multiple players are tied for the most touches in the opposition box.",
       "english": "Has the joint-most touches (%1$@) in the opposition box",
-      "value": "Har tillsammans med andra flest bollberöringar (%1$@) i motståndarnas straffområde"
+      "value": "Har flest bollkontakter (%1$@) i motståndarnas straffområde (delad förstaplats)"
     },
     "common_fun_fact_joint_woodwork": {
       "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
       "english": "Hit the woodwork the joint-most times (%1$@)",
-      "value": "Träffade ribba eller stolpe flest gånger (delat med andra) (%1$@)"
+      "value": "Träffade ribban eller stolpen flest gånger (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_joint_woodwork_live": {
       "comment": "Example: hit the woodwork the joint-most times (2). Used when multiple players are tied for hitting the woodwork the most times.",
       "english": "Has hit the woodwork the joint-most times (%1$@)",
-      "value": "Har träffat ribban eller stolpen flest gånger (delad etta) (%1$@)"
+      "value": "Har träffat ribban eller stolpen flest gånger (%1$@) (delad förstaplats)"
     },
     "common_fun_fact_made_mistake_led_to_goal": {
       "comment": "Example: committed an error that led to a goal.",
@@ -4071,12 +4071,12 @@
     "common_fun_fact_opp_box_touches": {
       "comment": "Ronaldo had the most touches (12) in the opposition box.",
       "english": "Had the most touches (%1$@) in the opposition box",
-      "value": "Hade flest beröringar (%1$@) i motståndarlagets straffområde"
+      "value": "Hade flest bollkontakter (%1$@) i motståndarnas straffområde"
     },
     "common_fun_fact_opp_box_touches_live": {
       "comment": "Ronaldo has the most touches (43) in the opposition box.",
       "english": "Has the most touches (%1$@) in the opposition box",
-      "value": "Har flest beröringar (%1$@) i motståndarlagets straffområde"
+      "value": "Har flest bollkontakter (%1$@) i motståndarnas straffområde"
     },
     "common_fun_fact_own_goal": {
       "comment": "Example: scored an own goal.",
@@ -4128,8 +4128,8 @@
         "other": "Has hit the woodwork %d times"
       },
       "plurals": {
-        "one": "Har träffat ribba eller stolpe en gång",
-        "other": "Har träffat ribba eller stolpe %d gånger"
+        "one": "Har träffat ribban eller stolpen en gång",
+        "other": "Har träffat ribban eller stolpen %d gånger"
       }
     },
     "common_fun_fact_woodwork_plurals": {
@@ -4139,8 +4139,8 @@
         "other": "Hit the woodwork %d times"
       },
       "plurals": {
-        "one": "Träffade ribba eller stolpe en gång",
-        "other": "Träffade ribba eller stolpe %d gånger"
+        "one": "Träffade ribban eller stolpen en gång",
+        "other": "Träffade ribban eller stolpen %d gånger"
       }
     },
     "common_generalUpper": {
@@ -4490,7 +4490,7 @@
     "common_keeper_sweeper": {
       "comment": "Keeper cleared the ball outside the penalty area, acting as a sweeper",
       "english": "Acted as sweeper",
-      "value": "Målvakten agerade rensare"
+      "value": "Agerade som sweeper"
     },
     "common_kg": {
       "comment": "Weight of person in kg",
@@ -4700,7 +4700,7 @@
     },
     "common_lineup": {
       "english": "Lineup",
-      "value": "Lag"
+      "value": "Laguppställning"
     },
     "common_lineup_builder_more_desc": {
       "comment": "The fotmob lineup builder feature description in the more tab",
@@ -5193,7 +5193,7 @@
     "common_on_loan_transfers": {
       "comment": "Transfer status: player moved on loan",
       "english": "On loan",
-      "value": "Utlånad"
+      "value": "På lån"
     },
     "common_onboarding_fantasy_scores": {
       "english": "Tap this to see official fantasy points! (Only available in certain leagues)",
@@ -5502,20 +5502,20 @@
     },
     "common_poss_won_att_3rd_subtitle": {
       "english": "Possession won midfield",
-      "value": "Bollinnehav vunnet på mittfältet"
+      "value": "Bollvinster på mittfältet"
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "Bollinnehav vunnet på mittfältet"
+      "value": "Bollvinster på mittfältet"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Vunna bollinnehav på sista tredjedelen"
+      "value": "Bollvinster i sista tredjedelen"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Bollvinster i offensiv tredjedel per match"
+      "value": "Bollvinster i sista tredjedelen per match"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5653,12 +5653,12 @@
     "common_recoveries": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries",
       "english": "Recoveries",
-      "value": "Återvinningar"
+      "value": "Återerövringar"
     },
     "common_recoveries_per_90": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries. See recoveries. Also make sure to reference the other per 90 stats like chances_created_per_90 to we write them the same way.",
       "english": "Recoveries per 90",
-      "value": "Återvinningar per 90"
+      "value": "Återerövringar per 90"
     },
     "common_red_cards": {
       "english": "Red cards",
@@ -5674,11 +5674,11 @@
     },
     "common_relegation": {
       "english": "Relegation",
-      "value": "Degradering"
+      "value": "Nedflyttning"
     },
     "common_relegationqual": {
       "english": "Relegation qualification",
-      "value": "Kvalmatch"
+      "value": "Nedflyttningskval"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",
@@ -6143,7 +6143,7 @@
     "common_suggested": {
       "comment": "Onboarding: header for the top players list",
       "english": "Suggested",
-      "value": "Föreslagen"
+      "value": "Föreslagna"
     },
     "common_supporter_club_pitch_1": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
@@ -6163,7 +6163,7 @@
     "common_surface": {
       "comment": "Type of grass that the football field has. Can be translated as \"Pitch type\" or \"Surface type\" as well. Options can be grass or artificial.",
       "english": "Surface",
-      "value": "Yta"
+      "value": "Underlag"
     },
     "common_surface_artificial": {
       "comment": "Type of grass that the football field has. Options can be grass or artificial.",
@@ -6831,7 +6831,7 @@
     },
     "common_years": {
       "english": "years",
-      "value": "År"
+      "value": "år"
     },
     "common_yellow_card_subtitle": {
       "english": "Red cards",
@@ -7252,7 +7252,7 @@
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
-      "value": "Flest målpassningar"
+      "value": "Assistliga"
     },
     "ios_top_goalscorer": {
       "english": "Top goal scorer",
@@ -7962,12 +7962,12 @@
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
       "english": "Aerial duels lost",
-      "value": "Luftdueller förlorade"
+      "value": "Förlorade luftdueller"
     },
     "notifications_aerials_won": {
       "comment": "Stat indicating how many aerial duels the player or team has won",
       "english": "Aerial duels won",
-      "value": "Luftdueller vunna"
+      "value": "Vunna luftdueller"
     },
     "notifications_albania": {
       "english": "Albania",
@@ -8224,7 +8224,7 @@
     "notifications_big_chance_created_subtitle": {
       "comment": "See \"assists\" translation",
       "english": "Total assists",
-      "value": "Totalt antal målpassningar"
+      "value": "Totalt antal assister"
     },
     "notifications_big_chance_created_team_subtitle": {
       "comment": "Total number of goals the team has scored",
@@ -8234,7 +8234,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Stora chanser skapade"
+      "value": "Skapade stora chanser"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -8249,12 +8249,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Stora chanser missade"
+      "value": "Missade stora chanser"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Stora chanser missade"
+      "value": "Missade stora chanser"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -9292,7 +9292,7 @@
     "notifications_minutes_played": {
       "comment": "How many minutes the player has been on field",
       "english": "Minutes played",
-      "value": "Minuter spelade"
+      "value": "Spelade minuter"
     },
     "notifications_minutes_short": {
       "comment": "Abbrevation of minutes",
@@ -10008,7 +10008,7 @@
     "notifications_touches": {
       "comment": "How many times the player touched the ball during the match",
       "english": "Touches",
-      "value": "Bollkontakt"
+      "value": "Bollkontakter"
     },
     "notifications_transfer_type_back_from_loan": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
@@ -10795,7 +10795,7 @@
     "seo_expected_goals_set_play_conceded": {
       "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
       "english": "xG set play conceded",
-      "value": "xG insläppta på fasta situationer"
+      "value": "Insläppta xG på fasta situationer"
     },
     "seo_expected_return_date_about_1_2_weeks": {
       "comment": "A text describing for how long a player is out injured or absent.",
