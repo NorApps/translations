@@ -3200,7 +3200,7 @@
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
       "english": "Conceded penalty",
-      "value": "Penalty acordate"
+      "value": "Penalty-uri provocate"
     },
     "common_contact": {
       "comment": "Menu option for contacting us",

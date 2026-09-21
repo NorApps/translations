@@ -287,7 +287,7 @@
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
       "english": "Conceded penalty",
-      "value": "Penales concedidos"
+      "value": "Penales en contra"
     },
     "common_errors_led_to_goal": {
       "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",

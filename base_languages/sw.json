@@ -1501,7 +1501,7 @@
     "accessibility_penalty_goals_conceded": {
       "comment": "Label used in stats for penalty goals conceded",
       "english": "Penalty goals conceded",
-      "value": "Mabao ya Penaliti yamekubaliwa"
+      "value": "Mabao ya Penalti yamekubaliwa"
     },
     "accessibility_penalty_save_percent": {
       "comment": "Share of the penalties a keeper faced that they saved. Season stat on the player profile.",
@@ -2656,7 +2656,7 @@
     },
     "common_afterpenalties": {
       "english": "After penalties",
-      "value": "Baada ya Penali"
+      "value": "Baada ya Penalti"
     },
     "common_against": {
       "english": "against",
@@ -3195,7 +3195,7 @@
     "common_conceded_penalties": {
       "comment": "Label for number of penalties a player has caused in the match.",
       "english": "Conceded penalty",
-      "value": "Panalti iliyokubaliwa"
+      "value": "Penalti iliyokubaliwa"
     },
     "common_contact": {
       "comment": "Menu option for contacting us",
@@ -4920,7 +4920,7 @@
     },
     "common_missed_penalty": {
       "english": "Missed penalty",
-      "value": "Penali ikikosa"
+      "value": "Penalti ikikosa"
     },
     "common_more": {
       "comment": "Last tab on the main screen, which contains settings, TV guide, etc.",
@@ -5361,7 +5361,7 @@
     "common_penalty_conceded_team_title": {
       "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "Penali zilioruhusiwa"
+      "value": "Penalti zilioruhusiwa"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
@@ -5383,7 +5383,7 @@
     "common_penalty_won_title": {
       "comment": "Team/Player has received a penalty because of a foul",
       "english": "Penalties awarded",
-      "value": "Penali zimepewa"
+      "value": "Penalti zimepewa"
     },
     "common_percent": {
       "comment": "Accessibility label for percentage",
@@ -6649,7 +6649,7 @@
     "common_var_penalty_miss_retake": {
       "comment": "Penalty miss had to be retaken due to Video Assistant referee. Note that the player missed the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty miss cancelled\" with no reference to Video Assistant referee.",
       "english": "Missed penalty - to be retaken",
-      "value": "Penali iliyokosa - irudiwe"
+      "value": "Penalti iliyokosa - irudiwe"
     },
     "common_var_pending": {
       "comment": "Information that the Video Assistant Referee is checking something",

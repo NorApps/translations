@@ -5361,12 +5361,12 @@
     "common_penalty_conceded_team_title": {
       "comment": "Team has caused/committed penalties against themselves. \"Conceded\"",
       "english": "Penalties conceded",
-      "value": "Yapılan penaltı"
+      "value": "Sebep olunan penaltı"
     },
     "common_penalty_conceded_title": {
       "comment": "Team/Player has caused a penalty to be given against his team",
       "english": "Penalties conceded",
-      "value": "Yapılan penaltı"
+      "value": "Sebep olunan penaltı"
     },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
