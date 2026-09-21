@@ -497,7 +497,7 @@
     "accessibility_goal_type": {
       "comment": "Used for goal types in player profile",
       "english": "Goal type",
-      "value": "Tipo di goal"
+      "value": "Tipo di gol"
     },
     "accessibility_goalkeeping": {
       "comment": "This is a header for goalkeeper stats like saves, goals conceded and more. May be translated as \"Keeper stats\" or \"Goalkeeper stats\" if there isn't a good translation for this.",
@@ -637,7 +637,7 @@
     "accessibility_insights_chances_created_rank_in_competition": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
       "english": "Ranked %1$@ in big chances created (%2$@ big chances)",
-      "value": "In %1$@ posizione nella classifica delle occasioni da gol create (%2$@ occasioni da gol)"
+      "value": "In %1$@ posizione nella classifica delle grandi occasioni create (%2$@ grandi occasioni)"
     },
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
@@ -672,7 +672,7 @@
     "accessibility_insights_goals_team": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Have scored 12 goals in their last 5 matches",
       "english": "Have scored %1$@ goals in their last %2$@ matches",
-      "value": "ha segnato %1$@ goal nei suoi ultimi %2$@ incontri"
+      "value": "ha segnato %1$@ gol nei suoi ultimi %2$@ incontri"
     },
     "accessibility_insights_gone_without_win": {
       "comment": "The team has not won in a particular number of consecutive away matches. Example: \"Have gone 7 matches without a win\"",
@@ -732,7 +732,7 @@
     "accessibility_insights_player_chances_created_rank_in_competition": {
       "comment": "A player which is one of the top players in terms of big chances created in the competition. Example: \"Erling Haaland is ranked 1st in big chances created in the competition (20)\"",
       "english": "%1$@ is ranked %2$@ in big chances created in the competition (%3$@)",
-      "value": "%1$@ occupa la %2$@ posizione nella classifica delle occasioni da gol create nella competizione (%3$@)"
+      "value": "%1$@ occupa la %2$@ posizione nella classifica delle grandi occasioni create nella competizione (%3$@)"
     },
     "accessibility_insights_player_goals_scored": {
       "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
@@ -1240,7 +1240,7 @@
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
       "english": "Non-penalty xG",
-      "value": "xG esclusi i rigori"
+      "value": "xG senza rigori"
     },
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
@@ -2498,12 +2498,12 @@
     "accessibility_xG_onboarding_description": {
       "comment": "A short description of the xG system and how it works.",
       "english": "Expected goals is a measurement of the quality of a shot.\\n\\nA team’s xG number for a match is an indication of how many goals they could have been expected to score, given the chances they created.",
-      "value": "I goal attesi sono una misura della qualità di un tiro.\\n\\nIl numero di xG di una squadra per una partita è un'indicazione di quanti gol ci si poteva aspettare che segnasse, date le occasioni che ha creato."
+      "value": "I gol attesi sono una misura della qualità di un tiro.\\n\\nIl numero di xG di una squadra per una partita è un'indicazione di quanti gol ci si poteva aspettare che segnasse, date le occasioni che ha creato."
     },
     "accessibility_xG_onboarding_header": {
       "comment": "A header for xG-onboarding",
       "english": "What does Expected Goals (xG) mean?",
-      "value": "Cosa significa goal attesi (xG)?"
+      "value": "Cosa significa gol attesi (xG)?"
     },
     "accessibility_xg_and_xa": {
       "comment": "Label used in stats for the sum of expexted goals and expexted assists",
@@ -2674,7 +2674,7 @@
     "common_alert_goal_disallowed_foul_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to a foul earlier in the play.",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed due to foul (VAR)",
-      "value": "%@ %@-%@ %@\\n%@Goal annullato a causa di un fallo (VAR)"
+      "value": "%@ %@-%@ %@\\n%@Gol annullato a causa di un fallo (VAR)"
     },
     "common_alert_goal_disallowed_goal_line_technology": {
       "comment": "Disallowed the goal due the ball not over the line",
@@ -2684,22 +2684,22 @@
     "common_alert_goal_disallowed_offside_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due to an offside (football term)",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - offside (VAR)",
-      "value": "%@ %@-%@ %@\\n%@Goal annullato - offside (VAR)"
+      "value": "%@ %@-%@ %@\\n%@Gol annullato - offside (VAR)"
     },
     "common_alert_goal_disallowed_out_of_field_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal due the ball had been out of the pitch before the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed - ball out of field (VAR)",
-      "value": "%@ %@-%@ %@\\n%@Goal annullato - pallone fuori campo (VAR)"
+      "value": "%@ %@-%@ %@\\n%@Gol annullato - pallone fuori campo (VAR)"
     },
     "common_alert_goal_disallowed_var": {
       "comment": "VAR Video Assistant Referee (https://en.wikipedia.org/wiki/Video_assistant_referee) disallowed the goal",
       "english": "%@ %@-%@ %@\\n%@Goal disallowed (VAR)",
-      "value": "%@ %@-%@ %@\\n%@Goal annullato (VAR)"
+      "value": "%@ %@-%@ %@\\n%@Gol annullato (VAR)"
     },
     "common_alert_highlights": {
       "comment": "User gets an alert when the official highlights are available. Placeholders are team names and the end score of the match.",
       "english": "%@ %@-%@ %@\\nOfficial highlights",
-      "value": "%@ %@-%@ %@\\nAzioni salienti ufficiali"
+      "value": "%@ %@-%@ %@\\nMomenti salienti ufficiali"
     },
     "common_all": {
       "comment": "Onboarding: header for all non-top players list",
@@ -2822,7 +2822,7 @@
     },
     "common_average_goals_last3_both": {
       "english": "%1$@ have an average of %3$@ goals in their last three matches and %2$@ have an average of %4$@.",
-      "value": "%1$@ ha una media di %3$@ goal nei suoi ultimi tre incontri mentre %2$@ ha una media di %4$@ goal."
+      "value": "%1$@ ha una media di %3$@ gol nei suoi ultimi tre incontri mentre %2$@ ha una media di %4$@ gol."
     },
     "common_awarded_win": {
       "comment": "Match status. The match is over and one of the teams has been awarded the win, for example due to the opposing team not showing up.",
@@ -3093,7 +3093,7 @@
     "common_clean_sheet": {
       "comment": "Keeper has kept a clean sheet, he has not let in any goals",
       "english": "Clean sheet",
-      "value": "Nessun goal subito"
+      "value": "Nessun gol subito"
     },
     "common_clean_sheet_subtitle": {
       "english": "Total matches",
@@ -3546,7 +3546,7 @@
     "common_errors_led_to_goal": {
       "comment": "A label for number of errors a player has made that resulted in a goal for the opposition",
       "english": "Errors led to goal",
-      "value": "Errori che hanno portato al goal"
+      "value": "Errori che hanno portato al gol"
     },
     "common_estimated_player_value": {
       "comment": "A transfer center label used for player transfers displaying the players estimated player/transfer value",
@@ -3657,7 +3657,7 @@
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "Goal attesi nello specchio (xGOT)"
+      "value": "Gol attesi nello specchio (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -4160,7 +4160,7 @@
     },
     "common_goal": {
       "english": "Goal!",
-      "value": "Goal!"
+      "value": "Gol!"
     },
     "common_goal_assist_subtitle": {
       "comment": "Set piece is corner kick, free-kick or throw in",
@@ -4199,38 +4199,38 @@
     "common_goals_conceded_team_match_subtitle": {
       "comment": "Total number of goals a player/team has conceded",
       "english": "Total goals conceded",
-      "value": "Totale goal subiti"
+      "value": "Totale gol subiti"
     },
     "common_goals_conceded_team_match_title": {
       "comment": "Number of goals a team concedes in average per match",
       "english": "Goals conceded per match",
-      "value": "Goal subiti per partita"
+      "value": "Gol subiti per partita"
     },
     "common_goals_from_bench": {
       "comment": "It is goals a player has scored when he began the match as a substitute",
       "english": "Goals from bench",
-      "value": "Goal dalla panchina"
+      "value": "Gol dalla panchina"
     },
     "common_goals_pen": {
       "english": "Goals (Penalties)",
-      "value": "Goal (Rigori)"
+      "value": "Gol (Rigori)"
     },
     "common_goals_scored": {
       "english": "Goals scored",
-      "value": "Goal segnati"
+      "value": "Gol segnati"
     },
     "common_goals_subtitle": {
       "english": "Penalty goals",
-      "value": "Goal su rigore"
+      "value": "Gol su rigore"
     },
     "common_goals_team": {
       "english": "%1$@ have scored %2$@ goals in their last %3$@ matches.",
-      "value": "%1$@ ha segnato %2$@ goal nei suoi ultimi %3$@ incontri"
+      "value": "%1$@ ha segnato %2$@ gol nei suoi ultimi %3$@ incontri"
     },
     "common_goals_team_match_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals scored",
-      "value": "Totale goal segnati"
+      "value": "Totale gol segnati"
     },
     "common_goals_team_match_title": {
       "comment": "Number of goals a team scores in average per match",
@@ -4243,7 +4243,7 @@
     },
     "common_goals_total_last_3_both": {
       "english": "%1$@ have scored %4$@ goals in their last %3$@ matches, while %2$@ have scored %5$@.",
-      "value": "%1$@ ha segnato %4$@ goal nei suoi ultimi %3$@ incontri, mentre %2$@ ne ha segnati %5$@"
+      "value": "%1$@ ha segnato %4$@ gol nei suoi ultimi %3$@ incontri, mentre %2$@ ne ha segnati %5$@"
     },
     "common_goalstreak_team": {
       "english": "%1$@ have scored in their last %2$@ matches.",
@@ -4860,7 +4860,7 @@
     },
     "common_message_sent": {
       "english": "Tip: Long press a goal or other event to share it.",
-      "value": "Consiglio: tieni premuto un goal o un altro evento per condividerlo"
+      "value": "Consiglio: tieni premuto un gol o un altro evento per condividerlo"
     },
     "common_metric_system": {
       "comment": "A setting to toggle the measurement system to metric (cm/kg) imperial instead of imperial (feet/inches)",
@@ -4892,12 +4892,12 @@
     "common_mins_played_goal_subtitle": {
       "comment": "Total number of goals a player/team has scored",
       "english": "Total goals",
-      "value": "Goal totali"
+      "value": "Gol totali"
     },
     "common_mins_played_goal_title": {
       "comment": "Minutes a player needs to score a goal. Minutes played / goals scored.",
       "english": "Minutes per goal",
-      "value": "Minuti per goal"
+      "value": "Minuti per gol"
     },
     "common_minutes_ago": {
       "english_plurals": {
@@ -5128,7 +5128,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Regola il volume delle notifiche per i goal e scegli quando visualizzarle. Cambia il fuso orario."
+      "value": "Regola il volume delle notifiche per i gol e scegli quando visualizzarle. Cambia il fuso orario."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -5136,11 +5136,11 @@
     },
     "common_notification_sound": {
       "english": "Goal sound",
-      "value": "Suono per il goal"
+      "value": "Suono per il gol"
     },
     "common_notification_sound_fav": {
       "english": "Goal sound favorites",
-      "value": "Suono goal per i preferiti"
+      "value": "Suono gol per i preferiti"
     },
     "common_notification_types": {
       "comment": "Header for the list of all possible push notifications to send to user",
@@ -5171,12 +5171,12 @@
     "common_official_highlights": {
       "comment": "A label indicating that the YouTube clip contains official highlights from the football match",
       "english": "Official highlights",
-      "value": "Punti salienti ufficiali"
+      "value": "Momenti salienti ufficiali"
     },
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "Ricevi le notifiche per le azioni salienti ufficiali dalle partite che hanno le notifiche di fine partita attive."
+      "value": "Ricevi le notifiche per i momenti salienti ufficiali dalle partite che hanno le notifiche di fine partita attive."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -5228,7 +5228,7 @@
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
-      "value": "Seleziona i tuoi giocatori preferiti e ricevi le notifiche per i goal, i cartellini rossi, i rigori sbagliati e altro ancora"
+      "value": "Seleziona i tuoi giocatori preferiti e ricevi le notifiche per i gol, i cartellini rossi, i rigori sbagliati e altro ancora"
     },
     "common_onboarding_players_search_placeholder": {
       "comment": "Placeholder text for a search bar where the user can search for players",
@@ -5297,7 +5297,7 @@
     },
     "common_over_under": {
       "english": "Will there be more than 2.5 goals?",
-      "value": "Ci saranno più di 2.5 goal?"
+      "value": "Ci saranno più di 2,5 gol?"
     },
     "common_own_goal_short": {
       "comment": "Shorthand for Own Goal. If no possible way to translate this then use OG. This is used to write things like \"Messi 92'(OG)\". Indicating Messi scored an Own Goal in 92' minute.",
@@ -5311,7 +5311,7 @@
     },
     "common_owngoal": {
       "english": "Own goal",
-      "value": "Autogoal"
+      "value": "Autogol"
     },
     "common_panama": {
       "english": "Panama",
@@ -5426,7 +5426,7 @@
     "common_player_assist_removed": {
       "comment": "We have earlier sent a notification that the player got an assist, but this was wrong. So we then send a correction alert saying we were wrong and the player didn't get an assist.",
       "english": "Correction: %@ asi",
-      "value": "%@ %@-%@ %@ Correzione: %@%@ non ha fornito un assist"
+      "value": "Correzione: %@ non ha effettuato un assist"
     },
     "common_player_assist_removed_short": {
       "comment": "We have earlier sent a notification that the player got an assist, but this was wrong. So we then send a correction alert saying we were wrong and the player didn't get an assist.",
@@ -5805,7 +5805,7 @@
     },
     "common_score_volume": {
       "english": "Score alert volume",
-      "value": "Volume avviso per un goal"
+      "value": "Volume avviso per un gol"
     },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
@@ -6640,7 +6640,7 @@
     "common_var_goal_cancelled": {
       "comment": "Goal was cancelled due to Video Assistant referee. We will show a VAR icon besides this label so keep it translated as \"Goal ruled out\" or \"Goal cancelled\".",
       "english": "Goal ruled out",
-      "value": "Goal annullato"
+      "value": "Gol annullato"
     },
     "common_var_penalty_goal_retake": {
       "comment": "Penalty goal had to be retaken due to Video Assistant referee. Note that the player scored on the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty goal cancelled\" with no reference to Video Assistant referee.",
@@ -6660,7 +6660,7 @@
     "common_var_pending_goal": {
       "comment": "Information that the Video Assistant Referee is checking a goal",
       "english": "Pending VAR - goal",
-      "value": "Controllo VAR - goal"
+      "value": "Controllo VAR - gol"
     },
     "common_var_pending_penalty": {
       "comment": "Information that the Video Assistant Referee is checking a penaly",
@@ -6687,7 +6687,7 @@
     },
     "common_vibrate_caption": {
       "english": "Vibrate on scorealert",
-      "value": "Vibra in caso di goal"
+      "value": "Vibra in caso di gol"
     },
     "common_video_autoplay": {
       "comment": "Checkbox if the user wants the videos to autoplay in the newsfeed",
@@ -7515,12 +7515,12 @@
     },
     "new_goals": {
       "english": "Goals",
-      "value": "Goal"
+      "value": "Gol"
     },
     "new_goals_start_and_finish": {
       "comment": "Title of dialog where user can toggle alerts on a specific team. So he can set alerts og goals, match start and match finished",
       "english": "Goals, start and finish",
-      "value": "Goal, inizio e fine partita"
+      "value": "Gol, inizio e fine partita"
     },
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
@@ -7611,7 +7611,7 @@
     "new_no_more_goals": {
       "comment": "This is in the betting section where the user can bet on that there will be no more goals scored in the match",
       "english": "No more goals",
-      "value": "Nessun altro goal"
+      "value": "Nessun altro gol"
     },
     "new_no_odds": {
       "english": "No odds",
@@ -7628,7 +7628,7 @@
     "new_notification_sound_fav_opponent": {
       "comment": "it is in the notification settings where you can choose a sound for the goal of an opponent to your favorite team",
       "english": "Favorite opponent goal",
-      "value": "Goal dell'avversario"
+      "value": "Gol dell'avversario"
     },
     "new_notification_sound_sys_default": {
       "comment": "In custom notification sounds settings, option for choosing the system default sound for notifications",
@@ -7912,7 +7912,7 @@
     },
     "new_who_will_score_next": {
       "english": "Who will score next?",
-      "value": "Chi segnerà il prossimo goal?"
+      "value": "Chi segnerà il prossimo gol?"
     },
     "new_widget_providers_list_title": {
       "english": "Configure",
@@ -8049,7 +8049,7 @@
     "notifications_alert_goal": {
       "comment": "Alert for a goal. Ahead of the Goal will be the elapsed time. So it will read: \"Team A 1-0 Team B\\n65' Goal!\"",
       "english": "%@ %@-%@ %@\\n%@Goal!",
-      "value": "%@ %@-%@ %@\\n%@Goal!"
+      "value": "%@ %@-%@ %@\\n%@Gol!"
     },
     "notifications_alert_goal_noscorer": {
       "comment": "No need to translate this",
@@ -8062,7 +8062,7 @@
     },
     "notifications_alert_goal_penalty": {
       "english": "%@ %@-%@ %@\\n%@ Goal! (penalty)",
-      "value": "%@ %@-%@ %@\\n%@ Goal! (rigore)"
+      "value": "%@ %@-%@ %@\\n%@ Gol! (rigore)"
     },
     "notifications_alert_goal_removed": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
@@ -8079,7 +8079,7 @@
     },
     "notifications_alert_goal_scorer_owngoal": {
       "english": "%@ %@-%@ %@\\n%@%@ (own goal)",
-      "value": "%@ %@-%@ %@\\n%@%@ (autogoal)"
+      "value": "%@ %@-%@ %@\\n%@%@ (autogol)"
     },
     "notifications_alert_goal_scorer_penalty": {
       "comment": "Goal was scored on a penalty",
@@ -8230,7 +8230,7 @@
     "notifications_big_chance_created_team_subtitle": {
       "comment": "Total number of goals the team has scored",
       "english": "Total goals",
-      "value": "Goal totali"
+      "value": "Gol totali"
     },
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
@@ -8240,12 +8240,12 @@
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
       "english": "Total goals",
-      "value": "Goal totali"
+      "value": "Gol totali"
     },
     "notifications_big_chance_missed_team_subtitle": {
       "comment": "Total number of goals the team has scored",
       "english": "Total goals",
-      "value": "Goal totali"
+      "value": "Gol totali"
     },
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
@@ -8255,7 +8255,7 @@
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Grande occasione mancata"
+      "value": "Grandi occasioni mancate"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -8464,7 +8464,7 @@
     "notifications_error_led_to_goal": {
       "comment": "A label for one single error a player has made that resulted in a goal for the opposition",
       "english": "Error led to goal",
-      "value": "Errore e goal subito"
+      "value": "Errore e gol subito"
     },
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
@@ -8582,7 +8582,7 @@
     "notifications_footnote_goals_and_appearances": {
       "comment": "Footnote explanation for some possibly inaccurate numbers.",
       "english": "Number of goals and matches before 2006 may be inaccurate in some cases.",
-      "value": "In alcuni casi, il numero di goal e partite prima del 2006 potrebbe non essere preciso."
+      "value": "In alcuni casi, il numero di gol e partite prima del 2006 potrebbe non essere preciso."
     },
     "notifications_fotmob_notifications_disabled": {
       "comment": "Used for \"quick tile\" in Android",
@@ -8610,47 +8610,47 @@
     },
     "notifications_goal_v2": {
       "english": "Goal",
-      "value": "Goal"
+      "value": "Gol"
     },
     "notifications_goals_freekick": {
       "comment": "Goals scored via a freekick",
       "english": "Goals scored via freekick",
-      "value": "Goal segnati su punizione"
+      "value": "Gol segnati su punizione"
     },
     "notifications_goals_headedGoals": {
       "comment": "Goals scored via head",
       "english": "Goals via header",
-      "value": "Goal di testa"
+      "value": "Gol di testa"
     },
     "notifications_goals_inside_box": {
       "comment": "Goals scored inside the penalty area",
       "english": "Goals inside box",
-      "value": "Goal da dentro l'area"
+      "value": "Gol da dentro l'area"
     },
     "notifications_goals_leftFootedGoals": {
       "comment": "Goals scored with left foot",
       "english": "Goals via left foot",
-      "value": "Goal con il piede sinistro"
+      "value": "Gol con il piede sinistro"
     },
     "notifications_goals_otherBodyPartGoal": {
       "comment": "Goals not scored via header or feet, so we add a \"Other\" goals label to them.",
       "english": "Other goals",
-      "value": "Altri goal"
+      "value": "Altri gol"
     },
     "notifications_goals_outside_box": {
       "comment": "Goals scored outside the penalty area",
       "english": "Goals outside box",
-      "value": "Goal da fuori area"
+      "value": "Gol da fuori area"
     },
     "notifications_goals_penalties": {
       "comment": "Goals scored via a penalty",
       "english": "Goals scored on penalty",
-      "value": "Goal segnati su rigore"
+      "value": "Gol segnati su rigore"
     },
     "notifications_goals_rightFootedGoals": {
       "comment": "Goals scored with right foot",
       "english": "Goals via right foot",
-      "value": "Goal con il piede destro"
+      "value": "Gol con il piede destro"
     },
     "notifications_greece": {
       "english": "Greece",
