@@ -3007,7 +3007,7 @@
       "value": "ကွင်းလယ်ဗဟိုတိုက်စစ်"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "AM",
       "value": "AM"
     },
@@ -3017,7 +3017,7 @@
       "value": "ဗဟိုခံစစ်"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CB",
       "value": "CB"
     },
@@ -3027,7 +3027,7 @@
       "value": "ကွင်းလယ်ဗဟိုအဖျက်"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "DM",
       "value": "DM"
     },
@@ -3037,7 +3037,7 @@
       "value": "ကွင်းလယ်ဗဟို"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CM",
       "value": "CM"
     },
@@ -4637,7 +4637,7 @@
       "value": "ဘယ်နောက်ခံလူ"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LWB",
       "value": "LWB"
     },
@@ -4647,7 +4647,7 @@
       "value": "ဘယ်တောင်ပံခံစစ်"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LB",
       "value": "LB"
     },
@@ -4657,7 +4657,7 @@
       "value": "ကွင်းလယ်ဘယ်တောင်ပံ"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LM",
       "value": "LM"
     },
@@ -4667,7 +4667,7 @@
       "value": "ဘယ်တောင်ပံ"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LW",
       "value": "LW"
     },
@@ -5709,7 +5709,7 @@
       "value": "ညာနောက်ခံ"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RWB",
       "value": "RWB"
     },
@@ -5719,7 +5719,7 @@
       "value": "ညာတောင်ပံခံစစ်"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RB",
       "value": "RB"
     },
@@ -5729,7 +5729,7 @@
       "value": "ကွင်းလယ်ညာတောင်ပံ"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RM",
       "value": "RM"
     },
@@ -5739,7 +5739,7 @@
       "value": "ညာတောင်ပံ"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RW",
       "value": "RW"
     },
@@ -6110,7 +6110,7 @@
       "value": "တိုက်စစ်မှူး"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "ST",
       "value": "ST"
     },

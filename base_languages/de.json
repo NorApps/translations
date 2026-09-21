@@ -3009,7 +3009,7 @@
       "value": "Offensiver Mittelfeldspieler"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "AM",
       "value": "OM"
     },
@@ -3019,7 +3019,7 @@
       "value": "Innenverteidiger"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CB",
       "value": "IV"
     },
@@ -3029,7 +3029,7 @@
       "value": "Defensiver Mittelfeldspieler"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "DM",
       "value": "DM"
     },
@@ -3039,7 +3039,7 @@
       "value": "Zentraler Mittelfeldspieler"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CM",
       "value": "ZM"
     },
@@ -4649,7 +4649,7 @@
       "value": "Linker Außenverteidiger"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LWB",
       "value": "LAV"
     },
@@ -4659,7 +4659,7 @@
       "value": "Linker Verteidiger"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LB",
       "value": "LV"
     },
@@ -4669,7 +4669,7 @@
       "value": "Linker Mittelfeldspieler"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LM",
       "value": "LM"
     },
@@ -4679,7 +4679,7 @@
       "value": "Linksaußen"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LW",
       "value": "LA"
     },
@@ -5722,7 +5722,7 @@
       "value": "Rechter Außenverteidiger"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RWB",
       "value": "RAV"
     },
@@ -5732,7 +5732,7 @@
       "value": "Rechter Verteidiger"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RB",
       "value": "RV"
     },
@@ -5742,7 +5742,7 @@
       "value": "Rechter Mittelfeldspieler"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RM",
       "value": "RM"
     },
@@ -5752,7 +5752,7 @@
       "value": "Rechtsaußen"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RW",
       "value": "RA"
     },
@@ -6123,7 +6123,7 @@
       "value": "Stürmer"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "ST",
       "value": "ST"
     },

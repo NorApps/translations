@@ -9,7 +9,7 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "Centres réussis"
+      "value": "Centres réussis %"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
@@ -19,27 +19,27 @@
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
       "english": "Successful long balls %",
-      "value": "% de passes longues réussies"
+      "value": "Passes longues réussies %"
     },
     "accessibility_accurate_long_balls_team_subtitle": {
       "comment": "Label used in stats for successful long balls percentage (accurate/total)",
       "english": "Successful long balls",
-      "value": "Passes longues réussies"
+      "value": "Passes longues réussies %"
     },
     "accessibility_accurate_long_balls_team_title": {
       "comment": "Label used in stats for accurate long balls per match",
       "english": "Accurate long balls per match",
-      "value": "Passes longues précises par match"
+      "value": "Passes longues réussies par match"
     },
     "accessibility_accurate_long_balls_title": {
       "comment": "Label used in stats for accurate long balls per 90",
       "english": "Accurate long balls per 90",
-      "value": "Passes longues précises par 90"
+      "value": "Passes longues réussies par 90"
     },
     "accessibility_accurate_pass_per_90": {
       "comment": "Label used in stats for shot accurate passes per 90 min",
       "english": "Accurate passes per 90",
-      "value": "Passes précises par 90"
+      "value": "Passes réussies par 90"
     },
     "accessibility_advertise": {
       "comment": "Text on button or link that redirects to the About us page with information about how to buy advertising.",
@@ -347,7 +347,7 @@
     "accessibility_europa_conference_league_playoff": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
       "english": "Conference League playoff",
-      "value": "Éliminatoires de la Ligue Conférence"
+      "value": "Barrages de la Ligue Conférence"
     },
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
@@ -637,7 +637,7 @@
     "accessibility_insights_chances_created_rank_in_competition": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
       "english": "Ranked %1$@ in big chances created (%2$@ big chances)",
-      "value": "A obtenu la %1$@ place au classement des occasions de buts (%2$@ occasions)"
+      "value": "A obtenu la %1$@ place au classement des grosses occasions créées (%2$@ grosses occasions)"
     },
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
@@ -732,7 +732,7 @@
     "accessibility_insights_player_chances_created_rank_in_competition": {
       "comment": "A player which is one of the top players in terms of big chances created in the competition. Example: \"Erling Haaland is ranked 1st in big chances created in the competition (20)\"",
       "english": "%1$@ is ranked %2$@ in big chances created in the competition (%3$@)",
-      "value": "%1$@ a obtenu la %2$@ place au classement des occasions de buts au cours de la compétition (%3$@)"
+      "value": "%1$@ a obtenu la %2$@ place au classement des grosses occasions créées au cours de la compétition (%3$@)"
     },
     "accessibility_insights_player_goals_scored": {
       "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
@@ -742,7 +742,7 @@
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
       "english": "%1$@ has created the most big chances for %2$@ (%3$@)",
-      "value": "%1$@ a créé le plus grand nombre d'occasions de buts pour %2$@ (%3$@)"
+      "value": "%1$@ a créé le plus grand nombre de grosses occasions pour %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
@@ -1019,7 +1019,7 @@
     "accessibility_long_ball_succeeeded_accuracy": {
       "comment": "Number of successful long balls for a player in a match measured in percent",
       "english": "Accurate long balls %",
-      "value": "Passes longues précises %"
+      "value": "Passes longues réussies %"
     },
     "accessibility_lost_possession": {
       "comment": "Total losses of possession by a player. It can be offside, that he was disposseed of the ball or that he just kicked the ball out of the pitch.",
@@ -1067,7 +1067,7 @@
     "accessibility_midfielders": {
       "comment": "A header for the list of midfielders",
       "english": "Midfielders",
-      "value": "Milieu de terrain"
+      "value": "Milieux de terrain"
     },
     "accessibility_misc_2nd_of_group": {
       "comment": "Indicating the runner up of a group. Eg \"2nd Group C\"",
@@ -1611,12 +1611,12 @@
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
       "english": "Possession won final 3rd per 90",
-      "value": "Possession remportée dernier tiers par 90"
+      "value": "Ballons gagnés dans le dernier tiers par 90"
     },
     "accessibility_poss_won_mid_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_team_subtitle' but per 90 min",
       "english": "Possession won midfield per 90",
-      "value": "Possession remportée milieu du terrain par 90"
+      "value": "Ballons gagnés dans le tiers central par 90"
     },
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
@@ -1656,7 +1656,7 @@
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
       "english": "Conference League playoff stage",
-      "value": "Phase éliminatoires de la Ligue Conférence"
+      "value": "Phase de barrages de la Ligue Conférence"
     },
     "accessibility_red": {
       "comment": "Used to describe red cards in stats, e.g. on player profile and referee profile.",
@@ -1967,7 +1967,7 @@
     "accessibility_stats_comparison_att_mid_wingers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other attacking midfielders/wingers.",
       "english": "Stats compared to other attacking midfielders/wingers",
-      "value": "Statistiques comparées aux autres milieux/ailiers"
+      "value": "Statistiques comparées aux autres milieux offensifs/ailiers"
     },
     "accessibility_stats_comparison_center_backs": {
       "comment": "A description highlighting that a player's stat is benchmarked against other center-backs.",
@@ -2179,7 +2179,7 @@
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
       "english": "Tackles per 90",
-      "value": "Tacles par 90 minutes"
+      "value": "Tacles par 90"
     },
     "accessibility_tackles_succeeded_percent": {
       "english": "Tackles won %",
@@ -2373,7 +2373,7 @@
     "accessibility_touches_opp_box": {
       "comment": "Number of touches a player has in the opposition box",
       "english": "Touches in opposition box",
-      "value": "Touches dans la surface adverse"
+      "value": "Ballons touchés dans la surface adverse"
     },
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
@@ -2403,7 +2403,7 @@
     "accessibility_tr_qualeuropaleaguefinalstage": {
       "comment": "This is in indication that this team will qualify directly to the UEFA Europa League playoff stage. This is the 3rd place in the Champions League that gets this playoff place.",
       "english": "Europa League playoff stage",
-      "value": "Phase éliminatoire de l'Europa League"
+      "value": "Phase de barrages de la Ligue Europa"
     },
     "accessibility_trending_news": {
       "comment": "Header text for slider with the top 5 trending news stories.",
@@ -2572,19 +2572,19 @@
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
-      "value": "Passes réussies"
+      "value": "Passes réussies %"
     },
     "common_accurate_pass_team_subtitle": {
       "english": "Pass success",
-      "value": "Passes réussies"
+      "value": "Passes réussies %"
     },
     "common_accurate_pass_team_title": {
       "english": "Accurate passes per match",
-      "value": "Passes précises par match"
+      "value": "Passes réussies par match"
     },
     "common_accurate_pass_title": {
       "english": "Accurate passes per match",
-      "value": "Passes précises par match"
+      "value": "Passes réussies par match"
     },
     "common_action_settings": {
       "english": "Settings",
@@ -2866,7 +2866,7 @@
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
       "english": "Big chances",
-      "value": "Occasions de buts"
+      "value": "Grosses occasions"
     },
     "common_biggest_loss": {
       "comment": "The biggest match loss for a team in a given season.",
@@ -3009,9 +3009,9 @@
       "value": "Milieu offensif"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "AM",
-      "value": "MO"
+      "value": "MOC"
     },
     "common_centerback": {
       "comment": "Player position - player plays in the center back",
@@ -3019,7 +3019,7 @@
       "value": "Défenseur central"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CB",
       "value": "DC"
     },
@@ -3029,9 +3029,9 @@
       "value": "Milieu défensif"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "DM",
-      "value": "MD"
+      "value": "MDC"
     },
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
@@ -3039,7 +3039,7 @@
       "value": "Milieu central"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CM",
       "value": "MC"
     },
@@ -3104,11 +3104,11 @@
     },
     "common_clean_sheet_team_title": {
       "english": "Clean sheets",
-      "value": "Invincibilité"
+      "value": "Cages inviolées"
     },
     "common_clean_sheet_title": {
       "english": "Clean sheets",
-      "value": "Invincibilité"
+      "value": "Cages inviolées"
     },
     "common_clear": {
       "comment": "A button label removing all the search filters. It will clear the filters the user has set.",
@@ -3136,7 +3136,7 @@
     },
     "common_clqual": {
       "english": "Champions League qualification",
-      "value": "Qualification Ligue des champions"
+      "value": "Qualification pour la Ligue des champions"
     },
     "common_cm": {
       "comment": "Height of person in cm",
@@ -3145,7 +3145,7 @@
     },
     "common_coach": {
       "english": "Coach",
-      "value": "Entraineur"
+      "value": "Entraîneur"
     },
     "common_collapse_all_leagues": {
       "comment": "Menu item to hide all matches in all leagues by collapsing the leagues with matches into just a line with league name",
@@ -3589,15 +3589,15 @@
     },
     "common_europaleague": {
       "english": "Europa League",
-      "value": "Europa League"
+      "value": "Ligue Europa"
     },
     "common_euroqual": {
       "english": "Europa League qualification",
-      "value": "Qualification pour l'Europa League"
+      "value": "Qualification pour la Ligue Europa"
     },
     "common_euroqual_playoff": {
       "english": "Europa League qualification playoff",
-      "value": "Barrages de qualification pour l'Europa League"
+      "value": "Barrages de qualification pour la Ligue Europa"
     },
     "common_exit": {
       "english": "Exit",
@@ -3651,12 +3651,12 @@
     "common_expected_goals_on_target": {
       "comment": "Keep xG in the translation and translate it as \"xG <on target>\". On target means the a goal attempt that hits the goal.",
       "english": "xG on target (xGOT)",
-      "value": "xG cadrés"
+      "value": "xG cadrés (xGOT)"
     },
     "common_expected_goals_on_target_variant": {
       "comment": "See translation of expected_goals_on_target. On target means the a goal attempt that hits the goal.",
       "english": "Expected goals on target (xGOT)",
-      "value": "Tirs cadrés attendus (xGOT)"
+      "value": "Buts attendus cadrés (xGOT)"
     },
     "common_expected_goals_open_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <open play>\". Open play is when a goal chance is created that wasn't a set piece.",
@@ -4471,7 +4471,7 @@
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
-      "value": "GA"
+      "value": "GB"
     },
     "common_keeper_diving_save": {
       "comment": "Keeper dives to save the ball",
@@ -4649,7 +4649,7 @@
       "value": "Défenseur latéral gauche"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LWB",
       "value": "DLG"
     },
@@ -4659,7 +4659,7 @@
       "value": "Défenseur gauche"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LB",
       "value": "DG"
     },
@@ -4669,7 +4669,7 @@
       "value": "Milieu gauche"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LM",
       "value": "MG"
     },
@@ -4679,7 +4679,7 @@
       "value": "Ailier gauche"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LW",
       "value": "AG"
     },
@@ -5502,20 +5502,20 @@
     },
     "common_poss_won_att_3rd_subtitle": {
       "english": "Possession won midfield",
-      "value": "Possession remportée milieu du terrain"
+      "value": "Ballons gagnés dans le tiers central"
     },
     "common_poss_won_att_3rd_team_subtitle": {
       "english": "Possession won midfield",
-      "value": "Possession remportée milieu du terrain"
+      "value": "Ballons gagnés dans le tiers central"
     },
     "common_poss_won_att_3rd_team_title": {
       "english": "Possession won final 3rd",
-      "value": "Possession remportée dernier tiers"
+      "value": "Ballons gagnés dans le dernier tiers"
     },
     "common_poss_won_att_3rd_title": {
       "comment": "Team/player has won the ball from the opposition in the opposition half, the final third of the pitch",
       "english": "Possession won final 3rd per match",
-      "value": "Possession remportée dernier tiers/match"
+      "value": "Ballons gagnés dans le dernier tiers par match"
     },
     "common_possession_percentage_subtitle": {
       "english": "Total matches",
@@ -5722,7 +5722,7 @@
       "value": "Défenseur latéral droit"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RWB",
       "value": "DLD"
     },
@@ -5732,7 +5732,7 @@
       "value": "Défenseur droit"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RB",
       "value": "DD"
     },
@@ -5742,7 +5742,7 @@
       "value": "Milieu droit"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RM",
       "value": "MD"
     },
@@ -5752,7 +5752,7 @@
       "value": "Ailier droit"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RW",
       "value": "AD"
     },
@@ -5949,7 +5949,7 @@
     },
     "common_share": {
       "english": "Share FotMob",
-      "value": "Partager Fotmob"
+      "value": "Partager FotMob"
     },
     "common_share_event": {
       "english": "Share",
@@ -5994,7 +5994,7 @@
     "common_sign_in_header": {
       "comment": "Header for sign-in page",
       "english": "We can keep your settings safe so you can sync them across devices or retrieve them when you get a new device.",
-      "value": "Nous pouvons conserver vos paramètres en toute sécurité afin que vous puissiez les synchroniser sur tous vos appareils ou les récupérer lorsque vous achetez un nouvel appareil."
+      "value": "Nous pouvons conserver vos paramètres en toute sécurité afin que vous puissiez les synchroniser sur tous vos appareils ou les récupérer lorsque vous changez d'appareil."
     },
     "common_sign_in_ios": {
       "comment": "Button's label to sign in into FotMob (in LiveMatches header)",
@@ -6123,9 +6123,9 @@
       "value": "Attaquant"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "ST",
-      "value": "ATT"
+      "value": "BU"
     },
     "common_subs": {
       "english": "Substitutes",
@@ -6469,7 +6469,7 @@
     "common_transfer_center": {
       "comment": "The Transfer Center is a place where we list all the player transfers between teams.",
       "english": "Transfer Center",
-      "value": "Centre des Transferts"
+      "value": "Centre des transferts"
     },
     "common_transfer_enable_all": {
       "english": "Do you want to receive customized transfer alerts for your favorite teams and leagues?",
@@ -6724,7 +6724,7 @@
     "common_welcome_transfer_center": {
       "comment": "A welcome message for user visiting the Transfer Center for the first time. The Transfer Center is a place where we list all the player transfers between teams.",
       "english": "Welcome to the Transfer Center",
-      "value": "Bienvenue au Centre des Transferts"
+      "value": "Bienvenue au centre des transferts"
     },
     "common_what_will_outcome_be": {
       "english": "What will the outcome be?",
@@ -6758,7 +6758,7 @@
     },
     "common_widget_wc_name": {
       "english": "FotMob - News",
-      "value": "Fotmob Infos"
+      "value": "FotMob Infos"
     },
     "common_won": {
       "english": "W",
@@ -6789,11 +6789,11 @@
     },
     "common_won_tackle_subtitle": {
       "english": "Tackle success",
-      "value": "Tacles réussis"
+      "value": "Tacles réussis %"
     },
     "common_won_tackle_team_subtitle": {
       "english": "Tackle success",
-      "value": "Tacles réussis"
+      "value": "Tacles réussis %"
     },
     "common_won_tackle_team_title": {
       "english": "Successful tackles per match",
@@ -7553,7 +7553,7 @@
     "new_invite_informal_prompt": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes the user likely to click and share the app.",
       "english": "Your friends may be missing out, share FotMob with them now?",
-      "value": "Vos amis manquent peut-être quelque chose,voulez-vous partager Fotmob avec eux ?"
+      "value": "Vos amis manquent peut-être quelque chose, voulez-vous partager FotMob avec eux ?"
     },
     "new_invite_title": {
       "english": "Invite your friends to try FotMob",
@@ -7920,12 +7920,12 @@
     "notifications_accurate_back_zone_pass": {
       "comment": "A pass that is successful and ends in a player’s own half of the pitch",
       "english": "Accurate back zone pass",
-      "value": "Passe précise en zone défensive"
+      "value": "Passe réussie en zone défensive"
     },
     "notifications_accurate_forward_zone_pass": {
       "comment": "An accurate pass that ends in the attacking half of the pitch",
       "english": "Accurate forward zone pass",
-      "value": "Passe précise en zone offensive"
+      "value": "Passe réussie en zone offensive"
     },
     "notifications_accurate_passes": {
       "english": "Accurate passes",
@@ -9220,7 +9220,7 @@
     "notifications_long_balls_accurate": {
       "comment": "Long balls that are accurate (to a player on his own team)",
       "english": "Accurate long balls",
-      "value": "Passes longues précises"
+      "value": "Passes longues réussies"
     },
     "notifications_macedonia": {
       "comment": "The republic of North Macedonia.",
@@ -9481,12 +9481,12 @@
     "notifications_pass_percentage": {
       "comment": "The percentage of passes being successful",
       "english": "Pass success",
-      "value": "Passes réussies"
+      "value": "Passes réussies %"
     },
     "notifications_pass_percentage_short": {
       "comment": "Short header for pass percentage",
       "english": "Pass %",
-      "value": "% de passes"
+      "value": "Passes %"
     },
     "notifications_passes": {
       "english": "Passes",
@@ -9635,7 +9635,7 @@
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
-      "value": "Recevez des alertes de transfert confirmées pour toutes vos équipes favorites"
+      "value": "Recevez des alertes de transferts confirmés pour toutes vos équipes favorites"
     },
     "notifications_red_card_v2": {
       "english": "Red card",
@@ -9999,7 +9999,7 @@
     "notifications_top_stats": {
       "comment": "Header for the most important stats in the game",
       "english": "Top stats",
-      "value": "Meilleurs statistiques"
+      "value": "Meilleures statistiques"
     },
     "notifications_total_shots": {
       "english": "Total shots",
@@ -10008,7 +10008,7 @@
     "notifications_touches": {
       "comment": "How many times the player touched the ball during the match",
       "english": "Touches",
-      "value": "Touches"
+      "value": "Ballons touchés"
     },
     "notifications_transfer_type_back_from_loan": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
@@ -12480,7 +12480,7 @@
     "seo_site_description_league_stats": {
       "comment": "SEO description for league stats page showing top scorers, assists, ratings and performance data. First %@ is the league name, second %@ is the season",
       "english": "%1$@ statistics for %2$@ with top scorers, assist leaders, player ratings, clean sheets and detailed performance data for every team.",
-      "value": "Statistiques de %1$@ pour %2$@ avec les meilleurs buteurs, les meilleurs passeurs, les notes des joueurs, les clean sheets et des données de performance détaillées pour chaque équipe."
+      "value": "Statistiques de %1$@ pour %2$@ avec les meilleurs buteurs, les meilleurs passeurs, les notes des joueurs, les cages inviolées et des données de performance détaillées pour chaque équipe."
     },
     "seo_site_description_league_table": {
       "comment": "SEO description for league table page showing standings with points, form and upcoming opponents. First %@ is the league name, second %@ is the season",
@@ -12560,7 +12560,7 @@
     "seo_site_description_team_stats": {
       "comment": "SEO description for team stats page showing detailed player and team statistics. %@ is the team name",
       "english": "Detailed %@ player and team statistics including ratings, goals, assists, clean sheets, shots on target and season performance.",
-      "value": "Statistiques détaillées des joueurs et de l’équipe de %@, dont notes, buts, passes décisives, clean sheets, tirs cadrés et performances sur la saison."
+      "value": "Statistiques détaillées des joueurs et de l’équipe de %@, dont notes, buts, passes décisives, cages inviolées, tirs cadrés et performances sur la saison."
     },
     "seo_site_description_team_table": {
       "comment": "SEO description for team table page showing league and cup standings with form and upcoming opponents. %@ is the team name",
@@ -12575,12 +12575,12 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "Trouvez tous les derniers transferts confirmés et les signatures les plus chères. Centre des Transferts FotMob - filtrer par ligue et équipes. Restez informé des transferts avec des mises à jour en direct le jour de la date limite avec toutes les transactions terminées !"
+      "value": "Trouvez tous les derniers transferts confirmés et les signatures les plus chères. Centre des transferts FotMob - filtrer par ligue et équipes. Restez informé des transferts avec des mises à jour en direct le jour de la date limite avec toutes les transactions terminées !"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "%1$@ - Derniers transferts confirmés et signatures les plus chères. Centre des Transferts FotMob - filtrer par ligue et équipes. Restez informé des transferts avec des mises à jour en direct le jour de la date limite avec toutes les transactions terminées !"
+      "value": "%1$@ - Derniers transferts confirmés et signatures les plus chères. Centre des transferts FotMob - filtrer par ligue et équipes. Restez informé des transferts avec des mises à jour en direct le jour de la date limite avec toutes les transactions terminées !"
     },
     "seo_site_description_tv_guide": {
       "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
@@ -12719,7 +12719,7 @@
     "seo_site_title_rumour_mill_selection": {
       "comment": "See site_title_rumour_mill. Exactly the same string but for a specific team or league, with the name as input via %1$@.",
       "english": "Rumour Mill - %1$@: Latest Transfer Rumours & Sources - FotMob",
-      "value": "Rumour Mill - %1$@: Dernières rumeurs de transfert & sources - FotMob"
+      "value": "Rumour Mill - %1$@ : Dernières rumeurs de transfert & sources - FotMob"
     },
     "seo_site_title_stats": {
       "comment": "Meta title for stats page with list of stats for players",
@@ -12784,12 +12784,12 @@
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
       "english": "Transfer Center - Latest & Top Transfers - FotMob",
-      "value": "Centre des Transferts - Derniers & Meilleurs Transferts - FotMob"
+      "value": "Centre des transferts - Derniers et meilleurs transferts - FotMob"
     },
     "seo_site_title_transfer_center_selection": {
       "comment": "Meta title tag value for the transfer center page showing only transfers for a spesific team or leage",
       "english": "Transfer Center - %1$@: Latest & Top Transfers - FotMob",
-      "value": "Centre des Transferts - %1$@: Derniers et meilleurs transferts - FotMob"
+      "value": "Centre des transferts - %1$@ : Derniers et meilleurs transferts - FotMob"
     },
     "seo_site_title_tv_guide": {
       "comment": "SEO title for tv schedule page of football matches filtered by country. %@ is the country name",
@@ -12969,7 +12969,7 @@
     "seo_template_10216": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League",
-      "value": "Ligue Europa Conférence"
+      "value": "Ligue Conférence"
     },
     "seo_template_10611": {
       "comment": "UEFA Champions League Qualification stage. Check how the Champions League string with id=template_42 is translated when translating this one. Translate short. Prefer Champions League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Champions League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
@@ -12979,12 +12979,12 @@
     "seo_template_10613": {
       "comment": "Europa League Qualification stage. Check how the Europa League string with id=template_42 is translated when translating this one. Translate short. Prefer Europa League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Europa League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
       "english": "Europa League Qualification",
-      "value": "Qualification pour l'Europa League"
+      "value": "Ligue Europa - Qualification"
     },
     "seo_template_10615": {
       "comment": "Europa League Qualification stage. https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Translate short. Prefer Conference League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Conference League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
       "english": "Conference League Qualification",
-      "value": "Conference League - Qualification"
+      "value": "Ligue Conférence - Qualification"
     },
     "seo_template_42": {
       "comment": "UEFA Champions League",
@@ -12999,7 +12999,7 @@
     "seo_template_73": {
       "comment": "Europa League.",
       "english": "Europa League",
-      "value": "Europa League"
+      "value": "Ligue Europa"
     },
     "seo_template_best_3rd_placed_teams": {
       "english": "Best 3rd placed teams",

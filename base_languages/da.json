@@ -9,7 +9,7 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "Indlægssucces"
+      "value": "Indlægspræcision"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
@@ -114,7 +114,7 @@
     "accessibility_app_notifications_off_desc": {
       "comment": "Text appearing when app notifications are off.",
       "english": "You have disabled Notifications for FotMob",
-      "value": "Du har deaktiveret meddelelser for FotMob"
+      "value": "Du har deaktiveret notifikationer for FotMob"
     },
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
@@ -193,7 +193,7 @@
     "accessibility_coach_win_percentage": {
       "comment": "Percentage of games won out of total played.",
       "english": "Coach win percentage",
-      "value": "Trænervindprocent"
+      "value": "Trænerens sejrsprocent"
     },
     "accessibility_collapse": {
       "comment": "To collapse a league",
@@ -362,7 +362,7 @@
     "accessibility_expected_goals_non_penalty": {
       "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
       "english": "Non-penalty xG",
-      "value": "Ikke-straffespark xG"
+      "value": "xG uden straffespark"
     },
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
@@ -432,17 +432,17 @@
     "accessibility_follow_leagues_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any leagues.",
       "english": "Follow leagues to set notifications",
-      "value": "Følg turneringer for at indstille meddelelser"
+      "value": "Følg turneringer for at indstille notifikationer"
     },
     "accessibility_follow_players_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any players.",
       "english": "Follow players to set notifications",
-      "value": "Følg spillere for at indstille meddelelser"
+      "value": "Følg spillere for at indstille notifikationer"
     },
     "accessibility_follow_teams_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any teams.",
       "english": "Follow teams to set notifications",
-      "value": "Følg hold for at indstille meddelelser"
+      "value": "Følg hold for at indstille notifikationer"
     },
     "accessibility_fotmob_is_the_essential_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
@@ -452,17 +452,17 @@
     "accessibility_fouls_committed_per_90": {
       "comment": "This is a number for how many free kicks a player concedes on average during 90 minutes",
       "english": "Fouls committed per 90",
-      "value": "Frispark begået pr. 90"
+      "value": "Begåede frispark pr. 90"
     },
     "accessibility_fouls_per_match": {
       "comment": "Label used in stats for fouls per match",
       "english": "Fouls per match",
-      "value": "Fejl pr. kamp"
+      "value": "Begåede frispark pr. kamp"
     },
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
       "english": "Fouls won",
-      "value": "Vundne forseelser"
+      "value": "Vundne frispark"
     },
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
@@ -637,7 +637,7 @@
     "accessibility_insights_chances_created_rank_in_competition": {
       "comment": "Displayed next to an icon of the team. Example for Liverpool: [image of Liverpool logo] Ranked [6th] in big chances created ([18] big chances)",
       "english": "Ranked %1$@ in big chances created (%2$@ big chances)",
-      "value": "Nr. %1$@ i antal store målchancer (%2$@ store målchancer)"
+      "value": "Nr. %1$@ i antal skabte store målchancer (%2$@ store målchancer)"
     },
     "accessibility_insights_clean_sheets": {
       "comment": "The team has the record for not conceding a single goal in a match. Example: \"Most clean sheets in the competition (5)\"",
@@ -732,7 +732,7 @@
     "accessibility_insights_player_chances_created_rank_in_competition": {
       "comment": "A player which is one of the top players in terms of big chances created in the competition. Example: \"Erling Haaland is ranked 1st in big chances created in the competition (20)\"",
       "english": "%1$@ is ranked %2$@ in big chances created in the competition (%3$@)",
-      "value": "%1$@ er nr. %2$@ i antal store målchancer i turneringen (%3$@)"
+      "value": "%1$@ er nr. %2$@ i antal skabte store målchancer i turneringen (%3$@)"
     },
     "accessibility_insights_player_goals_scored": {
       "comment": "A player has the most scored for a competition. Example: \"Mohammed Salah is the competition's top scorer (17)\"",
@@ -1239,7 +1239,7 @@
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
       "english": "Non-penalty xG",
-      "value": "Ikke-straffespark xG"
+      "value": "xG uden straffespark"
     },
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
@@ -1289,7 +1289,7 @@
     "accessibility_notifications_enabled": {
       "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
       "english": "Notifications enabled",
-      "value": "Meddelelser aktiveret"
+      "value": "Notifikationer aktiveret"
     },
     "accessibility_notifications_toast_change": {
       "comment": "Used for toast when changing notifications from settings. \"News for Liverpool changed. Goals for Chelsea changed.\"",
@@ -1606,7 +1606,7 @@
     "accessibility_pointspopup_points_are_calculated": {
       "comment": "Heading of explanation of how the points are calculated",
       "english": "Points are calculated like this:",
-      "value": "Points beregnes således:"
+      "value": "Point beregnes således:"
     },
     "accessibility_poss_won_att_3rd_per_90": {
       "comment": "Similar to 'poss_won_att_3rd_title' but per 90 min",
@@ -1621,7 +1621,7 @@
     "accessibility_possession": {
       "comment": "A section header for possession stats for a football player. Below are things like Dribbles and Touches",
       "english": "Possession",
-      "value": "Besiddelse"
+      "value": "Boldbesiddelse"
     },
     "accessibility_post": {
       "comment": "A shot result description (hit the post)",
@@ -1821,7 +1821,7 @@
     "accessibility_shooting": {
       "comment": "A section header for shooting stats for a football player. Below are things like Goals, xG, xGOT, Shots.",
       "english": "Shooting",
-      "value": "Skud"
+      "value": "Afslutninger"
     },
     "accessibility_short_table": {
       "comment": "String indicating that we will show a short/condensed standings table without all the columns",
@@ -2174,7 +2174,7 @@
     "accessibility_table_position": {
       "comment": "The league/table position of a team (like 1st, 22nd, etc).",
       "english": "Table position",
-      "value": "Placering i tabel"
+      "value": "Tabelplacering"
     },
     "accessibility_tackle_per_90": {
       "comment": "Label used in stats for tackles per 90. Keep in mind to align with the rest of our per 90 stats. See won_tackle_per_90 translation.",
@@ -2353,7 +2353,7 @@
     "accessibility_top_transfer_description": {
       "comment": "You can toggle on getting alerts for all the most important transfers. This is regardless of which team or league the transfer is from.",
       "english": "Get notifications for all the top transfers across all leagues",
-      "value": "Få notifikationer for alle toptransfers på tværs af alle turneringer"
+      "value": "Få notifikationer om alle toptransfers på tværs af alle turneringer"
     },
     "accessibility_total": {
       "comment": "Table header text for the column that shows total Fifa rank points.",
@@ -2462,7 +2462,7 @@
     "accessibility_was_fouled_per_90": {
       "comment": "This is when a player has had a foul committed against them and wins a free-kick. So the opposite of Fouls per 90. Feel free to write it differently like \"Received free-kick per 90\" or \"Was fouled per 90\" if it is hard to translate.",
       "english": "Fouled per 90",
-      "value": "Fik frispark pr. 90"
+      "value": "Vundne frispark pr. 90"
     },
     "accessibility_widget_desaturated": {
       "comment": "A rendering mode allowing the user to see make the color of logos/news images desaturated instead of showing full colors",
@@ -3009,7 +3009,7 @@
       "value": "Offensiv midtbane"
     },
     "common_centerattackingmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Central Attacking Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "AM",
       "value": "OM"
     },
@@ -3019,7 +3019,7 @@
       "value": "Center-back"
     },
     "common_centerback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CB",
       "value": "CB"
     },
@@ -3029,7 +3029,7 @@
       "value": "Defensiv midtbane"
     },
     "common_centerdefensivemidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "DM",
       "value": "DM"
     },
@@ -3039,7 +3039,7 @@
       "value": "Central midtbane"
     },
     "common_centermidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Center Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "CM",
       "value": "CM"
     },
@@ -3060,12 +3060,12 @@
     "common_chances_created": {
       "comment": "Header for how many chances a team has created to score during the match",
       "english": "Chances created",
-      "value": "Målchancer"
+      "value": "Skabte målchancer"
     },
     "common_chances_created_per_90": {
       "comment": "Label for how many chances a player has created divided by 90 minutes",
       "english": "Chances created per 90",
-      "value": "Målchancer skabt pr. 90"
+      "value": "Skabte målchancer pr. 90"
     },
     "common_change_currency_in": {
       "comment": "Directs the user to a page where they change change their currency settings",
@@ -3136,7 +3136,7 @@
     },
     "common_clqual": {
       "english": "Champions League qualification",
-      "value": "Champions League kvalifikationskampe"
+      "value": "Champions League-kvalifikation"
     },
     "common_cm": {
       "comment": "Height of person in cm",
@@ -3303,7 +3303,7 @@
     },
     "common_defender_long": {
       "english": "Defender",
-      "value": "Forsvar"
+      "value": "Forsvarer"
     },
     "common_delete_action": {
       "comment": "A destructive action",
@@ -3501,16 +3501,16 @@
     },
     "common_enable_push": {
       "english": "Enable push notifications",
-      "value": "Slå push-meddelelser til"
+      "value": "Slå push-notifikationer til"
     },
     "common_enable_push_description": {
       "comment": "It's a desciption inside the popup where we're asking a user to enable push notifications",
       "english": "Enable push notifications to get breaking news and match updates",
-      "value": "Slå push-meddelelser til for at få nyheder og kampopdateringer"
+      "value": "Slå push-notifikationer til for at få nyheder og kampopdateringer"
     },
     "common_enable_push_question": {
       "english": "Do you want to enable push notifications?",
-      "value": "Vil du slå push-meddelelser til?"
+      "value": "Vil du slå push-notifikationer til?"
     },
     "common_enable_tv_schedules": {
       "comment": "Settings item to enable/disable TV Guide",
@@ -3536,7 +3536,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Meddelelser for FotMob er slået fra i dit Meddelelsescenter. Gå til http://fotmob.com/faq.html for at ændre dette."
+      "value": "Notifikationer for FotMob er slået fra i dit Notifikationscenter. Gå til http://fotmob.com/faq.html for at ændre dette."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3585,7 +3585,7 @@
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League qualification",
-      "value": "Conference League kvalifikation"
+      "value": "Conference League-kvalifikation"
     },
     "common_europaleague": {
       "english": "Europa League",
@@ -3593,7 +3593,7 @@
     },
     "common_euroqual": {
       "english": "Europa League qualification",
-      "value": "Europa League kvalifikation"
+      "value": "Europa League-kvalifikation"
     },
     "common_euroqual_playoff": {
       "english": "Europa League qualification playoff",
@@ -3705,7 +3705,7 @@
     "common_fantasy_points": {
       "comment": "This indicates how many Fantasy Premier League points the player got. Don't translate Fantasy directly if that makes a different meaning in your language! Then just keep it as \"Fantasy <translation for point>\" See https://fantasy.premierleague.com/",
       "english": "Fantasy points",
-      "value": "Fantasy-points"
+      "value": "Fantasy-point"
     },
     "common_fast_push_alerts": {
       "comment": "Option in settings to enable faster notification",
@@ -3825,7 +3825,7 @@
     "common_forward_backward_passes": {
       "comment": "Header of a graphic showing how many passes ended in the forward zone / opposition half and how many passes ended in own half. So can be translated as \"Opposition half / own half\"",
       "english": "Opposition half / own half",
-      "value": "Modstanders halvdel / egen halvdel"
+      "value": "Modstanderens banehalvdel / egen banehalvdel"
     },
     "common_fotmob_supporters_club": {
       "comment": "Name of the supporters club for FotMob where you can join to support FotMob development.",
@@ -4461,7 +4461,7 @@
     "common_international_national_teams": {
       "comment": "Header indication for a list of tournaments where national teams play each other. So country vs country like England vs Brazil as opposed to club competitions where Barcelona play Manchester United.",
       "english": "International - national teams",
-      "value": "Internationalt - Landshold"
+      "value": "International - landshold"
     },
     "common_invite_informal_prompt2": {
       "comment": "Try keep this short! Message asking the user to share FotMob with his friends. Must be in an inviting user that makes",
@@ -4579,12 +4579,12 @@
     "common_last_x_months": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 2 months\"",
       "english": "%@ months ago",
-      "value": "for %@ måneder siden"
+      "value": "Seneste %@ måneder"
     },
     "common_last_x_years": {
       "comment": "A label indicating how far back in time you can search, always more than 2 as the placeholder so like \"Last 3 years\"",
       "english": "%@ years ago",
-      "value": "%@ år tilbage"
+      "value": "Seneste %@ år"
     },
     "common_later": {
       "comment": "Label for \"Sign in\"-dialogue to postpone sign-in",
@@ -4649,7 +4649,7 @@
       "value": "Venstre wingback"
     },
     "common_left_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LWB",
       "value": "VWB"
     },
@@ -4659,7 +4659,7 @@
       "value": "Venstre back"
     },
     "common_leftback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LB",
       "value": "VB"
     },
@@ -4669,7 +4669,7 @@
       "value": "Venstre midtbane"
     },
     "common_leftmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LM",
       "value": "VM"
     },
@@ -4679,7 +4679,7 @@
       "value": "Venstre wing"
     },
     "common_leftwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Left Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LW",
       "value": "VW"
     },
@@ -4882,7 +4882,7 @@
     },
     "common_midfielder_long": {
       "english": "Midfielder",
-      "value": "Midtbane"
+      "value": "Midtbanespiller"
     },
     "common_minimize_all": {
       "english": "Minimize all",
@@ -5094,7 +5094,7 @@
     },
     "common_not_enabled_alerts": {
       "english": "You don't have notifications enabled for FotMob. Please change it in Settings to get notifications.",
-      "value": "Du har ikke aktiveret meddelelser for FotMob. Ændr dette i 'Indstillinger' for at få meddelelser."
+      "value": "Du har ikke aktiveret notifikationer for FotMob. Ændr dette i 'Indstillinger' for at få notifikationer."
     },
     "common_not_favorites": {
       "english": "Not favorites",
@@ -5127,7 +5127,7 @@
     },
     "common_notification_description": {
       "english": "Adjust volume of score notifications and change when to show notifications. Change timezone.",
-      "value": "Tilpas lyd for meddelelser ved scoring. Skift visning og tidszone."
+      "value": "Tilpas lyd for notifikationer ved scoring. Skift visning og tidszone."
     },
     "common_notification_end_sound": {
       "english": "Start and finished sound",
@@ -5152,11 +5152,11 @@
     },
     "common_notifications_off": {
       "english": "Turn off notifications",
-      "value": "Slå meddelelser fra"
+      "value": "Slå notifikationer fra"
     },
     "common_notifications_on": {
       "english": "Turn on notifications",
-      "value": "Slå meddelelser til"
+      "value": "Slå notifikationer til"
     },
     "common_notifications_onboarding": {
       "comment": "Description to explain to users concept of notifications in FotMob",
@@ -5175,7 +5175,7 @@
     "common_official_highlights_desc": {
       "comment": "Label indicating you can get notified if we find official highlights from the match and you have the full-time alerts set for the match, the teams playing or the league they are playing in.",
       "english": "Get notifications for official highlights from matches that have Full Time alerts enabled.",
-      "value": "Få meddelelser om officielle højdepunkter fra kampe, hvor fuldtidsalarmer er aktiveret."
+      "value": "Få notifikationer om officielle højdepunkter fra kampe, hvor fuldtidsalarmer er aktiveret."
     },
     "common_offside": {
       "comment": "Player was in an offside position. We use this to inform why the goal was ruled out due to VAR",
@@ -5287,7 +5287,7 @@
     "common_opposition_half_passes": {
       "comment": "Label for number of passes inside the other teams half",
       "english": "Opposition half",
-      "value": "Modstanders banehalvdel"
+      "value": "Modstanderens banehalvdel"
     },
     "common_others": {
       "comment": "Other teams / players to display in the list of possible favorite teams",
@@ -5559,7 +5559,7 @@
     "common_preferred_foot": {
       "comment": "A label indicating which foot the user kicks the ball with as his preferred foot. Either left, right or both.",
       "english": "Preferred foot",
-      "value": "Foretrukne ben"
+      "value": "Foretrukket ben"
     },
     "common_premium": {
       "english": "Premium",
@@ -5612,7 +5612,7 @@
     },
     "common_push_connected": {
       "english": "Push notifications are successfully registered",
-      "value": "Push-meddelelser er registreret korrekt"
+      "value": "Push-notifikationer er registreret korrekt"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5722,7 +5722,7 @@
       "value": "Højre wingback"
     },
     "common_right_wing_back_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. If possible, use the same 3-letter abbreviation that FIFA game uses",
+      "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RWB",
       "value": "HWB"
     },
@@ -5732,7 +5732,7 @@
       "value": "Højre back"
     },
     "common_rightback_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Back translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RB",
       "value": "HB"
     },
@@ -5742,7 +5742,7 @@
       "value": "Højre midtbane"
     },
     "common_rightmidfielder_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RM",
       "value": "HM"
     },
@@ -5752,7 +5752,7 @@
       "value": "Højre wing"
     },
     "common_rightwinger_short": {
-      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Right Winger translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RW",
       "value": "HW"
     },
@@ -5832,7 +5832,7 @@
     "common_second_yellow_card": {
       "comment": "A label explaining an icon showing a yellow and a red card on top of each other indicating that the player got a red card from two yellow cards. So he got his Second yellow.",
       "english": "Second yellow",
-      "value": "2. gule kort"
+      "value": "Andet gult kort"
     },
     "common_secondary_onboarding_teams_body": {
       "comment": "Explanation to the user why he should add more favorite teams and players. @",
@@ -5963,7 +5963,7 @@
     "common_shot_accuracy": {
       "comment": "How many percentage of shots hit the goal. Like if Messi shoots 10 times at goal and hits the goal once. We say he hit had a shot accuracy of 10%",
       "english": "Shot accuracy",
-      "value": "Afslutningseffektivitet"
+      "value": "Skudpræcision"
     },
     "common_shots_on_off_target": {
       "comment": "Header to indicate how many shots was on target and how many was off target",
@@ -6095,7 +6095,7 @@
     "common_stay_up_to_date": {
       "comment": "Content in onboarding for team news alert. The argument is the team name.",
       "english": "Stay up-to-date with top news notifications for %@",
-      "value": "Hold dig opdateret med de vigtigste nyhedsmeddelelser for %@"
+      "value": "Hold dig opdateret med de vigtigste nyhedsnotifikationer for %@"
     },
     "common_stop": {
       "english": "Stop",
@@ -6123,7 +6123,7 @@
       "value": "Angriber"
     },
     "common_striker_short": {
-      "comment": "Player position - a SHORT abbreviation of the Striker translation. If possible, use the same 2-letter abbreviation that FIFA 19 game uses.",
+      "comment": "Player position - a SHORT abbreviation of the Striker translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "ST",
       "value": "ANG"
     },
@@ -6241,7 +6241,7 @@
     },
     "common_team_has_notifications": {
       "english": "One of the team has enabled alerts, you must turn off alerts via the team page",
-      "value": "Et af holdene har meddelelser aktiveret. Du skal slå meddelelser fra via holdsiden."
+      "value": "Et af holdene har notifikationer aktiveret. Du skal slå notifikationer fra via holdsiden."
     },
     "common_team_pre_fill": {
       "comment": "A label indicating that you can prefill a team in our lineup builder, keep it brief.",
@@ -6390,7 +6390,7 @@
     "common_too_many_alerts": {
       "comment": "Warning that the user has set too many notifications and needs to remove some of them.",
       "english": "You have too many alerts set. Try reducing the number of alerts via the \"Notifications\" option below.",
-      "value": "Du har for mange meddelelser indstillet. Prøv at reducere antallet af meddelelser via indstillingen 'Meddelelser' herunder."
+      "value": "Du har for mange notifikationer indstillet. Prøv at reducere antallet af notifikationer via indstillingen 'Notifikationer' herunder."
     },
     "common_top_assist": {
       "comment": "Label for the top assist player in the Team Profile",
@@ -6593,7 +6593,7 @@
     },
     "common_unregistered_push": {
       "english": "Successfully unregistered for push notifications",
-      "value": "Push-meddelelser er slået fra"
+      "value": "Push-notifikationer er slået fra"
     },
     "common_unstar": {
       "english": "Unfollow %@",
@@ -6857,7 +6857,7 @@
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
-      "value": "Udvidet"
+      "value": "Avanceret"
     },
     "ios_BUL": {
       "english": "Bulgarian",
@@ -7175,7 +7175,7 @@
     },
     "ios_points_long": {
       "english": "Points",
-      "value": "Points"
+      "value": "Point"
     },
     "ios_prediction_points": {
       "comment": "Predictor: points a user has earned from predictions. Not league table points.",
@@ -7496,7 +7496,7 @@
     "new_explanation": {
       "comment": "Dialog asking explaining the user that we send news notifications for his favorite team.",
       "english": "We send hand-picked news notifications for the teams below. Click OK to enable news alerts and stay up-to-date.",
-      "value": "Vi sender håndplukkede nyhedsmeddelelser for holdene nedenfor. Klik på OK for at slå meddelelser for nyheder til og hold dig opdateret."
+      "value": "Vi sender håndplukkede nyhedsnotifikationer for holdene nedenfor. Klik på OK for at slå nyhedsnotifikationer til og hold dig opdateret."
     },
     "new_favorite_summary": {
       "comment": "Summary info text",
@@ -7567,7 +7567,7 @@
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
       "english": "Match alerts",
-      "value": "Kamp-alarmer"
+      "value": "Kampalarmer"
     },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
@@ -7867,7 +7867,7 @@
     },
     "new_transfer_news_added": {
       "english": "We will only send you alerts for the top transfer news",
-      "value": "Vi sender dig kun notifikationer for de største transfernyheder"
+      "value": "Vi sender dig kun notifikationer om de største transfernyheder"
     },
     "new_transfers": {
       "english": "Transfers",
@@ -7954,8 +7954,8 @@
         "other": "+%d minutes added"
       },
       "plurals": {
-        "one": "%d min. tillægstid",
-        "other": "+%d minutter lagt til"
+        "one": "+%d min. tillægstid",
+        "other": "+%d min. tillægstid"
       },
       "value": "+%d min. tillægstid"
     },
@@ -8234,7 +8234,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Store målchancer"
+      "value": "Skabte store målchancer"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -8249,12 +8249,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Brændte målchancer"
+      "value": "Brændte store målchancer"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Brændte målchancer"
+      "value": "Brændte store målchancer"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -8297,12 +8297,12 @@
     "notifications_change_notifications": {
       "comment": "Heading for notification/alert settings",
       "english": "Notifications",
-      "value": "Meddelelser"
+      "value": "Notifikationer"
     },
     "notifications_change_notifications_desc": {
       "comment": "Heading for notification/alert settings",
       "english": "Manage all your active news, team, player and league notifications",
-      "value": "Administrer alle dine aktive nyheds-, hold-, spiller- og turneringsmeddelelser."
+      "value": "Administrer alle dine aktive nyheds-, hold-, spiller- og turneringsnotifikationer."
     },
     "notifications_china": {
       "comment": "Country name used in tv guide page on web",
@@ -8382,7 +8382,7 @@
     },
     "notifications_disable_push": {
       "english": "Are you sure? You should only do this if you experience problems with the notifications.",
-      "value": "Er du sikker? Du bør kun ændre dette, hvis du oplever problemer med meddelelser."
+      "value": "Er du sikker? Du bør kun ændre dette, hvis du oplever problemer med notifikationer."
     },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
@@ -8443,7 +8443,7 @@
     "notifications_enable_breaking_news_desc": {
       "comment": "User can enable breaking news alerts",
       "english": "Get notifications for the biggest news stories. Just a few notifications a week.",
-      "value": "Få notifikationer til de største nyhedshistorier. Blot nogle få notifikationer om ugen."
+      "value": "Få notifikationer om de største nyhedshistorier. Blot nogle få notifikationer om ugen."
     },
     "notifications_enable_http_cache": {
       "comment": "Enables the app to work with no network connection showing cached information.",
@@ -8458,7 +8458,7 @@
     "notifications_enable_transfer_news_desc": {
       "comment": "User can enable transfer news alerts",
       "english": "Get notifications for top transfer news",
-      "value": "Få meddelelser til de største transfernyheder"
+      "value": "Få notifikationer om de største transfernyheder"
     },
     "notifications_error_led_to_goal": {
       "comment": "A label for one single error a player has made that resulted in a goal for the opposition",
@@ -8586,12 +8586,12 @@
     "notifications_fotmob_notifications_disabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications disabled",
-      "value": "FotMob-meddelelser deaktiveret"
+      "value": "FotMob-notifikationer deaktiveret"
     },
     "notifications_fotmob_notifications_enabled": {
       "comment": "Used for \"quick tile\" in Android",
       "english": "FotMob notifications enabled",
-      "value": "FotMob-meddelelser aktiveret"
+      "value": "FotMob-notifikationer aktiveret"
     },
     "notifications_france": {
       "english": "France",
@@ -8691,7 +8691,7 @@
     "notifications_increase_volume_to_hear_notifications": {
       "comment": "Shown when the user has muted the notifications",
       "english": "Please increase the alert volume to hear notification sounds.",
-      "value": "Øg lydstyrken for advarsler for at høre meddelelseslyde."
+      "value": "Øg lydstyrken for notifikationer for at høre notifikationslyde."
     },
     "notifications_increase_volume_to_preview_sound": {
       "comment": "Shown when user has muted the media",
@@ -9426,12 +9426,12 @@
     },
     "notifications_notifications_are_blocked": {
       "english": "- Notifications for this app have been disabled",
-      "value": "- Meddelelser er slået fra for denne app"
+      "value": "- Notifikationer er slået fra for denne app"
     },
     "notifications_notifications_are_blocked_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are blocked",
       "english": "- Notifications are blocked for some alerts: %@",
-      "value": "- Meddelelser er blokeret for nogle kategorier: %@"
+      "value": "- Notifikationer er blokeret for nogle kategorier: %@"
     },
     "notifications_notifications_are_muted": {
       "english": "- Notifications are muted",
@@ -9440,20 +9440,20 @@
     "notifications_notifications_are_muted_for_some_notification_channels": {
       "comment": "Bullet point telling user which notification types are muted",
       "english": "- Notifications are muted for some alerts: %@",
-      "value": "- Meddelelser er lydløse for nogle kategorier: %@"
+      "value": "- Notifikationer er lydløse for nogle kategorier: %@"
     },
     "notifications_notifications_are_muted_simple": {
       "english": "Notifications are muted",
-      "value": "Meddelelser er lydløse"
+      "value": "Notifikationer er lydløse"
     },
     "notifications_notifications_count": {
       "comment": "Status string indication how many favorites you got and how many with notifications",
       "english": "%@ favorites, %@ with notifications",
-      "value": "Følger %@, %@ med meddelelser"
+      "value": "Følger %@, %@ med notifikationer"
     },
     "notifications_notifications_may_not_be_heard": {
       "english": "Notifications may currently not be heard and/or seen because:",
-      "value": "Meddelelser høres og/eller ses muligvis ikke i øjeblikket, fordi:"
+      "value": "Notifikationer høres og/eller ses muligvis ikke i øjeblikket, fordi:"
     },
     "notifications_off": {
       "english": "Off",
@@ -9744,7 +9744,7 @@
     "notifications_set_at_least_one_match_alert": {
       "comment": "Short message telling user to check at least one of the checkboxes for match alerts",
       "english": "Set at least one match alert.",
-      "value": "Indstil mindst én kampadvarsel."
+      "value": "Indstil mindst én kampalarm."
     },
     "notifications_set_quick_toggle_notifications": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts on a match",
@@ -9754,12 +9754,12 @@
     "notifications_set_quick_toggle_notifications_desc": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts",
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
-      "value": "Indstil hvilke notifikationer er slået til, når du trykker på klokken på kampsider."
+      "value": "Indstil, hvilke notifikationer der er slået til, når du trykker på klokken på kampsider."
     },
     "notifications_set_standard_notifications": {
       "comment": "A menu choice asking the user to set a list of standard notifications for matches",
       "english": "Set standard notifications",
-      "value": "Indstil standardmeddelelser"
+      "value": "Indstil standardnotifikationer"
     },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
@@ -9890,7 +9890,7 @@
     },
     "notifications_standard_alerts_description": {
       "english": "Set the standard notifications for any new league, match or team alerts that are set. This does not affect existing alerts.",
-      "value": "Indstil standardmeddelelser for alle nye turneringer, kampe eller holdmeddelelser, der er valgt. Dette har ikke indflydelse på eksisterende meddelelser."
+      "value": "Indstil standardnotifikationer for alle nye turnerings-, kamp- eller holdnotifikationer, der oprettes. Dette har ikke indflydelse på eksisterende notifikationer."
     },
     "notifications_status_live": {
       "comment": "Status indicator for match highlights. Says the match is ongoing.",
@@ -10131,7 +10131,7 @@
     "notifications_was_fouled": {
       "comment": "Statistic indicating that the player was fouled by another player and given a free-kick",
       "english": "Was fouled",
-      "value": "Frispark tildelt"
+      "value": "Vundne frispark"
     },
     "notifications_watch_match_bet365": {
       "comment": "Button label for watching the match on Bet365.com. Try to not write this much longer than the English original text as it needs to fit one line!",
@@ -10790,7 +10790,7 @@
     "seo_expected_goals_against_while_on_pitch": {
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
       "english": "xG against while on pitch",
-      "value": "xG imod mens på banen"
+      "value": "xG imod (på banen)"
     },
     "seo_expected_goals_set_play_conceded": {
       "comment": "Label for a statistic showing the expected goals (xG) conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
@@ -11521,7 +11521,7 @@
     "seo_more_notification_sounds": {
       "comment": "One of FotMob+ features",
       "english": "More notification sounds",
-      "value": "Flere meddelelseslyde"
+      "value": "Flere notifikationslyde"
     },
     "seo_more_notification_sounds_desc": {
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
@@ -11601,7 +11601,7 @@
     "seo_number_of_sprints": {
       "comment": "Number of sprints a player has taken in a match.",
       "english": "Number of sprints",
-      "value": "Antal sprints"
+      "value": "Antal sprinter"
     },
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
@@ -11766,7 +11766,7 @@
     "seo_physical_metrics_walking": {
       "comment": "A label indicating how much a player has been walking. Stats shown together are \"Sprinting\", \"High-speed running\", \"Running\", \"Jogging\" and \"Walking\"",
       "english": "Walking",
-      "value": "Gå"
+      "value": "Gang"
     },
     "seo_play_fotmob_predict": {
       "comment": "Button text for button that opens the \"FotMob Predict\" game. Do not translate FotMob Predict.",
@@ -12491,7 +12491,7 @@
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "english": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob.",
-      "value": "%1$@ %2$@ rangeret efter forventede points (xPts). Se %1$@ xG-stilling eller retfærdighedsstilling for %2$@ og andre sæsoner på FotMob."
+      "value": "%1$@ %2$@ rangeret efter forventede point (xPts). Se %1$@ xG-stilling eller retfærdighedsstilling for %2$@ og andre sæsoner på FotMob."
     },
     "seo_site_description_league_transfers": {
       "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
@@ -13429,7 +13429,7 @@
     "seo_xpts_explanation": {
       "comment": "Explanation of the xG table. The text has newline separators in it.",
       "english": "Expected Points (xPts) reflect the number of points a team was expected to earn from a match, based on the quality of their chances measured by Expected Goals (xG).\\n\\nxPts for a match are calculated by simulating possible outcomes using the quality of shots, expressed as xG. The simulation awards points for wins, draws, or losses based on xG.\\n\\nThe xPts are accumulated over the season to form the 'xG-table', also known as the 'Justice table', which provides an alternative view of team performance beyond actual points earned.",
-      "value": "Forventede points (xPts) viser det antal points, et hold forventedes at få i en kamp baseret på deres chancer målt efter forventede mål (xG).\\n\\nxPts for en kamp beregnes ved at simulere mulige udfald ud fra skudkvalitet, udtrykt som xG. Simulationen giver points for sejr, tab eller uafgjort baseret på xG.\\n\\nxPts akkumuleres over sæsonen og udgør 'xG-stillingen,' også kendt som 'retfærdighedsstillingen,' hvilket giver et alternativt perspektiv på holdets indsats ud over det egentlige antal point, de fik."
+      "value": "Forventede point (xPts) viser det antal point, et hold forventedes at få i en kamp baseret på deres chancer målt efter forventede mål (xG).\\n\\nxPts for en kamp beregnes ved at simulere mulige udfald ud fra skudkvalitet, udtrykt som xG. Simulationen giver point for sejr, tab eller uafgjort baseret på xG.\\n\\nxPts akkumuleres over sæsonen og udgør 'xG-stillingen,' også kendt som 'retfærdighedsstillingen,' hvilket giver et alternativt perspektiv på holdets indsats ud over det egentlige antal point, de fik."
     },
     "seo_xpts_explanation_green_numbers": {
       "comment": "Explanation of the green numbers in the xG table. Underlying numbers refer to xG.",
