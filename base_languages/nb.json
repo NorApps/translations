@@ -193,7 +193,7 @@
     "accessibility_coach_win_percentage": {
       "comment": "Percentage of games won out of total played.",
       "english": "Coach win percentage",
-      "value": "Trener seiersprosent"
+      "value": "Trenerens seiersprosent"
     },
     "accessibility_collapse": {
       "comment": "To collapse a league",
@@ -213,7 +213,7 @@
     "accessibility_cookie_policy": {
       "comment": "Text shown on link that redirects to the page that shows the cookie policy document.",
       "english": "Cookie policy",
-      "value": "Cookie policy"
+      "value": "Retningslinjer for informasjonskapsler"
     },
     "accessibility_could_not_connect": {
       "english": "Could not connect to phone",
@@ -347,7 +347,7 @@
     "accessibility_europa_conference_league_playoff": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
       "english": "Conference League playoff",
-      "value": "Europa Conference League playoff"
+      "value": "Conference League-playoff"
     },
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
@@ -507,7 +507,7 @@
     "accessibility_goals_and_assists": {
       "comment": "Label used in stats for the sum of goals and assists",
       "english": "Goals + Assists",
-      "value": "Mål + assist"
+      "value": "Mål + målgivende"
     },
     "accessibility_goals_and_assists_per_90": {
       "comment": "Label used in stats for the sum of goals and assists per 90 min",
@@ -1379,7 +1379,7 @@
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>New stats page.</b> Dive deep into stats including seasonal shot maps and comparison charts.",
-      "value": "<b>Ny statsside.</b> Gå dypt inn i statistikken med skuddkart per sesong og sammenligningsgrafer."
+      "value": "<b>Ny statistikkside.</b> Gå dypt inn i statistikken med skuddkart per sesong og sammenligningsgrafer."
     },
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1646,7 +1646,7 @@
     "accessibility_privacy_policy": {
       "comment": "A link to the Privacy policy of the app",
       "english": "Privacy policy",
-      "value": "Privacy policy"
+      "value": "Personvernerklæring"
     },
     "accessibility_profile_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of the signed-in user's own profile page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. This is the app user's account profile, not a player or team profile. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
@@ -1656,7 +1656,7 @@
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
       "english": "Conference League playoff stage",
-      "value": "Europa Conference League playoff"
+      "value": "Conference League-sluttspill"
     },
     "accessibility_red": {
       "comment": "Used to describe red cards in stats, e.g. on player profile and referee profile.",
@@ -1967,12 +1967,12 @@
     "accessibility_stats_comparison_att_mid_wingers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other attacking midfielders/wingers.",
       "english": "Stats compared to other attacking midfielders/wingers",
-      "value": "Stats sammenlignet med andre offensiv midtbane og vinger"
+      "value": "Statistikk sammenlignet med andre offensive midtbanespillere/vinger"
     },
     "accessibility_stats_comparison_center_backs": {
       "comment": "A description highlighting that a player's stat is benchmarked against other center-backs.",
       "english": "Stats compared to other center-backs",
-      "value": "Stats sammenlignet med andre midtstoppere"
+      "value": "Statistikk sammenlignet med andre midtstoppere"
     },
     "accessibility_stats_comparison_explanation": {
       "english": "The Player Traits chart highlights a player's statistical strengths and weaknesses, in comparison to similar players.\\n\\nEach stat is adjusted on a per 90 basis and includes matches from the past 365 days.\\n\\nPlayers are then compared to positional peers from similar leagues, and placed into a percentile ranking. For example, a player with a 90% percentile ranking on Chances Created means that they create more chances than 90% of players in their position in similar leagues.\\n\\nFull details on comparisons can be read in our FAQ.",
@@ -1981,22 +1981,22 @@
     "accessibility_stats_comparison_forwards": {
       "comment": "A description highlighting that a player's stat is benchmarked against other forwards.",
       "english": "Stats compared to other forwards",
-      "value": "Stats sammenlignet med andre spisser"
+      "value": "Statistikk sammenlignet med andre spisser"
     },
     "accessibility_stats_comparison_fullbacks": {
       "comment": "A description highlighting that a player's stat is benchmarked against other fullbacks. Fullback is a term for players taking on any variation of left or right back roles.",
       "english": "Stats compared to other fullbacks",
-      "value": "Stats sammenlignet med andre backer"
+      "value": "Statistikk sammenlignet med andre backer"
     },
     "accessibility_stats_comparison_keepers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other keepers.",
       "english": "Stats compared to other keepers",
-      "value": "Stats sammenlignet med andre keepere"
+      "value": "Statistikk sammenlignet med andre keepere"
     },
     "accessibility_stats_comparison_midfielders": {
       "comment": "A description highlighting that a player's stat is benchmarked against other midfield players.",
       "english": "Stats compared to other midfielders",
-      "value": "Stats sammenlignet med andre midtbanespillere"
+      "value": "Statistikk sammenlignet med andre midtbanespillere"
     },
     "accessibility_stepsheader_step1_hinttext_table": {
       "comment": "Explanation of how to arrage the teams in the table. With emphasis on the on the action to take.",
@@ -2144,7 +2144,7 @@
     "accessibility_sync_calendar_button_team": {
       "comment": "Option to sync a teams fixtures to your calendar. The placeholder is the team name like \"Sync Barcelona fixtures to your calendar\".",
       "english": "Sync %1$@ fixtures to your calendar",
-      "value": "Synkroniser %1$@ kampene til kalenderen din"
+      "value": "Synkroniser kampene til %1$@ med kalenderen din"
     },
     "accessibility_sync_calendar_button_text": {
       "comment": "Text shown on a button that lets the user add a teams matches to their calendar.",
@@ -2159,12 +2159,12 @@
     "accessibility_sync_to_calendar_description": {
       "comment": "Text shown in a panel that lets the user add a team's fixtures to the calendar. Input is the team name and the team short name, eg: Sync <b>Manchester United's</b><b>Man United's</b> fixtures to your favorite calendar app. (The code will show either the team name or the short name depending on screen size)",
       "english": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app.",
-      "value": "Synkroniser <b>%1$@</b><b>%2$@</b> sine kamper til kalenderen din."
+      "value": "Synkroniser kampene til <b>%1$@</b><b>%2$@</b> med favorittkalenderappen din."
     },
     "accessibility_sync_to_calendar_description_plain": {
       "comment": "Same as sync_to_calendar_description, but without html tags. Input is the team name, eg: Sync Liverpool's fixtures to your favorite calendar app.",
       "english": "Sync %1$@'s fixtures to your favorite calendar app.",
-      "value": "Synkroniser %1$@ sine kamper til kalenderen din."
+      "value": "Synkroniser kampene til %1$@ med favorittkalenderappen din."
     },
     "accessibility_syncing": {
       "comment": "Status indication we are syncing information between the watch and the phone",
@@ -2388,7 +2388,7 @@
     "accessibility_tr_afcchampionsleaguequal": {
       "comment": "Name of tournament",
       "english": "AFC Champions League Elite Qualification",
-      "value": "AFC Champions League Elite kvalifisering"
+      "value": "AFC Champions League Elite-kvalifisering"
     },
     "accessibility_tr_cafchampionsleaguequal": {
       "comment": "Name of tournament",
@@ -2403,7 +2403,7 @@
     "accessibility_tr_qualeuropaleaguefinalstage": {
       "comment": "This is in indication that this team will qualify directly to the UEFA Europa League playoff stage. This is the 3rd place in the Champions League that gets this playoff place.",
       "english": "Europa League playoff stage",
-      "value": "Europa League sluttspill"
+      "value": "Europa League-sluttspill"
     },
     "accessibility_trending_news": {
       "comment": "Header text for slider with the top 5 trending news stories.",
@@ -2482,7 +2482,7 @@
     "accessibility_win_percentage": {
       "comment": "Percentage of matches won out of total played.",
       "english": "Win percentage",
-      "value": "Vinnprosent"
+      "value": "Seiersprosent"
     },
     "accessibility_won_contest_per_90": {
       "comment": "Label used in stats for successful dribbles per 90",
@@ -3136,7 +3136,7 @@
     },
     "common_clqual": {
       "english": "Champions League qualification",
-      "value": "Champions League kvalifisering"
+      "value": "Champions League-kvalifisering"
     },
     "common_cm": {
       "comment": "Height of person in cm",
@@ -3228,7 +3228,7 @@
     },
     "common_copaLibertadoresQual": {
       "english": "Copa Libertadores qualification",
-      "value": "Copa Libertadores kvalifisering"
+      "value": "Copa Libertadores-kvalifisering"
     },
     "common_copaSudAmericana": {
       "english": "Copa Sudamericana",
@@ -3536,7 +3536,7 @@
     },
     "common_error_push_not_enabled": {
       "english": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this.",
-      "value": "Notifications are disabled for FotMob in your Notification Center. Visit http://fotmob.com/faq.html to resolve this."
+      "value": "Varsler er slått av for FotMob i Varslingssenteret. Gå til http://fotmob.com/faq.html for å løse dette."
     },
     "common_error_webview": {
       "english": "Error occurred loading page",
@@ -3585,7 +3585,7 @@
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League qualification",
-      "value": "Conference League kvalifisering"
+      "value": "Conference League-kvalifisering"
     },
     "common_europaleague": {
       "english": "Europa League",
@@ -3593,11 +3593,11 @@
     },
     "common_euroqual": {
       "english": "Europa League qualification",
-      "value": "Europa League kvalifisering"
+      "value": "Europa League-kvalifisering"
     },
     "common_euroqual_playoff": {
       "english": "Europa League qualification playoff",
-      "value": "Europa League qualification playoff"
+      "value": "Europa League-kvalifiseringsplayoff"
     },
     "common_exit": {
       "english": "Exit",
@@ -4403,7 +4403,7 @@
     },
     "common_in_app_purchase": {
       "english": "Remove ads (one time payment)",
-      "value": "Remove ads (one time payment)"
+      "value": "Fjern reklame (engangsbetaling)"
     },
     "common_in_app_purchase_subscription": {
       "comment": "Sales pitch for making users sign up for a subscription.",
@@ -4481,7 +4481,7 @@
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
       "english": "High claim",
-      "value": "Reddet høy ball"
+      "value": "Plukket høy ball"
     },
     "common_keeper_long": {
       "english": "Keeper",
@@ -4766,7 +4766,7 @@
     "common_ltc_not_found": {
       "comment": "Empty placeholder if there's no live-comments available",
       "english": "Live commentary not available",
-      "value": "Kommentarer er ikke tilgjengelig"
+      "value": "Livekommentarer er ikke tilgjengelige"
     },
     "common_man_of_the_match": {
       "comment": "A title indicating that this player was the best player.",
@@ -5076,12 +5076,12 @@
     "common_no_top_assists": {
       "comment": "Empty placeholder for the case of empty top-assists",
       "english": "No top assists available",
-      "value": "Ingen topp assists tilgjengelig"
+      "value": "Ingen målgivende pasninger tilgjengelige"
     },
     "common_no_top_scorers": {
       "comment": "Empty placeholder for the case of empty top-scorers",
       "english": "No top scorers available",
-      "value": "Ingen toppscorer tilgjengelig"
+      "value": "Ingen toppscorere tilgjengelige"
     },
     "common_no_tv_guid": {
       "comment": "Empty placeholder if there's no matches available on TV",
@@ -5678,7 +5678,7 @@
     },
     "common_relegationqual": {
       "english": "Relegation qualification",
-      "value": "Nedrykk kvalifisering"
+      "value": "Nedrykkskvalifisering"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",
@@ -6158,7 +6158,7 @@
     "common_supporter_club_pitch_3": {
       "comment": "Bullet point pitch outlining an advantage to becoming a paying member of the app",
       "english": "• Remove app ads (we cannot control ads displayed on third party news sites you visit).",
-      "value": "• Fjern reklamer (vi kan ikke kontrollere reklamer på tredjeparts nyhetssteder)"
+      "value": "• Fjern reklame i appen (vi kan ikke kontrollere reklame på tredjepartsnyhetssteder du besøker)."
     },
     "common_surface": {
       "comment": "Type of grass that the football field has. Can be translated as \"Pitch type\" or \"Surface type\" as well. Options can be grass or artificial.",
@@ -6208,7 +6208,7 @@
     "common_tap_to_compare": {
       "comment": "Onboarding user to the player's stats in the match facts. The placeholder is the name of the button.",
       "english": "Tap %@ \\nto compare player stats",
-      "value": "Klikk %@ \\nfor å sammenligne spillerstats"
+      "value": "Trykk på %@ \\nfor å sammenligne spillerstatistikk"
     },
     "common_team": {
       "english": "Team",
@@ -6395,7 +6395,7 @@
     "common_top_assist": {
       "comment": "Label for the top assist player in the Team Profile",
       "english": "Top assist",
-      "value": "Topp målgivende"
+      "value": "Flest målgivende"
     },
     "common_top_rated": {
       "comment": "Label for the top rated player in the Team Profile",
@@ -6951,7 +6951,7 @@
     "ios_Rank": {
       "comment": "Do not use more than 5 characters! There is little room in the GUI for this string",
       "english": "Rank",
-      "value": "Rank"
+      "value": "Plass"
     },
     "ios_Restore_previous_purchases": {
       "english": "Restore purchases?",
@@ -7252,7 +7252,7 @@
     "ios_top_assists": {
       "comment": "Top lists of the players with most assists",
       "english": "Top assists",
-      "value": "Topp målgivende"
+      "value": "Flest målgivende"
     },
     "ios_top_goalscorer": {
       "english": "Top goal scorer",
@@ -7751,7 +7751,7 @@
     },
     "new_remove_ads": {
       "english": "Remove ads",
-      "value": "Fjern reklamer"
+      "value": "Fjern reklame"
     },
     "new_roundof16": {
       "comment": "Used to describe the knockout stage with 16 teams remaining. Often translated as '1/8 finals' or 'eighth-finals' in some languages.",
@@ -8234,7 +8234,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Skapt stor sjanse"
+      "value": "Store sjanser skapt"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -8249,12 +8249,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Bommet på stor sjanse"
+      "value": "Bommet på store sjanser"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Bommet på stor sjanse"
+      "value": "Bommet på store sjanser"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -10282,7 +10282,7 @@
     "seo_ad_free_desc": {
       "comment": "A description for the \"Ad-free match experience\" FotMob+ feature.",
       "english": "Remove in-app ads (Note: ads on third-party websites are not controlled by us).",
-      "value": "Fjern reklame i appen (NB!: reklame på tredjeparts nyheter er ikke kontrollert av oss)."
+      "value": "Fjern reklame i appen (Merk: Vi kontrollerer ikke reklame på tredjepartsnettsteder)."
     },
     "seo_ad_free_match_experience": {
       "comment": "One of FotMob+ benefits",
@@ -12671,7 +12671,7 @@
     "seo_site_title_league_stats_players": {
       "comment": "Title for the page listing the top three players in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated players, goals, assists and other stats\"",
       "english": "%1$@ %2$@ top rated players, goals, assists and other stats",
-      "value": "%1$@ %2$@ topp vurderte spillere, mål, assist, xG og andre stats"
+      "value": "%1$@ %2$@ topprangerte spillere, mål, målgivende, xG og annen statistikk"
     },
     "seo_site_title_league_stats_teams": {
       "comment": "Title for the page listing the top three teams in the league based on different stats. With the league name and season given as input. Eg. \"Premier League 2022/2023 top rated teams, goals per match, shots on target and other stats\"",
