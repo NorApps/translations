@@ -8127,7 +8127,7 @@
     "notifications_alert_goal_scorer_penalty": {
       "comment": "Goal was scored on a penalty",
       "english": "%@ %@-%@ %@\\n%@%@ (penalty)",
-      "value": "%@ %@-%@ %@\\n%@%@ (penalty)"
+      "value": "%@ %@-%@ %@\\n%@%@ (пенальти)"
     },
     "notifications_alert_lineup_confirmed": {
       "english": "%@ - %@\\nLineups confirmed!",

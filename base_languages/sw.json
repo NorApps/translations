@@ -362,7 +362,7 @@
     "accessibility_expected_goals_non_penalty": {
       "comment": "Expected goals from shots that are not penalties. Keep the \"xG\" part as it is.",
       "english": "Non-penalty xG",
-      "value": "xG isiyo penaltı"
+      "value": "xG bila penalti"
     },
     "accessibility_expected_goals_on_target_faced": {
       "comment": "Keep xGOT in the translation and check translation of expected_goals_on_target. This is a keeper stat and it is the Expected Goals on Target value of the opposition team. So if a keeper has conceded 1 goal and the opposition team has a xGOT value of 2.2 the keeper has done well since based on xG on target they should have scored 2.2 goals.",
@@ -1239,7 +1239,7 @@
     "accessibility_non_penalty_xg": {
       "comment": "Expected goals for a player where we excluded the xG on penalties",
       "english": "Non-penalty xG",
-      "value": "xG bila Penalti"
+      "value": "xG bila penalti"
     },
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",

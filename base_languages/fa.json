@@ -7753,7 +7753,7 @@
     "new_score_correction": {
       "comment": "Information message if we have mistakenly informed of a wrong score earlier, this is a correction message",
       "english": "Score correction",
-      "value": "اصلاح امتیاز"
+      "value": "تصحیح نتیجه"
     },
     "new_search": {
       "english": "Search",
@@ -8049,19 +8049,19 @@
     },
     "notifications_alert_goal_owngoal": {
       "english": "%@ %@-%@ %@\\n%@Own goal!",
-      "value": "%@ %@-%@ %@ %@گل به خودی !"
+      "value": "%@ %@-%@ %@\\n%@گل به خودی!"
     },
     "notifications_alert_goal_penalty": {
       "english": "%@ %@-%@ %@\\n%@ Goal! (penalty)",
-      "value": "%@ %@-%@ %@ %@ گل! (پنالتی)"
+      "value": "%@ %@-%@ %@\\n%@ گل! (پنالتی)"
     },
     "notifications_alert_goal_removed": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
-      "value": "%@ %@-%@ %@ %@اصلاح امتیاز"
+      "value": "%@ %@-%@ %@\\n%@تصحیح نتیجه"
     },
     "notifications_alert_goal_removed_penalty": {
       "english": "%@ %@-%@ %@\\n%@Score correction",
-      "value": "%@ %@-%@ %@\\n%@تصحیح گل"
+      "value": "%@ %@-%@ %@\\n%@تصحیح نتیجه"
     },
     "notifications_alert_goal_scorer": {
       "comment": "No need to translate this",
@@ -8075,7 +8075,7 @@
     "notifications_alert_goal_scorer_penalty": {
       "comment": "Goal was scored on a penalty",
       "english": "%@ %@-%@ %@\\n%@%@ (penalty)",
-      "value": "%@ %@-%@ %@ %@%@ (penalty)"
+      "value": "%@ %@-%@ %@\\n%@%@ (پنالتی)"
     },
     "notifications_alert_lineup_confirmed": {
       "english": "%@ - %@\\nLineups confirmed!",
