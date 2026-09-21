@@ -3228,7 +3228,7 @@
     },
     "common_copaLibertadoresQual": {
       "english": "Copa Libertadores qualification",
-      "value": "Kufudhu kwa Copa Libertadores"
+      "value": "Kufuzu kwa Copa Libertadores"
     },
     "common_copaSudAmericana": {
       "english": "Copa Sudamericana",
@@ -3585,7 +3585,7 @@
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League qualification",
-      "value": "Kufudhu Ligi ya Conference"
+      "value": "Kufuzu kwa Ligi ya Conference"
     },
     "common_europaleague": {
       "english": "Europa League",
@@ -3593,7 +3593,7 @@
     },
     "common_euroqual": {
       "english": "Europa League qualification",
-      "value": "Kufudhu Ligi ya Ulaya"
+      "value": "Kufuzu kwa Ligi ya Ulaya"
     },
     "common_euroqual_playoff": {
       "english": "Europa League qualification playoff",
@@ -12968,7 +12968,7 @@
     "seo_template_10216": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League",
-      "value": "Ligi ya Mkutano wa Ulaya"
+      "value": "Ligi ya Conference"
     },
     "seo_template_10611": {
       "comment": "UEFA Champions League Qualification stage. Check how the Champions League string with id=template_42 is translated when translating this one. Translate short. Prefer Champions League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Champions League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",

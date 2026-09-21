@@ -347,7 +347,7 @@
     "accessibility_europa_conference_league_playoff": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Indicates that the team can participate in the playoffs for this tournament.",
       "english": "Conference League playoff",
-      "value": "यूरोपा कॉन्फ्रेंस लीग प्लेऑफ़"
+      "value": "कॉन्फ्रेंस लीग प्लेऑफ़"
     },
     "accessibility_events": {
       "comment": "Used as a header for a tab that lets the user see the events log for a match. Keep it short.",
@@ -1656,7 +1656,7 @@
     "accessibility_qualeuropaconffinalstage": {
       "comment": "This is in indication that this team will qualify directly to the Conference League playoff stage. This is the 3rd place in the Europa league that gets this playoff place.",
       "english": "Conference League playoff stage",
-      "value": "यूरोपा कॉन्फ्रेंस लीग प्लेऑफ़ चरण"
+      "value": "कॉन्फ्रेंस लीग प्लेऑफ़ चरण"
     },
     "accessibility_red": {
       "comment": "Used to describe red cards in stats, e.g. on player profile and referee profile.",
@@ -3585,7 +3585,7 @@
     "common_europa_conference_league": {
       "comment": "This is a brand new league by UEFA. Details here:  https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League",
       "english": "Conference League qualification",
-      "value": "यूरोपा कॉन्फ्रेंस लीग क्वालिफ़िकेशन"
+      "value": "कॉन्फ्रेंस लीग क्वालिफ़िकेशन"
     },
     "common_europaleague": {
       "english": "Europa League",
