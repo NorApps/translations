@@ -12298,7 +12298,7 @@
     "seo_template_10615": {
       "comment": "Europa League Qualification stage. https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League. Translate short. Prefer Conference League first and then qualification last if it works in the target language. Especially in the Nordics languages. It is fine to translate short like \"Conference League - Qualification\" as it is a header. Prefer spaces around the dash if possible.",
       "english": "Conference League Qualification",
-      "value": "کۆنفرانس لیگ - پاڵاوتن"
+      "value": "پاڵاوتنەکانی کۆنفرانس لیگ"
     },
     "seo_template_42": {
       "comment": "UEFA Champions League",
@@ -12897,7 +12897,7 @@
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
-      "value": "ئەو گواستنەوانەی ئەگەریان نزیکە"
+      "value": "نزیکترین گواستنەوەکان"
     },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
@@ -12922,7 +12922,7 @@
     "transfer center_speculation_probability": {
       "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Speculative",
-      "value": "مەزەندە"
+      "value": "پێشبینیکراو"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
