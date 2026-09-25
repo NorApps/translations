@@ -12869,6 +12869,66 @@
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@, %3$@%4$@ sezonunda %2$@ için %5$@ golle en golcü oyuncu."
     },
+    "transfer center_active_filter_age_range": {
+      "comment": "Label of an active filter chip in the Transfer Center for the player age filter. %1$d is the minimum and %2$d the maximum age in years, e.g. \"Age 18 – 23\". Keep it short.",
+      "english": "Age %1$d – %2$d",
+      "value": "Yaş %1$d – %2$d"
+    },
+    "transfer center_active_filter_fee_range": {
+      "comment": "Label of an active filter chip in the Transfer Center for the transfer fee filter. %1$@ is the minimum fee and %2$@ the maximum fee, e.g. \"Fee €50M – €120M\". Keep it short. See transfer_fee.",
+      "english": "Fee %1$@ – %2$@",
+      "value": "Ücret %1$@ – %2$@"
+    },
+    "transfer center_active_filter_max_age": {
+      "comment": "Label of an active filter chip in the Transfer Center for the player age filter. The %d will be replaced with the maximum age in years, e.g. \"Max age 23\". Keep it short. See active_filter_min_age.",
+      "english": "Max age %d",
+      "value": "Maks. yaş %d"
+    },
+    "transfer center_active_filter_max_fee": {
+      "comment": "Label of an active filter chip in the Transfer Center for the transfer fee filter. The %@ will be replaced with the maximum fee, e.g. \"Max fee €80M\". Keep it short. See transfer_fee. See active_filter_min_fee.",
+      "english": "Max fee %@",
+      "value": "Maks. ücret %@"
+    },
+    "transfer center_active_filter_max_value": {
+      "comment": "Label of an active filter chip in the Transfer Center for the estimated player value filter. The %@ will be replaced with the maximum estimated value, e.g. \"Max value €80M\". Keep it short. See estimated_player_value. See active_filter_min_value.",
+      "english": "Max value %@",
+      "value": "Maks. değer %@"
+    },
+    "transfer center_active_filter_min_age": {
+      "comment": "Label of an active filter chip in the Transfer Center for the player age filter. The %d will be replaced with the minimum age in years, e.g. \"Min age 18\". Keep it short. See active_filter_max_age.",
+      "english": "Min age %d",
+      "value": "Min. yaş %d"
+    },
+    "transfer center_active_filter_min_fee": {
+      "comment": "Label of an active filter chip in the Transfer Center for the transfer fee filter. The %@ will be replaced with the minimum fee, e.g. \"Min fee €10M\". Keep it short. See transfer_fee. See active_filter_max_fee.",
+      "english": "Min fee %@",
+      "value": "Min. ücret %@"
+    },
+    "transfer center_active_filter_min_value": {
+      "comment": "Label of an active filter chip in the Transfer Center for the estimated player value filter. The %@ will be replaced with the minimum estimated value, e.g. \"Min value €10M\". Keep it short. See estimated_player_value. See active_filter_max_value.",
+      "english": "Min value %@",
+      "value": "Min. değer %@"
+    },
+    "transfer center_active_filter_nationalities": {
+      "comment": "Label of an active filter chip in the Transfer Center when several player nationalities are selected. The country flags are shown next to it. See active_filter_nationality.",
+      "english": "Nationalities",
+      "value": "Uyruklar"
+    },
+    "transfer center_active_filter_nationality": {
+      "comment": "Label of an active filter chip in the Transfer Center when one player nationality is selected. The country flag is shown next to it. See active_filter_nationalities. See player_nationality.",
+      "english": "Nationality",
+      "value": "Uyruk"
+    },
+    "transfer center_active_filter_positions": {
+      "comment": "Label of an active filter chip in the Transfer Center when several player positions are selected. A badge with the number of positions is shown next to it. See player_position.",
+      "english": "Positions",
+      "value": "Pozisyonlar"
+    },
+    "transfer center_active_filter_value_range": {
+      "comment": "Label of an active filter chip in the Transfer Center for the estimated player value filter. %1$@ is the minimum and %2$@ the maximum estimated value, e.g. \"Value €50M – €120M\". Keep it short. See estimated_player_value.",
+      "english": "Value %1$@ – %2$@",
+      "value": "Değer %1$@ – %2$@"
+    },
     "transfer center_advanced_filters": {
       "comment": "Button that expands additional filter options (estimated value, position, age, nationality) in the Transfer Center filter sheet.",
       "english": "Advanced filters",
@@ -12878,6 +12938,11 @@
       "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
       "english": "Failed to load more transfers, <a>retry?</a>",
       "value": "Daha fazla transfer yüklenemedi. <a>Tekrar deneyelim mi?</a>"
+    },
+    "transfer center_filter_range_any": {
+      "comment": "Label at the right end of a range slider in the Transfer Center filters (fee, estimated value, player age) meaning there is no upper limit. Keep it very short. See filter_range_maximum.",
+      "english": "Any",
+      "value": "Sınırsız"
     },
     "transfer center_filter_range_maximum": {
       "comment": "Label under the right end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
