@@ -12997,12 +12997,12 @@
     "widget intents_3OMUkf": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Display name of the WidgetTeam type (a team shown in a widget).",
       "english": "Widget Team",
-      "value": "وێجێتی تیم"
+      "value": "وێجێتی یانە"
     },
     "widget intents_4785Wb": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Description of the team-widget Configuration intent. Most languages use a short \"Select team\" form.",
       "english": "Select favorite team to follow",
-      "value": "تیمی دڵخواز هەڵبژێرە بۆ بەدواداچوون"
+      "value": "یانەی دڵخواز هەڵبژێرە بۆ بەدواداچوون"
     },
     "widget intents_5aVvda": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. \"League Name\" property of the WidgetLeague type.",
@@ -13097,7 +13097,7 @@
     "widget intents_veMWHi": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Dark-mode color option: use team colors.",
       "english": "Team",
-      "value": "تیم"
+      "value": "یانە"
     },
     "widget intents_yOcG33": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the FavoriteMatchesConfiguration intent.",
