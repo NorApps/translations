@@ -2338,7 +2338,7 @@
     "accessibility_ticker": {
       "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
       "english": "Commentary",
-      "value": "Directo"
+      "value": "Comentarios"
     },
     "accessibility_tips_and_support": {
       "comment": "Support menu item title.",

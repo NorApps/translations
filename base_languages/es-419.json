@@ -1,6 +1,11 @@
 {
   "language": "es-419",
   "translations": {
+    "accessibility_all_competitions": {
+      "comment": "Label as a header for all the leagues/tournaments/competitions that are playing on a particular day.",
+      "english": "All competitions",
+      "value": "Todas las competencias"
+    },
     "accessibility_change_language_explanation": {
       "comment": "Label indicating you can change the language of the app",
       "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
@@ -116,6 +121,11 @@
       "english": "Live match removed from lock screen",
       "value": "Partido en vivo eliminado de la pantalla de bloqueo"
     },
+    "accessibility_live_activity_tooltip": {
+      "comment": "Used in onboarding of live activities on tooltip",
+      "english": "Tap the star to add the match to your lock screen",
+      "value": "Toca la estrella para agregar el partido a tu pantalla de bloqueo"
+    },
     "accessibility_midfielders": {
       "comment": "A header for the list of midfielders",
       "english": "Midfielders",
@@ -153,6 +163,32 @@
       "comment": "Number of times a keeper has saved a penalty",
       "english": "Penalty saves",
       "value": "Penales atajados"
+    },
+    "accessibility_per_90_bar_explanation_text": {
+      "comment": "Explanation text for bar graph for a player stat",
+      "english": "The bar graph shows how a player compares to other players in their position on each stat for the currently selected competition. A green bar graph indicates they are among the best in their position at that stat, while a red bar indicates they are among the worst.\\n\\nThe length of the bar graph represents the rank of the player for each stat, based on percentile. Players are compared only against their positional peers from the currently selected competition.",
+      "value": "La gráfica compara a un jugador con otros jugadores de su posición para cada estadística de la competencia seleccionada. El verde indica que el jugador está entre los mejores de su posición en esa estadística, mientras que el rojo indica que está entre los peores.\\n\\nLa longitud de las barras representa la clasificación del jugador en cada estadística según su percentil. Solo se compara a los jugadores con otros de la misma posición de la competencia."
+    },
+    "accessibility_playing_now_no_ranked_leagues": {
+      "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other are playing now\". This is a list of leagues with ongoing matches.",
+      "english_plurals": {
+        "one": "One other competition is playing now",
+        "other": "%d other competitions are playing now"
+      },
+      "plurals": {
+        "one": "Se está jugando una competencia más",
+        "other": "Se están jugando %d competencias más"
+      }
+    },
+    "accessibility_playing_today_no_ranked_leagues": {
+      "comment": "A placeholder is a number of non-prioritised leagues. So like \"18 other competitions play today\"",
+      "english": "%@ other competitions play today",
+      "value": "Hoy se juegan %@ competencias más"
+    },
+    "accessibility_playing_today_ranked_leagues": {
+      "comment": "The first placeholder is a list of ranked leagues playing today. The second is a number of non-prioritised leagues. So like \"La Liga, Premier League and 18 other competitions play today.\"",
+      "english": "%1$@ and %2$@ other competitions play today",
+      "value": "Hoy se juegan %1$@ y %2$@ competencias más"
     },
     "accessibility_save_percentage": {
       "comment": "Label used in stats for save percentage for keepers",
@@ -203,11 +239,6 @@
       "english": "Throw in set piece",
       "value": "Saque lateral de pelota parada"
     },
-    "accessibility_ticker": {
-      "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
-      "english": "Commentary",
-      "value": "En vivo"
-    },
     "accessibility_var_penalty_cancelled": {
       "comment": "A penalty is first given and then overturned by VAR. We are showing a VAR icon next to this text.",
       "english": "Penalty cancelled",
@@ -226,9 +257,31 @@
       "english": "Shots on target",
       "value": "Tiros al arco"
     },
+    "common_access_calendar_needed": {
+      "english": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar",
+      "value": "Tienes que conceder acceso a FotMob al Calendario para poder agregar el partido al calendario"
+    },
     "common_action_settings": {
       "english": "Settings",
       "value": "Configuración"
+    },
+    "common_add_favorite": {
+      "english": "Add favorite",
+      "value": "Agregar favorito"
+    },
+    "common_add_leagues": {
+      "english": "Add leagues",
+      "value": "Agregar ligas"
+    },
+    "common_add_player": {
+      "comment": "A search bottom sheet header for adding a player",
+      "english": "Add player",
+      "value": "Agregar jugador"
+    },
+    "common_added_as_favorite": {
+      "comment": "Status label saying that the player/team has been added as a favorite",
+      "english": "%1$@ added as favorite",
+      "value": "%1$@ agregado como favorito"
     },
     "common_afterextra": {
       "english": "After extra time",
@@ -269,7 +322,7 @@
     },
     "common_clean_sheet_team_title": {
       "english": "Clean sheets",
-      "value": "Vallas invictas"
+      "value": "Portería en cero"
     },
     "common_clean_sheet_title": {
       "english": "Clean sheets",
@@ -328,6 +381,11 @@
       "comment": "Keep xG in the translation and translate it as \"xG <second half translated>\"",
       "english": "xG second half",
       "value": "xG en 2.º tiempo"
+    },
+    "common_expected_goals_set_play": {
+      "comment": "Keep xG in the translation and translate it as \"xG <set play translated>\"",
+      "english": "xG set play",
+      "value": "xG en jugadas a pelota parada"
     },
     "common_firstextrahalf": {
       "english": "First extra half",
@@ -490,6 +548,16 @@
       "english": "Settings",
       "value": "Configuración"
     },
+    "common_on_loan_transfers": {
+      "comment": "Transfer status: player moved on loan",
+      "english": "On loan",
+      "value": "Préstamo"
+    },
+    "common_onboarding_news_alerts_description": {
+      "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
+      "english": "In addition to match updates, you can add news alerts for top teams.",
+      "value": "Además de las actualizaciones de partidos, puedes agregar alertas de noticias de los equipos más importantes."
+    },
     "common_onboarding_players_help_infromation": {
       "comment": "Help text to explain why they should follow a favorite player",
       "english": "Select your favorite players and get notified for goals, red cards, missed penalties and more",
@@ -600,6 +668,11 @@
       "english": "Second half",
       "value": "Segundo tiempo"
     },
+    "common_set_piece": {
+      "comment": "Goal via set piece (corner, dead ball situations)",
+      "english": "Set piece",
+      "value": "Pelota parada"
+    },
     "common_settings": {
       "english": "Settings",
       "value": "Configuración"
@@ -623,9 +696,22 @@
       "english": "Squad value",
       "value": "Valor del plantel"
     },
+    "common_star": {
+      "english": "Add %@",
+      "value": "Agregar %@"
+    },
+    "common_star_league": {
+      "english": "Add to favorites",
+      "value": "Agregar a favoritos"
+    },
     "common_table": {
       "english": "Table",
       "value": "Tabla"
+    },
+    "common_toggle_bracket_layout": {
+      "comment": "Accessibility label for toggling a bracket layout",
+      "english": "Toggle bracket layout",
+      "value": "Alternar diseño del cuadro de eliminación directa"
     },
     "common_transfer_loan_message": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid on loan from Manchester United\"",
@@ -720,10 +806,24 @@
       "english": "FotMob - the best livescores app for football/soccer",
       "value": "FotMob - la mejor aplicación para resultados de fútbol en vivo"
     },
+    "ios_whoops_no_matches": {
+      "english": "Whoops, no matches! Add a notification or a star to a match to make it appear here",
+      "value": "¡Vaya, no hay partidos! Agrega una notificación o marca un partido como favorito para que aparezca aquí."
+    },
     "ios_won_on_penalties": {
       "comment": "VoiceOver-only, on finished match rows. The team that won a penalty shootout where \"is through\" doesn't fit, e.g. a final. Placeholder is the team name. This should be in past tense.",
       "english": "%@ won on penalties",
       "value": "%@ ganó en la tanda de penales"
+    },
+    "ltc accessibility_ltc_accessibility_add_reaction": {
+      "comment": "VoiceOver label for the button that opens the reaction picker in live text commentary.",
+      "english": "Add reaction",
+      "value": "Agregar reacción"
+    },
+    "ltc accessibility_ltc_accessibility_add_reaction_hint": {
+      "comment": "VoiceOver hint for the merged reactions element in live text commentary. Describes what happens when the element is activated.",
+      "english": "Double tap to add reaction",
+      "value": "Toca dos veces para agregar una reacción"
     },
     "ltc accessibility_ltc_accessibility_penalty_goal_to_team": {
       "comment": "VoiceOver label for a penalty goal event in live text commentary. Placeholder is the team name, for example \"Penalty goal to Manchester United\".",
@@ -757,6 +857,16 @@
     "new_title_activity_widget_settings": {
       "english": "Settings",
       "value": "Configuración"
+    },
+    "notifications_add_favorite_desc_ipad": {
+      "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
+      "english": "Tap + to add a favorite team or player",
+      "value": "Toca + para agregar un equipo o jugador favorito"
+    },
+    "notifications_add_widget": {
+      "comment": "Call to action button for user adding widget to home screen.",
+      "english": "Add widget",
+      "value": "Agregar widget"
     },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
@@ -847,6 +957,11 @@
       "english": "Get notifications for top transfer news",
       "value": "Recibe notificaciones de noticias y transferencias."
     },
+    "notifications_error_led_to_goal": {
+      "comment": "A label for one single error a player has made that resulted in a goal for the opposition",
+      "english": "Error led to goal",
+      "value": "El error provocó un gol"
+    },
     "notifications_error_led_to_shot": {
       "comment": "Mistake which leads to an opposition shot",
       "english": "Error led to shot",
@@ -893,11 +1008,15 @@
     "notifications_logged_out_warning": {
       "comment": "Message telling that the user that has been signed out (probably by the auth provider) and that the user must do a new sign in to have everything safely backed up. It may be useful looking at the translation for the \"sign_in_dialog\" string.",
       "english": "You have been logged out. Please log in again so that we can continue keeping your favorites and settings safe.",
-      "value": "Se cerró tu sesión. Vuelve a iniciar sesión para mostrar tus favoritos y preferencias."
+      "value": "Se cerró tu sesión. Vuelve a iniciar sesión para que podamos guardar tus favoritos y preferencias."
     },
     "notifications_nice_are_you_all_set_or_do_you_want_to_add_transfer_news_league_wide_transfer_alerts_and_more": {
       "english": "Nice! Are you all set or do you want to add league-wide transfer alerts or customize the team transfers?",
       "value": "¡Excelente! ¿Ya terminaste o quieres agregar alertas de transferencias de toda la liga o personalizar las transferencias de tu equipo?"
+    },
+    "notifications_no_favorites_added_yet": {
+      "english": "No favorites added yet",
+      "value": "Aún no has agregado favoritos"
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
@@ -912,6 +1031,11 @@
       "comment": "Messi has been subbed off.",
       "english": "%@ has been subbed off.",
       "value": "%@ es sustituido."
+    },
+    "notifications_playoff": {
+      "comment": "tab-title for brackets view in League overview",
+      "english": "Knockout",
+      "value": "Eliminación directa"
     },
     "notifications_receive_confirmed_transfer_alerts_for_all_of_your_favorite_teams": {
       "english": "Receive confirmed transfer alerts for all of your favorite teams",
@@ -982,6 +1106,11 @@
     "seo_blocked_or_muted_notifications": {
       "english": "Some notifications are blocked or muted. Go to Settings to enable them.",
       "value": "Algunas notificaciones están bloqueadas o silenciadas. Ve a Configuración para activarlas."
+    },
+    "seo_competitions": {
+      "comment": "Title for section listing competitions in the predictor game.",
+      "english": "Competitions",
+      "value": "Competencias"
     },
     "seo_completed_transfer_from_no_fee": {
       "comment": "Player page text showing the club a player transferred from (%1$@), with no fee reported. See completed_transfer_from_with_fee. See rumoured_transfer_no_fee.",
@@ -1118,6 +1247,11 @@
       "english": "All transfers",
       "value": "Todas las transferencias"
     },
+    "seo_set_piece_goals": {
+      "comment": "Label for a statistic showing the number of goals scored from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See expected_goals_set_play",
+      "english": "Set piece goals",
+      "value": "Goles a pelota parada"
+    },
     "seo_set_piece_goals_conceded": {
       "comment": "Label for a statistic showing the number of goals conceded from set pieces - free kicks, corners, throw ins, etc. (not penalties) in a football match. See set_piece_goals",
       "english": "Set piece goals conceded",
@@ -1232,6 +1366,11 @@
       "comment": "World Cup Qualification Inter-confederation playoffs",
       "english": "World Cup Qualification Inter-confederation",
       "value": "Repechaje intercontinental de la Copa del Mundo"
+    },
+    "seo_we_have_followed_top_leagues": {
+      "comment": "Disclaimer for follow league step in onboarding.",
+      "english": "We've followed <b>top leagues</b> for you and you can add more below.",
+      "value": "Hemos seleccionado <b>las mejores ligas</b> para ti y puedes agregar más abajo."
     },
     "seo_weather_conditions": {
       "comment": "Header indicating the Weather at a football stadium, to be shown during or after the match.",
