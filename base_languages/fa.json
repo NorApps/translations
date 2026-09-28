@@ -12388,6 +12388,16 @@
       "english": "Team of the Season",
       "value": "تیم برتر فصل"
     },
+    "seo_transfer_in": {
+      "comment": "Option in the transfer direction filter in the Transfer Center, showing transfers of players joining a club. Keep it short to fit a segmented button - max 15 characters. See transfer_out. See transfers_in_short.",
+      "english": "Incoming",
+      "value": "ورود"
+    },
+    "seo_transfer_out": {
+      "comment": "Option in the transfer direction filter in the Transfer Center, showing transfers of players leaving a club. Keep it short to fit a segmented button - max 15 characters. See transfer_in. See transfers_out_short.",
+      "english": "Outgoing",
+      "value": "خروج"
+    },
     "seo_transfers_in_short": {
       "comment": "Label for a button to filter incoming transfers in a transfers list. Keep it short to fit a filter chip - max 15 characters. Match the wording used in in_or_out. See players_in",
       "english": "In",
