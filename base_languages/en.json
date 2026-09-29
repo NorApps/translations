@@ -4357,6 +4357,10 @@
       "comment": "Label for number of penalties a keeper has saved in a match",
       "value": "Saved penalties"
     },
+    "common_saved_penalty": {
+      "comment": "Shown in match facts under the name of the player who took a penalty kick that the goalkeeper saved. Phrase it as what happened to the kick, not as something the named player did, since the goalkeeper is not named. One single kick. Use the same penalty term as missed_penalty, which is shown when the kick went wide or hit the woodwork.",
+      "value": "Penalty saved"
+    },
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
       "value": "Saves inside box"

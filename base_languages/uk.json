@@ -5590,6 +5590,11 @@
       "english": "Saved penalties",
       "value": "Відбиті пенальті"
     },
+    "common_saved_penalty": {
+      "comment": "Shown in match facts under the name of the player who took a penalty kick that the goalkeeper saved. Phrase it as what happened to the kick, not as something the named player did, since the goalkeeper is not named. One single kick. Use the same penalty term as missed_penalty, which is shown when the kick went wide or hit the woodwork.",
+      "english": "Penalty saved",
+      "value": "Пенальті відбито"
+    },
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
       "english": "Saves inside box",
