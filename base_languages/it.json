@@ -7285,6 +7285,11 @@
       "english": "Averages",
       "value": "Medie"
     },
+    "new_starting_soon": {
+      "comment": "Title of the push notification that reminds the user a match is about to kick off. The body below it has the team names and the kick-off time, e.g. \"Starting soon\" / \"Arsenal - Chelsea · 21:00\". The reminder is sent anywhere from 5 to 30 minutes before kick-off, so do not mention a number of minutes. Keep it short.",
+      "english": "Starting soon",
+      "value": "Inizia a breve"
+    },
     "new_summary": {
       "english": "Summary",
       "value": "Sommario"
