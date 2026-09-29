@@ -10179,6 +10179,14 @@
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "value": "Likely transfers"
     },
+    "transfer center_market_value": {
+      "comment": "Title of the filter card in the Transfer Center for filtering transfers by the player's market value. Keep it short. See site_title_player.",
+      "value": "Market value"
+    },
+    "transfer center_market_value_amount": {
+      "comment": "A player's market value with its amount. The %@ will be replaced with the formatted amount and currency, e.g. \"Market value 14M NOK\". Place the amount where it reads naturally in your language. See market_value.",
+      "value": "Market value %@"
+    },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
       "value": "Player age"
