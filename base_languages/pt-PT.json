@@ -2448,7 +2448,7 @@
     "accessibility_var_penalty_cancelled": {
       "comment": "A penalty is first given and then overturned by VAR. We are showing a VAR icon next to this text.",
       "english": "Penalty cancelled",
-      "value": "Penalti cancelado"
+      "value": "Penálti cancelado"
     },
     "accessibility_var_yellow_card_removed": {
       "comment": "A yellow is first given and then overturned by VAR. Most likely followed by a overturned penalty decision",
@@ -4764,7 +4764,7 @@
     },
     "common_missed_penalty": {
       "english": "Missed penalty",
-      "value": "Penálti Falhado"
+      "value": "Penálti falhado"
     },
     "common_more": {
       "comment": "Last tab on the main screen, which contains settings, TV guide, etc.",
