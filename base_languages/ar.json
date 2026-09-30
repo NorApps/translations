@@ -2991,7 +2991,7 @@
     "common_celsius": {
       "comment": "A setting to toggle the temperature unit to Celsius (°C) instead of Fahrenheit (°F)",
       "english": "Celsius (°C)",
-      "value": "سيلسيوس (°C)"
+      "value": "سيلسيوس (°م)"
     },
     "common_centerattackingmidfielder": {
       "comment": "Player position - player plays as an offensive midfielder",
@@ -3623,7 +3623,7 @@
     "common_fahrenheit": {
       "comment": "A setting to toggle the temperature unit to Fahrenheit (°F) instead of Celsius (°C)",
       "english": "Fahrenheit (°F)",
-      "value": "فهرنهايت (°F)"
+      "value": "فهرنهايت (°ف)"
     },
     "common_failure_re_sign_in": {
       "comment": "On failure in sync, we ask user to re-sign-in again - this is a button's label",
