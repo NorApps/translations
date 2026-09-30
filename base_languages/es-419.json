@@ -1187,6 +1187,11 @@
       "english": "Try it on mobile",
       "value": "Pruébalo en el celular"
     },
+    "seo_loan": {
+      "comment": "Transfer type for a player who moved on loan, shown in a transfer list before the loan length, e.g. \"Loan 1 year\". A short noun. See on_loan_transfers. See x_years.",
+      "english": "Loan",
+      "value": "Préstamo"
+    },
     "seo_odds_close_match": {
       "comment": "Text stating that there are no out and out favorite in the match between the two teams. The team names as input.",
       "english": "The bookmakers predict a close match between %1$@ and %2$@.",

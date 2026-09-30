@@ -10734,6 +10734,11 @@
       "english": "Live update notifications",
       "value": "Thông báo cập nhật trực tiếp"
     },
+    "seo_loan": {
+      "comment": "Transfer type for a player who moved on loan, shown in a transfer list before the loan length, e.g. \"Loan 1 year\". A short noun. See on_loan_transfers. See x_years.",
+      "english": "Loan",
+      "value": "Cho mượn"
+    },
     "seo_ltc_ai_explanation": {
       "comment": "Disclaimer informing user that is has been automatically translated.",
       "english": "This live commentary has been auto-translated. There may be minor inaccuracies.",
@@ -12694,7 +12699,7 @@
       "value": "%@ phút"
     },
     "seo_x_months": {
-      "comment": "Option for the transfer timeframe filter in the transfer centre. Indicates a number of months, e.g. \"6 months\". See timeframe.",
+      "comment": "A number of months, e.g. \"6 months\". Used as an option in the transfer timeframe filter in the transfer centre, and for the length of a loan shown after the transfer type, e.g. \"Loan 6 months\". See timeframe. See loan.",
       "english_plurals": {
         "one": "%d month",
         "other": "%d months"
@@ -12704,7 +12709,7 @@
       }
     },
     "seo_x_years": {
-      "comment": "Option for the transfer timeframe filter in the transfer centre. Indicates a number of years, e.g. \"2 years\". See timeframe.",
+      "comment": "A number of years, e.g. \"2 years\". Used as an option in the transfer timeframe filter in the transfer centre, and for the length of a loan shown after the transfer type, e.g. \"Loan 2 years\". See timeframe. See loan.",
       "english_plurals": {
         "one": "%d year",
         "other": "%d years"
@@ -12962,11 +12967,6 @@
       "comment": "Title of the filter card in the Transfer Center for filtering transfers by the player's market value. Keep it short. See site_title_player.",
       "english": "Market value",
       "value": "Giá trị thị trường"
-    },
-    "transfer center_market_value_amount": {
-      "comment": "A player's market value with its amount. The %@ will be replaced with the formatted amount and currency, e.g. \"Market value 14M NOK\". Place the amount where it reads naturally in your language. See market_value.",
-      "english": "Market value %@",
-      "value": "Giá trị thị trường %@"
     },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
