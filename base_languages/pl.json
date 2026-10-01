@@ -7311,6 +7311,11 @@
       "english": "Change notification sound for the alerts",
       "value": "Zmień dźwięk powiadomień"
     },
+    "new_splash_tagline": {
+      "comment": "Tagline on the first-launch welcome screen, above the Quick Setup button. Keep the name FotMob in Latin letters.",
+      "english": "Football is better with FotMob",
+      "value": "Piłka nożna jest lepsza z FotMob"
+    },
     "new_standings": {
       "comment": "Tables. topscorers and assist is behind this menu choice.",
       "english": "Standings",
