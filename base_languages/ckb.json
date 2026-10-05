@@ -7392,10 +7392,10 @@
         "other": "+%d minutes added"
       },
       "plurals": {
-        "one": "کاتی زیادکراو +%d خولەک",
-        "other": "کاتی زیادکراو +%d خولەک"
+        "one": "کاتی زیادکراو ‪+%d‬ خولەک",
+        "other": "کاتی زیادکراو ‪+%d‬ خولەک"
       },
-      "value": "کاتی زیادکراو +%d خولەک"
+      "value": "کاتی زیادکراو ‪+%d‬ خولەک"
     },
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",

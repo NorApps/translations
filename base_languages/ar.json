@@ -7461,14 +7461,14 @@
         "other": "+%d minutes added"
       },
       "plurals": {
-        "few": "تم إضافة +%d دقائق",
-        "many": "تم إضافة +%d دقيقة",
-        "one": "+%d دقيقة أضيفت",
-        "other": "+%d دقائق أضيفت",
-        "two": "تم إضافة + دقيقتين",
-        "zero": "تم إضافة +%d دقائق"
+        "few": "تم إضافة ‪+%d‬ دقائق",
+        "many": "تم إضافة ‪+%d‬ دقيقة",
+        "one": "تم إضافة ‪+%d‬ دقيقة",
+        "other": "تم إضافة ‪+%d‬ دقيقة",
+        "two": "تم إضافة دقيقتين",
+        "zero": "تم إضافة ‪+%d‬ دقائق"
       },
-      "value": "+%@ دقيقة أضيفت"
+      "value": "تم إضافة ‪+%@‬ دقيقة"
     },
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",

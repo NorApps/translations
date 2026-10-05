@@ -7383,10 +7383,10 @@
         "other": "+%d minutes added"
       },
       "plurals": {
-        "one": "+%d دقیقه وقت اضافه",
-        "other": "+%d دقیقه وقت اضافه"
+        "one": "‪+%d‬ دقیقه وقت اضافه",
+        "other": "‪+%d‬ دقیقه وقت اضافه"
       },
-      "value": "+%d دقیقه وقت اضافه"
+      "value": "‪+%d‬ دقیقه وقت اضافه"
     },
     "notifications_aerials_lost": {
       "comment": "Stat indicating how many aerial duels the player or team has lost",
