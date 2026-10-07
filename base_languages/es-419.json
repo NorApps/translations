@@ -1407,6 +1407,11 @@
       "english": "midfielders",
       "value": "mediocampistas"
     },
+    "transfer center_add": {
+      "comment": "Button with a plus icon in the transfers filter that adds another league or team to the current selection.",
+      "english": "Add",
+      "value": "Agregar"
+    },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",

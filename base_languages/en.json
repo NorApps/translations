@@ -120,6 +120,10 @@
       "comment": "Text shown on toggle that shows matches in a league sorted by date.",
       "value": "By date"
     },
+    "accessibility_by_group": {
+      "comment": "Text shown on toggle that shows matches in a league or tournament sorted by group, for competitions with a group stage. See by_date. See by_round.",
+      "value": "By group"
+    },
     "accessibility_by_round": {
       "comment": "Text shown on toggle that shows matches in a league or tournament sorted by round.",
       "value": "By round"
@@ -8525,6 +8529,10 @@
       "comment": "Label for a section showing the next five matches for a football team. See next_match",
       "value": "Next five matches"
     },
+    "seo_next_fixtures": {
+      "comment": "Column header in the league table above each team's upcoming matches, shown when the table is filtered by fixture difficulty.",
+      "value": "Next fixtures"
+    },
     "seo_next_three_matches_short": {
       "comment": "Compact subtitle in the fixture difficulty section indicating the ratings cover the team's next three matches. Shown next to the average difficulty label, i.e. \"Next 3 Moderate\". Keep it short. See fixture_difficulty.",
       "value": "Next 3"
@@ -10166,6 +10174,10 @@
     "transfer center_active_filter_value_range": {
       "comment": "Label of an active filter chip in the Transfer Center for the estimated player value filter. %1$@ is the minimum and %2$@ the maximum estimated value, e.g. \"Value €50M – €120M\". Keep it short. See estimated_player_value.",
       "value": "Value %1$@ – %2$@"
+    },
+    "transfer center_add": {
+      "comment": "Button with a plus icon in the transfers filter that adds another league or team to the current selection.",
+      "value": "Add"
     },
     "transfer center_advanced_filters": {
       "comment": "Button that expands additional filter options (estimated value, position, age, nationality) in the Transfer Center filter sheet.",
