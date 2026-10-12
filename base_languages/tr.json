@@ -5530,7 +5530,7 @@
     },
     "common_round_fmt": {
       "english": "Round %@",
-      "value": "Tur %@"
+      "value": "%@. Hafta"
     },
     "common_roundof32": {
       "comment": "Label indicating it is the round of 32. 32 teams are left in the tournament. Round of 32 is the same as 16th-finals",
