@@ -13059,6 +13059,11 @@
       "english": "Any",
       "value": "Без лимита"
     },
+    "transfer center_filter_range_from": {
+      "comment": "Label under the left end of the timeframe range slider in the Transfer Center filters. Shown above the start of the period, e.g. \"Jul 2023\" or \"1 year\" (meaning 1 year ago). Not the \"from\" club on a transfer. Keep it short. See filter_range_to and filter_range_minimum.",
+      "english": "From",
+      "value": "От"
+    },
     "transfer center_filter_range_maximum": {
       "comment": "Label under the right end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
       "english": "Maximum",
@@ -13068,6 +13073,11 @@
       "comment": "Label under the left end of a range slider in the Transfer Center filters (fee, estimated value, player age).",
       "english": "Minimum",
       "value": "Минимум"
+    },
+    "transfer center_filter_range_to": {
+      "comment": "Label under the right end of the timeframe range slider in the Transfer Center filters. Shown above the end of the period, e.g. \"Today\" or \"6 months\" (meaning 6 months ago). Not the \"to\" club on a transfer. Keep it short. See filter_range_from and filter_range_maximum.",
+      "english": "To",
+      "value": "До"
     },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
