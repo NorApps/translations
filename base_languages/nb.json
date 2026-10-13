@@ -13019,8 +13019,8 @@
         "other": "After %d minutes played"
       },
       "plurals": {
-        "one": "Etter 1 spilleminutt",
-        "other": "Etter %d spilleminutter"
+        "one": "Etter 1 minutt spilt",
+        "other": "Etter %d minutter spilt"
       }
     },
     "transfer center_likely_transfers": {
