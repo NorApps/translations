@@ -13012,6 +13012,17 @@
       "english": "To",
       "value": "Til"
     },
+    "transfer center_gfx_statcard_timestamp": {
+      "comment": "Text to show on match stats graphics to show when in the match the stats were fetched, eg \"After 1 minute played\" when only 1 minute has passed and \"After 23 minutes played\" when 23 minutes have passed.",
+      "english_plurals": {
+        "one": "After 1 minute played",
+        "other": "After %d minutes played"
+      },
+      "plurals": {
+        "one": "Etter 1 spilleminutt",
+        "other": "Etter %d spilleminutter"
+      }
+    },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
