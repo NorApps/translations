@@ -8951,8 +8951,8 @@
     },
     "notifications_please_select_match": {
       "comment": "Prompt to ask user to click a match so they can view details for the match on an iPad",
-      "english": "Select a match from the left menu",
-      "value": "왼쪽 메뉴에서 경기를 선택하세요"
+      "english": "Select a match",
+      "value": "경기를 선택하세요"
     },
     "notifications_please_select_search": {
       "comment": "Prompt to ask user to open the left menu and search for teams, leagues, players and matches",

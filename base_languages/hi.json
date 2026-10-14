@@ -8968,8 +8968,8 @@
     },
     "notifications_please_select_match": {
       "comment": "Prompt to ask user to click a match so they can view details for the match on an iPad",
-      "english": "Select a match from the left menu",
-      "value": "बाएँ तरफ के मेनू से मैच चुनें"
+      "english": "Select a match",
+      "value": "मैच चुनें"
     },
     "notifications_please_select_search": {
       "comment": "Prompt to ask user to open the left menu and search for teams, leagues, players and matches",
