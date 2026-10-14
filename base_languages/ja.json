@@ -5149,6 +5149,11 @@
       "english": "Penalties conceded",
       "value": "PK献上数"
     },
+    "common_penalty_off_target": {
+      "comment": "Shown in match facts under the name of the player who took a penalty kick that was not on target: it went wide, over the bar, or hit the post or crossbar, and was not saved. Use the standard football term for a shot off target, not a word that means only \"wide\". Phrase it as what happened to the kick, not as something the named player did. One single kick. Use the same penalty term as saved_penalty and missed_penalty. Keep it short and concise, using whatever naturally translates to \"off target\" in the given language (for example, the most concise Norwegian is simply \"Ikke på mål\").",
+      "english": "Penalty off target",
+      "value": "PK枠外"
+    },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
       "value": "総試合数"
