@@ -7701,7 +7701,7 @@
     },
     "notifications_attack": {
       "english": "Attack",
-      "value": "هجوم"
+      "value": "الهجوم"
     },
     "notifications_australia": {
       "english": "Australia",
@@ -7885,7 +7885,7 @@
     },
     "notifications_defense": {
       "english": "Defense",
-      "value": "دفاع"
+      "value": "الدفاع"
     },
     "notifications_denmark": {
       "comment": "Used in TV schedules filter",
@@ -7914,7 +7914,7 @@
     "notifications_distribution": {
       "comment": "Header for stats regarding passes, long balls, crosses and chances created in the match",
       "english": "Distribution",
-      "value": "توزيع"
+      "value": "التوزيع"
     },
     "notifications_dnd_is_enabled": {
       "english": "- \"Do not disturb\" is enabled",
@@ -8949,7 +8949,7 @@
     },
     "notifications_passes": {
       "english": "Passes",
-      "value": "تمريرات"
+      "value": "التمريرات"
     },
     "notifications_penalties_won": {
       "english": "Penalties won",
@@ -9213,7 +9213,7 @@
     "notifications_shots": {
       "comment": "Header for stats for the shots in the game",
       "english": "Shots",
-      "value": "تسديدات"
+      "value": "التسديدات"
     },
     "notifications_shots_inside_box": {
       "comment": "Stat for shots taken inside the penalty area",
