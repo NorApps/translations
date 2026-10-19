@@ -12138,7 +12138,7 @@
       "value": "%@ ရှိ ကမ္ဘာ့ဖလား TV ထုတ်လွှင့်အစီအစဉ် - TV မှ တိုက်ရိုက်ကြည့်ရန် | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
-      "comment": "Used for failure toest in troubleshooting mail.",
+      "comment": "Generic error message in toasts, snackbars and error screens.",
       "english": "Something went wrong. Please try again.",
       "value": "တစ်ခုခု မှားယွင်းသွားပါတယ်။ ကျေးဇူးပြု၍ ထပ်မံကြိုးစားကြည့်ပါ။"
     },

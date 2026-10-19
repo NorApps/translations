@@ -12140,7 +12140,7 @@
       "value": "%@のワールドカップTV放送予定 - テレビでライブ視聴 | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
-      "comment": "Used for failure toest in troubleshooting mail.",
+      "comment": "Generic error message in toasts, snackbars and error screens.",
       "english": "Something went wrong. Please try again.",
       "value": "問題が発生しました。もう一度お試しください。"
     },

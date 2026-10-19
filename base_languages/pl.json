@@ -12214,7 +12214,7 @@
       "value": "Program TV MŚ w %@ – oglądaj na żywo w TV | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
-      "comment": "Used for failure toest in troubleshooting mail.",
+      "comment": "Generic error message in toasts, snackbars and error screens.",
       "english": "Something went wrong. Please try again.",
       "value": "Coś poszło nie tak. Spróbuj ponownie."
     },

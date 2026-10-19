@@ -12157,7 +12157,7 @@
       "value": "%@ में विश्व कप टीवी शेड्यूल - टीवी पर लाइव देखें | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
-      "comment": "Used for failure toest in troubleshooting mail.",
+      "comment": "Generic error message in toasts, snackbars and error screens.",
       "english": "Something went wrong. Please try again.",
       "value": "कुछ गलत हो गया। कृपया पुन: प्रयास करें।"
     },

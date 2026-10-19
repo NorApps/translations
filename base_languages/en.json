@@ -9533,7 +9533,7 @@
       "value": "World Cup TV Schedule in %@ - Watch Live on TV | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
-      "comment": "Used for failure toest in troubleshooting mail.",
+      "comment": "Generic error message in toasts, snackbars and error screens.",
       "value": "Something went wrong. Please try again."
     },
     "seo_sort_by": {

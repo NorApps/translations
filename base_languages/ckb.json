@@ -12161,7 +12161,7 @@
       "value": "خشتەی پەخشی تەلەفزیۆنی جامی جیهانی لە %@ - بە ڕاستەوخۆ لەسەر TV ببینە | FotMob"
     },
     "seo_something_went_wrong_please_try_again": {
-      "comment": "Used for failure toest in troubleshooting mail.",
+      "comment": "Generic error message in toasts, snackbars and error screens.",
       "english": "Something went wrong. Please try again.",
       "value": "هەڵەیەک ڕوویدا. تکایە دووبارە هەوڵ بدەرەوە."
     },
