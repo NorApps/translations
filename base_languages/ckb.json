@@ -13065,6 +13065,11 @@
       "english": "Speculative",
       "value": "پێشبینیکراو"
     },
+    "transfer center_until_date": {
+      "comment": "Shows when something ends, for example on a transfer tile for a contract extension to show when the new contract runs out. The placeholder is a month and year, like \"June 2027\". Where \"until\" would change the ending of the month name, a label form like \"Until: %@\" is fine.",
+      "english": "Until %@",
+      "value": "تا %@"
+    },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
       "english": "League Configuration",
