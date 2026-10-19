@@ -5391,9 +5391,19 @@
       "english": "Promotion",
       "value": "Aufstieg"
     },
+    "common_promotion_to": {
+      "comment": "League table legend for the promotion places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion to Premier League\". See \"promotion\" translation.",
+      "english": "Promotion to %@",
+      "value": "Aufstieg in die %@"
+    },
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "Qualifikation zum Aufstieg"
+    },
+    "common_promotionqual_to": {
+      "comment": "League table legend for the promotion playoff places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion qualification to Premier League\". See \"promotionqual\" translation.",
+      "english": "Promotion qualification to %@",
+      "value": "Aufstiegsrelegation in die %@"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5457,9 +5467,19 @@
       "english": "Relegation",
       "value": "Abstieg"
     },
+    "common_relegation_to": {
+      "comment": "League table legend for the relegation places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation to League One\". See \"relegation\" translation.",
+      "english": "Relegation to %@",
+      "value": "Abstieg in die %@"
+    },
     "common_relegationqual": {
       "english": "Relegation qualification",
       "value": "Relegations-Playoff"
+    },
+    "common_relegationqual_to": {
+      "comment": "League table legend for the relegation playoff places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation qualification to League One\". See \"relegationqual\" translation.",
+      "english": "Relegation qualification to %@",
+      "value": "Abstiegsrelegation in die %@"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",

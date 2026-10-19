@@ -5378,9 +5378,19 @@
       "english": "Promotion",
       "value": "升级"
     },
+    "common_promotion_to": {
+      "comment": "League table legend for the promotion places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion to Premier League\". See \"promotion\" translation.",
+      "english": "Promotion to %@",
+      "value": "升级至%@"
+    },
     "common_promotionqual": {
       "english": "Promotion qualification",
       "value": "升级资格"
+    },
+    "common_promotionqual_to": {
+      "comment": "League table legend for the promotion playoff places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion qualification to Premier League\". See \"promotionqual\" translation.",
+      "english": "Promotion qualification to %@",
+      "value": "升级附加赛至%@"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5444,9 +5454,19 @@
       "english": "Relegation",
       "value": "降级"
     },
+    "common_relegation_to": {
+      "comment": "League table legend for the relegation places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation to League One\". See \"relegation\" translation.",
+      "english": "Relegation to %@",
+      "value": "降级至%@"
+    },
     "common_relegationqual": {
       "english": "Relegation qualification",
       "value": "降级预选"
+    },
+    "common_relegationqual_to": {
+      "comment": "League table legend for the relegation playoff places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation qualification to League One\". See \"relegationqual\" translation.",
+      "english": "Relegation qualification to %@",
+      "value": "降级附加赛至%@"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",

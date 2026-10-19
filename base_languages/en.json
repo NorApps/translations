@@ -4228,8 +4228,16 @@
     "common_promotion": {
       "value": "Promotion"
     },
+    "common_promotion_to": {
+      "comment": "League table legend for the promotion places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion to Premier League\". See \"promotion\" translation.",
+      "value": "Promotion to %@"
+    },
     "common_promotionqual": {
       "value": "Promotion qualification"
+    },
+    "common_promotionqual_to": {
+      "comment": "League table legend for the promotion playoff places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion qualification to Premier League\". See \"promotionqual\" translation.",
+      "value": "Promotion qualification to %@"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -4279,8 +4287,16 @@
     "common_relegation": {
       "value": "Relegation"
     },
+    "common_relegation_to": {
+      "comment": "League table legend for the relegation places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation to League One\". See \"relegation\" translation.",
+      "value": "Relegation to %@"
+    },
     "common_relegationqual": {
       "value": "Relegation qualification"
+    },
+    "common_relegationqual_to": {
+      "comment": "League table legend for the relegation playoff places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation qualification to League One\". See \"relegationqual\" translation.",
+      "value": "Relegation qualification to %@"
     },
     "common_remove_from_favorites": {
       "value": "Remove from favorites"
