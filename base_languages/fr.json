@@ -13056,6 +13056,11 @@
       "english": "Market value",
       "value": "Valeur marchande"
     },
+    "transfer center_no_loans": {
+      "comment": "Label of an active filter chip in the Transfer Center when loan moves are excluded from the list of transfers. Keep it short. See show_loans.",
+      "english": "No loans",
+      "value": "Sans prêts"
+    },
     "transfer center_player_age": {
       "comment": "Title of the filter card for filtering transfers by player age.",
       "english": "Player age",
