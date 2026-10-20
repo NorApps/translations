@@ -13014,6 +13014,11 @@
       "english": "Advanced filters",
       "value": "उन्नत फ़िल्टर"
     },
+    "transfer center_age_in_year": {
+      "comment": "Label under the player's age in the transfer preview sheet, shown instead of \"Age\" when the transfer is more than a year old, so the number is the player's age at the time of the transfer. The %@ is the year, like \"2023\". Keep it short, it sits in a narrow column under the number. See age_sentencecase.",
+      "english": "Age in %@",
+      "value": "%@ में उम्र"
+    },
     "transfer center_failed_to_load_more_transfers": {
       "comment": "Error shown when loading more transfers fails in Transfer Center. The string is HTML: the <a> element wraps the \"retry\" part, which is a link that retries the request. Keep the <a></a> tags around the equivalent of \"retry\" in every translation.",
       "english": "Failed to load more transfers, <a>retry?</a>",
@@ -13124,6 +13129,16 @@
       "comment": "String used to indicate a transfer rumour that is only speculation. The lowest probability level. The scale goes speculation - likely - imminent. Prefer one word.",
       "english": "Speculative",
       "value": "अटकल"
+    },
+    "transfer center_transfer_from_team": {
+      "comment": "Subtitle on the transfer card in the player profile, under \"Completed a transfer\" or \"Rumored transfer\": the club the player is leaving. The %@ is the club name. Where a preposition would change the ending of the club name, use a form that leaves the name unchanged. See transfer_to_team.",
+      "english": "From %@",
+      "value": "%@ से"
+    },
+    "transfer center_transfer_to_team": {
+      "comment": "Subtitle on the transfer card in the player profile, under \"Completed a transfer\" or \"Rumored transfer\": the club the player is joining. The %@ is the club name. Where a preposition would change the ending of the club name, use a form that leaves the name unchanged. See transfer_from_team.",
+      "english": "To %@",
+      "value": "%@ को"
     },
     "transfer center_until_date": {
       "comment": "Shows when something ends, for example on a transfer tile for a contract extension to show when the new contract runs out. The placeholder is a month and year, like \"June 2027\". Where \"until\" would change the ending of the month name, a label form like \"Until: %@\" is fine.",
