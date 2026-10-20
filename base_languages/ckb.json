@@ -5175,7 +5175,7 @@
     "common_penalty_off_target": {
       "comment": "Shown in match facts under the name of the player who took a penalty kick that was not on target: it went wide, over the bar, or hit the post or crossbar, and was not saved. Use the standard football term for a shot off target, not a word that means only \"wide\". Phrase it as what happened to the kick, not as something the named player did. One single kick. Use the same penalty term as saved_penalty and missed_penalty. Keep it short and concise, using whatever naturally translates to \"off target\" in the given language (for example, the most concise Norwegian is simply \"Ikke på mål\").",
       "english": "Penalty off target",
-      "value": "پێنالتی لە دەرەوەی چارچێوە"
+      "value": "لێدانی سزا بۆ دەرەوەی گۆڵ"
     },
     "common_penalty_won_subtitle": {
       "english": "Total matches",
@@ -5405,7 +5405,7 @@
     "common_promotion_to": {
       "comment": "League table legend for the promotion places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion to Premier League\". See \"promotion\" translation.",
       "english": "Promotion to %@",
-      "value": "بەرزبوونەوە بۆ %@"
+      "value": "سەرکەوتن بۆ %@"
     },
     "common_promotionqual": {
       "english": "Promotion qualification",
@@ -5414,7 +5414,7 @@
     "common_promotionqual_to": {
       "comment": "League table legend for the promotion playoff places, linking to the league one tier up. %@ is that league's name, e.g. \"Promotion qualification to Premier League\". See \"promotionqual\" translation.",
       "english": "Promotion qualification to %@",
-      "value": "پلیۆفی بەرزبوونەوە بۆ %@"
+      "value": "پاڵاوتنەکانی سەرکەوتن بۆ %@"
     },
     "common_qualification_next_stage": {
       "comment": "This table position gives qualification to the next stage",
@@ -5490,7 +5490,7 @@
     "common_relegationqual_to": {
       "comment": "League table legend for the relegation playoff places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation qualification to League One\". See \"relegationqual\" translation.",
       "english": "Relegation qualification to %@",
-      "value": "پلیۆفی دابەزین بۆ %@"
+      "value": "پاڵاوتنەکانی دابەزین بۆ %@"
     },
     "common_remove_from_favorites": {
       "english": "Remove from favorites",
@@ -13068,7 +13068,7 @@
     "transfer center_keyboard_shortcut_focus_search": {
       "comment": "In the keyboard shortcuts dialog: the shortcut puts the cursor in the search field at the top of the page",
       "english": "Focus search",
-      "value": "فۆکەس بکە لە خانەی گەڕان"
+      "value": "چوونە سەر خانەی گەڕان"
     },
     "transfer center_keyboard_shortcut_next_day": {
       "comment": "In the keyboard shortcuts dialog: the shortcut shows matches for the day after the selected day",
@@ -13153,7 +13153,7 @@
     "transfer center_until_date": {
       "comment": "Shows when something ends, for example on a transfer tile for a contract extension to show when the new contract runs out. The placeholder is a month and year, like \"June 2027\". Where \"until\" would change the ending of the month name, a label form like \"Until: %@\" is fine.",
       "english": "Until %@",
-      "value": "تا %@"
+      "value": "تاوەکو %@"
     },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
