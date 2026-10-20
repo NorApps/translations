@@ -13067,6 +13067,11 @@
       "english": "Keyboard shortcuts",
       "value": "键盘快捷键"
     },
+    "transfer center_keyboard_shortcuts_character_keys": {
+      "comment": "In the keyboard shortcuts dialog: label for a switch that turns on or off keyboard shortcuts that use only a letter or symbol key, with or without Shift (like /, t or Shift+T). Shortcuts with Ctrl or Cmd are not affected",
+      "english": "Character key shortcuts",
+      "value": "字符键快捷键"
+    },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
