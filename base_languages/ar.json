@@ -578,6 +578,11 @@
       "english": "Hide all",
       "value": "إخفاء الكل"
     },
+    "accessibility_high_claims_per_90": {
+      "comment": "Label used in stats for high claims per 90 min for keepers. A high claim is when the keeper catches or holds a high ball crossed into the box. See \"keeper_high_claim\"",
+      "english": "High claims per 90",
+      "value": "التقاط الكرات العالية لكل 90 دقيقة"
+    },
     "accessibility_highest_rank": {
       "comment": "Label for field that shows a teams highest FIFA rank value.",
       "english": "Highest rank",
@@ -885,6 +890,11 @@
       "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
       "english": "Sweeper",
       "value": "حارس ليبيرو"
+    },
+    "accessibility_keeper_sweeper_per_90": {
+      "comment": "Label used in stats for sweeper actions per 90 min for keepers. A sweeper action is when the keeper comes off the line and clears the ball outside the penalty area. See \"keeper_sweeper\"",
+      "english": "Sweeper actions per 90",
+      "value": "تدخلات الحارس كليبيرو لكل 90 دقيقة"
     },
     "accessibility_keepers": {
       "comment": "A header for the list of goalkeepers",
