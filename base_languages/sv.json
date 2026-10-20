@@ -13056,6 +13056,36 @@
         "other": "Efter %d spelade minuter"
       }
     },
+    "transfer center_keyboard_shortcut_focus_search": {
+      "comment": "In the keyboard shortcuts dialog: the shortcut puts the cursor in the search field at the top of the page",
+      "english": "Focus search",
+      "value": "Fokusera på sökfältet"
+    },
+    "transfer center_keyboard_shortcut_next_day": {
+      "comment": "In the keyboard shortcuts dialog: the shortcut shows matches for the day after the selected day",
+      "english": "Next day",
+      "value": "Nästa dag"
+    },
+    "transfer center_keyboard_shortcut_or": {
+      "comment": "In the keyboard shortcuts dialog: shown between two keys that do the same thing, as in \"/ or ⌘ K\". Keep it short, lowercase where the language allows",
+      "english": "or",
+      "value": "eller"
+    },
+    "transfer center_keyboard_shortcut_previous_day": {
+      "comment": "In the keyboard shortcuts dialog: the shortcut shows matches for the day before the selected day",
+      "english": "Previous day",
+      "value": "Föregående dag"
+    },
+    "transfer center_keyboard_shortcut_show_shortcuts": {
+      "comment": "In the keyboard shortcuts dialog: the shortcut opens the list of keyboard shortcuts",
+      "english": "Show keyboard shortcuts",
+      "value": "Visa kortkommandon"
+    },
+    "transfer center_keyboard_shortcuts": {
+      "comment": "Title of the dialog on the website that lists the keyboard shortcuts. Opened by pressing ?",
+      "english": "Keyboard shortcuts",
+      "value": "Kortkommandon"
+    },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",
