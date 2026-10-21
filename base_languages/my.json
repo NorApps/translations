@@ -6220,16 +6220,6 @@
       "english": "TV Listing",
       "value": "တီဗွီ စာရင်း"
     },
-    "common_tv_schedules_change": {
-      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
-      "english": "Click here to change or add countries",
-      "value": "နိုင်ငံများ ထည့်သွင်းရန် (သို့) ပြောင်းရန် ဤနေရာကိုနှိပ်ပါ"
-    },
-    "common_tv_schedules_change_stations": {
-      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
-      "english": "Click here to change which TV channels you see",
-      "value": "မည်သည့်ရုပ်သံလိုင်းအချိန်ဇယားအား ကြည့်ရှုမည်ကို ရွေးရန် ဤနေရာကိုနှိပ်ပါ"
-    },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",

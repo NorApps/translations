@@ -6233,16 +6233,6 @@
       "english": "TV Listing",
       "value": "Televizyon listesi"
     },
-    "common_tv_schedules_change": {
-      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
-      "english": "Click here to change or add countries",
-      "value": "Ülke değiştirmek veya eklemek için buraya tıklayın"
-    },
-    "common_tv_schedules_change_stations": {
-      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
-      "english": "Click here to change which TV channels you see",
-      "value": "Hangi TV kanallarını izlediğinizi değiştirmek için buraya tıklayın"
-    },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",

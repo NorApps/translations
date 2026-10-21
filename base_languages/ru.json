@@ -6269,16 +6269,6 @@
       "english": "TV Listing",
       "value": "ТВ программа"
     },
-    "common_tv_schedules_change": {
-      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
-      "english": "Click here to change or add countries",
-      "value": "Нажмите здесь, чтобы изменить или добавить страны"
-    },
-    "common_tv_schedules_change_stations": {
-      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
-      "english": "Click here to change which TV channels you see",
-      "value": "Нажмите здесь, чтобы изменить телеканалы в вашем списке"
-    },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",

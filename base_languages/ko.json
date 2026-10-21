@@ -6219,16 +6219,6 @@
       "english": "TV Listing",
       "value": "TV 목록"
     },
-    "common_tv_schedules_change": {
-      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
-      "english": "Click here to change or add countries",
-      "value": "여기를 클릭해서 국가 변경 또는 추가"
-    },
-    "common_tv_schedules_change_stations": {
-      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
-      "english": "Click here to change which TV channels you see",
-      "value": "여기를 클릭하여 표시할 TV 채널을 변경하세요"
-    },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "english": "Two-legged tie",

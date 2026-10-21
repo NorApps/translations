@@ -4889,14 +4889,6 @@
     "common_tv_prompt": {
       "value": "TV Listing"
     },
-    "common_tv_schedules_change": {
-      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
-      "value": "Click here to change or add countries"
-    },
-    "common_tv_schedules_change_stations": {
-      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
-      "value": "Click here to change which TV channels you see"
-    },
     "common_two_legged_tie": {
       "comment": "Header for popup for aggregated play-off matches",
       "value": "Two-legged tie"

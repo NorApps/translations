@@ -733,16 +733,6 @@
       "english": "%1$@ is returning from loan to %2$@ from %3$@",
       "value": "%1$@ vuelve de préstamo al %2$@ desde el %3$@"
     },
-    "common_tv_schedules_change": {
-      "comment": "Hint for the user indicating he can click a button to change which countries to see TV schedules for",
-      "english": "Click here to change or add countries",
-      "value": "Cambiar o agregar países"
-    },
-    "common_tv_schedules_change_stations": {
-      "comment": "Hint for the user indicating he can click a button to change which channels to see TV schedules for",
-      "english": "Click here to change which TV channels you see",
-      "value": "Cambiar los canales de TV que ves"
-    },
     "common_var_penalty_goal_retake": {
       "comment": "Penalty goal had to be retaken due to Video Assistant referee. Note that the player scored on the penalty kick in this scenario. We will show a VAR icon besides this label so keep it translated as \"Penalty goal cancelled\" with no reference to Video Assistant referee.",
       "english": "Penalty goal - to be retaken",
