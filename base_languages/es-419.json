@@ -1407,6 +1407,11 @@
       "english": "Add",
       "value": "Agregar"
     },
+    "transfer center_keyboard_shortcut_today_toast": {
+      "comment": "Short message shown at the bottom of the page after pressing the T key on the matches page, which jumps to today's matches. It reminds the user of the shortcut, so keep it as an instruction (\"Press T…\"), not \"You pressed T\". Keep \"T\" as is, it is the key on the keyboard",
+      "english": "Press T to go to today",
+      "value": "Presiona T para ir a hoy"
+    },
     "transfer center_likely_transfers": {
       "comment": "Shortcut filter chip on the rumours tab in the Transfer Center that shows only rumours with likely or higher probability. See only_likely_transfers.",
       "english": "Likely transfers",

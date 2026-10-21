@@ -10258,6 +10258,10 @@
       "comment": "In the keyboard shortcuts dialog: the shortcut opens the list of keyboard shortcuts",
       "value": "Show keyboard shortcuts"
     },
+    "transfer center_keyboard_shortcut_today_toast": {
+      "comment": "Short message shown at the bottom of the page after pressing the T key on the matches page, which jumps to today's matches. It reminds the user of the shortcut, so keep it as an instruction (\"Press T…\"), not \"You pressed T\". Keep \"T\" as is, it is the key on the keyboard",
+      "value": "Press T to go to today"
+    },
     "transfer center_keyboard_shortcuts": {
       "comment": "Title of the dialog on the website that lists the keyboard shortcuts. Opened by pressing ?",
       "value": "Keyboard shortcuts"
