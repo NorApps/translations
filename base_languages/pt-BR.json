@@ -11467,9 +11467,9 @@
       "value": "Recente"
     },
     "seo_rematch": {
-      "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
-      "english": "Rematch",
-      "value": "Revanche"
+      "comment": "Match header label for a cup tie replayed after the first match ended in a draw.",
+      "english": "Replay",
+      "value": "Jogo de desempate"
     },
     "seo_reminder_turn_on": {
       "comment": "Button label for turning on reminders when new matches are available to predict",

@@ -11466,9 +11466,9 @@
       "value": "Πρόσφατος"
     },
     "seo_rematch": {
-      "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
-      "english": "Rematch",
-      "value": "Επαναληπτικός αγώνας"
+      "comment": "Match header label for a cup tie replayed after the first match ended in a draw.",
+      "english": "Replay",
+      "value": "Επανάληψη αγώνα"
     },
     "seo_reminder_turn_on": {
       "comment": "Button label for turning on reminders when new matches are available to predict",

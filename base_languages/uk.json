@@ -11518,8 +11518,8 @@
       "value": "Недавній"
     },
     "seo_rematch": {
-      "comment": "Indicates that this is a rematch. In some cups if the first match ends in a draw, they play again in a rematch to decide who will progress.",
-      "english": "Rematch",
+      "comment": "Match header label for a cup tie replayed after the first match ended in a draw.",
+      "english": "Replay",
       "value": "Перегравання"
     },
     "seo_reminder_turn_on": {
