@@ -119,7 +119,7 @@
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
       "english": "assist by %@",
-      "value": "پاس گل توسط%@"
+      "value": "پاس گل توسط %@"
     },
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
@@ -2213,7 +2213,7 @@
     "accessibility_team_score": {
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
       "english": "%@ scores!",
-      "value": "گـــــل! %@"
+      "value": "%@ گل زد!"
     },
     "accessibility_team_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a team page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are things like Overview, Table, Fixtures, Squad and Stats. Keep it parallel to \"league_sections_nav\". Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
@@ -7179,7 +7179,7 @@
     },
     "new_player_scores": {
       "english": "%@ scores!",
-      "value": "گـــــل! %@"
+      "value": "%@ گل زد!"
     },
     "new_player_sent_off": {
       "comment": "Information message that a player has received a red card",
