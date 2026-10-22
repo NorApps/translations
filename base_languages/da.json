@@ -5689,6 +5689,11 @@
       "english": "Select all",
       "value": "Vælg alle"
     },
+    "common_select_appearance": {
+      "comment": "Title of the screen where the user picks how the live score home screen widget looks, for example with a normal or a transparent background.",
+      "english": "Select appearance",
+      "value": "Vælg udseende"
+    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Vælg favoritter"
@@ -5702,6 +5707,11 @@
       "english": "Select league",
       "value": "Vælg turnering"
     },
+    "common_select_news_source": {
+      "comment": "Title of the screen where the user picks what the news home screen widget shows: world news, or news about a team or league.",
+      "english": "Select news source",
+      "value": "Vælg nyhedskilde"
+    },
     "common_select_player": {
       "comment": "Button label for comparing two players to each other",
       "english": "Select player",
@@ -5713,7 +5723,7 @@
       "value": "Vælg sæson"
     },
     "common_select_team": {
-      "comment": "Button label for comparing two players to each other",
+      "comment": "Button label for comparing two players to each other. Also the title of the screen where the user picks the team shown in the team home screen widget.",
       "english": "Select team",
       "value": "Vælg hold"
     },
@@ -6375,10 +6385,6 @@
       "comment": "Header for a poll where we ask the user who he thinks will win the match",
       "english": "Who will win?",
       "value": "Hvem vinder?"
-    },
-    "common_widget_configure_title": {
-      "english": "Configure widget",
-      "value": "Indstil widget"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",

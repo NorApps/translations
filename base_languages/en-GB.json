@@ -1658,10 +1658,6 @@
       "english": "When phone is set to vibrate",
       "value": "When phone is set to vibrate"
     },
-    "common_widget_configure_title": {
-      "english": "Configure widget",
-      "value": "Configure widget"
-    },
     "common_widget_empty_text": {
       "comment": "Widget strings",
       "english": "No starred matches or matches with alerts today",

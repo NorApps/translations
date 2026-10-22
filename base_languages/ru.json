@@ -5725,6 +5725,11 @@
       "english": "Select all",
       "value": "Выбрать все"
     },
+    "common_select_appearance": {
+      "comment": "Title of the screen where the user picks how the live score home screen widget looks, for example with a normal or a transparent background.",
+      "english": "Select appearance",
+      "value": "Выберите внешний вид"
+    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Выбрать избранное"
@@ -5738,6 +5743,11 @@
       "english": "Select league",
       "value": "Выберите лигу"
     },
+    "common_select_news_source": {
+      "comment": "Title of the screen where the user picks what the news home screen widget shows: world news, or news about a team or league.",
+      "english": "Select news source",
+      "value": "Выберите источник новостей"
+    },
     "common_select_player": {
       "comment": "Button label for comparing two players to each other",
       "english": "Select player",
@@ -5749,7 +5759,7 @@
       "value": "Выберите сезон"
     },
     "common_select_team": {
-      "comment": "Button label for comparing two players to each other",
+      "comment": "Button label for comparing two players to each other. Also the title of the screen where the user picks the team shown in the team home screen widget.",
       "english": "Select team",
       "value": "Выберите клуб"
     },
@@ -6411,10 +6421,6 @@
       "comment": "Header for a poll where we ask the user who he thinks will win the match",
       "english": "Who will win?",
       "value": "Кто победит?"
-    },
-    "common_widget_configure_title": {
-      "english": "Configure widget",
-      "value": "Настроить виджет"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",

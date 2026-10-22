@@ -5676,6 +5676,11 @@
       "english": "Select all",
       "value": "选中全部"
     },
+    "common_select_appearance": {
+      "comment": "Title of the screen where the user picks how the live score home screen widget looks, for example with a normal or a transparent background.",
+      "english": "Select appearance",
+      "value": "选择外观"
+    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "选择最爱"
@@ -5689,6 +5694,11 @@
       "english": "Select league",
       "value": "选择联赛"
     },
+    "common_select_news_source": {
+      "comment": "Title of the screen where the user picks what the news home screen widget shows: world news, or news about a team or league.",
+      "english": "Select news source",
+      "value": "选择新闻来源"
+    },
     "common_select_player": {
       "comment": "Button label for comparing two players to each other",
       "english": "Select player",
@@ -5700,7 +5710,7 @@
       "value": "选择赛季"
     },
     "common_select_team": {
-      "comment": "Button label for comparing two players to each other",
+      "comment": "Button label for comparing two players to each other. Also the title of the screen where the user picks the team shown in the team home screen widget.",
       "english": "Select team",
       "value": "选择球队"
     },
@@ -6362,10 +6372,6 @@
       "comment": "Header for a poll where we ask the user who he thinks will win the match",
       "english": "Who will win?",
       "value": "谁将获胜？"
-    },
-    "common_widget_configure_title": {
-      "english": "Configure widget",
-      "value": "配置小插件"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",

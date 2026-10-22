@@ -5689,6 +5689,11 @@
       "english": "Select all",
       "value": "Alles selecteren"
     },
+    "common_select_appearance": {
+      "comment": "Title of the screen where the user picks how the live score home screen widget looks, for example with a normal or a transparent background.",
+      "english": "Select appearance",
+      "value": "Weergave selecteren"
+    },
     "common_select_favorites": {
       "english": "Select favorites",
       "value": "Favorieten selecteren"
@@ -5700,7 +5705,12 @@
     },
     "common_select_league": {
       "english": "Select league",
-      "value": "Selecteer competitie"
+      "value": "Competitie selecteren"
+    },
+    "common_select_news_source": {
+      "comment": "Title of the screen where the user picks what the news home screen widget shows: world news, or news about a team or league.",
+      "english": "Select news source",
+      "value": "Nieuwsbron selecteren"
     },
     "common_select_player": {
       "comment": "Button label for comparing two players to each other",
@@ -5713,7 +5723,7 @@
       "value": "Seizoen selecteren"
     },
     "common_select_team": {
-      "comment": "Button label for comparing two players to each other",
+      "comment": "Button label for comparing two players to each other. Also the title of the screen where the user picks the team shown in the team home screen widget.",
       "english": "Select team",
       "value": "Team selecteren"
     },
@@ -6375,10 +6385,6 @@
       "comment": "Header for a poll where we ask the user who he thinks will win the match",
       "english": "Who will win?",
       "value": "Wie gaat er winnen?"
-    },
-    "common_widget_configure_title": {
-      "english": "Configure widget",
-      "value": "Widget configureren"
     },
     "common_widget_empty_text": {
       "comment": "Widget strings",
