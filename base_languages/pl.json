@@ -6420,6 +6420,16 @@
       "english": "Who will win?",
       "value": "Kto wygra?"
     },
+    "common_widget_appearance_normal": {
+      "comment": "Option on the screen where the user picks how the live score home screen widget looks: the widget with its regular, solid background. The other option is Transparent.",
+      "english": "Normal",
+      "value": "Normalny"
+    },
+    "common_widget_appearance_transparent": {
+      "comment": "Option on the screen where the user picks how the live score home screen widget looks: the widget without a background, so the home screen wallpaper shows through. The other option is Normal.",
+      "english": "Transparent",
+      "value": "Przezroczysty"
+    },
     "common_widget_empty_text": {
       "comment": "Widget strings",
       "english": "No starred matches or matches with alerts today",
