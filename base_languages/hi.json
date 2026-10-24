@@ -4392,6 +4392,11 @@
       "english": "%d kg",
       "value": "%d किलो"
     },
+    "common_kickoff_not_confirmed": {
+      "comment": "Short label next to the kick-off date on the match page when the match date or kick-off time is not confirmed yet.",
+      "english": "TBC",
+      "value": "तय नहीं"
+    },
     "common_knockout_stage": {
       "comment": "Used as header for vertical bracket view",
       "english": "Knockout Stage",

@@ -3451,6 +3451,10 @@
       "comment": "Weight of person in kg",
       "value": "%d kg"
     },
+    "common_kickoff_not_confirmed": {
+      "comment": "Short label next to the kick-off date on the match page when the match date or kick-off time is not confirmed yet.",
+      "value": "TBC"
+    },
     "common_knockout_stage": {
       "comment": "Used as header for vertical bracket view",
       "value": "Knockout Stage"
