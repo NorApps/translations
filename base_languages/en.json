@@ -10248,12 +10248,20 @@
       "comment": "Label under the right end of the timeframe range slider in the Transfer Center filters. Shown above the end of the period, e.g. \"Today\" or \"6 months\" (meaning 6 months ago). Not the \"to\" club on a transfer. Keep it short. See filter_range_from and filter_range_maximum.",
       "value": "To"
     },
+    "transfer center_fun_fact_stepped_in_as_goalkeeper": {
+      "comment": "Fun fact on a player's match stats card, shown when an outfield player (not a goalkeeper) had to take over in goal during the match, for example after the goalkeeper was sent off. It is not about coming on as a substitute. Same style as \"Received a red card\".",
+      "value": "Stepped in as goalkeeper"
+    },
     "transfer center_gfx_statcard_timestamp": {
       "comment": "Text to show on match stats graphics to show when in the match the stats were fetched, eg \"After 1 minute played\" when only 1 minute has passed and \"After 23 minutes played\" when 23 minutes have passed.",
       "plurals": {
         "one": "After 1 minute played",
         "other": "After %d minutes played"
       }
+    },
+    "transfer center_keeper_pickups": {
+      "comment": "Goalkeeper stat on a player's match stats card, shown with a count: how many times the goalkeeper picked the ball up with their hands, like a loose ball or an easy shot. Catching a cross is counted separately as High claim. See keeper_high_claim translation and word this to match it in your language, the way Norwegian pairs \"Plukket høy ball\" with \"Plukket opp ballen\". Keep the same style as Punches too.",
+      "value": "Pickups"
     },
     "transfer center_keyboard_shortcut_focus_search": {
       "comment": "In the keyboard shortcuts dialog: the shortcut puts the cursor in the search field at the top of the page",

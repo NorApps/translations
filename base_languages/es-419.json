@@ -1407,6 +1407,11 @@
       "english": "Add",
       "value": "Agregar"
     },
+    "transfer center_fun_fact_stepped_in_as_goalkeeper": {
+      "comment": "Fun fact on a player's match stats card, shown when an outfield player (not a goalkeeper) had to take over in goal during the match, for example after the goalkeeper was sent off. It is not about coming on as a substitute. Same style as \"Received a red card\".",
+      "english": "Stepped in as goalkeeper",
+      "value": "Actuó como arquero"
+    },
     "transfer center_keyboard_shortcut_today_toast": {
       "comment": "Short message shown at the bottom of the page after pressing the T key on the matches page, which jumps to today's matches. It reminds the user of the shortcut, so keep it as an instruction (\"Press T…\"), not \"You pressed T\". Keep \"T\" as is, it is the key on the keyboard",
       "english": "Press T to go to today",
