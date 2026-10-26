@@ -13079,11 +13079,6 @@
         "other": "Após %d minutos de jogo"
       }
     },
-    "transfer center_keeper_pickups": {
-      "comment": "Goalkeeper stat on a player's match stats card, shown with a count: how many times the goalkeeper picked the ball up with their hands, like a loose ball or an easy shot. Catching a cross is counted separately as High claim. See keeper_high_claim translation and word this to match it in your language, the way Norwegian pairs \"Plukket høy ball\" with \"Plukket opp ballen\". Keep the same style as Punches too.",
-      "english": "Pickups",
-      "value": "Bolas recolhidas"
-    },
     "transfer center_keyboard_shortcut_focus_search": {
       "comment": "In the keyboard shortcuts dialog: the shortcut puts the cursor in the search field at the top of the page",
       "english": "Focus search",
