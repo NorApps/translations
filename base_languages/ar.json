@@ -124,7 +124,7 @@
     "accessibility_assists_per_90": {
       "comment": "Goal assists per 90 min",
       "english": "Assists per 90",
-      "value": "تمريرات حاسمة لكل 90 دقيقة"
+      "value": "صناعة الأهداف لكل 90 دقيقة"
     },
     "accessibility_attackers": {
       "english": "Forwards",
@@ -516,12 +516,12 @@
     "accessibility_goals_and_assists": {
       "comment": "Label used in stats for the sum of goals and assists",
       "english": "Goals + Assists",
-      "value": "الأهداف + التمريرات الحاسمة"
+      "value": "المساهمات التهديفية"
     },
     "accessibility_goals_and_assists_per_90": {
       "comment": "Label used in stats for the sum of goals and assists per 90 min",
       "english": "Goals + Assists per 90",
-      "value": "الأهداف + التمريرات الحاسمة لكل 90 دقيقة"
+      "value": "المساهمات التهديفية لكل 90 دقيقة"
     },
     "accessibility_goals_conceded_per_90": {
       "comment": "Label used in stats for goals conceded per 90 for keepers.",
@@ -2538,7 +2538,7 @@
     "accessibility_xg_and_xa": {
       "comment": "Label used in stats for the sum of expexted goals and expexted assists",
       "english": "xG + xA",
-      "value": "الأهداف المتوقعة + التمريرات المتوقعة"
+      "value": "xG + xA"
     },
     "accessibility_xg_and_xa_per_90": {
       "comment": "Label used in stats for the sum of expexted goals and expexted assists per 90 min",
@@ -4117,7 +4117,7 @@
     "common_goal_assist_subtitle": {
       "comment": "Set piece is corner kick, free-kick or throw in",
       "english": "Assists via set piece",
-      "value": "تمريرات حاسمة من كرات ثابتة"
+      "value": "صناعة الأهداف من الكرات الثابتة"
     },
     "common_goal_assist_title": {
       "english": "Assists",
@@ -4977,7 +4977,7 @@
     "common_no_top_assists": {
       "comment": "Empty placeholder for the case of empty top-assists",
       "english": "No top assists available",
-      "value": "لا توجد تمريرات حاسمة متاحة"
+      "value": "لا تتوفر بيانات صناعة الأهداف"
     },
     "common_no_top_scorers": {
       "comment": "Empty placeholder for the case of empty top-scorers",
@@ -6197,7 +6197,7 @@
     "common_top_assist": {
       "comment": "Label for the top assist player in the Team Profile",
       "english": "Top assist",
-      "value": "أفضل مساعد"
+      "value": "أفضل صانع أهداف"
     },
     "common_top_rated": {
       "comment": "Label for the top rated player in the Team Profile",
