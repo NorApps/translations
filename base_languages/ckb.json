@@ -4396,7 +4396,7 @@
     "common_kickoff_not_confirmed": {
       "comment": "Short label next to the kick-off date on the match page when the match date or kick-off time is not confirmed yet.",
       "english": "TBC",
-      "value": "پشتڕاست نەکراوە"
+      "value": "پشتڕاست نەکراوەتەوە"
     },
     "common_knockout_stage": {
       "comment": "Used as header for vertical bracket view",
@@ -13068,7 +13068,7 @@
     "transfer center_fun_fact_stepped_in_as_goalkeeper": {
       "comment": "Fun fact on a player's match stats card, shown when an outfield player (not a goalkeeper) had to take over in goal during the match, for example after the goalkeeper was sent off. It is not about coming on as a substitute. Same style as \"Received a red card\".",
       "english": "Stepped in as goalkeeper",
-      "value": "وەک دروازەوان جێگەی گرت"
+      "value": "وەک گۆڵچی یاریەکەی تەواوکرد"
     },
     "transfer center_gfx_statcard_timestamp": {
       "comment": "Text to show on match stats graphics to show when in the match the stats were fetched, eg \"After 1 minute played\" when only 1 minute has passed and \"After 23 minutes played\" when 23 minutes have passed.",
