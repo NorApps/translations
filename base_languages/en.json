@@ -6850,6 +6850,10 @@
     "notifications_national_team": {
       "value": "National team"
     },
+    "notifications_national_team_youth": {
+      "comment": "Section header on the player Career tab for the youth national teams a player has played for (U23, U21, U19 and so on). Listed right below the senior \"National team\" section",
+      "value": "Youth national team"
+    },
     "notifications_netherlands": {
       "value": "Netherlands"
     },

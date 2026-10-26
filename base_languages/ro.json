@@ -8788,6 +8788,11 @@
       "english": "National team",
       "value": "Echipa națională"
     },
+    "notifications_national_team_youth": {
+      "comment": "Section header on the player Career tab for the youth national teams a player has played for (U23, U21, U19 and so on). Listed right below the senior \"National team\" section",
+      "english": "Youth national team",
+      "value": "Naționale de tineret și juniori"
+    },
     "notifications_netherlands": {
       "english": "Netherlands",
       "value": "Olanda"
