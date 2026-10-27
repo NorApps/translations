@@ -10316,6 +10316,11 @@
       "english": "Fixture difficulty",
       "value": "मैच कठिनाई स्तर"
     },
+    "seo_fixture_difficulty_short": {
+      "comment": "Short version of fixture_difficulty for the league table's team filter menu, next to Overall, Home, Away and xG. It's shown in a narrow button, so keep it as short as possible. Use the same term as fixture_difficulty in your language without its qualifier (e.g. \"Fixture difficulty\" → \"Difficulty\"). If fixture_difficulty doesn't use a word for difficulty (like Norwegian \"Kampprogram\"), use the same word here.",
+      "english": "Difficulty",
+      "value": "कठिनाई"
+    },
     "seo_follow_players_to_track_performances": {
       "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
       "english": "Follow players to track performances and transfers.",
