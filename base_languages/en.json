@@ -7944,6 +7944,10 @@
       "comment": "Label for estimated transfer fee (transfer sum) in the rumour fee column and above the estimated fee filter. Not an official fee, but estimated for the rumour. Important: keep it very short, used in a transfer context so that is implied. See transfer_reported_fee. See transfer_fee.",
       "value": "Estimated fee"
     },
+    "seo_estimated_fee_unknown": {
+      "comment": "Shown as the value of estimated_fee when a transfer rumour has no estimated fee. Must agree in gender and number with the noun in estimated_fee (French: Montant estimé, Inconnu). Keep it short.",
+      "value": "Unknown"
+    },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
       "value": "Europa Cup Qualification"

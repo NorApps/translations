@@ -10135,6 +10135,11 @@
       "english": "Estimated fee",
       "value": "Estimasi biaya"
     },
+    "seo_estimated_fee_unknown": {
+      "comment": "Shown as the value of estimated_fee when a transfer rumour has no estimated fee. Must agree in gender and number with the noun in estimated_fee (French: Montant estimé, Inconnu). Keep it short.",
+      "english": "Unknown",
+      "value": "Tidak diketahui"
+    },
     "seo_europacupqual": {
       "comment": "This is a new tournament below the Champions League for Women. Official name is UEFA Women's Europa Cup https://en.wikipedia.org/wiki/UEFA_Women%27s_Europa_Cup",
       "english": "Europa Cup Qualification",
