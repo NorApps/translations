@@ -4418,7 +4418,7 @@
     "common_keeper": {
       "comment": "MAX 2 chars!",
       "english": "GK",
-      "value": "Gk"
+      "value": "GK"
     },
     "common_keeper_diving_save": {
       "comment": "Keeper dives to save the ball",
