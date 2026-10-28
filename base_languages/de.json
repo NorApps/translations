@@ -7883,15 +7883,6 @@
       "english": "Distribution",
       "value": "Ballabgaben"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- „Nicht stören“ ist aktiviert"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "Nicht stören"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "Nicht wieder anzeigen"

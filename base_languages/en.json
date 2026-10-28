@@ -6168,13 +6168,6 @@
       "comment": "Header for stats regarding passes, long balls, crosses and chances created in the match",
       "value": "Distribution"
     },
-    "notifications_dnd_is_enabled": {
-      "value": "- \"Do not disturb\" is enabled"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "value": "Do not disturb"
-    },
     "notifications_dont_show_again": {
       "value": "Don't show again"
     },

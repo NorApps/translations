@@ -7868,15 +7868,6 @@
       "english": "Distribution",
       "value": "分布"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- 「サイレントモード」が有効になっている"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "サイレントモード"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "今後表示しない"

@@ -7867,15 +7867,6 @@
       "english": "Distribution",
       "value": "数据分布"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- \"免打扰\"已开启"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "免打扰"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "不再显示"

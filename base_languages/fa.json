@@ -7875,15 +7875,6 @@
       "english": "Distribution",
       "value": "اطلاعات"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- \"مزاحم نشوید\" فعال است"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "مزاحم نشوید"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "دوباره نشان داده نشود"

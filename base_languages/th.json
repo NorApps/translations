@@ -7866,15 +7866,6 @@
       "english": "Distribution",
       "value": "การส่งบอล"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- เปิดใช้งานโหมด “อย่ารบกวน”"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "อย่ารบกวน"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "อย่าแสดงอีก"

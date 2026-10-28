@@ -7957,15 +7957,6 @@
       "english": "Distribution",
       "value": "التوزيع"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- وضع عدم الإزعاج مُفعّل"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "عدم الإزعاج"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "لا تعرض مجددًا"

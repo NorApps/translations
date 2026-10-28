@@ -7882,15 +7882,6 @@
       "english": "Distribution",
       "value": "Dağılım"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- \"Rahatsız etme\" özelliği etkinleştirilmiş"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "Rahatsız etme"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "Tekrar gösterme"

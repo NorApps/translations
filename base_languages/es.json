@@ -7883,15 +7883,6 @@
       "english": "Distribution",
       "value": "Distribución"
     },
-    "notifications_dnd_is_enabled": {
-      "english": "- \"Do not disturb\" is enabled",
-      "value": "- La opción de \"No molestar\" está activada"
-    },
-    "notifications_do_not_disturb": {
-      "comment": "Button with shortcut to system settings",
-      "english": "Do not disturb",
-      "value": "No molestar"
-    },
     "notifications_dont_show_again": {
       "english": "Don't show again",
       "value": "No volver a mostrar"
