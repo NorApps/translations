@@ -257,6 +257,11 @@
       "english": "Most recent",
       "value": "Most recent"
     },
+    "accessibility_news_widget_description": {
+      "comment": "Description of the news widget in the home screen widget picker. It shows the latest news from world football, or from a team or league the user picks. Keep it short.",
+      "english": "Breaking news, transfers and rumors",
+      "value": "Breaking news, transfers and rumours"
+    },
     "accessibility_no_bots_allowed": {
       "comment": "Text shown in the footer to emphasize that web scraping is not permitted.",
       "english": "The use of automatic services (robots, crawler, indexing etc.) as well as other methods for systematic or regular use is not permitted.",

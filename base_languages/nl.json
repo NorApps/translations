@@ -912,10 +912,20 @@
       "english": "View today's matches with live updates",
       "value": "Bekijk de wedstrijden van vandaag met live updates"
     },
+    "accessibility_league_widget_description": {
+      "comment": "Description of the league widget in the home screen widget picker. It shows today's matches with live scores from one league or cup the user picks. Keep it short.",
+      "english": "Live scores from one competition",
+      "value": "Live scores van één competitie"
+    },
     "accessibility_league_widget_header": {
       "comment": "Header for a widget where you get an overview of a league's matches",
       "english": "League Widget",
       "value": "Competitiewidget"
+    },
+    "accessibility_league_widget_name": {
+      "comment": "Name of the league widget in the home screen widget picker. The widget shows matches from one league or cup.",
+      "english": "League",
+      "value": "Competitie"
     },
     "accessibility_learn_more_cta": {
       "comment": "A call-to-action to read more about a subject. The placeholder is just a link to the info-page. Make sure to keep <a href=\"%@\"> & </a> in the translation",
@@ -1079,6 +1089,16 @@
         "other": "%d resterende wedstrijden"
       }
     },
+    "accessibility_matches_widget_description": {
+      "comment": "Description of the matches widget in the home screen widget picker. It shows live scores for the matches the user follows and for matches of the teams they follow. Keep it short.",
+      "english": "Live scores for your teams and matches",
+      "value": "Live scores van je teams en wedstrijden"
+    },
+    "accessibility_matches_widget_name": {
+      "comment": "Name of the matches widget in the home screen widget picker. The widget shows the matches the user follows.",
+      "english": "Matches",
+      "value": "Wedstrijden"
+    },
     "accessibility_midfielders": {
       "comment": "A header for the list of midfielders",
       "english": "Midfielders",
@@ -1240,6 +1260,16 @@
       "comment": "Invisible accessible name for the tab bar that switches between the sections of the news page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are news categories such as Top news and Transfers. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "News sections",
       "value": "Nieuwssecties"
+    },
+    "accessibility_news_widget_description": {
+      "comment": "Description of the news widget in the home screen widget picker. It shows the latest news from world football, or from a team or league the user picks. Keep it short.",
+      "english": "Breaking news, transfers and rumors",
+      "value": "Het laatste nieuws, transfers en geruchten"
+    },
+    "accessibility_news_widget_name": {
+      "comment": "Name of the news widget in the home screen widget picker.",
+      "english": "News",
+      "value": "Nieuws"
     },
     "accessibility_no_bots_allowed": {
       "comment": "Text shown in the footer to emphasize that web scraping is not permitted.",
@@ -2219,6 +2249,16 @@
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a team page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are things like Overview, Table, Fixtures, Squad and Stats. Keep it parallel to \"league_sections_nav\". Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
       "english": "Team sections",
       "value": "Teamsecties"
+    },
+    "accessibility_team_widget_description": {
+      "comment": "Description of the team widget in the home screen widget picker. It shows the selected team's last result, next match (with the live score while it's playing) and news. Keep it short.",
+      "english": "Your team's next match, live score and news",
+      "value": "Volgende wedstrijd, live score en nieuws"
+    },
+    "accessibility_team_widget_name": {
+      "comment": "Name of the team widget in the home screen widget picker. The widget shows one team's matches and news.",
+      "english": "Team",
+      "value": "Team"
     },
     "accessibility_template_10096": {
       "comment": "Tournament between women club teams",

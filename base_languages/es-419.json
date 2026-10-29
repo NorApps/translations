@@ -96,6 +96,11 @@
       "english": "View today's matches with live updates",
       "value": "Ve los partidos de hoy con actualizaciones en vivo"
     },
+    "accessibility_league_widget_description": {
+      "comment": "Description of the league widget in the home screen widget picker. It shows today's matches with live scores from one league or cup the user picks. Keep it short.",
+      "english": "Live scores from one competition",
+      "value": "Resultados en vivo de una competencia"
+    },
     "accessibility_live_activities": {
       "comment": "A new feature in iOS 16: See https://www.apple.com/[your-language-code]/ios/ios-16/ for the proper naming scheme",
       "english": "Live Activities",
@@ -125,6 +130,11 @@
       "comment": "Used in onboarding of live activities on tooltip",
       "english": "Tap the star to add the match to your lock screen",
       "value": "Toca la estrella para agregar el partido a tu pantalla de bloqueo"
+    },
+    "accessibility_matches_widget_description": {
+      "comment": "Description of the matches widget in the home screen widget picker. It shows live scores for the matches the user follows and for matches of the teams they follow. Keep it short.",
+      "english": "Live scores for your teams and matches",
+      "value": "Resultados en vivo de tus equipos y partidos"
     },
     "accessibility_midfielders": {
       "comment": "A header for the list of midfielders",
@@ -228,6 +238,11 @@
       "comment": "Translate same as player_scores. Some languages has a different translation of team vs player score.",
       "english": "%@ scores!",
       "value": "¡%@ marcó!"
+    },
+    "accessibility_team_widget_description": {
+      "comment": "Description of the team widget in the home screen widget picker. It shows the selected team's last result, next match (with the live score while it's playing) and news. Keep it short.",
+      "english": "Your team's next match, live score and news",
+      "value": "Próximo partido, marcador en vivo y noticias"
     },
     "accessibility_template_world_cup_qualification": {
       "comment": "Qualification for the World Cup in Football, https://en.wikipedia.org/wiki/FIFA_World_Cup.",
