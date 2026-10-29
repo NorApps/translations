@@ -5819,10 +5819,6 @@
       "comment": "Prompt to ask user to add a favorite team or player by clicking a button with \"+\" in it",
       "value": "Tap + to add a favorite team or player"
     },
-    "notifications_add_widget": {
-      "comment": "Call to action button for user adding widget to home screen.",
-      "value": "Add widget"
-    },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
       "plurals": {

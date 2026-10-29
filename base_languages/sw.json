@@ -7428,11 +7428,6 @@
       "english": "Tap + to add a favorite team or player",
       "value": "Bofya + kuongeza timu au mchezaji mpendwa"
     },
-    "notifications_add_widget": {
-      "comment": "Call to action button for user adding widget to home screen.",
-      "english": "Add widget",
-      "value": "Ongeza Widget"
-    },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
       "english": "+%d minutes added",

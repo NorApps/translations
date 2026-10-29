@@ -7421,11 +7421,6 @@
       "english": "Tap + to add a favorite team or player",
       "value": "برای افزودن تیم یا بازیکن مورد علاقه خود، روی + ضربه بزنید"
     },
-    "notifications_add_widget": {
-      "comment": "Call to action button for user adding widget to home screen.",
-      "english": "Add widget",
-      "value": "افزودن ویجت"
-    },
     "notifications_added_injury_time": {
       "comment": "NB! It's still in use for AW & Android String indicating how many minutes of injury time is added when minutes is 1",
       "english": "+%d minutes added",
