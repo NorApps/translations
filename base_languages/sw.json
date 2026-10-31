@@ -830,7 +830,7 @@
       "value": "Kuingilia kati wa 90"
     },
     "accessibility_international_clubs": {
-      "comment": "Header listing a list of tournaments where clubs from different countries participate. Like Champions League.",
+      "comment": "Heading over tournaments like the Champions League. Keep the \" - \"; the text before it is also shown alone and must match the national-teams heading. See \"international_national_teams\".",
       "english": "International - clubs",
       "value": "Kimataifa - Vilabu"
     },
@@ -4399,7 +4399,7 @@
       "value": "Kimataifa"
     },
     "common_international_national_teams": {
-      "comment": "Header indication for a list of tournaments where national teams play each other. So country vs country like England vs Brazil as opposed to club competitions where Barcelona play Manchester United.",
+      "comment": "Heading over tournaments like the World Cup. Keep the \" - \"; the text before it is also shown alone and must match the clubs heading. See \"international_clubs\".",
       "english": "International - national teams",
       "value": "Kimataifa - Timu za Kitaifa"
     },
