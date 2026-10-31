@@ -3828,7 +3828,7 @@
     },
     "common_fulltime_short": {
       "english": "FT",
-      "value": "FF"
+      "value": "F"
     },
     "common_fun_fact_conceded_penalty_plurals": {
       "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
@@ -4286,7 +4286,7 @@
     },
     "common_halftime_short": {
       "english": "HT",
-      "value": "PR"
+      "value": "P"
     },
     "common_headed_clearance": {
       "comment": "Successful defensive clearance via a header – where player under pressure heads the ball clear of the defensive zone or/and out of play",
