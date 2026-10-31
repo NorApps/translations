@@ -2683,7 +2683,7 @@
     },
     "common_after90": {
       "english": "After fulltime",
-      "value": "Prelungiri"
+      "value": "Final timp regulamentar"
     },
     "common_afterextra": {
       "english": "After extra time",
@@ -2955,7 +2955,7 @@
     "common_cancelled_short": {
       "comment": "Short version of the translation of [cancelled]. Max 2 chars.",
       "english": "Ca",
-      "value": "Anu"
+      "value": "AN"
     },
     "common_capacity": {
       "comment": "Label indicating how many people the stadium can take (have capacity for)",
@@ -5195,7 +5195,7 @@
     },
     "common_pauseextratime": {
       "english": "Pause extra time",
-      "value": "Pauză după prelungiri"
+      "value": "Pauză în prelungiri"
     },
     "common_penalties_faced": {
       "comment": "Label for number of penalties a keeper has encountered/faced in season",
@@ -5715,7 +5715,7 @@
     },
     "common_secondextrahalf": {
       "english": "Second extra half",
-      "value": "Prelungirea reprizei a doua"
+      "value": "A doua repriză de prelungiri"
     },
     "common_secondhalf": {
       "english": "Second half",
