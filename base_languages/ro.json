@@ -553,7 +553,7 @@
     "accessibility_h2h_short": {
       "comment": "Shortname of 'Head to head'. This tab shows how two teams have fared against each other in the past. Needs to be kept short. Use 'H2h' if it makes sense in the language",
       "english": "H2H",
-      "value": "MD"
+      "value": "H2H"
     },
     "accessibility_headed_clearances_per_90": {
       "comment": "Clearances via head per 90",
@@ -3065,7 +3065,7 @@
     "common_centerdefensivemidfielder_short": {
       "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "DM",
-      "value": "MD"
+      "value": "MDC"
     },
     "common_centermidfielder": {
       "comment": "Player position - player plays in the center of the midfield",
@@ -12151,7 +12151,7 @@
     "seo_site_title_match": {
       "comment": "Title of the match page. Typically displayed in the tab header in the browser",
       "english": "%1$@ vs %2$@ - live score, predicted lineups and H2H stats",
-      "value": "%1$@ vs %2$@ - scor live, primul 11 prezis și statistici MD"
+      "value": "%1$@ vs %2$@ - scor live, primul 11 prezis și statistici H2H"
     },
     "seo_site_title_player": {
       "comment": "Title for the page for a player. With name as input. Eg \"Frank Lampard - stats, career and market value\"",
