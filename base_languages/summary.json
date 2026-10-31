@@ -32,7 +32,10 @@
     "uk",
     "vi",
     "zh-Hans",
-    "en-GB"
+    "en-GB",
+    "bg",
+    "cs",
+    "hu"
   ],
   "coverage": {
     "en": {
@@ -194,6 +197,21 @@
       "translated": 715,
       "total": 2759,
       "percentage": 25.92
+    },
+    "bg": {
+      "translated": 2759,
+      "total": 2759,
+      "percentage": 100.0
+    },
+    "cs": {
+      "translated": 2759,
+      "total": 2759,
+      "percentage": 100.0
+    },
+    "hu": {
+      "translated": 2759,
+      "total": 2759,
+      "percentage": 100.0
     }
   }
 }
