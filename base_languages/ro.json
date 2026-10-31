@@ -9,12 +9,12 @@
     "accessibility_accurate_cross_team_subtitle": {
       "comment": "Label used in stats for cross success percentage (accurate/total)",
       "english": "Cross success",
-      "value": "Pase din lateral reușite"
+      "value": "Precizia centrărilor"
     },
     "accessibility_accurate_cross_team_title": {
       "comment": "Label used in stats for accurate crosses per match",
       "english": "Accurate crosses per match",
-      "value": "Pase din lateral precise per meci"
+      "value": "Centrări precise per meci"
     },
     "accessibility_accurate_long_balls_subtitle": {
       "comment": "Label used in stats for Successful long balls percentage. accurate/total.",
@@ -343,7 +343,7 @@
     "accessibility_effective_clearance_per_90": {
       "comment": "Label used in stats for clearances per 90",
       "english": "Clearances per 90",
-      "value": "Ieșiri din apărare per 90"
+      "value": "Degajări per 90"
     },
     "accessibility_enable_push_description_live_activity": {
       "comment": "Description for push reminder for live activities",
@@ -468,7 +468,7 @@
     "accessibility_fouls_won": {
       "comment": "Number of fouls a player has won in a match",
       "english": "Fouls won",
-      "value": "Faulturi câștigate"
+      "value": "Faulturi suferite"
     },
     "accessibility_from_corner": {
       "comment": "A shot setup description. Goal was scored from a corner.",
@@ -753,7 +753,7 @@
     "accessibility_insights_player_most_chances_for_team": {
       "comment": "A player has created the most big chances for a given team. Example: \"[Harry Kane] has created the most big chances for [Tottenham] ([17])\"",
       "english": "%1$@ has created the most big chances for %2$@ (%3$@)",
-      "value": "%1$@ a creat cele mai multe șanse pentru %2$@ (%3$@)"
+      "value": "%1$@ a creat cele mai multe ocazii mari pentru %2$@ (%3$@)"
     },
     "accessibility_insights_player_most_shots_on_target_for_team": {
       "comment": "A player has created the most shots on target per match for a given team. Example: \"[Harry Kane] has the most shots on target per match for [Tottenham] ([1.4])\"",
@@ -773,7 +773,7 @@
     "accessibility_insights_player_saves_per_match_rank_in_competition": {
       "comment": "A player which is one of the top keepers in terms of saves per match in the competition. Example: \"[Allison] is ranked [2nd] in saves per match in the competition ([1.2])\"",
       "english": "%1$@ is ranked %2$@ in saves per match in the competition (%3$@)",
-      "value": "%1$@ s-a clasat pe locul %2$@ pentru loviturile apărate per meci în cadrul competiției (%3$@)"
+      "value": "%1$@ s-a clasat pe locul %2$@ pentru parade per meci în cadrul competiției (%3$@)"
     },
     "accessibility_insights_player_scored_consecutive": {
       "comment": "A player has scored in X consecutive games. Example: \"[Erling Haaland] has scored in [6] consecutive matches\" where text inside brackets ([xxx]) are variables",
@@ -881,7 +881,7 @@
     "accessibility_keeper_saves": {
       "comment": "Stat for the number of keeper saves in the match",
       "english": "Keeper saves",
-      "value": "Salvări ale portarului"
+      "value": "Parade ale portarului"
     },
     "accessibility_keeper_sweeper_actions": {
       "comment": "This is a label for a trait for a keeper where indicating how often he acts as a sweeper. That means that he comes out of the goal area and clears the bell. May be translated as \"Clearances outside box\" or \"Rushed actions\" if sweeper can't be translated.",
@@ -1358,7 +1358,7 @@
     "accessibility_odds": {
       "comment": "Used for the Odds tab title",
       "english": "Odds",
-      "value": "Odds"
+      "value": "Cote"
     },
     "accessibility_off_target": {
       "comment": "Shorthand for shots off target.",
@@ -1488,7 +1488,7 @@
     "accessibility_overall_table": {
       "comment": "String indicating that we will show a complete standings table with including both Home & Away matches. User can filter to only include Home or only Away. Can be translated as \"All\" as well.",
       "english": "Overall",
-      "value": "Tot"
+      "value": "General"
     },
     "accessibility_overhead_kick": {
       "comment": "Overhead kick of bicycle kick. Description is here https://en.wikipedia.org/wiki/Bicycle_kick.  is an acrobatic strike where a player kicks an airborne ball rearward in midair. It is achieved by throwing the body backward up into the air and, before descending to the ground, making a shearing movement with the lower limbs to get the ball-striking leg in front of the other. In most languages, the manoeuvre is named after either the cycling motion or the scissor motion that it resembles.",
@@ -1560,7 +1560,7 @@
     "accessibility_penalty_saves": {
       "comment": "Number of times a keeper has saved a penalty",
       "english": "Penalty saves",
-      "value": "Penalty-uri salvate"
+      "value": "Penalty-uri apărate"
     },
     "accessibility_per_90": {
       "comment": "Used for Picker in Player Profile to switch between total and per90 stats.",
@@ -1764,12 +1764,12 @@
     "accessibility_save_percentage": {
       "comment": "Label used in stats for save percentage for keepers",
       "english": "Save percentage",
-      "value": "Procentul de lovituri apărate"
+      "value": "Procentul de parade"
     },
     "accessibility_saves_per_90": {
       "comment": "Label used in stats for saves per 90 min for keepers",
       "english": "Saves per 90",
-      "value": "Lovituri apărate per 90"
+      "value": "Parade per 90"
     },
     "accessibility_search_result_header": {
       "comment": "Text shown on top of the search results page. Input is the search text.",
@@ -2017,7 +2017,7 @@
     "accessibility_stats_comparison_att_mid_wingers": {
       "comment": "A description highlighting that a player's stat is benchmarked against other attacking midfielders/wingers.",
       "english": "Stats compared to other attacking midfielders/wingers",
-      "value": "Statistici în comparație cu alți mijlocași/aripi"
+      "value": "Statistici în comparație cu alți mijlocași ofensivi/aripi"
     },
     "accessibility_stats_comparison_center_backs": {
       "comment": "A description highlighting that a player's stat is benchmarked against other center-backs.",
@@ -2398,7 +2398,7 @@
     "accessibility_ticker": {
       "comment": "Replaces 'Live Ticker' as a shortened version. The tab where we show real-time events. If no good translation exists, use 'Ticker'",
       "english": "Commentary",
-      "value": "În direct"
+      "value": "Comentariu"
     },
     "accessibility_tips_and_support": {
       "comment": "Support menu item title.",
@@ -2628,7 +2628,7 @@
     "common_accurate_crosses": {
       "comment": "This is a cross that actually reaches a team player. a cross is a medium- to-long-range pass from a wide area of the field towards the centre of the field near the opponent's goal.",
       "english": "Accurate crosses",
-      "value": "Pase din lateral precise"
+      "value": "Centrări precise"
     },
     "common_accurate_pass_subtitle": {
       "english": "Pass success",
@@ -2860,7 +2860,7 @@
     },
     "common_average_goals_last3_both": {
       "english": "%1$@ have an average of %3$@ goals in their last three matches and %2$@ have an average of %4$@.",
-      "value": "%1$@ are o medie de %3$@ goluri în ultimele trei meciuri şi %2$@ are o medie de %4$@."
+      "value": "%1$@ are o medie de %3$@ goluri în ultimele trei meciuri și %2$@ are o medie de %4$@."
     },
     "common_awarded_win": {
       "comment": "Match status. The match is over and one of the teams has been awarded the win, for example due to the opposing team not showing up.",
@@ -2887,7 +2887,7 @@
     },
     "common_bad_form_both": {
       "english": "%1$@ have lost their last %3$@ matches and %2$@ their last %4$@ matches.",
-      "value": "%1$@ a pierdut ultimele %3$@ meciuri şi %2$@ a pierdut %4$@ meciuri."
+      "value": "%1$@ a pierdut ultimele %3$@ meciuri și %2$@ a pierdut ultimele %4$@ meciuri."
     },
     "common_bad_form_team": {
       "english": "%1$@ have lost their last %2$@ matches.",
@@ -2905,7 +2905,7 @@
     "common_big_chance": {
       "comment": "Label for large chances to score for a specific team. This is used in match facts for the stats in the match.",
       "english": "Big chances",
-      "value": "Șanse mari"
+      "value": "Ocazii mari"
     },
     "common_biggest_loss": {
       "comment": "The biggest match loss for a team in a given season.",
@@ -3060,7 +3060,7 @@
     "common_centerdefensivemidfielder": {
       "comment": "Player position - player plays as an defensive midfielder",
       "english": "Defensive Midfielder",
-      "value": "Mijlocas defensiv"
+      "value": "Mijlocaș defensiv"
     },
     "common_centerdefensivemidfielder_short": {
       "comment": "Player position - a SHORT abbreviation of the Defensive Midfielder translation. Use the code EA FC uses in your language; it is not always two letters.",
@@ -3085,7 +3085,7 @@
     "common_championship_playoff": {
       "comment": "Label indicating that the teams get a place in the playoffs. Like in MLS the top 6 teams gets into the championsship playoff.",
       "english": "Championship playoff",
-      "value": "Championship Playoff"
+      "value": "Play-off pentru titlu"
     },
     "common_championsleague": {
       "english": "Champions League",
@@ -3367,7 +3367,7 @@
     "common_double_chance": {
       "comment": "Odds type that indicates that you can bet on two outcomes. So you can bet one home and draw in one bet. https://www.online-betting.me.uk/betting-glossary/double-chance.php",
       "english": "Double chance",
-      "value": "Şansă dublă"
+      "value": "Șansă dublă"
     },
     "common_draw": {
       "comment": "Vote on an outcome of a match. This is the match will end in a draw option",
@@ -3381,7 +3381,7 @@
     },
     "common_draw_streak_both": {
       "english": "%1$@ haven't drawn in their last %3$@ matches and %2$@ in their last %4$@.",
-      "value": "%1$@ nu a făcut egal în ultimele %3$@ meciuri şi %2$@ în ultimele %4$@."
+      "value": "%1$@ nu a făcut egal în ultimele %3$@ meciuri și %2$@ în ultimele %4$@."
     },
     "common_draw_streak_team": {
       "english": "%1$@ haven't drawn in their last %2$@ matches.",
@@ -3651,7 +3651,7 @@
     "common_expected_goals_set_play": {
       "comment": "Keep xG in the translation and translate it as \"xG <set play translated>\"",
       "english": "xG set play",
-      "value": "xG repunerea mingii în joc"
+      "value": "xG din faze fixe"
     },
     "common_extratime_short": {
       "english": "ET",
@@ -4426,7 +4426,7 @@
     "common_keeper_diving_save": {
       "comment": "Keeper dives to save the ball",
       "english": "Diving save",
-      "value": "Salvare din plonjon"
+      "value": "Paradă din plonjon"
     },
     "common_keeper_high_claim": {
       "comment": "Keeper claims a high ball that is crossed into the area",
@@ -5016,7 +5016,7 @@
     },
     "common_not_won_both": {
       "english": "%1$@ haven't won a match in their last %3$@ attempts, and %2$@ in their last %4$@.",
-      "value": "%1$@ nu a câștigat niciun meci în ultimele %3$@ încercări, şi %2$@ în ultimele %4$@."
+      "value": "%1$@ nu a câștigat niciun meci în ultimele %3$@ încercări și %2$@ în ultimele %4$@."
     },
     "common_not_won_team": {
       "english": "%1$@ haven't won a match in %2$@ attempts.",
@@ -5146,7 +5146,7 @@
     "common_opened": {
       "comment": "Label indicating what year the stadium was built",
       "english": "Opened",
-      "value": "Înființat"
+      "value": "Inaugurat"
     },
     "common_opposition_half_passes": {
       "comment": "Label for number of passes inside the other teams half",
@@ -5327,12 +5327,12 @@
     "common_players_in": {
       "comment": "In the Team page, this is a header indicating which players have transferred to the team",
       "english": "Players in",
-      "value": "Jucători transferați în echipă"
+      "value": "Sosiri"
     },
     "common_players_out": {
       "comment": "In the Team page, this is a header indicating which players have transferred away from the team",
       "english": "Players out",
-      "value": "Jucători transferați din echipă"
+      "value": "Plecări"
     },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
@@ -5515,7 +5515,7 @@
     "common_recoveries": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries",
       "english": "Recoveries",
-      "value": "Recuperate"
+      "value": "Recuperări"
     },
     "common_recoveries_per_90": {
       "comment": "This is where a player wins back the ball when it has gone loose or where the ball has been played directly to him. Also known as Ball recoveries. See recoveries. Also make sure to reference the other per 90 stats like chances_created_per_90 to we write them the same way.",
@@ -5665,15 +5665,15 @@
     "common_saves_inside_box": {
       "comment": "Keeper saves the ball from a shot that occured inside the penalty box",
       "english": "Saves inside box",
-      "value": "Salvate în careu"
+      "value": "Parade în careu"
     },
     "common_saves_subtitle": {
       "english": "Total saves",
-      "value": "Total lovituri apărate"
+      "value": "Total parade"
     },
     "common_saves_title": {
       "english": "Saves per match",
-      "value": "Lovituri apărate per meci"
+      "value": "Parade per meci"
     },
     "common_search_hint": {
       "english": "Type in the teamname you are looking for",
@@ -5711,7 +5711,7 @@
     "common_secondary_onboarding_teams_header": {
       "comment": "Question asking the user to add some favorite teams and players.",
       "english": "Make it easy to follow your favorites",
-      "value": "Urmărește-ți mai uşor favoriții"
+      "value": "Urmărește-ți mai ușor favoriții"
     },
     "common_secondextrahalf": {
       "english": "Second extra half",
@@ -5892,7 +5892,7 @@
     },
     "common_squad": {
       "english": "Squad",
-      "value": "Echipa"
+      "value": "Lot"
     },
     "common_squad_name": {
       "comment": "Used in the lineup builder for a squad name title placeholder",
@@ -6264,7 +6264,7 @@
     "common_transfer_fee": {
       "comment": "The sum that the team has to pay for the player. Either translate it as \"Fee\" or \"Transfer sum\". See https://www.transfermarkt.com/alvaro-morata/transfers/spieler/128223 for example on what a \"Fee\" is.",
       "english": "Fee",
-      "value": "Comision"
+      "value": "Sumă de transfer"
     },
     "common_transfer_loan_message": {
       "comment": "This is for a transfer like: \"Ronaldo is joining Real Madrid on loan from Manchester United\"",
@@ -6315,7 +6315,7 @@
     },
     "common_undefeated_both_unequal": {
       "english": "%1$@ haven't lost in their last %3$@ matches, and %2$@ in their last %4$@.",
-      "value": "%1$@ nu a pierdut în ultimele %3$@ meciuri, şi %2$@ în ultimele %4$@ meciuri."
+      "value": "%1$@ nu a pierdut în ultimele %3$@ meciuri și %2$@ în ultimele %4$@ meciuri."
     },
     "common_undefeated_team": {
       "english": "%1$@ haven't lost in %2$@ matches.",
@@ -7324,7 +7324,7 @@
     },
     "new_related_news": {
       "english": "Related news",
-      "value": "Știri relatate"
+      "value": "Știri conexe"
     },
     "new_reminder": {
       "english": "Match starts in %@ minutes",
@@ -7776,7 +7776,7 @@
     "notifications_big_chance_created_team_title": {
       "comment": "Number of passes which led to a clear cut scoring opportunity eg one on one situation or a shot from just a few yards away",
       "english": "Big chances created",
-      "value": "Șanse mari create"
+      "value": "Ocazii mari create"
     },
     "notifications_big_chance_missed_subtitle": {
       "comment": "Total number of goals the player has scored",
@@ -7791,12 +7791,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Șanse uriașe ratate"
+      "value": "Ocazii mari ratate"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "Șansă uriașă ratată"
+      "value": "Ocazii mari ratate"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -7872,7 +7872,7 @@
     "notifications_crosses": {
       "comment": "Stat for the number of crosses in the match",
       "english": "Crosses",
-      "value": "Pase din lateral"
+      "value": "Centrări"
     },
     "notifications_customize": {
       "comment": "Button label indicating that the user want to customize the alerts for the transfers",
@@ -7925,7 +7925,7 @@
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
       "english": "Discipline",
-      "value": "Pedepse"
+      "value": "Disciplină"
     },
     "notifications_dispossessed": {
       "comment": "Stat indication how many times a player lost the ball to an opponent (was Dispossessed)",
@@ -8689,7 +8689,7 @@
     "notifications_last_won": {
       "comment": "When a league was last won",
       "english": "Last won %@",
-      "value": "Ultima dată când s-a câștigat liga %@"
+      "value": "Câștigat ultima dată: %@"
     },
     "notifications_latvia": {
       "english": "Latvia",
@@ -9153,7 +9153,7 @@
     "notifications_saves": {
       "comment": "Stat for the number of keeper saves in the match",
       "english": "Saves",
-      "value": "Mingi salvate"
+      "value": "Parade"
     },
     "notifications_search_box_hint": {
       "english": "Search for teams, matches, players, news, leagues",
@@ -9449,7 +9449,7 @@
     },
     "notifications_total_shots": {
       "english": "Total shots",
-      "value": "Șuturi"
+      "value": "Total șuturi"
     },
     "notifications_touches": {
       "comment": "How many times the player touched the ball during the match",
@@ -9464,7 +9464,7 @@
     "notifications_transfer_type_free_agent": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
       "english": "free agent",
-      "value": "agent gratuit"
+      "value": "liber de contract"
     },
     "notifications_transfer_type_free_transfer": {
       "comment": "Used in parenthesis after club name to indicate type of transfer",
@@ -9977,7 +9977,7 @@
     "seo_confirmed": {
       "comment": "Title for the list of confirmed transfers in the transfer centre. Keep it one word and short. See confirmed_transfer_news",
       "english": "Confirmed",
-      "value": "Confirmat"
+      "value": "Confirmate"
     },
     "seo_continue_in_app_popup_btn": {
       "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
@@ -11070,7 +11070,7 @@
     "seo_odds_x": {
       "comment": "Used for the betting slip to show the odds of your current selected bets.",
       "english": "Odds %1$@",
-      "value": "Odds %1$@"
+      "value": "Cote %1$@"
     },
     "seo_offerings_prematch": {
       "comment": "Explaining what features will be availalbe on the fotmob site, and when.",
@@ -11726,7 +11726,7 @@
     "seo_save": {
       "comment": "Outcome after a shot that indicates that the keeper made a save",
       "english": "Save",
-      "value": "Salvare"
+      "value": "Paradă"
     },
     "seo_save_lineup": {
       "comment": "Text in a button indicating to save the completed lineup builder.",
@@ -11746,7 +11746,7 @@
     "seo_saved_penalties_in_shootout": {
       "comment": "Stat for the number of penalties saved in a penalty shootout.",
       "english": "Penalty shootout saves",
-      "value": "Salvări la lovituri de departajare"
+      "value": "Parade la lovituri de departajare"
     },
     "seo_search_for_any_player": {
       "comment": "Placeholder string for searchbox in the lineup builder. See [lineup_builder].",
@@ -12651,7 +12651,7 @@
     "seo_unattached": {
       "comment": "Used to label players who are currently not signed with any team",
       "english": "Free agent",
-      "value": "Agent liber"
+      "value": "Liber de contract"
     },
     "seo_update_available": {
       "comment": "Used inside parentheses behind version number - should use \"mid-sentence case\".",
