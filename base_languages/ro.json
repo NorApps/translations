@@ -114,7 +114,7 @@
     "accessibility_app_notifications_off_desc": {
       "comment": "Text appearing when app notifications are off.",
       "english": "You have disabled Notifications for FotMob",
-      "value": "Ați dezactivat notificările pentru FotMob"
+      "value": "Ai dezactivat notificările pentru FotMob"
     },
     "accessibility_assist_by": {
       "comment": "Shown in match facts when a player got an assist for a goal. Example: \"Assist by Lionel Messi\"",
@@ -183,7 +183,7 @@
     "accessibility_change_language_explanation": {
       "comment": "Label indicating you can change the language of the app",
       "english": "Continue to Settings and tap Language to select your preferred language for FotMob.\\n\\nIf no language setting is available, go to your device language settings to first set a preferred language.",
-      "value": "Continuați la Setări și atingeți Limbă pentru a selecta limba preferată pentru FotMob.\\nDacă nu este disponibilă nicio setare de limbă, accesați setările de limbă a dispozitivului pentru a seta mai întâi o limbă preferată"
+      "value": "Continuă la Setări și atinge Limbă pentru a selecta limba preferată pentru FotMob.\\nDacă nu este disponibilă nicio setare de limbă, accesează setările de limbă a dispozitivului pentru a seta mai întâi o limbă preferată"
     },
     "accessibility_city": {
       "comment": "Text shown for venue on a match if do not have a link to it.",
@@ -299,12 +299,12 @@
     "accessibility_delete_account_auth_prompt": {
       "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
       "english": "You will be asked to log in again to verify your identity before we can delete your data.",
-      "value": "Vi se va cere să vă conectați din nou pentru a vă verifica identitatea înainte de a vă putea șterge datele."
+      "value": "Ți se va cere să te conectezi din nou pentru a-ți verifica identitatea înainte de a-ți putea șterge datele."
     },
     "accessibility_delete_account_description": {
       "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
       "english": "Are you certain you wish to delete your account? This cannot be undone.",
-      "value": "Sunteți sigur că doriți să vă ștergeți contul? Acest lucru nu poate fi anulat."
+      "value": "Ești sigur că dorești să îți ștergi contul? Acest lucru nu poate fi anulat."
     },
     "accessibility_detailed_goal_data": {
       "comment": "Used for expandable button on goal types in player profile.",
@@ -423,12 +423,12 @@
     "accessibility_follow_in_the_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
       "english": "Follow in the FotMob app",
-      "value": "Urmăriți în aplicația FotMob"
+      "value": "Urmărește în aplicația FotMob"
     },
     "accessibility_follow_in_the_app_description": {
       "comment": "Describes the app so the user will want to download it.",
       "english": "Access your predictions, points and leagues straight from your Android/iOS FotMob app.",
-      "value": "Accesați pronosticurile, punctele și ligile dvs. direct din aplicația dvs. FotMob pentru Android/iOS."
+      "value": "Accesează pronosticurile, punctele și ligile tale direct din aplicația ta FotMob pentru Android/iOS."
     },
     "accessibility_follow_leagues": {
       "comment": "Header in the onboarding where you can choose your favorite leagues",
@@ -966,7 +966,7 @@
     "accessibility_live_activity_alert_message": {
       "comment": "Used as message on alert if user has not activated live activities",
       "english": "Looks like you don't have live activities turned on",
-      "value": "Se pare că nu aveți activități live activate"
+      "value": "Se pare că nu ai activități live activate"
     },
     "accessibility_live_activity_alert_title": {
       "comment": "Used as title on alert if user has not activated live activities",
@@ -976,12 +976,12 @@
     "accessibility_live_activity_max_exceeded": {
       "comment": "Toggle label which explains you have exceeed the number of teams we allow to have their matches pinned to the lock screen as Live Activities. Translate pinned as \"shown\" if pinned sounds strange.",
       "english": "You've reached the maximum number of teams that can be pinned to the lock screen",
-      "value": "Ați atins numărul maxim de echipe care pot fi fixate pe ecranul de blocare"
+      "value": "Ai atins numărul maxim de echipe care pot fi fixate pe ecranul de blocare"
     },
     "accessibility_live_activity_pin_to_lockscreen": {
       "comment": "Toggle label which appears when clicking the bell on a team page. It will then create a Live Activity for all matches for this specific team on your lock screen. Translate pinned as \"shown\" if pinned sounds strange.",
       "english": "Pin all matches to lock screen",
-      "value": "Fixați toate meciurile pe ecranul de blocare"
+      "value": "Fixează toate meciurile pe ecranul de blocare"
     },
     "accessibility_live_activity_removed": {
       "comment": "Used in toast when removing a live activity",
@@ -996,7 +996,7 @@
     "accessibility_live_activity_visit_team_page": {
       "comment": "Hint indicating the user has to go to the team page to turn on Live Activities for all the team's matches",
       "english": "Turn on for all matches via the bell on the team page",
-      "value": "Activați pentru toate meciurile prin intermediul clopoțelului de pe pagina echipei"
+      "value": "Activează pentru toate meciurile prin intermediul clopoțelului de pe pagina echipei"
     },
     "accessibility_live_activity_will_be_added": {
       "comment": "Used in toast when activating a live activity ahead of time.",
@@ -1016,12 +1016,12 @@
     "accessibility_log_out_and_delete_account": {
       "comment": "Button that the user can click to log out and delete his FotMob account so all his data is removed from our servers.",
       "english": "Sign out and delete account",
-      "value": "Deconectați-vă și ștergeți contul"
+      "value": "Deconectează-te și șterge contul"
     },
     "accessibility_login_disclaimer": {
       "comment": "Text shown in the \"Sign in\" dialogue. Links to pages with Terms of use and Privacy policy will be shown below the text.",
       "english": "By signing in you accept the Terms of use and Privacy Policy.",
-      "value": "Prin conectare, acceptați Termenii de utilizare și Politica de confidențialitate."
+      "value": "Prin conectare, accepți Termenii de utilizare și Politica de confidențialitate."
     },
     "accessibility_logincomponent_desc1": {
       "comment": "explanation that the user needs to login to enter the competion. Concated with logincomponent_desc2",
@@ -1031,7 +1031,7 @@
     "accessibility_logincomponent_desc1_v2": {
       "comment": "explanation that the user needs to login to enter the competion.",
       "english": "Sign in to save your data and sync across devices.",
-      "value": "Conectați-vă pentru a vă salva datele și a vă sincroniza pe dispozitive."
+      "value": "Conectează-te pentru a-ți salva datele și a te sincroniza pe dispozitive."
     },
     "accessibility_logincomponent_desc2": {
       "english": "Euro 2020 Competition!",
@@ -1208,7 +1208,7 @@
     "accessibility_myleaguespage_desc2_v4": {
       "comment": "explanation on private leagues and how people can join them",
       "english": "Leagues you create are private, and can only be joined by people that have the unique ID or link you provide.",
-      "value": "Ligile pe care le creați sunt private și li se pot alătura numai persoane care au ID-ul sau link-ul unic pe care îl furnizați."
+      "value": "Ligile pe care le creezi sunt private și li se pot alătura numai persoane care au ID-ul sau link-ul unic pe care îl furnizezi."
     },
     "accessibility_myleaguespage_join_a_league": {
       "comment": "Label on button to join a league",
@@ -1223,7 +1223,7 @@
     "accessibility_myleaguespage_join_league_v2": {
       "comment": "explanation that the user will automatically added to the global league",
       "english": "You will automatically be added to the Global League once the tournament kick off, where you can see your standing versus all players in the competition.",
-      "value": "Veți fi adăugat automat în Liga Globală odată cu începerea turneului, unde vă puteți vedea poziția față de toți jucătorii din competiție."
+      "value": "Vei fi adăugat automat în Liga Globală odată cu începerea turneului, unde îți poți vedea poziția față de toți jucătorii din competiție."
     },
     "accessibility_myleaguespage_points_calculation": {
       "comment": "Label on button to bring up dialog with explanation of how the points are caluclated",
@@ -1423,7 +1423,7 @@
     "accessibility_onboarding_newplayerprofile_section1": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Player traits.</b> Get an overview of a players strengths, weaknesses and playing style.",
-      "value": "<b>Caracteristicile jucătorului.</b> Obțineți o imagine de ansamblu asupra punctelor forte, punctelor slabe și a stilului de joc al unui jucător."
+      "value": "<b>Caracteristicile jucătorului.</b> Obține o imagine de ansamblu asupra punctelor forte, punctelor slabe și a stilului de joc al unui jucător."
     },
     "accessibility_onboarding_newplayerprofile_section2": {
       "comment": "Onboarding text of our new player profile page in the app",
@@ -1433,7 +1433,7 @@
     "accessibility_onboarding_newplayerprofile_section3": {
       "comment": "Onboarding text of our new player profile page in the app",
       "english": "<b>Redesigned career page.</b> View a players career path by club or across seasons.",
-      "value": "<b>Pagină de carieră reproiectată.</b> Vizualizați traseul carierei unui jucător în funcție de club sau de sezoane."
+      "value": "<b>Pagină de carieră reproiectată.</b> Vizualizează traseul carierei unui jucător în funcție de club sau de sezoane."
     },
     "accessibility_onboarding_players": {
       "comment": "An explanation during onboarding that when you click a button to follow a player, you will get notifications about the player",
@@ -1716,7 +1716,7 @@
     "accessibility_redeem_code": {
       "comment": "Button where user can click to enter a secret code to unlock something.",
       "english": "Redeem code",
-      "value": "Valorificați codul"
+      "value": "Valorifică codul"
     },
     "accessibility_redeem_it_here": {
       "comment": "Subheader for redeem code view",
@@ -2051,17 +2051,17 @@
     "accessibility_stepsheader_step1_hinttext_table": {
       "comment": "Explanation of how to arrage the teams in the table. With emphasis on the on the action to take.",
       "english": "<b>Drag</b> the teams to predict the final table.",
-      "value": "<b>Trageți și aranjați</b> echipele pentru a prezice clasamentul final."
+      "value": "<b>Trage și aranjează</b> echipele pentru a prezice clasamentul final."
     },
     "accessibility_stepsheader_step1_hinttext_v2": {
       "comment": "Explanation of how to arrage teams.",
       "english": "Drag and arrange the teams to how you think the group stage results will be.",
-      "value": "Trageți și aranjați echipele așa cum credeți că vor fi rezultatele fazei grupelor."
+      "value": "Trage și aranjează echipele așa cum crezi că vor fi rezultatele fazei grupelor."
     },
     "accessibility_stepsheader_step1_hinttext_v3": {
       "comment": "Explanation of how to arrage teams. With emphasis on the on the action to take.",
       "english": "<b>Drag and arrange</b> the teams to how you think the group stage results will be.",
-      "value": "<b>Trageți și aranjați</b> echipele așa cum credeți că vor fi rezultatele fazei grupelor."
+      "value": "<b>Trage și aranjează</b> echipele așa cum crezi că vor fi rezultatele fazei grupelor."
     },
     "accessibility_stepsheader_step1_title": {
       "comment": "Heading when predicting the outcome of the group stage",
@@ -2076,12 +2076,12 @@
     "accessibility_stepsheader_step2_hinttext_v3": {
       "comment": "Explanation of what to do.",
       "english": "Select Lucky Losers you think will advance to the Round of 16.",
-      "value": "Selectați Lucky Losers despre care credeți că vor avansa în optimile de finală."
+      "value": "Selectează Lucky Losers despre care crezi că vor avansa în optimile de finală."
     },
     "accessibility_stepsheader_step2_hinttext_v4": {
       "comment": "Explanation of what to do.",
       "english": "<b>Select</b> Lucky Losers you think will advance to the Round of 16.",
-      "value": "<b>Selectați</b> Lucky Losers despre care credeți că vor avansa în optimile de finală."
+      "value": "<b>Selectează</b> Lucky Losers despre care crezi că vor avansa în optimile de finală."
     },
     "accessibility_stepsheader_step2_title": {
       "comment": "Headers for choosing which of the four best third-placed teams will go through to the nest round as 'lucky losers'.",
@@ -2091,12 +2091,12 @@
     "accessibility_stepsheader_step3_hinttext_v2": {
       "comment": "Explanation of what to do.",
       "english": "Select the teams you think will advance to the quarter-finals.",
-      "value": "Selectați echipele despre care credeți că vor ajunge în sferturile de finală."
+      "value": "Selectează echipele despre care crezi că vor ajunge în sferturile de finală."
     },
     "accessibility_stepsheader_step3_hinttext_v3": {
       "comment": "Explanation of what to do.",
       "english": "<b>Select</b> the teams you think will advance to the quarter-finals.",
-      "value": "<b>Selectați</b> echipele despre care credeți că vor trece în sferturile de finală."
+      "value": "<b>Selectează</b> echipele despre care crezi că vor trece în sferturile de finală."
     },
     "accessibility_stepsheader_step3_title": {
       "comment": "plural",
@@ -2106,12 +2106,12 @@
     "accessibility_stepsheader_step4_hinttext_v2": {
       "comment": "Explanation of what to do.",
       "english": "Select the teams you think will advance to the semi-finals.",
-      "value": "Selectați echipele despre care credeți că vor ajunge în semifinale."
+      "value": "Selectează echipele despre care crezi că vor ajunge în semifinale."
     },
     "accessibility_stepsheader_step4_hinttext_v3": {
       "comment": "Explanation of what to do.",
       "english": "<b>Select</b> the teams you think will advance to the semi-finals.",
-      "value": "<b>Selectați</b> echipele despre care credeți că vor avansa în semifinale."
+      "value": "<b>Selectează</b> echipele despre care crezi că vor avansa în semifinale."
     },
     "accessibility_stepsheader_step4_title": {
       "comment": "plural",
@@ -2121,12 +2121,12 @@
     "accessibility_stepsheader_step5_hinttext_v2": {
       "comment": "Explanation of what to do",
       "english": "Select the teams you think will advance to the final.",
-      "value": "Selectați echipele despre care credeți că vor ajunge în finală."
+      "value": "Selectează echipele despre care crezi că vor ajunge în finală."
     },
     "accessibility_stepsheader_step5_hinttext_v3": {
       "comment": "Explanation of what to do",
       "english": "<b>Select</b> the teams you think will advance to the final.",
-      "value": "<b>Selectați</b> echipele despre care credeți că vor trece în finală."
+      "value": "<b>Selectează</b> echipele despre care crezi că vor trece în finală."
     },
     "accessibility_stepsheader_step5_title": {
       "comment": "plural",
@@ -2194,7 +2194,7 @@
     "accessibility_sync_calendar_button_team": {
       "comment": "Option to sync a teams fixtures to your calendar. The placeholder is the team name like \"Sync Barcelona fixtures to your calendar\".",
       "english": "Sync %1$@ fixtures to your calendar",
-      "value": "Sincronizați meciurile lui %1$@ cu calendarul dvs"
+      "value": "Sincronizează meciurile lui %1$@ cu calendarul tău"
     },
     "accessibility_sync_calendar_button_text": {
       "comment": "Text shown on a button that lets the user add a teams matches to their calendar.",
@@ -2204,17 +2204,17 @@
     "accessibility_sync_calendar_cta": {
       "comment": "Option to sync a teams fixtures to your calendar. This is the call to action button.",
       "english": "Sync",
-      "value": "Sincronizați"
+      "value": "Sincronizează"
     },
     "accessibility_sync_to_calendar_description": {
       "comment": "Text shown in a panel that lets the user add a team's fixtures to the calendar. Input is the team name and the team short name, eg: Sync <b>Manchester United's</b><b>Man United's</b> fixtures to your favorite calendar app. (The code will show either the team name or the short name depending on screen size)",
       "english": "Sync <b>%1$@'s</b><b>%2$@'s</b> fixtures to your favorite calendar app.",
-      "value": "Sincronizați meciurile lui <b>%1$@'s</b><b>%2$@ </b> cu aplicația dvs. de calendar preferată."
+      "value": "Sincronizează meciurile lui <b>%1$@'s</b><b>%2$@ </b> cu aplicația ta de calendar preferată."
     },
     "accessibility_sync_to_calendar_description_plain": {
       "comment": "Same as sync_to_calendar_description, but without html tags. Input is the team name, eg: Sync Liverpool's fixtures to your favorite calendar app.",
       "english": "Sync %1$@'s fixtures to your favorite calendar app.",
-      "value": "Sincronizați meciurile lui  %1$@ cu aplicația dvs. de calendar preferată."
+      "value": "Sincronizează meciurile lui  %1$@ cu aplicația ta de calendar preferată."
     },
     "accessibility_syncing": {
       "comment": "Status indication we are syncing information between the watch and the phone",
@@ -2238,7 +2238,7 @@
     "accessibility_tap_to_make_changes": {
       "comment": "Used for subtitle on toast when settings alerts on match in matchfacts.",
       "english": "Tap to make changes",
-      "value": "Atingeți pentru a face modificări"
+      "value": "Atinge pentru a face modificări"
     },
     "accessibility_team_of_the_week": {
       "comment": "Header text for the Team of the week panel.",
@@ -2413,7 +2413,7 @@
     "accessibility_top_transfer_description": {
       "comment": "You can toggle on getting alerts for all the most important transfers. This is regardless of which team or league the transfer is from.",
       "english": "Get notifications for all the top transfers across all leagues",
-      "value": "Primiți notificări pentru toate transferurile de top din toate ligile"
+      "value": "Primește notificări pentru toate transferurile de top din toate ligile"
     },
     "accessibility_total": {
       "comment": "Table header text for the column that shows total Fifa rank points.",
@@ -2503,7 +2503,7 @@
     "accessibility_validation__errormessage_final": {
       "comment": "Text explainging what action is required to continue",
       "english": "Please select the winner ;)",
-      "value": "Vă rugăm să selectați câștigătorul ;)"
+      "value": "Te rugăm să selectezi câștigătorul ;)"
     },
     "accessibility_var_penalty_cancelled": {
       "comment": "A penalty is first given and then overturned by VAR. We are showing a VAR icon next to this text.",
@@ -4114,7 +4114,7 @@
     "common_get_started": {
       "comment": "A button in the lineup builder onboarding allowing the user to start building",
       "english": "Get started",
-      "value": "Începeți"
+      "value": "Începe"
     },
     "common_goal": {
       "english": "Goal!",
@@ -4634,7 +4634,7 @@
     "common_legal_info": {
       "comment": "This is a legal disclaimer.",
       "english": "This video is hosted on an external site. FotMob is not the owner of the content you are about to watch.\\n\\nFotMob is not responsible for and cannot be hold liable or accountable for any of the content hosted on the third party site.\\n\\nFor any legal complaints please contact the media file owner or video/audio hosting provider.",
-      "value": "Acest videoclip este găzduit pe un site extern. FotMob nu este proprietarul conținutului pe care urmează să îl urmăriți.\\n\\nFotMob nu este responsabil și nu poate fi tras la răspundere sau considerat răspunzător pentru niciunul dintre conținuturile găzduite pe site-ul terț.\\n\\nPentru orice plângeri legale, vă rugăm să contactați proprietarul fișierului media sau furnizorul de găzduire video/audio."
+      "value": "Acest videoclip este găzduit pe un site extern. FotMob nu este proprietarul conținutului pe care urmează să îl urmărești.\\n\\nFotMob nu este responsabil și nu poate fi tras la răspundere sau considerat răspunzător pentru niciunul dintre conținuturile găzduite pe site-ul terț.\\n\\nPentru orice plângeri legale, te rugăm să contactezi proprietarul fișierului media sau furnizorul de găzduire video/audio."
     },
     "common_lets_go": {
       "comment": "Enabling new feature confirmation label in the new-feature-onboarding dialogue",
@@ -6928,7 +6928,7 @@
     "ltc accessibility_ltc_accessibility_add_reaction_hint": {
       "comment": "VoiceOver hint for the merged reactions element in live text commentary. Describes what happens when the element is activated.",
       "english": "Double tap to add reaction",
-      "value": "Atingeți de două ori pentru a adăuga o reacție"
+      "value": "Atinge de două ori pentru a adăuga o reacție"
     },
     "ltc accessibility_ltc_accessibility_elapsed_minutes": {
       "comment": "VoiceOver label for elapsed match time in live text commentary. Placeholder is already formatted match time, for example \"90+4\", so the full label reads \"90+4 minutes\". Use the numeric total minute count for plural selection.",
@@ -6977,7 +6977,7 @@
     "ltc accessibility_ltc_accessibility_player_stats_hint": {
       "comment": "VoiceOver hint for a tappable player in live text commentary. Describes what happens when the element is activated. Tapping opens the player's stats for this game.",
       "english": "Double tap to see player statistics.",
-      "value": "Atingeți de două ori pentru a vedea statisticile jucătorului."
+      "value": "Atinge de două ori pentru a vedea statisticile jucătorului."
     },
     "ltc accessibility_ltc_accessibility_poll_header": {
       "comment": "VoiceOver label for a poll question in live text commentary. Placeholder is the poll question text.",
@@ -7127,7 +7127,7 @@
     "new_enable_custom_sounds": {
       "comment": "In notification sounds settings, toggle button for turning custom notification sounds on and off",
       "english": "Enable custom sounds",
-      "value": "Activați sunete personalizate"
+      "value": "Activează sunete personalizate"
     },
     "new_enable_news": {
       "english": "Enable news alerts",
@@ -7920,7 +7920,7 @@
     "notifications_disable_dnd_to_hear_notifications": {
       "comment": "Shown when user has enabled DND, but wants to hear notifications",
       "english": "Disable \"Do not disturb\" mode to hear notification sounds.",
-      "value": "Dezactivează modul \"Nu deranjați\" pentru a asculta sunetele de notificare."
+      "value": "Dezactivează modul \"Nu deranja\" pentru a asculta sunetele de notificare."
     },
     "notifications_discipline": {
       "comment": "Header for stats like cards and fouls",
@@ -8778,7 +8778,7 @@
     "notifications_minimum_x_characters": {
       "comment": "Placeholder text for text area where the user describes their problem with the app. The number is typically 20, so the string must be for plural.",
       "english": "Enter at least %d characters.",
-      "value": "Introduceți cel puțin %d caractere."
+      "value": "Introdu cel puțin %d caractere."
     },
     "notifications_minutes_played": {
       "comment": "How many minutes the player has been on field",
@@ -8846,7 +8846,7 @@
     "notifications_network_troubleshooting_help_text_error_2": {
       "comment": "Help text for text area used for describing problem before generating email with text + network log",
       "english": "Please provide a detailed description of your issue.",
-      "value": "Vă rugăm să furnizați o descriere detaliată a problemei dvs."
+      "value": "Te rugăm să furnizezi o descriere detaliată a problemei tale."
     },
     "notifications_network_troubleshooting_help_text_ok": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue in the log e-mail.",
@@ -8854,7 +8854,7 @@
     },
     "notifications_network_troubleshooting_help_text_ok_2": {
       "english": "Everything looks ok!\\n\\nStill having an issue? Please provide a detailed description of your issue.",
-      "value": "Totul pare ok!\\n\\nMai ai o problemă? Vă rugăm să furnizați o descriere detaliată a problemei dvs."
+      "value": "Totul pare ok!\\n\\nMai ai o problemă? Te rugăm să furnizezi o descriere detaliată a problemei tale."
     },
     "notifications_network_troublshooting_test1": {
       "english": "Waiting for push message",
@@ -9215,7 +9215,7 @@
     "notifications_set_quick_toggle_notifications_desc": {
       "comment": "Indicating which alerts are pre-selected when a user clicks the bell to add alerts",
       "english": "Set which notifications are enabled when you tap the bell on match pages.",
-      "value": "Setați notificările care sunt activate când atingeți clopoțelul pe paginile de meci."
+      "value": "Setează notificările care sunt activate când atingi clopoțelul pe paginile de meci."
     },
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
@@ -9513,7 +9513,7 @@
     "notifications_turn_them_on": {
       "comment": "Button label asking the user to turn on the transfer alerts",
       "english": "Turn them on!",
-      "value": "Activați-le!"
+      "value": "Activează-le!"
     },
     "notifications_tv_schedule_tab": {
       "comment": "This is the title for the TV Schedule tab. We already have an icon displaying TV, so we want a shortened word for this. For example in England it would make sense to just write Schedule as we already display the TV",
@@ -9709,7 +9709,7 @@
     "seo_ad_free_desc": {
       "comment": "A description for the \"Ad-free match experience\" FotMob+ feature.",
       "english": "Remove in-app ads (Note: ads on third-party websites are not controlled by us).",
-      "value": "Eliminați reclamele în aplicație (Notă: anunțurile de pe site-urile web ale terților nu sunt controlate de noi)."
+      "value": "Elimină reclamele în aplicație (Notă: anunțurile de pe site-urile web ale terților nu sunt controlate de noi)."
     },
     "seo_ad_free_match_experience": {
       "comment": "One of FotMob+ benefits",
@@ -9724,7 +9724,7 @@
     "seo_ad_quality_hint": {
       "comment": "A checkbox in a contact us form if people want to complain about the ad quality",
       "english": "Please share details about the ad, such as the advertiser, on which screen, the video or image, and what you found problematic.",
-      "value": "Vă rugăm să împărtășiți detalii despre reclamă, cum ar fi advertiserul, pe ce ecran, videoclipul sau imaginea, și ce ați găsit problematic."
+      "value": "Te rugăm să împărtășești detalii despre reclamă, cum ar fi advertiserul, pe ce ecran, videoclipul sau imaginea, și ce ai găsit problematic."
     },
     "seo_add_alternative": {
       "comment": "Button text for a button that adds an alternative field to the form.",
@@ -9804,7 +9804,7 @@
     "seo_android_billing_disclaimer": {
       "comment": "A legal disclaimer for in app subscription in the app for Google Play",
       "english": "You will be automatically billed at the end of your free trial for the subscription term and price you have selected unless you cancel at least 24 hours prior to the end of your free trial. You may cancel anytime in Google Play.",
-      "value": "Veți fi facturat automat la sfârșitul perioadei de încercare gratuită pentru termenul și prețul abonamentului pe care le-ați selectat, cu excepția cazului în care vă anulați abonamentul cu cel puțin 24 de ore înainte de încheierea perioadei de încercare gratuită. Vă puteți anula oricând abonamentul în Google Play."
+      "value": "Vei fi facturat automat la sfârșitul perioadei de încercare gratuită pentru termenul și prețul abonamentului pe care le-ai selectat, cu excepția cazului în care îți anulezi abonamentul cu cel puțin 24 de ore înainte de încheierea perioadei de încercare gratuită. Îți poți anula oricând abonamentul în Google Play."
     },
     "seo_annual": {
       "comment": "Describing the duration for the annual FotMob+ subscription option.",
@@ -9813,7 +9813,7 @@
     },
     "seo_app_restart_fix": {
       "english": "To fix your issue, please restart the app.",
-      "value": "Pentru a remedia problema, reporniți aplicația."
+      "value": "Pentru a remedia problema, repornește aplicația."
     },
     "seo_app_version": {
       "comment": "Title for list item which has the app version as a subtitle.",
@@ -9833,7 +9833,7 @@
     "seo_auto_save_failed_description": {
       "comment": "Description text for the dialogue that pops up when the auto save of the user's predictions fails.",
       "english": "Please try reloading the page or signing out and in again.",
-      "value": "Vă rugăm să încercați să reîncărcați pagina sau să vă deconectați și să vă reconectați."
+      "value": "Te rugăm să încerci să reîncarci pagina sau să te deconectezi și să te reconectezi."
     },
     "seo_available_in": {
       "comment": "Header string for when the next prediction will be available (countdown in days, hours and minutes)",
@@ -9847,7 +9847,7 @@
     },
     "seo_blocked_or_muted_notifications": {
       "english": "Some notifications are blocked or muted. Go to Settings to enable them.",
-      "value": "Unele notificări sunt blocate sau dezactivate. Accesați Setări pentru a le activa."
+      "value": "Unele notificări sunt blocate sau dezactivate. Accesează Setări pentru a le activa."
     },
     "seo_bridge_timeout_message": {
       "comment": "Body paragraph below bridge_timeout_title on the same full-screen error page. Tells the user the app timed out while loading their user data (account/profile data fetched on startup) and directs them to open predict.fotmob.com in a web browser as a workaround. Use \"FotMob\" verbatim (proper noun) — do not translate or transliterate the product name. Keep the URL \"predict.fotmob.com\" verbatim — do not translate, transliterate, change the domain, or wrap it in markup. For RTL locales (ar, fa, ckb), make sure punctuation falls on the correct side of the sentence and the URL stays LTR. Tone: friendly, neutral, calm. ≤ 120 chars per locale.",
@@ -9882,7 +9882,7 @@
     "seo_cancel_anytime": {
       "comment": "Reassurance shown under the \"Start free trial\" button on the FotMob+ paywall, telling the user the subscription can be cancelled at any point. Displayed next to \"No payment now\", separated by a middle dot. Keep it very short, it must fit on one line with the other phrase.",
       "english": "Cancel anytime",
-      "value": "Puteți anula oricând"
+      "value": "Poți anula oricând"
     },
     "seo_change_app_icon_dialog": {
       "comment": "Shown as a dialog to the user when user clicks on a different app icons in the FotMob+ membership page.",
@@ -10117,7 +10117,7 @@
     "seo_describe_your_issue": {
       "comment": "Used for title in troubleshooting mail.",
       "english": "Describe your issue",
-      "value": "Descrieți problema dvs"
+      "value": "Descrie problema ta"
     },
     "seo_description_label": {
       "comment": "Label text for the image description field in the add image form.",
@@ -10217,7 +10217,7 @@
     "seo_exclusive_app_icons_desc": {
       "comment": "A description for the \"Exclusive app icons\" FotMob+ feature.",
       "english": "Customize your homescreen with alternate app icons.",
-      "value": "Personalizați ecranul de pornire cu pictograme alternative pentru aplicații."
+      "value": "Personalizează ecranul de pornire cu pictograme alternative pentru aplicații."
     },
     "seo_expected_goals_against_while_on_pitch": {
       "comment": "Label for football statistic showing \"expected goals against\" while the football player was actually playing. Keep xG as is, don't translate it. Specify only \"while on pitch\", or \"xG imot mens på banen\" in norwegian.",
@@ -10401,7 +10401,7 @@
     "seo_fotmob_plus_pitch": {
       "comment": "Used as a pitch for FotMob+. Used in More for description.",
       "english": "Remove ads and get exclusive benefits",
-      "value": "Eliminați reclamele și obțineți beneficii exclusive"
+      "value": "Elimină reclamele și obține beneficii exclusive"
     },
     "seo_fotmob_plus_promo_pitch": {
       "comment": "Short pitch for FotMob+ used in promo entry points.",
@@ -10717,12 +10717,12 @@
     "seo_join_fotmob_plus_monthly": {
       "comment": "Description highligthing the price of the monthly FotMob+ subscription. i.e. \"Join FotMob+ for $4.99 / month\"",
       "english": "Join FotMob+ for %@ / month",
-      "value": "Alăturați-vă FotMob+ pentru %@ / lună"
+      "value": "Alătură-te FotMob+ pentru %@ / lună"
     },
     "seo_join_fotmob_plus_yearly": {
       "comment": "Description highligthing the price of the yearly FotMob+ subscription. i.e. \"Join FotMob+ for $39.99 / year\"",
       "english": "Join FotMob+ for %@ / year",
-      "value": "Alăturați-vă FotMob+ pentru %@ / an"
+      "value": "Alătură-te FotMob+ pentru %@ / an"
     },
     "seo_joincode_error_generic": {
       "comment": "Fallback error message used in three places: (a) inline under the typed-code input on unexpected failures, (b) body of the full-screen \"Couldn't join the league\" error, and (c) the success-state toast equivalent doesn't exist — this is purely a generic error. Tone: brief, non-alarming, suggests retry.",
@@ -10832,7 +10832,7 @@
     "seo_lineup_name_already_exists": {
       "comment": "toast text after trying to save a lineup with the same name as an already saved lineup. User is prompted with the question of wheter he wishes to overwrite the lineup or not.",
       "english": "A lineup with the name %1$@ already exists. Do you want to overwrite it?",
-      "value": "Există deja o formație cu numele %1$@. Doriți să o suprascrieți?"
+      "value": "Există deja o formație cu numele %1$@. Dorești să o suprascrii?"
     },
     "seo_lineup_overwritten": {
       "comment": "toast text stating that the lineup has been overwritten. The correct norwegian translation would be \"Lagoppstilling overskrevet\". see [lineup_name_already_exists] for translation of lagoppstilling.",
@@ -10892,12 +10892,12 @@
     "seo_manage_subscription": {
       "comment": "Header for accessory view where the subscription is bought in another storefront.",
       "english": "Manage subscription",
-      "value": "Gestionați abonamentul"
+      "value": "Gestionează abonamentul"
     },
     "seo_manage_subscription_desc": {
       "comment": "Description paragraph for indicating the user has bought the subscription in another storefront.",
       "english": "You have an active subscription that was purchased on another platform. Please manage it on the platform where the original purchase was made.",
-      "value": "Aveți un abonament activ care a fost achiziționat pe o altă platformă. Vă rugăm să o gestionați pe platforma de unde a fost făcută achiziția inițială."
+      "value": "Ai un abonament activ care a fost achiziționat pe o altă platformă. Te rugăm să îl gestionezi pe platforma de unde a fost făcută achiziția inițială."
     },
     "seo_match_added_to_following": {
       "comment": "Pop up after clicking follow on a match. See translation for \"following\"",
@@ -10970,7 +10970,7 @@
     "seo_more_notification_sounds_desc": {
       "comment": "A description for the \"More notification sounds\" FotMob+ feature.",
       "english": "Unlock additional notification sounds.",
-      "value": "Deblocați sunete suplimentare de notificare."
+      "value": "Deblochează sunete suplimentare de notificare."
     },
     "seo_need_at_least_one_selected_country": {
       "comment": "A toast indicating for the user that he needs at least one selected country for the tv schedules feature to work",
@@ -11335,12 +11335,12 @@
     "seo_pre_fill_lineup": {
       "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder.",
       "english": "Pre-fill lineup",
-      "value": "Precompletați echipa"
+      "value": "Precompletează echipa"
     },
     "seo_pre_fill_with_popular_teams": {
       "comment": "Headline for a component containing football teams that can be used to pre-fill a lineup in a lineupbuilder with popular football teams.",
       "english": "Pre-fill with popular teams",
-      "value": "Precompletați cu echipe populare"
+      "value": "Precompletează cu echipe populare"
     },
     "seo_predict_copy_code": {
       "comment": "Button label for copying your league code to clipboard so you can share it with others to join your mini-league. See predict_league_code",
@@ -11642,27 +11642,27 @@
     "seo_replace_upload_file_description": {
       "comment": "Description text for how to replace the image you want to upload. Shown on a drop area that sets the file to upload if it is dropped, and opens the file explorer if the user clicks on the area.",
       "english": "Drag and drop or click to replace",
-      "value": "Trageți și plasați sau faceți clic pentru a înlocui"
+      "value": "Trage și plasează sau fă clic pentru a înlocui"
     },
     "seo_restart_now": {
       "comment": "Text for button that will restart the app.",
       "english": "Restart now",
-      "value": "Reporniți acum"
+      "value": "Repornește acum"
     },
     "seo_restore_purchases": {
       "comment": "Call to action for restoring in app purchases.",
       "english": "Restore purchases",
-      "value": "Restabiliți achizițiile"
+      "value": "Restabilește achizițiile"
     },
     "seo_resubscribe": {
       "comment": "Used as call to action for resubscribe bottom sheet.",
       "english": "Resubscribe",
-      "value": "Reabonați-vă"
+      "value": "Reabonează-te"
     },
     "seo_resubscribe_to_keep_fotmobplus_benefits": {
       "comment": "Used for bottom sheet subtitle when subscription has expired",
       "english": "Resubscribe to keep FotMob+ benefits.",
-      "value": "Reabonați-vă pentru a păstra beneficiile FotMob+."
+      "value": "Reabonează-te pentru a păstra beneficiile FotMob+."
     },
     "seo_results": {
       "comment": "Short title for the dialogue showing the user's prediction scores and results so far.",
@@ -11721,7 +11721,7 @@
     "seo_running_the_latest_version": {
       "comment": "Used as a short toast to the user to tell the latest version of FotMob is already installed.",
       "english": "You are running the latest version of the app.",
-      "value": "Folosiți cea mai recentă versiune a aplicației."
+      "value": "Folosești cea mai recentă versiune a aplicației."
     },
     "seo_save": {
       "comment": "Outcome after a shot that indicates that the keeper made a save",
@@ -11887,17 +11887,17 @@
     "seo_site_description": {
       "comment": "This is overall description to be shown in search results on the web etc",
       "english": "FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "FotMob este o aplicație esențială pentru ziua meciului. Obțineți scoruri live, programul meciurilor, tabele, statistici de meci și știri personalizate din peste 500 de ligi de fotbal din întreaga lume."
+      "value": "FotMob este o aplicație esențială pentru ziua meciului. Obține scoruri live, programul meciurilor, tabele, statistici de meci și știri personalizate din peste 500 de ligi de fotbal din întreaga lume."
     },
     "seo_site_description_aboutus_careers": {
       "comment": "Meta description for the fotmob website about careers, where open postitions are listed",
       "english": "We are looking for developers, check out our open positions! FotMob is the essential app for matchday. Get live scores, fixtures, tables, match stats, and personalised news from over 500 football leagues around the world.",
-      "value": "Căutăm dezvoltatori, verifică pozițiile noastre deschise! FotMob este aplicația esențială pentru ziua meciului. Obțineți scoruri live, programul meciurilor, tabele, statistici de meci și știri personalizate din peste 500 de ligi de fotbal din întreaga lume."
+      "value": "Căutăm dezvoltatori, verifică pozițiile noastre deschise! FotMob este aplicația esențială pentru ziua meciului. Obține scoruri live, programul meciurilor, tabele, statistici de meci și știri personalizate din peste 500 de ligi de fotbal din întreaga lume."
     },
     "seo_site_description_faq": {
       "comment": "Meta description tag value for FAQ page, with questions and anwsers to frequently asked questions.",
       "english": "Have a question about FotMob, app settings or stats definitions? Check out FotMob's Frequently Asked Questions page for answers and other pro tips!",
-      "value": "Ai o întrebare despre FotMob, setările aplicației sau definițiile statisticilor? Consultați pagina cu întrebări frecvente a lui FotMob pentru răspunsuri și alte sfaturi profesioniste!"
+      "value": "Ai o întrebare despre FotMob, setările aplicației sau definițiile statisticilor? Consultă pagina cu întrebări frecvente a lui FotMob pentru răspunsuri și alte sfaturi profesioniste!"
     },
     "seo_site_description_for_you": {
       "comment": "Meta description text for the For You news page.",
@@ -11942,7 +11942,7 @@
     "seo_site_description_league_table_xg": {
       "comment": "Meta description for the page with the xG table for the given league. With the league name as %1$@, and year indicator as %2$@.",
       "english": "%1$@ %2$@ ranked by expected points (xPts). See %1$@ xG table, or justice table for %2$@ and other seasons on FotMob.",
-      "value": "%1$@ %2$@ clasat după punctele estimate (xPts). Vedeți tabelul %1$@ xG sau tabelul justiției pentru %2$@ și alte sezoane pe FotMob."
+      "value": "%1$@ %2$@ clasat după punctele estimate (xPts). Vezi tabelul %1$@ xG sau tabelul justiției pentru %2$@ și alte sezoane pe FotMob."
     },
     "seo_site_description_league_transfers": {
       "comment": "SEO description for league transfers page showing all transfers, fees and contract details. %@ is the league name",
@@ -11957,12 +11957,12 @@
     "seo_site_description_match": {
       "comment": "This is overall description on a match page before the match starts. To be shown in search results on the web etc",
       "english": "%1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%1$@ vs %2$@ pe %3$@. Verificați rezultatele live, H2H (meciuri directe), primul 11, ratingul jucătorilor, știri, formele echipelor, harta loviturilor și momentele importante."
+      "value": "%1$@ vs %2$@ pe %3$@. Verifică rezultatele live, H2H (meciuri directe), primul 11, ratingul jucătorilor, știri, formele echipelor, harta loviturilor și momentele importante."
     },
     "seo_site_description_match_with_alias": {
       "comment": "This is a copy of site_description_match, but with the derby name as alias. E.g. \"Él Clásico: Real Madrid vs Barcelona on ...\". See site_description_match.",
       "english": "%4$@: %1$@ vs %2$@ on %3$@. Check live results, H2H, match stats, lineups, player ratings, insights, team forms, shotmap, and highlights.",
-      "value": "%4$@: %1$@ vs %2$@ pe %3$@. Verificați rezultatele live, H2H (meciuri directe), statisticile meciului, echipele de start, notele jucătorilor, analize, forma echipelor, harta șuturilor și momentele importante."
+      "value": "%4$@: %1$@ vs %2$@ pe %3$@. Verifică rezultatele live, H2H (meciuri directe), statisticile meciului, echipele de start, notele jucătorilor, analize, forma echipelor, harta șuturilor și momentele importante."
     },
     "seo_site_description_rumour_mill": {
       "comment": "Meta description tag value for the rumour mill page. Don't translate Rumour Mill. See site_description_transfer_center.",
@@ -12027,17 +12027,17 @@
     "seo_site_description_transfer_center": {
       "comment": "Meta description tag value for the transfer center page",
       "english": "Find all latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "Găsiți toate cele mai recente transferuri confirmate și cele mai scumpe semnări. FotMob Transfer Center - filtrează după ligă și echipe. Fiți la curent cu transferurile primind actualizări live despre toate ofertele finalizate în ziua limită!"
+      "value": "Găsește toate cele mai recente transferuri confirmate și cele mai scumpe semnări. FotMob Transfer Center - filtrează după ligă și echipe. Fii la curent cu transferurile primind actualizări live despre toate ofertele finalizate în ziua limită!"
     },
     "seo_site_description_transfer_center_selection": {
       "comment": "Meta description tag value for the transfer center page showing only transfers for a spesific team or league. With the name of said team or league as input with %1$@ as placeholder.",
       "english": "%1$@ latest confirmed transfers & most expensive signings. FotMob Transfer Center - filter by league & teams. Stay updated on transfers with live updates on deadline day with all completed deals!",
-      "value": "%1$@ ultimele transferuri confirmate și cele mai scumpe semnări. FotMob Transfer Center - filtrează după ligă și echipe. Fiți la curent cu transferurile primind actualizări live despre toate ofertele finalizate în ziua limită!"
+      "value": "%1$@ ultimele transferuri confirmate și cele mai scumpe semnări. FotMob Transfer Center - filtrează după ligă și echipe. Fii la curent cu transferurile primind actualizări live despre toate ofertele finalizate în ziua limită!"
     },
     "seo_site_description_tv_guide": {
       "comment": "SEO description for tv schedule page of football matches filtered by country. %@ is the country name. see [site_title_tv_guide]",
       "english": "Find football matches live on TV in %@ today and this week. TV schedules with kick-off times for Premier League, Champions League, World Cup and more.",
-      "value": "Găsiți meciuri de fotbal în direct la TV în %@ astăzi și săptămâna aceasta. Program TV cu orele de start pentru Premier League, Liga Campionilor, Cupa Mondială și multe altele."
+      "value": "Găsește meciuri de fotbal în direct la TV în %@ astăzi și săptămâna aceasta. Program TV cu orele de start pentru Premier League, Liga Campionilor, Cupa Mondială și multe altele."
     },
     "seo_site_description_tv_guide_channel": {
       "comment": "SEO description for tv schedule page filtered by channel name. %@ is the channel name. see [site_title_tv_guide_channel]",
@@ -12266,7 +12266,7 @@
     "seo_something_went_wrong_please_try_again": {
       "comment": "Generic error message in toasts, snackbars and error screens.",
       "english": "Something went wrong. Please try again.",
-      "value": "Ceva a mers prost. Vă rugăm să încercați din nou."
+      "value": "Ceva a mers prost. Te rugăm să încerci din nou."
     },
     "seo_sort_by": {
       "comment": "Label for a dropdown or button that allows the user to sort a list by different criteria. E.g. sort transfers by date, fee, or market value.",
@@ -12291,7 +12291,7 @@
     "seo_start_free_trial": {
       "comment": "Call to action to start a free trial for FotMob+",
       "english": "Start free trial",
-      "value": "Începeți proba gratuită"
+      "value": "Începe proba gratuită"
     },
     "seo_stay_in_browser_popup_btn": {
       "comment": "button component text in popup prompting the user to either continue in the app or stay in the browser version of FotMob.",
@@ -12311,7 +12311,7 @@
     "seo_submit": {
       "comment": "Used as call to action for submit button in troubleshooting mail.",
       "english": "Submit",
-      "value": "Trimiteți"
+      "value": "Trimite"
     },
     "seo_subs_single": {
       "comment": "Position label for substitutions in player match stats panel.",
@@ -12321,7 +12321,7 @@
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
       "english": "Subscribe",
-      "value": "Abonați-vă"
+      "value": "Abonează-te"
     },
     "seo_subscription_features": {
       "comment": "Header for list of FotMob+ features.",
@@ -12346,12 +12346,12 @@
     "seo_support_fotmob": {
       "comment": "One of FotMob+ features",
       "english": "Support FotMob",
-      "value": "Susțineți FotMob"
+      "value": "Susține FotMob"
     },
     "seo_support_fotmob_desc": {
       "comment": "A description for the \"Support FotMob\" FotMob+ feature.",
       "english": "Help support the ongoing development of FotMob.",
-      "value": "Ajutați la dezvoltarea continuă a FotMob."
+      "value": "Ajută la dezvoltarea continuă a FotMob."
     },
     "seo_switch_to_rumours": {
       "comment": "String on the button that changes from showing transfers to showing rumours. See rumours.",
@@ -12480,12 +12480,12 @@
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
       "english": "Thank you for your feedback!",
-      "value": "Vă mulțumim pentru feedback!"
+      "value": "Îți mulțumim pentru feedback!"
     },
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
       "english": "Thanks for supporting us since %@! Unlock even more features with FotMob+",
-      "value": "Vă mulțumim că ne susțineți din %@! Deblocați și mai multe funcții cu FotMob+"
+      "value": "Îți mulțumim că ne susții din %@! Deblochează și mai multe funcții cu FotMob+"
     },
     "seo_third_leg": {
       "comment": "Used in match facts to indicate that the match is the third of three or more encounters (legs) between the two teams, commonly in the context of knockout or playoff competitions.",
@@ -12520,7 +12520,7 @@
     "seo_tips_tap_to_view_career_history": {
       "comment": "Hint to a user that he can click a button to view a players career",
       "english": "Tap to view career history",
-      "value": "Atingeți pentru a vedea istoricul carierei"
+      "value": "Atinge pentru a vedea istoricul carierei"
     },
     "seo_title_label": {
       "comment": "Label text for the title field in a form.",
@@ -12574,7 +12574,7 @@
     "seo_trial_desc_first_days_cancel_anytime": {
       "comment": "Body text of the FotMob+ promotion popup, shown below the title \"Go ad-free and more.\" It tells the user the trial is free for a number of days and that the subscription can be cancelled at any point. i.e. \"Free for the first 7 days. Cancel anytime.\"",
       "english": "Free for the first %@ days. Cancel anytime.",
-      "value": "Gratuit pentru primele %@ zile. Puteți anula oricând."
+      "value": "Gratuit pentru primele %@ zile. Poți anula oricând."
     },
     "seo_trial_desc_monthly": {
       "comment": "Description explaining the recurring cost of a monthly FotMob+ subscription. i.e. \"Then $4.99 / month\"",
@@ -12597,11 +12597,11 @@
     },
     "seo_troubleshooting_description": {
       "english": "Run a quick test to discover any issues",
-      "value": "Efectuați un test rapid pentru a găsi orice probleme"
+      "value": "Efectuează un test rapid pentru a găsi orice probleme"
     },
     "seo_troubleshooting_help_text": {
       "english": "The app will now run some automatic tests to troubleshoot your issue. Once it is finished, submit the test and we will review it.",
-      "value": "Aplicația va rula acum câteva teste automate pentru a vă depana problema. Odată ce este terminat, trimiteți testul și îl vom revizui."
+      "value": "Aplicația va rula acum câteva teste automate pentru a-ți depana problema. Odată ce este terminat, trimite testul și îl vom revizui."
     },
     "seo_try_our_lineup_builder": {
       "comment": "subheadline for promotion component to try out the lineup builder. See [lineup_builder].",
@@ -12661,12 +12661,12 @@
     "seo_upload_file": {
       "comment": "Header text for the image upload button.",
       "english": "Upload a file",
-      "value": "Încărcați un fișier"
+      "value": "Încarcă un fișier"
     },
     "seo_upload_file_description": {
       "comment": "Description text for how to upload an image. shown on a drop area that uploads a file if it is dropped, and opens the file explorer if the user clicks on the area.",
       "english": "Drag and drop or click to upload",
-      "value": "Glisați și plasați sau faceți clic pentru a încărca"
+      "value": "Glisează și plasează sau fă clic pentru a încărca"
     },
     "seo_view_all_plans": {
       "comment": "Call to action for viewing all available subscription plans.",
@@ -12928,7 +12928,7 @@
     "seo_your_subscription_has_expired": {
       "comment": "Used for bottom sheet title when subscription has expired",
       "english": "Your subscription has expired",
-      "value": "Abonamentul dvs. a expirat"
+      "value": "Abonamentul tău a expirat"
     },
     "seo_zero_points": {
       "comment": "Title for \"0 points medal\". User gets \"0 points\" when they predict wrong.",
