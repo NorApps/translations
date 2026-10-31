@@ -422,7 +422,7 @@
     "accessibility_follow_in_the_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
       "english": "Follow in the FotMob app",
-      "value": "Ακολούθησε την εφαρμογή FotMob"
+      "value": "Ακολούθα στην εφαρμογή FotMob"
     },
     "accessibility_follow_in_the_app_description": {
       "comment": "Describes the app so the user will want to download it.",
@@ -3749,22 +3749,22 @@
     },
     "common_follow": {
       "english": "Follow %@ on FotMob",
-      "value": "Ακολούθησε τον %@ στο FotMob"
+      "value": "Ακολούθα τον %@ στο FotMob"
     },
     "common_follow_item": {
       "comment": "Label on the button in onboarding to follow a team/a player",
       "english": "Follow",
-      "value": "Ακολούθησε"
+      "value": "Ακολούθα"
     },
     "common_follow_players": {
       "comment": "Header in the onboarding where you can choose your favorite players",
       "english": "Follow players",
-      "value": "Ακολούθησε παίκτες"
+      "value": "Ακολούθα παίκτες"
     },
     "common_follow_teams": {
       "comment": "Header in the onboarding where you can choose your favorite teams",
       "english": "Follow teams",
-      "value": "Ακολούθησε ομάδες"
+      "value": "Ακολούθα ομάδες"
     },
     "common_follow_us": {
       "comment": "Label for button indicating you can follow us on social media like Facebook, Twitter and Instagram",
@@ -5070,7 +5070,7 @@
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
       "english": "Follow %@ and get updates from your favorite teams and players.",
-      "value": "Ακολούθησε τις αγαπημένες σου ομάδες και τους αγαπημένους σου παίκτες του %1$@ και μην χάσεις στιγμή από τη δράση."
+      "value": "Ακολούθα τις αγαπημένες σου ομάδες και τους αγαπημένους σου παίκτες του %1$@ και μην χάσεις στιγμή από τη δράση."
     },
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
@@ -8073,7 +8073,7 @@
     "notifications_follow_player": {
       "comment": "Label for following a player. Like \"Follow Wayne Rooney\"",
       "english": "Follow %@",
-      "value": "Ακολούθησε τον %@"
+      "value": "Ακολούθα τον %@"
     },
     "notifications_following": {
       "english": "Following",

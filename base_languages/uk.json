@@ -394,7 +394,7 @@
     "accessibility_favorites_widget_display_body": {
       "comment": "Used as the display body for the favorites widget in the widget selection menu. Body of a widget that shows the matches you are following.",
       "english": "View the matches you follow with live updates",
-      "value": "Слідкуйте за матчами які вас цікавлять, отримуючи інформацію в реальному часі"
+      "value": "Стежте за матчами, які вас цікавлять, отримуючи інформацію в реальному часі"
     },
     "accessibility_favorites_widget_display_title": {
       "comment": "Used as the display name for the favorites widget in the widget selection menu. Title of a widget that shows the matches you are following.",
@@ -424,7 +424,7 @@
     "accessibility_follow_in_the_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
       "english": "Follow in the FotMob app",
-      "value": "Слідкуйте в додатку FotMob"
+      "value": "Стежте в додатку FotMob"
     },
     "accessibility_follow_in_the_app_description": {
       "comment": "Describes the app so the user will want to download it.",
@@ -434,22 +434,22 @@
     "accessibility_follow_leagues": {
       "comment": "Header in the onboarding where you can choose your favorite leagues",
       "english": "Follow leagues",
-      "value": "Слідкувати за лігами"
+      "value": "Стежити за чемпіонатами"
     },
     "accessibility_follow_leagues_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any leagues.",
       "english": "Follow leagues to set notifications",
-      "value": "Відстежуйте чемпіонати, щоб налаштувати сповіщення"
+      "value": "Стежте за чемпіонатами, щоб налаштувати сповіщення"
     },
     "accessibility_follow_players_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any players.",
       "english": "Follow players to set notifications",
-      "value": "Відстежуйте гравців, щоб налаштувати сповіщення"
+      "value": "Стежте за гравцями, щоб налаштувати сповіщення"
     },
     "accessibility_follow_teams_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any teams.",
       "english": "Follow teams to set notifications",
-      "value": "Відстежуйте команди, щоб налаштувати сповіщення"
+      "value": "Стежте за командами, щоб налаштувати сповіщення"
     },
     "accessibility_fotmob_is_the_essential_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
@@ -957,7 +957,7 @@
     "accessibility_live_activities_onboarding_pin_teams": {
       "comment": "Description string used when onboarding users to auto live activities.",
       "english": "Automatically pin matches from teams you follow to your lock screen",
-      "value": "Автоматичне закріплення матчів команд, на які Ви підписані, на екрані блокування"
+      "value": "Автоматичне закріплення матчів команд, за якими Ви стежите, на екрані блокування"
     },
     "accessibility_live_activity_added": {
       "comment": "Used in toast when activating a live activity",
@@ -1295,17 +1295,17 @@
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
       "english": "You are not following any leagues",
-      "value": "Ви не підписані на жоден чемпіонат"
+      "value": "Ви не стежите за жодним чемпіонатом"
     },
     "accessibility_not_following_any_players": {
       "comment": "Used for toast when clicking players in notifications settings and the user is not following any players.",
       "english": "You are not following any players",
-      "value": "Ви не підписані на жодного з гравців"
+      "value": "Ви не стежите за жодним гравцем"
     },
     "accessibility_not_following_any_teams": {
       "comment": "Used for toast when clicking teams in notifications settings and the user is not following any teams.",
       "english": "You are not following any teams",
-      "value": "Ви не підписані на жодну з команд"
+      "value": "Ви не стежите за жодною командою"
     },
     "accessibility_not_on_pitch": {
       "comment": "Used in Match Facts to inform if a player getting a card is not on pitch.",
@@ -1325,17 +1325,17 @@
     "accessibility_notifications_all_leagues_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite leagues.",
       "english": "Set notifications for all the leagues you follow",
-      "value": "Налаштувати сповіщення для всіх чемпіонатів, на які Ви підписані"
+      "value": "Налаштувати сповіщення для всіх чемпіонатів, за якими Ви стежите"
     },
     "accessibility_notifications_all_players_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite players.",
       "english": "Set notifications for all the players you follow",
-      "value": "Налаштувати сповіщення для всіх гравців, на яких Ви підписані"
+      "value": "Налаштувати сповіщення для всіх гравців, за якими Ви стежите"
     },
     "accessibility_notifications_all_teams_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite teams.",
       "english": "Set notifications for all the teams you follow",
-      "value": "Налаштувати сповіщення для всіх команд, на які Ви підписані"
+      "value": "Налаштувати сповіщення для всіх команд, за якими Ви стежите"
     },
     "accessibility_notifications_enabled": {
       "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
@@ -1390,7 +1390,7 @@
     "accessibility_onboarding_follow_leagues_description_line_3": {
       "comment": "Onboarding text for a new user.",
       "english": "Follow the leagues you’re interested in and we’ll do the rest!",
-      "value": "Слідкуйте за чемпіонатами, які Вас цікавлять, а ми зробимо все інше!"
+      "value": "Стежте за чемпіонатами, які Вас цікавлять, а ми зробимо все інше!"
     },
     "accessibility_onboarding_follow_leagues_header": {
       "comment": "Onboarding header for an existing user as part of a change we are making to the leagues. We are asking the user to check that their leagues are correct. It could also read \"Check your leagues setup\" or just \"League setup\".",
@@ -1440,12 +1440,12 @@
     "accessibility_onboarding_players": {
       "comment": "An explanation during onboarding that when you click a button to follow a player, you will get notifications about the player",
       "english": "Follow players to get notifications when they play and score.",
-      "value": "Підписуйтеся на гравців, щоб отримувати сповіщення, коли вони грають і відзначаються результативними діями."
+      "value": "Стежте за гравцями, щоб отримувати сповіщення, коли вони грають і відзначаються результативними діями."
     },
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Підписуйтеся на команди, щоб отримувати сповіщення, коли вони грають та здобувають голи."
+      "value": "Стежте за командами, щоб отримувати сповіщення, коли вони грають та здобувають голи."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -2486,7 +2486,7 @@
     "accessibility_unfollow_item": {
       "comment": "Action label if you want to unfollow a team or a player. Long pressing on a player you follow will show a button saying Unfollow.",
       "english": "Unfollow",
-      "value": "Відписатися"
+      "value": "Не стежити"
     },
     "accessibility_unknown": {
       "comment": "Unknown - Used when we don't know a players position.",
@@ -3761,12 +3761,12 @@
     },
     "common_follow": {
       "english": "Follow %@ on FotMob",
-      "value": "Відстежуйте %@ на FotMob"
+      "value": "Стежити у FotMob: %@"
     },
     "common_follow_item": {
       "comment": "Label on the button in onboarding to follow a team/a player",
       "english": "Follow",
-      "value": "Відстежувати"
+      "value": "Стежити"
     },
     "common_follow_players": {
       "comment": "Header in the onboarding where you can choose your favorite players",
@@ -5104,7 +5104,7 @@
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
       "english": "Follow %@ and get updates from your favorite teams and players.",
-      "value": "Слідкуйте за %@ та отримуйте новини від вибраних команд та гравців."
+      "value": "Стежте за турніром «%@» та отримуйте новини від вибраних команд та гравців."
     },
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
@@ -6346,7 +6346,7 @@
     },
     "common_unstar": {
       "english": "Unfollow %@",
-      "value": "Відписатися %@"
+      "value": "Не стежити: %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -8115,7 +8115,7 @@
     "notifications_follow_player": {
       "comment": "Label for following a player. Like \"Follow Wayne Rooney\"",
       "english": "Follow %@",
-      "value": "Відстежувати %@"
+      "value": "Стежити: %@"
     },
     "notifications_following": {
       "english": "Following",
