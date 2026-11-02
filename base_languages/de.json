@@ -12292,7 +12292,7 @@
     "seo_subs_single": {
       "comment": "Position label for substitutions in player match stats panel.",
       "english": "Sub",
-      "value": "Ein"
+      "value": "Ersatz"
     },
     "seo_subscribe": {
       "comment": "Call to action to subscribe to a FotMob+ subscription",
