@@ -6880,6 +6880,11 @@
       },
       "value": "Оценить FotMob на %@ звёзд"
     },
+    "ios_runner_up_spoken": {
+      "comment": "VoiceOver-only. Spoken label for the team that finished second in a season, read before the team name in the list of past seasons and their winners. Use the natural spoken phrase in your language, e.g. \"runner-up\" or \"second place\", and write the ordinal as a word, never as a digit like \"2nd\" or \"2.\" since screen readers pronounce those as the number two.",
+      "english": "Runner-up",
+      "value": "Второе место"
+    },
     "ios_screen": {
       "comment": "Noun labelling the screen-picker parameter in the \"Go to\" App Shortcut — an app screen/section the user navigates to (not the verb \"to screen\").",
       "english": "Screen",
