@@ -3662,7 +3662,7 @@
     },
     "common_extratime_short": {
       "english": "ET",
-      "value": "Prodl."
+      "value": "ET"
     },
     "common_fahrenheit": {
       "comment": "A setting to toggle the temperature unit to Fahrenheit (°F) instead of Celsius (°C)",
@@ -3835,7 +3835,7 @@
     },
     "common_fulltime_short": {
       "english": "FT",
-      "value": "Konec"
+      "value": "FT"
     },
     "common_fun_fact_conceded_penalty_plurals": {
       "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",

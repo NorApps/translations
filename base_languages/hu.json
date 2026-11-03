@@ -3823,7 +3823,7 @@
     },
     "common_fulltime_short": {
       "english": "FT",
-      "value": "Vége"
+      "value": "FT"
     },
     "common_fun_fact_conceded_penalty_plurals": {
       "comment": "Example: conceded 2 penalties. See fun_fact_conceded_penalty.",
@@ -5189,7 +5189,7 @@
     },
     "common_penalties_short": {
       "english": "Pen",
-      "value": "11-es"
+      "value": "Bü"
     },
     "common_penaltiesarehappening": {
       "english": "Penalty-shootout",
