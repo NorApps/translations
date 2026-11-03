@@ -5418,7 +5418,7 @@
     },
     "common_postponed_short": {
       "english": "PP",
-      "value": "РР"
+      "value": "PP"
     },
     "common_prediction_points_lowercase": {
       "comment": "Predictor: lowercase abbreviation after a number of prediction points (\"12 pts\"). Not league table points.",

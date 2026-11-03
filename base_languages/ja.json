@@ -2613,7 +2613,7 @@
     },
     "common_aborted_short": {
       "english": "Ab",
-      "value": "中断"
+      "value": "打切"
     },
     "common_access_calendar_needed": {
       "english": "You need to grant FotMob access to the Calendar to be able to add the match to the calendar",
