@@ -7052,6 +7052,11 @@
       "english": "Audio news",
       "value": "오디오 뉴스"
     },
+    "new_awaiting_result": {
+      "comment": "Shown under the kickoff time in the match header once a match with limited coverage has kicked off. These matches get no live score, minute or events, only the final result some time after full time. Keep it short, it sits between the two team names.",
+      "english": "Awaiting result",
+      "value": "결과 대기 중"
+    },
     "new_bracket": {
       "comment": "This is the World Cup bracket. Like this http://cdn.bleacherreport.net/images_root/article/media_slots/photos/001/240/770/KnockoutRoundBracket_original.jpg?1386355815",
       "english": "Bracket",
@@ -7144,6 +7149,11 @@
       "comment": "Notifications sent for a football match.",
       "english": "Match alerts",
       "value": "경기 알림"
+    },
+    "new_match_limited_coverage": {
+      "comment": "Explains the clock icon shown in the match list and match header for a match with limited coverage: no live score, minute or events, only the final result some time after full time. Shown in a snackbar and read out by screen readers.",
+      "english": "Match with limited coverage",
+      "value": "정보가 제한된 경기"
     },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
