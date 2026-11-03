@@ -11016,6 +11016,16 @@
       "english": "Not active",
       "value": "비활성"
     },
+    "seo_notification_channel_push_update": {
+      "comment": "Android notification category name, listed in the phone's notification settings for FotMob. The category holds the silent notification shown while FotMob updates the user's push notification settings with the server in the background. Keep it short.",
+      "english": "Push update",
+      "value": "푸시 업데이트"
+    },
+    "seo_notification_channel_widget_update": {
+      "comment": "Android notification category name, listed in the phone's notification settings for FotMob. The category holds the silent notification shown while a home screen widget refreshes in the background. Keep it short.",
+      "english": "Widget update",
+      "value": "위젯 업데이트"
+    },
     "seo_now_make_your_predictions_and_compete": {
       "comment": "Text in the toast dialogue after joining a league through an invite link, encouraging the user to make their predictions.",
       "english": "Now, make your predictions and compete!",
@@ -12627,6 +12637,16 @@
       "comment": "Used inside parentheses behind version number - should use \"mid-sentence case\".",
       "english": "update available",
       "value": "업데이트 이용 가능"
+    },
+    "seo_updating_notifications": {
+      "comment": "Text of the silent notification shown under the app name while FotMob updates the user's push notification settings with the server in the background. Only shown on Android 11 and older.",
+      "english": "Updating notifications",
+      "value": "알림 업데이트 중"
+    },
+    "seo_updating_widget": {
+      "comment": "Text of the silent notification shown under the app name while a home screen widget refreshes in the background. Only shown on Android 11 and older.",
+      "english": "Updating widget",
+      "value": "위젯 업데이트 중"
     },
     "seo_upload_file": {
       "comment": "Header text for the image upload button.",
