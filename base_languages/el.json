@@ -2686,7 +2686,7 @@
     },
     "common_afterextratime_short": {
       "english": "AET",
-      "value": "ΜΛΠ"
+      "value": "ΜΠ"
     },
     "common_afterpenalties": {
       "english": "After penalties",
@@ -4272,7 +4272,7 @@
     },
     "common_halftime_short": {
       "english": "HT",
-      "value": "HMX"
+      "value": "ΗΜ"
     },
     "common_headed_clearance": {
       "comment": "Successful defensive clearance via a header – where player under pressure heads the ball clear of the defensive zone or/and out of play",

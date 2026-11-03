@@ -844,7 +844,7 @@
     "accessibility_interrupted_short": {
       "comment": "Char limit is 2! A match status that indicates the match is temporarily suspended. Could be fans stormed the pitch of weather condiditions.",
       "english": "IR",
-      "value": "Przer."
+      "value": "IR"
     },
     "accessibility_invalid_code": {
       "comment": "Error message indicating the code entered is invalid",

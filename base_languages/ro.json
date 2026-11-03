@@ -2691,7 +2691,7 @@
     },
     "common_afterextratime_short": {
       "english": "AET",
-      "value": "dPRE"
+      "value": "DP"
     },
     "common_afterpenalties": {
       "english": "After penalties",
