@@ -4579,7 +4579,7 @@
     "common_left_wing_back_short": {
       "comment": "Player position - a SHORT abbreviation of the Left Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "LWB",
-      "value": "एलडब्ल्यूबी"
+      "value": "LWB"
     },
     "common_leftback": {
       "comment": "Player position - player plays on the left side of the pitch in the defensive half",
@@ -5576,7 +5576,7 @@
     "common_right_wing_back_short": {
       "comment": "Player position - a SHORT abbreviation of the Right Wing Back translation. Use the code EA FC uses in your language; it is not always two letters.",
       "english": "RWB",
-      "value": "आरडब्ल्यूबी"
+      "value": "RWB"
     },
     "common_rightback": {
       "comment": "Player position - player plays on the right of the pitch in the defensive half",
