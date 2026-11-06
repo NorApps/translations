@@ -3750,7 +3750,7 @@
     "common_follow_item": {
       "comment": "Label on the button in onboarding to follow a team/a player",
       "english": "Follow",
-      "value": "သတင်းယူရန်"
+      "value": "သတင်းယူ"
     },
     "common_follow_players": {
       "comment": "Header in the onboarding where you can choose your favorite players",

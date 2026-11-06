@@ -394,12 +394,12 @@
     "accessibility_favorites_widget_display_body": {
       "comment": "Used as the display body for the favorites widget in the widget selection menu. Body of a widget that shows the matches you are following.",
       "english": "View the matches you follow with live updates",
-      "value": "Obejrzyj mecze, które obserwujesz, dzięki aktualizacjom na żywo"
+      "value": "Przeglądaj śledzone mecze z aktualizacjami na żywo"
     },
     "accessibility_favorites_widget_display_title": {
       "comment": "Used as the display name for the favorites widget in the widget selection menu. Title of a widget that shows the matches you are following.",
       "english": "Followed matches",
-      "value": "Obserwowane mecze"
+      "value": "Śledzone mecze"
     },
     "accessibility_fifa_rank": {
       "comment": "Used as header for a list that displays all countries and their respective fifa ranking (e.g 1st - Belgium)",
@@ -439,17 +439,17 @@
     "accessibility_follow_leagues_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any leagues.",
       "english": "Follow leagues to set notifications",
-      "value": "Obserwuj ligii, aby ustawić powiadomienia"
+      "value": "Śledź ligi, aby ustawić powiadomienia"
     },
     "accessibility_follow_players_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any players.",
       "english": "Follow players to set notifications",
-      "value": "Obserwuj piłkarzy, aby ustawić powiadomienia"
+      "value": "Śledź piłkarzy, aby ustawić powiadomienia"
     },
     "accessibility_follow_teams_to_set_notifications": {
       "comment": "Used for subtitle on toast from settings if user is not following any teams.",
       "english": "Follow teams to set notifications",
-      "value": "Obserwuj drużyny, aby ustawić powiadomienia"
+      "value": "Śledź drużyny, aby ustawić powiadomienia"
     },
     "accessibility_fotmob_is_the_essential_app": {
       "comment": "Text shown in predictor to make the user want to download the app.",
@@ -957,7 +957,7 @@
     "accessibility_live_activities_onboarding_pin_teams": {
       "comment": "Description string used when onboarding users to auto live activities.",
       "english": "Automatically pin matches from teams you follow to your lock screen",
-      "value": "Automatycznie przypinaj dopasowania z obserwowanych zespołów do ekranu blokady"
+      "value": "Automatycznie przypinaj mecze śledzonych drużyn do ekranu blokady"
     },
     "accessibility_live_activity_added": {
       "comment": "Used in toast when activating a live activity",
@@ -1295,17 +1295,17 @@
     "accessibility_not_following_any_leagues": {
       "comment": "Used for toast when clicking leagues in notifications settings and the user is not following any leagues.",
       "english": "You are not following any leagues",
-      "value": "Nie obserwujesz żadnych lig"
+      "value": "Nie śledzisz żadnych lig"
     },
     "accessibility_not_following_any_players": {
       "comment": "Used for toast when clicking players in notifications settings and the user is not following any players.",
       "english": "You are not following any players",
-      "value": "Nie obserwujesz żadnych graczy"
+      "value": "Nie śledzisz żadnych piłkarzy"
     },
     "accessibility_not_following_any_teams": {
       "comment": "Used for toast when clicking teams in notifications settings and the user is not following any teams.",
       "english": "You are not following any teams",
-      "value": "Nie obserwujesz żadnych drużyn"
+      "value": "Nie śledzisz żadnych drużyn"
     },
     "accessibility_not_on_pitch": {
       "comment": "Used in Match Facts to inform if a player getting a card is not on pitch.",
@@ -1325,17 +1325,17 @@
     "accessibility_notifications_all_leagues_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite leagues.",
       "english": "Set notifications for all the leagues you follow",
-      "value": "Ustawiaj powiadomienia dla wszystkich obserwowanych lig"
+      "value": "Ustaw powiadomienia dla wszystkich śledzonych lig"
     },
     "accessibility_notifications_all_players_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite players.",
       "english": "Set notifications for all the players you follow",
-      "value": "Ustawiaj powiadomienia dla wszystkich obserwowanych graczy"
+      "value": "Ustaw powiadomienia dla wszystkich śledzonych piłkarzy"
     },
     "accessibility_notifications_all_teams_desc": {
       "comment": "Used as a description in notifications settings when setting alerts for your favorite teams.",
       "english": "Set notifications for all the teams you follow",
-      "value": "Ustawiaj powiadomienia dla wszystkich obserwowanych drużyn"
+      "value": "Ustaw powiadomienia dla wszystkich śledzonych drużyn"
     },
     "accessibility_notifications_enabled": {
       "comment": "Used for bottom sheet to turn on or off notifications for a team/player/league within settings.",
@@ -1400,12 +1400,12 @@
     "accessibility_onboarding_following_leagues_simple_description_1": {
       "comment": "A description for the general onboarding for the new leaguesorting algorithm (that just informs the user about changes). Placeholder is the name of the first tab in the UI. It is called \"Leagues\" in English.",
       "english": "You can now manage the leagues you follow and order them in the <b>%@</b> tab.",
-      "value": "Możesz teraz zarządzać ligami, które obserwujesz i ustawiać ich kolejność w zakładce  <b>%@</b>."
+      "value": "Możesz teraz zarządzać śledzonymi ligami i ustawiać ich kolejność w zakładce <b>%@</b>."
     },
     "accessibility_onboarding_leagues": {
       "comment": "An explanation during onboarding that when you click a button to follow a league, it will appear at the top of the live matches list showing the football matches",
       "english": "Leagues you follow appear at the top of your match list.",
-      "value": "Ligi, które obserwujesz, pojawiają się na górze listy meczów."
+      "value": "Śledzone ligi pojawiają się na górze listy meczów."
     },
     "accessibility_onboarding_leagues_search_placeholder": {
       "comment": "Placeholder text for search field in leagues onboarding screen.",
@@ -1445,7 +1445,7 @@
     "accessibility_onboarding_teams": {
       "comment": "An explanation during onboarding that when you click a button to follow a team, you will get notifications",
       "english": "Follow teams to get notifications when they play and score goals.",
-      "value": "Obserwuj drużyny, aby otrzymywać powiadomienia, gdy grają i strzelają gole."
+      "value": "Śledź drużyny, aby otrzymywać powiadomienia, gdy grają i strzelają gole."
     },
     "accessibility_only_key_events": {
       "comment": "Explanation for a switch which lets the user toggle on/off only showing the key events for a match",
@@ -2486,7 +2486,7 @@
     "accessibility_unfollow_item": {
       "comment": "Action label if you want to unfollow a team or a player. Long pressing on a player you follow will show a button saying Unfollow.",
       "english": "Unfollow",
-      "value": "Przestań obserwować"
+      "value": "Przestań śledzić"
     },
     "accessibility_unknown": {
       "comment": "Unknown - Used when we don't know a players position.",
@@ -3704,7 +3704,7 @@
     "common_favorites_not_found_apple_watch": {
       "comment": "An empty placeholder for the Apple Watch app",
       "english": "No favorite teams or matches playing today",
-      "value": "Brak meczów ulubionych drużyn/obserwowanych meczów dzisiaj"
+      "value": "Brak dziś meczów ulubionych drużyn i śledzonych meczów"
     },
     "common_fifaworldranking": {
       "english": "FIFA",
@@ -3766,22 +3766,22 @@
     "common_follow_item": {
       "comment": "Label on the button in onboarding to follow a team/a player",
       "english": "Follow",
-      "value": "Obserwuj"
+      "value": "Śledź"
     },
     "common_follow_players": {
       "comment": "Header in the onboarding where you can choose your favorite players",
       "english": "Follow players",
-      "value": "Obserwuj piłkarzy"
+      "value": "Śledź piłkarzy"
     },
     "common_follow_teams": {
       "comment": "Header in the onboarding where you can choose your favorite teams",
       "english": "Follow teams",
-      "value": "Obserwuj drużyny"
+      "value": "Śledź drużyny"
     },
     "common_follow_us": {
       "comment": "Label for button indicating you can follow us on social media like Facebook, Twitter and Instagram",
       "english": "Follow us",
-      "value": "Obserwuj nas"
+      "value": "Śledź nas"
     },
     "common_for_you": {
       "comment": "Section in News with either your favorites' news or the news we've picked for the user ourselves",
@@ -5104,7 +5104,7 @@
     "common_onboarding_league": {
       "comment": "A popup showing an invite to get ready for an upcoming tournament",
       "english": "Follow %@ and get updates from your favorite teams and players.",
-      "value": "%1$@ : obserwuj swoje ulubione drużyny i nie przegap żadnej akcji."
+      "value": "%1$@: śledź rozgrywki i otrzymuj informacje o ulubionych drużynach i piłkarzach."
     },
     "common_onboarding_news_alerts_description": {
       "comment": "Onboarding text on a screen with a list of teams and a checkbox next to each team. The user can turn on news notification for a team by toggling the checkbox.",
@@ -6346,7 +6346,7 @@
     },
     "common_unstar": {
       "english": "Unfollow %@",
-      "value": "Przestań obserwować %@"
+      "value": "Przestań śledzić: %@"
     },
     "common_untitled": {
       "comment": "a fallback name if the user has not specified a name for their lineup in lineup builder",
@@ -8130,11 +8130,11 @@
     "notifications_follow_player": {
       "comment": "Label for following a player. Like \"Follow Wayne Rooney\"",
       "english": "Follow %@",
-      "value": "Obserwuj: %@"
+      "value": "Śledź: %@"
     },
     "notifications_following": {
       "english": "Following",
-      "value": "Obserwowane"
+      "value": "Śledzone"
     },
     "notifications_footnote_goals_and_appearances": {
       "comment": "Footnote explanation for some possibly inaccurate numbers.",
@@ -9647,7 +9647,7 @@
     "notifications_you_now_follow_player": {
       "comment": "When you decide to follow a player, we show a message like \"You are now following Wayne Rooney\"",
       "english": "You are now following %@",
-      "value": "Teraz obserwujesz: %@"
+      "value": "Teraz śledzisz: %@"
     },
     "notifications_your_content_has_never_been_synced": {
       "english": "Your content has not been synced yet. Please sign out and in again if the problem persists.",
@@ -10416,17 +10416,17 @@
     "seo_follow_players_to_track_performances": {
       "comment": "Sub-header for player step in onboarding to indicate what following a player actually means.",
       "english": "Follow players to track performances and transfers.",
-      "value": "Obserwuj piłkarzy, aby śledzić ich formę i transfery."
+      "value": "Śledź piłkarzy, aby być na bieżąco z ich formą i transferami."
     },
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
       "english": "Followed leagues",
-      "value": "Obserwowane Ligi"
+      "value": "Śledzone ligi"
     },
     "seo_followed_teams": {
       "comment": "Header for the list of teams you are following.",
       "english": "Followed teams",
-      "value": "Obserwowane drużyny"
+      "value": "Śledzone drużyny"
     },
     "seo_fotmob_lineup_builder": {
       "comment": "Headline for the lineup builder for football teams. In Norwegian the natural translation for Lineup Builder would be \"Lagbygger\". see [lineup_builder].",
@@ -10799,7 +10799,7 @@
     "seo_league_added_to_following": {
       "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
       "english": "League added to Following",
-      "value": "Do Obserwowanych dodano ligę"
+      "value": "Do Śledzonych dodano ligę"
     },
     "seo_league_and_team": {
       "comment": "Label for the section where you can filter transfers by league and/or teams. See league. See team.",
@@ -10824,7 +10824,7 @@
     "seo_league_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
-      "value": "Z Obserwowanych usunięto ligę"
+      "value": "Ze Śledzonych usunięto ligę"
     },
     "seo_leagues_predict": {
       "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
@@ -10944,12 +10944,12 @@
     "seo_match_added_to_following": {
       "comment": "Pop up after clicking follow on a match. See translation for \"following\"",
       "english": "Match added to Following",
-      "value": "Do Obserwowanych dodano mecz"
+      "value": "Do Śledzonych dodano mecz"
     },
     "seo_match_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a match. See translation for \"following\"",
       "english": "Match removed from Following",
-      "value": "Z Obserwowanych usunięto mecz"
+      "value": "Ze Śledzonych usunięto mecz"
     },
     "seo_matches_past_midnight": {
       "comment": "String explaining that a football match starts after midnight. Keep short and concise in the target language.",
@@ -11159,7 +11159,7 @@
     "seo_onboarding_wear_subtitle": {
       "comment": "Subtitle for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
       "english": "Easily see match events, stats, and more for the teams you follow, with FotMob on your watch.",
-      "value": "Zobacz łatwo wydarzenia meczowe, statystyki i więcej dla obserwowanych drużyn — z FotMob na zegarku."
+      "value": "Zobacz łatwo wydarzenia meczowe, statystyki i więcej dla śledzonych drużyn — z FotMob na zegarku."
     },
     "seo_onboarding_wear_title": {
       "comment": "Title for showing the wear onboarding for users who has wear connected but yet not installed the FotMob app on wear",
@@ -11304,7 +11304,7 @@
     "seo_player_added_to_following": {
       "comment": "Pop up after clicking follow on a player. See translation for \"player,match_added_to_following\"",
       "english": "Player added to Following",
-      "value": "Do Obserwowanych dodano gracza"
+      "value": "Do Śledzonych dodano piłkarza"
     },
     "seo_player_highlights": {
       "comment": "Title for the section with fun facts/highlighted stats of a player in a match.",
@@ -11314,7 +11314,7 @@
     "seo_player_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
       "english": "Player removed from Following",
-      "value": "Z Obserwowanych usunięto gracza"
+      "value": "Ze Śledzonych usunięto piłkarza"
     },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
@@ -12423,7 +12423,7 @@
     "seo_team_added_to_following": {
       "comment": "Pop up after clicking follow on a team. See translation for \"team,match_added_to_following\"",
       "english": "Team added to Following",
-      "value": "Do Obserwowanych dodano drużynę"
+      "value": "Do Śledzonych dodano drużynę"
     },
     "seo_team_rating": {
       "comment": "Average team rating in lineup.",
@@ -12433,7 +12433,7 @@
     "seo_team_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
       "english": "Team removed from Following",
-      "value": "Z Obserwowanych usunięto drużynę"
+      "value": "Ze Śledzonych usunięto drużynę"
     },
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
@@ -12895,7 +12895,7 @@
     "seo_world_cup_widget_onboarding_title": {
       "comment": "World Cup widget onboarding bottom sheet title. The country name is inserted at the placeholder.",
       "english": "Follow %@ from your home screen",
-      "value": "Obserwuj %@ na ekranie głównym"
+      "value": "%@: śledź na ekranie głównym"
     },
     "seo_x_matches": {
       "comment": "Used for the betting slip to show how many matches you have selected.",
