@@ -900,7 +900,7 @@
     "accessibility_last_starting_xi": {
       "comment": "Header indicating that we are showing the last starting 11 players on the pitch.",
       "english": "Last starting XI",
-      "value": "آخرین ترکیب 11 نفره"
+      "value": "آخرین ترکیب ۱۱ نفره"
     },
     "accessibility_league_sections_nav": {
       "comment": "Invisible accessible name for the tab bar that switches between the sections of a league page on the FotMob website, read aloud by screen readers to announce the group before the user steps through it; it is never shown on screen. The tabs are things like Overview, Table, Matches, Stats and Transfers. Use a short noun phrase in the natural wording a screen-reader user of this language would expect. \"sections\" here means the parts of a page reachable via its tabs - not departments, categories or divisions.",
@@ -1156,7 +1156,7 @@
     "accessibility_miss": {
       "comment": "A shot result description (missed the target)",
       "english": "Miss",
-      "value": "از دست رفته"
+      "value": "ازدست‌رفته"
     },
     "accessibility_more_tab": {
       "comment": "Text shown under an icon to show the user that more info can be found under the 'more' tab in the app.",
@@ -2955,12 +2955,12 @@
     "common_capacity": {
       "comment": "Label indicating how many people the stadium can take (have capacity for)",
       "english": "Capacity",
-      "value": "ظرفیت"
+      "value": "گنجایش"
     },
     "common_capacity_used": {
       "comment": "Accessibility label indicating how much of a stadium's capacity was filled for the match",
       "english": "Capacity used",
-      "value": "ظرفیت پرشده"
+      "value": "گنجایش پرشده"
     },
     "common_card_desc_abusive_language": {
       "comment": "Abusive language towards players or referees.",
@@ -4816,7 +4816,7 @@
     },
     "common_missed_penalty": {
       "english": "Missed penalty",
-      "value": "پنالتی از دست رفته"
+      "value": "پنالتی ازدست‌رفته"
     },
     "common_more": {
       "comment": "Last tab on the main screen, which contains settings, TV guide, etc.",
@@ -5122,7 +5122,7 @@
     "common_opened": {
       "comment": "Label indicating what year the stadium was built",
       "english": "Opened",
-      "value": "سال افتتاح"
+      "value": "گشایش"
     },
     "common_opposition_half_passes": {
       "comment": "Label for number of passes inside the other teams half",
@@ -5789,12 +5789,12 @@
     },
     "common_share_event": {
       "english": "Share",
-      "value": "به اشتراک گذاری"
+      "value": "به‌اشتراک‌گذاری"
     },
     "common_share_on_facebook": {
       "comment": "Widget strings",
       "english": "Share on Facebook",
-      "value": "به اشتراک گذاری در فیس بوک"
+      "value": "به‌اشتراک‌گذاری در فیس‌بوک"
     },
     "common_shot_accuracy": {
       "comment": "How many percentage of shots hit the goal. Like if Messi shoots 10 times at goal and hits the goal once. We say he hit had a shot accuracy of 10%",
@@ -6384,7 +6384,7 @@
     },
     "common_venue": {
       "english": "Stadium",
-      "value": "استادیوم"
+      "value": "ورزشگاه"
     },
     "common_vibrate_caption": {
       "english": "Vibrate on scorealert",
@@ -7779,12 +7779,12 @@
     "notifications_big_chance_missed_team_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "موقعیت‌های بزرگ از دست رفته"
+      "value": "موقعیت‌های بزرگ ازدست‌رفته"
     },
     "notifications_big_chance_missed_title": {
       "comment": "Clear cut scoring opportunities which were not converted / scored",
       "english": "Big chances missed",
-      "value": "بزرگترین موقعیت‌های از دست رفته"
+      "value": "بزرگترین موقعیت‌های ازدست‌رفته"
     },
     "notifications_blocked_shots": {
       "english": "Blocked shots",
@@ -8084,7 +8084,7 @@
     },
     "notifications_following": {
       "english": "Following",
-      "value": "دنبال شده‌ها"
+      "value": "دنبال‌شده"
     },
     "notifications_footnote_goals_and_appearances": {
       "comment": "Footnote explanation for some possibly inaccurate numbers.",
@@ -9256,19 +9256,19 @@
     },
     "notifications_sign_in_with_apple": {
       "english": "Sign in with Apple",
-      "value": "ورود به حساب با Apple"
+      "value": "ورود با حساب اپل"
     },
     "notifications_sign_in_with_facebook": {
       "english": "Sign in with Facebook",
-      "value": "ورود با اکانت فیسبوک"
+      "value": "ورود با حساب فیس‌بوک"
     },
     "notifications_sign_in_with_google": {
       "english": "Sign in with Google",
-      "value": "ورود با اکانت گوگل"
+      "value": "ورود با حساب گوگل"
     },
     "notifications_sign_in_with_twitter": {
       "english": "Sign in with Twitter",
-      "value": "ورود با اکانت توییتر"
+      "value": "ورود با حساب توییتر"
     },
     "notifications_sign_out": {
       "comment": "Profile page sign out",
@@ -9277,7 +9277,7 @@
     },
     "notifications_signing_in": {
       "english": "Signing in…",
-      "value": "وارد شدن…"
+      "value": "در حال ورود…"
     },
     "notifications_singapore": {
       "comment": "Country name used in tv guide page on web",
@@ -9324,7 +9324,7 @@
     },
     "notifications_standard_alerts_description": {
       "english": "Set the standard notifications for any new league, match or team alerts that are set. This does not affect existing alerts.",
-      "value": "تنظیم یک نوتیفیکیشن استاندارد برای هر لیگ، مسابقه و یا تیم جدیدی که اضافه می‌شود. این تغییرات بر روی نوتیفیکیشن‌های قبلی تاثیر گذار نمی‌باشد."
+      "value": "تنظیم یک اعلان استاندارد برای هر لیگ، مسابقه و یا تیم جدیدی که اضافه می‌شود. این تغییرات بر روی اعلان‌های قبلی تأثیری ندارد."
     },
     "notifications_status_live": {
       "comment": "Status indicator for match highlights. Says the match is ongoing.",
@@ -9339,7 +9339,7 @@
     "notifications_submit_log": {
       "comment": "Button user can press to submit log file by e-mail",
       "english": "Submit log",
-      "value": "وارد شوید"
+      "value": "ارسال گزارش لاگ"
     },
     "notifications_support": {
       "comment": "Title and button for support screen",
@@ -9362,7 +9362,7 @@
     },
     "notifications_tackles_attempted": {
       "english": "Tackles attempted",
-      "value": "تکل‌های انجام شده"
+      "value": "تکل‌های انجام‌شده"
     },
     "notifications_tackles_succeeded": {
       "english": "Tackles won",
@@ -9418,7 +9418,7 @@
     },
     "notifications_time_setting_may_be_incorrect": {
       "english": "Both the time and time zone setting may be incorrect.",
-      "value": "هم ساعت و هم منطقه زمانی ممکن است نادرست باشد."
+      "value": "هم ساعت و هم منطقهٔ زمانی ممکن است نادرست باشد."
     },
     "notifications_time_settings": {
       "comment": "Button that open time and date settings on the device",
@@ -9583,7 +9583,7 @@
     "notifications_would_you_mind_giving_feedback": {
       "comment": "Used for rating dialog, button label so keep it short",
       "english": "Would you mind giving us some feedback?",
-      "value": "دوست دارید بازخورد و نظر خود را برای ما ارسال کنید؟"
+      "value": "آیا مایلید بازخوردی برای ما بفرستید؟"
     },
     "notifications_x_of_y": {
       "comment": "Used to express showing \"1 of 30\" elements",
@@ -9601,7 +9601,7 @@
     },
     "notifications_your_content_has_never_been_synced": {
       "english": "Your content has not been synced yet. Please sign out and in again if the problem persists.",
-      "value": "محتوای شما هنوز همگام سازی نشده است. لطفا از سیستم خارج شده و دوباره امتحان کنید."
+      "value": "محتوای شما هنوز همگام‌سازی نشده است. اگر مشکل از بین نرفت، لطفاً خارج شده و دوباره وارد شوید."
     },
     "notifications_youth_career": {
       "english": "Youth career",
@@ -10368,7 +10368,7 @@
     "seo_followed_leagues": {
       "comment": "Header for the list of leagues you are following.",
       "english": "Followed leagues",
-      "value": "لیگ‌های دنبال شده"
+      "value": "لیگ‌های دنبال‌شده"
     },
     "seo_followed_teams": {
       "comment": "Header for the list of teams you are following.",
@@ -10744,7 +10744,7 @@
     "seo_league_added_to_following": {
       "comment": "Pop up after clicking follow on a league. See translation for \"league,match_added_to_following\"",
       "english": "League added to Following",
-      "value": "لیگ به لیست دنبال شده‌ها اضافه شد"
+      "value": "لیگ به لیست دنبال‌شده‌ها اضافه شد"
     },
     "seo_league_and_team": {
       "comment": "Label for the section where you can filter transfers by league and/or teams. See league. See team.",
@@ -10769,7 +10769,7 @@
     "seo_league_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a league. See translation for \"league,match_removed_from_following\"",
       "english": "League removed from Following",
-      "value": "لیگ از لیست دنبال شده‌ها حذف شد"
+      "value": "لیگ از لیست دنبال‌شده‌ها حذف شد"
     },
     "seo_leagues_predict": {
       "comment": "Short tab title for a user's leagues they are competing in. See \"my_leagues\" for context.",
@@ -10889,12 +10889,12 @@
     "seo_match_added_to_following": {
       "comment": "Pop up after clicking follow on a match. See translation for \"following\"",
       "english": "Match added to Following",
-      "value": "مسابقه به لیست دنبال شده‌ها اضافه شد"
+      "value": "مسابقه به لیست دنبال‌شده‌ها اضافه شد"
     },
     "seo_match_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a match. See translation for \"following\"",
       "english": "Match removed from Following",
-      "value": "مسابقه از لیست دنبال شده‌ها حذف شد"
+      "value": "مسابقه از لیست دنبال‌شده‌ها حذف شد"
     },
     "seo_matches_past_midnight": {
       "comment": "String explaining that a football match starts after midnight. Keep short and concise in the target language.",
@@ -11256,7 +11256,7 @@
     "seo_player_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a player. See translation for \"player,match_removed_from_following\"",
       "english": "Player removed from Following",
-      "value": "بازیکن از لیست دنبال شده‌ها حذف شد"
+      "value": "بازیکن از لیست دنبال‌شده‌ها حذف شد"
     },
     "seo_player_started_matches": {
       "comment": "Label below the number of matches a player has been part of starting eleven. Keep short.",
@@ -12370,7 +12370,7 @@
     "seo_team_removed_from_following": {
       "comment": "Pop up after clicking un-follow on a team. See translation for \"team,match_removed_from_following\"",
       "english": "Team removed from Following",
-      "value": "تیم از لیست دنبال شده‌ها حذف شد"
+      "value": "تیم از لیست دنبال‌شده‌ها حذف شد"
     },
     "seo_team_won": {
       "comment": "Used in notifications for indicating the team that won the penalty shootout like \"Arsenal won!\"",
