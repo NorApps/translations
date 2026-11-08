@@ -7152,7 +7152,7 @@
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
       "english": "Lineup confirmed",
-      "value": "ترکیب تایید شده"
+      "value": "ترکیب تأییدشده"
     },
     "new_match_alerts": {
       "comment": "Notifications sent for a football match.",
@@ -7181,7 +7181,7 @@
     "new_mute_alerts": {
       "comment": "Short button caption for turning off alerts for a specific match. Please keep this as short as possible",
       "english": "Mute this match",
-      "value": "بیصدا کردن این بازی"
+      "value": "بی‌صدا کردن این بازی"
     },
     "new_news_vibrate": {
       "comment": "User can decide if his phone should vibrate when getting a news alert",
@@ -7204,7 +7204,7 @@
     },
     "new_no_player_data": {
       "english": "Nothing here yet, check back later",
-      "value": "چیزی ثبت نشده است. بعدا دوباره چک کنید."
+      "value": "چیزی ثبت نشده، بعداً دوباره بررسی کنید."
     },
     "new_no_thanks": {
       "english": "No thanks",
@@ -7317,7 +7317,7 @@
     },
     "new_reminder": {
       "english": "Match starts in %@ minutes",
-      "value": "بازی در %@ دقیقه دیگر شروع می‌شود"
+      "value": "بازی %@ دقیقه دیگر شروع می‌شود"
     },
     "new_remove_ads": {
       "english": "Remove ads",
@@ -7339,7 +7339,7 @@
     },
     "new_semifinal": {
       "english": "Semi-final",
-      "value": "نیمه نهایی"
+      "value": "نیمه‌نهایی"
     },
     "new_set_alerts": {
       "comment": "Dialog title indicating that the user can set team alerts in this dialog",
@@ -7353,7 +7353,7 @@
     "new_sing_up": {
       "comment": "Button that user clicks when finished registering his details and he wants to register/sign up",
       "english": "Sign up",
-      "value": "ثبت نام"
+      "value": "ثبت‌نام"
     },
     "new_skip": {
       "comment": "Button caption for skipping to the next screen",
