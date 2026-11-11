@@ -9621,6 +9621,105 @@
       "english": "Youth career",
       "value": "Giovanili"
     },
+    "pass map_pass_map_all_passes": {
+      "comment": "Legend under the pitch in the passing network when a line is drawn for every pair of players who passed to each other.",
+      "english": "All passes",
+      "value": "Tutti i passaggi"
+    },
+    "pass map_pass_map_completed_count": {
+      "comment": "Option in the picker on the selected player's card in the passing network: shows the passes the player completed. %d is that number. Keep the number first so it stays visible if the label is cut off, and keep it short.",
+      "english_plurals": {
+        "one": "%d Completed",
+        "other": "%d Completed"
+      },
+      "plurals": {
+        "one": "%d riuscito",
+        "other": "%d riusciti"
+      }
+    },
+    "pass map_pass_map_min_passes": {
+      "comment": "Legend under the pitch in the passing network: a line is drawn only between players who passed to each other at least this many times, e.g. \"5+ passes\".",
+      "english_plurals": {
+        "one": "%d+ passes",
+        "other": "%d+ passes"
+      },
+      "plurals": {
+        "one": "%d+ passaggi",
+        "other": "%d+ passaggi"
+      }
+    },
+    "pass map_pass_map_most_common_pass": {
+      "comment": "Label for the two players who passed to each other most often in the passing network, shown as a row in the list of insights under the pitch, followed by the two names. Keep it short.",
+      "english": "Most common pass",
+      "value": "Passaggio più frequente"
+    },
+    "pass map_pass_map_most_involved": {
+      "comment": "Label for the player who took part in the most passes, made and received, in the passing network. Shown as the card subtitle and as a row in the list of insights under the pitch, followed by the player's name. Keep it short.",
+      "english": "Most involved",
+      "value": "Più coinvolto"
+    },
+    "pass map_pass_map_most_involved_description": {
+      "comment": "Screen reader label (TalkBack and VoiceOver) for the passing network card. %1$@ is the name of the player who took part in the most passes, %2$d that player's number of passes. See pass_map_most_involved. The count follows a colon so the noun never has to agree with the number.",
+      "english": "Most involved: %1$@, passes: %2$d",
+      "value": "Più coinvolto: %1$@, passaggi: %2$d"
+    },
+    "pass map_pass_map_most_isolated": {
+      "comment": "Label for the player who took part in the fewest passes with teammates in the passing network, shown as a row in the list of insights under the pitch, followed by the player's name. Keep it short.",
+      "english": "Most isolated",
+      "value": "Più isolato"
+    },
+    "pass map_pass_map_no_data": {
+      "comment": "Shown in the passing network when there is no passing data for the match yet.",
+      "english": "No passing data for this match yet",
+      "value": "Nessun dato sui passaggi per questa partita al momento"
+    },
+    "pass map_pass_map_open_passing_network": {
+      "comment": "Screen reader label (TalkBack and VoiceOver) for the passing network card in the match lineup. Tapping it opens the full passing network.",
+      "english": "Open passing network",
+      "value": "Apri la rete di passaggi"
+    },
+    "pass map_pass_map_passes_count": {
+      "comment": "Number of passes a player took part in, shown under the player on the passing network card, e.g. \"34 passes\".",
+      "english_plurals": {
+        "one": "%d pass",
+        "other": "%d passes"
+      },
+      "plurals": {
+        "one": "%d passaggio",
+        "other": "%d passaggi"
+      }
+    },
+    "pass map_pass_map_passing_network": {
+      "comment": "Title of the card and the full-screen sheet in the match lineup that show how a team's players passed to each other, drawn as lines between the players on the pitch.",
+      "english": "Passing network",
+      "value": "Rete di passaggi"
+    },
+    "pass map_pass_map_player_description": {
+      "comment": "Screen reader label (TalkBack and VoiceOver) for a player on the passing network pitch. %1$@ is the player's name, %2$d the number of passes the player completed, %3$d the number of passes the player received. The counts follow a colon so the noun never has to agree with the number.",
+      "english": "%1$@, passes completed: %2$d, passes received: %3$d",
+      "value": "%1$@, passaggi riusciti: %2$d, passaggi ricevuti: %3$d"
+    },
+    "pass map_pass_map_received_count": {
+      "comment": "Option in the picker on the selected player's card in the passing network: shows the passes the player received. %d is that number. Keep the number first so it stays visible if the label is cut off, and keep it short. See pass_map_completed_count.",
+      "english_plurals": {
+        "one": "%d Received",
+        "other": "%d Received"
+      },
+      "plurals": {
+        "one": "%d ricevuto",
+        "other": "%d ricevuti"
+      }
+    },
+    "pass map_pass_map_show_team_overview": {
+      "comment": "Screen reader label (TalkBack and VoiceOver) for the button in the passing network that leaves the selected player and shows the passes of the whole team again.",
+      "english": "Show team overview",
+      "value": "Mostra panoramica della squadra"
+    },
+    "pass map_pass_map_tap_player_hint": {
+      "comment": "Hint under the pitch in the passing network. Tapping a player shows only the passes that player made and received.",
+      "english": "Tap a player to see their passes",
+      "value": "Tocca un giocatore per vedere i suoi passaggi"
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",
