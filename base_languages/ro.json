@@ -8974,6 +8974,11 @@
       "english": "Pakistan",
       "value": "Pakistan"
     },
+    "notifications_pass_accuracy": {
+      "comment": "Label in the stat filter dropdown on the match lineup. Shows each player's share of passes that were accurate, as a percentage.",
+      "english": "Pass accuracy",
+      "value": "Precizie pase"
+    },
     "notifications_pass_percentage": {
       "comment": "The percentage of passes being successful",
       "english": "Pass success",

@@ -6995,6 +6995,10 @@
       "comment": "Country name used in tv guide page on web",
       "value": "Pakistan"
     },
+    "notifications_pass_accuracy": {
+      "comment": "Label in the stat filter dropdown on the match lineup. Shows each player's share of passes that were accurate, as a percentage.",
+      "value": "Pass accuracy"
+    },
     "notifications_pass_percentage": {
       "comment": "The percentage of passes being successful",
       "value": "Pass success"
