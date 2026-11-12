@@ -10014,7 +10014,7 @@
       "value": "Sulje kysely"
     },
     "seo_close_sidebar": {
-      "comment": "Accessibility label for closing the sidebar on iPad. Used for VoiceOver.",
+      "comment": "Accessibility label for closing the sidebar on iPad, and the list pane next to a match on Android foldables and tablets. Used for VoiceOver and TalkBack.",
       "english": "Close sidebar",
       "value": "Sulje sivupalkki"
     },
@@ -11230,7 +11230,7 @@
       "value": "Vain Pulse-merkinnät"
     },
     "seo_open_sidebar": {
-      "comment": "Accessibility label for opening the sidebar on iPad. Used for VoiceOver.",
+      "comment": "Accessibility label for opening the sidebar on iPad, and the list pane next to a match on Android foldables and tablets. Used for VoiceOver and TalkBack.",
       "english": "Open sidebar",
       "value": "Avaa sivupalkki"
     },

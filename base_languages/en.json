@@ -7826,7 +7826,7 @@
       "value": "Close Poll"
     },
     "seo_close_sidebar": {
-      "comment": "Accessibility label for closing the sidebar on iPad. Used for VoiceOver.",
+      "comment": "Accessibility label for closing the sidebar on iPad, and the list pane next to a match on Android foldables and tablets. Used for VoiceOver and TalkBack.",
       "value": "Close sidebar"
     },
     "seo_code_copied_to_clipboard": {
@@ -8792,7 +8792,7 @@
       "value": "Only Pulse items"
     },
     "seo_open_sidebar": {
-      "comment": "Accessibility label for opening the sidebar on iPad. Used for VoiceOver.",
+      "comment": "Accessibility label for opening the sidebar on iPad, and the list pane next to a match on Android foldables and tablets. Used for VoiceOver and TalkBack.",
       "value": "Open sidebar"
     },
     "seo_open_the_match": {

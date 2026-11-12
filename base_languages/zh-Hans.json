@@ -9993,7 +9993,7 @@
       "value": "关闭投票"
     },
     "seo_close_sidebar": {
-      "comment": "Accessibility label for closing the sidebar on iPad. Used for VoiceOver.",
+      "comment": "Accessibility label for closing the sidebar on iPad, and the list pane next to a match on Android foldables and tablets. Used for VoiceOver and TalkBack.",
       "english": "Close sidebar",
       "value": "关闭侧边栏"
     },
@@ -11208,7 +11208,7 @@
       "value": "仅显示 Pulse 内容"
     },
     "seo_open_sidebar": {
-      "comment": "Accessibility label for opening the sidebar on iPad. Used for VoiceOver.",
+      "comment": "Accessibility label for opening the sidebar on iPad, and the list pane next to a match on Android foldables and tablets. Used for VoiceOver and TalkBack.",
       "english": "Open sidebar",
       "value": "打开侧边栏"
     },
