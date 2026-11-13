@@ -5889,6 +5889,11 @@
       "english": "Squad value",
       "value": "Стойност на състава"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "english": "Compare with",
+      "value": "Сравни с"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "Избор на редакцията"

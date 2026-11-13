@@ -5875,6 +5875,11 @@
       "english": "Squad value",
       "value": "球队价值"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "english": "Compare with",
+      "value": "对比球队"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "团队精选"

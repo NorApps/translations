@@ -5888,6 +5888,11 @@
       "english": "Squad value",
       "value": "Valor de la plantilla"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "english": "Compare with",
+      "value": "Comparar con"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "Elecciones del Staff"

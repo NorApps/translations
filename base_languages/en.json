@@ -4619,6 +4619,10 @@
       "comment": "Title of the league Team stats list ranking clubs by the total estimated transfer value of their current squad. See \"estimated_transfer_value\".",
       "value": "Squad value"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "value": "Compare with"
+    },
     "common_staff_picks": {
       "value": "Staff picks"
     },

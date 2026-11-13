@@ -5874,6 +5874,11 @@
       "english": "Squad value",
       "value": "Giá trị đội hình"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "english": "Compare with",
+      "value": "So sánh với"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "Lựa chọn của ban biên tập"

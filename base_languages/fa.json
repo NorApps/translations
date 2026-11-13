@@ -5880,6 +5880,11 @@
       "english": "Squad value",
       "value": "ارزش تیم"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "english": "Compare with",
+      "value": "مقایسه با"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "انتخاب اعضا"

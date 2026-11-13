@@ -5876,6 +5876,11 @@
       "english": "Squad value",
       "value": "スカッド価値"
     },
+    "common_squad_value_compare_with": {
+      "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
+      "english": "Compare with",
+      "value": "比較するチーム"
+    },
     "common_staff_picks": {
       "english": "Staff picks",
       "value": "スタッフの一押し"
