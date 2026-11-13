@@ -5924,6 +5924,11 @@
       "english": "Squad value",
       "value": "Стоимость состава"
     },
+    "common_squad_value_compare_none": {
+      "comment": "Shown in the squad value \"Compare with\" team picker on a team page when no team is picked for comparison. It stands for \"no team\", so use the form that agrees with your language's word for team.",
+      "english": "None",
+      "value": "Нет"
+    },
     "common_squad_value_compare_with": {
       "comment": "Label next to the dropdown on a team's squad value chart, where the reader picks another team whose squad value is drawn alongside for comparison.",
       "english": "Compare with",
