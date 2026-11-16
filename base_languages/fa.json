@@ -337,7 +337,7 @@
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
       "english": "Duels won %",
-      "value": "درصد درگیری‌ها"
+      "value": "درصد دوئل‌های برده"
     },
     "accessibility_effective_clearance_per_90": {
       "comment": "Label used in stats for clearances per 90",
@@ -547,7 +547,7 @@
     "accessibility_ground_duels_won": {
       "comment": "This is a statistic where we list the number of times a football defender won a ground duel as opposed to an aerial duel.",
       "english": "Ground duels won",
-      "value": "نبردهای زمینی موفق"
+      "value": "دوئل‌های زمینی موفق"
     },
     "accessibility_h2h_short": {
       "comment": "Shortname of 'Head to head'. This tab shows how two teams have fared against each other in the past. Needs to be kept short. Use 'H2h' if it makes sense in the language",
