@@ -3403,7 +3403,7 @@
     "common_duels_won_lost": {
       "comment": "Header of a graphic showing how many duels (header + tackles) the player has won or lost",
       "english": "Duels won / lost",
-      "value": "بردها / باخت‌های رو در رو"
+      "value": "دوئل‌های برده / باخته"
     },
     "common_ecuador": {
       "english": "Ecuador",
@@ -4700,7 +4700,7 @@
     },
     "common_matches": {
       "english": "matches",
-      "value": "دیدارهای اخیر"
+      "value": "بازی‌ها"
     },
     "common_matches_not_determined": {
       "comment": "Placeholder for brackets rounds, which have not been drawen yet",
@@ -6161,7 +6161,7 @@
     },
     "common_toggle_favorite": {
       "english": "Set or unset as favorite",
-      "value": "انتخواب به عنوان مورد علاقه"
+      "value": "انتخاب به عنوان مورد علاقه"
     },
     "common_toggle_notifications": {
       "english": "Toggle notifications",
@@ -6270,7 +6270,7 @@
     "common_transfer_sum": {
       "comment": "Transfer sum. Label just before the amount the player was transferred for, I want the shortened word for the transfer sum. Example: Before: \"Transfer Sum $10.000.000 -> Now : \"\"Sum $10.000.000\"",
       "english": "Sum",
-      "value": "جمع انتقال"
+      "value": "مجموع"
     },
     "common_transfer_value": {
       "comment": "The value of a player if he is to be sold. So it is the likely transfer sum - This is not the market value but the actual expected transfer fee",
@@ -7143,7 +7143,7 @@
     "new_h2h": {
       "comment": "This is a header for team vs team stats",
       "english": "Head-to-Head",
-      "value": "بازی رو در رو"
+      "value": "رویارویی‌ها"
     },
     "new_height": {
       "comment": "height of player, all uppercase!",
@@ -7157,7 +7157,7 @@
     "new_invitation_message": {
       "comment": "Make a nice message to invite friends. Important! MAX 100 chars!",
       "english": "I am using this app to get live football scores. Check it out!",
-      "value": "من برای چک کردن لحظه به لحظه بازی‌های فوتبال از این برنامه استفاده می‌کنم. بهتر امتحان کنید!"
+      "value": "من برای پیگیری لحظه‌ای نتایج فوتبال از این برنامه استفاده می‌کنم. نگاهی بهش بیندازید!"
     },
     "new_lineup_confirmed": {
       "comment": "Information message that the lineup for an upcoming match is confirmed",
@@ -7941,7 +7941,7 @@
     },
     "notifications_dribbles_attempted": {
       "english": "Dribbles attempted",
-      "value": "دریبل‌های انجام شده"
+      "value": "تلاش برای دریبل"
     },
     "notifications_dribbles_succeeded": {
       "english": "Successful dribbles",
@@ -7950,17 +7950,17 @@
     "notifications_duel_lost": {
       "comment": "Duel over the possession of the ball where a player looses the ball",
       "english": "Duels lost",
-      "value": "باخت رو در رو"
+      "value": "دوئل‌های باخته"
     },
     "notifications_duel_won": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
       "english": "Duels won",
-      "value": "درگیری‌ها"
+      "value": "دوئل‌های برده"
     },
     "notifications_duels": {
       "comment": "Stat for the number of duels that the player has been involved in during the match",
       "english": "Duels",
-      "value": "درگیری"
+      "value": "دوئل‌ها"
     },
     "notifications_enable_breaking_news": {
       "comment": "User can enable breaking news alerts",
