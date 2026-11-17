@@ -9729,6 +9729,31 @@
       "english": "Tap a player to see their passes",
       "value": "किसी खिलाड़ी के पास देखने के लिए उस पर टैप करें"
     },
+    "players abroad_give_feedback": {
+      "comment": "Link that opens a short survey where users can tell us what they think of a feature.",
+      "english": "Give feedback",
+      "value": "फ़ीडबैक दें"
+    },
+    "players abroad_opens_in_new_tab": {
+      "comment": "Read out by screen readers after a link that opens in a new browser tab. Not shown on screen. Keep the parentheses.",
+      "english": "(opens in a new tab)",
+      "value": "(नए टैब में खुलता है)"
+    },
+    "players abroad_players_abroad": {
+      "comment": "Title of the front page section listing football players from the user's country who play for clubs in other countries, with their matches that day.",
+      "english": "Players abroad",
+      "value": "विदेश में खेल रहे खिलाड़ी"
+    },
+    "players abroad_players_abroad_beta": {
+      "comment": "Title of the info popover on the players abroad section of the front page. \"Beta\" means the feature is new and still being tested.",
+      "english": "Players abroad (beta)",
+      "value": "विदेश में खेल रहे खिलाड़ी (बीटा)"
+    },
+    "players abroad_players_abroad_beta_info": {
+      "comment": "Text in the info popover on the players abroad section of the front page, explaining what the section shows and that the feature is new and may change.",
+      "english": "Follow players from your country at clubs abroad. This is a beta, so it may change.",
+      "value": "विदेशी क्लबों में खेल रहे अपने देश के खिलाड़ियों को फ़ॉलो करें। यह बीटा है, इसलिए इसमें बदलाव हो सकते हैं।"
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",

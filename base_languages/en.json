@@ -7600,6 +7600,26 @@
       "comment": "Hint under the pitch in the passing network. Tapping a player shows only the passes that player made and received.",
       "value": "Tap a player to see their passes"
     },
+    "players abroad_give_feedback": {
+      "comment": "Link that opens a short survey where users can tell us what they think of a feature.",
+      "value": "Give feedback"
+    },
+    "players abroad_opens_in_new_tab": {
+      "comment": "Read out by screen readers after a link that opens in a new browser tab. Not shown on screen. Keep the parentheses.",
+      "value": "(opens in a new tab)"
+    },
+    "players abroad_players_abroad": {
+      "comment": "Title of the front page section listing football players from the user's country who play for clubs in other countries, with their matches that day.",
+      "value": "Players abroad"
+    },
+    "players abroad_players_abroad_beta": {
+      "comment": "Title of the info popover on the players abroad section of the front page. \"Beta\" means the feature is new and still being tested.",
+      "value": "Players abroad (beta)"
+    },
+    "players abroad_players_abroad_beta_info": {
+      "comment": "Text in the info popover on the players abroad section of the front page, explaining what the section shows and that the feature is new and may change.",
+      "value": "Follow players from your country at clubs abroad. This is a beta, so it may change."
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "value": "Above average"

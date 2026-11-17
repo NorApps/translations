@@ -9729,6 +9729,31 @@
       "english": "Tap a player to see their passes",
       "value": "Tippe auf einen Spieler, um seine Pässe zu sehen"
     },
+    "players abroad_give_feedback": {
+      "comment": "Link that opens a short survey where users can tell us what they think of a feature.",
+      "english": "Give feedback",
+      "value": "Feedback geben"
+    },
+    "players abroad_opens_in_new_tab": {
+      "comment": "Read out by screen readers after a link that opens in a new browser tab. Not shown on screen. Keep the parentheses.",
+      "english": "(opens in a new tab)",
+      "value": "(öffnet in einem neuen Tab)"
+    },
+    "players abroad_players_abroad": {
+      "comment": "Title of the front page section listing football players from the user's country who play for clubs in other countries, with their matches that day.",
+      "english": "Players abroad",
+      "value": "Spieler im Ausland"
+    },
+    "players abroad_players_abroad_beta": {
+      "comment": "Title of the info popover on the players abroad section of the front page. \"Beta\" means the feature is new and still being tested.",
+      "english": "Players abroad (beta)",
+      "value": "Spieler im Ausland (Beta)"
+    },
+    "players abroad_players_abroad_beta_info": {
+      "comment": "Text in the info popover on the players abroad section of the front page, explaining what the section shows and that the feature is new and may change.",
+      "english": "Follow players from your country at clubs abroad. This is a beta, so it may change.",
+      "value": "Verfolge Spieler aus deinem Land bei Vereinen im Ausland. Dies ist eine Beta, daher kann sich noch etwas ändern."
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",

@@ -9708,6 +9708,31 @@
       "english": "Tap a player to see their passes",
       "value": "แตะที่ผู้เล่นเพื่อดูการจ่ายบอล"
     },
+    "players abroad_give_feedback": {
+      "comment": "Link that opens a short survey where users can tell us what they think of a feature.",
+      "english": "Give feedback",
+      "value": "ส่งความคิดเห็น"
+    },
+    "players abroad_opens_in_new_tab": {
+      "comment": "Read out by screen readers after a link that opens in a new browser tab. Not shown on screen. Keep the parentheses.",
+      "english": "(opens in a new tab)",
+      "value": "(เปิดในแท็บใหม่)"
+    },
+    "players abroad_players_abroad": {
+      "comment": "Title of the front page section listing football players from the user's country who play for clubs in other countries, with their matches that day.",
+      "english": "Players abroad",
+      "value": "นักเตะในต่างแดน"
+    },
+    "players abroad_players_abroad_beta": {
+      "comment": "Title of the info popover on the players abroad section of the front page. \"Beta\" means the feature is new and still being tested.",
+      "english": "Players abroad (beta)",
+      "value": "นักเตะในต่างแดน (เบต้า)"
+    },
+    "players abroad_players_abroad_beta_info": {
+      "comment": "Text in the info popover on the players abroad section of the front page, explaining what the section shows and that the feature is new and may change.",
+      "english": "Follow players from your country at clubs abroad. This is a beta, so it may change.",
+      "value": "ติดตามนักเตะจากประเทศของคุณที่เล่นให้สโมสรในต่างแดน ฟีเจอร์นี้อยู่ในช่วงเบต้า จึงอาจมีการเปลี่ยนแปลง"
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",

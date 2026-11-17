@@ -9708,6 +9708,31 @@
       "english": "Tap a player to see their passes",
       "value": "선수를 탭하여 패스 보기"
     },
+    "players abroad_give_feedback": {
+      "comment": "Link that opens a short survey where users can tell us what they think of a feature.",
+      "english": "Give feedback",
+      "value": "피드백 보내기"
+    },
+    "players abroad_opens_in_new_tab": {
+      "comment": "Read out by screen readers after a link that opens in a new browser tab. Not shown on screen. Keep the parentheses.",
+      "english": "(opens in a new tab)",
+      "value": "(새 탭에서 열림)"
+    },
+    "players abroad_players_abroad": {
+      "comment": "Title of the front page section listing football players from the user's country who play for clubs in other countries, with their matches that day.",
+      "english": "Players abroad",
+      "value": "해외파"
+    },
+    "players abroad_players_abroad_beta": {
+      "comment": "Title of the info popover on the players abroad section of the front page. \"Beta\" means the feature is new and still being tested.",
+      "english": "Players abroad (beta)",
+      "value": "해외파 (베타)"
+    },
+    "players abroad_players_abroad_beta_info": {
+      "comment": "Text in the info popover on the players abroad section of the front page, explaining what the section shows and that the feature is new and may change.",
+      "english": "Follow players from your country at clubs abroad. This is a beta, so it may change.",
+      "value": "해외 클럽에서 뛰는 우리나라 선수들을 팔로우하세요. 베타 버전이므로 변경될 수 있습니다."
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",
