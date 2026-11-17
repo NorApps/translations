@@ -9753,7 +9753,7 @@
     "players abroad_players_abroad_beta_info": {
       "comment": "Text in the info popover on the players abroad section of the front page, explaining what the section shows and that the feature is new and may change.",
       "english": "Follow players from your country at clubs abroad. This is a beta, so it may change.",
-      "value": "یاریزانانی وڵاتەکەت لە یانەکانی دەرەوە بەدوادا بچۆ. ئەمە وەشانی تاقیکارییە، بۆیە لەوانەیە بگۆڕێت."
+      "value": "چاودێری یاریزانانی وڵاتەکەت بکە لە یانەکانی دەرەوە. ئەمە وەشانی تاقیکارییە، بۆیە لەوانەیە بگۆڕێت."
     },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
