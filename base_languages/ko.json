@@ -331,7 +331,7 @@
     "accessibility_dribbled_past": {
       "comment": "This is a statistic where we list the number of times a defender was dribbled past by an opponent.",
       "english": "Dribbled past",
-      "value": "드리블 허용"
+      "value": "드리블 돌파 허용"
     },
     "accessibility_duel_won_percent": {
       "comment": "Duel over the possession of the ball where a player wins the ball",
@@ -2171,7 +2171,7 @@
     "accessibility_suspension_74": {
       "comment": "A reason for player's suspension in player-profile",
       "english": "Second yellow card",
-      "value": "두 번째 옐로 카드"
+      "value": "경고 누적 퇴장"
     },
     "accessibility_suspension_78": {
       "comment": "A reason for player's suspension in player-profile",
@@ -2952,7 +2952,7 @@
     "common_capacity": {
       "comment": "Label indicating how many people the stadium can take (have capacity for)",
       "english": "Capacity",
-      "value": "수용 능력"
+      "value": "수용 인원"
     },
     "common_capacity_used": {
       "comment": "Accessibility label indicating how much of a stadium's capacity was filled for the match",
@@ -5297,12 +5297,12 @@
     "common_players_in": {
       "comment": "In the Team page, this is a header indicating which players have transferred to the team",
       "english": "Players in",
-      "value": "이적 온 플레이어"
+      "value": "영입 선수"
     },
     "common_players_out": {
       "comment": "In the Team page, this is a header indicating which players have transferred away from the team",
       "english": "Players out",
-      "value": "이적 나간 플레이어"
+      "value": "방출 선수"
     },
     "common_playoff_winner": {
       "comment": "Placeholder for team advancing from the playoff stage",
@@ -5671,7 +5671,7 @@
     "common_second_yellow_card": {
       "comment": "A label explaining an icon showing a yellow and a red card on top of each other indicating that the player got a red card from two yellow cards. So he got his Second yellow.",
       "english": "Second yellow",
-      "value": "두 번째 경고"
+      "value": "경고 누적 퇴장"
     },
     "common_secondary_onboarding_teams_body": {
       "comment": "Explanation to the user why he should add more favorite teams and players. @",
@@ -5995,7 +5995,7 @@
     },
     "common_suspensions": {
       "english": "Suspended",
-      "value": "중단됨"
+      "value": "출장 정지"
     },
     "common_tab": {
       "english": "Tab",
@@ -8034,7 +8034,7 @@
     "notifications_expected_return_date_doubtful": {
       "comment": "Expected return for a player after injury or similar",
       "english": "Doubtful",
-      "value": "의심스러움"
+      "value": "출전 불투명"
     },
     "notifications_expected_return_date_early": {
       "comment": "Expected return for a player after injury. \"Early\" means \"beginning of\" (a time period), e.g. \"Early January\"",
@@ -9214,7 +9214,7 @@
     "notifications_shirt": {
       "comment": "Label for a field indication which shirtnumber the player plays has. Try to keep it short.",
       "english": "Shirt",
-      "value": "셔츠"
+      "value": "등번호"
     },
     "notifications_shortcuts": {
       "comment": "A filter title for shortcuts used to generalize setting shortcuts",
@@ -9355,7 +9355,7 @@
     "notifications_suspended": {
       "comment": "Player is not available to play next match due to a yellow/red card or other sort of breaching the rules.",
       "english": "Suspended",
-      "value": "중단됨"
+      "value": "출장 정지"
     },
     "notifications_sweden": {
       "comment": "Used in TV schedules filter",
@@ -12346,7 +12346,7 @@
     "seo_site_title_team_transfers": {
       "comment": "Title for the page for a team or clubs transfer history. Showing players transfered in and out. The name is the input with %1$@ as placeholder.",
       "english": "%1$@ - transfer history, players in and players out",
-      "value": "%1$@ - 이적 기록, 들어온 선수와 나간 선수"
+      "value": "%1$@ - 이적 기록, 영입 선수와 방출 선수"
     },
     "seo_site_title_transfer_center": {
       "comment": "Meta title tag value for the transfer center page",
