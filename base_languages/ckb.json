@@ -5917,8 +5917,9 @@
       "value": "زیادکردن بۆ دڵخوازەکان"
     },
     "common_started": {
+      "comment": "The match has started. Used for the match status, the push event and the match-start alert option.",
       "english": "Started",
-      "value": "سەرەکی"
+      "value": "دەستی پێکرد"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",

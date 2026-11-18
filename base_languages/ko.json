@@ -5902,8 +5902,9 @@
       "value": "즐겨찾기에 추가"
     },
     "common_started": {
+      "comment": "The match has started. Used for the match status, the push event and the match-start alert option.",
       "english": "Started",
-      "value": "선발"
+      "value": "경기 시작"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",

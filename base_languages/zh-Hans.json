@@ -5903,8 +5903,9 @@
       "value": "添加到收藏"
     },
     "common_started": {
+      "comment": "The match has started. Used for the match status, the push event and the match-start alert option.",
       "english": "Started",
-      "value": "首发"
+      "value": "已开赛"
     },
     "common_starting_lineup": {
       "comment": "Header for the 11 players starting the match",

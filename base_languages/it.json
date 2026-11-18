@@ -5917,6 +5917,7 @@
       "value": "Aggiungi ai preferiti"
     },
     "common_started": {
+      "comment": "The match has started. Used for the match status, the push event and the match-start alert option.",
       "english": "Started",
       "value": "Iniziato"
     },
