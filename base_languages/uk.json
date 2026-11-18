@@ -9805,6 +9805,452 @@
       "english": "Follow players from your country at clubs abroad. This is a beta, so it may change.",
       "value": "Стежте за гравцями з вашої країни в закордонних клубах. Це бета-версія, тож можливі зміни."
     },
+    "pulse admin_add_pulse_item": {
+      "comment": "Heading of the card in Pulse Admin where the editor creates a new item (poll, take, image, stat graphic or call to action) for the live match commentary. Do not translate the pulse part.",
+      "english": "Add pulse item",
+      "value": "Додати елемент Pulse"
+    },
+    "pulse admin_add_to_draft": {
+      "comment": "Button in the full screen photo view in Pulse Admin that adds the photo to the image item the editor is creating.",
+      "english": "Add to draft",
+      "value": "Додати до чернетки"
+    },
+    "pulse admin_best_stats_selected": {
+      "comment": "Shown instead of the \"Use best stats\" button in the player stat card editor (in Pulse Admin and the Graphics Hub) when the chosen stats already are the player's best stats in the match. See use_best_stats.",
+      "english": "Best stats selected",
+      "value": "Вибрано найкращі показники"
+    },
+    "pulse admin_browse_with_keyboard": {
+      "comment": "Hint next to the left and right arrow keys in the full screen photo view in Pulse Admin: the arrow keys go between the photos.",
+      "english": "Browse with keyboard",
+      "value": "Переглядайте за допомогою клавіатури"
+    },
+    "pulse admin_enter_text": {
+      "comment": "Placeholder in a text field in Pulse Admin, e.g. the quote of a take or the text of a call to action.",
+      "english": "Enter text",
+      "value": "Введіть текст"
+    },
+    "pulse admin_enter_title": {
+      "comment": "Placeholder in the title field in Pulse Admin, e.g. the title of an image item or stat graphic. See enter_text.",
+      "english": "Enter title",
+      "value": "Введіть заголовок"
+    },
+    "pulse admin_first_name": {
+      "comment": "Label shown over an input field where the user should type in the first name of a person.",
+      "english": "First name",
+      "value": "Ім'я"
+    },
+    "pulse admin_generating_preview": {
+      "comment": "Screen reader text in Pulse Admin while the stat graphic image is being created.",
+      "english": "Generating preview...",
+      "value": "Створення попереднього перегляду…"
+    },
+    "pulse admin_image_unavailable": {
+      "comment": "Shown in Pulse Admin in place of a photo thumbnail that could not be loaded.",
+      "english": "Image unavailable",
+      "value": "Зображення недоступне"
+    },
+    "pulse admin_imago_add_latest": {
+      "comment": "Heading of the card in Pulse Admin that lists the latest press photos of the match from the photo agency Imago. The editor can pick one of them to add to an image item. Keep Imago as is.",
+      "english": "Add latest from Imago",
+      "value": "Додати останні фото від Imago"
+    },
+    "pulse admin_key_enter": {
+      "comment": "Name of the Enter (Return) key on the keyboard, shown as a keyboard hint next to the \"Add to draft\" button in Pulse Admin. Use the name printed on that key on keyboards for the language.",
+      "english": "Enter",
+      "value": "Ввід"
+    },
+    "pulse admin_link_to_home": {
+      "comment": "Screen reader label for the FotMob logo link in the Pulse Admin header, which goes to the FotMob front page.",
+      "english": "Link to Home",
+      "value": "Посилання на головну сторінку"
+    },
+    "pulse admin_loading_more_images": {
+      "comment": "Screen reader status in Pulse Admin while more photos load in the IMAGO photo search.",
+      "english": "Loading more images...",
+      "value": "Завантаження додаткових зображень…"
+    },
+    "pulse admin_next_image": {
+      "comment": "Screen reader label of the button (right arrow key) in the full screen photo view in Pulse Admin that shows the next photo. See previous_image.",
+      "english": "Next image",
+      "value": "Наступне зображення"
+    },
+    "pulse admin_no_changes_to_save": {
+      "comment": "Tooltip on the disabled save button in Pulse Admin when the editor has not changed anything in the published item they are editing.",
+      "english": "No changes to save",
+      "value": "Немає змін для збереження"
+    },
+    "pulse admin_no_images_found": {
+      "comment": "Shown in Pulse Admin when the IMAGO photo search found no photos.",
+      "english": "No images found",
+      "value": "Зображень не знайдено"
+    },
+    "pulse admin_paste": {
+      "comment": "Button text for a button in a text area field that pastes copied text from the clipboard into the field. Keep it short.",
+      "english": "Paste",
+      "value": "Вставити"
+    },
+    "pulse admin_player_search_placeholder": {
+      "comment": "Placeholder of the player search in the Pulse Admin stat graphic form. Players can be found by name or by their position, e.g. \"Keeper\".",
+      "english": "Search by name or position...",
+      "value": "Пошук за ім’ям або позицією…"
+    },
+    "pulse admin_poll_add_alternative": {
+      "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll has no answer options (alternatives). See alternative_label.",
+      "english": "Add at least one alternative",
+      "value": "Додайте принаймні одну альтернативу"
+    },
+    "pulse admin_poll_alternative_text_missing": {
+      "comment": "Error shown at the top of the poll preview in Pulse Admin when the text of one of the poll's answer options (alternatives) has been left empty. See poll_add_alternative.",
+      "english": "One of the alternatives has no text",
+      "value": "Один із варіантів відповіді не має тексту"
+    },
+    "pulse admin_poll_alternatives_locked": {
+      "comment": "Shown in Pulse Admin when the editor changes a poll that is already published in the live match commentary. Alternatives are the answer options people can vote for in the poll.",
+      "english": "Alternatives can't be removed once a poll is published, as this crashes the Android app. Delete the poll and create a new one instead.",
+      "value": "Після публікації опитування не можна видаляти варіанти відповідей — це спричиняє збій Android‑додатка. Натомість видаліть опитування та створіть нове."
+    },
+    "pulse admin_poll_fill_question_and_answers": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin when the poll question or one of its answer options is empty. See question_label. See poll_add_alternative.",
+      "english": "Please fill in the question and all alternatives",
+      "value": "Будь ласка, заповніть запитання та варіанти відповіді"
+    },
+    "pulse admin_poll_hide_result_view": {
+      "comment": "Button below a poll preview in Pulse Admin that switches back from showing the poll results to showing the answer options.",
+      "english": "Hide result view",
+      "value": "Приховати перегляд результатів"
+    },
+    "pulse admin_poll_no_lineup": {
+      "comment": "Shown in the player search in Pulse Admin when the lineups of both teams in the match are not available yet, so no players can be suggested.",
+      "english": "No lineup available for this match, but you can search for the players if you know their names.",
+      "value": "Для цього матчу склад недоступний, але ви можете шукати гравців, якщо знаєте їхні імена."
+    },
+    "pulse admin_poll_question_missing": {
+      "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll question has been left empty. See question_label.",
+      "english": "Question missing",
+      "value": "Відсутнє питання"
+    },
+    "pulse admin_poll_see_result_view": {
+      "comment": "Button below a poll preview in Pulse Admin that switches the preview to show how the poll results will look after people have voted.",
+      "english": "See result view",
+      "value": "Переглянути подання результатів"
+    },
+    "pulse admin_poll_squad_tab_hint": {
+      "comment": "Hint in Pulse Admin shown after \"No lineup available for this match…\". The squad tab is the tab on a team's page in FotMob that lists all its players.",
+      "english": "(Open the squad tab on the team page to see the members of the team.)",
+      "value": "(Відкрийте вкладку «Склад» на сторінці команди, щоб переглянути гравців команди.)"
+    },
+    "pulse admin_preview_failed": {
+      "comment": "Shown in Pulse Admin when the stat graphic image could not be created for the chosen stat type.",
+      "english": "Could not generate the preview.",
+      "value": "Не вдалося створити попередній перегляд."
+    },
+    "pulse admin_previous_image": {
+      "comment": "Screen reader label of the button (left arrow key) in the full screen photo view in Pulse Admin that shows the previous photo.",
+      "english": "Previous image",
+      "value": "Попереднє зображення"
+    },
+    "pulse admin_publishing": {
+      "comment": "Shown on the Publish button and in a notification in Pulse Admin while an item is being published to the live match commentary. See publish.",
+      "english": "Publishing...",
+      "value": "Опубліковується…"
+    },
+    "pulse admin_pulse_add_image_hint": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin when the image item has no image yet.",
+      "english": "Please add an image",
+      "value": "Будь ласка, додайте зображення"
+    },
+    "pulse admin_pulse_admin_turn_on_to_start": {
+      "comment": "Shown in Pulse Admin when Pulse is turned off for the match, telling the editor to turn it on before adding items to the live commentary.",
+      "english": "Turn on Pulse to get going",
+      "value": "Увімкніть Pulse, щоб почати"
+    },
+    "pulse admin_pulse_cancel_move": {
+      "comment": "Button in Pulse Admin that stops moving an item, leaving it where it was in the live match commentary. See pulse_move.",
+      "english": "Cancel move",
+      "value": "Скасувати переміщення"
+    },
+    "pulse admin_pulse_could_not_delete_item": {
+      "comment": "Error notification in Pulse Admin when an item could not be deleted from the live match commentary.",
+      "english": "Could not delete the item",
+      "value": "Не вдалося видалити елемент"
+    },
+    "pulse admin_pulse_editing_published_item": {
+      "comment": "Heading above the preview in Pulse Admin while the editor changes an item that is already published in the live match commentary.",
+      "english": "Editing published item",
+      "value": "Редагування опублікованого елемента"
+    },
+    "pulse admin_pulse_fill_required_fields": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin when a required field of a stat graphic is empty.",
+      "english": "Please fill out all required fields",
+      "value": "Будь ласка, заповніть усі обов’язкові поля"
+    },
+    "pulse admin_pulse_go_to_publish": {
+      "comment": "Button in the Pulse Admin form that scrolls to the preview of the item being created, where the Publish button is. The Publish part should be the same as the translation for the Publish button: See publish.",
+      "english": "Go to Publish",
+      "value": "Перейти до «Опублікувати»"
+    },
+    "pulse admin_pulse_image_alt": {
+      "comment": "Image description for screen readers, for an earlier uploaded image the editor can pick for an image item in Pulse Admin. Do not translate the Pulse part.",
+      "english": "Pulse image",
+      "value": "Зображення Pulse"
+    },
+    "pulse admin_pulse_image_from_source_alt": {
+      "comment": "Image description for screen readers, for an earlier uploaded image the editor can pick in Pulse Admin. %@ is where the image is from, e.g. a photo agency name. Do not translate the Pulse part. See pulse_image_alt.",
+      "english": "Pulse image from %@",
+      "value": "Зображення Pulse від %@"
+    },
+    "pulse admin_pulse_item_moved": {
+      "comment": "Notification in Pulse Admin when an item has been moved to another place in the live match commentary.",
+      "english": "Item moved",
+      "value": "Елемент переміщено"
+    },
+    "pulse admin_pulse_item_type_stat": {
+      "comment": "Button in Pulse Admin for creating a stat graphic item: an image with match statistics that is added to the live match commentary. Shown next to the buttons Take, Poll, Image and CTA. Keep it short, a single word if possible.",
+      "english": "Stat",
+      "value": "Статистика"
+    },
+    "pulse admin_pulse_move": {
+      "comment": "Button on a published item in Pulse Admin that starts moving the item to another place in the live match commentary.",
+      "english": "Move",
+      "value": "Перемістити"
+    },
+    "pulse admin_pulse_move_failed": {
+      "comment": "Error notification in Pulse Admin when an item could not be moved to another place in the live match commentary.",
+      "english": "Could not move the item",
+      "value": "Не вдалося перемістити елемент"
+    },
+    "pulse admin_pulse_move_here": {
+      "comment": "Button shown between the messages in the live match commentary in Pulse Admin while an item is being moved. Places the item at that spot. See pulse_move. See pulse_cancel_move.",
+      "english": "Move here",
+      "value": "Перемістити сюди"
+    },
+    "pulse admin_pulse_move_here_after_minute": {
+      "comment": "Button shown between the messages in the live match commentary in Pulse Admin while an item is being moved. Places the item after the message above. %@ is the match minute of that message, e.g. \"67'\" or \"45+2'\". See pulse_move_here.",
+      "english": "Move here, after %@",
+      "value": "Перемістити сюди після %@"
+    },
+    "pulse admin_pulse_move_instructions": {
+      "comment": "Instruction shown in Pulse Admin while an item is being moved. \"Move here\" must match the translation of pulse_move_here. See pulse_move_here.",
+      "english": "Choose “Move here” in the feed to place the item.",
+      "value": "Виберіть у стрічці «Перемістити сюди», щоб розмістити елемент."
+    },
+    "pulse admin_pulse_moving": {
+      "comment": "Notification in Pulse Admin while an item is being moved to another place in the live match commentary. See pulse_item_moved. See pulse_move_failed.",
+      "english": "Moving...",
+      "value": "Переміщення…"
+    },
+    "pulse admin_pulse_needs_commentary_feed": {
+      "comment": "Shown in Pulse Admin when there is no live commentary feed available yet for the match.",
+      "english": "Pulse can be turned on once a commentary feed is available for this match.",
+      "value": "Pulse можна ввімкнути, щойно для цього матчу стане доступною стрічка коментарів у прямому ефірі."
+    },
+    "pulse admin_pulse_no_match_selected": {
+      "comment": "Shown in Pulse Admin when the editor has not picked a match yet.",
+      "english": "No match selected",
+      "value": "Матч не вибрано"
+    },
+    "pulse admin_pulse_no_other_players_found": {
+      "comment": "Shown below the player search results in Pulse Admin when the search found players among the suggested ones from the match, but no other players.",
+      "english": "No other players found",
+      "value": "Інших гравців не знайдено"
+    },
+    "pulse admin_pulse_no_players_found": {
+      "comment": "Shown in a player search in Pulse Admin when the search found no players. See pulse_no_other_players_found.",
+      "english": "No players found",
+      "value": "Гравців не знайдено"
+    },
+    "pulse admin_pulse_only_visible_to_you": {
+      "comment": "Shown in Pulse Admin next to the heading of an item preview, telling the editor that the preview is not published and that only they can see it. Keep it short.",
+      "english": "Only visible to you",
+      "value": "Видно лише вам"
+    },
+    "pulse admin_pulse_preview": {
+      "comment": "Heading above previews in Pulse Admin: the item being created, shown as it will look in the live match commentary, and a photo shown full screen. Not a match preview.",
+      "english": "Preview",
+      "value": "Попередній перегляд"
+    },
+    "pulse admin_pulse_publish_failed": {
+      "comment": "Error notification in Pulse Admin when an item could not be published to the live match commentary.",
+      "english": "Could not publish the item",
+      "value": "Не вдалося опублікувати елемент"
+    },
+    "pulse admin_pulse_replace_item_draft": {
+      "comment": "Confirm dialog in Pulse Admin when the editor starts changing a published pulse item while already writing a new one of the same type.",
+      "english": "If you start to edit this item, your current draft will be discarded.",
+      "value": "Якщо ви почнете редагувати цей елемент, вашу поточну чернетку буде скасовано."
+    },
+    "pulse admin_pulse_replace_with_imago_image": {
+      "comment": "Confirm dialog in Pulse Admin when the editor picks a photo from the photo agency IMAGO while already making an image item. Keep IMAGO as is.",
+      "english": "The current image draft will be replaced by the IMAGO image.",
+      "value": "Поточну чернетку зображення буде замінено зображенням IMAGO."
+    },
+    "pulse admin_pulse_replace_with_suggested_poll": {
+      "comment": "Confirm dialog in Pulse Admin when the editor starts editing an automatically suggested poll while already writing a poll of their own. See suggested_poll.",
+      "english": "Your poll draft will be replaced by the suggested poll.",
+      "value": "Поточну чернетку опитування буде замінено запропонованим опитуванням."
+    },
+    "pulse admin_pulse_saving_keeps_place": {
+      "comment": "Shown in Pulse Admin while the editor changes a published item: saving the changes does not move the item in the live match commentary.",
+      "english": "Saving keeps the item in its place in the feed",
+      "value": "Збереження залишає це на своєму місці у стрічці"
+    },
+    "pulse admin_pulse_search_results": {
+      "comment": "Heading above the team search results in Pulse Admin.",
+      "english": "Search results:",
+      "value": "Результати пошуку:"
+    },
+    "pulse admin_pulse_text_missing": {
+      "comment": "Error shown at the top of the item preview in Pulse Admin when the text field of a take or call to action has been left empty. See text_label.",
+      "english": "Text missing",
+      "value": "Текст відсутній"
+    },
+    "pulse admin_pulse_ticker_language": {
+      "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on.",
+      "english": "Commentary language",
+      "value": "Мова коментаря наживо"
+    },
+    "pulse admin_pulse_ticker_language_selected": {
+      "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on. %@ is the selected language, e.g. \"Commentary language: English\".",
+      "english": "Commentary language: %@",
+      "value": "Мова текстової трансляції: %@"
+    },
+    "pulse admin_pulse_title_missing": {
+      "comment": "Error shown at the top of the item preview in Pulse Admin when the title field has been left empty. See title_label.",
+      "english": "Title missing",
+      "value": "Відсутній заголовок"
+    },
+    "pulse admin_pulse_write_text_hint": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin when the text of a call to action is empty.",
+      "english": "Please write the text",
+      "value": "Будь ласка, введіть текст"
+    },
+    "pulse admin_pulse_write_title_hint": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin when the title of an image item or stat graphic is empty.",
+      "english": "Please write a title",
+      "value": "Будь ласка, введіть заголовок"
+    },
+    "pulse admin_remove_image": {
+      "comment": "Screen reader label for a button in Pulse Admin that removes the uploaded image from the image item being created.",
+      "english": "Remove image",
+      "value": "Видалити зображення"
+    },
+    "pulse admin_saving": {
+      "comment": "Shown on a button in Pulse Admin while a change is being saved, e.g. while Pulse is being turned on or off for a match, or while an edited item is saved.",
+      "english": "Saving...",
+      "value": "Збереження…"
+    },
+    "pulse admin_search_for_player": {
+      "comment": "Placeholder and screen reader label of a search field in Pulse Admin for finding a player, e.g. to use as an answer option in a poll.",
+      "english": "Search for player",
+      "value": "Пошук гравця"
+    },
+    "pulse admin_search_for_team": {
+      "comment": "Placeholder and screen reader label of a search field in Pulse Admin for finding a team to use as an answer option in a poll.",
+      "english": "Search for team",
+      "value": "Пошук команди"
+    },
+    "pulse admin_search_images": {
+      "comment": "Placeholder and screen reader label of the search field for finding press photos from the photo agency IMAGO in Pulse Admin.",
+      "english": "Search for images",
+      "value": "Пошук зображень"
+    },
+    "pulse admin_select_stat": {
+      "comment": "Placeholder of the field in Pulse Admin where the editor picks which stat a stat graphic shows, before a stat is picked. See stat_type_label.",
+      "english": "Select stat",
+      "value": "Виберіть статистику"
+    },
+    "pulse admin_stat_gfx_graphic_type": {
+      "comment": "Screen reader label for the choice in Pulse Admin between the stat graphics Team, Top 3 players and Player.",
+      "english": "Graphic type",
+      "value": "Тип діаграми"
+    },
+    "pulse admin_stat_gfx_no_stats_yet": {
+      "comment": "Shown in Pulse Admin instead of the stat graphic form when the match has no stats yet, e.g. before kick-off.",
+      "english": "No stats available for this match yet",
+      "value": "Для цього матчу статистика ще недоступна"
+    },
+    "pulse admin_stat_gfx_top_3_players": {
+      "comment": "Option in Pulse Admin for a stat graphic that shows the three best players in the match for one stat. Shown next to the options \"Team\" and \"Player\".",
+      "english": "Top 3 players",
+      "value": "Топ-3 гравці"
+    },
+    "pulse admin_stat_gfx_waiting_for_preview": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin while the stat graphic image is still loading.",
+      "english": "Waiting for the preview to load",
+      "value": "Очікування завантаження попереднього перегляду"
+    },
+    "pulse admin_stat_type_label": {
+      "comment": "Label of the field in Pulse Admin where the editor picks which stat a stat graphic shows, e.g. \"Expected goals (xG)\" or \"Shots on target\". See deep_stats_teams. See deep_stats_players.",
+      "english": "Stat type",
+      "value": "Тип статистики"
+    },
+    "pulse admin_suggested_poll": {
+      "comment": "Heading of a poll in Pulse Admin that is suggested automatically after a match event, e.g. a goal. The editor can publish, edit or dismiss it. Do not translate the poll part. See add_poll.",
+      "english": "Suggested poll",
+      "value": "Запропоноване Poll"
+    },
+    "pulse admin_take_supports": {
+      "comment": "Label of a field in Pulse Admin for a fan take: which team the fan supports (the home team, the away team, or neutral). Followed by the team choices.",
+      "english": "Supports",
+      "value": "Підтримує"
+    },
+    "pulse admin_take_team_color": {
+      "comment": "Label of a field in Pulse Admin for an expert take, where the editor picks the team color of the take: one of the two teams in the match, or neutral. Followed by the team choices.",
+      "english": "Team color",
+      "value": "Колір команди"
+    },
+    "pulse admin_take_type_expert": {
+      "comment": "Option in Pulse Admin for who a take is from. A take is a short opinion quote shown in the live match commentary. This option is a take from a named expert or pundit. The other option is \"Fan\".",
+      "english": "Expert",
+      "value": "Експерт"
+    },
+    "pulse admin_take_type_fan": {
+      "comment": "Option in Pulse Admin for who a take is from. A take is a short opinion quote shown in the live match commentary. This option is a take from a football fan. The other option is \"Expert\".",
+      "english": "Fan",
+      "value": "Вболівальник"
+    },
+    "pulse admin_take_type_label": {
+      "comment": "Screen reader label for the choice in Pulse Admin between an expert take and a fan take. A take is a short opinion quote shown in the live match commentary. Do not translate the Take part.",
+      "english": "Take type",
+      "value": "Тип тейка"
+    },
+    "pulse admin_team_search_no_results": {
+      "comment": "Shown in the team search in Pulse Admin when the search found no teams.",
+      "english": "Could not find the team you searched for.",
+      "value": "Не вдалося знайти команду, яку ви шукали."
+    },
+    "pulse admin_turn_off": {
+      "comment": "Button in Pulse Admin that turns off Pulse for the selected match. See turn_on.",
+      "english": "Turn off",
+      "value": "Вимкнути"
+    },
+    "pulse admin_turn_on": {
+      "comment": "Button in Pulse Admin that turns on Pulse for the selected match. Keep it short.",
+      "english": "Turn on",
+      "value": "Увімкнути"
+    },
+    "pulse admin_use_best_stats": {
+      "comment": "Button in the player stat card editor (in Pulse Admin and the Graphics Hub) that replaces the chosen stats with the player's best stats in the match. See best_stats_selected.",
+      "english": "Use best stats",
+      "value": "Використати найкращі показники"
+    },
+    "pulse admin_view_full_screen": {
+      "comment": "Screen reader label of a photo thumbnail in Pulse Admin that opens the photo in full screen. %@ is the photo caption.",
+      "english": "View full screen: %@",
+      "value": "Переглянути на весь екран: %@"
+    },
+    "pulse admin_x_images": {
+      "comment": "Screen reader status in Pulse Admin telling how many photos the IMAGO photo search found, e.g. \"24 images\".",
+      "english_plurals": {
+        "one": "%d image",
+        "other": "%d images"
+      },
+      "plurals": {
+        "one": "%d зображення",
+        "other": "%d зображень"
+      }
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",

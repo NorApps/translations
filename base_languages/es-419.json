@@ -1088,6 +1088,46 @@
       "english": "Sign in to sync settings across devices or retrieve them when you set up a new device.",
       "value": "Podemos guardar tu configuración para que puedas sincronizarla con otros dispositivos o recuperarla con un nuevo dispositivo."
     },
+    "pulse admin_add_pulse_item": {
+      "comment": "Heading of the card in Pulse Admin where the editor creates a new item (poll, take, image, stat graphic or call to action) for the live match commentary. Do not translate the pulse part.",
+      "english": "Add pulse item",
+      "value": "Agregar elemento a Pulse"
+    },
+    "pulse admin_add_to_draft": {
+      "comment": "Button in the full screen photo view in Pulse Admin that adds the photo to the image item the editor is creating.",
+      "english": "Add to draft",
+      "value": "Agregar al borrador"
+    },
+    "pulse admin_imago_add_latest": {
+      "comment": "Heading of the card in Pulse Admin that lists the latest press photos of the match from the photo agency Imago. The editor can pick one of them to add to an image item. Keep Imago as is.",
+      "english": "Add latest from Imago",
+      "value": "Agregar las últimas fotos de Imago"
+    },
+    "pulse admin_key_enter": {
+      "comment": "Name of the Enter (Return) key on the keyboard, shown as a keyboard hint next to the \"Add to draft\" button in Pulse Admin. Use the name printed on that key on keyboards for the language.",
+      "english": "Enter",
+      "value": "Enter"
+    },
+    "pulse admin_poll_add_alternative": {
+      "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll has no answer options (alternatives). See alternative_label.",
+      "english": "Add at least one alternative",
+      "value": "Agrega al menos una opción"
+    },
+    "pulse admin_pulse_add_image_hint": {
+      "comment": "Tooltip on the disabled Publish button in Pulse Admin when the image item has no image yet.",
+      "english": "Please add an image",
+      "value": "Agrega una imagen"
+    },
+    "pulse admin_pulse_ticker_language": {
+      "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on.",
+      "english": "Commentary language",
+      "value": "Idioma de los comentarios en vivo"
+    },
+    "pulse admin_pulse_ticker_language_selected": {
+      "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on. %@ is the selected language, e.g. \"Commentary language: English\".",
+      "english": "Commentary language: %@",
+      "value": "Idioma de los comentarios en vivo: %@"
+    },
     "referee_above_average": {
       "comment": "Used to describe if a stat is above the league average.",
       "english": "Above average",
