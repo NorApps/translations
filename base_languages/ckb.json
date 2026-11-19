@@ -9660,7 +9660,7 @@
     "pass map_feature_feedback_thanks": {
       "comment": "Shown on a feature feedback card after the rating and comment were sent, just before the card hides. See thank_you_for_your_feedback.",
       "english": "Thanks for the feedback",
-      "value": "سوپاس بۆ فیدباکەکەت"
+      "value": "سوپاس بۆ ڕاوبۆچوونت"
     },
     "pass map_feature_feedback_useful": {
       "comment": "Button on a feature feedback card (for example under the pass network). The user taps it to rate the feature as useful. Keep it short; it sits next to feature_feedback_not_useful.",
@@ -9799,7 +9799,7 @@
     "pulse admin_add_pulse_item": {
       "comment": "Heading of the card in Pulse Admin where the editor creates a new item (poll, take, image, stat graphic or call to action) for the live match commentary. Do not translate the pulse part.",
       "english": "Add pulse item",
-      "value": "ئایتمی Pulse زیاد بکە"
+      "value": "بابەتی Pulse زیاد بکە"
     },
     "pulse admin_add_to_draft": {
       "comment": "Button in the full screen photo view in Pulse Admin that adds the photo to the image item the editor is creating.",
@@ -9834,7 +9834,7 @@
     "pulse admin_generating_preview": {
       "comment": "Screen reader text in Pulse Admin while the stat graphic image is being created.",
       "english": "Generating preview...",
-      "value": "دروستکردنی پێشبینین…"
+      "value": "بینینی پێشوەختە دروست دەکرێت..."
     },
     "pulse admin_image_unavailable": {
       "comment": "Shown in Pulse Admin in place of a photo thumbnail that could not be loaded.",
@@ -9879,12 +9879,12 @@
     "pulse admin_paste": {
       "comment": "Button text for a button in a text area field that pastes copied text from the clipboard into the field. Keep it short.",
       "english": "Paste",
-      "value": "لکاندنەوە"
+      "value": "لکاندن"
     },
     "pulse admin_player_search_placeholder": {
       "comment": "Placeholder of the player search in the Pulse Admin stat graphic form. Players can be found by name or by their position, e.g. \"Keeper\".",
       "english": "Search by name or position...",
-      "value": "بە ناو یان پۆست بگەڕێ…"
+      "value": "بە ناو یان پێگە بگەڕێ…"
     },
     "pulse admin_poll_add_alternative": {
       "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll has no answer options (alternatives). See alternative_label.",
@@ -9909,12 +9909,12 @@
     "pulse admin_poll_hide_result_view": {
       "comment": "Button below a poll preview in Pulse Admin that switches back from showing the poll results to showing the answer options.",
       "english": "Hide result view",
-      "value": "شاردنەوەی پیشاندانی ئەنجامەکان"
+      "value": "شاردنەوەی دیمەنی ئەنجامەکان"
     },
     "pulse admin_poll_no_lineup": {
       "comment": "Shown in the player search in Pulse Admin when the lineups of both teams in the match are not available yet, so no players can be suggested.",
       "english": "No lineup available for this match, but you can search for the players if you know their names.",
-      "value": "هیچ ڕیزکردنەوەی یاریزان بۆ ئەم یارییە بەردەست نییە، بەڵام دەتوانیت یاریزانەکان بگەڕێیت ئەگەر ناویان دەزانیت."
+      "value": "هیچ پێکهاتەیەک بۆ ئەم یارییە بەردەست نییە، بەڵام ئەگەر ناوی یاریزانەکان دەزانیت، دەتوانیت بەدوایاندا بگەڕێیت."
     },
     "pulse admin_poll_question_missing": {
       "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll question has been left empty. See question_label.",
@@ -9924,17 +9924,17 @@
     "pulse admin_poll_see_result_view": {
       "comment": "Button below a poll preview in Pulse Admin that switches the preview to show how the poll results will look after people have voted.",
       "english": "See result view",
-      "value": "پیشاندانی ئەنجامەکان ببینە"
+      "value": "بینینی دیمەنی ئەنجامەکان"
     },
     "pulse admin_poll_squad_tab_hint": {
       "comment": "Hint in Pulse Admin shown after \"No lineup available for this match…\". The squad tab is the tab on a team's page in FotMob that lists all its players.",
       "english": "(Open the squad tab on the team page to see the members of the team.)",
-      "value": "(لە پەڕەی تیمدا تابێکی «سکواد» بکەرەوە بۆ ئەوەی ئەندامانی تیم ببینیت.)"
+      "value": "(لە پەڕەی یانەکەدا بەشی «لیستی یاریزانان» بکەرەوە بۆ بینینی یاریزانەکان.)"
     },
     "pulse admin_preview_failed": {
       "comment": "Shown in Pulse Admin when the stat graphic image could not be created for the chosen stat type.",
       "english": "Could not generate the preview.",
-      "value": "نەیتوانرا پێشبینین دروست بکات."
+      "value": "ناتوانرێت بینینی پێشوەختە دروست بکرێت."
     },
     "pulse admin_previous_image": {
       "comment": "Screen reader label of the button (left arrow key) in the full screen photo view in Pulse Admin that shows the previous photo.",
@@ -9944,7 +9944,7 @@
     "pulse admin_publishing": {
       "comment": "Shown on the Publish button and in a notification in Pulse Admin while an item is being published to the live match commentary. See publish.",
       "english": "Publishing...",
-      "value": "لە حالەتی بڵاوکردنەوە…"
+      "value": "بڵاو دەکرێتەوە…"
     },
     "pulse admin_pulse_add_image_hint": {
       "comment": "Tooltip on the disabled Publish button in Pulse Admin when the image item has no image yet.",
@@ -9964,12 +9964,12 @@
     "pulse admin_pulse_could_not_delete_item": {
       "comment": "Error notification in Pulse Admin when an item could not be deleted from the live match commentary.",
       "english": "Could not delete the item",
-      "value": "نەتوانرا ماددەکە بسڕدرێتەوە"
+      "value": "نەتوانرا بابەتەکە بسڕدرێتەوە"
     },
     "pulse admin_pulse_editing_published_item": {
       "comment": "Heading above the preview in Pulse Admin while the editor changes an item that is already published in the live match commentary.",
       "english": "Editing published item",
-      "value": "دەستکاریکردنی بڕگەی بڵاوکراوە"
+      "value": "دەستکاریکردنی بابەتی بڵاوکراوە"
     },
     "pulse admin_pulse_fill_required_fields": {
       "comment": "Tooltip on the disabled Publish button in Pulse Admin when a required field of a stat graphic is empty.",
@@ -9994,7 +9994,7 @@
     "pulse admin_pulse_item_moved": {
       "comment": "Notification in Pulse Admin when an item has been moved to another place in the live match commentary.",
       "english": "Item moved",
-      "value": "ئایتم گواسترایەوە"
+      "value": "بابەت گواسترایەوە"
     },
     "pulse admin_pulse_item_type_stat": {
       "comment": "Button in Pulse Admin for creating a stat graphic item: an image with match statistics that is added to the live match commentary. Shown next to the buttons Take, Poll, Image and CTA. Keep it short, a single word if possible.",
@@ -10009,32 +10009,32 @@
     "pulse admin_pulse_move_failed": {
       "comment": "Error notification in Pulse Admin when an item could not be moved to another place in the live match commentary.",
       "english": "Could not move the item",
-      "value": "نەیتوانرا بڕگەکە بگوازێتەوە"
+      "value": "نەتوانرا بابەتەکە بگوازرێتەوە"
     },
     "pulse admin_pulse_move_here": {
       "comment": "Button shown between the messages in the live match commentary in Pulse Admin while an item is being moved. Places the item at that spot. See pulse_move. See pulse_cancel_move.",
       "english": "Move here",
-      "value": "لێرە دابنێ"
+      "value": "لێرە دایبنێ"
     },
     "pulse admin_pulse_move_here_after_minute": {
       "comment": "Button shown between the messages in the live match commentary in Pulse Admin while an item is being moved. Places the item after the message above. %@ is the match minute of that message, e.g. \"67'\" or \"45+2'\". See pulse_move_here.",
       "english": "Move here, after %@",
-      "value": "لێرە دابنێ، دوای %@"
+      "value": "لێرە دایبنێ، دوای %@"
     },
     "pulse admin_pulse_move_instructions": {
       "comment": "Instruction shown in Pulse Admin while an item is being moved. \"Move here\" must match the translation of pulse_move_here. See pulse_move_here.",
       "english": "Choose “Move here” in the feed to place the item.",
-      "value": "لە فیددا «لێرە دابنێ» هەڵبژێرە بۆ دانانی ئایتمەکە."
+      "value": "لە بەشی بێژەریدا «لێرە دایبنێ» هەڵبژێرە بۆ دانانی بابەتەکە."
     },
     "pulse admin_pulse_moving": {
       "comment": "Notification in Pulse Admin while an item is being moved to another place in the live match commentary. See pulse_item_moved. See pulse_move_failed.",
       "english": "Moving...",
-      "value": "لە گواستنەوەدایە…"
+      "value": "دەگوازرێتەوە..."
     },
     "pulse admin_pulse_needs_commentary_feed": {
       "comment": "Shown in Pulse Admin when there is no live commentary feed available yet for the match.",
       "english": "Pulse can be turned on once a commentary feed is available for this match.",
-      "value": "Pulse دەتوانرێت چالاک بکرێت کاتێک فیدی کۆمێنتاری ڕاستەوخۆ بۆ ئەم یارییە بەردەست بێت."
+      "value": "دەتوانرێت Pulse چالاک بکرێت کاتێک بێژەریی ڕاستەوخۆ بۆ ئەم یارییە بەردەست دەبێت."
     },
     "pulse admin_pulse_no_match_selected": {
       "comment": "Shown in Pulse Admin when the editor has not picked a match yet.",
@@ -10054,37 +10054,37 @@
     "pulse admin_pulse_only_visible_to_you": {
       "comment": "Shown in Pulse Admin next to the heading of an item preview, telling the editor that the preview is not published and that only they can see it. Keep it short.",
       "english": "Only visible to you",
-      "value": "تەنها بۆ تۆ بینراوە"
+      "value": "تەنها لای تۆ دەردەکەوێت"
     },
     "pulse admin_pulse_preview": {
       "comment": "Heading above previews in Pulse Admin: the item being created, shown as it will look in the live match commentary, and a photo shown full screen. Not a match preview.",
       "english": "Preview",
-      "value": "پێشبینین"
+      "value": "بینینی پێشوەخت"
     },
     "pulse admin_pulse_publish_failed": {
       "comment": "Error notification in Pulse Admin when an item could not be published to the live match commentary.",
       "english": "Could not publish the item",
-      "value": "نەتوانرا دانەکە بڵاو بکرێتەوە"
+      "value": "نەتوانرا بابەتەکە بڵاو بکرێتەوە"
     },
     "pulse admin_pulse_replace_item_draft": {
       "comment": "Confirm dialog in Pulse Admin when the editor starts changing a published pulse item while already writing a new one of the same type.",
       "english": "If you start to edit this item, your current draft will be discarded.",
-      "value": "ئەگەر دەست بکەیت بە دەستکاریکردنی ئەم بڕگەیە، ڕەشنووسی ئێستات فڕێدەدرێت."
+      "value": "ئەگەر دەست بکەیت بە دەستکاریکردنی ئەم بابەتە، ڕەشنووسی ئێستات پشتگوێ دەخرێت."
     },
     "pulse admin_pulse_replace_with_imago_image": {
       "comment": "Confirm dialog in Pulse Admin when the editor picks a photo from the photo agency IMAGO while already making an image item. Keep IMAGO as is.",
       "english": "The current image draft will be replaced by the IMAGO image.",
-      "value": "پێش‌نوسینی ئێستای وێنە بە وێنەی IMAGO جێگزین دەکرێت."
+      "value": "ڕەشنووسی ئێستای وێنەکە بە وێنەی IMAGO دەگۆڕدرێت."
     },
     "pulse admin_pulse_replace_with_suggested_poll": {
       "comment": "Confirm dialog in Pulse Admin when the editor starts editing an automatically suggested poll while already writing a poll of their own. See suggested_poll.",
       "english": "Your poll draft will be replaced by the suggested poll.",
-      "value": "پێش‌نووسی ڕاپرسیی ئێستا بە ڕاپرسیی پێشنیارکراو جێگزین دەکرێت."
+      "value": "ڕەشنووسی ڕاپرسییەکەت بە ڕاپرسییە پێشنیارکراوەکە دەگۆڕدرێت."
     },
     "pulse admin_pulse_saving_keeps_place": {
       "comment": "Shown in Pulse Admin while the editor changes a published item: saving the changes does not move the item in the live match commentary.",
       "english": "Saving keeps the item in its place in the feed",
-      "value": "پاشەکەوتکردن لە شوێنی خۆی لە فییددا دەمێنێتەوە"
+      "value": "پاشەکەوتکردن، بابەتەکان لە شوێنی خۆی لە بێژەریدا دەهێڵێتەوە."
     },
     "pulse admin_pulse_search_results": {
       "comment": "Heading above the team search results in Pulse Admin.",
@@ -10099,12 +10099,12 @@
     "pulse admin_pulse_ticker_language": {
       "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on.",
       "english": "Commentary language",
-      "value": "زمانی کۆمێنتاری ڕاستەوخۆ"
+      "value": "زمانی بێژەری ڕاستەوخۆ"
     },
     "pulse admin_pulse_ticker_language_selected": {
       "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on. %@ is the selected language, e.g. \"Commentary language: English\".",
       "english": "Commentary language: %@",
-      "value": "زمانەوانی ڕاپۆرتی ڕاستەوخۆ: %@"
+      "value": "زمانی بێژەری ڕاستەوخۆ: %@"
     },
     "pulse admin_pulse_title_missing": {
       "comment": "Error shown at the top of the item preview in Pulse Admin when the title field has been left empty. See title_label.",
@@ -10139,7 +10139,7 @@
     "pulse admin_search_for_team": {
       "comment": "Placeholder and screen reader label of a search field in Pulse Admin for finding a team to use as an answer option in a poll.",
       "english": "Search for team",
-      "value": "گەڕان بەدوای تیم"
+      "value": "گەڕان بۆ یانە"
     },
     "pulse admin_search_images": {
       "comment": "Placeholder and screen reader label of the search field for finding press photos from the photo agency IMAGO in Pulse Admin.",
@@ -10164,12 +10164,12 @@
     "pulse admin_stat_gfx_top_3_players": {
       "comment": "Option in Pulse Admin for a stat graphic that shows the three best players in the match for one stat. Shown next to the options \"Team\" and \"Player\".",
       "english": "Top 3 players",
-      "value": "سێ یاریزانی باشترین"
+      "value": "باشترین 3 یاریزان"
     },
     "pulse admin_stat_gfx_waiting_for_preview": {
       "comment": "Tooltip on the disabled Publish button in Pulse Admin while the stat graphic image is still loading.",
       "english": "Waiting for the preview to load",
-      "value": "چاوەڕێی بارکردنی پێشبینینەکە"
+      "value": "چاوەڕێی بارکردنی بینینی پێشوەختە"
     },
     "pulse admin_stat_type_label": {
       "comment": "Label of the field in Pulse Admin where the editor picks which stat a stat graphic shows, e.g. \"Expected goals (xG)\" or \"Shots on target\". See deep_stats_teams. See deep_stats_players.",
@@ -10189,7 +10189,7 @@
     "pulse admin_take_team_color": {
       "comment": "Label of a field in Pulse Admin for an expert take, where the editor picks the team color of the take: one of the two teams in the match, or neutral. Followed by the team choices.",
       "english": "Team color",
-      "value": "ڕەنگی تیم"
+      "value": "ڕەنگی یانە"
     },
     "pulse admin_take_type_expert": {
       "comment": "Option in Pulse Admin for who a take is from. A take is a short opinion quote shown in the live match commentary. This option is a take from a named expert or pundit. The other option is \"Fan\".",
@@ -10199,7 +10199,7 @@
     "pulse admin_take_type_fan": {
       "comment": "Option in Pulse Admin for who a take is from. A take is a short opinion quote shown in the live match commentary. This option is a take from a football fan. The other option is \"Expert\".",
       "english": "Fan",
-      "value": "هوادار"
+      "value": "هەوادار"
     },
     "pulse admin_take_type_label": {
       "comment": "Screen reader label for the choice in Pulse Admin between an expert take and a fan take. A take is a short opinion quote shown in the live match commentary. Do not translate the Take part.",
@@ -10209,7 +10209,7 @@
     "pulse admin_team_search_no_results": {
       "comment": "Shown in the team search in Pulse Admin when the search found no teams.",
       "english": "Could not find the team you searched for.",
-      "value": "نەتوانرا تیمەکەی بەدوایدا گەڕایت بدۆزرێتەوە."
+      "value": "نەتوانرا ئەو یانەیەی بەدوایدا دەگەڕێیت بدۆزرێتەوە."
     },
     "pulse admin_turn_off": {
       "comment": "Button in Pulse Admin that turns off Pulse for the selected match. See turn_on.",
@@ -10229,7 +10229,7 @@
     "pulse admin_view_full_screen": {
       "comment": "Screen reader label of a photo thumbnail in Pulse Admin that opens the photo in full screen. %@ is the photo caption.",
       "english": "View full screen: %@",
-      "value": "پیشاندان بە تەواوی شاشە: %@"
+      "value": "پیشاندان بە پڕ شاشە: %@"
     },
     "pulse admin_x_images": {
       "comment": "Screen reader status in Pulse Admin telling how many photos the IMAGO photo search found, e.g. \"24 images\".",
@@ -13109,7 +13109,7 @@
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
       "english": "Thank you for your feedback!",
-      "value": "سوپاس بۆ فیدباکەکەت!"
+      "value": "سوپاس بۆ ڕاوبۆچوونت!"
     },
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
