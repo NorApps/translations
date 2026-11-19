@@ -2833,6 +2833,11 @@
       "english": "Attacker",
       "value": "ရှေ့တန်း"
     },
+    "common_audio_commentary_no_matches": {
+      "comment": "Error message shown in Android Auto and on the media notification when the user asks FotMob to play audio commentary, for example by voice, and no match with an audio commentary stream is available at the moment. Shown while driving, so keep it short.",
+      "english": "No matches with audio commentary right now",
+      "value": "လောလောဆယ် အသံဖြင့် အစီရင်ခံသည့် ပွဲစဉ် မရှိပါ"
+    },
     "common_audio_pause": {
       "comment": "Generic pause button label for audio playback controls (not match half-time).",
       "english": "Pause",
