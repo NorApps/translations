@@ -5530,7 +5530,7 @@
     },
     "common_relegation": {
       "english": "Relegation",
-      "value": "Küme düşen"
+      "value": "Küme düşme"
     },
     "common_relegation_to": {
       "comment": "League table legend for the relegation places, linking to the league one tier down. %@ is that league's name, e.g. \"Relegation to League One\". See \"relegation\" translation.",
