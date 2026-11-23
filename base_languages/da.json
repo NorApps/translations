@@ -3671,6 +3671,11 @@
       "english": "Fantasy",
       "value": "Fantasy"
     },
+    "common_fantasy_assist": {
+      "comment": "VoiceOver label for a fantasy assist in the lineup's fantasy filter. Use the same word for Fantasy as in \"fantasy\" and the same word for assist as in \"assist_singular\".",
+      "english": "Fantasy assist",
+      "value": "Fantasy-oplæg"
+    },
     "common_fantasy_points": {
       "comment": "This indicates how many Fantasy Premier League points the player got. Don't translate Fantasy directly if that makes a different meaning in your language! Then just keep it as \"Fantasy <translation for point>\" See https://fantasy.premierleague.com/",
       "english": "Fantasy points",
