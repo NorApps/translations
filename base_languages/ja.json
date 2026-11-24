@@ -6889,6 +6889,26 @@
       "english": "Last-minute winner!",
       "value": "終了間際の決勝ゴール！"
     },
+    "feature stage_beta_opt_in": {
+      "comment": "Settings menu switch that lets a logged-in user try features that are still in beta.",
+      "english": "Join the beta",
+      "value": "ベータ版に参加"
+    },
+    "feature stage_feature_stage_beta": {
+      "comment": "Small label next to a feature that is in beta: new and still being tested with users who joined the beta.",
+      "english": "Beta",
+      "value": "ベータ"
+    },
+    "feature stage_feature_stage_internal": {
+      "comment": "Small label next to a feature that is only available to FotMob staff for internal testing.",
+      "english": "Internal",
+      "value": "内部用"
+    },
+    "feature stage_feature_stage_plus": {
+      "comment": "Small label next to a feature that is only for FotMob+ subscribers. \"Plus\" is the short name of the subscription.",
+      "english": "Plus",
+      "value": "Plus"
+    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",

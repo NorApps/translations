@@ -6905,6 +6905,26 @@
       "english": "Last-minute winner!",
       "value": "گۆڵی بردن لە خولەکی کۆتایی!"
     },
+    "feature stage_beta_opt_in": {
+      "comment": "Settings menu switch that lets a logged-in user try features that are still in beta.",
+      "english": "Join the beta",
+      "value": "بەشداربوون لە تاقیکاری"
+    },
+    "feature stage_feature_stage_beta": {
+      "comment": "Small label next to a feature that is in beta: new and still being tested with users who joined the beta.",
+      "english": "Beta",
+      "value": "تاقیکاری"
+    },
+    "feature stage_feature_stage_internal": {
+      "comment": "Small label next to a feature that is only available to FotMob staff for internal testing.",
+      "english": "Internal",
+      "value": "ناوخۆیی"
+    },
+    "feature stage_feature_stage_plus": {
+      "comment": "Small label next to a feature that is only for FotMob+ subscribers. \"Plus\" is the short name of the subscription.",
+      "english": "Plus",
+      "value": "پڵەس"
+    },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
       "english": "Advanced",
