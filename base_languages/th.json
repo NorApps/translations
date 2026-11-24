@@ -3384,7 +3384,7 @@
     },
     "common_drawn": {
       "english": "D",
-      "value": "D"
+      "value": "เสมอ"
     },
     "common_drawn_long": {
       "english": "Drawn",
@@ -4663,7 +4663,7 @@
     },
     "common_lost": {
       "english": "L",
-      "value": "L"
+      "value": "แพ้"
     },
     "common_lost_long": {
       "english": "Lost",
@@ -6463,7 +6463,7 @@
     },
     "common_won": {
       "english": "W",
-      "value": "W"
+      "value": "ชนะ"
     },
     "common_won_contest_subtitle": {
       "english": "Successful dribbles %",
