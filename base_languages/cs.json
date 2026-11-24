@@ -2593,6 +2593,237 @@
       "english": "Your code",
       "value": "Váš kód"
     },
+    "advent calendar_advent_calendar_title": {
+      "comment": "Name and heading of a football advent calendar on fotmob.com: from 1 to 24 December, a new football puzzle opens behind a door every day. Translate \"advent calendar\" with the usual word for a Christmas countdown calendar with doors.",
+      "english": "FotMob Advent Calendar",
+      "value": "FotMob adventní kalendář"
+    },
+    "advent calendar_advent_competition": {
+      "comment": "Label of a match fact under a lineup: the league or cup the match was played in.",
+      "english": "Competition",
+      "value": "Soutěž"
+    },
+    "advent calendar_advent_days_to_go_plural": {
+      "comment": "Countdown before the football advent calendar opens on 1 December, where %d is the number of days left.",
+      "english_plurals": {
+        "one": "%d day to go",
+        "other": "%d days to go"
+      },
+      "plurals": {
+        "few": "Zbývají %d dny",
+        "many": "Zbývá %d dne",
+        "one": "Zbývá %d den",
+        "other": "Zbývá %d dní"
+      }
+    },
+    "advent calendar_advent_difficulty_medium": {
+      "comment": "Difficulty of the day's football puzzle in the advent calendar, shown in a small pill next to the game's name. Pairs with difficulty_easy (\"Easy\") and difficulty_hard (\"Hard\"). See difficulty_easy for context.",
+      "english": "Medium",
+      "value": "Střední"
+    },
+    "advent calendar_advent_door": {
+      "comment": "Label of one day in the football advent calendar, where %@ is the day from 1 to 24. Each day is a door, as in a Christmas advent calendar.",
+      "english": "Door %@",
+      "value": "Dvířka %@"
+    },
+    "advent calendar_advent_door_by_door": {
+      "comment": "Button that expands a list of every advent calendar door and how the user did on each.",
+      "english": "Door by door",
+      "value": "Dvířko po dvířku"
+    },
+    "advent calendar_advent_door_not_ready": {
+      "comment": "Shown in the advent calendar when the day's puzzle could not be loaded. See advent_door for context.",
+      "english": "This door's puzzle isn't ready yet.",
+      "value": "Hádanka za těmito dvířky ještě není připravená."
+    },
+    "advent calendar_advent_door_of_total": {
+      "comment": "Small heading above the advent calendar title, where %1$@ is today's door (1 to 24) and %2$@ is always 24. See advent_door for context.",
+      "english": "Door %1$@ of %2$@",
+      "value": "Okénko %1$@ z %2$@"
+    },
+    "advent calendar_advent_doors_open_from": {
+      "comment": "Short status line above the advent calendar's doors before December. Use the local way of writing the date.",
+      "english": "Doors open from 1 December",
+      "value": "Dvířka se otevírají od 1. prosince."
+    },
+    "advent calendar_advent_doors_opened": {
+      "comment": "Progress above the advent calendar's doors, where %1$@ is how many doors the user has played and %2$@ is how many doors are open so far (1 to 24).",
+      "english": "%1$@ of %2$@ doors opened",
+      "value": "Otevřeno %1$@ z %2$@ okének"
+    },
+    "advent calendar_advent_first_door_opens": {
+      "comment": "Heading shown before December, when no door of the football advent calendar is open yet. Use the local way of writing the date.",
+      "english": "The first door opens on 1 December",
+      "value": "První okénko se otevře 1. prosince"
+    },
+    "advent calendar_advent_guess_club": {
+      "comment": "Label and placeholder of the search box in a game where the user guesses a club from its lineup.",
+      "english": "Guess the club",
+      "value": "Tipni klub"
+    },
+    "advent calendar_advent_guess_country": {
+      "comment": "Label and placeholder of the search box in a game where the user guesses a national team from its lineup.",
+      "english": "Guess the country",
+      "value": "Uhádni zemi"
+    },
+    "advent calendar_advent_hide_doors": {
+      "comment": "Button that collapses the advent calendar's grid of 24 doors.",
+      "english": "Hide doors",
+      "value": "Skrýt okénka"
+    },
+    "advent calendar_advent_hint_club_lineup": {
+      "comment": "First hint in a game where the user guesses a club from its starting lineup. \"XI\" means the eleven players who started.",
+      "english": "Their starting XI in a classic match. Flags show each player's nationality.",
+      "value": "Jejich základní jedenáctka v klasickém zápase. Vlajky ukazují národnost každého hráče."
+    },
+    "advent calendar_advent_hint_clubs": {
+      "comment": "Short name of a hint in a football guessing game: the crests of the clubs. One word if possible.",
+      "english": "Clubs",
+      "value": "Kluby"
+    },
+    "advent calendar_advent_hint_match": {
+      "comment": "Short name of a hint in a lineup guessing game: the competition and date of the match. One word if possible.",
+      "english": "Match",
+      "value": "Zápas"
+    },
+    "advent calendar_advent_hint_match_caption": {
+      "comment": "Second hint in a lineup guessing game: the match facts below the pitch now show which competition the match was in and when.",
+      "english": "The competition and date, below.",
+      "value": "Soutěž a datum níže."
+    },
+    "advent calendar_advent_hint_nation_lineup": {
+      "comment": "First hint in a game where the user guesses a national team from its starting lineup. \"XI\" means the eleven players who started.",
+      "english": "Their starting XI in a classic match. Badges show each player's club at the time.",
+      "value": "Jejich základní jedenáctka v klasickém zápase. Odznaky ukazují klub každého hráče v té době."
+    },
+    "advent calendar_advent_hint_nations": {
+      "comment": "Short name of a hint in a football guessing game: flags showing the players' (or clubs') countries. One word if possible.",
+      "english": "Nations",
+      "value": "Země"
+    },
+    "advent calendar_advent_hint_numbers": {
+      "comment": "Short name of a hint in a lineup guessing game: the players' shirt numbers. One word if possible.",
+      "english": "Numbers",
+      "value": "Čísla dresů"
+    },
+    "advent calendar_advent_hint_numbers_caption": {
+      "comment": "Fourth hint in a lineup guessing game: the players' shirt numbers now show on the pitch.",
+      "english": "Shirt numbers, on the pitch.",
+      "value": "Čísla na dresech, na hřišti."
+    },
+    "advent calendar_advent_hint_recent_lineup": {
+      "comment": "First hint in a game where the user guesses a club from the lineup it used in its most recent match. \"XI\" means the eleven players who started.",
+      "english": "Their last starting XI. Flags show each player's nationality.",
+      "value": "Jejich poslední základní sestava. Vlajky ukazují národnost každého hráče."
+    },
+    "advent calendar_advent_hint_result_caption": {
+      "comment": "Third hint in a lineup guessing game: the match facts below the pitch now show the opponent and the score.",
+      "english": "Who they played and the score, below.",
+      "value": "Soupeř a skóre níže."
+    },
+    "advent calendar_advent_hint_star": {
+      "comment": "Short name of the last hint in a lineup guessing game: the name of the team's star player. One word if possible.",
+      "english": "Star",
+      "value": "Hvězda"
+    },
+    "advent calendar_advent_hint_star_caption": {
+      "comment": "Fifth and last hint in a lineup guessing game: one player's name now shows on the pitch.",
+      "english": "Last hint: one player's name, on the pitch.",
+      "value": "Poslední nápověda: jméno jednoho hráče na hřišti."
+    },
+    "advent calendar_advent_merry_christmas": {
+      "comment": "Heading of the summary shown after the user finishes the advent calendar's last door on 24 December.",
+      "english": "Merry Christmas!",
+      "value": "Veselé Vánoce!"
+    },
+    "advent calendar_advent_meta_description": {
+      "comment": "Search engine description of the football advent calendar page. See advent_calendar_title for context.",
+      "english": "A football advent calendar. Open a door every day until Christmas and guess the player or the team behind it.",
+      "value": "FotMob adventní kalendář. Otevřete každý den jedno okénko až do Vánoc a hádejte hráče nebo tým, který se za ním skrývá."
+    },
+    "advent calendar_advent_missed": {
+      "comment": "How the user did on one advent calendar door: they did not guess the answer.",
+      "english": "Missed",
+      "value": "Neuhodl(a)"
+    },
+    "advent calendar_advent_mode_baller": {
+      "comment": "Name of a guessing game: the user sees hints about a football player and guesses who it is. \"Baller\" is slang for a footballer; keep it short and playful.",
+      "english": "Guess the Baller",
+      "value": "Uhádni hráče"
+    },
+    "advent calendar_advent_mode_club": {
+      "comment": "Heading of a guessing game in the advent calendar: the user sees a club's starting lineup from a classic match and guesses which club it is.",
+      "english": "Guess the club team",
+      "value": "Uhádni klub"
+    },
+    "advent calendar_advent_mode_nation": {
+      "comment": "Heading of a guessing game in the advent calendar: the user sees a national team's starting lineup from a classic match and guesses which country it is.",
+      "english": "Guess the national team",
+      "value": "Uhodni reprezentaci"
+    },
+    "advent calendar_advent_mode_recent": {
+      "comment": "Heading of a guessing game in the advent calendar: the user sees the starting lineup a club used in its most recent match and guesses which club it is. \"XI\" means the eleven players who started.",
+      "english": "Last starting XI (guess the club team)",
+      "value": "Poslední základní jedenáctka (uhodněte klubový tým)"
+    },
+    "advent calendar_advent_not_played": {
+      "comment": "How the user did on one advent calendar door: they never played it.",
+      "english": "Not played",
+      "value": "Neodehráno"
+    },
+    "advent calendar_advent_opens_tomorrow": {
+      "comment": "Countdown before the advent calendar starts, shown the day before 1 December.",
+      "english": "Opens tomorrow",
+      "value": "Otevírá zítra"
+    },
+    "advent calendar_advent_page_title": {
+      "comment": "Browser tab and search result title of the football advent calendar page. See advent_calendar_title for context.",
+      "english": "FotMob Advent Calendar: a football puzzle behind every door",
+      "value": "FotMob adventní kalendář: fotbalový hlavolam za každým okénkem"
+    },
+    "advent calendar_advent_penalty_score": {
+      "comment": "Penalty shoot-out score shown after a match score, e.g. \"1–1 (4–3 pens)\", where %@ is the shoot-out score. Use the short form your football media use.",
+      "english": "(%@ pens)",
+      "value": "(%@ pen.)"
+    },
+    "advent calendar_advent_share_title": {
+      "comment": "First line of the result the user shares after playing a door, where %1$@ is the door (1 to 24) and %2$@ is always 24. Keep the emoji.",
+      "english": "FotMob Advent Calendar 🎄 Door %1$@/%2$@",
+      "value": "FotMob adventní kalendář 🎄 Okénko %1$@/%2$@"
+    },
+    "advent calendar_advent_show_doors": {
+      "comment": "Button that expands the advent calendar's grid of 24 doors.",
+      "english": "Show doors",
+      "value": "Zobrazit okénka"
+    },
+    "advent calendar_advent_solved_hints_plural": {
+      "comment": "How the user did on one advent calendar door: solved after seeing %d hints (1 to 5).",
+      "english_plurals": {
+        "one": "%d hint",
+        "other": "%d hints"
+      },
+      "plurals": {
+        "few": "%d nápovědy",
+        "many": "%d nápovědy",
+        "one": "%d nápověda",
+        "other": "%d nápověd"
+      }
+    },
+    "advent calendar_advent_summary_solved": {
+      "comment": "Summary after the last door of the advent calendar, where %1$@ is how many puzzles the user solved and %2$@ is always 24.",
+      "english": "You solved %1$@ of %2$@ doors.",
+      "value": "Vyřešil(a) jsi %1$@ z %2$@ okének."
+    },
+    "advent calendar_advent_summary_solved_average": {
+      "comment": "Summary after the last door of the advent calendar, where %1$@ is how many puzzles the user solved, %2$@ is always 24 and %3$@ is the average number of hints they needed, with one decimal (e.g. 2.4).",
+      "english": "You solved %1$@ of %2$@ doors, with %3$@ hints on average.",
+      "value": "Vyřešili jste %1$@ z %2$@ okének, v průměru s %3$@ nápovědami."
+    },
+    "advent calendar_advent_summary_tally": {
+      "comment": "Short tally under the advent calendar summary: how many of the 24 puzzles the user solved, failed and did not play. Keep the dots between the parts.",
+      "english": "%1$@ solved · %2$@ missed · %3$@ not played",
+      "value": "%1$@ vyřešeno · %2$@ nesplněno · %3$@ nehráno"
+    },
     "common_Attendance": {
       "english": "Attendance",
       "value": "Návštěva"
@@ -6583,6 +6814,136 @@
       "comment": "<string name=\"sponsor_desc\">Get rid of the ads by downloading other FREE apps</string>",
       "english": "Yesterday",
       "value": "Včera"
+    },
+    "daily baller_daily_baller_give_up": {
+      "comment": "Button on the last hint of a guessing game that ends the game and shows the answer.",
+      "english": "Give up",
+      "value": "Vzdát se"
+    },
+    "daily baller_daily_baller_got_it_on_hint": {
+      "comment": "Shown after the user guesses right in a guessing game, where %1$@ is the hint they needed and %2$@ is always 5.",
+      "english": "You got it on hint %1$@ of %2$@",
+      "value": "Podařilo se ti to na nápovědu %1$@ z %2$@"
+    },
+    "daily baller_daily_baller_guess_player": {
+      "comment": "Label and placeholder of the search box in a football guessing game where the user guesses a player from hints.",
+      "english": "Guess the player",
+      "value": "Hádej hráče"
+    },
+    "daily baller_daily_baller_hint_bio": {
+      "comment": "Short name of a hint in a game where the user guesses a football player: their country, age and position. One word if possible.",
+      "english": "Bio",
+      "value": "Profil"
+    },
+    "daily baller_daily_baller_hint_bio_caption": {
+      "comment": "Fourth hint in a game where the user guesses a football player: their country, age and position now show below the graph.",
+      "english": "Their country, age and position, below.",
+      "value": "Jejich země, věk a pozice jsou níže."
+    },
+    "daily baller_daily_baller_hint_clubs_caption": {
+      "comment": "Third hint in a game where the user guesses a football player: the graph now shows each club's crest.",
+      "english": "Club crests, on the graph.",
+      "value": "Klubové znaky v grafu."
+    },
+    "daily baller_daily_baller_hint_face_caption": {
+      "comment": "Fifth and last hint in a game where the user guesses a football player: their photo now shows.",
+      "english": "Last hint: face reveal.",
+      "value": "Poslední nápověda: odhalení tváře."
+    },
+    "daily baller_daily_baller_hint_face_reveal": {
+      "comment": "Short name of the last hint in a game where the user guesses a football player: their photo is shown.",
+      "english": "Face reveal",
+      "value": "Odhalení tváře"
+    },
+    "daily baller_daily_baller_hint_market_value_caption": {
+      "comment": "First hint in a game where the user guesses a football player: a graph of the player's market value over their career, with a flag for each club's country.",
+      "english": "Their market value over the years. Flags mark each club's nation.",
+      "value": "Jejich tržní hodnota v průběhu let. Vlajky označují zemi každého klubu."
+    },
+    "daily baller_daily_baller_hint_of": {
+      "comment": "Label in front of the current hint in a football guessing game, where %1$@ is the hint number and %2$@ is always 5.",
+      "english": "Hint %1$@ of %2$@",
+      "value": "Nápověda %1$@ z %2$@"
+    },
+    "daily baller_daily_baller_hint_values": {
+      "comment": "Short name of a hint in a game where the user guesses a football player: the player's market values. One word if possible.",
+      "english": "Values",
+      "value": "Tržní hodnota"
+    },
+    "daily baller_daily_baller_hint_values_caption": {
+      "comment": "Second hint in a game where the user guesses a football player: the graph now shows each club's colours and the player's highest market value.",
+      "english": "Club colours and their peak value, on the graph.",
+      "value": "Klubové barvy a nejvyšší tržní hodnota hráče na grafu."
+    },
+    "daily baller_daily_baller_next_hint": {
+      "comment": "Button in a guessing game that skips the current hint and shows the next one.",
+      "english": "Next hint",
+      "value": "Další nápověda"
+    },
+    "daily baller_daily_baller_off_the_post": {
+      "comment": "Headline when the user fails to guess the answer in a football guessing game, like a shot that hits the post and misses.",
+      "english": "Off the post",
+      "value": "Na tyč"
+    },
+    "daily baller_daily_baller_peak_value": {
+      "comment": "Label of a football player's highest market value in their career.",
+      "english": "Peak value",
+      "value": "Nejvyšší tržní hodnota"
+    },
+    "daily baller_daily_baller_searching": {
+      "comment": "Shown while the search box in a guessing game looks for matching players or teams.",
+      "english": "Searching…",
+      "value": "Hledání…"
+    },
+    "daily baller_daily_baller_share_result": {
+      "comment": "Button that shares the user's result in a guessing game.",
+      "english": "Share result",
+      "value": "Sdílet výsledek"
+    },
+    "daily baller_daily_baller_skipped": {
+      "comment": "Shown in place of a guess when the user skipped a hint in a guessing game.",
+      "english": "Skipped",
+      "value": "Přeskočeno"
+    },
+    "daily baller_daily_baller_the_player_was": {
+      "comment": "Shown before the answer's name after the user fails a guessing game from an earlier day.",
+      "english": "The player was",
+      "value": "Hráč byl:"
+    },
+    "daily baller_daily_baller_todays_player_was": {
+      "comment": "Shown before the answer's name after the user fails today's guessing game.",
+      "english": "Today's player was",
+      "value": "Dnešním hráčem byl"
+    },
+    "daily baller_daily_baller_values_before_2015": {
+      "comment": "Note under a graph of a football player's market value over their career, when their career started before 2015.",
+      "english": "Market values before 2015 aren't included",
+      "value": "Tržní hodnoty před rokem 2015 nejsou zahrnuty"
+    },
+    "daily baller_daily_baller_win_hint_1": {
+      "comment": "Celebration when the user guesses right on the first hint of a football guessing game. \"Top bins\" is football slang for a shot into the top corner; use a similar football expression for a perfect shot.",
+      "english": "Top bins!",
+      "value": "Do šibenice!"
+    },
+    "daily baller_daily_baller_win_hint_2": {
+      "comment": "Celebration when the user guesses right on the second of five hints in a football guessing game.",
+      "english": "World class!",
+      "value": "Světová třída!"
+    },
+    "daily baller_daily_baller_win_hint_3": {
+      "comment": "Celebration when the user guesses right on the third of five hints in a football guessing game. \"Finish\" means a shot that scores.",
+      "english": "Great finish!",
+      "value": "Skvělé zakončení!"
+    },
+    "daily baller_daily_baller_win_hint_4": {
+      "comment": "Celebration when the user guesses right on the fourth of five hints in a football guessing game. \"Finish\" means a shot that scores; \"tidy\" means neat.",
+      "english": "Tidy finish!",
+      "value": "Čisté zakončení!"
+    },
+    "daily baller_daily_baller_win_hint_5": {
+      "comment": "Celebration when the user guesses right on the fifth and last hint of a football guessing game, like a goal scored in the last minute.",
+      "english": "Last-minute winner!",
+      "value": "Vítězný gól v poslední minutě!"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",

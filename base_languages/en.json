@@ -2052,6 +2052,184 @@
       "comment": "Placeholder shown inside the redeem code input field where the user types their code.",
       "value": "Your code"
     },
+    "advent calendar_advent_calendar_title": {
+      "comment": "Name and heading of a football advent calendar on fotmob.com: from 1 to 24 December, a new football puzzle opens behind a door every day. Translate \"advent calendar\" with the usual word for a Christmas countdown calendar with doors.",
+      "value": "FotMob Advent Calendar"
+    },
+    "advent calendar_advent_competition": {
+      "comment": "Label of a match fact under a lineup: the league or cup the match was played in.",
+      "value": "Competition"
+    },
+    "advent calendar_advent_days_to_go_plural": {
+      "comment": "Countdown before the football advent calendar opens on 1 December, where %d is the number of days left.",
+      "plurals": {
+        "one": "%d day to go",
+        "other": "%d days to go"
+      }
+    },
+    "advent calendar_advent_difficulty_medium": {
+      "comment": "Difficulty of the day's football puzzle in the advent calendar, shown in a small pill next to the game's name. Pairs with difficulty_easy (\"Easy\") and difficulty_hard (\"Hard\"). See difficulty_easy for context.",
+      "value": "Medium"
+    },
+    "advent calendar_advent_door": {
+      "comment": "Label of one day in the football advent calendar, where %@ is the day from 1 to 24. Each day is a door, as in a Christmas advent calendar.",
+      "value": "Door %@"
+    },
+    "advent calendar_advent_door_by_door": {
+      "comment": "Button that expands a list of every advent calendar door and how the user did on each.",
+      "value": "Door by door"
+    },
+    "advent calendar_advent_door_not_ready": {
+      "comment": "Shown in the advent calendar when the day's puzzle could not be loaded. See advent_door for context.",
+      "value": "This door's puzzle isn't ready yet."
+    },
+    "advent calendar_advent_door_of_total": {
+      "comment": "Small heading above the advent calendar title, where %1$@ is today's door (1 to 24) and %2$@ is always 24. See advent_door for context.",
+      "value": "Door %1$@ of %2$@"
+    },
+    "advent calendar_advent_doors_open_from": {
+      "comment": "Short status line above the advent calendar's doors before December. Use the local way of writing the date.",
+      "value": "Doors open from 1 December"
+    },
+    "advent calendar_advent_doors_opened": {
+      "comment": "Progress above the advent calendar's doors, where %1$@ is how many doors the user has played and %2$@ is how many doors are open so far (1 to 24).",
+      "value": "%1$@ of %2$@ doors opened"
+    },
+    "advent calendar_advent_first_door_opens": {
+      "comment": "Heading shown before December, when no door of the football advent calendar is open yet. Use the local way of writing the date.",
+      "value": "The first door opens on 1 December"
+    },
+    "advent calendar_advent_guess_club": {
+      "comment": "Label and placeholder of the search box in a game where the user guesses a club from its lineup.",
+      "value": "Guess the club"
+    },
+    "advent calendar_advent_guess_country": {
+      "comment": "Label and placeholder of the search box in a game where the user guesses a national team from its lineup.",
+      "value": "Guess the country"
+    },
+    "advent calendar_advent_hide_doors": {
+      "comment": "Button that collapses the advent calendar's grid of 24 doors.",
+      "value": "Hide doors"
+    },
+    "advent calendar_advent_hint_club_lineup": {
+      "comment": "First hint in a game where the user guesses a club from its starting lineup. \"XI\" means the eleven players who started.",
+      "value": "Their starting XI in a classic match. Flags show each player's nationality."
+    },
+    "advent calendar_advent_hint_clubs": {
+      "comment": "Short name of a hint in a football guessing game: the crests of the clubs. One word if possible.",
+      "value": "Clubs"
+    },
+    "advent calendar_advent_hint_match": {
+      "comment": "Short name of a hint in a lineup guessing game: the competition and date of the match. One word if possible.",
+      "value": "Match"
+    },
+    "advent calendar_advent_hint_match_caption": {
+      "comment": "Second hint in a lineup guessing game: the match facts below the pitch now show which competition the match was in and when.",
+      "value": "The competition and date, below."
+    },
+    "advent calendar_advent_hint_nation_lineup": {
+      "comment": "First hint in a game where the user guesses a national team from its starting lineup. \"XI\" means the eleven players who started.",
+      "value": "Their starting XI in a classic match. Badges show each player's club at the time."
+    },
+    "advent calendar_advent_hint_nations": {
+      "comment": "Short name of a hint in a football guessing game: flags showing the players' (or clubs') countries. One word if possible.",
+      "value": "Nations"
+    },
+    "advent calendar_advent_hint_numbers": {
+      "comment": "Short name of a hint in a lineup guessing game: the players' shirt numbers. One word if possible.",
+      "value": "Numbers"
+    },
+    "advent calendar_advent_hint_numbers_caption": {
+      "comment": "Fourth hint in a lineup guessing game: the players' shirt numbers now show on the pitch.",
+      "value": "Shirt numbers, on the pitch."
+    },
+    "advent calendar_advent_hint_recent_lineup": {
+      "comment": "First hint in a game where the user guesses a club from the lineup it used in its most recent match. \"XI\" means the eleven players who started.",
+      "value": "Their last starting XI. Flags show each player's nationality."
+    },
+    "advent calendar_advent_hint_result_caption": {
+      "comment": "Third hint in a lineup guessing game: the match facts below the pitch now show the opponent and the score.",
+      "value": "Who they played and the score, below."
+    },
+    "advent calendar_advent_hint_star": {
+      "comment": "Short name of the last hint in a lineup guessing game: the name of the team's star player. One word if possible.",
+      "value": "Star"
+    },
+    "advent calendar_advent_hint_star_caption": {
+      "comment": "Fifth and last hint in a lineup guessing game: one player's name now shows on the pitch.",
+      "value": "Last hint: one player's name, on the pitch."
+    },
+    "advent calendar_advent_merry_christmas": {
+      "comment": "Heading of the summary shown after the user finishes the advent calendar's last door on 24 December.",
+      "value": "Merry Christmas!"
+    },
+    "advent calendar_advent_meta_description": {
+      "comment": "Search engine description of the football advent calendar page. See advent_calendar_title for context.",
+      "value": "A football advent calendar. Open a door every day until Christmas and guess the player or the team behind it."
+    },
+    "advent calendar_advent_missed": {
+      "comment": "How the user did on one advent calendar door: they did not guess the answer.",
+      "value": "Missed"
+    },
+    "advent calendar_advent_mode_baller": {
+      "comment": "Name of a guessing game: the user sees hints about a football player and guesses who it is. \"Baller\" is slang for a footballer; keep it short and playful.",
+      "value": "Guess the Baller"
+    },
+    "advent calendar_advent_mode_club": {
+      "comment": "Heading of a guessing game in the advent calendar: the user sees a club's starting lineup from a classic match and guesses which club it is.",
+      "value": "Guess the club team"
+    },
+    "advent calendar_advent_mode_nation": {
+      "comment": "Heading of a guessing game in the advent calendar: the user sees a national team's starting lineup from a classic match and guesses which country it is.",
+      "value": "Guess the national team"
+    },
+    "advent calendar_advent_mode_recent": {
+      "comment": "Heading of a guessing game in the advent calendar: the user sees the starting lineup a club used in its most recent match and guesses which club it is. \"XI\" means the eleven players who started.",
+      "value": "Last starting XI (guess the club team)"
+    },
+    "advent calendar_advent_not_played": {
+      "comment": "How the user did on one advent calendar door: they never played it.",
+      "value": "Not played"
+    },
+    "advent calendar_advent_opens_tomorrow": {
+      "comment": "Countdown before the advent calendar starts, shown the day before 1 December.",
+      "value": "Opens tomorrow"
+    },
+    "advent calendar_advent_page_title": {
+      "comment": "Browser tab and search result title of the football advent calendar page. See advent_calendar_title for context.",
+      "value": "FotMob Advent Calendar: a football puzzle behind every door"
+    },
+    "advent calendar_advent_penalty_score": {
+      "comment": "Penalty shoot-out score shown after a match score, e.g. \"1–1 (4–3 pens)\", where %@ is the shoot-out score. Use the short form your football media use.",
+      "value": "(%@ pens)"
+    },
+    "advent calendar_advent_share_title": {
+      "comment": "First line of the result the user shares after playing a door, where %1$@ is the door (1 to 24) and %2$@ is always 24. Keep the emoji.",
+      "value": "FotMob Advent Calendar 🎄 Door %1$@/%2$@"
+    },
+    "advent calendar_advent_show_doors": {
+      "comment": "Button that expands the advent calendar's grid of 24 doors.",
+      "value": "Show doors"
+    },
+    "advent calendar_advent_solved_hints_plural": {
+      "comment": "How the user did on one advent calendar door: solved after seeing %d hints (1 to 5).",
+      "plurals": {
+        "one": "%d hint",
+        "other": "%d hints"
+      }
+    },
+    "advent calendar_advent_summary_solved": {
+      "comment": "Summary after the last door of the advent calendar, where %1$@ is how many puzzles the user solved and %2$@ is always 24.",
+      "value": "You solved %1$@ of %2$@ doors."
+    },
+    "advent calendar_advent_summary_solved_average": {
+      "comment": "Summary after the last door of the advent calendar, where %1$@ is how many puzzles the user solved, %2$@ is always 24 and %3$@ is the average number of hints they needed, with one decimal (e.g. 2.4).",
+      "value": "You solved %1$@ of %2$@ doors, with %3$@ hints on average."
+    },
+    "advent calendar_advent_summary_tally": {
+      "comment": "Short tally under the advent calendar summary: how many of the 24 puzzles the user solved, failed and did not play. Keep the dots between the parts.",
+      "value": "%1$@ solved · %2$@ missed · %3$@ not played"
+    },
     "common_Attendance": {
       "value": "Attendance"
     },
@@ -5132,6 +5310,110 @@
     "common_yesterday": {
       "comment": "<string name=\"sponsor_desc\">Get rid of the ads by downloading other FREE apps</string>",
       "value": "Yesterday"
+    },
+    "daily baller_daily_baller_give_up": {
+      "comment": "Button on the last hint of a guessing game that ends the game and shows the answer.",
+      "value": "Give up"
+    },
+    "daily baller_daily_baller_got_it_on_hint": {
+      "comment": "Shown after the user guesses right in a guessing game, where %1$@ is the hint they needed and %2$@ is always 5.",
+      "value": "You got it on hint %1$@ of %2$@"
+    },
+    "daily baller_daily_baller_guess_player": {
+      "comment": "Label and placeholder of the search box in a football guessing game where the user guesses a player from hints.",
+      "value": "Guess the player"
+    },
+    "daily baller_daily_baller_hint_bio": {
+      "comment": "Short name of a hint in a game where the user guesses a football player: their country, age and position. One word if possible.",
+      "value": "Bio"
+    },
+    "daily baller_daily_baller_hint_bio_caption": {
+      "comment": "Fourth hint in a game where the user guesses a football player: their country, age and position now show below the graph.",
+      "value": "Their country, age and position, below."
+    },
+    "daily baller_daily_baller_hint_clubs_caption": {
+      "comment": "Third hint in a game where the user guesses a football player: the graph now shows each club's crest.",
+      "value": "Club crests, on the graph."
+    },
+    "daily baller_daily_baller_hint_face_caption": {
+      "comment": "Fifth and last hint in a game where the user guesses a football player: their photo now shows.",
+      "value": "Last hint: face reveal."
+    },
+    "daily baller_daily_baller_hint_face_reveal": {
+      "comment": "Short name of the last hint in a game where the user guesses a football player: their photo is shown.",
+      "value": "Face reveal"
+    },
+    "daily baller_daily_baller_hint_market_value_caption": {
+      "comment": "First hint in a game where the user guesses a football player: a graph of the player's market value over their career, with a flag for each club's country.",
+      "value": "Their market value over the years. Flags mark each club's nation."
+    },
+    "daily baller_daily_baller_hint_of": {
+      "comment": "Label in front of the current hint in a football guessing game, where %1$@ is the hint number and %2$@ is always 5.",
+      "value": "Hint %1$@ of %2$@"
+    },
+    "daily baller_daily_baller_hint_values": {
+      "comment": "Short name of a hint in a game where the user guesses a football player: the player's market values. One word if possible.",
+      "value": "Values"
+    },
+    "daily baller_daily_baller_hint_values_caption": {
+      "comment": "Second hint in a game where the user guesses a football player: the graph now shows each club's colours and the player's highest market value.",
+      "value": "Club colours and their peak value, on the graph."
+    },
+    "daily baller_daily_baller_next_hint": {
+      "comment": "Button in a guessing game that skips the current hint and shows the next one.",
+      "value": "Next hint"
+    },
+    "daily baller_daily_baller_off_the_post": {
+      "comment": "Headline when the user fails to guess the answer in a football guessing game, like a shot that hits the post and misses.",
+      "value": "Off the post"
+    },
+    "daily baller_daily_baller_peak_value": {
+      "comment": "Label of a football player's highest market value in their career.",
+      "value": "Peak value"
+    },
+    "daily baller_daily_baller_searching": {
+      "comment": "Shown while the search box in a guessing game looks for matching players or teams.",
+      "value": "Searching…"
+    },
+    "daily baller_daily_baller_share_result": {
+      "comment": "Button that shares the user's result in a guessing game.",
+      "value": "Share result"
+    },
+    "daily baller_daily_baller_skipped": {
+      "comment": "Shown in place of a guess when the user skipped a hint in a guessing game.",
+      "value": "Skipped"
+    },
+    "daily baller_daily_baller_the_player_was": {
+      "comment": "Shown before the answer's name after the user fails a guessing game from an earlier day.",
+      "value": "The player was"
+    },
+    "daily baller_daily_baller_todays_player_was": {
+      "comment": "Shown before the answer's name after the user fails today's guessing game.",
+      "value": "Today's player was"
+    },
+    "daily baller_daily_baller_values_before_2015": {
+      "comment": "Note under a graph of a football player's market value over their career, when their career started before 2015.",
+      "value": "Market values before 2015 aren't included"
+    },
+    "daily baller_daily_baller_win_hint_1": {
+      "comment": "Celebration when the user guesses right on the first hint of a football guessing game. \"Top bins\" is football slang for a shot into the top corner; use a similar football expression for a perfect shot.",
+      "value": "Top bins!"
+    },
+    "daily baller_daily_baller_win_hint_2": {
+      "comment": "Celebration when the user guesses right on the second of five hints in a football guessing game.",
+      "value": "World class!"
+    },
+    "daily baller_daily_baller_win_hint_3": {
+      "comment": "Celebration when the user guesses right on the third of five hints in a football guessing game. \"Finish\" means a shot that scores.",
+      "value": "Great finish!"
+    },
+    "daily baller_daily_baller_win_hint_4": {
+      "comment": "Celebration when the user guesses right on the fourth of five hints in a football guessing game. \"Finish\" means a shot that scores; \"tidy\" means neat.",
+      "value": "Tidy finish!"
+    },
+    "daily baller_daily_baller_win_hint_5": {
+      "comment": "Celebration when the user guesses right on the fifth and last hint of a football guessing game, like a goal scored in the last minute.",
+      "value": "Last-minute winner!"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
