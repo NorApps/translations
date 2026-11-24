@@ -14312,6 +14312,46 @@
       "english": "Until %@",
       "value": "До: %@"
     },
+    "turnstile_turnstile_checking_body": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. One line under the title while the check runs.",
+      "english": "This takes a few seconds. You'll go straight on to FotMob.",
+      "value": "Це займе кілька секунд. Вас буде перенаправлено безпосередньо на FotMob."
+    },
+    "turnstile_turnstile_checking_title": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Card title while the automatic check runs. Short.",
+      "english": "Checking your browser",
+      "value": "Перевірка вашого браузера"
+    },
+    "turnstile_turnstile_click_body": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. One line under the title; the checkbox is right below it.",
+      "english": "Tick the box below to continue to FotMob.",
+      "value": "Поставте галочку в полі нижче, щоб продовжити до FotMob."
+    },
+    "turnstile_turnstile_click_title": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Card title when the visitor must tick the Cloudflare checkbox.",
+      "english": "Confirm you're human",
+      "value": "Підтвердьте, що ви людина"
+    },
+    "turnstile_turnstile_failed_body": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. One line under the failure title.",
+      "english": "The check didn't load. This can happen on slow or filtered networks.",
+      "value": "Не вдалося завантажити перевірку. Це може статися в повільних або фільтрованих мережах."
+    },
+    "turnstile_turnstile_failed_title": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Card title when the check failed to load.",
+      "english": "We couldn't check your browser",
+      "value": "Не вдалося перевірити ваш браузер"
+    },
+    "turnstile_turnstile_retry": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Button that retries the check. Short.",
+      "english": "Try again",
+      "value": "Спробувати ще раз"
+    },
+    "turnstile_turnstile_why": {
+      "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Small link in the card footer that leads to the privacy page.",
+      "english": "Why am I seeing this?",
+      "value": "Чому я це бачу?"
+    },
     "widget intents_1jlKuA": {
       "comment": "iOS widget/Siri config UI, generated into WidgetExtension TeamSelection.strings. Key is the Xcode intent-definition localization ID — do not rename. Title of the league-widget LeagueConfiguration intent.",
       "english": "League Configuration",
