@@ -2638,7 +2638,7 @@
     "advent calendar_advent_doors_opened": {
       "comment": "Progress above the advent calendar's doors, where %1$@ is how many doors the user has played and %2$@ is how many doors are open so far (1 to 24).",
       "english": "%1$@ of %2$@ doors opened",
-      "value": "‏%1$@ از %2$@ در باز شده‌اند"
+      "value": "%1$@ از %2$@ در باز شده‌اند"
     },
     "advent calendar_advent_first_door_opens": {
       "comment": "Heading shown before December, when no door of the football advent calendar is open yet. Use the local way of writing the date.",
