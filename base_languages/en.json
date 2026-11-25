@@ -2052,6 +2052,10 @@
       "comment": "Placeholder shown inside the redeem code input field where the user types their code.",
       "value": "Your code"
     },
+    "advent calendar_advent_calendar": {
+      "comment": "Short name of the football advent calendar on fotmob.com, used as a link label in the site menu and footer. Same as advent_calendar_title without \"FotMob\"; keep it short.",
+      "value": "Advent Calendar"
+    },
     "advent calendar_advent_calendar_title": {
       "comment": "Name and heading of a football advent calendar on fotmob.com: from 1 to 24 December, a new football puzzle opens behind a door every day. Translate \"advent calendar\" with the usual word for a Christmas countdown calendar with doors.",
       "value": "FotMob Advent Calendar"
