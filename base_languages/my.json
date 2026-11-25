@@ -6889,10 +6889,35 @@
       "english": "Last-minute winner!",
       "value": "နောက်ဆုံးမိနစ် အနိုင်ဂိုး!"
     },
+    "feature stage_beta_joined": {
+      "comment": "Status text on the /beta page when the signed-in user has joined the beta.",
+      "english": "You are in the beta",
+      "value": "သင် ဘီတာတွင် ပါဝင်နေပါသည်"
+    },
+    "feature stage_beta_leave": {
+      "comment": "Button on the /beta page that removes the signed-in user from the beta.",
+      "english": "Leave the beta",
+      "value": "ဘီတာမှ ထွက်ရန်"
+    },
     "feature stage_beta_opt_in": {
       "comment": "Settings menu switch that lets a logged-in user try features that are still in beta.",
       "english": "Join the beta",
       "value": "ဘီတာတွင် ပါဝင်ရန်"
+    },
+    "feature stage_beta_page_description": {
+      "comment": "Text under the heading on the /beta page. Tells the user what the beta is and that beta features can change or stop working.",
+      "english": "Try new features before everyone else. Beta features are not finished. They can change, break or go away.",
+      "value": "လုပ်ဆောင်ချက်အသစ်များကို အခြားသူများထက် အရင် စမ်းသုံးကြည့်ပါ။ ဘီတာလုပ်ဆောင်ချက်များသည် မပြီးပြည့်စုံသေးပါ။ ၎င်းတို့ ပြောင်းလဲနိုင်သည်၊ ချို့ယွင်းနိုင်သည် သို့မဟုတ် ဖယ်ရှားခံရနိုင်သည်။"
+    },
+    "feature stage_beta_page_title": {
+      "comment": "Heading of the /beta page. The page is a full-page invite to join the FotMob web beta.",
+      "english": "FotMob beta",
+      "value": "FotMob ဘီတာ"
+    },
+    "feature stage_beta_sign_in_to_join": {
+      "comment": "Button on the /beta page for a user who is not signed in. It opens sign-in so the user can join the beta.",
+      "english": "Sign in to join the beta",
+      "value": "ဘီတာတွင် ပါဝင်ရန် အကောင့်ဝင်ပါ"
     },
     "feature stage_feature_stage_beta": {
       "comment": "Small label next to a feature that is in beta: new and still being tested with users who joined the beta.",
@@ -6908,6 +6933,21 @@
       "comment": "Small label next to a feature that is only for FotMob+ subscribers. \"Plus\" is the short name of the subscription.",
       "english": "Plus",
       "value": "Plus"
+    },
+    "feature stage_view_as": {
+      "comment": "Label of a switch with three options: Normal, Beta and Internal. Only FotMob staff see it. It selects which features the site shows on this device.",
+      "english": "View the site as",
+      "value": "ဆိုက်ကို ကြည့်ရှုမည့်ပုံစံ"
+    },
+    "feature stage_view_as_description": {
+      "comment": "Help text under the \"View the site as\" switch that only FotMob staff see. \"Normal\" and \"Beta\" are the names of two options in the switch. Use the same words as the option labels.",
+      "english": "Normal and Beta turn off internal features for you on this device.",
+      "value": "ပုံမှန်နှင့် ဘီတာ မုဒ်များသည် ဤစက်ပေါ်တွင် သင့်အတွက် အတွင်းသုံးလုပ်ဆောင်ချက်များကို ပိတ်ပေးသည်။"
+    },
+    "feature stage_view_as_normal": {
+      "comment": "Option in the \"View the site as\" switch that only FotMob staff see. It shows the site as a user who did not join the beta sees it. The other options are Beta and Internal.",
+      "english": "Normal",
+      "value": "ပုံမှန်"
     },
     "ios_Advanced": {
       "comment": "This is used as a header for advanced settings in the settings menu",
