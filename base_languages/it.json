@@ -14126,6 +14126,43 @@
       "english": "%1$@ is the top scorer for %2$@ in %3$@%4$@ season with %5$@ goals",
       "value": "%1$@ è il capocannoniere del %2$@ nella stagione %3$@%4$@ con %5$@ gol"
     },
+    "table position graph_position_graph_games_in_hand": {
+      "comment": "In the table position graph on a match page, next to a team's position, when the team has played fewer matches than most teams at that point of the season. %d is how many matches it is behind. Starts in lowercase, as it follows the team's position.",
+      "english_plurals": {
+        "one": "%d game in hand",
+        "other": "%d games in hand"
+      },
+      "plurals": {
+        "one": "%d partita in meno",
+        "other": "%d partite in meno"
+      }
+    },
+    "table position graph_position_graph_match_number": {
+      "comment": "In the table position graph on a team page: which of the team's league matches of the season a point is for, counted from its first, like \"Match 4\". Not the round or matchday.",
+      "english": "Match %d",
+      "value": "Partita %d"
+    },
+    "table position graph_position_graph_no_games_played": {
+      "comment": "In the table position graph on a match page, next to a team's position, for a point in the season before the team's first match. Starts in lowercase, as it follows the team's position.",
+      "english": "no games played",
+      "value": "nessuna partita giocata"
+    },
+    "table position graph_position_graph_played_more_games": {
+      "comment": "In the table position graph on a match page, next to a team's position, when the team has played more matches than most teams at that point of the season. %d is the number of extra matches. Starts in lowercase, as it follows the team's position.",
+      "english_plurals": {
+        "one": "has played %d more game",
+        "other": "has played %d more games"
+      },
+      "plurals": {
+        "one": "%d partita in più",
+        "other": "%d partite in più"
+      }
+    },
+    "table position graph_position_graph_provisional": {
+      "comment": "In the table position graph: label on the last point when the position can still change, because the round isn't finished. Keep it short.",
+      "english": "Provisional",
+      "value": "Provvisorio"
+    },
     "transfer center_active_filter_age_range": {
       "comment": "Label of an active filter chip in the Transfer Center for the player age filter. %1$d is the minimum and %2$d the maximum age in years, e.g. \"Age 18 – 23\". Keep it short.",
       "english": "Age %1$d – %2$d",
