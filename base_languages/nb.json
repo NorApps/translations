@@ -2816,6 +2816,46 @@
       "english": "%1$@ solved · %2$@ missed · %3$@ not played",
       "value": "%1$@ løst · %2$@ bommet · %3$@ ikke spilt"
     },
+    "associations_breadcrumb": {
+      "comment": "Not shown on screen: read out by screen readers for the row of links at the top of a page that leads back to the pages above it, like FIFA > UEFA > England. Use the usual web term for breadcrumb navigation.",
+      "english": "Breadcrumb",
+      "value": "Brødsmulesti"
+    },
+    "associations_club_competitions": {
+      "comment": "Section title listing the international competitions for clubs that a football confederation like UEFA runs, such as the Champions League. Shown next to national_team_competitions.",
+      "english": "Club competitions",
+      "value": "Klubbturneringer"
+    },
+    "associations_confederations": {
+      "comment": "Title of a card listing FIFA's six continental confederations: UEFA, CONMEBOL, CONCACAF, AFC, CAF and OFC. Followed by the count in brackets.",
+      "english": "Confederations",
+      "value": "Konføderasjoner"
+    },
+    "associations_cups": {
+      "comment": "Section title listing a country's cup competitions, like the FA Cup or the DFB-Pokal, as opposed to its leagues.",
+      "english": "Cups",
+      "value": "Cuper"
+    },
+    "associations_members": {
+      "comment": "Title of a card listing the member countries of a football confederation, like the 55 national associations in UEFA. Followed by the count in brackets.",
+      "english": "Members",
+      "value": "Medlemmer"
+    },
+    "associations_national_team_competitions": {
+      "comment": "Section title listing the international competitions for national teams that a football confederation like UEFA runs, such as the EURO. Shown next to club_competitions.",
+      "english": "National team competitions",
+      "value": "Landslagsturneringer"
+    },
+    "associations_national_teams": {
+      "comment": "Title of a card listing all of a country's national teams: men's, women's, youth and others. Plural of national_team.",
+      "english": "National teams",
+      "value": "Landslag"
+    },
+    "associations_youth_teams": {
+      "comment": "Title of a collapsible section in the national_teams card, listing a country's youth national teams (U21, U19, U17 and so on).",
+      "english": "Youth teams",
+      "value": "Aldersbestemte lag"
+    },
     "common_Attendance": {
       "english": "Attendance",
       "value": "Tilskuere"
@@ -12190,7 +12230,7 @@
       "value": "Åpne kampen"
     },
     "seo_other_competitions": {
-      "comment": "Title for section listing the competitions in the predictor game that the user does not take part in. Shown next to your_competitions. See competitions.",
+      "comment": "Title for section listing the competitions in the predictor game that the user does not take part in. Shown next to your_competitions. See competitions. On web, also the title of a section listing a country's competitions that are neither its leagues nor its cups.",
       "english": "Other competitions",
       "value": "Andre konkurranser"
     },
