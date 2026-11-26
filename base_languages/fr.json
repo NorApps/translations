@@ -10247,6 +10247,62 @@
       "english": "Tap a player to see their passes",
       "value": "Touchez un joueur pour voir ses passes"
     },
+    "player injuries_player_injury_all_seasons": {
+      "comment": "Button at the bottom of the Injuries card on the player profile. Opens the player's injury history for every season.",
+      "english": "All seasons",
+      "value": "Toutes les saisons"
+    },
+    "player injuries_player_injury_career_occurrence": {
+      "comment": "Under the player's current injury, after its start date: how many times the player has had this injury in their career, counting this one. %@ is an ordinal number already formatted for your language by the app (e.g. \"9th\" in English, \"9.\" in German, \"9e\" in French), so write the phrase around it and do not add an ordinal ending yourself.",
+      "english": "%@ in career",
+      "value": "%@ fois en carrière"
+    },
+    "player injuries_player_injury_current": {
+      "comment": "Read out by screen readers on the injury the player is out with right now, in the list of a season's injuries.",
+      "english": "Current injury",
+      "value": "Blessure actuelle"
+    },
+    "player injuries_player_injury_history": {
+      "comment": "Title of the sheet listing every season of a player's injuries, opened from the Injuries card on the player profile.",
+      "english": "Injury history",
+      "value": "Historique des blessures"
+    },
+    "player injuries_player_injury_latest_seasons": {
+      "comment": "Header above the player's most recent seasons in the Injuries card on the player profile.",
+      "english": "Latest seasons",
+      "value": "Dernières saisons"
+    },
+    "player injuries_player_injury_matches_missed": {
+      "comment": "Column header in the player's injury list. Each season row shows how many matches the player missed through injury out of the team's matches that season, e.g. \"7 of 18\". Keep it short. \"Missed\" means absent through injury, not lost.",
+      "english": "Matches missed",
+      "value": "Matchs manqués"
+    },
+    "player injuries_player_injury_most_common": {
+      "comment": "Label above the injury the player has had most often in their career, in the injury history sheet. Refers to an injury.",
+      "english": "Most common",
+      "value": "La plus fréquente"
+    },
+    "player injuries_player_injury_times_plurals": {
+      "comment": "How many times the player has had their most common injury in their career, shown next to the injury name, e.g. \"Muscle injury  9 times\".",
+      "english_plurals": {
+        "one": "%d time",
+        "other": "%d times"
+      },
+      "plurals": {
+        "one": "%d fois",
+        "other": "%d fois"
+      }
+    },
+    "player injuries_state_collapsed": {
+      "comment": "Read out by screen readers on a row that is closed and hiding its details. See \"state_expanded\". A state, not an action.",
+      "english": "Collapsed",
+      "value": "Réduit"
+    },
+    "player injuries_state_expanded": {
+      "comment": "Read out by screen readers on a row that is open and showing its details. See \"state_collapsed\". A state, not an action.",
+      "english": "Expanded",
+      "value": "Développé"
+    },
     "players abroad_give_feedback": {
       "comment": "Link that opens a short survey where users can tell us what they think of a feature.",
       "english": "Give feedback",
