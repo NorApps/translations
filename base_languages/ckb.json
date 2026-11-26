@@ -2593,12 +2593,12 @@
     "advent calendar_advent_calendar": {
       "comment": "Short name of the football advent calendar on fotmob.com, used as a link label in the site menu and footer. Same as advent_calendar_title without \"FotMob\"; keep it short.",
       "english": "Advent Calendar",
-      "value": "ساڵنامەی ئێدوێنت"
+      "value": "ڕۆژژمێری کریسمس"
     },
     "advent calendar_advent_calendar_title": {
       "comment": "Name and heading of a football advent calendar on fotmob.com: from 1 to 24 December, a new football puzzle opens behind a door every day. Translate \"advent calendar\" with the usual word for a Christmas countdown calendar with doors.",
       "english": "FotMob Advent Calendar",
-      "value": "ساڵنامەی ئێدوێنتی FotMob"
+      "value": "ڕۆژژمێری جەژنی کریسمس"
     },
     "advent calendar_advent_competition": {
       "comment": "Label of a match fact under a lineup: the league or cup the match was played in.",
@@ -2612,8 +2612,8 @@
         "other": "%d days to go"
       },
       "plurals": {
-        "one": "%d ڕۆژ ماوە",
-        "other": "%d ڕۆژ ماون"
+        "one": "%d ڕۆژی ماوە",
+        "other": "%d ڕۆژی ماوە"
       }
     },
     "advent calendar_advent_difficulty_medium": {
@@ -2629,7 +2629,7 @@
     "advent calendar_advent_door_by_door": {
       "comment": "Button that expands a list of every advent calendar door and how the user did on each.",
       "english": "Door by door",
-      "value": "دەرگاکان یەک بە یەک"
+      "value": "دەرگا بە دەرگا"
     },
     "advent calendar_advent_door_not_ready": {
       "comment": "Shown in the advent calendar when the day's puzzle could not be loaded. See advent_door for context.",
@@ -2649,7 +2649,7 @@
     "advent calendar_advent_doors_opened": {
       "comment": "Progress above the advent calendar's doors, where %1$@ is how many doors the user has played and %2$@ is how many doors are open so far (1 to 24).",
       "english": "%1$@ of %2$@ doors opened",
-      "value": "%1$@ لە %2$@ دەرگا کراونەوە"
+      "value": "%1$@ لە %2$@ دەرگا کراوەتەوە"
     },
     "advent calendar_advent_first_door_opens": {
       "comment": "Heading shown before December, when no door of the football advent calendar is open yet. Use the local way of writing the date.",
@@ -2659,12 +2659,12 @@
     "advent calendar_advent_guess_club": {
       "comment": "Label and placeholder of the search box in a game where the user guesses a club from its lineup.",
       "english": "Guess the club",
-      "value": "یانەکە حدس بکە"
+      "value": "یانەکە بدۆزەوە"
     },
     "advent calendar_advent_guess_country": {
       "comment": "Label and placeholder of the search box in a game where the user guesses a national team from its lineup.",
       "english": "Guess the country",
-      "value": "وڵاتەکە حدس بکە"
+      "value": "وڵاتەکە بدۆزەوە"
     },
     "advent calendar_advent_hide_doors": {
       "comment": "Button that collapses the advent calendar's grid of 24 doors.",
@@ -2674,7 +2674,7 @@
     "advent calendar_advent_hint_club_lineup": {
       "comment": "First hint in a game where the user guesses a club from its starting lineup. \"XI\" means the eleven players who started.",
       "english": "Their starting XI in a classic match. Flags show each player's nationality.",
-      "value": "یازدەی سەرەتاییان لە یارییەکی کلاسیک. ئاڵاکان نەتەوەیەتیی هەر یاریزانێک پیشان دەدەن."
+      "value": "پێکهاتەی سەرەکییان لە یارییەکی کلاسیک. ئاڵاکان نەتەوەی هەر یاریزانێک پیشان دەدەن."
     },
     "advent calendar_advent_hint_clubs": {
       "comment": "Short name of a hint in a football guessing game: the crests of the clubs. One word if possible.",
@@ -2694,7 +2694,7 @@
     "advent calendar_advent_hint_nation_lineup": {
       "comment": "First hint in a game where the user guesses a national team from its starting lineup. \"XI\" means the eleven players who started.",
       "english": "Their starting XI in a classic match. Badges show each player's club at the time.",
-      "value": "یازدەی بنچینەییان لە یارییەکی کلاسیک. نیشانەکان یانەی هەر یاریزان لەو کاتەدا پیشان دەدەن."
+      "value": "پێکهاتەی سەرەکی لە یاریەکی کلاسیک. نیشانەکان یانەی هەر یاریزانێک لەو کاتەدا پیشان دەدەن."
     },
     "advent calendar_advent_hint_nations": {
       "comment": "Short name of a hint in a football guessing game: flags showing the players' (or clubs') countries. One word if possible.",
@@ -2709,17 +2709,17 @@
     "advent calendar_advent_hint_numbers_caption": {
       "comment": "Fourth hint in a lineup guessing game: the players' shirt numbers now show on the pitch.",
       "english": "Shirt numbers, on the pitch.",
-      "value": "ژمارەکانی جل، لە ناو یاریگادە."
+      "value": "ژمارەی درێسەکان، لە ناو یاریگادا."
     },
     "advent calendar_advent_hint_recent_lineup": {
       "comment": "First hint in a game where the user guesses a club from the lineup it used in its most recent match. \"XI\" means the eleven players who started.",
       "english": "Their last starting XI. Flags show each player's nationality.",
-      "value": "یازدەی سەرەکیی دوایینیان. ئاڵاکان ڕەگەزی نیشتیمانی هەر یاریزان پیشان دەدەن."
+      "value": "دواین پێکهاتەی سەرەکی. ئاڵاکان نەتەوەی هەر یاریزانێک پیشان دەدەن."
     },
     "advent calendar_advent_hint_result_caption": {
       "comment": "Third hint in a lineup guessing game: the match facts below the pitch now show the opponent and the score.",
       "english": "Who they played and the score, below.",
-      "value": "کێیان بەرامبەر یارییان کرد و سکۆر، لە خوارەوە."
+      "value": "یانەی بەرامبەر و ئەنجامی یارییەکە، لە خوارەوە."
     },
     "advent calendar_advent_hint_star": {
       "comment": "Short name of the last hint in a lineup guessing game: the name of the team's star player. One word if possible.",
@@ -2729,17 +2729,17 @@
     "advent calendar_advent_hint_star_caption": {
       "comment": "Fifth and last hint in a lineup guessing game: one player's name now shows on the pitch.",
       "english": "Last hint: one player's name, on the pitch.",
-      "value": "ڕێنمایی کۆتایی: ناوی یەک یاریزان لەسەر یاریگایەکە."
+      "value": "یارمەتی کۆتایی: ناوی یەک یاریزان لەناو یاریگادا."
     },
     "advent calendar_advent_merry_christmas": {
       "comment": "Heading of the summary shown after the user finishes the advent calendar's last door on 24 December.",
       "english": "Merry Christmas!",
-      "value": "کریسمس پیرۆز!"
+      "value": "کریسمست پیرۆز!"
     },
     "advent calendar_advent_meta_description": {
       "comment": "Search engine description of the football advent calendar page. See advent_calendar_title for context.",
       "english": "A football advent calendar. Open a door every day until Christmas and guess the player or the team behind it.",
-      "value": "ساڵنامەی ئەدوێنتی فۆتبۆڵ. هەر ڕۆژێک تا کریسمس دەرگایەک بکەرەوە و بازیکن یان تیمەکەی پشتیدا حدس بدە."
+      "value": "ڕۆژژمێری کریسمسی تۆپی پێ. هەر ڕۆژێک تا کریسمس دەرگایەک بکەرەوە و یاریزان یان یانەکەی پشت دەرگاکە بدۆزەوە."
     },
     "advent calendar_advent_missed": {
       "comment": "How the user did on one advent calendar door: they did not guess the answer.",
@@ -2749,47 +2749,47 @@
     "advent calendar_advent_mode_baller": {
       "comment": "Name of a guessing game: the user sees hints about a football player and guesses who it is. \"Baller\" is slang for a footballer; keep it short and playful.",
       "english": "Guess the Baller",
-      "value": "یاریزانەکە حدس بکە"
+      "value": "یاریزانەکە بدۆزەوە"
     },
     "advent calendar_advent_mode_club": {
       "comment": "Heading of a guessing game in the advent calendar: the user sees a club's starting lineup from a classic match and guesses which club it is.",
       "english": "Guess the club team",
-      "value": "ناوی کڵووبەکە حدس بکە"
+      "value": "یانەکە بدۆزەوە"
     },
     "advent calendar_advent_mode_nation": {
       "comment": "Heading of a guessing game in the advent calendar: the user sees a national team's starting lineup from a classic match and guesses which country it is.",
       "english": "Guess the national team",
-      "value": "تیمی نیشتیمانی حدس بکە"
+      "value": "هەڵبژاردەکە بدۆزەوە"
     },
     "advent calendar_advent_mode_recent": {
       "comment": "Heading of a guessing game in the advent calendar: the user sees the starting lineup a club used in its most recent match and guesses which club it is. \"XI\" means the eleven players who started.",
       "english": "Last starting XI (guess the club team)",
-      "value": "دوایین یازدەی سەرەتاوی (یانەکە حدس بکە)"
+      "value": "دواین پێکهاتەی سەرەکی (یانەکە بدۆزەوە)"
     },
     "advent calendar_advent_not_played": {
       "comment": "How the user did on one advent calendar door: they never played it.",
       "english": "Not played",
-      "value": "یاری نەکرا"
+      "value": "یاری نەکراوە"
     },
     "advent calendar_advent_opens_tomorrow": {
       "comment": "Countdown before the advent calendar starts, shown the day before 1 December.",
       "english": "Opens tomorrow",
-      "value": "سبەینێ دەکرێتەوە"
+      "value": "سبەی دەکرێتەوە"
     },
     "advent calendar_advent_page_title": {
       "comment": "Browser tab and search result title of the football advent calendar page. See advent_calendar_title for context.",
       "english": "FotMob Advent Calendar: a football puzzle behind every door",
-      "value": "ساڵنامەی ئێدوێنتی FotMob: پازلێکی فوتبۆڵ لە پشت هەر دەرگایەک"
+      "value": "ڕۆژژمێری جەژنی کریسمس: مەتەڵێکی تۆپی پێ لە پشت هەر دەرگایەک"
     },
     "advent calendar_advent_penalty_score": {
       "comment": "Penalty shoot-out score shown after a match score, e.g. \"1–1 (4–3 pens)\", where %@ is the shoot-out score. Use the short form your football media use.",
       "english": "(%@ pens)",
-      "value": "(%@ پن.)"
+      "value": "(%@ لێدانی سزا)"
     },
     "advent calendar_advent_share_title": {
       "comment": "First line of the result the user shares after playing a door, where %1$@ is the door (1 to 24) and %2$@ is always 24. Keep the emoji.",
       "english": "FotMob Advent Calendar 🎄 Door %1$@/%2$@",
-      "value": "ساڵنامەی ئێدوێنتی FotMob 🎄 دەرگا %1$@/%2$@"
+      "value": "ڕۆژژمێری جەژنی کریسمس 🎄 دەرگای %1$@/%2$@"
     },
     "advent calendar_advent_show_doors": {
       "comment": "Button that expands the advent calendar's grid of 24 doors.",
@@ -2803,29 +2803,29 @@
         "other": "%d hints"
       },
       "plurals": {
-        "one": "%d ئاماژە",
-        "other": "%d ئاماژە"
+        "one": "%d یارمەتی",
+        "other": "%d یارمەتی"
       }
     },
     "advent calendar_advent_summary_solved": {
       "comment": "Summary after the last door of the advent calendar, where %1$@ is how many puzzles the user solved and %2$@ is always 24.",
       "english": "You solved %1$@ of %2$@ doors.",
-      "value": "تۆ %1$@ لە کۆی %2$@ دەرگاکان چارەسەرت کرد."
+      "value": "تۆ %1$@ لە کۆی %2$@ دەرگات چارەسەر کرد."
     },
     "advent calendar_advent_summary_solved_average": {
       "comment": "Summary after the last door of the advent calendar, where %1$@ is how many puzzles the user solved, %2$@ is always 24 and %3$@ is the average number of hints they needed, with one decimal (e.g. 2.4).",
       "english": "You solved %1$@ of %2$@ doors, with %3$@ hints on average.",
-      "value": "تۆ %1$@ لە کۆی %2$@ دەرگا چارەسەر کردووە، بە تێکڕای %3$@ ئاماژە."
+      "value": "تۆ %1$@ لە کۆی %2$@ دەرگات چارەسەر کردووە، بە تێکڕای %3$@ یارمەتی."
     },
     "advent calendar_advent_summary_tally": {
       "comment": "Short tally under the advent calendar summary: how many of the 24 puzzles the user solved, failed and did not play. Keep the dots between the parts.",
       "english": "%1$@ solved · %2$@ missed · %3$@ not played",
-      "value": "%1$@ چارەسەرکراو · %2$@ لەدەستچوو · %3$@ نەیاری‌کراو"
+      "value": "%1$@ چارەسەرکراو · %2$@ لەدەستچوو · %3$@ یاری نەکراوە"
     },
     "associations_breadcrumb": {
       "comment": "Not shown on screen: read out by screen readers for the row of links at the top of a page that leads back to the pages above it, like FIFA > UEFA > England. Use the usual web term for breadcrumb navigation.",
       "english": "Breadcrumb",
-      "value": "ڕێڕەوی گەشتکردن"
+      "value": "ڕێڕەوی پەڕە"
     },
     "associations_club_competitions": {
       "comment": "Section title listing the international competitions for clubs that a football confederation like UEFA runs, such as the Champions League. Shown next to national_team_competitions.",
@@ -2850,17 +2850,17 @@
     "associations_national_team_competitions": {
       "comment": "Section title listing the international competitions for national teams that a football confederation like UEFA runs, such as the EURO. Shown next to club_competitions.",
       "english": "National team competitions",
-      "value": "پاڵەوانێتییەکانی هەڵبژاردە نیشتیمانییەکان"
+      "value": "پاڵەوانێتییەکانی هەڵبژاردەکان"
     },
     "associations_national_teams": {
       "comment": "Title of a card listing all of a country's national teams: men's, women's, youth and others. Plural of national_team.",
       "english": "National teams",
-      "value": "هەڵبژاردە نیشتیمانییەکان"
+      "value": "هەڵبژاردەکان"
     },
     "associations_youth_teams": {
       "comment": "Title of a collapsible section in the national_teams card, listing a country's youth national teams (U21, U19, U17 and so on).",
       "english": "Youth teams",
-      "value": "تیمەکانی لاوان"
+      "value": "هەڵبژاردەکانی لاوان"
     },
     "common_Attendance": {
       "english": "Attendance",
@@ -6828,37 +6828,37 @@
     "daily baller_daily_baller_give_up": {
       "comment": "Button on the last hint of a guessing game that ends the game and shows the answer.",
       "english": "Give up",
-      "value": "دەستبەداربە"
+      "value": "وازهێنان"
     },
     "daily baller_daily_baller_got_it_on_hint": {
       "comment": "Shown after the user guesses right in a guessing game, where %1$@ is the hint they needed and %2$@ is always 5.",
       "english": "You got it on hint %1$@ of %2$@",
-      "value": "بە ئاماژەی %1$@ لە %2$@دا دۆزیتەوە"
+      "value": "بە یارمەتی %1$@ لە %2$@دا دۆزیتەوە"
     },
     "daily baller_daily_baller_guess_player": {
       "comment": "Label and placeholder of the search box in a football guessing game where the user guesses a player from hints.",
       "english": "Guess the player",
-      "value": "یاریزانەکە حدس بکە"
+      "value": "یاریزانەکە بدۆزەوە"
     },
     "daily baller_daily_baller_hint_bio": {
       "comment": "Short name of a hint in a game where the user guesses a football player: their country, age and position. One word if possible.",
       "english": "Bio",
-      "value": "بایۆ"
+      "value": "ژیاننامە"
     },
     "daily baller_daily_baller_hint_bio_caption": {
       "comment": "Fourth hint in a game where the user guesses a football player: their country, age and position now show below the graph.",
       "english": "Their country, age and position, below.",
-      "value": "وڵات، تەمەن و پۆستەکەیان، لە خوارەوە."
+      "value": "وڵات، تەمەن و پێگەکەیان، لە خوارەوە."
     },
     "daily baller_daily_baller_hint_clubs_caption": {
       "comment": "Third hint in a game where the user guesses a football player: the graph now shows each club's crest.",
       "english": "Club crests, on the graph.",
-      "value": "نشانەکانی یانەکان لەسەر نمودار."
+      "value": "دروشمی یانەکان، لەسەر هێڵکاریەکە."
     },
     "daily baller_daily_baller_hint_face_caption": {
       "comment": "Fifth and last hint in a game where the user guesses a football player: their photo now shows.",
       "english": "Last hint: face reveal.",
-      "value": "ئامۆژگاری کۆتایی: وێنەکە ئاشکرا بوو."
+      "value": "یارمەتی کۆتایی: ئاشکراکردنی ڕووخسار."
     },
     "daily baller_daily_baller_hint_face_reveal": {
       "comment": "Short name of the last hint in a game where the user guesses a football player: their photo is shown.",
@@ -6868,57 +6868,57 @@
     "daily baller_daily_baller_hint_market_value_caption": {
       "comment": "First hint in a game where the user guesses a football player: a graph of the player's market value over their career, with a flag for each club's country.",
       "english": "Their market value over the years. Flags mark each club's nation.",
-      "value": "نرخە بازاڕییان لە ماوەی ساڵاندا. ئاڵاکان وڵاتی هەر یانەیەک نیشان دەدەن."
+      "value": "بەهای بازاڕ بە درێژایی ساڵەکان. ئاڵاکان وڵاتی هەر یانەیەک پیشان دەدەن."
     },
     "daily baller_daily_baller_hint_of": {
       "comment": "Label in front of the current hint in a football guessing game, where %1$@ is the hint number and %2$@ is always 5.",
       "english": "Hint %1$@ of %2$@",
-      "value": "ئاماژە %1$@ لە %2$@"
+      "value": "یارمەتی %1$@ لە %2$@"
     },
     "daily baller_daily_baller_hint_values": {
       "comment": "Short name of a hint in a game where the user guesses a football player: the player's market values. One word if possible.",
       "english": "Values",
-      "value": "بەهای بازاڕی"
+      "value": "بەهای بازاڕ"
     },
     "daily baller_daily_baller_hint_values_caption": {
       "comment": "Second hint in a game where the user guesses a football player: the graph now shows each club's colours and the player's highest market value.",
       "english": "Club colours and their peak value, on the graph.",
-      "value": "ڕەنگەکانی یانەکان و بەرزترین نرخ، لەسەر گراف."
+      "value": "ڕەنگەکانی یانەکان و بەرزترین بەهایان، لەسەر هێڵکاریەکە."
     },
     "daily baller_daily_baller_next_hint": {
       "comment": "Button in a guessing game that skips the current hint and shows the next one.",
       "english": "Next hint",
-      "value": "ئاماژەی داهاتوو"
+      "value": "یارمەتی داهاتوو"
     },
     "daily baller_daily_baller_off_the_post": {
       "comment": "Headline when the user fails to guess the answer in a football guessing game, like a shot that hits the post and misses.",
       "english": "Off the post",
-      "value": "کەوت بە تیرک"
+      "value": "دای لە ستوونی گۆڵ"
     },
     "daily baller_daily_baller_peak_value": {
       "comment": "Label of a football player's highest market value in their career.",
       "english": "Peak value",
-      "value": "بەهای بازاڕی لوتکە"
+      "value": "لوتکەی بەهای بازاڕ"
     },
     "daily baller_daily_baller_searching": {
       "comment": "Shown while the search box in a guessing game looks for matching players or teams.",
       "english": "Searching…",
-      "value": "لە گەڕاندا…"
+      "value": "دەگەڕێت..."
     },
     "daily baller_daily_baller_share_result": {
       "comment": "Button that shares the user's result in a guessing game.",
       "english": "Share result",
-      "value": "ئەنجام هاوبەش بکە"
+      "value": "بڵاوکردنەوەی ئەنجام"
     },
     "daily baller_daily_baller_skipped": {
       "comment": "Shown in place of a guess when the user skipped a hint in a guessing game.",
       "english": "Skipped",
-      "value": "تێپەڕێندراو"
+      "value": "تێپەڕێندراوە"
     },
     "daily baller_daily_baller_the_player_was": {
       "comment": "Shown before the answer's name after the user fails a guessing game from an earlier day.",
       "english": "The player was",
-      "value": "یاریزانەکە بوو:"
+      "value": "یاریزانەکە بریتی بوو لە:"
     },
     "daily baller_daily_baller_todays_player_was": {
       "comment": "Shown before the answer's name after the user fails today's guessing game.",
@@ -6928,12 +6928,12 @@
     "daily baller_daily_baller_values_before_2015": {
       "comment": "Note under a graph of a football player's market value over their career, when their career started before 2015.",
       "english": "Market values before 2015 aren't included",
-      "value": "نرخە بازاڕی پێش 2015 لەخۆناگیرێت"
+      "value": "بەهای بازاڕی پێش ساڵی 2015 لەخۆناگیرێت"
     },
     "daily baller_daily_baller_win_hint_1": {
       "comment": "Celebration when the user guesses right on the first hint of a football guessing game. \"Top bins\" is football slang for a shot into the top corner; use a similar football expression for a perfect shot.",
       "english": "Top bins!",
-      "value": "لە گووشەی سەرەوەی گۆڵ!"
+      "value": "گۆشەی 90!"
     },
     "daily baller_daily_baller_win_hint_2": {
       "comment": "Celebration when the user guesses right on the second of five hints in a football guessing game.",
@@ -6943,37 +6943,37 @@
     "daily baller_daily_baller_win_hint_3": {
       "comment": "Celebration when the user guesses right on the third of five hints in a football guessing game. \"Finish\" means a shot that scores.",
       "english": "Great finish!",
-      "value": "تەواوکردنێکی زۆر باش!"
+      "value": "تەواوکردنێکی نایاب!"
     },
     "daily baller_daily_baller_win_hint_4": {
       "comment": "Celebration when the user guesses right on the fourth of five hints in a football guessing game. \"Finish\" means a shot that scores; \"tidy\" means neat.",
       "english": "Tidy finish!",
-      "value": "تەواوکارییەکی خاوێن!"
+      "value": "تەواوکردنێکی بێگەرد!"
     },
     "daily baller_daily_baller_win_hint_5": {
       "comment": "Celebration when the user guesses right on the fifth and last hint of a football guessing game, like a goal scored in the last minute.",
       "english": "Last-minute winner!",
-      "value": "گۆڵی بردن لە خولەکی کۆتایی!"
+      "value": "لە کۆتاییدا گەڕایەوە!"
     },
     "feature stage_beta_joined": {
       "comment": "Status text on the /beta page when the signed-in user has joined the beta.",
       "english": "You are in the beta",
-      "value": "تۆ بەشداری تاقیکاریت کردووە"
+      "value": "بەشداری وەشانی تاقیکاریت کردووە"
     },
     "feature stage_beta_leave": {
       "comment": "Button on the /beta page that removes the signed-in user from the beta.",
       "english": "Leave the beta",
-      "value": "جێهێشتنی تاقیکاری"
+      "value": "جێهێشتنی وەشانی تاقیکاری"
     },
     "feature stage_beta_opt_in": {
       "comment": "Settings menu switch that lets a logged-in user try features that are still in beta.",
       "english": "Join the beta",
-      "value": "بەشداربوون لە تاقیکاری"
+      "value": "بەشداریکردن لە وەشانی تاقیکاری"
     },
     "feature stage_beta_page_description": {
       "comment": "Text under the heading on the /beta page. Tells the user what the beta is and that beta features can change or stop working.",
       "english": "Try new features before everyone else. Beta features are not finished. They can change, break or go away.",
-      "value": "تایبەتمەندییە نوێیەکان پێش هەمووان تاقی بکەرەوە. تایبەتمەندییە تاقیکارییەکان تەواو نەبوون. لەوانەیە بگۆڕێن، تێکبچن یان لاببرێن."
+      "value": "تایبەتمەندیە نوێیەکان پێش هەمووان تاقی بکەرەوە. تایبەتمەندیە تاقیکاریەکان تەواو نەبوون. لەوانەیە بگۆڕێن، تێکبچن یان لاببرێن."
     },
     "feature stage_beta_page_title": {
       "comment": "Heading of the /beta page. The page is a full-page invite to join the FotMob web beta.",
@@ -6983,7 +6983,7 @@
     "feature stage_beta_sign_in_to_join": {
       "comment": "Button on the /beta page for a user who is not signed in. It opens sign-in so the user can join the beta.",
       "english": "Sign in to join the beta",
-      "value": "بچۆ ژوورەوە بۆ بەشداربوون لە تاقیکاری"
+      "value": "بچۆ ژوورەوە بۆ بەشداریکردن لە وەشانی تاقیکاری"
     },
     "feature stage_feature_stage_beta": {
       "comment": "Small label next to a feature that is in beta: new and still being tested with users who joined the beta.",
@@ -10132,7 +10132,7 @@
     "pass map_feature_feedback_thanks": {
       "comment": "Shown on a feature feedback card after the rating and comment were sent, just before the card hides. See thank_you_for_your_feedback.",
       "english": "Thanks for the feedback",
-      "value": "سوپاس بۆ فیدباکەکەت"
+      "value": "سوپاس بۆ ڕاوبۆچوونت"
     },
     "pass map_feature_feedback_useful": {
       "comment": "Button on a feature feedback card (for example under the pass network). The user taps it to rate the feature as useful. Keep it short; it sits next to feature_feedback_not_useful.",
@@ -10271,7 +10271,7 @@
     "pulse admin_add_pulse_item": {
       "comment": "Heading of the card in Pulse Admin where the editor creates a new item (poll, take, image, stat graphic or call to action) for the live match commentary. Do not translate the pulse part.",
       "english": "Add pulse item",
-      "value": "ئایتمی Pulse زیاد بکە"
+      "value": "بابەتی Pulse زیاد بکە"
     },
     "pulse admin_add_to_draft": {
       "comment": "Button in the full screen photo view in Pulse Admin that adds the photo to the image item the editor is creating.",
@@ -10306,7 +10306,7 @@
     "pulse admin_generating_preview": {
       "comment": "Screen reader text in Pulse Admin while the stat graphic image is being created.",
       "english": "Generating preview...",
-      "value": "دروستکردنی پێشبینین…"
+      "value": "بینینی پێشوەختە دروست دەکرێت..."
     },
     "pulse admin_image_unavailable": {
       "comment": "Shown in Pulse Admin in place of a photo thumbnail that could not be loaded.",
@@ -10351,12 +10351,12 @@
     "pulse admin_paste": {
       "comment": "Button text for a button in a text area field that pastes copied text from the clipboard into the field. Keep it short.",
       "english": "Paste",
-      "value": "لکاندنەوە"
+      "value": "لکاندن"
     },
     "pulse admin_player_search_placeholder": {
       "comment": "Placeholder of the player search in the Pulse Admin stat graphic form. Players can be found by name or by their position, e.g. \"Keeper\".",
       "english": "Search by name or position...",
-      "value": "بە ناو یان پۆست بگەڕێ…"
+      "value": "بە ناو یان پێگە بگەڕێ…"
     },
     "pulse admin_poll_add_alternative": {
       "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll has no answer options (alternatives). See alternative_label.",
@@ -10381,12 +10381,12 @@
     "pulse admin_poll_hide_result_view": {
       "comment": "Button below a poll preview in Pulse Admin that switches back from showing the poll results to showing the answer options.",
       "english": "Hide result view",
-      "value": "شاردنەوەی پیشاندانی ئەنجامەکان"
+      "value": "شاردنەوەی دیمەنی ئەنجامەکان"
     },
     "pulse admin_poll_no_lineup": {
       "comment": "Shown in the player search in Pulse Admin when the lineups of both teams in the match are not available yet, so no players can be suggested.",
       "english": "No lineup available for this match, but you can search for the players if you know their names.",
-      "value": "هیچ ڕیزکردنەوەی یاریزان بۆ ئەم یارییە بەردەست نییە، بەڵام دەتوانیت یاریزانەکان بگەڕێیت ئەگەر ناویان دەزانیت."
+      "value": "هیچ پێکهاتەیەک بۆ ئەم یارییە بەردەست نییە، بەڵام ئەگەر ناوی یاریزانەکان دەزانیت، دەتوانیت بەدوایاندا بگەڕێیت."
     },
     "pulse admin_poll_question_missing": {
       "comment": "Error shown at the top of the poll preview in Pulse Admin when the poll question has been left empty. See question_label.",
@@ -10396,17 +10396,17 @@
     "pulse admin_poll_see_result_view": {
       "comment": "Button below a poll preview in Pulse Admin that switches the preview to show how the poll results will look after people have voted.",
       "english": "See result view",
-      "value": "پیشاندانی ئەنجامەکان ببینە"
+      "value": "بینینی دیمەنی ئەنجامەکان"
     },
     "pulse admin_poll_squad_tab_hint": {
       "comment": "Hint in Pulse Admin shown after \"No lineup available for this match…\". The squad tab is the tab on a team's page in FotMob that lists all its players.",
       "english": "(Open the squad tab on the team page to see the members of the team.)",
-      "value": "(لە پەڕەی تیمدا تابێکی «سکواد» بکەرەوە بۆ ئەوەی ئەندامانی تیم ببینیت.)"
+      "value": "(لە پەڕەی یانەکەدا بەشی «لیستی یاریزانان» بکەرەوە بۆ بینینی یاریزانەکان.)"
     },
     "pulse admin_preview_failed": {
       "comment": "Shown in Pulse Admin when the stat graphic image could not be created for the chosen stat type.",
       "english": "Could not generate the preview.",
-      "value": "نەیتوانرا پێشبینین دروست بکات."
+      "value": "ناتوانرێت بینینی پێشوەختە دروست بکرێت."
     },
     "pulse admin_previous_image": {
       "comment": "Screen reader label of the button (left arrow key) in the full screen photo view in Pulse Admin that shows the previous photo.",
@@ -10416,7 +10416,7 @@
     "pulse admin_publishing": {
       "comment": "Shown on the Publish button and in a notification in Pulse Admin while an item is being published to the live match commentary. See publish.",
       "english": "Publishing...",
-      "value": "لە حالەتی بڵاوکردنەوە…"
+      "value": "بڵاو دەکرێتەوە…"
     },
     "pulse admin_pulse_add_image_hint": {
       "comment": "Tooltip on the disabled Publish button in Pulse Admin when the image item has no image yet.",
@@ -10436,12 +10436,12 @@
     "pulse admin_pulse_could_not_delete_item": {
       "comment": "Error notification in Pulse Admin when an item could not be deleted from the live match commentary.",
       "english": "Could not delete the item",
-      "value": "نەتوانرا ماددەکە بسڕدرێتەوە"
+      "value": "نەتوانرا بابەتەکە بسڕدرێتەوە"
     },
     "pulse admin_pulse_editing_published_item": {
       "comment": "Heading above the preview in Pulse Admin while the editor changes an item that is already published in the live match commentary.",
       "english": "Editing published item",
-      "value": "دەستکاریکردنی بڕگەی بڵاوکراوە"
+      "value": "دەستکاریکردنی بابەتی بڵاوکراوە"
     },
     "pulse admin_pulse_fill_required_fields": {
       "comment": "Tooltip on the disabled Publish button in Pulse Admin when a required field of a stat graphic is empty.",
@@ -10466,7 +10466,7 @@
     "pulse admin_pulse_item_moved": {
       "comment": "Notification in Pulse Admin when an item has been moved to another place in the live match commentary.",
       "english": "Item moved",
-      "value": "ئایتم گواسترایەوە"
+      "value": "بابەت گواسترایەوە"
     },
     "pulse admin_pulse_item_type_stat": {
       "comment": "Button in Pulse Admin for creating a stat graphic item: an image with match statistics that is added to the live match commentary. Shown next to the buttons Take, Poll, Image and CTA. Keep it short, a single word if possible.",
@@ -10481,32 +10481,32 @@
     "pulse admin_pulse_move_failed": {
       "comment": "Error notification in Pulse Admin when an item could not be moved to another place in the live match commentary.",
       "english": "Could not move the item",
-      "value": "نەیتوانرا بڕگەکە بگوازێتەوە"
+      "value": "نەتوانرا بابەتەکە بگوازرێتەوە"
     },
     "pulse admin_pulse_move_here": {
       "comment": "Button shown between the messages in the live match commentary in Pulse Admin while an item is being moved. Places the item at that spot. See pulse_move. See pulse_cancel_move.",
       "english": "Move here",
-      "value": "لێرە دابنێ"
+      "value": "لێرە دایبنێ"
     },
     "pulse admin_pulse_move_here_after_minute": {
       "comment": "Button shown between the messages in the live match commentary in Pulse Admin while an item is being moved. Places the item after the message above. %@ is the match minute of that message, e.g. \"67'\" or \"45+2'\". See pulse_move_here.",
       "english": "Move here, after %@",
-      "value": "لێرە دابنێ، دوای %@"
+      "value": "لێرە دایبنێ، دوای %@"
     },
     "pulse admin_pulse_move_instructions": {
       "comment": "Instruction shown in Pulse Admin while an item is being moved. \"Move here\" must match the translation of pulse_move_here. See pulse_move_here.",
       "english": "Choose “Move here” in the feed to place the item.",
-      "value": "لە فیددا «لێرە دابنێ» هەڵبژێرە بۆ دانانی ئایتمەکە."
+      "value": "لە بەشی بێژەریدا «لێرە دایبنێ» هەڵبژێرە بۆ دانانی بابەتەکە."
     },
     "pulse admin_pulse_moving": {
       "comment": "Notification in Pulse Admin while an item is being moved to another place in the live match commentary. See pulse_item_moved. See pulse_move_failed.",
       "english": "Moving...",
-      "value": "لە گواستنەوەدایە…"
+      "value": "دەگوازرێتەوە..."
     },
     "pulse admin_pulse_needs_commentary_feed": {
       "comment": "Shown in Pulse Admin when there is no live commentary feed available yet for the match.",
       "english": "Pulse can be turned on once a commentary feed is available for this match.",
-      "value": "Pulse دەتوانرێت چالاک بکرێت کاتێک فیدی کۆمێنتاری ڕاستەوخۆ بۆ ئەم یارییە بەردەست بێت."
+      "value": "دەتوانرێت Pulse چالاک بکرێت کاتێک بێژەریی ڕاستەوخۆ بۆ ئەم یارییە بەردەست دەبێت."
     },
     "pulse admin_pulse_no_match_selected": {
       "comment": "Shown in Pulse Admin when the editor has not picked a match yet.",
@@ -10526,37 +10526,37 @@
     "pulse admin_pulse_only_visible_to_you": {
       "comment": "Shown in Pulse Admin next to the heading of an item preview, telling the editor that the preview is not published and that only they can see it. Keep it short.",
       "english": "Only visible to you",
-      "value": "تەنها بۆ تۆ بینراوە"
+      "value": "تەنها لای تۆ دەردەکەوێت"
     },
     "pulse admin_pulse_preview": {
       "comment": "Heading above previews in Pulse Admin: the item being created, shown as it will look in the live match commentary, and a photo shown full screen. Not a match preview.",
       "english": "Preview",
-      "value": "پێشبینین"
+      "value": "بینینی پێشوەخت"
     },
     "pulse admin_pulse_publish_failed": {
       "comment": "Error notification in Pulse Admin when an item could not be published to the live match commentary.",
       "english": "Could not publish the item",
-      "value": "نەتوانرا دانەکە بڵاو بکرێتەوە"
+      "value": "نەتوانرا بابەتەکە بڵاو بکرێتەوە"
     },
     "pulse admin_pulse_replace_item_draft": {
       "comment": "Confirm dialog in Pulse Admin when the editor starts changing a published pulse item while already writing a new one of the same type.",
       "english": "If you start to edit this item, your current draft will be discarded.",
-      "value": "ئەگەر دەست بکەیت بە دەستکاریکردنی ئەم بڕگەیە، ڕەشنووسی ئێستات فڕێدەدرێت."
+      "value": "ئەگەر دەست بکەیت بە دەستکاریکردنی ئەم بابەتە، ڕەشنووسی ئێستات فڕێدەدرێت."
     },
     "pulse admin_pulse_replace_with_imago_image": {
       "comment": "Confirm dialog in Pulse Admin when the editor picks a photo from the photo agency IMAGO while already making an image item. Keep IMAGO as is.",
       "english": "The current image draft will be replaced by the IMAGO image.",
-      "value": "پێش‌نوسینی ئێستای وێنە بە وێنەی IMAGO جێگزین دەکرێت."
+      "value": "ڕەشنووسی ئێستای وێنەکە بە وێنەی IMAGO دەگۆڕدرێت."
     },
     "pulse admin_pulse_replace_with_suggested_poll": {
       "comment": "Confirm dialog in Pulse Admin when the editor starts editing an automatically suggested poll while already writing a poll of their own. See suggested_poll.",
       "english": "Your poll draft will be replaced by the suggested poll.",
-      "value": "پێش‌نووسی ڕاپرسیی ئێستا بە ڕاپرسیی پێشنیارکراو جێگزین دەکرێت."
+      "value": "ڕەشنووسی ڕاپرسییەکەت بە ڕاپرسییە پێشنیارکراوەکە دەگۆڕدرێت."
     },
     "pulse admin_pulse_saving_keeps_place": {
       "comment": "Shown in Pulse Admin while the editor changes a published item: saving the changes does not move the item in the live match commentary.",
       "english": "Saving keeps the item in its place in the feed",
-      "value": "پاشەکەوتکردن لە شوێنی خۆی لە فییددا دەمێنێتەوە"
+      "value": "پاشەکەوتکردن، بابەتەکە لە شوێنی خۆی لە بێژەریدا دەهێڵێتەوە."
     },
     "pulse admin_pulse_search_results": {
       "comment": "Heading above the team search results in Pulse Admin.",
@@ -10571,12 +10571,12 @@
     "pulse admin_pulse_ticker_language": {
       "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on.",
       "english": "Commentary language",
-      "value": "زمانی کۆمێنتاری ڕاستەوخۆ"
+      "value": "زمانی بێژەری ڕاستەوخۆ"
     },
     "pulse admin_pulse_ticker_language_selected": {
       "comment": "Screen reader label for the dropdown in Pulse Admin where the editor picks which language's live commentary to work on. %@ is the selected language, e.g. \"Commentary language: English\".",
       "english": "Commentary language: %@",
-      "value": "زمانەوانی ڕاپۆرتی ڕاستەوخۆ: %@"
+      "value": "زمانی بێژەری ڕاستەوخۆ: %@"
     },
     "pulse admin_pulse_title_missing": {
       "comment": "Error shown at the top of the item preview in Pulse Admin when the title field has been left empty. See title_label.",
@@ -10611,7 +10611,7 @@
     "pulse admin_search_for_team": {
       "comment": "Placeholder and screen reader label of a search field in Pulse Admin for finding a team to use as an answer option in a poll.",
       "english": "Search for team",
-      "value": "گەڕان بەدوای تیم"
+      "value": "گەڕان بۆ یانە"
     },
     "pulse admin_search_images": {
       "comment": "Placeholder and screen reader label of the search field for finding press photos from the photo agency IMAGO in Pulse Admin.",
@@ -10636,12 +10636,12 @@
     "pulse admin_stat_gfx_top_3_players": {
       "comment": "Option in Pulse Admin for a stat graphic that shows the three best players in the match for one stat. Shown next to the options \"Team\" and \"Player\".",
       "english": "Top 3 players",
-      "value": "سێ یاریزانی باشترین"
+      "value": "باشترین 3 یاریزان"
     },
     "pulse admin_stat_gfx_waiting_for_preview": {
       "comment": "Tooltip on the disabled Publish button in Pulse Admin while the stat graphic image is still loading.",
       "english": "Waiting for the preview to load",
-      "value": "چاوەڕێی بارکردنی پێشبینینەکە"
+      "value": "چاوەڕێی بارکردنی بینینی پێشوەختە"
     },
     "pulse admin_stat_type_label": {
       "comment": "Label of the field in Pulse Admin where the editor picks which stat a stat graphic shows, e.g. \"Expected goals (xG)\" or \"Shots on target\". See deep_stats_teams. See deep_stats_players.",
@@ -10661,7 +10661,7 @@
     "pulse admin_take_team_color": {
       "comment": "Label of a field in Pulse Admin for an expert take, where the editor picks the team color of the take: one of the two teams in the match, or neutral. Followed by the team choices.",
       "english": "Team color",
-      "value": "ڕەنگی تیم"
+      "value": "ڕەنگی یانە"
     },
     "pulse admin_take_type_expert": {
       "comment": "Option in Pulse Admin for who a take is from. A take is a short opinion quote shown in the live match commentary. This option is a take from a named expert or pundit. The other option is \"Fan\".",
@@ -10671,7 +10671,7 @@
     "pulse admin_take_type_fan": {
       "comment": "Option in Pulse Admin for who a take is from. A take is a short opinion quote shown in the live match commentary. This option is a take from a football fan. The other option is \"Expert\".",
       "english": "Fan",
-      "value": "هوادار"
+      "value": "هەوادار"
     },
     "pulse admin_take_type_label": {
       "comment": "Screen reader label for the choice in Pulse Admin between an expert take and a fan take. A take is a short opinion quote shown in the live match commentary. Do not translate the Take part.",
@@ -10681,7 +10681,7 @@
     "pulse admin_team_search_no_results": {
       "comment": "Shown in the team search in Pulse Admin when the search found no teams.",
       "english": "Could not find the team you searched for.",
-      "value": "نەتوانرا تیمەکەی بەدوایدا گەڕایت بدۆزرێتەوە."
+      "value": "نەتوانرا ئەو یانەیەی بەدوایدا دەگەڕێیت بدۆزرێتەوە."
     },
     "pulse admin_turn_off": {
       "comment": "Button in Pulse Admin that turns off Pulse for the selected match. See turn_on.",
@@ -10701,7 +10701,7 @@
     "pulse admin_view_full_screen": {
       "comment": "Screen reader label of a photo thumbnail in Pulse Admin that opens the photo in full screen. %@ is the photo caption.",
       "english": "View full screen: %@",
-      "value": "پیشاندان بە تەواوی شاشە: %@"
+      "value": "پیشاندان بە پڕ شاشە: %@"
     },
     "pulse admin_x_images": {
       "comment": "Screen reader status in Pulse Admin telling how many photos the IMAGO photo search found, e.g. \"24 images\".",
@@ -13581,7 +13581,7 @@
     "seo_thank_you_for_your_feedback": {
       "comment": "Used for confirmation toast in troubleshooting mail.",
       "english": "Thank you for your feedback!",
-      "value": "سوپاس بۆ فیدباکەکەت!"
+      "value": "سوپاس بۆ ڕاوبۆچوونت!"
     },
     "seo_thanks_for_support": {
       "comment": "Thank you note to old FotMob Supporters Club members. Used in more tab. \"%@\" is a year, i.e. 2024",
@@ -14161,14 +14161,14 @@
         "other": "has played %d more games"
       },
       "plurals": {
-        "one": "%d یاری زیاتر",
-        "other": "%d یاری زیاتر"
+        "one": "%d یاری زیاتری کردووە",
+        "other": "%d یاری زیاتری کردووە"
       }
     },
     "table position graph_position_graph_provisional": {
       "comment": "In the table position graph: label on the last point when the position can still change, because the round isn't finished. Keep it short.",
       "english": "Provisional",
-      "value": "کاتی"
+      "value": "ڕیزبەندی کاتی"
     },
     "transfer center_active_filter_age_range": {
       "comment": "Label of an active filter chip in the Transfer Center for the player age filter. %1$d is the minimum and %2$d the maximum age in years, e.g. \"Age 18 – 23\". Keep it short.",
@@ -14399,27 +14399,27 @@
     "turnstile_turnstile_click_body": {
       "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. One line under the title; the checkbox is right below it.",
       "english": "Tick the box below to continue to FotMob.",
-      "value": "بۆ بەردەوامبوون بۆ FotMob، خانەکەی خوارەوە تیک بکە."
+      "value": "بۆ بەردەوامبوون لەسەر FotMob، خانەکەی خوارەوە دیاری بکە."
     },
     "turnstile_turnstile_click_title": {
       "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Card title when the visitor must tick the Cloudflare checkbox.",
       "english": "Confirm you're human",
-      "value": "دڵنیا بکەوە کە تۆ مرۆڤیت"
+      "value": "بیسەلمێنە کە تۆ مرۆڤیت"
     },
     "turnstile_turnstile_failed_body": {
       "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. One line under the failure title.",
       "english": "The check didn't load. This can happen on slow or filtered networks.",
-      "value": "پشکنینەکە بارنەبوو. ئەمە لە تۆڕی خاو یان پاڵێودراودا ڕوودەدات."
+      "value": "پشکنینەکە بارنەبوو. ئەمە لە کاتی خاوی یان کێشەی هێڵی ئینتەرنێتدا ڕوودەدات."
     },
     "turnstile_turnstile_failed_title": {
       "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Card title when the check failed to load.",
       "english": "We couldn't check your browser",
-      "value": "نەمانتوانی وێبگەڕەکەت پشکنین بکەین"
+      "value": "نەمانتوانی وێبگەڕەکەت بپشکنین"
     },
     "turnstile_turnstile_retry": {
       "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Button that retries the check. Short.",
       "english": "Try again",
-      "value": "دووبارە هەوڵ بدە"
+      "value": "دووبارە هەوڵ بدەوە"
     },
     "turnstile_turnstile_why": {
       "comment": "Web anti-bot check (Cloudflare Turnstile). Full-screen card shown before the site loads for visitors from some countries, and as an overlay when the check needs a click. Small link in the card footer that leads to the privacy page.",
