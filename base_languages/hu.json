@@ -10171,6 +10171,11 @@
         "other": "%d+ passz"
       }
     },
+    "pass map_pass_map_minutes_played": {
+      "comment": "Minutes the selected player has played, shown with their name in the pass network header.",
+      "english": "%d min played",
+      "value": "%d perc játék"
+    },
     "pass map_pass_map_most_common_pass": {
       "comment": "Label for the two players who passed to each other most often in the pass network, shown as a row in the list of insights under the pitch, followed by the two names. Keep it short.",
       "english": "Most common pass",
