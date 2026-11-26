@@ -2427,6 +2427,11 @@
       "english": "Touches in opposition box",
       "value": "상대편 박스 내에서의 터치"
     },
+    "accessibility_touches_opp_box_per_90": {
+      "comment": "Title of the league stats list ranking players by touches in the opposition box per 90 minutes",
+      "english": "Touches in opposition box per 90",
+      "value": "90분당 상대편 박스 내에서의 터치"
+    },
     "accessibility_tr_afcccup": {
       "comment": "Name of tournament",
       "english": "AFC Champions League Two",
