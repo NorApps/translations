@@ -10256,7 +10256,7 @@
     "player injuries_player_injury_career_occurrence": {
       "comment": "Under the player's current injury, after its start date: how many times the player has had this injury in their career, counting this one. %@ is an ordinal number already formatted for your language by the app (e.g. \"9th\" in English, \"9.\" in German, \"9e\" in French), so write the phrase around it and do not add an ordinal ending yourself.",
       "english": "%@ in career",
-      "value": "جاری %@ لە ژیانی وەرزشیدا"
+      "value": "%@ جار لە ژیانی وەرزشیدا"
     },
     "player injuries_player_injury_current": {
       "comment": "Read out by screen readers on the injury the player is out with right now, in the list of a season's injuries.",
@@ -10271,12 +10271,12 @@
     "player injuries_player_injury_latest_seasons": {
       "comment": "Header above the player's most recent seasons in the Injuries card on the player profile.",
       "english": "Latest seasons",
-      "value": "دوایین وەرزەکان"
+      "value": "دواین وەرزەکان"
     },
     "player injuries_player_injury_matches_missed": {
       "comment": "Column header in the player's injury list. Each season row shows how many matches the player missed through injury out of the team's matches that season, e.g. \"7 of 18\". Keep it short. \"Missed\" means absent through injury, not lost.",
       "english": "Matches missed",
-      "value": "یارییە لەدەستدراوەکان"
+      "value": "یارییە لەدەستچووەکان"
     },
     "player injuries_player_injury_most_common": {
       "comment": "Label above the injury the player has had most often in their career, in the injury history sheet. Refers to an injury.",
@@ -10297,7 +10297,7 @@
     "player injuries_state_collapsed": {
       "comment": "Read out by screen readers on a row that is closed and hiding its details. See \"state_expanded\". A state, not an action.",
       "english": "Collapsed",
-      "value": "بچووککراوەتەوە"
+      "value": "کۆکراوەتەوە"
     },
     "player injuries_state_expanded": {
       "comment": "Read out by screen readers on a row that is open and showing its details. See \"state_collapsed\". A state, not an action.",
