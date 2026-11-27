@@ -10089,7 +10089,7 @@
     "notifications_x_of_y": {
       "comment": "Used to express showing \"1 of 30\" elements",
       "english": "%1$@ of %2$@",
-      "value": "%1$@ में से %2$@"
+      "value": "%2$@ में से %1$@"
     },
     "notifications_yellow_card": {
       "english": "Yellow card",
