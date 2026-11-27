@@ -7643,6 +7643,11 @@
       "english": "Match with limited coverage",
       "value": "情報が限られた試合"
     },
+    "new_match_on_tv": {
+      "comment": "VoiceOver text read on a match row in the matches list when the TV icon shows, meaning the match is shown on TV.",
+      "english": "Match on TV",
+      "value": "テレビ放送あり"
+    },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
       "english": "Match reminder",

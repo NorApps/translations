@@ -6006,6 +6006,10 @@
       "comment": "Explains the clock icon shown in the match list and match header for a match with limited coverage: no live score, minute or events, only the final result some time after full time. Shown in a snackbar and read out by screen readers.",
       "value": "Match with limited coverage"
     },
+    "new_match_on_tv": {
+      "comment": "VoiceOver text read on a match row in the matches list when the TV icon shows, meaning the match is shown on TV.",
+      "value": "Match on TV"
+    },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
       "value": "Match reminder"

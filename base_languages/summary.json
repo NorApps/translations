@@ -1,5 +1,5 @@
 {
-  "total_keys": 3001,
+  "total_keys": 3002,
   "languages": [
     "en",
     "ar",
@@ -39,178 +39,178 @@
   ],
   "coverage": {
     "en": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "ar": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "ckb": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "da": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "de": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "el": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "es": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "es-419": {
       "translated": 299,
-      "total": 3001,
+      "total": 3002,
       "percentage": 9.96
     },
     "fa": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "fi": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "fr": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "hi": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "id": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "it": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "ja": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "ko": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "my": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "nb": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "nl": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "pl": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "pt-BR": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "pt-PT": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "ro": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "ru": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "sv": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "sw": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "th": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "tr": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "uk": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "vi": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "zh-Hans": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "en-GB": {
       "translated": 715,
-      "total": 3001,
-      "percentage": 23.83
+      "total": 3002,
+      "percentage": 23.82
     },
     "bg": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "cs": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     },
     "hu": {
-      "translated": 3001,
-      "total": 3001,
+      "translated": 3002,
+      "total": 3002,
       "percentage": 100.0
     }
   }

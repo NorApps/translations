@@ -7704,6 +7704,11 @@
       "english": "Match with limited coverage",
       "value": "Mecz z ograniczonymi danymi"
     },
+    "new_match_on_tv": {
+      "comment": "VoiceOver text read on a match row in the matches list when the TV icon shows, meaning the match is shown on TV.",
+      "english": "Match on TV",
+      "value": "Transmisja w TV"
+    },
     "new_match_reminder": {
       "comment": "Indicates that the user wants a reminder before the game starts",
       "english": "Match reminder",
